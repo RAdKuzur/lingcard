@@ -1,5 +1,6 @@
 import {useState} from "react";
 import Word from "../layouts/Word.jsx";
+import ButtonBack from "../layouts/ButtonBack.jsx";
 
 export default function Progress() {
     const [isHover1, setHover1] = useState(true)
@@ -25,18 +26,25 @@ export default function Progress() {
     return (
         <main className="flex h-screen bg-gray-200 justify-center">
             <div className="flex flex-col w-full h-full items-center">
-                <div className="flex w-2/5 h-1/24 rounded-2xl text-center bg-white mt-8 justify-between items-center">
-                    <div
-                        className={`flex h-4/5 w-3/10 cursor-pointer bg-red-100 rounded-2xl ml-3 text-center justify-center items-center ${isHover1 ? 'bg-red-300' : ''}`}
-                        onClick={() => hover1()}>Новые слова
+                <div className={'flex w-4/5 h-1/18 mt-8'}>
+                    <div className={'flex w-1/10 h-full'}>
+                        <ButtonBack></ButtonBack>
                     </div>
-                    <div
-                        className={`flex h-4/5 w-3/10 cursor-pointer bg-yellow-100 rounded-2xl text-center justify-center items-center ${isHover2 ? 'bg-yellow-300' : ''}`}
-                        onClick={() => hover2()}>Выученные слова
+                    <div className={'w-1/5 h-full'}>
                     </div>
-                    <div
-                        className={`flex h-4/5 w-3/10 cursor-pointer bg-green-100 rounded-2xl mr-3 text-center justify-center items-center ${isHover3 ? 'bg-green-300' : ''}`}
-                        onClick={() => hover3()}>Изученные
+                    <div className="flex w-2/5 h-full rounded-2xl text-center bg-white justify-between items-center">
+                        <div
+                            className={`flex h-4/5 w-3/10 cursor-pointer bg-red-100 rounded-2xl ml-3 text-center justify-center items-center ${isHover1 ? 'bg-red-300' : ''}`}
+                            onClick={() => hover1()}>Новые слова
+                        </div>
+                        <div
+                            className={`flex h-4/5 w-3/10 cursor-pointer bg-yellow-100 rounded-2xl text-center justify-center items-center ${isHover2 ? 'bg-yellow-300' : ''}`}
+                            onClick={() => hover2()}>Выученные слова
+                        </div>
+                        <div
+                            className={`flex h-4/5 w-3/10 cursor-pointer bg-green-100 rounded-2xl mr-3 text-center justify-center items-center ${isHover3 ? 'bg-green-300' : ''}`}
+                            onClick={() => hover3()}>Изученные
+                        </div>
                     </div>
                 </div>
                 <div className={`flex flex-col w-4/5 h-4/5 rounded-2xl text-center bg-white mt-8 ${isHover1 ? '' : 'hidden'}`}>

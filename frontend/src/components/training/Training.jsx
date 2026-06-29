@@ -1,4 +1,5 @@
 import {useState} from "react";
+import ButtonBack from "../layouts/ButtonBack.jsx";
 
 export default function Training() {
     const [word, setWord] = useState(true)
@@ -30,7 +31,10 @@ export default function Training() {
 
 
     return (
-        <main className="flex flex-1 bg-gray-200 items-center justify-center">
+        <main className="flex flex-1 flex-col bg-gray-200 items-center justify-center">
+            <div className={'m-4'}>
+                <ButtonBack></ButtonBack>
+            </div>
             <div className={`flex flex-col w-96 h-96 bg-white rounded-2xl duration-1000 
                 ${direction === 'right' ? 'origin-bottom-right rotate-20' : ''}
                 ${direction === 'left' ? 'origin-bottom-left -rotate-20' : ''}

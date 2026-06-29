@@ -1,38 +1,92 @@
 import SelectLanguage from "../layouts/SelectLanguage.jsx";
+import {useState} from "react";
+import ButtonBack from "../layouts/ButtonBack.jsx";
 
 export default function Profile() {
+    const [isHover1, setHover1] = useState(false)
+    const [isHover2, setHover2] = useState(false)
+
+
     return (
         <main className="flex h-screen bg-gray-200 justify-center">
             <div className="flex flex-col w-full h-full items-center">
-                <div className="flex flex-col w-2/5 h-1/16 rounded-2xl text-center bg-white mt-8">
-                    <div className={'flex h-1/3 w-full pt-2'}>
-                        <div className={'w-2/5 h-full ml-3 text-start'}>
-                            Базовый язык
-                        </div>
-                        <div className={'w-2/5 h-full text-start'}>
-                            Язык изучения
-                        </div>
+                <div className="flex w-4/5 h-1/12 rounded-2xl text-center mt-8 pb-2 gap-5  items-center">
+                    <div className={'flex flex-col mt-8 items-center'}>
+                        <ButtonBack></ButtonBack>
                     </div>
-                    <div className={'flex h-2/3 w-full gap-3 justify-start items-center'}>
-                        <div className={'w-2/5 h-4/5 ml-3'}>
-                            <SelectLanguage/>
+                    <div className={'flex flex-col mt-8 w-1/5 h-full'}>
+
+                    </div>
+                    <div className="flex flex-col w-2/5 h-full rounded-2xl text-center bg-white mt-8 pb-2">
+                        <div className={'flex h-1/3 w-full pt-2 mb-2'}>
+                            <div className={'w-2/5 h-full ml-3 text-start'}>
+                                Базовый язык
+                            </div>
+                            <div className={'w-2/5 h-full text-start'}>
+                                Язык изучения
+                            </div>
                         </div>
-                        <div className={'w-2/5 h-4/5'}>
-                            <SelectLanguage/>
-                        </div>
-                        <div className={'mr-3 w-1/5'}>
-                            <button className={'p-2 w-full bg-green-400 font-bold text-white rounded-2xl cursor-pointer'}>
-                                Найти
-                            </button>
+                        <div className={'flex h-2/3 w-full gap-3 justify-start items-center'}>
+                            <div className={'w-2/5 h-4/5 ml-3'}>
+                                <SelectLanguage/>
+                            </div>
+                            <div className={'w-2/5 h-4/5'}>
+                                <SelectLanguage/>
+                            </div>
+                            <div className={'mr-3 w-1/5'}>
+                                <button
+                                    className={'p-2 w-full bg-green-400 font-bold text-white rounded-2xl cursor-pointer'}>
+                                    Найти
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div className={`flex flex-col w-4/5 h-3/5 rounded-2xl text-center bg-white mt-8`}>
                     <div className={'font-bold m-3 h-1/20'}>Статистика</div>
                     <div className={`flex flex-col h-14/15 gap-4 justify-center items-center`}>
-                        <div className={'w-9/10 h-3/10 border rounded-2xl'}></div>
-                        <div className={'w-9/10 h-3/10 border rounded-2xl'}></div>
-                        <div className={'w-9/10 h-3/10 border rounded-2xl'}></div>
+                        <div className={'flex w-9/10 h-3/10 border rounded-2xl justify-between items-center'}>
+                            <div className={"flex w-3/10 h-5/10 ml-5 items-center"}>
+                                <div className={"text-2xl"}>Выучено слов</div>
+                            </div>
+
+                            <div className={"flex w-1/10 h-5/10 ml-5 items-center bg-green-400 mr-10 rounded-2xl items-center justify-center"}>
+                                <div className={"flex text-2xl text-white font-bold text-center"}>100</div>
+                            </div>
+                        </div>
+                        <div className={'flex w-9/10 h-3/10 border rounded-2xl justify-between items-center'}>
+                            <div className={"flex w-3/10 h-5/10 ml-5 items-center"}>
+                                <div className={"text-2xl"}>Слов изучается</div>
+                            </div>
+                            <div className={"flex w-1/10 h-5/10 ml-5 items-center bg-blue-400 mr-10 rounded-2xl items-center justify-center"}>
+                                <div className={"flex text-2xl text-white font-bold text-center"}>50</div>
+                            </div>
+                        </div>
+                        <div className={'flex w-9/10 h-3/10 border rounded-2xl justify-between items-center'}>
+                            <div className={"flex w-3/10 h-5/10 ml-5 items-center"}>
+                                <div className={"text-2xl"}>Ещё не изучено</div>
+                            </div>
+                            <div
+                                className={"flex w-1/10 h-5/10 ml-5 items-center bg-red-400 mr-10 rounded-2xl items-center justify-center"}>
+                                <div className={"flex text-2xl text-white font-bold text-center"}>10 000</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className={`flex h-1/16 w-2/5 bg-white mt-5 rounded-2xl border justify-center gap-8 items-center`}>
+                    <div className={`flex w-3/10 h-6/10 border border-red-500 rounded-2xl items-center justify-center cursor-pointer ${isHover1 ? 'bg-red-500' : ''}`}
+                        onMouseLeave={() => setHover1(false)}
+                        onMouseEnter={() => setHover1(true)}>
+                        <div className={"font-bold"}>
+                            Выйти
+                        </div>
+                    </div>
+                    <div className={`flex w-3/10 h-6/10 rounded-2xl items-center justify-center bg-red-500 cursor-pointer ${isHover2 ? 'bg-red-700' : ''}`}
+                         onMouseLeave={() => setHover2(false)}
+                         onMouseEnter={() => setHover2(true)}>
+                        <div className={"text-white font-bold"}>
+                            Сбросить прогресс
+                        </div>
                     </div>
                 </div>
             </div>

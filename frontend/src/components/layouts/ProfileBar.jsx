@@ -1,6 +1,9 @@
-export default function ProfileBar() {
-    function goProfile() {
+import {useNavigate} from "react-router-dom";
 
+export default function ProfileBar() {
+    const navigate = useNavigate()
+    function goProfile() {
+        navigate('/profile')
     }
     return(
         <div className={'flex items-center w-1/10 bg-blue-400 mr-5 h-3/5 rounded-2xl cursor-pointer'} onClick={goProfile}>
