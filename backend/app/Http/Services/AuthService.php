@@ -11,15 +11,10 @@ class AuthService
         if (Auth::attempt($loginDTO->toArray())) {
             request()->session()->regenerate();
         }
-        else {
-            dd('WTF!!!');
-        }
     }
 
     public function logout(Request $request) {
         if (Auth::check()) {
-            dd(Auth::user());
-            Auth::logout();
             $request->session()->invalidate();
             $request->session()->regenerateToken();
         }
