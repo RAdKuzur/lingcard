@@ -1,9 +1,12 @@
 import {useState} from "react";
+import {loginAxios as loginAxios } from "../../plugins/auth.js";
 
 export default function Login() {
     const [isHover, setHover] = useState(false);
-    function login() {
-
+    const [email, setEmail] = useState('')
+    const [password, setPassword] = useState('')
+    function signIn() {
+        loginAxios(email, password)
     }
     return (
         <main className="flex flex-1 bg-gray-200 items-center justify-center">
@@ -14,16 +17,16 @@ export default function Login() {
                 <div>
                     <div className={'h-1/4 m-3'}>
                         <div className={"m-1"}>Эл. почта</div>
-                        <input className={'rounded-2xl p-2 w-2/5 border'} placeholder="e-mail"/>
+                        <input className={'rounded-2xl p-2 w-2/5 border'} placeholder="e-mail" onInput={(e) => setEmail(e.target.value)}/>
                     </div>
                     <div className={'h-1/4 m-3'}>
                         <div className={"m-1"}>Пароль</div>
-                        <input className={'rounded-2xl p-2 w-2/5 border'} placeholder="password" type="password"/>
+                        <input className={'rounded-2xl p-2 w-2/5 border'} placeholder="password" type="password" onInput={(e) => setPassword(e.target.value)}/>
                     </div>
                 </div>
                 <div className={'h-1/6 mb-3'}>
                     <button className={`p-2 bg-green-400 text-white font-bold rounded-2xl w-1/5 cursor-pointer ${isHover ? 'bg-green-600' : ''}` }
-                            onClick={login}
+                            onClick={signIn}
                             onMouseEnter={() => setHover(true)}
                             onMouseLeave={() => setHover(false)}
                     >
