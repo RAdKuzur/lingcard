@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Dictionaries\RoleDictionary;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
@@ -19,6 +20,9 @@ class UserSeeder extends Seeder
             'email' => 'admin@admin.com',
             'password' => Hash::make('password'),
             'name' => 'Admin',
+            'base_language_id' => 2,
+            'target_language_id' => 1,
+            'role' => RoleDictionary::ADMIN,
         ]);
     }
 }
