@@ -1,11 +1,12 @@
 <?php
 
-namespace App\Http\Services;
+namespace App\Services;
 
-use App\Http\DTO\AuthUserDTO;
-use App\Http\DTO\LoginDTO;
-use Illuminate\Support\Facades\Auth;
+use App\DTO\AuthUserDTO;
+use App\DTO\LoginDTO;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+
 class AuthService
 {
     public function login(LoginDTO $loginDTO) : bool {

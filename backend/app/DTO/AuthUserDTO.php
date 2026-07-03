@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\DTO;
+namespace App\DTO;
 
 class AuthUserDTO implements BaseDTO
 {
@@ -14,7 +14,7 @@ class AuthUserDTO implements BaseDTO
         $this->role = $role;
         $this->username = $username;
     }
-    public function toArray() {
+    public function toArray() : array {
         return [
             'role' => $this->role,
             'username' => $this->username

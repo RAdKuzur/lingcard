@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\DTO;
+namespace App\DTO;
 
 class LoginDTO implements BaseDTO
 {
@@ -14,7 +14,7 @@ class LoginDTO implements BaseDTO
         $this->email = $email;
         $this->password = $password;
     }
-    public function toArray() {
+    public function toArray() : array {
         return [
             'email' => $this->email,
             'password' => $this->password
