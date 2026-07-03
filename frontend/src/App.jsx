@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import {useEffect, useState} from 'react'
 import './App.css'
 import Navbar from "./components/layouts/Navbar.jsx";
 import Footer from "./components/layouts/Footer.jsx";
@@ -12,16 +12,26 @@ import Progress from "./components/progress/Progress.jsx";
 import Profile from "./components/profile/Profile.jsx";
 
 function App() {
+    const [isAuth, setAuth] = useState(false);
+
+    useEffect(() => {
+        if (localStorage.getItem('username') !== null && localStorage.getItem('role') !== null) {
+            setAuth(true)
+        }
+        else {
+            setAuth(false)
+        }
+    })
     return (
         <div className="flex flex-col min-h-screen">
-            <Navbar/>
+            <Navbar isAuth={isAuth}/>
                 <Routes>
-                    <Route path={innerRoutes.login} element={<Login/>}/>
+                    <Route path={innerRoutes.login} element={<Login setAuth={setAuth}/>}/>
                     <Route path={innerRoutes.home} element={<Home/>}/>
                     <Route path={innerRoutes.training} element={<Training/>}/>
                     <Route path={innerRoutes.progress} element={<Progress/>}/>
                     <Route path={innerRoutes.dictionary} element={<Dictionary/>}/>
-                    <Route path={innerRoutes.profile} element={<Profile/>}/>
+                    <Route path={innerRoutes.profile} element={<Profile setAuth={setAuth}/>}/>
                 </Routes>
             <Footer/>
         </div>

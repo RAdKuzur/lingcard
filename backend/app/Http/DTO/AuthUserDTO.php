@@ -16,8 +16,8 @@ class AuthUserDTO implements BaseDTO
     }
     public function toArray() {
         return [
-            'email' => $this->role,
-            'password' => $this->username
+            'role' => $this->role,
+            'username' => $this->username
         ];
     }
 }

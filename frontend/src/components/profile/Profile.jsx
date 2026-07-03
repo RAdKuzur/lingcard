@@ -1,11 +1,19 @@
 import SelectLanguage from "../layouts/SelectLanguage.jsx";
 import {useState} from "react";
 import ButtonBack from "../layouts/ButtonBack.jsx";
+import {logoutAxios} from "../../plugins/auth.js";
+import {useNavigate} from "react-router-dom";
+import {innerRoutes} from "../../plugins/routes.js";
 
-export default function Profile() {
+export default function Profile({setAuth}) {
+    const navigate = useNavigate()
     const [isHover1, setHover1] = useState(false)
     const [isHover2, setHover2] = useState(false)
 
+    function logout() {
+        logoutAxios(setAuth)
+        navigate(innerRoutes.login)
+    }
 
     return (
         <main className="flex h-screen bg-gray-200 justify-center">
@@ -76,7 +84,8 @@ export default function Profile() {
                 <div className={`flex h-1/16 w-2/5 bg-white mt-5 rounded-2xl border justify-center gap-8 items-center`}>
                     <div className={`flex w-3/10 h-6/10 border border-red-500 rounded-2xl items-center justify-center cursor-pointer ${isHover1 ? 'bg-red-500' : ''}`}
                         onMouseLeave={() => setHover1(false)}
-                        onMouseEnter={() => setHover1(true)}>
+                        onMouseEnter={() => setHover1(true)}
+                    onClick={logout}>
                         <div className={"font-bold"}>
                             Выйти
                         </div>

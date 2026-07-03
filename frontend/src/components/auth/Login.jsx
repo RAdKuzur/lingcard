@@ -1,12 +1,16 @@
 import {useState} from "react";
 import {loginAxios as loginAxios } from "../../plugins/auth.js";
+import {useNavigate} from "react-router-dom";
+import {innerRoutes} from "../../plugins/routes.js";
 
-export default function Login() {
+export default function Login({setAuth}) {
+    const navigate = useNavigate()
     const [isHover, setHover] = useState(false);
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
     function signIn() {
-        loginAxios(email, password)
+        loginAxios(email, password, setAuth)
+        navigate(innerRoutes.home)
     }
     return (
         <main className="flex flex-1 bg-gray-200 items-center justify-center">
