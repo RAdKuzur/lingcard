@@ -29,7 +29,6 @@ export async function loginAxios(email, password, setAuth) {
 export async function logoutAxios(setAuth) {
     const responseToken = await axios.get(apiRoutes.csrf, { withCredentials: true });
     const csrfToken = Cookies.get('XSRF-TOKEN')
-    console.log(csrfToken)
     const response = await axios.post(
         apiRoutes.logout,
         null,

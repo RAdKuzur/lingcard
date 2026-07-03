@@ -2,5 +2,6 @@ export const apiUrl = 'http://localhost:8000/api';
 export const apiRoutes = {
     csrf: apiUrl + '/csrf-cookie',
     login: apiUrl + '/login',
-    logout: apiUrl + '/logout'
+    logout: apiUrl + '/logout',
+    languages: apiUrl + '/languages'
 }
