@@ -37,10 +37,10 @@ export default function Dictionary() {
                         </div>
                         <div className={'flex h-2/3 w-full gap-3 justify-start items-center'}>
                             <div className={'w-2/5 h-4/5 ml-3'}>
-                                <SelectLanguage setLang={setLang1}/>
+                                <SelectLanguage setLang={setLang1} value={lang1}/>
                             </div>
                             <div className={'w-2/5 h-4/5'}>
-                                <SelectLanguage setLang={setLang2}/>
+                                <SelectLanguage setLang={setLang2} value={lang2}/>
                             </div>
                             <div className={'mr-3 w-1/5'}>
                                 <button onClick={handleSearch}

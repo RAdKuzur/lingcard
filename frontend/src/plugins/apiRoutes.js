@@ -4,7 +4,8 @@ export const apiRoutes = {
     login: apiUrl + '/login',
     logout: apiUrl + '/logout',
     refresh: apiUrl + '/refresh',
-    languages: apiUrl + '/languages'
+    languages: apiUrl + '/languages',
+    profile: apiUrl + '/profile'
 }
 
 export function apiDictionary(baseLangId, targetLangId) {

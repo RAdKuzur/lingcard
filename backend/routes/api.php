@@ -19,6 +19,7 @@ Route::group(['middleware' => AuthMiddleware::class], function () {
     Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
 
     Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
+    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
     Route::get('/training', [TrainingController::class, 'newWord'])->name('new-word');
     Route::patch('/training', [TrainingController::class, 'repeatWord'])->name('repeat-word');
 

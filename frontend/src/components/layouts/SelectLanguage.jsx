@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import { get } from "./../../plugins/request.js";
 
-export default function SelectLanguage({setLang}) {
+export default function SelectLanguage({setLang, value = 0}) {
     const [languages, setLanguages] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -38,12 +38,13 @@ export default function SelectLanguage({setLang}) {
         </select>;
     }
     return (
-        <select className="w-full border rounded-2xl h-full" onChange={(e)=>setLang(e.target.value)}>
+        <select className="w-full border rounded-2xl h-full" value={value}
+                onChange={(e)=>setLang(e.target.value)}>
             {languages.length === 0 ? (
                 <option>Нет доступных языков</option>
             ) : (
                 <>
-                    <option value={0}>Выберите язык...</option>
+                    <option key={0} value={0}>Выберите язык...</option>
                     {languages.map(lang => (
                         <option key={lang.id} value={lang.id}>
                             {lang.name}

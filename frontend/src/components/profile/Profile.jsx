@@ -1,19 +1,36 @@
 import SelectLanguage from "../layouts/SelectLanguage.jsx";
-import {useState} from "react";
+import {useEffect, useState} from "react";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import {logoutAxios} from "../../plugins/auth.js";
 import {useNavigate} from "react-router-dom";
 import {innerRoutes} from "../../plugins/routes.js";
+import { get } from "./../../plugins/request.js";
+import {apiRoutes} from "../../plugins/apiRoutes.js";
 
 export default function Profile({setAuth}) {
     const navigate = useNavigate()
     const [isHover1, setHover1] = useState(false)
     const [isHover2, setHover2] = useState(false)
-
+    const [baseLang, setBaseLang] = useState(0)
+    const [targetLang, setTargetLang] = useState(0)
     function logout() {
         logoutAxios(setAuth)
         navigate(innerRoutes.login)
     }
+
+    useEffect(() => {
+        const fetchProfile = async () => {
+            try {
+                const response = await get(apiRoutes.profile, {withCredentials: true});
+                const data = response.data;
+                setTargetLang(data.target_language_id)
+                setBaseLang(data.base_language_id)
+            } catch (error) {
+                console.error('Error fetching profile:', error);
+            }
+        };
+        fetchProfile();
+    }, []);
 
     return (
         <main className="flex h-screen bg-gray-200 justify-center">
@@ -36,15 +53,15 @@ export default function Profile({setAuth}) {
                         </div>
                         <div className={'flex h-2/3 w-full gap-3 justify-start items-center'}>
                             <div className={'w-2/5 h-4/5 ml-3'}>
-                                <SelectLanguage/>
+                                <SelectLanguage setLang={setBaseLang} value={baseLang}/>
                             </div>
                             <div className={'w-2/5 h-4/5'}>
-                                <SelectLanguage/>
+                                <SelectLanguage setLang={setTargetLang} value={targetLang}/>
                             </div>
                             <div className={'mr-3 w-1/5'}>
                                 <button
                                     className={'p-2 w-full bg-green-400 font-bold text-white rounded-2xl cursor-pointer'}>
-                                    Найти
+                                    Изменить
                                 </button>
                             </div>
                         </div>
