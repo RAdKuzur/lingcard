@@ -1,12 +1,7 @@
 import axios from "axios";
 import {apiRoutes} from "./apiRoutes.js";
-import Cookies from 'js-cookie';
-import {use} from "react";
-import {useNavigate} from "react-router-dom";
-import {innerRoutes} from "./routes.js";
+import {post} from "./request.js";
 export async function loginAxios(email, password, setAuth) {
-    const responseToken = await axios.get(apiRoutes.csrf, { withCredentials: true });
-    const csrfToken = Cookies.get('XSRF-TOKEN')
     const response = await axios.post(
         apiRoutes.login,
         {
@@ -14,9 +9,6 @@ export async function loginAxios(email, password, setAuth) {
             password: password
         },
         {
-            headers: {
-                'X-XSRF-TOKEN': csrfToken
-            },
             withCredentials: true
         }
     );
@@ -27,15 +19,10 @@ export async function loginAxios(email, password, setAuth) {
 }
 
 export async function logoutAxios(setAuth) {
-    const responseToken = await axios.get(apiRoutes.csrf, { withCredentials: true });
-    const csrfToken = Cookies.get('XSRF-TOKEN')
-    const response = await axios.post(
+    const response = post(
         apiRoutes.logout,
         null,
         {
-            headers: {
-                'X-XSRF-TOKEN': csrfToken
-            },
             withCredentials: true
         }
     );

@@ -83,7 +83,7 @@ class AuthService
                 ])->fromUser($token->user);
 
                 $this->tokenRepository->createToken($newRefreshToken, $token->user->id);
-                $this->tokenRepository->delete($token->id);
+                //$this->tokenRepository->delete($token->id);
 
                 return [
                     'refresh_token' => $newRefreshToken,
