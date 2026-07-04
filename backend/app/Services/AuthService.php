@@ -48,9 +48,12 @@ class AuthService
     }
 
     public function logout(Request $request) {
-        $refreshToken = $request->header('refresh_token');
+        $refreshToken = $request->cookie('refresh_token');
         if ($refreshToken) {
             $token = $this->tokenRepository->getByRefreshToken($refreshToken);
+            if ($token) {
+                $this->tokenRepository->delete($token->id);
+            }
         }
     }
 
@@ -64,5 +67,30 @@ class AuthService
             role: RoleDictionary::get($user->role),
             username: $user->name,
         ))->toArray();
+    }
+    public function refresh($request)
+    {
+        $refreshToken = $request->cookie('refresh_token');
+        if ($refreshToken) {
+            $token = $this->tokenRepository->getByRefreshToken($refreshToken);
+            if ($token) {
+                $newRefreshToken = JWTAuth::claims([
+                    'time' => now()
+                ])->fromUser($token->user);
+                $accessToken = JWTAuth::claims([
+                    'username' => $token->user->name,
+                    'time' => now()
+                ])->fromUser($token->user);
+
+                $this->tokenRepository->createToken($newRefreshToken, $token->user->id);
+                $this->tokenRepository->delete($token->id);
+
+                return [
+                    'refresh_token' => $newRefreshToken,
+                    'access_token' => $accessToken,
+                ];
+            }
+        }
+        return false;
     }
 }

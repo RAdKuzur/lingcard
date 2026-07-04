@@ -58,8 +58,25 @@ class AuthController extends Controller
         );
     }
 
-    public function refresh()
+    public function refresh(Request $request)
     {
-
+        if ($tokens = $this->authService->refresh($request)) {
+            return response()->json([
+                'success' => true
+            ])
+            ->cookie(
+                'access_token',
+                $tokens['access_token'],
+                (int)env("ACCESS_TOKEN_TIME_EXPIRE"),
+            )
+            ->cookie(
+                'refresh_token',
+                $tokens['refresh_token'],
+                (int)env("REFRESH_TOKEN_TIME_EXPIRE"),
+            );
+        };
+        return response()->json([
+            'success' => false
+        ], 401);
     }
 }

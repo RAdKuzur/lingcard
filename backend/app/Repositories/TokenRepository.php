@@ -8,7 +8,7 @@ use Tymon\JWTAuth\Facades\JWTAuth;
 
 class TokenRepository
 {
-    public function getByRefreshToken($refreshToken) {
+    public function getByRefreshToken($refreshToken) : Token|null {
         return Token::where('refresh_token', $refreshToken)->first();
     }
 
@@ -28,5 +28,10 @@ class TokenRepository
 
     public function isValidToken($token){
 
+    }
+
+    public function delete($id)
+    {
+        return DB::table('tokens')->where('id', $id)->delete();
     }
 }

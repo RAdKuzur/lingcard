@@ -27,7 +27,8 @@ class AuthMiddleware
     public function handle(Request $request, Closure $next): Response
     {
         $accessToken = $request->cookie('access_token');
-        if($accessToken && $this->tokenRepository->isValidJwtToken($accessToken)) {
+        $refreshToken = $request->cookie('refresh_token');
+        if($refreshToken && $accessToken && $this->tokenRepository->isValidJwtToken($accessToken)) {
             return $next($request);
         }
         return response()->json([
