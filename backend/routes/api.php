@@ -2,14 +2,16 @@
 
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\LanguageController;
+use App\Http\Middleware\AuthMiddleware;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 
 
-Route::get('/sanctum/csrf-cookie', [AuthController::class, 'csrf']);
-Route::post('/login', [AuthController::class, 'login']);
-Route::post('/logout', [AuthController::class, 'logout'])->middleware('auth:sanctum');
+Route::post('/login', [AuthController::class, 'login'])->name('login');
 
-Route::get('/languages', [LanguageController::class, 'all'])->middleware('auth:sanctum');
+Route::group(['middleware' => AuthMiddleware::class], function () {
+    Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
+    Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
+});
 

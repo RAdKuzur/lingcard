@@ -16,20 +16,24 @@ class AuthController extends Controller
         $this->authService = $authService;
     }
 
-    public function csrf() {
-        return response()->json([
-            'Set CSRF Token'
-        ]);
-    }
     public function login(LoginRequest $request)
     {
-
-        if($this->authService->login($request->toDTO())) {
-            $user = $this->authService->getAuthUserDTO();
+        if($tokens = $this->authService->login($request->toDTO())) {
+            $user = $this->authService->getAuthUserDTO($request->toDTO());
             return response()->json([
                 'success' => true,
                 'user' => $user
-            ]);
+            ])
+            ->cookie(
+                'access_token',
+                $tokens['access_token'],
+                (int)env("ACCESS_TOKEN_TIME_EXPIRE"),
+            )
+            ->cookie(
+                'refresh_token',
+                $tokens['refresh_token'],
+                (int)env("REFRESH_TOKEN_TIME_EXPIRE"),
+            );
         }
         return response()->json([
             'success' => false
@@ -41,6 +45,21 @@ class AuthController extends Controller
         $this->authService->logout($request);
         return response()->json([
             'successful logout'
-        ]);
+        ])
+        ->cookie(
+            'access_token',
+            null,
+            0,
+        )
+        ->cookie(
+            'refresh_token',
+            null,
+            0,
+        );
+    }
+
+    public function refresh()
+    {
+
     }
 }
