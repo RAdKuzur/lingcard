@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import { get } from "./../../plugins/request.js";
 
-export default function SelectLanguage() {
+export default function SelectLanguage({setLang}) {
     const [languages, setLanguages] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -10,7 +10,6 @@ export default function SelectLanguage() {
     useEffect(() => {
         get(apiRoutes.languages, null, { withCredentials: true })
             .then(data => {
-                console.log('Получены языки:', data);
                 if (Array.isArray(data)) {
                     setLanguages(data);
                 }
@@ -39,15 +38,18 @@ export default function SelectLanguage() {
         </select>;
     }
     return (
-        <select className="w-full border rounded-2xl h-full">
+        <select className="w-full border rounded-2xl h-full" onChange={(e)=>setLang(e.target.value)}>
             {languages.length === 0 ? (
                 <option>Нет доступных языков</option>
             ) : (
-                languages.map(lang => (
-                    <option key={lang.id} value={lang.id}>
-                        {lang.name}
-                    </option>
-                ))
+                <>
+                    <option value={0}>Выберите язык...</option>
+                    {languages.map(lang => (
+                        <option key={lang.id} value={lang.id}>
+                            {lang.name}
+                        </option>
+                    ))}
+                </>
             )}
         </select>
     );

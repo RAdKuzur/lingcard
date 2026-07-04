@@ -6,3 +6,7 @@ export const apiRoutes = {
     refresh: apiUrl + '/refresh',
     languages: apiUrl + '/languages'
 }
+
+export function apiDictionary(baseLangId, targetLangId) {
+    return apiUrl + '/dictionary/' + baseLangId + '/language/' + targetLangId;
+}
