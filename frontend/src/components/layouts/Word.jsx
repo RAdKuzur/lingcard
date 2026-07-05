@@ -1,9 +1,9 @@
 export default function Word({word, translation, level = null, repeat = null, }) {
     return(
         <div className={'flex border rounded-2xl w-9/10 h-1/8 justify-between items-center'}>
-            <div className={'flex flex-col w-1/10 h-5/6 text-start ml-3 mt-2 mb-2 justify-between'}>
-                <div>{word}</div>
-                <div>{translation}</div>
+            <div className={'flex flex-col w-3/10 h-5/6 text-start ml-3 mt-2 mb-2 justify-between'}>
+                <div className={`h-4/10`}>{word}</div>
+                <div className={`h-4/10`}>{translation}</div>
             </div>
             <div className={'flex flex-col w-6/10 text-start ml-3 mt-2 mb-2 justify-between'}>
             </div>

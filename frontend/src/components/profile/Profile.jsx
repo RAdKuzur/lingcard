@@ -74,10 +74,10 @@ export default function Profile({setAuth}) {
                     <div className="flex flex-col w-2/5 h-full rounded-2xl text-center bg-white mt-8 pb-2">
                         <div className={'flex h-1/3 w-full pt-2 mb-2'}>
                             <div className={'w-2/5 h-full ml-3 text-start'}>
-                                Базовый язык
+                                Язык изучения
                             </div>
                             <div className={'w-2/5 h-full text-start'}>
-                                Язык изучения
+                                Базовый язык
                             </div>
                         </div>
                         <div className={'flex h-2/3 w-full gap-3 justify-start items-center'}>
