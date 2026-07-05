@@ -30,9 +30,16 @@ class CourseRepository
         return Course::where(['user_id' => $userId])->update($data);
     }
 
-    public function getByStatus($status) {
-        return Course::with('wordTranslation')->with('wordTranslation.word')->where(['status' => $status])->get();
+    public function getByStatus($status, $page = 1, $limit = 10) {
+        return Course::with('wordTranslation.word')
+            ->where('status', $status)
+            ->paginate($limit, ['*'], 'page', $page);
     }
+
+    public function countByStatus($status) {
+        return Course::with('wordTranslation')->with('wordTranslation.word')->where(['status' => $status])->count();
+    }
+
 
     public function countUserStats($userId, $status) {
         return Course::where(['user_id' => $userId, 'status' => $status])->count();

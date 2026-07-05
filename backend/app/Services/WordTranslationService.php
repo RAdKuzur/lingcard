@@ -16,16 +16,20 @@ class WordTranslationService
         $this->wordTranslationRepository = $wordTranslationRepository;
     }
 
-    public function dictionary($baseTrainingId, $targetLanguageId) {
+    public function dictionary($baseTrainingId, $targetLanguageId, $page, $limit) {
         $data = [];
-        $wordTranslations = $this->wordTranslationRepository->getByTargetLanguageIdAndBaseLanguageId($baseTrainingId, $targetLanguageId);
+        $wordTranslations = $this->wordTranslationRepository->getPaginateByTargetLanguageIdAndBaseLanguageId($baseTrainingId, $targetLanguageId, $page, $limit);
         foreach ($wordTranslations as $wordTranslation) {
             $data[] = (new WordTranslationDTO(
+                id: $wordTranslation->id,
                 text: $wordTranslation->word->text,
                 translation: $wordTranslation->translation,
                 level: LevelDictionary::get($wordTranslation->word->level),
             ));
         }
-        return $data;
+        return [
+            'data' => $data,
+            'amountWords' => $this->wordTranslationRepository->countByTargetLanguageIdAndBaseLanguageId($baseTrainingId, $targetLanguageId),
+        ];
     }
 }

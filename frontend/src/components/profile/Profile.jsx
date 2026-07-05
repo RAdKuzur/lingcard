@@ -105,7 +105,7 @@ export default function Profile({setAuth}) {
                             </div>
 
                             <div className={"flex w-1/10 h-5/10 ml-5 items-center bg-green-400 mr-10 rounded-2xl items-center justify-center"}>
-                                <div className={"flex text-2xl text-white font-bold text-center"}>{noneWords}</div>
+                                <div className={"flex text-2xl text-white font-bold text-center"}>{learnedWords}</div>
                             </div>
                         </div>
                         <div className={'flex w-9/10 h-3/10 border rounded-2xl justify-between items-center'}>
@@ -122,7 +122,7 @@ export default function Profile({setAuth}) {
                             </div>
                             <div
                                 className={"flex w-1/10 h-5/10 ml-5 items-center bg-red-400 mr-10 rounded-2xl items-center justify-center"}>
-                                <div className={"flex text-2xl text-white font-bold text-center"}>{learnedWords}</div>
+                                <div className={"flex text-2xl text-white font-bold text-center"}>{noneWords}</div>
                             </div>
                         </div>
                     </div>

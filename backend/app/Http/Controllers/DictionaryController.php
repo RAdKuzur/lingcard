@@ -16,11 +16,13 @@ class DictionaryController extends Controller
     }
 
     public function translate($baseTrainingId, $targetLanguageId) {
-
-        $data = $this->wordTranslationService->dictionary($baseTrainingId, $targetLanguageId);
+        $page = request()->query('page');
+        $limit = request()->query('limit');
+        $data = $this->wordTranslationService->dictionary($baseTrainingId, $targetLanguageId, $page, $limit);
         return response()->json([
             'success' => true,
-            'data' => $data
+            'data' => $data['data'],
+            'amountWords' => $data['amountWords']
         ]);
     }
 }

@@ -16,10 +16,14 @@ class ProgressController extends Controller
     }
 
     public function progress($status) {
-        $data = $this->courseService->wordsByStatus($status);
+        $page = request()->query('page');
+        $limit = request()->query('limit');
+        $data = $this->courseService->wordsByStatus($status, $page, $limit);
+
         return response()->json([
             'success' => true,
-            'data' => $data,
+            'data' => $data['data'],
+            'amountWords' => $data['amountWords']
         ]);
     }
     public function clearProgress() {

@@ -7,9 +7,11 @@ use App\Dictionaries\StatusDictionary;
 use App\DTO\WordProgressDTO;
 use App\DTO\WordTrainingDTO;
 use App\Helpers\AuthHelper;
+use App\Jobs\InitProgressJob;
 use App\Models\Course;
 use App\Repositories\CourseRepository;
 use App\Repositories\WordTranslationRepository;
+use function Symfony\Component\String\u;
 
 class CourseService
 {
@@ -24,9 +26,9 @@ class CourseService
         $this->wordTranslationRepository = $wordTranslationRepository;
     }
 
-    public function wordsByStatus($status) {
+    public function wordsByStatus($status, $page, $limit) {
         $data = [];
-        $courses = $this->courseRepository->getByStatus($status);
+        $courses = $this->courseRepository->getByStatus($status, $page, $limit);
         foreach ($courses as $course) {
             $data[] = (new WordProgressDTO(
                 id: $course->id,
@@ -36,7 +38,10 @@ class CourseService
                 repeatTime: $course->last_time_repeated
             ))->toArray();
         }
-        return $data;
+        return [
+            'data' => $data,
+            'amountWords' => $this->courseRepository->countByStatus($status),
+        ];
     }
     public function clearProgress()
     {
@@ -46,16 +51,7 @@ class CourseService
 
     public function init() {
         $user = AuthHelper::user();
-        $wordTranslations = $this->wordTranslationRepository->getByTargetLanguageIdAndBaseLanguageId($user->base_language_id, $user->target_language_id);
-        foreach ($wordTranslations as $wordTranslation) {
-            $this->courseRepository->insert([
-                'word_translation_id' => $wordTranslation->translation_id,
-                'repeat' => 0,
-                'status' => StatusDictionary::NONE,
-                'user_id' => $user->id,
-                'last_time_repeated' => now()
-            ]);
-        }
+        InitProgressJob::dispatch($user->base_language_id, $user->target_language_id, $user->id);
     }
 
     public function newWord() {

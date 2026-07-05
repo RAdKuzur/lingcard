@@ -10,6 +10,8 @@ export const apiRoutes = {
     training: apiUrl + '/training'
 }
 
-export function apiDictionary(baseLangId, targetLangId) {
-    return apiUrl + '/dictionary/' + baseLangId + '/language/' + targetLangId;
+export function apiDictionary(baseLangId, targetLangId, page, limit) {
+    return apiUrl + '/dictionary/' + baseLangId + '/language/' + targetLangId
+        + '?page=' + page
+        + '&limit=' + limit;
 }
