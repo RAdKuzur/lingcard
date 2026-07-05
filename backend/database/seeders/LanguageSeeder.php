@@ -15,12 +15,12 @@ class LanguageSeeder extends Seeder
     {
         DB::table('languages')->truncate();
         DB::table('languages')->insert([
-            'name' => 'Английский',
-            'code' => 'en',
-        ]);
-        DB::table('languages')->insert([
             'name' => 'Русский',
             'code' => 'ru',
+        ]);
+        DB::table('languages')->insert([
+            'name' => 'Казахский',
+            'code' => 'kz',
         ]);
     }
 }

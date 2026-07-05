@@ -24,7 +24,7 @@ class ProgressController extends Controller
     }
     public function clearProgress() {
         $this->courseService->clearProgress();
-        //$this->courseService->init();
+        $this->courseService->init();
         return response()->json([
             'success' => true
         ]);

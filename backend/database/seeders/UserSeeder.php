@@ -20,8 +20,8 @@ class UserSeeder extends Seeder
             'email' => 'admin@admin.com',
             'password' => Hash::make('password'),
             'name' => 'RKuzur',
-            'base_language_id' => 2,
-            'target_language_id' => 1,
+            'base_language_id' => DB::table('languages')->where('code', 'ru')->first()->id,
+            'target_language_id' => DB::table('languages')->where('code', 'kz')->first()->id,
             'role' => RoleDictionary::ADMIN,
         ]);
     }
