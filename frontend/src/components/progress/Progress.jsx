@@ -51,11 +51,11 @@ export default function Progress() {
                         </div>
                         <div
                             className={`flex h-4/5 w-3/10 cursor-pointer bg-yellow-100 rounded-2xl text-center justify-center items-center ${isHover2 ? 'bg-yellow-300' : ''}`}
-                            onClick={() => hover2()}>Выученные слова
+                            onClick={() => hover2()}>Изучаемые слова
                         </div>
                         <div
                             className={`flex h-4/5 w-3/10 cursor-pointer bg-green-100 rounded-2xl mr-3 text-center justify-center items-center ${isHover3 ? 'bg-green-300' : ''}`}
-                            onClick={() => hover3()}>Изученные
+                            onClick={() => hover3()}>Изученные слова
                         </div>
                     </div>
                 </div>
