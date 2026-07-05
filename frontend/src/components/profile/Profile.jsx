@@ -4,7 +4,7 @@ import ButtonBack from "../layouts/ButtonBack.jsx";
 import {logoutAxios} from "../../plugins/auth.js";
 import {useNavigate} from "react-router-dom";
 import {innerRoutes} from "../../plugins/routes.js";
-import { get } from "./../../plugins/request.js";
+import {patch, get, del} from "./../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
 
 export default function Profile({setAuth}) {
@@ -13,18 +13,47 @@ export default function Profile({setAuth}) {
     const [isHover2, setHover2] = useState(false)
     const [baseLang, setBaseLang] = useState(0)
     const [targetLang, setTargetLang] = useState(0)
+    const [noneWords, setNoneWords] = useState(0)
+    const [learningWords, setLearningWords] = useState(0)
+    const [learnedWords, setLearnedWords] = useState(0)
     function logout() {
         logoutAxios(setAuth)
         navigate(innerRoutes.login)
     }
 
+    async function changeProfile() {
+        if(String(baseLang) !== String(targetLang) &&
+            baseLang !== 0 &&
+            targetLang !== 0 &&
+            baseLang !== '0' &&
+            targetLang !== '0') {
+            const response = await patch(apiRoutes.profile, {
+                    base_language_id: baseLang,
+                    target_language_id: targetLang
+                },
+                {
+                    withCredentials: true
+                });
+        }
+
+    }
+    async function clearProgress() {
+        const response = await del(apiRoutes.progress,
+            {
+                withCredentials: true
+            });
+    }
+
     useEffect(() => {
         const fetchProfile = async () => {
             try {
-                const response = await get(apiRoutes.profile, {withCredentials: true});
+                const response = await get(apiRoutes.profile, {}, {withCredentials: true});
                 const data = response.data;
                 setTargetLang(data.target_language_id)
                 setBaseLang(data.base_language_id)
+                setNoneWords(data.none_words)
+                setLearningWords(data.learning_words)
+                setLearnedWords(data.learned_words)
             } catch (error) {
                 console.error('Error fetching profile:', error);
             }
@@ -60,7 +89,7 @@ export default function Profile({setAuth}) {
                             </div>
                             <div className={'mr-3 w-1/5'}>
                                 <button
-                                    className={'p-2 w-full bg-green-400 font-bold text-white rounded-2xl cursor-pointer'}>
+                                    className={'p-2 w-full bg-green-400 font-bold text-white rounded-2xl cursor-pointer'} onClick={changeProfile}>
                                     Изменить
                                 </button>
                             </div>
@@ -76,7 +105,7 @@ export default function Profile({setAuth}) {
                             </div>
 
                             <div className={"flex w-1/10 h-5/10 ml-5 items-center bg-green-400 mr-10 rounded-2xl items-center justify-center"}>
-                                <div className={"flex text-2xl text-white font-bold text-center"}>100</div>
+                                <div className={"flex text-2xl text-white font-bold text-center"}>{noneWords}</div>
                             </div>
                         </div>
                         <div className={'flex w-9/10 h-3/10 border rounded-2xl justify-between items-center'}>
@@ -84,7 +113,7 @@ export default function Profile({setAuth}) {
                                 <div className={"text-2xl"}>Слов изучается</div>
                             </div>
                             <div className={"flex w-1/10 h-5/10 ml-5 items-center bg-blue-400 mr-10 rounded-2xl items-center justify-center"}>
-                                <div className={"flex text-2xl text-white font-bold text-center"}>50</div>
+                                <div className={"flex text-2xl text-white font-bold text-center"}>{learningWords}</div>
                             </div>
                         </div>
                         <div className={'flex w-9/10 h-3/10 border rounded-2xl justify-between items-center'}>
@@ -93,7 +122,7 @@ export default function Profile({setAuth}) {
                             </div>
                             <div
                                 className={"flex w-1/10 h-5/10 ml-5 items-center bg-red-400 mr-10 rounded-2xl items-center justify-center"}>
-                                <div className={"flex text-2xl text-white font-bold text-center"}>10 000</div>
+                                <div className={"flex text-2xl text-white font-bold text-center"}>{learnedWords}</div>
                             </div>
                         </div>
                     </div>
@@ -102,14 +131,16 @@ export default function Profile({setAuth}) {
                     <div className={`flex w-3/10 h-6/10 border border-red-500 rounded-2xl items-center justify-center cursor-pointer ${isHover1 ? 'bg-red-500' : ''}`}
                         onMouseLeave={() => setHover1(false)}
                         onMouseEnter={() => setHover1(true)}
-                    onClick={logout}>
+                        onClick={logout}>
                         <div className={"font-bold"}>
                             Выйти
                         </div>
                     </div>
                     <div className={`flex w-3/10 h-6/10 rounded-2xl items-center justify-center bg-red-500 cursor-pointer ${isHover2 ? 'bg-red-700' : ''}`}
                          onMouseLeave={() => setHover2(false)}
-                         onMouseEnter={() => setHover2(true)}>
+                         onMouseEnter={() => setHover2(true)}
+                         onClick={clearProgress}
+                    >
                         <div className={"text-white font-bold"}>
                             Сбросить прогресс
                         </div>

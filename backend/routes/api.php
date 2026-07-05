@@ -21,9 +21,12 @@ Route::group(['middleware' => AuthMiddleware::class], function () {
     Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
     Route::get('/training', [TrainingController::class, 'newWord'])->name('new-word');
-    Route::patch('/training', [TrainingController::class, 'repeatWord'])->name('repeat-word');
+    Route::patch('/training/{id}', [TrainingController::class, 'repeatWord'])->name('repeat-word');
 
     Route::get('/dictionary/{baseTrainingId}/language/{targetLanguageId}', [DictionaryController::class, 'translate'])->name('translate');
     Route::get('/progress/{status}', [ProgressController::class, 'progress'])->name('progress');
+
+    Route::post('/progress', [ProgressController::class, 'initProgress'])->name('progress-init');
+    Route::delete('/progress', [ProgressController::class, 'clearProgress'])->name('progress-clear');
 });
 

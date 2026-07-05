@@ -18,6 +18,7 @@ class WordTranslationRepository
             ->join('words', 'word_translations.word_id', '=', 'words.id')
             ->where('word_translations.target_language_id', $targetLanguageId)
             ->where('words.language_id', $baseLanguageId)
+            ->select('word_translations.*', 'word_translations.id as translation_id')
             ->get();
     }
 }

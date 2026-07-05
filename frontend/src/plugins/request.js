@@ -123,6 +123,16 @@ export async function put(url, data = {}, config = {}) {
     }
 }
 
+export async function patch(url, data = {}, config = {}) {
+    try {
+        const response = await api.patch(url, data, config);
+        return response.data;
+    } catch (error) {
+        console.error('PATCH request failed:', error.message);
+        throw error;
+    }
+}
+
 export async function del(url, config = {}) {
     try {
         const response = await api.delete(url, config);

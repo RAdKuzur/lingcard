@@ -5,7 +5,9 @@ export const apiRoutes = {
     logout: apiUrl + '/logout',
     refresh: apiUrl + '/refresh',
     languages: apiUrl + '/languages',
-    profile: apiUrl + '/profile'
+    profile: apiUrl + '/profile',
+    progress: apiUrl + '/progress',
+    training: apiUrl + '/training'
 }
 
 export function apiDictionary(baseLangId, targetLangId) {

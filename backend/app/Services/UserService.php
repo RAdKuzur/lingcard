@@ -3,27 +3,41 @@
 namespace App\Services;
 
 use App\Dictionaries\RoleDictionary;
+use App\Dictionaries\StatusDictionary;
 use App\DTO\ProfileDTO;
+use App\DTO\ProfileUpdateDTO;
 use App\Helpers\AuthHelper;
+use App\Repositories\CourseRepository;
 use App\Repositories\UserRepository;
 
 class UserService
 {
     private UserRepository $userRepository;
+    private CourseRepository $courseRepository;
     public function __construct(
-        UserRepository $userRepository
+        UserRepository $userRepository,
+        CourseRepository $courseRepository
     ) {
         $this->userRepository = $userRepository;
+        $this->courseRepository = $courseRepository;
     }
 
     public function profile()
     {
         $user = AuthHelper::user();
+
         return (new ProfileDTO(
             username: $user->name,
             role: RoleDictionary::get($user->role),
             baseLanguageId: $user->base_language_id,
-            targetLanguageId: $user->target_language_id
+            targetLanguageId: $user->target_language_id,
+            noneWords: $this->courseRepository->countUserStats($user->id, StatusDictionary::NONE),
+            learningWords: $this->courseRepository->countUserStats($user->id, StatusDictionary::LEARNING),
+            learnedWords: $this->courseRepository->countUserStats($user->id, StatusDictionary::LEARNED),
         ))->toArray();
+    }
+
+    public function update($id, ProfileUpdateDTO $dto) {
+        $this->userRepository->update($id, $dto->toArray());
     }
 }

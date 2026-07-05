@@ -2,11 +2,10 @@
 
 namespace App\Http\Requests;
 
-use App\DTO\ProfileUpdateDTO;
 use Illuminate\Contracts\Validation\ValidationRule;
 use Illuminate\Foundation\Http\FormRequest;
 
-class ProfileUpdateRequest extends FormRequest
+class TrainingRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -24,16 +23,11 @@ class ProfileUpdateRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'base_language_id' => 'required|integer',
-            'target_language_id' => 'required|integer'
+            'status' => 'required|boolean',
         ];
     }
 
-    public function toDTO() : ProfileUpdateDTO {
-        return new ProfileUpdateDTO(
-            baseLanguageId: $this->validated('base_language_id'),
-            targetLanguageId: $this->validated('target_language_id')
-        );
+    public function toStatus() {
+        return $this->validated('status');
     }
-
 }
