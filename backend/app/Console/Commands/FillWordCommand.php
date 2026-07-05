@@ -34,11 +34,12 @@ class FillWordCommand extends Command
      */
     public function handle()
     {
-
+        DB::table('words')->truncate();
+        DB::table('word_translations')->truncate();
+        DB::table('courses')->truncate();
         foreach (self::FILEPATH as $path) {
             $file = fopen(base_path($path), 'r');
-            DB::table('words')->truncate();
-            DB::table('word_translations')->truncate();
+
             $ruLanguage = DB::table('languages')->where(['code' => 'ru'])->first();
             $kzLanguage = DB::table('languages')->where(['code' => 'kz'])->first();
 

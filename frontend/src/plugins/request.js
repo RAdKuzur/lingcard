@@ -73,7 +73,10 @@ api.interceptors.response.use(
             return api(originalRequest);
         } catch (refreshError) {
             // Если рефреш не удался - очищаем токен и редиректим
-            localStorage.removeItem('accessToken');
+            localStorage.removeItem('access_token');
+            localStorage.removeItem('refresh_token');
+            localStorage.removeItem('role');
+            localStorage.removeItem('username');
             processQueue(refreshError, null);
 
             // Редирект на страницу логина

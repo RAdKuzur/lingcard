@@ -63,9 +63,9 @@ export default function Progress() {
                     <div className={'font-bold m-3 h-1/20'}>Слова</div>
                     <div className={`flex flex-col h-14/15 gap-4 items-center overflow-y-auto`}>
                         {
-                            words.map((e) => (
+                            isHover1 ? words.map((e) => (
                                 <Word key={e.id} word={e.text} translation={e.translation} level={e.level} repeat={e.repeat_time}/>
-                            ))
+                            )) : ''
                         }
                     </div>
 
@@ -75,10 +75,10 @@ export default function Progress() {
                     <div className={'font-bold m-3'}>Слова</div>
                     <div className={`flex flex-col h-14/15 gap-4 items-center overflow-y-auto`}>
                         {
-                            words.map((e) => (
+                            isHover2 ? words.map((e) => (
                                 <Word key={e.id} word={e.text} translation={e.translation} level={e.level}
                                       repeat={e.repeat_time}/>
-                            ))
+                            )) : ''
                         }
                     </div>
                 </div>
@@ -87,10 +87,10 @@ export default function Progress() {
                     <div className={'font-bold m-3'}>Слова</div>
                     <div className={`flex flex-col h-14/15 gap-4 items-center overflow-y-auto`}>
                         {
-                            words.map((e) => (
+                            isHover3 ? words.map((e) => (
                                 <Word key={e.id} word={e.text} translation={e.translation} level={e.level}
                                       repeat={e.repeat_time}/>
-                            ))
+                            )) : ''
                         }
                     </div>
                 </div>

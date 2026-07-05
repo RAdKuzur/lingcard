@@ -77,11 +77,11 @@ export default function Training() {
             `}>
                 <div className={'flex flex-col h-5/6'}>
                     <div className={'flex m-4 h-1/6'}>
-                        <div className={'font-bold'}>{level}</div>
+                        <div className={'font-bold text-xl'}>{level}</div>
                     </div>
                     <div className={'flex flex-col  h-5/6'}>
                         <div className={'flex flex-col h-1/3 items-center justify-center'}>
-                            <div className={'font-bold text-center'}>{text}</div>
+                            <div className={'font-bold text-center text-3xl'}>{text}</div>
                         </div>
                         <div className={'flex flex-col h-1/3 items-center justify-center'}>
                             <div className={`font-bold text-center duration-600 ${opacityTranslation ? 'opacity-100' : 'opacity-0'}`}>{translation}</div>
