@@ -68,6 +68,7 @@ class CourseService
                 text: $course->wordTranslation->word->text,
                 translation: $course->wordTranslation->translation,
                 level: LevelDictionary::get($course->wordTranslation->word->level),
+                status: $course->status
             ))->toArray();
             return $data;
         }
@@ -75,13 +76,13 @@ class CourseService
     }
 
     public function repeat($id, $status) {
+        $course = $this->courseRepository->getById($id);
         if ($status) {
-            $course = $this->courseRepository->getById($id);
             switch ($course->status) {
                 case StatusDictionary::NONE:
                     $this->courseRepository->update($id, [
                         'repeat' => $course->repeat + 1,
-                        'status' => StatusDictionary::LEARNING,
+                        'status' => StatusDictionary::LEARNED,
                         'last_time_repeated' => now()
                     ]);
                     break;
@@ -89,6 +90,18 @@ class CourseService
                     $this->courseRepository->update($id, [
                         'repeat' => $course->repeat + 1,
                         'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusDictionary::LEARNED : StatusDictionary::LEARNING,
+                        'last_time_repeated' => now()
+                    ]);
+                    break;
+                default:
+                    break;
+            }
+        }
+        else {
+            switch ($course->status) {
+                case StatusDictionary::NONE:
+                    $this->courseRepository->update($id, [
+                        'status' => StatusDictionary::LEARNING,
                         'last_time_repeated' => now()
                     ]);
                     break;

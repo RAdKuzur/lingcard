@@ -1,4 +1,5 @@
 export const innerRoutes = {
+    all: '/*',
     login: '/login',
     home: '/home',
     training: '/training',

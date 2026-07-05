@@ -89,7 +89,7 @@ export default function Training() {
                     </div>
                 </div>
                 <div className={'flex h-1/8 justify-between m-3'}>
-                    <button className={`cursor-pointer p-2 bg-red-400 w-1/4 rounded-3xl ${isHoverNo ? 'bg-red-600' : ''}`}
+                    <button className={`cursor-pointer p-2 bg-red-400 w-1/4 rounded-3xl font-sans ${isHoverNo ? 'bg-red-600' : ''}`}
                         onMouseEnter={() => setHoverNo(true)}
                         onMouseLeave={() => setHoverNo(false)}
                         onClick={() => swipe('left')}
@@ -98,7 +98,7 @@ export default function Training() {
                             onMouseEnter={() => setHoverShow(true)}
                             onMouseLeave={() => setHoverShow(false)}
                             onClick={show}>{word ? 'Показать' : 'Убрать'}</button>
-                    <button className={`cursor-pointer p-2 bg-green-400 w-1/4 rounded-3xl ${isHoverYes ? 'bg-green-600' : ''}`}
+                    <button className={`cursor-pointer p-2 bg-green-400 w-1/4 rounded-3xl font-sans ${isHoverYes ? 'bg-green-600' : ''}`}
                             onMouseEnter={() => setHoverYes(true)}
                             onMouseLeave={() => setHoverYes(false)}
                             onClick={() => swipe('right')}

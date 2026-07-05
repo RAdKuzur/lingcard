@@ -10,6 +10,7 @@ import Training from "./components/training/Training.jsx";
 import Dictionary from "./components/dictionary/Dictionary.jsx";
 import Progress from "./components/progress/Progress.jsx";
 import Profile from "./components/profile/Profile.jsx";
+import Knowledge from "./components/knowledge/Knowledge.jsx";
 
 function App() {
     const [isAuth, setAuth] = useState(false);
@@ -26,12 +27,14 @@ function App() {
         <div className="flex flex-col min-h-screen">
             <Navbar isAuth={isAuth}/>
                 <Routes>
+                    <Route path={innerRoutes.all} element={<Home/>}/>
                     <Route path={innerRoutes.login} element={<Login setAuth={setAuth}/>}/>
                     <Route path={innerRoutes.home} element={<Home/>}/>
                     <Route path={innerRoutes.training} element={<Training/>}/>
                     <Route path={innerRoutes.progress} element={<Progress/>}/>
                     <Route path={innerRoutes.dictionary} element={<Dictionary/>}/>
                     <Route path={innerRoutes.profile} element={<Profile setAuth={setAuth}/>}/>
+                    <Route path={innerRoutes.knowledge} element={<Knowledge/>}/>
                 </Routes>
             <Footer/>
         </div>
