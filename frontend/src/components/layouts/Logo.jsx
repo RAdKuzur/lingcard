@@ -1,9 +1,10 @@
 import {useNavigate} from "react-router-dom";
+import {innerRoutes} from "../../plugins/routes.js";
 
 export default function Logo(){
     const navigate = useNavigate()
     function goHome(){
-        navigate('/home')
+        navigate(innerRoutes.home)
     }
     return (
         <div className={'circle flex bg-green-500 font-serif rounded-2xl p-3 ml-3 text-center items-center justify-center cursor-pointer'} onClick={goHome}>

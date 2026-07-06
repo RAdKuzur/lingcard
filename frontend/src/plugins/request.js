@@ -1,5 +1,6 @@
 import axios from "axios";
 import { apiRoutes } from "./apiRoutes.js";
+import {innerRoutes} from "./routes.js";
 
 // Создаем экземпляр axios с базовыми настройками
 const api = axios.create({
@@ -79,10 +80,7 @@ api.interceptors.response.use(
             localStorage.removeItem('username');
             processQueue(refreshError, null);
 
-            // Редирект на страницу логина
-            if (typeof window !== 'undefined') {
-                window.location.href = '/login';
-            }
+            window.location.href = innerRoutes.login;
 
             return Promise.reject(refreshError);
         } finally {

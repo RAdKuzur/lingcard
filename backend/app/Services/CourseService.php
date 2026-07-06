@@ -11,19 +11,17 @@ use App\Jobs\InitProgressJob;
 use App\Models\Course;
 use App\Repositories\CourseRepository;
 use App\Repositories\WordTranslationRepository;
+use DateTime;
 use function Symfony\Component\String\u;
 
 class CourseService
 {
     private CourseRepository $courseRepository;
-    private WordTranslationRepository $wordTranslationRepository;
     public function __construct(
         CourseRepository $courseRepository,
-        WordTranslationRepository $wordTranslationRepository
     )
     {
         $this->courseRepository = $courseRepository;
-        $this->wordTranslationRepository = $wordTranslationRepository;
     }
 
     public function wordsByStatus($status, $page, $limit) {
@@ -35,7 +33,7 @@ class CourseService
                 text: $course->wordTranslation->word->text,
                 translation: $course->wordTranslation->translation,
                 level: LevelDictionary::get($course->wordTranslation->word->level),
-                repeatTime: $course->last_time_repeated
+                repeatTime: (new DateTime($course->last_time_repeated))->format('d.m.Y H:i:s')
             ))->toArray();
         }
         return [
