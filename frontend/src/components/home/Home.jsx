@@ -3,12 +3,12 @@ import {innerRoutes} from "../../plugins/routes.js";
 
 export default function Home() {
     return (
-        <main className="flex flex-1 bg-gray-200 items-center justify-center">
-            <div className={'flex flex-row gap-10'}>
-                <PanelHome title={'Начать тренировку'} link={innerRoutes.training}></PanelHome>
-                <PanelHome title={'Прогресс'} link={innerRoutes.progress}></PanelHome>
-                <PanelHome title={'Словарь'} link={innerRoutes.dictionary}></PanelHome>
-                <PanelHome title={'База знаний'} link={innerRoutes.knowledge}></PanelHome>
+        <main className="flex flex-1 bg-gradient-to-br from-slate-50 to-slate-100 items-center justify-center p-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl w-full">
+                <PanelHome title={'Начать тренировку'} link={innerRoutes.training} />
+                <PanelHome title={'Прогресс'} link={innerRoutes.progress} />
+                <PanelHome title={'Словарь'} link={innerRoutes.dictionary} />
+                <PanelHome title={'База знаний'} link={innerRoutes.knowledge} />
             </div>
         </main>
     );

@@ -1,9 +1,9 @@
 import Word from "../layouts/Word.jsx";
 import SelectLanguage from "../layouts/SelectLanguage.jsx";
 import ButtonBack from "../layouts/ButtonBack.jsx";
-import {useState} from "react";
-import {get} from "../../plugins/request.js";
-import {apiDictionary} from "../../plugins/apiRoutes.js";
+import { useState } from "react";
+import { get } from "../../plugins/request.js";
+import { apiDictionary } from "../../plugins/apiRoutes.js";
 
 export default function Dictionary() {
     const [lang1, setLang1] = useState(0);
@@ -16,7 +16,6 @@ export default function Dictionary() {
 
     async function handleSearch(page = 1, limit = 10) {
         if (lang1 !== 0 && lang2 !== 0 && lang1 !== lang2) {
-            console.log(page)
             const response = await get(apiDictionary(lang1, lang2, page, limit), null, {withCredentials: true})
             const data = await response.data;
             setPaginator(true)
@@ -46,76 +45,74 @@ export default function Dictionary() {
     }
 
     return (
-        <main className="flex h-screen bg-gray-200 justify-center">
-            <div className="flex flex-col w-full h-full items-center">
-                <div className="flex w-4/5 h-1/12 rounded-2xl text-center mt-8 pb-2 gap-5  items-center">
-                    <div className={'flex flex-col mt-8 items-center'}>
-                        <ButtonBack></ButtonBack>
-                    </div>
-                    <div className={'flex flex-col mt-8 w-1/5 h-full'}>
-
-                    </div>
-                    <div className="flex flex-col w-2/5 h-full rounded-2xl text-center bg-white mt-8 pb-2">
-                        <div className={'flex h-1/3 w-full pt-2 mb-2'}>
-                            <div className={'w-2/5 h-full ml-3 text-start'}>
-                                Язык 1
-                            </div>
-                            <div className={'w-2/5 h-full text-start'}>
-                                Язык 2
-                            </div>
-                        </div>
-                        <div className={'flex h-2/3 w-full gap-3 justify-start items-center'}>
-                            <div className={'w-2/5 h-4/5 ml-3'}>
-                                <SelectLanguage setLang={setLang1} value={lang1}/>
-                            </div>
-                            <div className={'w-2/5 h-4/5'}>
-                                <SelectLanguage setLang={setLang2} value={lang2}/>
-                            </div>
-                            <div className={'mr-3 w-1/5'}>
-                                <button onClick={() => handleSearch(page, limit)}
-                                        className={'p-2 w-full bg-orange-400 font-bold text-white rounded-2xl cursor-pointer'}>
-                                    Показать
-                                </button>
-                            </div>
-                        </div>
-                    </div>
+        <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
+            <div className="max-w-5xl mx-auto space-y-6">
+                <div className="flex items-center gap-4">
+                    <ButtonBack />
+                    <h1 className="text-2xl font-bold text-slate-800">Словарь</h1>
                 </div>
-                <div className={`flex flex-col w-4/5 h-4/5 rounded-2xl text-center bg-white mt-8`}>
-                    <div className={'font-bold m-3 h-1/20'}>Слова</div>
-                    <div className={`flex flex-col h-14/15 gap-4 items-center overflow-y-auto`}>
-                        {
+
+                <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div>
+                            <label className="text-sm font-medium text-slate-600 block mb-2">Язык 1</label>
+                            <SelectLanguage setLang={setLang1} value={lang1} />
+                        </div>
+                        <div>
+                            <label className="text-sm font-medium text-slate-600 block mb-2">Язык 2</label>
+                            <SelectLanguage setLang={setLang2} value={lang2} />
+                        </div>
+                    </div>
+                    <button
+                        onClick={() => handleSearch(page, limit)}
+                        className="mt-4 w-full px-6 py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-medium rounded-xl transition-all duration-200 shadow-lg shadow-orange-500/25 hover:shadow-orange-500/35 cursor-pointer"
+                    >
+                        Показать
+                    </button>
+                </div>
+
+                <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
+                    <h2 className="text-sm font-medium text-slate-500 mb-4">Слова</h2>
+                    <div className="space-y-3 max-h-[50vh] overflow-y-auto">
+                        {words.length > 0 ? (
                             words.map((e) => (
-                                <Word key={e.id} word={e.text} translation={e.translation} level={e.level}/>
+                                <Word
+                                    key={e.id}
+                                    word={e.text}
+                                    translation={e.translation}
+                                    level={e.level}
+                                />
                             ))
-                        }
+                        ) : (
+                            <div className="text-center py-12 text-slate-400">
+                                <p className="text-lg">Выберите языки и нажмите "Показать"</p>
+                            </div>
+                        )}
+                    </div>
+                </div>
 
+                {isPaginator && words.length > 0 && (
+                    <div className="flex items-center justify-between gap-4 bg-white px-4 py-3 rounded-xl shadow-lg shadow-slate-200/50">
+                        <button
+                            onClick={prevPage}
+                            disabled={page === 1}
+                            className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-600 font-medium transition-all duration-200 disabled:opacity-40 disabled:cursor-not-allowed"
+                        >
+                            Пред.
+                        </button>
+                        <span className="text-sm text-slate-500 font-medium">
+                            {page} / {totalPages()}
+                        </span>
+                        <button
+                            onClick={nextPage}
+                            disabled={page === totalPages()}
+                            className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-600 font-medium transition-all duration-200 disabled:opacity-40 disabled:cursor-not-allowed"
+                        >
+                            След.
+                        </button>
                     </div>
-                </div>
-                <div className={`flex w-1/5 h-1/20 bg-white mt-6 mb-6 rounded-2xl justify-center items-center ${!isPaginator ? 'hidden' : ''}`}>
-                    <div className={`flex w-9/10 h-full justify-between items-center`}>
-                        <div className={`flex w-1/4 h-4/5 bg-red-300 rounded-2xl ${page === 1 ? 'hidden' : ''}`}>
-                            <button className={'w-full h-full cursor-pointer'}
-                                    onClick={() => prevPage()}>Пред.
-                            </button>
-                        </div>
-                        <div className={`flex w-1/4 h-4/5 rounded-2xl ${page === 1 ? '' : 'hidden'}`}>
-                        </div>
-                        <div
-                            className={`flex w-1/4 h-4/5 bg-gray-100 text-center justify-center items-center rounded-2xl`}>
-                            {page}/{totalPages()}
-                        </div>
-                        <div
-                            className={`flex w-1/4 h-4/5 bg-green-300  rounded-2xl ${page === totalPages() ? 'hidden' : ''}`}>
-                            <button className={'w-full h-full cursor-pointer'}
-                                    onClick={() => nextPage()}>След.
-                            </button>
-                        </div>
-                        <div
-                            className={`flex w-1/4 h-4/5 rounded-2xl ${page === totalPages() ? '' : 'hidden'}`}>
-                        </div>
-                    </div>
-                </div>
+                )}
             </div>
         </main>
-    )
+    );
 }
