@@ -12,7 +12,6 @@ use App\Models\Course;
 use App\Repositories\CourseRepository;
 use App\Repositories\WordTranslationRepository;
 use DateTime;
-use function Symfony\Component\String\u;
 
 class CourseService
 {

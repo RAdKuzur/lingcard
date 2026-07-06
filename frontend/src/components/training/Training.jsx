@@ -98,10 +98,10 @@ export default function Training() {
 
                         <div className="py-8">
                             <div className="text-4xl font-bold text-slate-800 mb-4 tracking-tight">
-                                {text}
+                                {translation}
                             </div>
                             <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
-                                {translation}
+                                {text}
                             </div>
                         </div>
 

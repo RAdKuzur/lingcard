@@ -5,39 +5,18 @@ import { get } from "../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 
 export default function Progress() {
-    const [isHover1, setHover1] = useState(true);
-    const [isHover2, setHover2] = useState(false);
-    const [isHover3, setHover3] = useState(false);
     const [activeTab, setActiveTab] = useState(1);
     const [page, setPage] = useState(1);
     const [limit] = useState(10);
     const [words, setWords] = useState([]);
     const [amountWords, setAmountWords] = useState(1);
 
-    useEffect(() => { hover1(); }, []);
+    useEffect(() => { handleTabClick(1); }, []);
 
-    function hover1() {
-        setHover1(true);
-        setHover2(false);
-        setHover3(false);
-        setActiveTab(1);
-        handleProgress(1, 1, 10);
-    }
-
-    function hover2() {
-        setHover1(false);
-        setHover2(true);
-        setHover3(false);
-        setActiveTab(2);
-        handleProgress(2, 1, 10);
-    }
-
-    function hover3() {
-        setHover1(false);
-        setHover2(false);
-        setHover3(true);
-        setActiveTab(3);
-        handleProgress(3, 1, 10);
+    function handleTabClick(tabId) {
+        setActiveTab(tabId);
+        setPage(1);
+        handleProgress(tabId, 1, limit);
     }
 
     function nextPage() {
@@ -73,10 +52,29 @@ export default function Progress() {
     }
 
     const tabs = [
-        { id: 1, label: 'Новые слова', color: 'rose', hover: isHover1, onClick: hover1 },
-        { id: 2, label: 'Изучаемые слова', color: 'blue', hover: isHover2, onClick: hover2 },
-        { id: 3, label: 'Изученные слова', color: 'emerald', hover: isHover3, onClick: hover3 }
+        { id: 1, label: 'Новые слова', color: 'red', onClick: () => handleTabClick(1) },
+        { id: 2, label: 'Изучаемые слова', color: 'blue', onClick: () => handleTabClick(2) },
+        { id: 3, label: 'Изученные слова', color: 'green', onClick: () => handleTabClick(3) }
     ];
+
+    const getTabStyles = (tabId, color) => {
+        const isActive = activeTab === tabId;
+        const baseStyles = "flex-1 px-4 py-2.5 rounded-lg font-medium transition-all duration-200 cursor-pointer";
+
+        const activeStyles = {
+            red: "bg-red-500 text-white shadow-md shadow-red-500/25",
+            blue: "bg-blue-500 text-white shadow-md shadow-blue-500/25",
+            green: "bg-green-500 text-white shadow-md shadow-green-500/25"
+        };
+
+        const inactiveStyles = {
+            red: "bg-red-200 text-red-800 hover:bg-red-300",
+            blue: "bg-blue-200 text-blue-800 hover:bg-blue-300",
+            green: "bg-green-200 text-green-800 hover:bg-green-300"
+        };
+
+        return `${baseStyles} ${isActive ? activeStyles[color] : inactiveStyles[color]}`;
+    };
 
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
@@ -86,16 +84,12 @@ export default function Progress() {
                     <h1 className="text-2xl font-bold text-slate-800">Прогресс</h1>
                 </div>
 
-                <div className="flex gap-2 bg-white p-1.5 rounded-xl shadow-lg shadow-slate-200/50">
+                <div className="flex gap-2 p-1.5 rounded-xl shadow-lg shadow-slate-200/50">
                     {tabs.map(tab => (
                         <button
                             key={tab.id}
                             onClick={tab.onClick}
-                            className={`flex-1 px-4 py-2.5 rounded-lg font-medium transition-all duration-200 cursor-pointer ${
-                                tab.hover
-                                    ? `bg-${tab.color}-500 text-white shadow-md shadow-${tab.color}-500/25`
-                                    : `bg-${tab.color}-100 text-${tab.color}-700 hover:bg-${tab.color}-200`
-                            }`}
+                            className={getTabStyles(tab.id, tab.color)}
                         >
                             {tab.label}
                         </button>
