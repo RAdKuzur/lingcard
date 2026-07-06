@@ -1,6 +1,7 @@
 import axios from "axios";
 import {apiRoutes} from "./apiRoutes.js";
 import {post} from "./request.js";
+import {innerRoutes} from "./routes.js";
 export async function loginAxios(email, password, setAuth) {
     const response = await axios.post(
         apiRoutes.login,
@@ -29,4 +30,12 @@ export async function logoutAxios(setAuth) {
     setAuth(false);
     localStorage.removeItem('username');
     localStorage.removeItem('role');
+}
+
+function checkAuth(navigate) {
+    if(localStorage.getItem('username') !== null && localStorage.getItem('role') !== null) {
+        return true;
+    }
+    navigate(innerRoutes.login)
+    return false;
 }

@@ -13,10 +13,11 @@ class TokenRepository
     }
 
     public function createToken($token, $userId){
+        $ttl = env('REFRESH_TOKEN_TIME_EXPIRE', 1440);
         return DB::table('tokens')->insert([
             'refresh_token' => $token,
             'user_id' => $userId,
-            'expires_at' => date("Y-m-d H:i:s", strtotime("+1440 minutes")),
+            'expires_at' => date("Y-m-d H:i:s", strtotime("+{$ttl} minutes")),
             'ip_address' => request()->ip(),
             'user_agent' => request()->userAgent(),
             'is_revoked' => false,

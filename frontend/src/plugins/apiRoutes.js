@@ -1,4 +1,4 @@
-export const apiUrl = 'http://localhost:8000/api';
+export const apiUrl =  import.meta.env.VITE_BACKEND_URL;
 export const apiRoutes = {
     csrf: apiUrl + '/csrf-cookie',
     login: apiUrl + '/login',
