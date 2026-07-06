@@ -62,7 +62,8 @@ class CourseService
                 text: $course->wordTranslation->word->text,
                 translation: $course->wordTranslation->translation,
                 level: LevelDictionary::get($course->wordTranslation->word->level),
-                status: $course->status
+                status: $course->status,
+                repeat: $course->repeat
             ))->toArray();
             return $data;
         }

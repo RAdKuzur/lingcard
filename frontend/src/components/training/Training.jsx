@@ -16,7 +16,8 @@ export default function Training() {
     const [text, setText] = useState('')
     const [translation, setTranslation] = useState('')
     const [level, setLevel] = useState('')
-
+    const [status, setStatus] = useState('')
+    const [repeat, setRepeat] = useState(0)
     function show() {
         setWord(!word);
         setOpacityTranslation(!opacityTranslation)
@@ -46,10 +47,10 @@ export default function Training() {
             setWord(true)
             setDirection('')
             newWord()
-        }, 1500)
+        }, 1000)
         setTimeout(() => {
             setOpacityCard(true)
-        }, 2500)
+        }, 1500)
     }
     useEffect(() => {
         newWord()
@@ -63,6 +64,8 @@ export default function Training() {
             setText(data.text)
             setTranslation(data.translation)
             setLevel(data.level)
+            setStatus(data.status)
+            setRepeat(data.repeat)
         }
     }
     return (
@@ -78,10 +81,19 @@ export default function Training() {
                 ${opacityCard ? 'opacity-100' : 'opacity-0 pointer-events-none'}
             `}>
                     <div className="text-center">
-                        <div className="mb-6">
-                        <span className={`inline-block px-4 py-1.5 rounded-full text-sm font-semibold`}>
+                        <div className="flex flex-wrap items-center justify-center gap-2 mb-6">
+                        <span className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-orange-400 text-white shadow-lg shadow-indigo-500/25`}>
                             {level}
                         </span>
+                            {status === 1 ? (
+                                <span className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-emerald-400 to-emerald-500 text-white shadow-lg shadow-emerald-500/25">
+                                Новое слово
+                            </span>
+                            ) : (
+                                <span className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
+                                Повторений: {repeat}
+                            </span>
+                            )}
                         </div>
 
                         <div className="py-8">
