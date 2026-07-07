@@ -34,6 +34,7 @@ services:
     networks:
       - network
     depends_on:
+      - db
       - backend
 
   seeder:
@@ -44,6 +45,7 @@ services:
     networks:
       - network
     depends_on:
+      - db
       - backend
       - migrator
 
