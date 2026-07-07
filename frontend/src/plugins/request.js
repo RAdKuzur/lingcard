@@ -4,7 +4,7 @@ import {innerRoutes} from "./routes.js";
 
 // Создаем экземпляр axios с базовыми настройками
 const api = axios.create({
-    withCredentials: true,
+    withCredentials: true, // ✅ Автоматически отправляет cookies
     headers: {
         'Content-Type': 'application/json',
     },
@@ -13,6 +13,7 @@ const api = axios.create({
 // Переменные для предотвращения множественных рефрешей
 let isRefreshing = false;
 let failedQueue = [];
+let isRefreshingFailed = false;
 
 const processQueue = (error, token = null) => {
     failedQueue.forEach(prom => {
@@ -25,27 +26,52 @@ const processQueue = (error, token = null) => {
     failedQueue = [];
 };
 
-// Добавляем токен в заголовки, если он есть
+// ✅ Просто проверяем, что это не запрос на refresh
 api.interceptors.request.use(config => {
-    const token = localStorage.getItem('accessToken');
-    if (token) {
-        config.headers.Authorization = `Bearer ${token}`;
+    // Если это запрос на refresh - пропускаем без изменений
+    if (config.url === apiRoutes.refresh) {
+        return config;
     }
+    // Токены уже в cookies, ничего не добавляем
     return config;
-});
+}, error => Promise.reject(error));
 
 // Перехватчик для обновления токена
 api.interceptors.response.use(
     response => response,
     async error => {
         const originalRequest = error.config;
+        if (!error.response) {
+            console.error('Network error or no response');
+            return Promise.reject(error);
+        }
 
-        // Если не 401 или запрос уже повторялся - отклоняем
+        // Если это запрос на refresh
+        if (originalRequest.url === apiRoutes.refresh) {
+            if (error.response?.status === 401) {
+                console.log('Refresh token invalid, redirecting to login');
+                // Очищаем только то, что хранится в localStorage
+                localStorage.removeItem('role');
+                localStorage.removeItem('username');
+                window.location.href = innerRoutes.login;
+            }
+            return Promise.reject(error);
+        }
+
+        // Если не 401 или уже был повтор
         if (error.response?.status !== 401 || originalRequest._retry) {
             return Promise.reject(error);
         }
 
-        // Если идет процесс обновления - добавляем в очередь
+        // Защита от бесконечного редиректа
+        if (isRefreshingFailed) {
+            localStorage.removeItem('role');
+            localStorage.removeItem('username');
+            window.location.href = innerRoutes.login;
+            return Promise.reject(error);
+        }
+
+        // Если идет процесс рефреша - добавляем в очередь
         if (isRefreshing) {
             return new Promise((resolve, reject) => {
                 failedQueue.push({ resolve, reject });
@@ -58,28 +84,47 @@ api.interceptors.response.use(
         isRefreshing = true;
 
         try {
-            // Обновляем токен
-            const refreshResponse = await api.post(apiRoutes.refresh, null);
+            // ✅ Отправляем refresh-запрос
+            const refreshResponse = await axios.post(
+                apiRoutes.refresh,
+                {}, // Пустое тело, так как refresh токен в cookies
+                {
+                    withCredentials: true, // ✅ Важно!
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                }
+            );
 
-            // Сохраняем новый токен (если сервер возвращает его в теле)
-            const newToken = refreshResponse.data?.accessToken || refreshResponse.data?.token;
-            if (newToken) {
-                localStorage.setItem('accessToken', newToken);
+            // ✅ Проверяем успешность ответа
+            if (refreshResponse.status === 200) {
+                console.log('Token refreshed successfully');
+            } else {
+                throw new Error('Refresh failed with status: ' + refreshResponse.status);
             }
 
-            // Обрабатываем очередь
-            processQueue(null, newToken);
+            // Сбрасываем флаг ошибки
+            isRefreshingFailed = false;
 
-            // Повторяем исходный запрос
+            // Обрабатываем очередь
+            processQueue(null);
+
+            // Повторяем исходный запрос (cookies обновились автоматически)
             return api(originalRequest);
         } catch (refreshError) {
-            // Если рефреш не удался - очищаем токен и редиректим
-            localStorage.removeItem('access_token');
-            localStorage.removeItem('refresh_token');
+            console.error('Refresh failed:', refreshError);
+
+            // Помечаем, что refresh упал
+            isRefreshingFailed = true;
+
+            // Очищаем localStorage
             localStorage.removeItem('role');
             localStorage.removeItem('username');
-            processQueue(refreshError, null);
 
+            // Отклоняем все запросы в очереди
+            processQueue(refreshError);
+
+            // Редирект на логин
             window.location.href = innerRoutes.login;
 
             return Promise.reject(refreshError);
@@ -90,12 +135,11 @@ api.interceptors.response.use(
 );
 
 // --- Экспортируемые функции ---
-
 export async function get(url, params = {}, config = {}) {
     try {
         const response = await api.get(url, {
             ...config,
-            params: params // Правильная передача параметров
+            params: params
         });
         return response.data;
     } catch (error) {

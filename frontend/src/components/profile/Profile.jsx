@@ -2,13 +2,13 @@ import SelectLanguage from "../layouts/SelectLanguage.jsx";
 import {useEffect, useState} from "react";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import { logoutAxios } from "../../plugins/auth.js";
-import { useNavigate } from "react-router-dom";
 import { innerRoutes } from "../../plugins/routes.js";
 import { patch, get, del } from "./../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
+import {useRedirect} from "../../hooks/useRedirect.js";
 
 export default function Profile({setAuth}) {
-    const navigate = useNavigate()
+    const { redirectIfAuth } = useRedirect()
     const [isHover1, setHover1] = useState(false)
     const [isHover2, setHover2] = useState(false)
     const [baseLang, setBaseLang] = useState(0)
@@ -18,7 +18,7 @@ export default function Profile({setAuth}) {
     const [learnedWords, setLearnedWords] = useState(0)
     function logout() {
         logoutAxios(setAuth)
-        navigate(innerRoutes.login)
+        redirectIfAuth(innerRoutes.login)
     }
 
     async function changeProfile() {
@@ -71,7 +71,7 @@ export default function Profile({setAuth}) {
 
                 <div className="w-full bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div>
+                        <div className={'disabled'}>
                             <label className="text-sm font-medium text-slate-600 block mb-2">Базовый язык</label>
                             <SelectLanguage setLang={setBaseLang} value={baseLang} />
                         </div>

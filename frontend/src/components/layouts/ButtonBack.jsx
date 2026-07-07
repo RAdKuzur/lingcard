@@ -1,12 +1,12 @@
-import {useNavigate} from "react-router-dom";
 import {useState} from "react";
+import {useRedirect} from "../../hooks/useRedirect.js";
 
 export default function ButtonBack() {
-    const navigate = useNavigate();
+    const {redirectIfAuth} = useRedirect();
     const [hover, setHover] = useState(false);
 
     function goBack() {
-        navigate(-1);
+        redirectIfAuth(-1);
     }
 
     return (

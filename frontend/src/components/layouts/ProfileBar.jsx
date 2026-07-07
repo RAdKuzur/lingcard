@@ -1,11 +1,11 @@
-import { useNavigate } from "react-router-dom";
 import { innerRoutes } from "../../plugins/routes.js";
+import {useRedirect} from "../../hooks/useRedirect.js";
 
 export default function ProfileBar({ isAuth }) {
-    const navigate = useNavigate();
+    const {redirectIfAuth} = useRedirect();
 
     function goProfile() {
-        navigate(innerRoutes.profile);
+        redirectIfAuth(innerRoutes.profile);
     }
 
     const username = localStorage.getItem('username') || 'Гость';

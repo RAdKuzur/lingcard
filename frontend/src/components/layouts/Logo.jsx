@@ -1,11 +1,11 @@
-import { useNavigate } from "react-router-dom";
 import { innerRoutes } from "../../plugins/routes.js";
+import {useRedirect} from "../../hooks/useRedirect.js";
 
 export default function Logo() {
-    const navigate = useNavigate();
+    const {redirectIfAuth} = useRedirect();
 
     function goHome() {
-        navigate(innerRoutes.home);
+        redirectIfAuth(innerRoutes.home);
     }
 
     return (

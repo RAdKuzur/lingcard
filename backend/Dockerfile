@@ -1,4 +1,13 @@
-FROM php:8.3-cli
+FROM composer:latest as builder
+
+WORKDIR /var/www/html
+
+COPY composer.json ./
+COPY . .
+
+RUN composer install --no-interaction --no-progress --optimize-autoloader
+
+FROM php:8.4-cli
 
 RUN pecl install redis \
     && docker-php-ext-enable redis
@@ -8,15 +17,13 @@ RUN apt-get update && apt-get install -y \
     && docker-php-ext-configure zip \
     && docker-php-ext-install zip pdo pdo_pgsql gd opcache sockets pcntl
 
-COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
 WORKDIR /var/www/html
 
 COPY . .
 
-RUN composer install --no-interaction --no-progress --optimize-autoloader
-
+COPY --from=builder /var/www/html/vendor /var/www/html/vendor
 
 EXPOSE 8080
 
-CMD ["php", "artisan", "serve", "--port=8080", "--host=0.0.0.0"]
+ENTRYPOINT ["php", "artisan"]

@@ -26,16 +26,49 @@ services:
     networks:
       - network
 
+  migrator:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    command: migrate
+    networks:
+      - network
+    depends_on:
+      - backend
+
+  seeder:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    command: db:seed
+    networks:
+      - network
+    depends_on:
+      - backend
+      - migrator
+
   backend:
     build:
       context: ./backend
       dockerfile: Dockerfile
+    command: serve --port=8080 --host=0.0.0.0
     ports:
       - "8080:8080"
     networks:
       - network
     depends_on:
       - db
+
+  queue:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    command: queue:work
+    networks:
+      - network
+    depends_on:
+      - backend
+      - migrator
 
 volumes:
   postgres_data:
