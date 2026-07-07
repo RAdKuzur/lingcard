@@ -27,31 +27,35 @@ export default function SelectLanguage({setLang, value = 0}) {
                 setLoading(false);
             });
     }, []);
+
     if (loading) {
-        return <select className="w-full border rounded-2xl h-full" disabled>
-            <option>Загрузка...</option>
-        </select>;
+        return (
+            <select className="w-full px-4 py-2.5 rounded-xl border border-slate-200 bg-slate-50 text-slate-400 cursor-not-allowed" disabled>
+                <option>Загрузка...</option>
+            </select>
+        );
     }
+
     if (error) {
-        return <select className="w-full border rounded-2xl h-full" disabled>
-            <option>Ошибка загрузки</option>
-        </select>;
+        return (
+            <select className="w-full px-4 py-2.5 rounded-xl border border-rose-200 bg-rose-50 text-rose-500 cursor-not-allowed" disabled>
+                <option>Ошибка загрузки</option>
+            </select>
+        );
     }
+
     return (
-        <select className="w-full border rounded-2xl h-full" value={value}
-                onChange={(e)=>setLang(e.target.value)}>
-            {languages.length === 0 ? (
-                <option>Нет доступных языков</option>
-            ) : (
-                <>
-                    <option key={0} value={0}>Выберите язык...</option>
-                    {languages.map(lang => (
-                        <option key={lang.id} value={lang.id}>
-                            {lang.name}
-                        </option>
-                    ))}
-                </>
-            )}
+        <select
+            className="w-full px-4 py-2.5 rounded-xl border border-slate-200 bg-white hover:border-slate-300 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 text-slate-700 cursor-pointer appearance-none"
+            value={value}
+            onChange={(e) => setLang(e.target.value)}
+        >
+            <option value={0}>Выберите язык...</option>
+            {languages.map(lang => (
+                <option key={lang.id} value={lang.id}>
+                    {lang.name}
+                </option>
+            ))}
         </select>
     );
 }

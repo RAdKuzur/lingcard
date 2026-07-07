@@ -9,12 +9,14 @@ class WordTrainingDTO
     public ?string $translation = null;
     public ?string $level = null;
     public ?int $status = null;
+    public ?int $repeat = null;
     public function __construct(
         ?int $id = null,
         ?string $text = null,
         ?string $translation = null,
         ?string $level = null,
-        ?int $status = null
+        ?int $status = null,
+        ?int $repeat = null,
     )
     {
         $this->id = $id;
@@ -22,6 +24,7 @@ class WordTrainingDTO
         $this->translation = $translation;
         $this->level = $level;
         $this->status = $status;
+        $this->repeat = $repeat;
     }
 
     public function toArray(): array
@@ -31,7 +34,8 @@ class WordTrainingDTO
             'text' => $this->text,
             'translation' => $this->translation,
             'level' => $this->level,
-            'status' => $this->status
+            'status' => $this->status,
+            'repeat' => $this->repeat,
         ];
     }
 }

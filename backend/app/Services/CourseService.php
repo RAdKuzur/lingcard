@@ -12,7 +12,6 @@ use App\Models\Course;
 use App\Repositories\CourseRepository;
 use App\Repositories\WordTranslationRepository;
 use DateTime;
-use function Symfony\Component\String\u;
 
 class CourseService
 {
@@ -62,7 +61,8 @@ class CourseService
                 text: $course->wordTranslation->word->text,
                 translation: $course->wordTranslation->translation,
                 level: LevelDictionary::get($course->wordTranslation->word->level),
-                status: $course->status
+                status: $course->status,
+                repeat: $course->repeat
             ))->toArray();
             return $data;
         }

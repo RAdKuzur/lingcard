@@ -1,7 +1,7 @@
 import {useEffect, useState} from "react";
 import ButtonBack from "../layouts/ButtonBack.jsx";
-import {get, patch} from "../../plugins/request.js";
-import {apiRoutes} from "../../plugins/apiRoutes.js";
+import { get, patch } from "../../plugins/request.js";
+import { apiRoutes } from "../../plugins/apiRoutes.js";
 
 export default function Training() {
     const [word, setWord] = useState(true)
@@ -16,7 +16,8 @@ export default function Training() {
     const [text, setText] = useState('')
     const [translation, setTranslation] = useState('')
     const [level, setLevel] = useState('')
-
+    const [status, setStatus] = useState('')
+    const [repeat, setRepeat] = useState(0)
     function show() {
         setWord(!word);
         setOpacityTranslation(!opacityTranslation)
@@ -46,10 +47,10 @@ export default function Training() {
             setWord(true)
             setDirection('')
             newWord()
-        }, 1500)
+        }, 1000)
         setTimeout(() => {
             setOpacityCard(true)
-        }, 2500)
+        }, 1500)
     }
     useEffect(() => {
         newWord()
@@ -63,48 +64,88 @@ export default function Training() {
             setText(data.text)
             setTranslation(data.translation)
             setLevel(data.level)
+            setStatus(data.status)
+            setRepeat(data.repeat)
         }
     }
     return (
-        <main className="flex flex-1 flex-col bg-gray-200 items-center justify-center">
-            <div className={'m-4'}>
-                <ButtonBack></ButtonBack>
-            </div>
-            <div className={`flex flex-col w-96 h-96 bg-white rounded-2xl duration-1000 
-                ${direction === 'right' ? 'origin-bottom-right rotate-20' : ''}
-                ${direction === 'left' ? 'origin-bottom-left -rotate-20' : ''}
+        <main className="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 flex flex-col items-center justify-center p-6">
+            <div className="w-full max-w-md">
+                <div className="mb-6">
+                    <ButtonBack />
+                </div>
+
+                <div className={`relative bg-white/80 backdrop-blur-sm rounded-3xl shadow-2xl shadow-indigo-500/10 p-8 transition-all duration-500 border border-white/50
+                ${direction === 'right' ? 'translate-x-full rotate-12 opacity-0 scale-90' : ''}
+                ${direction === 'left' ? '-translate-x-full -rotate-12 opacity-0 scale-90' : ''}
                 ${opacityCard ? 'opacity-100' : 'opacity-0 pointer-events-none'}
             `}>
-                <div className={'flex flex-col h-5/6'}>
-                    <div className={'flex m-4 h-1/6'}>
-                        <div className={'font-bold text-xl'}>{level}</div>
-                    </div>
-                    <div className={'flex flex-col  h-5/6'}>
-                        <div className={'flex flex-col h-1/3 items-center justify-center'}>
-                            <div className={'font-bold text-center text-3xl'}>{text}</div>
+                    <div className="text-center">
+                        <div className="flex flex-wrap items-center justify-center gap-2 mb-6">
+                        <span className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-orange-400 text-white shadow-lg shadow-indigo-500/25`}>
+                            {level}
+                        </span>
+                            {status === 1 ? (
+                                <span className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-emerald-400 to-emerald-500 text-white shadow-lg shadow-emerald-500/25">
+                                Новое слово
+                            </span>
+                            ) : (
+                                <span className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
+                                Повторений: {repeat}
+                            </span>
+                            )}
                         </div>
-                        <div className={'flex flex-col h-1/3 items-center justify-center'}>
-                            <div className={`font-bold text-center duration-600 ${opacityTranslation ? 'opacity-100' : 'opacity-0'}`}>{translation}</div>
+
+                        <div className="py-8">
+                            <div className="text-4xl font-bold text-slate-800 mb-4 tracking-tight">
+                                {translation}
+                            </div>
+                            <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
+                                {text}
+                            </div>
+                        </div>
+
+                        <div className="flex gap-3 mt-8">
+                            <button
+                                className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
+                                    isHoverNo
+                                        ? 'bg-rose-600 shadow-rose-500/40 transform scale-[1.02]'
+                                        : 'bg-rose-500 shadow-rose-500/30 hover:bg-rose-600'
+                                } text-white`}
+                                onMouseEnter={() => setHoverNo(true)}
+                                onMouseLeave={() => setHoverNo(false)}
+                                onClick={() => swipe('left')}
+                            >
+                                ✕ Не знаю
+                            </button>
+                            <button
+                                className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
+                                    isHoverShow
+                                        ? 'bg-cyan-600 shadow-cyan-500/40 transform scale-[1.02]'
+                                        : 'bg-cyan-500 shadow-cyan-500/30 hover:bg-cyan-600'
+                                } text-white`}
+                                onMouseEnter={() => setHoverShow(true)}
+                                onMouseLeave={() => setHoverShow(false)}
+                                onClick={show}
+                            >
+                                {word ? 'Показать' : 'Убрать'}
+                            </button>
+                            <button
+                                className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
+                                    isHoverYes
+                                        ? 'bg-emerald-600 shadow-emerald-500/40 transform scale-[1.02]'
+                                        : 'bg-emerald-500 shadow-emerald-500/30 hover:bg-emerald-600'
+                                } text-white`}
+                                onMouseEnter={() => setHoverYes(true)}
+                                onMouseLeave={() => setHoverYes(false)}
+                                onClick={() => swipe('right')}
+                            >
+                                ✓ Знаю
+                            </button>
                         </div>
                     </div>
-                </div>
-                <div className={'flex h-1/8 justify-between m-3'}>
-                    <button className={`cursor-pointer p-2 bg-red-400 w-1/4 rounded-3xl font-sans ${isHoverNo ? 'bg-red-600' : ''}`}
-                        onMouseEnter={() => setHoverNo(true)}
-                        onMouseLeave={() => setHoverNo(false)}
-                        onClick={() => swipe('left')}
-                    >Не знаю</button>
-                    <button className={`cursor-pointer p-2 bg-cyan-400 w-1/4  rounded-3xl ${isHoverShow ? 'bg-cyan-600' : ''}`}
-                            onMouseEnter={() => setHoverShow(true)}
-                            onMouseLeave={() => setHoverShow(false)}
-                            onClick={show}>{word ? 'Показать' : 'Убрать'}</button>
-                    <button className={`cursor-pointer p-2 bg-green-400 w-1/4 rounded-3xl font-sans ${isHoverYes ? 'bg-green-600' : ''}`}
-                            onMouseEnter={() => setHoverYes(true)}
-                            onMouseLeave={() => setHoverYes(false)}
-                            onClick={() => swipe('right')}
-                    >Знаю</button>
                 </div>
             </div>
         </main>
-    )
+    );
 }
