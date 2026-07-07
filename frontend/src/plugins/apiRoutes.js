@@ -7,7 +7,8 @@ export const apiRoutes = {
     languages: apiUrl + '/languages',
     profile: apiUrl + '/profile',
     progress: apiUrl + '/progress',
-    training: apiUrl + '/training'
+    training: apiUrl + '/training',
+    teachable: apiUrl + '/teachable'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit) {

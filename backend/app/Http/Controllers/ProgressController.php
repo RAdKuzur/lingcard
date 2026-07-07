@@ -35,9 +35,12 @@ class ProgressController extends Controller
     }
 
     public function initProgress() {
-        $this->courseService->init();
+        $status = $this->courseService->init();
         return response()->json([
-            'success' => true
+            'success' => true,
+            'data' => [
+                'status' => $status
+            ]
         ]);
     }
 }

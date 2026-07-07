@@ -48,7 +48,11 @@ class CourseService
 
     public function init() {
         $user = AuthHelper::user();
-        InitProgressJob::dispatch($user->base_language_id, $user->target_language_id, $user->id);
+        if($user && count($this->courseRepository->getUserCourses($user->id)) === 0) {
+            InitProgressJob::dispatch($user->base_language_id, $user->target_language_id, $user->id);
+            return true;
+        }
+        return false;
     }
 
     public function newWord() {
@@ -71,7 +75,7 @@ class CourseService
 
     public function repeat($id, $status) {
         $course = $this->courseRepository->getById($id);
-        if ($status) {
+        if ($course && $status) {
             switch ($course->status) {
                 case StatusDictionary::NONE:
                     $this->courseRepository->update($id, [
@@ -105,4 +109,19 @@ class CourseService
         }
     }
 
+    public function status()
+    {
+        $user = AuthHelper::user();
+        if(count($this->courseRepository->getUserCourses($user->id)) > 0) {
+            return [
+                'language' => $user->targetLanguage->code,
+                'training' => true
+            ];
+        }
+
+        return [
+            'language' => $user->targetLanguage->code,
+            'training' => false
+        ];
+    }
 }

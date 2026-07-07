@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import { get } from "./../../plugins/request.js";
 
-export default function SelectLanguage({setLang, value = 0}) {
+export default function SelectLanguage({setLang, value = 0, disabled = false}) {
     const [languages, setLanguages] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -49,6 +49,7 @@ export default function SelectLanguage({setLang, value = 0}) {
             className="w-full px-4 py-2.5 rounded-xl border border-slate-200 bg-white hover:border-slate-300 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 text-slate-700 cursor-pointer appearance-none"
             value={value}
             onChange={(e) => setLang(e.target.value)}
+            disabled={disabled}
         >
             <option value={0}>Выберите язык...</option>
             {languages.map(lang => (

@@ -28,5 +28,7 @@ Route::group(['middleware' => AuthMiddleware::class], function () {
 
     Route::post('/progress', [ProgressController::class, 'initProgress'])->name('progress-init');
     Route::delete('/progress', [ProgressController::class, 'clearProgress'])->name('progress-clear');
+
+    Route::get('/teachable', [TrainingController::class, 'teachable'])->name('teachable');
 });
 

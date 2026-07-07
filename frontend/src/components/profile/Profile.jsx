@@ -16,32 +16,81 @@ export default function Profile({setAuth}) {
     const [noneWords, setNoneWords] = useState(0)
     const [learningWords, setLearningWords] = useState(0)
     const [learnedWords, setLearnedWords] = useState(0)
+
+    // Состояния для отслеживания исходных значений
+    const [initialBaseLang, setInitialBaseLang] = useState(0)
+    const [initialTargetLang, setInitialTargetLang] = useState(0)
+
+    // Состояние для сообщений об ошибках
+    const [errorMessage, setErrorMessage] = useState('')
+    const [successMessage, setSuccessMessage] = useState('')
+
     function logout() {
         logoutAxios(setAuth)
         redirectIfAuth(innerRoutes.login)
     }
 
-    async function changeProfile() {
-        if(String(baseLang) !== String(targetLang) &&
-            baseLang !== 0 &&
-            targetLang !== 0 &&
-            baseLang !== '0' &&
-            targetLang !== '0') {
-            const response = await patch(apiRoutes.profile, {
-                    base_language_id: baseLang,
-                    target_language_id: targetLang
-                },
-                {
-                    withCredentials: true
-                });
+    // Валидация перед отправкой
+    const validateChanges = () => {
+        // Проверка на одинаковые языки
+        if (String(baseLang) === String(targetLang)) {
+            setErrorMessage('Базовый язык и язык изучения не могут быть одинаковыми')
+            return false
         }
 
+        // Проверка на пустые значения
+        if (baseLang === 0 || targetLang === 0 ||
+            baseLang === '0' || targetLang === '0') {
+            setErrorMessage('Пожалуйста, выберите оба языка')
+            return false
+        }
+
+        // Проверка на изменения
+        if (String(baseLang) === String(initialBaseLang) &&
+            String(targetLang) === String(initialTargetLang)) {
+            setErrorMessage('Языки не были изменены')
+            return false
+        }
+
+        return true
     }
-    async function clearProgress() {
-        const response = await del(apiRoutes.progress,
-            {
+
+    async function changeProfile() {
+        setErrorMessage('')
+        setSuccessMessage('')
+
+        if (!validateChanges()) {
+            // Авто-скрытие сообщения через 3 секунды
+            setTimeout(() => setErrorMessage(''), 3000)
+            return
+        }
+
+        try {
+            const response = await patch(apiRoutes.profile, {
+                base_language_id: baseLang,
+                target_language_id: targetLang
+            }, {
                 withCredentials: true
             });
+
+            // Обновляем начальные значения после успешного изменения
+            setInitialBaseLang(baseLang)
+            setInitialTargetLang(targetLang)
+            setSuccessMessage('Настройки успешно обновлены!')
+
+            // Авто-скрытие сообщения через 3 секунды
+            setTimeout(() => setSuccessMessage(''), 3000)
+
+        } catch (error) {
+            setErrorMessage('Ошибка при обновлении настроек')
+            setTimeout(() => setErrorMessage(''), 3000)
+        }
+    }
+
+    async function clearProgress() {
+        const response = await del(apiRoutes.progress, {
+            withCredentials: true
+        });
     }
 
     useEffect(() => {
@@ -51,6 +100,9 @@ export default function Profile({setAuth}) {
                 const data = response.data;
                 setTargetLang(data.target_language_id)
                 setBaseLang(data.base_language_id)
+                // Сохраняем начальные значения
+                setInitialBaseLang(data.base_language_id)
+                setInitialTargetLang(data.target_language_id)
                 setNoneWords(data.none_words)
                 setLearningWords(data.learning_words)
                 setLearnedWords(data.learned_words)
@@ -60,6 +112,15 @@ export default function Profile({setAuth}) {
         };
         fetchProfile();
     }, []);
+
+    // Проверяем, изменились ли языки и валидны ли они для активации кнопки
+    const isButtonDisabled = () => {
+        const hasChanges = String(baseLang) !== String(initialBaseLang) ||
+            String(targetLang) !== String(initialTargetLang)
+        const isValid = baseLang !== 0 && targetLang !== 0 &&
+            String(baseLang) !== String(targetLang)
+        return !(hasChanges && isValid)
+    }
 
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 flex justify-center p-6">
@@ -71,20 +132,54 @@ export default function Profile({setAuth}) {
 
                 <div className="w-full bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div className={'disabled'}>
+                        <div>
                             <label className="text-sm font-medium text-slate-600 block mb-2">Базовый язык</label>
-                            <SelectLanguage setLang={setBaseLang} value={baseLang} />
+                            <SelectLanguage
+                                setLang={setBaseLang}
+                                value={baseLang}
+                                disabled={true}
+                                onChange={() => {
+                                    // Сбрасываем сообщения при изменении
+                                    setErrorMessage('')
+                                    setSuccessMessage('')
+                                }}
+                            />
                         </div>
                         <div>
                             <label className="text-sm font-medium text-slate-600 block mb-2">Язык изучения</label>
-                            <SelectLanguage setLang={setTargetLang} value={targetLang} />
+                            <SelectLanguage
+                                setLang={setTargetLang}
+                                value={targetLang}
+                                onChange={() => {
+                                    setErrorMessage('')
+                                    setSuccessMessage('')
+                                }}
+                            />
                         </div>
                     </div>
+
+                    {/* Сообщения об ошибках и успехе */}
+                    {errorMessage && (
+                        <div className="mt-4 p-3 bg-rose-50 border border-rose-200 text-rose-700 rounded-xl text-sm">
+                            ⚠️ {errorMessage}
+                        </div>
+                    )}
+                    {successMessage && (
+                        <div className="mt-4 p-3 bg-emerald-50 border border-emerald-200 text-emerald-700 rounded-xl text-sm">
+                            ✅ {successMessage}
+                        </div>
+                    )}
+
                     <button
-                        className="mt-4 w-full px-6 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-xl transition-all duration-200 shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/35"
+                        className={`mt-4 w-full px-6 py-2.5 font-medium rounded-xl transition-all duration-200 shadow-lg ${
+                            isButtonDisabled()
+                                ? 'bg-slate-300 cursor-not-allowed text-slate-500 shadow-slate-300/25'
+                                : 'bg-emerald-500 hover:bg-emerald-600 text-white shadow-emerald-500/25 hover:shadow-emerald-500/35'
+                        }`}
                         onClick={changeProfile}
+                        disabled={isButtonDisabled()}
                     >
-                        Изменить
+                        {isButtonDisabled() ? 'Нет изменений' : 'Изменить'}
                     </button>
                 </div>
 

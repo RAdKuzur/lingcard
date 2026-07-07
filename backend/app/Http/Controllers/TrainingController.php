@@ -31,4 +31,16 @@ class TrainingController extends Controller
             'success' => true
         ]);
     }
+
+    public function teachable()
+    {
+        $trainingStatus = $this->courseService->status();
+        return response()->json([
+            'success' => true,
+            'data' => [
+                'language' => $trainingStatus['language'],
+                'training' => $trainingStatus['training']
+            ]
+        ]);
+    }
 }
