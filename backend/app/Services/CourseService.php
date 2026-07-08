@@ -25,7 +25,8 @@ class CourseService
 
     public function wordsByStatus($status, $page, $limit) {
         $data = [];
-        $courses = $this->courseRepository->getByStatus($status, $page, $limit);
+        $user = AuthHelper::user();
+        $courses = $this->courseRepository->getByStatus($status, $user->id, $page, $limit);
         foreach ($courses as $course) {
             $data[] = (new WordProgressDTO(
                 id: $course->id,

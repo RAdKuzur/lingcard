@@ -30,8 +30,9 @@ class CourseRepository
         return Course::where(['user_id' => $userId])->update($data);
     }
 
-    public function getByStatus($status, $page = 1, $limit = 10) {
+    public function getByStatus($status, $userId ,$page = 1, $limit = 10) {
         return Course::with('wordTranslation.word')
+            ->where('user_id', $userId)
             ->where('status', $status)
             ->paginate($limit, ['*'], 'page', $page);
     }

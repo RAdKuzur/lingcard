@@ -16,8 +16,15 @@ class UserRepository
         }
         return null;
     }
+    public function create($data) {
+        return DB::table('users')->insert($data);
+    }
 
     public function update($id , $data) {
         return DB::table('users')->where('id', $id)->update($data);
+    }
+
+    public function unique($email, $name) {
+        return !DB::table('users')->where('email', $email)->orWhere('name', $name)->exists();
     }
 }

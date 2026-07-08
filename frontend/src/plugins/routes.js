@@ -6,5 +6,6 @@ export const innerRoutes = {
     dictionary: '/dictionary',
     progress: '/progress',
     knowledge: '/knowledge',
-    profile: '/profile'
+    profile: '/profile',
+    register: '/register'
 }

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\LoginRequest;
+use App\Http\Requests\RegisterRequest;
 use App\Services\AuthService;
 use Illuminate\Http\Request;
 
@@ -39,6 +40,17 @@ class AuthController extends Controller
             'success' => false
         ], 401);
 
+    }
+
+    public function register(RegisterRequest $request)
+    {
+        $dto = $request->toDTO();
+        $status = $this->authService->register($dto);
+        return response()->json([
+            'data' => [
+                'status' => $status
+            ]
+        ]);
     }
 
     public function logout(Request $request) {

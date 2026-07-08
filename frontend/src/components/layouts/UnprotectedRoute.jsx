@@ -5,8 +5,8 @@ const ProtectedRoute = ({ children }) => {
     const isAuth = localStorage.getItem('username') !== null &&
         localStorage.getItem('role') !== null;
 
-    if (!isAuth) {
-        return <Navigate to={innerRoutes.login} replace />;
+    if (isAuth) {
+        return <Navigate to={innerRoutes.home} replace />;
     }
 
     return children;

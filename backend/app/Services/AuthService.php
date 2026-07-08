@@ -5,6 +5,7 @@ namespace App\Services;
 use App\Dictionaries\RoleDictionary;
 use App\DTO\AuthUserDTO;
 use App\DTO\LoginDTO;
+use App\DTO\RegisterDTO;
 use App\Repositories\TokenRepository;
 use App\Repositories\UserRepository;
 use Illuminate\Http\Request;
@@ -43,6 +44,15 @@ class AuthService
                 'refresh_token' => $refreshToken,
                 'access_token' => $accessToken,
             ];
+        }
+        return false;
+    }
+
+    public function register(RegisterDTO $registerDTO)
+    {
+        if ($this->userRepository->unique($registerDTO->email, $registerDTO->name)) {
+            $this->userRepository->create($registerDTO->toArray());
+            return true;
         }
         return false;
     }

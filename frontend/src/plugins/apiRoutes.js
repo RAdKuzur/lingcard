@@ -3,6 +3,7 @@ export const apiRoutes = {
     csrf: apiUrl + '/csrf-cookie',
     login: apiUrl + '/login',
     logout: apiUrl + '/logout',
+    register: apiUrl + '/register',
     refresh: apiUrl + '/refresh',
     languages: apiUrl + '/languages',
     profile: apiUrl + '/profile',

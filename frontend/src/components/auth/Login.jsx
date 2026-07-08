@@ -2,16 +2,21 @@ import { useState } from "react";
 import { loginAxios as loginAxios } from "../../plugins/auth.js";
 import { useNavigate } from "react-router-dom";
 import { innerRoutes } from "../../plugins/routes.js";
-import {useRedirect}from "../../hooks/useRedirect.js";
+import { useRedirect } from "../../hooks/useRedirect.js";
 
 export default function Login({ setAuth }) {
-    const {redirect} = useRedirect();
+    const { redirect } = useRedirect();
+    const navigate = useNavigate();
     const [isHover, setHover] = useState(false);
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
     function signIn() {
         loginAxios(email, password, setAuth, redirect);
+    }
+
+    function goToRegister() {
+        redirect(innerRoutes.register);
     }
 
     return (
@@ -39,15 +44,24 @@ export default function Login({ setAuth }) {
                         />
                     </div>
                 </div>
-                <div className="mt-4">
+                <div className="mt-4 space-y-3">
                     <button
-                        className={`w-full py-3.5 rounded-xl bg-gradient-to-r from-indigo-500 to-purple-600 text-white font-bold transition-all duration-200 shadow-lg shadow-indigo-500/25 hover:shadow-indigo-500/40 hover:scale-[1.02] active:scale-[0.98] ${isHover ? 'from-indigo-600 to-purple-700' : ''}`}
+                        className={`w-full py-3.5 rounded-xl bg-gradient-to-r cursor-pointer from-indigo-500 to-purple-600 text-white font-bold transition-all duration-200 shadow-lg shadow-indigo-500/25 hover:shadow-indigo-500/40 hover:scale-[1.02] active:scale-[0.98] ${isHover ? 'from-indigo-600 to-purple-700' : ''}`}
                         onClick={signIn}
                         onMouseEnter={() => setHover(true)}
                         onMouseLeave={() => setHover(false)}
                     >
                         Войти
                     </button>
+                    <div className="text-sm text-slate-600">
+                        Нет аккаунта?{' '}
+                        <button
+                            onClick={goToRegister}
+                            className="text-indigo-600 font-semibold hover:text-indigo-800 hover:underline transition-all duration-200 cursor-pointer"
+                        >
+                            Зарегистрироваться
+                        </button>
+                    </div>
                 </div>
             </div>
         </main>

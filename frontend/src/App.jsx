@@ -12,6 +12,8 @@ import Progress from "./components/progress/Progress.jsx";
 import Profile from "./components/profile/Profile.jsx";
 import Knowledge from "./components/knowledge/Knowledge.jsx";
 import ProtectedRoute from "./components/layouts/ProtectedRoute.jsx";
+import Register from "./components/auth/Register.jsx";
+import UnprotectedRoute from "./components/layouts/UnprotectedRoute.jsx";
 
 function App() {
     const [isAuth, setAuth] = useState(false);
@@ -26,7 +28,16 @@ function App() {
         <div className="flex flex-col min-h-screen">
             <Navbar isAuth={isAuth}/>
             <Routes>
-                <Route path={innerRoutes.login} element={<Login setAuth={setAuth}/>}/>
+                <Route path={innerRoutes.register} element={
+                    <UnprotectedRoute>
+                        <Register/>
+                    </UnprotectedRoute>
+                }/>
+                <Route path={innerRoutes.login} element={
+                    <UnprotectedRoute>
+                        <Login setAuth={setAuth}/>
+                    </UnprotectedRoute>
+                }/>
                 <Route path={innerRoutes.all} element={
                     <ProtectedRoute>
                         <Home/>
