@@ -13,21 +13,23 @@ export default function Dictionary() {
     const [limit, setLimit] = useState(10)
     const [amountWords, setAmountWords] = useState(1);
     const [isPaginator, setPaginator] = useState(false)
+    const [search, setSearch] = useState('')
+    async function handleSearch(value, page = 1, limit = 10) {
 
-    async function handleSearch(page = 1, limit = 10) {
         if (lang1 !== 0 && lang2 !== 0 && lang1 !== lang2) {
-            const response = await get(apiDictionary(lang1, lang2, page, limit), null, {withCredentials: true})
+            const response = await get(apiDictionary(lang1, lang2, page, limit, value), null, {withCredentials: true})
             const data = await response.data;
             setPaginator(true)
             setAmountWords(await response.amountWords)
             setWords(data)
         }
+        setSearch(value)
     }
     function nextPage() {
         if(page !== totalPages()) {
             const newPage = page + 1;
             setPage(newPage);
-            handleSearch(newPage, limit)
+            handleSearch(search, newPage, limit)
         }
     }
 
@@ -35,7 +37,7 @@ export default function Dictionary() {
         if(page > 1) {
             const newPage = page - 1;
             setPage(newPage)
-            handleSearch(newPage, limit)
+            handleSearch(search, newPage, limit)
         }
     }
 
@@ -63,7 +65,7 @@ export default function Dictionary() {
                         </div>
                     </div>
                     <button
-                        onClick={() => handleSearch(page, limit)}
+                        onClick={() => handleSearch(search, page, limit)}
                         className="mt-4 w-full px-6 py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-medium rounded-xl transition-all duration-200 shadow-lg shadow-orange-500/25 hover:shadow-orange-500/35 cursor-pointer"
                     >
                         Показать
@@ -71,7 +73,17 @@ export default function Dictionary() {
                 </div>
 
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
-                    <h2 className="text-sm font-medium text-slate-500 mb-4">Слова</h2>
+                    <div className="flex items-center justify-between mb-4 gap-4 flex-wrap">
+                        <h2 className="text-sm font-medium text-slate-500">Слова</h2>
+                        <div className="flex-1 max-w-xs">
+                            <input
+                                type="text"
+                                placeholder="Поиск по слову (на базовом языке)"
+                                className="w-full px-4 py-2 text-sm border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-all duration-200"
+                                onInput={(e) => handleSearch(e.target.value, page, limit)}
+                            />
+                        </div>
+                    </div>
                     <div className="space-y-3 max-h-[50vh] overflow-y-auto">
                         {words.length > 0 ? (
                             words.map((e) => (

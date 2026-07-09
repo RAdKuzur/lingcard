@@ -7,8 +7,10 @@ use App\Dictionaries\StatusDictionary;
 use App\DTO\ProfileDTO;
 use App\DTO\ProfileUpdateDTO;
 use App\Helpers\AuthHelper;
+use App\Helpers\LogHelper;
 use App\Repositories\CourseRepository;
 use App\Repositories\UserRepository;
+use Illuminate\Support\Facades\DB;
 
 class UserService
 {
@@ -38,6 +40,15 @@ class UserService
     }
 
     public function update($id, ProfileUpdateDTO $dto) {
-        $this->userRepository->update($id, $dto->toArray());
+        DB::beginTransaction();
+        try {
+            $this->userRepository->update($id, $dto->toArray());
+            DB::commit();
+        }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
+        }
+
     }
 }

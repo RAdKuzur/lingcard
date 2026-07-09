@@ -82,7 +82,24 @@ export default function Training() {
         }
         fetchData()
     }, [])
-
+    function setLevelColor(level){
+        switch (level) {
+            case 'Начальный':
+                return 'bg-red-500 hover:bg-red-600 text-white';
+            case 'Базовый':
+                return 'bg-orange-500 hover:bg-orange-600 text-white';
+            case 'Средний':
+                return 'bg-yellow-500 hover:bg-yellow-600 text-white';
+            case 'Выше среднего':
+                return 'bg-green-500 hover:bg-green-600 text-white';
+            case 'Продвинутый':
+                return 'bg-blue-500 hover:bg-blue-600 text-white';
+            case 'Профессиональный':
+                return 'bg-purple-500 hover:bg-purple-600 text-white';
+            default:
+                return 'bg-gray-500 hover:bg-gray-600 text-white';
+        }
+    }
     async function newWord() {
         const response = await get(apiRoutes.training, null, {withCredentials: true});
         const data = await response.data;
@@ -132,7 +149,7 @@ export default function Training() {
                         <div className="text-center">
                             <div className="flex flex-wrap items-center justify-center gap-2 mb-6">
                         <span
-                            className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-orange-400 text-white shadow-lg shadow-indigo-500/25`}>
+                            className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold ${setLevelColor(level)} text-white shadow-lg shadow-indigo-500/25`}>
                             {level}
                         </span>
                                 {status === 1 ? (

@@ -18,7 +18,8 @@ class ProgressController extends Controller
     public function progress($status) {
         $page = request()->query('page');
         $limit = request()->query('limit');
-        $data = $this->courseService->wordsByStatus($status, $page, $limit);
+        $search = request()->query('search');
+        $data = $this->courseService->wordsByStatus($status, $page, $limit, $search);
 
         return response()->json([
             'success' => true,

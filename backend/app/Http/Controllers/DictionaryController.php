@@ -18,7 +18,8 @@ class DictionaryController extends Controller
     public function translate($baseTrainingId, $targetLanguageId) {
         $page = request()->query('page');
         $limit = request()->query('limit');
-        $data = $this->wordTranslationService->dictionary($baseTrainingId, $targetLanguageId, $page, $limit);
+        $search = request()->query('search');
+        $data = $this->wordTranslationService->dictionary($baseTrainingId, $targetLanguageId, $page, $limit, $search);
         return response()->json([
             'success' => true,
             'data' => $data['data'],

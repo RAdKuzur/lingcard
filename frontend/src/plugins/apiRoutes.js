@@ -13,8 +13,12 @@ export const apiRoutes = {
     user: apiUrl + '/user'
 }
 
-export function apiDictionary(baseLangId, targetLangId, page, limit) {
-    return apiUrl + '/dictionary/' + baseLangId + '/language/' + targetLangId
+export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {
+    let url = apiUrl + '/dictionary/' + baseLangId + '/language/' + targetLangId
         + '?page=' + page
         + '&limit=' + limit;
+    if (search) {
+        url = url + '&search=' + search;
+    }
+    return url
 }

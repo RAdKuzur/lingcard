@@ -4,6 +4,7 @@ namespace App\Jobs;
 
 use App\Dictionaries\StatusDictionary;
 use App\Helpers\AuthHelper;
+use App\Helpers\LogHelper;
 use App\Models\User;
 use App\Repositories\WordTranslationRepository;
 use Illuminate\Contracts\Queue\ShouldQueue;
@@ -36,6 +37,7 @@ class InitProgressJob implements ShouldQueue
      */
     public function handle(): void
     {
+        DB::beginTransaction();
         try {
             $wordTranslations = (new WordTranslationRepository())->getByTargetLanguageIdAndBaseLanguageId($this->baseLanguageId, $this->targetLanguageId);
             foreach ($wordTranslations as $wordTranslation) {
@@ -47,9 +49,11 @@ class InitProgressJob implements ShouldQueue
                     'last_time_repeated' => now()
                 ]);
             }
+            DB::commit();
         }
         catch (\Exception $e) {
-            throw new \Exception($e->getMessage());
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
         }
 
     }

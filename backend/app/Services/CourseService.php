@@ -7,11 +7,13 @@ use App\Dictionaries\StatusDictionary;
 use App\DTO\WordProgressDTO;
 use App\DTO\WordTrainingDTO;
 use App\Helpers\AuthHelper;
+use App\Helpers\LogHelper;
 use App\Jobs\InitProgressJob;
 use App\Models\Course;
 use App\Repositories\CourseRepository;
 use App\Repositories\WordTranslationRepository;
 use DateTime;
+use Illuminate\Support\Facades\DB;
 
 class CourseService
 {
@@ -23,10 +25,10 @@ class CourseService
         $this->courseRepository = $courseRepository;
     }
 
-    public function wordsByStatus($status, $page, $limit) {
+    public function wordsByStatus($status, $page, $limit, $search) {
         $data = [];
         $user = AuthHelper::user();
-        $courses = $this->courseRepository->getByStatus($status, $user->id, $page, $limit);
+        $courses = $this->courseRepository->getByStatus($status, $user->id, $page, $limit, $search);
         foreach ($courses as $course) {
             $data[] = (new WordProgressDTO(
                 id: $course->id,
@@ -38,13 +40,21 @@ class CourseService
         }
         return [
             'data' => $data,
-            'amountWords' => $this->courseRepository->countByStatus($status),
+            'amountWords' => $this->courseRepository->countByStatus($status, $search),
         ];
     }
     public function clearProgress()
     {
-        $user = AuthHelper::user();
-        $this->courseRepository->deleteProgress($user->id);
+        DB::beginTransaction();
+        try{
+            $user = AuthHelper::user();
+            $this->courseRepository->deleteProgress($user->id);
+            DB::commit();
+        }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
+        }
     }
 
     public function init() {
@@ -75,38 +85,46 @@ class CourseService
     }
 
     public function repeat($id, $status) {
-        $course = $this->courseRepository->getById($id);
-        if ($course && $status) {
-            switch ($course->status) {
-                case StatusDictionary::NONE:
-                    $this->courseRepository->update($id, [
-                        'repeat' => $course->repeat + 1,
-                        'status' => StatusDictionary::LEARNED,
-                        'last_time_repeated' => now()
-                    ]);
-                    break;
-                case StatusDictionary::LEARNING:
-                    $this->courseRepository->update($id, [
-                        'repeat' => $course->repeat + 1,
-                        'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusDictionary::LEARNED : StatusDictionary::LEARNING,
-                        'last_time_repeated' => now()
-                    ]);
-                    break;
-                default:
-                    break;
+        DB::beginTransaction();
+        try {
+            $course = $this->courseRepository->getById($id);
+            if ($course && $status) {
+                switch ($course->status) {
+                    case StatusDictionary::NONE:
+                        $this->courseRepository->update($id, [
+                            'repeat' => $course->repeat + 1,
+                            'status' => StatusDictionary::LEARNED,
+                            'last_time_repeated' => now()
+                        ]);
+                        break;
+                    case StatusDictionary::LEARNING:
+                        $this->courseRepository->update($id, [
+                            'repeat' => $course->repeat + 1,
+                            'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusDictionary::LEARNED : StatusDictionary::LEARNING,
+                            'last_time_repeated' => now()
+                        ]);
+                        break;
+                    default:
+                        break;
+                }
             }
+            else {
+                switch ($course->status) {
+                    case StatusDictionary::NONE:
+                        $this->courseRepository->update($id, [
+                            'status' => StatusDictionary::LEARNING,
+                            'last_time_repeated' => now()
+                        ]);
+                        break;
+                    default:
+                        break;
+                }
+            }
+            DB::commit();
         }
-        else {
-            switch ($course->status) {
-                case StatusDictionary::NONE:
-                    $this->courseRepository->update($id, [
-                        'status' => StatusDictionary::LEARNING,
-                        'last_time_repeated' => now()
-                    ]);
-                    break;
-                default:
-                    break;
-            }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
         }
     }
 

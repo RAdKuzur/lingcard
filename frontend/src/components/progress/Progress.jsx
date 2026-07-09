@@ -10,20 +10,20 @@ export default function Progress() {
     const [limit] = useState(10);
     const [words, setWords] = useState([]);
     const [amountWords, setAmountWords] = useState(1);
-
+    const [search, setSearch] = useState('')
     useEffect(() => { handleTabClick(1); }, []);
 
     function handleTabClick(tabId) {
         setActiveTab(tabId);
         setPage(1);
-        handleProgress(tabId, 1, limit);
+        handleProgress(tabId, 1, limit, search);
     }
 
     function nextPage() {
         if (page !== totalPages()) {
             const newPage = page + 1;
             setPage(newPage);
-            handleProgress(activeTab, newPage, limit);
+            handleProgress(activeTab, newPage, limit, search);
         }
     }
 
@@ -31,20 +31,25 @@ export default function Progress() {
         if (page > 1) {
             const newPage = page - 1;
             setPage(newPage);
-            handleProgress(activeTab, newPage, limit);
+            handleProgress(activeTab, newPage, limit, search);
         }
     }
 
-    async function handleProgress(status, page = 1, limit = 10) {
+    async function handleProgress(status, page = 1, limit = 10, value = '') {
+        let url = `${apiRoutes.progress}/${status}?page=${page}&limit=${limit}`;
+        if (value) {
+            url = url + '&search=' + value;
+        }
         setPage(page);
         const response = await get(
-            `${apiRoutes.progress}/${status}?page=${page}&limit=${limit}`,
+            url,
             null,
             { withCredentials: true }
         );
         const data = await response.data;
         setAmountWords(await response.amountWords);
         setWords(data);
+        setSearch(value)
     }
 
     function totalPages() {
@@ -98,6 +103,17 @@ export default function Progress() {
 
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <h2 className="text-sm font-medium text-slate-500 mb-4">Слова</h2>
+                    <div className="flex items-center justify-between mb-4 gap-4 flex-wrap">
+                        <h2 className="text-sm font-medium text-slate-500">Слова</h2>
+                        <div className="flex-1 max-w-xs">
+                            <input
+                                type="text"
+                                placeholder="Поиск по слову (на базовом языке)"
+                                className="w-full px-4 py-2 text-sm border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-all duration-200"
+                                onInput={(e) => handleProgress(activeTab, page, limit, e.target.value)}
+                            />
+                        </div>
+                    </div>
                     <div className="space-y-3 max-h-[50vh] overflow-y-auto">
                         {words.length > 0 ? (
                             words.map((e) => (
@@ -118,7 +134,8 @@ export default function Progress() {
                 </div>
 
                 {words.length > 0 && (
-                    <div className="flex items-center justify-between gap-4 bg-white px-4 py-3 rounded-xl shadow-lg shadow-slate-200/50">
+                    <div
+                        className="flex items-center justify-between gap-4 bg-white px-4 py-3 rounded-xl shadow-lg shadow-slate-200/50">
                         <button
                             onClick={prevPage}
                             disabled={page === 1}

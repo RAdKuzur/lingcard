@@ -7,10 +7,12 @@ use App\DTO\AuthUserDTO;
 use App\DTO\LoginDTO;
 use App\DTO\RegisterDTO;
 use App\Helpers\AuthHelper;
+use App\Helpers\LogHelper;
 use App\Repositories\TokenRepository;
 use App\Repositories\UserRepository;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\DB;
 use Tymon\JWTAuth\Facades\JWTAuth;
 use Tymon\JWTAuth\JWT;
 
@@ -33,18 +35,30 @@ class AuthService
             password: $loginDTO->password
         );
         if ($user) {
-            $refreshToken = JWTAuth::claims([
-                'time' => now()
-            ])->fromUser($user);
-            $accessToken = JWTAuth::claims([
-                'username' => $user->name,
-                'time' => now()
-            ])->fromUser($user);
-            $this->tokenRepository->createToken($refreshToken, $user->id);
-            return [
-                'refresh_token' => $refreshToken,
-                'access_token' => $accessToken,
-            ];
+            DB::beginTransaction();
+            try {
+                $refreshToken = JWTAuth::claims([
+                    'time' => now()
+                ])->fromUser($user);
+                $accessToken = JWTAuth::claims([
+                    'username' => $user->name,
+                    'time' => now()
+                ])->fromUser($user);
+                $this->tokenRepository->createToken($refreshToken, $user->id);
+                DB::commit();
+                return [
+                    'refresh_token' => $refreshToken,
+                    'access_token' => $accessToken,
+                ];
+            }
+            catch (\Exception $e) {
+                DB::rollBack();
+                LogHelper::errorLog($e->getTrace(), $e->getMessage());
+                return [
+                    'refresh_token' => null,
+                    'access_token' => null,
+                ];
+            }
         }
         return false;
     }
@@ -52,7 +66,15 @@ class AuthService
     public function register(RegisterDTO $registerDTO)
     {
         if ($this->userRepository->unique($registerDTO->email, $registerDTO->name)) {
-            $this->userRepository->create($registerDTO->toArray());
+            DB::beginTransaction();
+            try {
+                $this->userRepository->create($registerDTO->toArray());
+                DB::commit();
+            }
+            catch (\Exception $e) {
+                DB::rollBack();
+                LogHelper::errorLog($e->getTrace(), $e->getMessage());
+            }
             return true;
         }
         return false;
@@ -60,11 +82,18 @@ class AuthService
 
     public function logout(Request $request) {
         $refreshToken = $request->cookie('refresh_token');
-        if ($refreshToken) {
-            $token = $this->tokenRepository->getByRefreshToken($refreshToken);
-            if ($token) {
-                $this->tokenRepository->delete($token->id);
+        DB::beginTransaction();
+        try {
+            if ($refreshToken) {
+                $token = $this->tokenRepository->getByRefreshToken($refreshToken);
+                if ($token) {
+                    $this->tokenRepository->delete($token->id);
+                }
             }
+        }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
         }
     }
 
@@ -85,21 +114,32 @@ class AuthService
         if ($refreshToken) {
             $token = $this->tokenRepository->getByRefreshToken($refreshToken);
             if ($token) {
-                $newRefreshToken = JWTAuth::claims([
-                    'time' => now()
-                ])->fromUser($token->user);
-                $accessToken = JWTAuth::claims([
-                    'username' => $token->user->name,
-                    'time' => now()
-                ])->fromUser($token->user);
+                DB::beginTransaction();
+                try {
+                    $newRefreshToken = JWTAuth::claims([
+                        'time' => now()
+                    ])->fromUser($token->user);
+                    $accessToken = JWTAuth::claims([
+                        'username' => $token->user->name,
+                        'time' => now()
+                    ])->fromUser($token->user);
 
-                $this->tokenRepository->createToken($newRefreshToken, $token->user->id);
-                //$this->tokenRepository->delete($token->id);
-
-                return [
-                    'refresh_token' => $newRefreshToken,
-                    'access_token' => $accessToken,
-                ];
+                    $this->tokenRepository->createToken($newRefreshToken, $token->user->id);
+                    //$this->tokenRepository->delete($token->id);
+                    DB::commit();
+                    return [
+                        'refresh_token' => $newRefreshToken,
+                        'access_token' => $accessToken,
+                    ];
+                }
+                catch (\Exception $e) {
+                    DB::rollBack();
+                    LogHelper::errorLog($e->getTrace(), $e->getMessage());
+                    return [
+                        'refresh_token' => null,
+                        'access_token' => null,
+                    ];
+                }
             }
         }
         return false;
@@ -109,8 +149,8 @@ class AuthService
     {
         $user = AuthHelper::user();
         $dto = (new AuthUserDTO(
-            role: RoleDictionary::get($user->role),
-            username: $user->name,
+            role: RoleDictionary::get($user?->role),
+            username: $user?->name,
         ))->toArray();
         return $dto;
     }

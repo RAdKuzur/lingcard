@@ -16,9 +16,9 @@ class WordTranslationService
         $this->wordTranslationRepository = $wordTranslationRepository;
     }
 
-    public function dictionary($baseTrainingId, $targetLanguageId, $page, $limit) {
+    public function dictionary($baseTrainingId, $targetLanguageId, $page, $limit, $search) {
         $data = [];
-        $wordTranslations = $this->wordTranslationRepository->getPaginateByTargetLanguageIdAndBaseLanguageId($baseTrainingId, $targetLanguageId, $page, $limit);
+        $wordTranslations = $this->wordTranslationRepository->getPaginateByTargetLanguageIdAndBaseLanguageId($baseTrainingId, $targetLanguageId, $page, $limit, $search);
         foreach ($wordTranslations as $wordTranslation) {
             $data[] = (new WordTranslationDTO(
                 id: $wordTranslation->id,
@@ -29,7 +29,7 @@ class WordTranslationService
         }
         return [
             'data' => $data,
-            'amountWords' => $this->wordTranslationRepository->countByTargetLanguageIdAndBaseLanguageId($baseTrainingId, $targetLanguageId),
+            'amountWords' => $this->wordTranslationRepository->countByTargetLanguageIdAndBaseLanguageId($baseTrainingId, $targetLanguageId, $search),
         ];
     }
 }

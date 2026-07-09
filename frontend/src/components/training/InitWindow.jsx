@@ -20,7 +20,7 @@ export default function InitWindow({countryCode, setTraining}) {
                     />
                 </div>
                 <h2 className="text-2xl font-light text-slate-700 tracking-wide">
-                    <p className={'font-bold'}>0
+                    <p className={'font-bold'}>
                         {countryCode.toUpperCase()}
                     </p>
                 </h2>
