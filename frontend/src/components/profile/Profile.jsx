@@ -6,46 +6,41 @@ import { innerRoutes } from "../../plugins/routes.js";
 import { patch, get, del } from "./../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
+import {useAuth} from "../../plugins/AuthContext.jsx";
 
-export default function Profile({setAuth}) {
-    const { redirectIfAuth } = useRedirect()
-    const [isHover1, setHover1] = useState(false)
-    const [isHover2, setHover2] = useState(false)
-    const [baseLang, setBaseLang] = useState(0)
-    const [targetLang, setTargetLang] = useState(0)
-    const [noneWords, setNoneWords] = useState(0)
-    const [learningWords, setLearningWords] = useState(0)
-    const [learnedWords, setLearnedWords] = useState(0)
+export default function Profile() {
+    const { redirectIfAuth } = useRedirect();
+    const auth = useAuth()
 
-    // Состояния для отслеживания исходных значений
-    const [initialBaseLang, setInitialBaseLang] = useState(0)
-    const [initialTargetLang, setInitialTargetLang] = useState(0)
+    const [isHover1, setHover1] = useState(false);
+    const [isHover2, setHover2] = useState(false);
+    const [baseLang, setBaseLang] = useState(0);
+    const [targetLang, setTargetLang] = useState(0);
+    const [noneWords, setNoneWords] = useState(0);
+    const [learningWords, setLearningWords] = useState(0);
+    const [learnedWords, setLearnedWords] = useState(0);
 
-    // Состояние для сообщений об ошибках
-    const [errorMessage, setErrorMessage] = useState('')
-    const [successMessage, setSuccessMessage] = useState('')
+    const [initialBaseLang, setInitialBaseLang] = useState(0);
+    const [initialTargetLang, setInitialTargetLang] = useState(0);
+    const [errorMessage, setErrorMessage] = useState('');
+    const [successMessage, setSuccessMessage] = useState('');
 
     function logout() {
-        logoutAxios(setAuth)
-        redirectIfAuth(innerRoutes.login)
+        logoutAxios(auth);
     }
 
-    // Валидация перед отправкой
     const validateChanges = () => {
-        // Проверка на одинаковые языки
         if (String(baseLang) === String(targetLang)) {
             setErrorMessage('Базовый язык и язык изучения не могут быть одинаковыми')
             return false
         }
 
-        // Проверка на пустые значения
         if (baseLang === 0 || targetLang === 0 ||
             baseLang === '0' || targetLang === '0') {
             setErrorMessage('Пожалуйста, выберите оба языка')
             return false
         }
 
-        // Проверка на изменения
         if (String(baseLang) === String(initialBaseLang) &&
             String(targetLang) === String(initialTargetLang)) {
             setErrorMessage('Языки не были изменены')
@@ -60,7 +55,6 @@ export default function Profile({setAuth}) {
         setSuccessMessage('')
 
         if (!validateChanges()) {
-            // Авто-скрытие сообщения через 3 секунды
             setTimeout(() => setErrorMessage(''), 3000)
             return
         }
@@ -73,12 +67,10 @@ export default function Profile({setAuth}) {
                 withCredentials: true
             });
 
-            // Обновляем начальные значения после успешного изменения
             setInitialBaseLang(baseLang)
             setInitialTargetLang(targetLang)
             setSuccessMessage('Настройки успешно обновлены!')
 
-            // Авто-скрытие сообщения через 3 секунды
             setTimeout(() => setSuccessMessage(''), 3000)
 
         } catch (error) {
@@ -113,7 +105,6 @@ export default function Profile({setAuth}) {
         fetchProfile();
     }, []);
 
-    // Проверяем, изменились ли языки и валидны ли они для активации кнопки
     const isButtonDisabled = () => {
         const hasChanges = String(baseLang) !== String(initialBaseLang) ||
             String(targetLang) !== String(initialTargetLang)
@@ -139,7 +130,6 @@ export default function Profile({setAuth}) {
                                 value={baseLang}
                                 disabled={true}
                                 onChange={() => {
-                                    // Сбрасываем сообщения при изменении
                                     setErrorMessage('')
                                     setSuccessMessage('')
                                 }}
@@ -158,15 +148,14 @@ export default function Profile({setAuth}) {
                         </div>
                     </div>
 
-                    {/* Сообщения об ошибках и успехе */}
                     {errorMessage && (
                         <div className="mt-4 p-3 bg-rose-50 border border-rose-200 text-rose-700 rounded-xl text-sm">
-                            ⚠️ {errorMessage}
+                            {errorMessage}
                         </div>
                     )}
                     {successMessage && (
                         <div className="mt-4 p-3 bg-emerald-50 border border-emerald-200 text-emerald-700 rounded-xl text-sm">
-                            ✅ {successMessage}
+                            {successMessage}
                         </div>
                     )}
 

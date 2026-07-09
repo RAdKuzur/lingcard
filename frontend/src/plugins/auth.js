@@ -1,42 +1,57 @@
+// services/auth.js
 import axios from "axios";
-import {apiRoutes} from "./apiRoutes.js";
-import {post} from "./request.js";
+import { apiRoutes } from "./apiRoutes.js";
+import { post } from "./request.js";
 import {innerRoutes} from "./routes.js";
-export async function loginAxios(email, password, setAuth, redirect) {
-    const response = await axios.post(
-        apiRoutes.login,
-        {
-            email: email,
-            password: password
-        },
-        {
-            withCredentials: true
-        }
-    );
-    const data = await response.data;
-    setAuth(true);
-    redirect(innerRoutes.home);
-    localStorage.setItem('username', data.user.username);
-    localStorage.setItem('role', data.user.role);
+
+export async function loginAxios(email, password, authContext, redirect) {
+    try {
+        const response = await axios.post(
+            apiRoutes.login,
+            {
+                email: email,
+                password: password
+            },
+            {
+                withCredentials: true
+            }
+        );
+
+        const data = await response.data;
+
+        authContext.login({
+            username: data.user.username,
+            role: data.user.role,
+            ...data.user
+        });
+
+        redirect(innerRoutes.home);
+        return { success: true, data };
+    } catch (error) {
+        console.error('Login failed:', error);
+        return { success: false, error: error.response?.data || error.message };
+    }
 }
 
-export async function logoutAxios(setAuth) {
-    const response = post(
-        apiRoutes.logout,
-        null,
-        {
-            withCredentials: true
-        }
-    );
-    setAuth(false);
-    localStorage.removeItem('username');
-    localStorage.removeItem('role');
+export async function logoutAxios(authContext) {
+    try {
+        await post(
+            apiRoutes.logout,
+            null,
+            {
+                withCredentials: true
+            }
+        );
+    } catch (error) {
+        console.error('Logout error:', error);
+    } finally {
+        authContext.logout();
+    }
 }
-
-export function checkAuth(navigate) {
-    if(localStorage.getItem('username') !== null && localStorage.getItem('role') !== null) {
+export function checkAuth(navigate, authContext) {
+    if (authContext.isAuthenticated()) {
         return true;
     }
-    navigate(innerRoutes.login)
+    navigate(innerRoutes.login);
     return false;
 }

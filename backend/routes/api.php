@@ -15,6 +15,7 @@ Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
 Route::post('/login', [AuthController::class, 'login'])->name('login');
 Route::post('/register', [AuthController::class, 'register'])->name('register');
 Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');
+Route::post('/user', [AuthController::class, 'user'])->name('user');
 Route::group(['middleware' => AuthMiddleware::class], function () {
     Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 

@@ -3,16 +3,18 @@ import { loginAxios as loginAxios } from "../../plugins/auth.js";
 import { useNavigate } from "react-router-dom";
 import { innerRoutes } from "../../plugins/routes.js";
 import { useRedirect } from "../../hooks/useRedirect.js";
+import {useAuth} from "../../plugins/AuthContext.jsx";
 
 export default function Login({ setAuth }) {
     const { redirect } = useRedirect();
+    const auth = useAuth()
     const navigate = useNavigate();
     const [isHover, setHover] = useState(false);
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
     function signIn() {
-        loginAxios(email, password, setAuth, redirect);
+        loginAxios(email, password, auth, redirect);
     }
 
     function goToRegister() {

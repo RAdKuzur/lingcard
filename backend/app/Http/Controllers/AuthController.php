@@ -91,4 +91,12 @@ class AuthController extends Controller
             'success' => false
         ], 401);
     }
+
+    public function user()
+    {
+        $user = $this->authService->user();
+        return response()->json([
+            'data' => $user
+        ]);
+    }
 }

@@ -1,21 +1,17 @@
-// hooks/useRedirect.js
 import { useNavigate } from 'react-router-dom';
 import { useCallback } from 'react';
+import { useAuth } from '../plugins/AuthContext.jsx';
 
 export function useRedirect() {
     const navigate = useNavigate();
-
-    const isAuthenticated = useCallback(() => {
-        return localStorage.getItem('username') !== null &&
-            localStorage.getItem('role') !== null;
-    }, []);
+    const auth = useAuth();
 
     const redirect = useCallback((path, options = {}) => {
         navigate(path, options);
     }, [navigate]);
 
     const redirectIfAuth = useCallback((path, fallbackPath = '/login', options = {}) => {
-        if (isAuthenticated()) {
+        if (auth.isAuthenticated()) {
             navigate(path, options);
         } else {
             navigate(fallbackPath, {
@@ -24,15 +20,15 @@ export function useRedirect() {
                 replace: true
             });
         }
-    }, [navigate, isAuthenticated]);
+    }, [navigate, auth]);
 
     const redirectIfNotAuth = useCallback((path, fallbackPath = '/', options = {}) => {
-        if (!isAuthenticated()) {
+        if (!auth.isAuthenticated()) {
             navigate(path, options);
         } else {
             navigate(fallbackPath, { replace: true });
         }
-    }, [navigate, isAuthenticated]);
+    }, [navigate, auth]);
 
     const goBack = useCallback(() => {
         navigate(-1);
@@ -51,6 +47,10 @@ export function useRedirect() {
         redirectIfNotAuth,
         goBack,
         redirectWithUserData,
-        isAuthenticated
+        isAuthenticated: auth.isAuthenticated,
+        user: auth.user,
+        getUser: auth.getUser,
+        getRole: auth.getRole,
+        hasRole: auth.hasRole
     };
 }

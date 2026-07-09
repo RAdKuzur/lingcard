@@ -1,15 +1,21 @@
 import { innerRoutes } from "../../plugins/routes.js";
-import {useRedirect} from "../../hooks/useRedirect.js";
+import { useRedirect } from "../../hooks/useRedirect.js";
+import { useAuth } from "../../plugins/AuthContext.jsx";
 
-export default function ProfileBar({ isAuth }) {
-    const {redirectIfAuth} = useRedirect();
-
+export default function ProfileBar() {
+    const { redirectIfAuth } = useRedirect();
+    const auth = useAuth();
     function goProfile() {
-        redirectIfAuth(innerRoutes.profile);
+        if (auth.isAuthenticated()) {
+            redirectIfAuth(innerRoutes.profile);
+        } else {
+            redirectIfAuth(innerRoutes.login, innerRoutes.login);
+        }
     }
 
-    const username = localStorage.getItem('username') || 'Гость';
-    const role = localStorage.getItem('role') || '';
+    // Получаем данные из контекста
+    const username = auth.isAuthenticated() ? auth.user?.username || 'Гость' : 'Гость';
+    const role = auth.isAuthenticated() ? auth.user?.role || '' : '';
 
     const roleColors = {
         admin: 'bg-purple-100 text-purple-700',
@@ -17,7 +23,9 @@ export default function ProfileBar({ isAuth }) {
         moderator: 'bg-orange-100 text-orange-700',
     };
 
-    const roleClass = roleColors[role.toLowerCase()] || 'bg-slate-100 text-slate-700';
+    const roleClass = role && roleColors[role.toLowerCase()]
+        ? roleColors[role.toLowerCase()]
+        : 'bg-slate-100 text-slate-700';
 
     return (
         <div
@@ -25,13 +33,13 @@ export default function ProfileBar({ isAuth }) {
             onClick={goProfile}
         >
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-400 to-indigo-500 flex items-center justify-center text-white font-semibold text-sm shadow-md shadow-blue-500/20">
-                {isAuth ? username.charAt(0).toUpperCase() : '👤'}
+                {auth.isAuthenticated() ? username.charAt(0).toUpperCase() : '👤'}
             </div>
             <div className="flex flex-col items-start">
                 <span className="text-sm font-semibold text-slate-700">
-                    {isAuth ? username : 'Профиль'}
+                    {auth.isAuthenticated() ? username : 'Профиль'}
                 </span>
-                {isAuth && (
+                {auth.isAuthenticated() && role && (
                     <span className={`text-xs px-2 py-0.5 rounded-full ${roleClass}`}>
                         {role}
                     </span>

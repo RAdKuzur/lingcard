@@ -6,8 +6,8 @@ import { get } from "../../plugins/request.js";
 import { apiDictionary } from "../../plugins/apiRoutes.js";
 
 export default function Dictionary() {
-    const [lang1, setLang1] = useState(0);
-    const [lang2, setLang2] = useState(0);
+    const [lang1, setLang1] = useState(1);
+    const [lang2, setLang2] = useState(1);
     const [words, setWords] = useState([])
     const [page, setPage] = useState(1)
     const [limit, setLimit] = useState(10)
@@ -23,7 +23,6 @@ export default function Dictionary() {
             setWords(data)
         }
     }
-
     function nextPage() {
         if(page !== totalPages()) {
             const newPage = page + 1;

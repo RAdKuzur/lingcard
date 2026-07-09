@@ -2,9 +2,9 @@ export default function Knowledge() {
     const countries = [
         { name: 'Казахстан', flag: '/flags/kz.svg' },
         { name: 'Россия', flag: '/flags/ru.svg' },
-        { name: 'Грузия', flag: '/flags/ge.svg' },
-        { name: 'Армения', flag: '/flags/am.svg' },
-        { name: 'Китай', flag: '/flags/cn.svg' }
+        // { name: 'Грузия', flag: '/flags/ge.svg' },
+        // { name: 'Армения', flag: '/flags/am.svg' },
+        // { name: 'Китай', flag: '/flags/cn.svg' }
     ];
 
     return (

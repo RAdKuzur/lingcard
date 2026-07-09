@@ -6,6 +6,7 @@ use App\Dictionaries\RoleDictionary;
 use App\DTO\AuthUserDTO;
 use App\DTO\LoginDTO;
 use App\DTO\RegisterDTO;
+use App\Helpers\AuthHelper;
 use App\Repositories\TokenRepository;
 use App\Repositories\UserRepository;
 use Illuminate\Http\Request;
@@ -102,5 +103,15 @@ class AuthService
             }
         }
         return false;
+    }
+
+    public function user() : array
+    {
+        $user = AuthHelper::user();
+        $dto = (new AuthUserDTO(
+            role: RoleDictionary::get($user->role),
+            username: $user->name,
+        ))->toArray();
+        return $dto;
     }
 }

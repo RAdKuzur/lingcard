@@ -9,7 +9,8 @@ export const apiRoutes = {
     profile: apiUrl + '/profile',
     progress: apiUrl + '/progress',
     training: apiUrl + '/training',
-    teachable: apiUrl + '/teachable'
+    teachable: apiUrl + '/teachable',
+    user: apiUrl + '/user'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit) {

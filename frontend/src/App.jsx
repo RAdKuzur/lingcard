@@ -16,17 +16,9 @@ import Register from "./components/auth/Register.jsx";
 import UnprotectedRoute from "./components/layouts/UnprotectedRoute.jsx";
 
 function App() {
-    const [isAuth, setAuth] = useState(false);
-
-    useEffect(() => {
-        const username = localStorage.getItem('username');
-        const role = localStorage.getItem('role');
-        setAuth(username !== null && role !== null);
-    }, []);
-
     return (
         <div className="flex flex-col min-h-screen">
-            <Navbar isAuth={isAuth}/>
+            <Navbar/>
             <Routes>
                 <Route path={innerRoutes.register} element={
                     <UnprotectedRoute>
@@ -35,7 +27,7 @@ function App() {
                 }/>
                 <Route path={innerRoutes.login} element={
                     <UnprotectedRoute>
-                        <Login setAuth={setAuth}/>
+                        <Login/>
                     </UnprotectedRoute>
                 }/>
                 <Route path={innerRoutes.all} element={
@@ -65,7 +57,7 @@ function App() {
                 }/>
                 <Route path={innerRoutes.profile} element={
                     <ProtectedRoute>
-                        <Profile setAuth={setAuth}/>
+                        <Profile/>
                     </ProtectedRoute>
                 }/>
                 <Route path={innerRoutes.knowledge} element={

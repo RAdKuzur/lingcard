@@ -51,7 +51,7 @@ export default function SelectLanguage({setLang, value = 0, disabled = false}) {
             onChange={(e) => setLang(e.target.value)}
             disabled={disabled}
         >
-            <option value={0}>Выберите язык...</option>
+            {/*<option value={0}>Выберите язык...</option>*/}
             {languages.map(lang => (
                 <option key={lang.id} value={lang.id}>
                     {lang.name}
