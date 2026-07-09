@@ -20,7 +20,9 @@ export default function InitWindow({countryCode, setTraining}) {
                     />
                 </div>
                 <h2 className="text-2xl font-light text-slate-700 tracking-wide">
-                    {countryCode.toUpperCase()}
+                    <p className={'font-bold'}>0
+                        {countryCode.toUpperCase()}
+                    </p>
                 </h2>
             </div>
 
@@ -33,7 +35,7 @@ export default function InitWindow({countryCode, setTraining}) {
                        cursor-pointer"
                 onClick={handleInit}
             >
-                Начать обучение →
+                Начать обучение
             </button>
         </div>
     );
