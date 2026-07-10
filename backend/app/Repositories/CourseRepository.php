@@ -20,9 +20,15 @@ class CourseRepository
 
     public function getOldLearningWords($userId)
     {
-        return Course::where(['user_id' => $userId])
-            ->whereIn('status', [StatusDictionary::NONE, StatusDictionary::LEARNING])
-            ->inRandomOrder()
+        return Course::with('wordTranslation.word')
+            ->join('word_translations', 'courses.word_translation_id', '=', 'word_translations.id')
+            ->join('words', 'word_translations.word_id', '=', 'words.id')
+            ->where('courses.user_id', $userId)
+            ->where('courses.last_time_repeated', '<', now())
+            ->whereIn('courses.status', [StatusDictionary::NONE, StatusDictionary::LEARNING])
+            ->orderBy('courses.status', 'desc')
+            ->orderBy('courses.last_time_repeated', 'desc')
+            ->select('courses.*')
             ->first();
     }
 

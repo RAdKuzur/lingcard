@@ -10,7 +10,7 @@ import Training from "./components/training/Training.jsx";
 import Dictionary from "./components/dictionary/Dictionary.jsx";
 import Progress from "./components/progress/Progress.jsx";
 import Profile from "./components/profile/Profile.jsx";
-import Knowledge from "./components/knowledge/Knowledge.jsx";
+import About from "./components/about/About.jsx";
 import ProtectedRoute from "./components/layouts/ProtectedRoute.jsx";
 import Register from "./components/auth/Register.jsx";
 import UnprotectedRoute from "./components/layouts/UnprotectedRoute.jsx";
@@ -60,9 +60,9 @@ function App() {
                         <Profile/>
                     </ProtectedRoute>
                 }/>
-                <Route path={innerRoutes.knowledge} element={
+                <Route path={innerRoutes.about} element={
                     <ProtectedRoute>
-                        <Knowledge/>
+                        <About/>
                     </ProtectedRoute>
                 }/>
             </Routes>

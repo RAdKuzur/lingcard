@@ -8,7 +8,7 @@ export default function Home() {
                 <PanelHome title={'Начать тренировку'} link={innerRoutes.training} />
                 <PanelHome title={'Прогресс'} link={innerRoutes.progress} />
                 <PanelHome title={'Словарь'} link={innerRoutes.dictionary} />
-                <PanelHome title={'База знаний'} link={innerRoutes.knowledge} />
+                <PanelHome title={'О нас'} link={innerRoutes.about} />
             </div>
         </main>
     );

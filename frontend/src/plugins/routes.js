@@ -5,7 +5,7 @@ export const innerRoutes = {
     training: '/training',
     dictionary: '/dictionary',
     progress: '/progress',
-    knowledge: '/knowledge',
+    about: '/about',
     profile: '/profile',
     register: '/register'
 }

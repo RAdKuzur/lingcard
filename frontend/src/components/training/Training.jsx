@@ -124,7 +124,7 @@ export default function Training() {
             newWord()
             setTraining(status)
             setIsLoading(false)
-        }, 3000)
+        }, 6000)
     }
 
     return (
@@ -139,7 +139,7 @@ export default function Training() {
                 <InitWindow countryCode={countryCode} setTraining={handleSetTraining}/>
             ) : (
                 <div className="w-full max-w-md">
-                    <div className="mb-6">
+                    <div className="flex w-1/5 mb-6">
                         <ButtonBack/>
                     </div>
 
