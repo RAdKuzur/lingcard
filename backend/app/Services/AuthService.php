@@ -6,6 +6,7 @@ use App\Dictionaries\RoleDictionary;
 use App\DTO\AuthUserDTO;
 use App\DTO\LoginDTO;
 use App\DTO\RegisterDTO;
+use App\Events\UserRegistered;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
 use App\Repositories\TokenRepository;
@@ -69,6 +70,7 @@ class AuthService
             DB::beginTransaction();
             try {
                 $this->userRepository->create($registerDTO->toArray());
+                UserRegistered::dispatch($registerDTO->email, $registerDTO->name);
                 DB::commit();
             }
             catch (\Exception $e) {
