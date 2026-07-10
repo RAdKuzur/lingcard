@@ -40,10 +40,8 @@ export default function Word({ word, translation, level = null, repeat = null , 
             </div>
             <div className="flex items-center gap-2 flex-shrink-0">
                 {repeat !== null && (
-                    <span
-                        className="px-3 py-1 rounded-full bg-indigo-100 text-indigo-700 text-xs font-medium whitespace-nowrap">
-                {repeat}
-            </span>
+                    <span>
+                    </span>
                 )}
                 {level !== null && (
                     <span
