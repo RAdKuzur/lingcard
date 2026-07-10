@@ -10,7 +10,8 @@ export const apiRoutes = {
     progress: apiUrl + '/progress',
     training: apiUrl + '/training',
     teachable: apiUrl + '/teachable',
-    user: apiUrl + '/user'
+    user: apiUrl + '/user',
+    exceptLanguage: apiUrl + '/except-language'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {
@@ -21,4 +22,8 @@ export function apiDictionary(baseLangId, targetLangId, page, limit, search = nu
         url = url + '&search=' + search;
     }
     return url
+}
+
+export function apiClearWordProgress(id) {
+    return apiUrl + '/words/' + id + '/progress'
 }

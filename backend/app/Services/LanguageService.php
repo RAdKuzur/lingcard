@@ -27,4 +27,19 @@ class LanguageService
         }
         return $data;
     }
+
+    public function exceptLanguage($id) : array {
+        $data = [];
+        $languages = $this->languageRepository->all();
+        foreach ($languages as $language) {
+            if ($language->id != $id) {
+                $data[] = (new LanguageDTO(
+                    id: $language->id,
+                    name: $language->name,
+                    code: $language->code
+                ))->toArray();
+            }
+        }
+        return $data;
+    }
 }

@@ -65,7 +65,6 @@ function App() {
                         <Knowledge/>
                     </ProtectedRoute>
                 }/>
-                <Route path="*" element={<Navigate to={innerRoutes.login} replace />} />
             </Routes>
             <Footer/>
         </div>

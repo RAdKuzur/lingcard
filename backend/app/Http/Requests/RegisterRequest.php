@@ -28,6 +28,7 @@ class RegisterRequest extends FormRequest
             'email' => 'required|string',
             'password' => 'required|string',
             'name' => 'required|string',
+            'base_language_id' => 'required|integer',
             'target_language_id' => 'required|integer',
         ];
 
@@ -39,6 +40,7 @@ class RegisterRequest extends FormRequest
             email: $this->validated('email'),
             name: $this->validated('name'),
             password: Hash::make($this->validated('password')),
+            baseLangId: $this->validated('base_language_id'),
             targetLangId: $this->validated('target_language_id'),
         );
     }

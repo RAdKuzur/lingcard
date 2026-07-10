@@ -57,6 +57,19 @@ class CourseService
         }
     }
 
+    public function clearWordProgress($id)
+    {
+        DB::beginTransaction();
+        try{
+            $this->courseRepository->deleteWordProgress($id);
+            DB::commit();
+        }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
+        }
+    }
+
     public function init() {
         $user = AuthHelper::user();
         if($user && count($this->courseRepository->getUserCourses($user->id)) === 0) {

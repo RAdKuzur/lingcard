@@ -2,31 +2,56 @@ import React, { useState, useEffect } from 'react';
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import { get } from "./../../plugins/request.js";
 
-export default function SelectLanguage({setLang, value = 0, disabled = false}) {
+export default function SelectLanguage({setLang, value = 0, disabled = false, exceptId = 0, extraEmptyField = false}) {
     const [languages, setLanguages] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
+    function handleLanguage() {
+        if(exceptId === 0) {
+            get(apiRoutes.languages, null, { withCredentials: true })
+                .then(data => {
+                    if (Array.isArray(data)) {
+                        setLanguages(data);
+                    }
+                    else if (data?.data && Array.isArray(data.data)) {
+                        setLanguages(data.data);
+                    }
+                    else if (data?.languages && Array.isArray(data.languages)) {
+                        setLanguages(data.languages);
+                    }
+                    setLoading(false);
+                })
+                .catch(err => {
+                    console.error('Ошибка загрузки языков:', err);
+                    setError(err.message);
+                    setLoading(false);
+                });
+        }
+        else {
+            get(apiRoutes.exceptLanguage + '/' + exceptId, null, { withCredentials: true })
+                .then(data => {
+                    if (Array.isArray(data)) {
+                        setLanguages(data);
+                    }
+                    else if (data?.data && Array.isArray(data.data)) {
+                        setLanguages(data.data);
+                    }
+                    else if (data?.languages && Array.isArray(data.languages)) {
+                        setLanguages(data.languages);
+                    }
+                    setLoading(false);
+                })
+                .catch(err => {
+                    console.error('Ошибка загрузки языков:', err);
+                    setError(err.message);
+                    setLoading(false);
+                });
+        }
+    }
     useEffect(() => {
-        get(apiRoutes.languages, null, { withCredentials: true })
-            .then(data => {
-                if (Array.isArray(data)) {
-                    setLanguages(data);
-                }
-                else if (data?.data && Array.isArray(data.data)) {
-                    setLanguages(data.data);
-                }
-                else if (data?.languages && Array.isArray(data.languages)) {
-                    setLanguages(data.languages);
-                }
-                setLoading(false);
-            })
-            .catch(err => {
-                console.error('Ошибка загрузки языков:', err);
-                setError(err.message);
-                setLoading(false);
-            });
-    }, []);
+        handleLanguage()
+    }, [exceptId]);
 
     if (loading) {
         return (
@@ -51,7 +76,7 @@ export default function SelectLanguage({setLang, value = 0, disabled = false}) {
             onChange={(e) => setLang(e.target.value)}
             disabled={disabled}
         >
-            {/*<option value={0}>Выберите язык...</option>*/}
+            {extraEmptyField ? (<option value={0}>Выберите язык...</option>) : ''}
             {languages.map(lang => (
                 <option key={lang.id} value={lang.id}>
                     {lang.name}

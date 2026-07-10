@@ -22,4 +22,12 @@ class LanguageController extends Controller
             'data' => $languages
         ]);
     }
+
+    public function exceptLanguage($id) {
+        $languages = $this->languageService->exceptLanguage($id);
+        return response()->json([
+            'success' => true,
+            'data' => $languages
+        ]);
+    }
 }

@@ -12,10 +12,12 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
+Route::get('/except-language/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
 Route::post('/login', [AuthController::class, 'login'])->name('login');
 Route::post('/register', [AuthController::class, 'register'])->name('register');
 Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');
 Route::post('/user', [AuthController::class, 'user'])->name('user');
+
 Route::group(['middleware' => AuthMiddleware::class], function () {
     Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
@@ -30,7 +32,7 @@ Route::group(['middleware' => AuthMiddleware::class], function () {
 
     Route::post('/progress', [ProgressController::class, 'initProgress'])->name('progress-init');
     Route::delete('/progress', [ProgressController::class, 'clearProgress'])->name('progress-clear');
-
+    Route::delete('/words/{id}/progress', [ProgressController::class, 'clearWordProgress'])->name('progress-clear-word');
     Route::get('/teachable', [TrainingController::class, 'teachable'])->name('teachable');
 });
 

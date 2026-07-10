@@ -144,6 +144,7 @@ export default function Profile() {
                                     setErrorMessage('')
                                     setSuccessMessage('')
                                 }}
+                                exceptId={baseLang}
                             />
                         </div>
                     </div>
@@ -198,7 +199,7 @@ export default function Profile() {
 
                 <div className="flex w-full gap-4">
                     <button
-                        className={`flex-1 px-6 py-3 rounded-xl font-medium transition-all duration-200 border-2 ${
+                        className={`flex-1 px-6 py-3 rounded-xl font-medium transition-all duration-200 border-2 cursor-pointer ${
                             isHover1
                                 ? 'bg-rose-500 border-rose-500 text-white'
                                 : 'bg-white border-rose-500 text-rose-500 hover:bg-rose-50'
@@ -210,7 +211,7 @@ export default function Profile() {
                         Выйти
                     </button>
                     <button
-                        className={`flex-1 px-6 py-3 rounded-xl font-medium transition-all duration-200 ${
+                        className={`flex-1 px-6 py-3 rounded-xl font-medium transition-all duration-200 cursor-pointer ${
                             isHover2
                                 ? 'bg-rose-700 shadow-lg shadow-rose-500/35'
                                 : 'bg-rose-500 shadow-lg shadow-rose-500/25 hover:bg-rose-600'

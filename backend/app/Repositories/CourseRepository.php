@@ -37,6 +37,7 @@ class CourseRepository
             ->where('user_id', $userId)
             ->where('status', $status)
             ->where('words.text', 'LIKE', '%' . $search . '%')
+            ->select('courses.*', 'courses.id as id')
             ->paginate($limit, ['*'], 'page', $page);
     }
 
@@ -55,6 +56,14 @@ class CourseRepository
 
     public function deleteProgress($userId) {
         return DB::table('courses')->where(['user_id' => $userId])->delete();
+    }
+
+    public function deleteWordProgress($courseId) {
+        return DB::table('courses')->where(['id' => $courseId])->update([
+            'status' => StatusDictionary::NONE,
+            'repeat' => 0,
+            'last_time_repeated' => now()
+        ]);
     }
 
     public function insert($data)

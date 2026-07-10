@@ -35,6 +35,13 @@ class ProgressController extends Controller
         ]);
     }
 
+    public function clearWordProgress($id) {
+        $this->courseService->clearWordProgress($id);
+        return response()->json([
+            'success' => true
+        ]);
+    }
+
     public function initProgress() {
         $status = $this->courseService->init();
         return response()->json([

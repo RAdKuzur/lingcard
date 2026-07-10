@@ -13,13 +13,15 @@ export default function Register() {
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
     const [lang, setLang] = useState(0)
+    const [targetLang, setTargetLang] = useState(0)
     async function signUp() {
         const response = await axios.post(
             apiRoutes.register,
             {
                 email: email,
                 password: password,
-                target_language_id: lang,
+                base_language_id: lang,
+                target_language_id: targetLang,
                 name: username
             },
             {
@@ -71,10 +73,13 @@ export default function Register() {
                         />
                     </div>
                     <div>
-                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Язык изучения</div>
-                        <SelectLanguage setLang={setLang} value={lang}/>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Базовый язык</div>
+                        <SelectLanguage setLang={setLang} value={lang} extraEmptyField={true}/>
                     </div>
-
+                    <div>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Язык изучения</div>
+                        <SelectLanguage setLang={setTargetLang} value={targetLang} exceptId={lang} extraEmptyField={true}/>
+                    </div>
                 </div>
                 <div className="mt-4">
                     <button

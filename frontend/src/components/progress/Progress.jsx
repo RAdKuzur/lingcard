@@ -102,7 +102,6 @@ export default function Progress() {
                 </div>
 
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
-                    <h2 className="text-sm font-medium text-slate-500 mb-4">Слова</h2>
                     <div className="flex items-center justify-between mb-4 gap-4 flex-wrap">
                         <h2 className="text-sm font-medium text-slate-500">Слова</h2>
                         <div className="flex-1 max-w-xs">
@@ -123,6 +122,8 @@ export default function Progress() {
                                     translation={e.translation}
                                     level={e.level}
                                     repeat={e.repeat_time}
+                                    progressId={e.id}
+                                    activeTab = {activeTab}
                                 />
                             ))
                         ) : (

@@ -14,6 +14,7 @@ export default function Training() {
     const [direction, setDirection] = useState('')
     const [opacityCard, setOpacityCard] = useState(true)
     const [opacityTranslation, setOpacityTranslation] = useState(false)
+    const [countryCode, setCountryCode] = useState('')
 
     const [cardId, setCardId] = useState(0)
     const [text, setText] = useState('')
@@ -61,6 +62,7 @@ export default function Training() {
             const response = await get(apiRoutes.teachable, {}, {withCredentials: true})
             const data = await response.data
             setTraining(response.data.training)
+            setCountryCode(response.data.language)
             return response.data.training
         } catch (error) {
             console.error('Error checking training status:', error)
@@ -134,7 +136,7 @@ export default function Training() {
                     <p className="text-lg font-medium text-slate-600 animate-pulse">Загрузка...</p>
                 </div>
             ) : !isTraining ? (
-                <InitWindow countryCode={'kz'} setTraining={handleSetTraining}/>
+                <InitWindow countryCode={countryCode} setTraining={handleSetTraining}/>
             ) : (
                 <div className="w-full max-w-md">
                     <div className="mb-6">

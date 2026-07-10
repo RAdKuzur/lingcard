@@ -28,7 +28,6 @@ export function AuthProvider({ children }) {
             }
         } catch (error) {
             setUser(null);
-            navigate(innerRoutes.login)
         } finally {
             setIsLoading(false);
         }
