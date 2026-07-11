@@ -108,7 +108,7 @@ class CourseService
                 switch ($course->status) {
                     case StatusDictionary::NONE:
                         $this->courseRepository->update($id, [
-                            'repeat' => $course->repeat + 1,
+                            'repeat' => $course->repeat,
                             'status' => StatusDictionary::LEARNED,
                             'last_time_repeated' => now()
                         ]);
@@ -130,6 +130,11 @@ class CourseService
                         $this->courseRepository->update($id, [
                             'status' => StatusDictionary::LEARNING,
                             'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
+                        ]);
+                        break;
+                    case StatusDictionary::LEARNING:
+                        $this->courseRepository->update($id, [
+                            'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+5 minutes"))
                         ]);
                         break;
                     default:
