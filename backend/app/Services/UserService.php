@@ -8,17 +8,17 @@ use App\DTO\ProfileDTO;
 use App\DTO\ProfileUpdateDTO;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
-use App\Repositories\CourseRepository;
-use App\Repositories\UserRepository;
+use App\Repositories\Interfaces\CourseRepositoryInterface;
+use App\Repositories\Interfaces\UserRepositoryInterface;
 use Illuminate\Support\Facades\DB;
 
 class UserService
 {
-    private UserRepository $userRepository;
-    private CourseRepository $courseRepository;
+    private UserRepositoryInterface $userRepository;
+    private CourseRepositoryInterface $courseRepository;
     public function __construct(
-        UserRepository $userRepository,
-        CourseRepository $courseRepository
+        UserRepositoryInterface $userRepository,
+        CourseRepositoryInterface $courseRepository
     ) {
         $this->userRepository = $userRepository;
         $this->courseRepository = $courseRepository;

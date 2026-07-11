@@ -10,16 +10,15 @@ use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
 use App\Jobs\InitProgressJob;
 use App\Models\Course;
-use App\Repositories\CourseRepository;
-use App\Repositories\WordTranslationRepository;
+use App\Repositories\Interfaces\CourseRepositoryInterface;
 use DateTime;
 use Illuminate\Support\Facades\DB;
 
 class CourseService
 {
-    private CourseRepository $courseRepository;
+    private CourseRepositoryInterface $courseRepository;
     public function __construct(
-        CourseRepository $courseRepository,
+        CourseRepositoryInterface $courseRepository,
     )
     {
         $this->courseRepository = $courseRepository;

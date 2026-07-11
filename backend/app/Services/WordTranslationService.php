@@ -4,13 +4,13 @@ namespace App\Services;
 
 use App\Dictionaries\LevelDictionary;
 use App\DTO\WordTranslationDTO;
-use App\Repositories\WordTranslationRepository;
+use App\Repositories\Interfaces\WordTranslationRepositoryInterface;
 
 class WordTranslationService
 {
-    private WordTranslationRepository $wordTranslationRepository;
+    private WordTranslationRepositoryInterface $wordTranslationRepository;
     public function __construct(
-        WordTranslationRepository $wordTranslationRepository
+        WordTranslationRepositoryInterface $wordTranslationRepository
     )
     {
         $this->wordTranslationRepository = $wordTranslationRepository;

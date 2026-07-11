@@ -3,13 +3,13 @@
 namespace App\Services;
 
 use App\DTO\LanguageDTO;
-use App\Repositories\LanguageRepository;
+use App\Repositories\Interfaces\LanguageRepositoryInterface;
 
 class LanguageService
 {
-    private LanguageRepository $languageRepository;
+    private LanguageRepositoryInterface $languageRepository;
     public function __construct(
-        LanguageRepository $languageRepository
+        LanguageRepositoryInterface $languageRepository
     )
     {
         $this->languageRepository = $languageRepository;

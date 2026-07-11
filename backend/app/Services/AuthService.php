@@ -9,21 +9,19 @@ use App\DTO\RegisterDTO;
 use App\Events\UserRegistered;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
-use App\Repositories\TokenRepository;
-use App\Repositories\UserRepository;
+use App\Repositories\Interfaces\TokenRepositoryInterface;
+use App\Repositories\Interfaces\UserRepositoryInterface;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\DB;
 use Tymon\JWTAuth\Facades\JWTAuth;
-use Tymon\JWTAuth\JWT;
 
 class AuthService
 {
-    private UserRepository $userRepository;
-    private TokenRepository $tokenRepository;
+    private UserRepositoryInterface $userRepository;
+    private TokenRepositoryInterface $tokenRepository;
     public function __construct(
-        UserRepository $userRepository,
-        TokenRepository $tokenRepository
+        UserRepositoryInterface $userRepository,
+        TokenRepositoryInterface $tokenRepository
     )
     {
         $this->userRepository = $userRepository;
