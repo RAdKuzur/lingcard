@@ -3,6 +3,7 @@
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DictionaryController;
 use App\Http\Controllers\LanguageController;
+use App\Http\Controllers\NewsController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\ProgressController;
 use App\Http\Controllers\TrainingController;
@@ -21,7 +22,7 @@ Route::post('/user', [AuthController::class, 'user'])->name('user');
 Route::group(['middleware' => AuthMiddleware::class], function () {
     Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
-
+    Route::get('/news', [NewsController::class, 'all'])->name('news');
     Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
     Route::get('/training', [TrainingController::class, 'newWord'])->name('new-word');

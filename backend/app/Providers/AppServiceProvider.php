@@ -5,10 +5,12 @@ namespace App\Providers;
 use App\Repositories\CourseRepository;
 use App\Repositories\Interfaces\CourseRepositoryInterface;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
+use App\Repositories\Interfaces\NewsRepositoryInterface;
 use App\Repositories\Interfaces\TokenRepositoryInterface;
 use App\Repositories\Interfaces\UserRepositoryInterface;
 use App\Repositories\Interfaces\WordTranslationRepositoryInterface;
 use App\Repositories\LanguageRepository;
+use App\Repositories\NewsRepository;
 use App\Repositories\TokenRepository;
 use App\Repositories\UserRepository;
 use App\Repositories\WordTranslationRepository;
@@ -26,6 +28,7 @@ class AppServiceProvider extends ServiceProvider
         $this->app->bind(TokenRepositoryInterface::class, TokenRepository::class);
         $this->app->bind(LanguageRepositoryInterface::class, LanguageRepository::class);
         $this->app->bind(WordTranslationRepositoryInterface::class, WordTranslationRepository::class);
+        $this->app->bind(NewsRepositoryInterface::class, NewsRepository::class);
     }
 
     /**
