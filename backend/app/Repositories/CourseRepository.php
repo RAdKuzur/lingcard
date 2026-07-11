@@ -28,6 +28,7 @@ class CourseRepository implements CourseRepositoryInterface
             ->where('courses.last_time_repeated', '<', now())
             ->whereIn('courses.status', [StatusDictionary::NONE, StatusDictionary::LEARNING])
             ->orderBy('courses.status', 'desc')
+            ->orderBy('words.level' , 'asc')
             ->orderBy('courses.last_time_repeated', 'desc')
             ->select('courses.*')
             ->first();
