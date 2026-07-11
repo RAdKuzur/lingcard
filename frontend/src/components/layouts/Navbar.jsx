@@ -2,8 +2,10 @@ import { Link } from 'react-router-dom';
 import ProfileBar from "./ProfileBar.jsx";
 import Logo from "./Logo.jsx";
 import {innerRoutes} from "../../plugins/routes.js";
+import {useAuth} from "../../plugins/AuthContext.jsx";
 
 export default function Navbar() {
+    const auth = useAuth();
     const menuOptions = {
         training: {
             link: innerRoutes.training,
@@ -29,7 +31,7 @@ export default function Navbar() {
                 <div className="flex justify-between items-center h-16 md:h-20">
                     <Logo />
                     <div className="flex items-center gap-8">
-                        {Object.values(menuOptions).map((item) => (
+                        {auth.isAuthenticated() ? Object.values(menuOptions).map((item) => (
                             <Link
                                 key={item.label}
                                 to={item.link}
@@ -39,7 +41,7 @@ export default function Navbar() {
                             >
                                 {item.label}
                             </Link>
-                        ))}
+                        )) : ''}
                     </div>
                     <ProfileBar />
                 </div>

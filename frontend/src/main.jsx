@@ -5,9 +5,13 @@ import {BrowserRouter} from "react-router-dom";
 import {AuthProvider} from "./plugins/AuthContext.jsx";
 
 createRoot(document.getElementById('root')).render(
-      <BrowserRouter>
-        <AuthProvider>
-          <App />
-        </AuthProvider>
-      </BrowserRouter>
+    <>
+        <title>LingCard</title>
+        <link rel="icon" href="/icon.svg"/>
+        <BrowserRouter>
+            <AuthProvider>
+                <App/>
+            </AuthProvider>
+        </BrowserRouter>
+    </>
 )
