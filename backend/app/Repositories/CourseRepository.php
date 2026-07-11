@@ -4,14 +4,15 @@ namespace App\Repositories;
 
 use App\Dictionaries\StatusDictionary;
 use App\Models\Course;
+use App\Repositories\Interfaces\CourseRepositoryInterface;
 use Illuminate\Support\Facades\DB;
 
-class CourseRepository
+class CourseRepository implements CourseRepositoryInterface
 {
-    public function getAll() {
+    public function all() {
         return Course::all();
     }
-    public function getById($id) {
+    public function find($id) {
         return Course::where('id', $id)->first();
     }
     public function getUserCourses($userId) {
@@ -72,13 +73,17 @@ class CourseRepository
         ]);
     }
 
-    public function insert($data)
+    public function insert($data) : bool
     {
         return DB::table('courses')->insert($data);
     }
 
-    public function update($id, $data)
+    public function update($id, $data) : int
     {
         return DB::table('courses')->where('id', $id)->update($data);
+    }
+    public function delete($id) : int
+    {
+        return DB::table('courses')->where('id', $id)->delete();
     }
 }

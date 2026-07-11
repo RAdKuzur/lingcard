@@ -32,7 +32,12 @@ class AuthMiddleware
     {
         $accessToken = $request->cookie('access_token');
         $refreshToken = $request->cookie('refresh_token');
-        $this->visitRepository->create();
+        $this->visitRepository->insert([
+            'path' => request()->path(),
+            'ip' => request()->ip(),
+            'user_agent' => request()->userAgent(),
+            'time' => now()
+        ]);
         if($refreshToken && $accessToken && $this->tokenRepository->isValidJwtToken($accessToken)) {
             return $next($request);
         }

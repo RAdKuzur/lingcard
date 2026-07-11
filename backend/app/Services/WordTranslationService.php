@@ -16,7 +16,8 @@ class WordTranslationService
         $this->wordTranslationRepository = $wordTranslationRepository;
     }
 
-    public function dictionary($baseTrainingId, $targetLanguageId, $page, $limit, $search) {
+    public function dictionary($baseTrainingId, $targetLanguageId, $page, $limit, $search) : array
+    {
         $data = [];
         $wordTranslations = $this->wordTranslationRepository->getPaginateByTargetLanguageIdAndBaseLanguageId($baseTrainingId, $targetLanguageId, $page, $limit, $search);
         foreach ($wordTranslations as $wordTranslation) {

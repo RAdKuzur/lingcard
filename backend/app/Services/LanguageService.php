@@ -15,7 +15,8 @@ class LanguageService
         $this->languageRepository = $languageRepository;
     }
 
-    public function all() : array {
+    public function all() : array
+    {
         $data = [];
         $languages = $this->languageRepository->all();
         foreach ($languages as $language) {
@@ -28,7 +29,8 @@ class LanguageService
         return $data;
     }
 
-    public function exceptLanguage($id) : array {
+    public function exceptLanguage($id) : array
+    {
         $data = [];
         $languages = $this->languageRepository->all();
         foreach ($languages as $language) {

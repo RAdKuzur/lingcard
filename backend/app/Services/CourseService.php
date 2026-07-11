@@ -25,7 +25,8 @@ class CourseService
         $this->courseRepository = $courseRepository;
     }
 
-    public function wordsByStatus($status, $page, $limit, $search) {
+    public function wordsByStatus($status, $page, $limit, $search) : array
+    {
         $data = [];
         $user = AuthHelper::user();
         $courses = $this->courseRepository->getByStatus($status, $user->id, $page, $limit, $search);
@@ -43,7 +44,7 @@ class CourseService
             'amountWords' => $this->courseRepository->countByStatus($status, $search),
         ];
     }
-    public function clearProgress()
+    public function clearProgress() : void
     {
         DB::beginTransaction();
         try{
@@ -57,7 +58,7 @@ class CourseService
         }
     }
 
-    public function clearWordProgress($id)
+    public function clearWordProgress($id) : void
     {
         DB::beginTransaction();
         try{
@@ -70,7 +71,8 @@ class CourseService
         }
     }
 
-    public function init() {
+    public function init() : bool
+    {
         $user = AuthHelper::user();
         if($user && count($this->courseRepository->getUserCourses($user->id)) === 0) {
             InitProgressJob::dispatch($user->base_language_id, $user->target_language_id, $user->id);
@@ -79,7 +81,8 @@ class CourseService
         return false;
     }
 
-    public function newWord() {
+    public function newWord() : array|null
+    {
 
         $user = AuthHelper::user();
         $course = $this->courseRepository->getOldLearningWords($user->id);
@@ -97,10 +100,11 @@ class CourseService
         return null;
     }
 
-    public function repeat($id, $status) {
+    public function repeat($id, $status) : void
+    {
         DB::beginTransaction();
         try {
-            $course = $this->courseRepository->getById($id);
+            $course = $this->courseRepository->find($id);
             if ($course && $status) {
                 switch ($course->status) {
                     case StatusDictionary::NONE:
@@ -141,7 +145,7 @@ class CourseService
         }
     }
 
-    public function status()
+    public function status() : array
     {
         $user = AuthHelper::user();
         if(count($this->courseRepository->getUserCourses($user->id)) > 0) {

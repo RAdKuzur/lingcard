@@ -29,7 +29,8 @@ class ProfileUpdateRequest extends FormRequest
         ];
     }
 
-    public function toDTO() : ProfileUpdateDTO {
+    public function toDTO() : ProfileUpdateDTO
+    {
         return new ProfileUpdateDTO(
             baseLanguageId: $this->validated('base_language_id'),
             targetLanguageId: $this->validated('target_language_id')

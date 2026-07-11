@@ -24,7 +24,7 @@ class UserService
         $this->courseRepository = $courseRepository;
     }
 
-    public function profile()
+    public function profile() : array
     {
         $user = AuthHelper::user();
 
@@ -39,7 +39,8 @@ class UserService
         ))->toArray();
     }
 
-    public function update($id, ProfileUpdateDTO $dto) {
+    public function update($id, ProfileUpdateDTO $dto) : void
+    {
         DB::beginTransaction();
         try {
             $this->userRepository->update($id, $dto->toArray());

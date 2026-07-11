@@ -30,7 +30,8 @@ class AuthService
         $this->tokenRepository = $tokenRepository;
     }
 
-    public function login(LoginDTO $loginDTO) {
+    public function login(LoginDTO $loginDTO) : array|bool
+    {
         $user = $this->userRepository->getUserByCredentials(
             email: $loginDTO->email,
             password: $loginDTO->password
@@ -64,12 +65,12 @@ class AuthService
         return false;
     }
 
-    public function register(RegisterDTO $registerDTO)
+    public function register(RegisterDTO $registerDTO) : bool
     {
         if ($this->userRepository->unique($registerDTO->email, $registerDTO->name)) {
             DB::beginTransaction();
             try {
-                $this->userRepository->create($registerDTO->toArray());
+                $this->userRepository->insert($registerDTO->toArray());
                 UserRegistered::dispatch($registerDTO->email, $registerDTO->name);
                 DB::commit();
             }
@@ -82,7 +83,8 @@ class AuthService
         return false;
     }
 
-    public function logout(Request $request) {
+    public function logout(Request $request) : void
+    {
         $refreshToken = $request->cookie('refresh_token');
         DB::beginTransaction();
         try {
@@ -110,7 +112,7 @@ class AuthService
             username: $user->name,
         ))->toArray();
     }
-    public function refresh($request)
+    public function refresh($request) : array|bool
     {
         $refreshToken = $request->cookie('refresh_token');
         if ($refreshToken) {

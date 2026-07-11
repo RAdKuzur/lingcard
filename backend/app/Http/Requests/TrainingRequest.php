@@ -27,7 +27,8 @@ class TrainingRequest extends FormRequest
         ];
     }
 
-    public function toStatus() {
+    public function toStatus() : bool
+    {
         return $this->validated('status');
     }
 }

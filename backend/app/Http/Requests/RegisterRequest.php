@@ -34,7 +34,7 @@ class RegisterRequest extends FormRequest
 
 
     }
-    public function toDTO()
+    public function toDTO() : RegisterDTO
     {
         return new RegisterDTO(
             email: $this->validated('email'),
