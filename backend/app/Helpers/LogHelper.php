@@ -9,7 +9,7 @@ class LogHelper
     public static function errorLog($trace, $message) {
         return DB::table('log')->insert([
             'message' => $message,
-            'trace' => $trace,
+            'trace' => json_encode($trace),
             'time' => now()
         ]);
     }
