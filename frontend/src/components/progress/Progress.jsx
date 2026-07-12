@@ -3,6 +3,7 @@ import Word from "../layouts/Word.jsx";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import { get } from "../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function Progress() {
     const [activeTab, setActiveTab] = useState(1);
@@ -57,9 +58,9 @@ export default function Progress() {
     }
 
     const tabs = [
-        { id: 1, label: 'Новые слова', color: 'red', onClick: () => handleTabClick(1) },
-        { id: 2, label: 'Изучаемые слова', color: 'blue', onClick: () => handleTabClick(2) },
-        { id: 3, label: 'Изученные слова', color: 'green', onClick: () => handleTabClick(3) }
+        { id: 1, label: getText(lang.progress.newWords), color: 'red', onClick: () => handleTabClick(1) },
+        { id: 2, label: getText(lang.progress.learningWords), color: 'blue', onClick: () => handleTabClick(2) },
+        { id: 3, label: getText(lang.progress.learnedWords), color: 'green', onClick: () => handleTabClick(3) }
     ];
 
     const getTabStyles = (tabId, color) => {
@@ -86,7 +87,7 @@ export default function Progress() {
             <div className="max-w-5xl mx-auto space-y-6">
                 <div className="flex items-center gap-4">
                     <ButtonBack />
-                    <h1 className="text-2xl font-bold text-slate-800">Прогресс</h1>
+                    <h1 className="text-2xl font-bold text-slate-800">{getText(lang.progress.progressLabel)}</h1>
                 </div>
 
                 <div className="flex gap-2 p-1.5 rounded-xl shadow-lg shadow-slate-200/50">
@@ -103,11 +104,11 @@ export default function Progress() {
 
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <div className="flex items-center justify-between mb-4 gap-4 flex-wrap">
-                        <h2 className="text-sm font-medium text-slate-500">Слова</h2>
+                        <h2 className="text-sm font-medium text-slate-500">{getText(lang.progress.words)}</h2>
                         <div className="flex-1 max-w-xs">
                             <input
                                 type="text"
-                                placeholder="Поиск по слову (на базовом языке)"
+                                placeholder={getText(lang.progress.chooseLabel)}
                                 className="w-full px-4 py-2 text-sm border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-all duration-200"
                                 onInput={(e) => handleProgress(activeTab, page, limit, e.target.value)}
                             />
@@ -128,7 +129,7 @@ export default function Progress() {
                             ))
                         ) : (
                             <div className="text-center py-12 text-slate-400">
-                                <p className="text-lg">Нет слов</p>
+                                <p className="text-lg">{getText(lang.progress.noWords)}</p>
                             </div>
                         )}
                     </div>
@@ -142,7 +143,7 @@ export default function Progress() {
                             disabled={page === 1}
                             className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-600 font-medium transition-all duration-200 disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
                         >
-                            Пред.
+                            {getText(lang.progress.prev)}
                         </button>
                         <span className="text-sm text-slate-500 font-medium">
                             {page} / {totalPages()}
@@ -152,7 +153,7 @@ export default function Progress() {
                             disabled={page === totalPages()}
                             className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-600 font-medium transition-all duration-200 disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
                         >
-                            След.
+                            {getText(lang.progress.next)}
                         </button>
                     </div>
                 )}

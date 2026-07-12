@@ -4,6 +4,7 @@ import ButtonBack from "../layouts/ButtonBack.jsx";
 import { useState } from "react";
 import { get } from "../../plugins/request.js";
 import { apiDictionary } from "../../plugins/apiRoutes.js";
+import {getText, lang as language} from "../../lang/lang.js";
 
 export default function Dictionary() {
     const [lang1, setLang1] = useState(1);
@@ -50,17 +51,17 @@ export default function Dictionary() {
             <div className="max-w-5xl mx-auto space-y-6">
                 <div className="flex items-center gap-4">
                     <ButtonBack />
-                    <h1 className="text-2xl font-bold text-slate-800">Словарь</h1>
+                    <h1 className="text-2xl font-bold text-slate-800">{getText(language.dictionary.dictionary)}</h1>
                 </div>
 
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <div>
-                            <label className="text-sm font-medium text-slate-600 block mb-2">Язык 1</label>
+                            <label className="text-sm font-medium text-slate-600 block mb-2">{getText(language.dictionary.lang1)}</label>
                             <SelectLanguage setLang={setLang1} value={lang1} />
                         </div>
                         <div>
-                            <label className="text-sm font-medium text-slate-600 block mb-2">Язык 2</label>
+                            <label className="text-sm font-medium text-slate-600 block mb-2">{getText(language.dictionary.lang2)}</label>
                             <SelectLanguage setLang={setLang2} value={lang2} />
                         </div>
                     </div>
@@ -68,17 +69,17 @@ export default function Dictionary() {
                         onClick={() => handleSearch(search, page, limit)}
                         className="mt-4 w-full px-6 py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-medium rounded-xl transition-all duration-200 shadow-lg shadow-orange-500/25 hover:shadow-orange-500/35 cursor-pointer"
                     >
-                        Показать
+                        {getText(language.dictionary.show)}
                     </button>
                 </div>
 
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <div className="flex items-center justify-between mb-4 gap-4 flex-wrap">
-                        <h2 className="text-sm font-medium text-slate-500">Слова</h2>
+                        <h2 className="text-sm font-medium text-slate-500">{getText(language.dictionary.words)}</h2>
                         <div className="flex-1 max-w-xs">
                             <input
                                 type="text"
-                                placeholder="Поиск по слову (на базовом языке)"
+                                placeholder={getText(language.dictionary.searchPlaceholder)}
                                 className="w-full px-4 py-2 text-sm border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-all duration-200"
                                 onInput={(e) => handleSearch(e.target.value, page, limit)}
                             />
@@ -96,7 +97,7 @@ export default function Dictionary() {
                             ))
                         ) : (
                             <div className="text-center py-12 text-slate-400">
-                                <p className="text-lg">Выберите языки и нажмите "Показать"</p>
+                                <p className="text-lg">{getText(language.dictionary.chooseLabel)}</p>
                             </div>
                         )}
                     </div>
@@ -109,7 +110,7 @@ export default function Dictionary() {
                             disabled={page === 1}
                             className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-600 font-medium transition-all duration-200 disabled:opacity-40 disabled:cursor-not-allowed"
                         >
-                            Пред.
+                            {getText(language.dictionary.prev)}
                         </button>
                         <span className="text-sm text-slate-500 font-medium">
                             {page} / {totalPages()}
@@ -119,7 +120,7 @@ export default function Dictionary() {
                             disabled={page === totalPages()}
                             className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-600 font-medium transition-all duration-200 disabled:opacity-40 disabled:cursor-not-allowed"
                         >
-                            След.
+                            {getText(language.dictionary.next)}
                         </button>
                     </div>
                 )}

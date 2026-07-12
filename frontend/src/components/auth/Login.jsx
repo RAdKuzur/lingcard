@@ -1,11 +1,12 @@
-import { useState } from "react";
+import {useEffect, useState} from "react";
 import { loginAxios as loginAxios } from "../../plugins/auth.js";
 import { useNavigate } from "react-router-dom";
 import { innerRoutes } from "../../plugins/routes.js";
 import { useRedirect } from "../../hooks/useRedirect.js";
 import {useAuth} from "../../plugins/AuthContext.jsx";
+import {getText, lang} from "../../lang/lang.js";
 
-export default function Login({ setAuth }) {
+export default function Login() {
     const { redirect } = useRedirect();
     const auth = useAuth()
     const navigate = useNavigate();
@@ -25,22 +26,20 @@ export default function Login({ setAuth }) {
         <main className="flex flex-1 bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 items-center justify-center p-4">
             <div className="flex flex-col w-96 min-h-96 bg-white/80 backdrop-blur-sm rounded-3xl shadow-2xl shadow-indigo-500/10 text-center justify-between p-8 border border-white/50">
                 <div className="font-bold text-2xl text-slate-800 mt-2">
-                    Вход в систему
+                    {getText(lang.login.mainLabel)}
                 </div>
                 <div className="space-y-4">
                     <div>
-                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Эл. почта</div>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(lang.login.email)}</div>
                         <input
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
-                            placeholder="e-mail"
                             onInput={(e) => setEmail(e.target.value)}
                         />
                     </div>
                     <div>
-                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Пароль</div>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(lang.login.password)}</div>
                         <input
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
-                            placeholder="password"
                             type="password"
                             onInput={(e) => setPassword(e.target.value)}
                         />
@@ -53,15 +52,15 @@ export default function Login({ setAuth }) {
                         onMouseEnter={() => setHover(true)}
                         onMouseLeave={() => setHover(false)}
                     >
-                        Войти
+                        {getText(lang.login.signIn)}
                     </button>
                     <div className="text-sm text-slate-600">
-                        Нет аккаунта?{' '}
+                        {getText(lang.login.noAccount)}{' '}
                         <button
                             onClick={goToRegister}
                             className="text-indigo-600 font-semibold hover:text-indigo-800 hover:underline transition-all duration-200 cursor-pointer"
                         >
-                            Зарегистрироваться
+                            {getText(lang.login.signUp)}
                         </button>
                     </div>
                 </div>

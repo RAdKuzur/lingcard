@@ -1,10 +1,10 @@
-import {useState} from "react";
+import {useEffect, useState} from "react";
 import {useRedirect} from "../../hooks/useRedirect.js";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function ButtonBack() {
     const {redirectIfAuth} = useRedirect();
     const [hover, setHover] = useState(false);
-
     function goBack() {
         redirectIfAuth(-1);
     }
@@ -21,7 +21,7 @@ export default function ButtonBack() {
             <svg className="w-4 h-4 text-slate-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
             </svg>
-            <span className="text-sm font-medium text-slate-600">Назад</span>
+            <span className="text-sm font-medium text-slate-600">{getText(lang.back.button)}</span>
         </div>
     );
 }

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import { get } from "./../../plugins/request.js";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function SelectLanguage({setLang, value = 0, disabled = false, exceptId = 0, extraEmptyField = false}) {
     const [languages, setLanguages] = useState([]);
@@ -23,7 +24,6 @@ export default function SelectLanguage({setLang, value = 0, disabled = false, ex
                     setLoading(false);
                 })
                 .catch(err => {
-                    console.error('Ошибка загрузки языков:', err);
                     setError(err.message);
                     setLoading(false);
                 });
@@ -43,7 +43,6 @@ export default function SelectLanguage({setLang, value = 0, disabled = false, ex
                     setLoading(false);
                 })
                 .catch(err => {
-                    console.error('Ошибка загрузки языков:', err);
                     setError(err.message);
                     setLoading(false);
                 });
@@ -56,7 +55,7 @@ export default function SelectLanguage({setLang, value = 0, disabled = false, ex
     if (loading) {
         return (
             <select className="w-full px-4 py-2.5 rounded-xl border border-slate-200 bg-slate-50 text-slate-400 cursor-not-allowed" disabled>
-                <option>Загрузка...</option>
+                <option>{getText(lang.selectedLanguage.loading)}</option>
             </select>
         );
     }
@@ -64,7 +63,7 @@ export default function SelectLanguage({setLang, value = 0, disabled = false, ex
     if (error) {
         return (
             <select className="w-full px-4 py-2.5 rounded-xl border border-rose-200 bg-rose-50 text-rose-500 cursor-not-allowed" disabled>
-                <option>Ошибка загрузки</option>
+                <option>{getText(lang.selectedLanguage.errorLoading)}</option>
             </select>
         );
     }
@@ -76,7 +75,7 @@ export default function SelectLanguage({setLang, value = 0, disabled = false, ex
             onChange={(e) => setLang(e.target.value)}
             disabled={disabled}
         >
-            {extraEmptyField ? (<option value={0}>Выберите язык...</option>) : ''}
+            {extraEmptyField ? (<option value={0}>{getText(lang.selectedLanguage.chooseLanguage)}</option>) : ''}
             {languages.map(lang => (
                 <option key={lang.id} value={lang.id}>
                     {lang.name}

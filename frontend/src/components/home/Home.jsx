@@ -4,6 +4,7 @@ import ButtonBack from "../layouts/ButtonBack.jsx";
 import {useState} from "react";
 import {get} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function Home() {
     const [news, setNews] = useState([])
@@ -26,7 +27,7 @@ export default function Home() {
             <div className="max-w-5xl mx-auto space-y-8">
                 <div>
                     <div className="flex items-center gap-3 mb-4 pl-4">
-                        <h1 className="text-2xl font-bold text-slate-800">Новости</h1>
+                        <h1 className="text-2xl font-bold text-slate-800">{getText(lang.home.news)}</h1>
                     </div>
                     {
                         news.length > 0 ?
@@ -53,14 +54,4 @@ export default function Home() {
             </div>
         </main>
     );
-    // return (
-    //     <main className="flex flex-1 bg-gradient-to-br from-slate-50 to-slate-100 items-center justify-center p-6">
-    //         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl w-full">
-    //             <PanelHome title={'Начать тренировку'} link={innerRoutes.training} />
-    //             <PanelHome title={'Прогресс'} link={innerRoutes.progress} />
-    //             <PanelHome title={'Словарь'} link={innerRoutes.dictionary} />
-    //             <PanelHome title={'О нас'} link={innerRoutes.about} />
-    //         </div>
-    //     </main>
-    // );
 }

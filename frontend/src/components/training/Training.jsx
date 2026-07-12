@@ -3,6 +3,7 @@ import ButtonBack from "../layouts/ButtonBack.jsx";
 import { get, patch } from "../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import InitWindow from "./InitWindow.jsx";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function Training() {
     const [isTraining, setTraining] = useState(false)
@@ -65,7 +66,6 @@ export default function Training() {
             setCountryCode(response.data.language)
             return response.data.training
         } catch (error) {
-            console.error('Error checking training status:', error)
             return false
         } finally {
             setIsLoading(false)
@@ -84,24 +84,6 @@ export default function Training() {
         }
         fetchData()
     }, [])
-    function setLevelColor(level){
-        switch (level) {
-            case 'Начальный':
-                return 'bg-red-500 hover:bg-red-600 text-white';
-            case 'Базовый':
-                return 'bg-orange-500 hover:bg-orange-600 text-white';
-            case 'Средний':
-                return 'bg-yellow-500 hover:bg-yellow-600 text-white';
-            case 'Выше среднего':
-                return 'bg-green-500 hover:bg-green-600 text-white';
-            case 'Продвинутый':
-                return 'bg-blue-500 hover:bg-blue-600 text-white';
-            case 'Профессиональный':
-                return 'bg-purple-500 hover:bg-purple-600 text-white';
-            default:
-                return 'bg-gray-500 hover:bg-gray-600 text-white';
-        }
-    }
     async function newWord() {
         const response = await get(apiRoutes.training, null, {withCredentials: true});
         const data = await response.data;
@@ -133,7 +115,7 @@ export default function Training() {
             {isLoading ? (
                 <div className="flex flex-col items-center justify-center gap-4">
                     <div className="w-16 h-16 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin"></div>
-                    <p className="text-lg font-medium text-slate-600 animate-pulse">Загрузка...</p>
+                    <p className="text-lg font-medium text-slate-600 animate-pulse">{getText(lang.training.loading)}</p>
                 </div>
             ) : !isTraining ? (
                 <InitWindow countryCode={countryCode} setTraining={handleSetTraining}/>
@@ -150,19 +132,15 @@ export default function Training() {
             `}>
                         <div className="text-center">
                             <div className="flex flex-wrap items-center justify-center gap-2 mb-6">
-                        <span
-                            className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold ${setLevelColor(level)} text-white shadow-lg shadow-indigo-500/25`}>
-                            {level}
-                        </span>
                                 {status === 1 ? (
                                     <span
                                         className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-emerald-400 to-emerald-500 text-white shadow-lg shadow-emerald-500/25">
-                                Новое слово
+                                {getText(lang.training.newWord)}
                             </span>
                                 ) : (
                                     <span
                                         className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
-                                Повторений: {repeat}
+                                {getText(lang.training.amountRepeat)} {repeat}
                             </span>
                                 )}
                             </div>
@@ -188,7 +166,7 @@ export default function Training() {
                                     onMouseLeave={() => setHoverNo(false)}
                                     onClick={() => swipe('left')}
                                 >
-                                    ✕ Не знаю
+                                    {getText(lang.training.unknown)}
                                 </button>
                                 <button
                                     className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
@@ -200,7 +178,7 @@ export default function Training() {
                                     onMouseLeave={() => setHoverShow(false)}
                                     onClick={show}
                                 >
-                                    {word ? 'Показать' : 'Убрать'}
+                                    {word ? getText(lang.training.show) : getText(lang.training.hide)}
                                 </button>
                                 <button
                                     className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
@@ -212,7 +190,7 @@ export default function Training() {
                                     onMouseLeave={() => setHoverYes(false)}
                                     onClick={() => swipe('right')}
                                 >
-                                    ✓ Знаю
+                                    {getText(lang.training.known)}
                                 </button>
                             </div>
                         </div>

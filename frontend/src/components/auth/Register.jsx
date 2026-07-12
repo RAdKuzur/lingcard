@@ -5,6 +5,7 @@ import axios from "axios";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 import {innerRoutes} from "../../plugins/routes.js";
+import {getText, lang as langauge} from "../../lang/lang.js";
 
 export default function Register() {
     const {redirect} = useRedirect()
@@ -42,42 +43,39 @@ export default function Register() {
             <div
                 className="flex flex-col w-96 min-h-96 bg-white/80 backdrop-blur-sm rounded-3xl shadow-2xl shadow-indigo-500/10 text-center justify-between p-8 border border-white/50">
                 <div className="font-bold text-2xl text-slate-800 mt-2">
-                    Регистрация
+                    {getText(langauge.register.registerLabel)}
                 </div>
                 <div className="space-y-4">
                     <div>
-                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Эл. почта</div>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(langauge.register.email)}</div>
                         <input
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
-                            placeholder="e-mail"
                             onInput={(e) => setEmail(e.target.value)}
                         />
                     </div>
 
                     <div>
-                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Имя пользователя</div>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(langauge.register.username)}</div>
                         <input
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
-                            placeholder="username"
                             onInput={(e) => setUsername(e.target.value)}
                         />
                     </div>
 
                     <div>
-                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Пароль</div>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(langauge.register.password)}</div>
                         <input
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
-                            placeholder="password"
                             type="password"
                             onInput={(e) => setPassword(e.target.value)}
                         />
                     </div>
                     <div>
-                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Базовый язык</div>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(langauge.register.baseLang)}</div>
                         <SelectLanguage setLang={setLang} value={lang} extraEmptyField={true}/>
                     </div>
                     <div>
-                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">Язык изучения</div>
+                        <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(langauge.register.targetLang)}</div>
                         <SelectLanguage setLang={setTargetLang} value={targetLang} exceptId={lang} extraEmptyField={true}/>
                     </div>
                 </div>
@@ -88,7 +86,7 @@ export default function Register() {
                         onMouseEnter={() => setHover(true)}
                         onMouseLeave={() => setHover(false)}
                     >
-                        Создать аккаунт
+                        {getText(langauge.register.createAccount)}
                     </button>
                 </div>
             </div>

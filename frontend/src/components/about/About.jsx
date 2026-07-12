@@ -1,4 +1,6 @@
 import ButtonBack from "../layouts/ButtonBack.jsx";
+import {getText, lang} from "../../lang/lang.js";
+import {useEffect, useState} from "react";
 
 export default function About() {
     const countries = [
@@ -8,7 +10,6 @@ export default function About() {
         // { name: 'Армения', flag: '/flags/am.svg' },
         // { name: 'Китай', flag: '/flags/cn.svg' }
     ];
-
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
             <div className="flex max-w-5xl mx-auto justify-start mb-6">
@@ -17,16 +18,15 @@ export default function About() {
             <div className="max-w-5xl mx-auto space-y-8">
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
                     <div className="flex items-center gap-3 mb-4">
-                        <h1 className="text-2xl font-bold text-slate-800">О нас</h1>
+                        <h1 className="text-2xl font-bold text-slate-800">{getText(lang.about.me)}</h1>
                     </div>
                     <p className="text-slate-600 leading-relaxed text-lg">
-                        LingCard - это проект, который помогает людям учить языки с помощью простых интерактивных карточек.
-                        Наша миссия - сделать изучение языков доступным, увлекательным и эффективным для каждого.
+                        {getText(lang.about.mission)}
                     </p>
                 </div>
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
                     <div className="flex items-center gap-3 mb-4">
-                        <h1 className="text-2xl font-bold text-slate-800">Контакты</h1>
+                        <h1 className="text-2xl font-bold text-slate-800">{getText(lang.about.contacts)}</h1>
                     </div>
                     <div className="space-y-3">
                         <a
@@ -41,7 +41,7 @@ export default function About() {
                 </div>
                 <div>
                     <div className="flex items-center gap-3 mb-6 justify-center">
-                        <h1 className="text-2xl font-bold text-slate-800">Доступные языки</h1>
+                        <h1 className="text-2xl font-bold text-slate-800">{getText(lang.about.languages)}</h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                         {countries.map((country, index) => (

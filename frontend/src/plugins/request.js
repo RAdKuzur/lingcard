@@ -42,8 +42,6 @@ api.interceptors.response.use(
 
         if (originalRequest.url === apiRoutes.refresh) {
             if (error.response?.status === 401) {
-                // console.log('Refresh token invalid, redirecting to login');
-                // Только редирект, очистка контекста произойдет в компоненте
                 window.location.href = innerRoutes.login;
             }
             return Promise.reject(error);
@@ -82,7 +80,6 @@ api.interceptors.response.use(
             );
 
             if (refreshResponse.status === 200) {
-                // console.log('Token refreshed successfully');
             } else {
                 throw new Error('Refresh failed with status: ' + refreshResponse.status);
             }

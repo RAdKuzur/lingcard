@@ -2,6 +2,7 @@ import {post} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 import {innerRoutes} from "../../plugins/routes.js";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function InitWindow({countryCode, setTraining}) {
     async function handleInit() {
@@ -35,7 +36,7 @@ export default function InitWindow({countryCode, setTraining}) {
                        cursor-pointer"
                 onClick={handleInit}
             >
-                Начать обучение
+                {getText(lang.initWindows.start)}
             </button>
         </div>
     );

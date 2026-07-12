@@ -1,6 +1,8 @@
 import { innerRoutes } from "../../plugins/routes.js";
 import { useRedirect } from "../../hooks/useRedirect.js";
 import { useAuth } from "../../plugins/AuthContext.jsx";
+import {useEffect, useState} from "react";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function ProfileBar() {
     const { redirectIfAuth } = useRedirect();
@@ -13,8 +15,8 @@ export default function ProfileBar() {
         }
     }
 
-    // Получаем данные из контекста
-    const username = auth.isAuthenticated() ? auth.user?.username || 'Гость' : 'Гость';
+
+    const username = auth.isAuthenticated() ? auth.user?.username || getText(lang.profileBar.guest) : getText(lang.profileBar.guest);
     const role = auth.isAuthenticated() ? auth.user?.role || '' : '';
 
     const roleColors = {
@@ -38,13 +40,8 @@ export default function ProfileBar() {
             </div>) : ''}
             <div className="flex flex-col items-start">
                 <span className="text-sm font-semibold text-slate-700">
-                    {auth.isAuthenticated() ? username : 'Войти'}
+                    {auth.isAuthenticated() ? username : getText(lang.profileBar.signIn)}
                 </span>
-                {auth.isAuthenticated() && role && (
-                    <span className={`text-xs px-2 py-0.5 rounded-full ${roleClass}`}>
-                        {role}
-                    </span>
-                )}
             </div>
         </div>
     );

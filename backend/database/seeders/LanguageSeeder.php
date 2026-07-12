@@ -19,7 +19,7 @@ class LanguageSeeder extends Seeder
             'code' => 'ru',
         ]);
         DB::table('languages')->insert([
-            'name' => 'Казахский',
+            'name' => 'Қазақша',
             'code' => 'kz',
         ]);
     }

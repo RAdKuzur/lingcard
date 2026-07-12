@@ -1,6 +1,7 @@
 import {del} from "../../plugins/request.js";
 import {apiClearWordProgress} from "../../plugins/apiRoutes.js";
 import {useState} from "react";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function Word({ word, translation, level = null, repeat = null , progressId = null, activeTab = 1}) {
     const [isHidden, setHidden] = useState(false)
@@ -46,7 +47,7 @@ export default function Word({ word, translation, level = null, repeat = null , 
                 {level !== null && (
                     <span
                         className={`px-3 py-1 rounded-full text-xs font-medium whitespace-nowrap ${setLevelColor(level)}`}>
-                {level}
+
             </span>
                 )}
             </div>
@@ -60,7 +61,7 @@ export default function Word({ word, translation, level = null, repeat = null , 
                         <path strokeLinecap="round" strokeLinejoin="round"
                               d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/>
                     </svg>
-                    <span>Сбросить прогресс</span>
+                    <span>{getText(lang.word.clearProgress)}</span>
                 </button>
             </div>
         </div>

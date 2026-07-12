@@ -2,11 +2,11 @@ import SelectLanguage from "../layouts/SelectLanguage.jsx";
 import {useEffect, useState} from "react";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import { logoutAxios } from "../../plugins/auth.js";
-import { innerRoutes } from "../../plugins/routes.js";
 import { patch, get, del } from "./../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 import {useAuth} from "../../plugins/AuthContext.jsx";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function Profile() {
     const { redirectIfAuth } = useRedirect();
@@ -31,19 +31,19 @@ export default function Profile() {
 
     const validateChanges = () => {
         if (String(baseLang) === String(targetLang)) {
-            setErrorMessage('Базовый язык и язык изучения не могут быть одинаковыми')
+            setErrorMessage(getText(lang.profile.error.sameLanguages))
             return false
         }
 
         if (baseLang === 0 || targetLang === 0 ||
             baseLang === '0' || targetLang === '0') {
-            setErrorMessage('Пожалуйста, выберите оба языка')
+            setErrorMessage(getText(lang.profile.error.bothLanguages))
             return false
         }
 
         if (String(baseLang) === String(initialBaseLang) &&
             String(targetLang) === String(initialTargetLang)) {
-            setErrorMessage('Языки не были изменены')
+            setErrorMessage(getText(lang.profile.error.notChanged))
             return false
         }
 
@@ -69,12 +69,12 @@ export default function Profile() {
 
             setInitialBaseLang(baseLang)
             setInitialTargetLang(targetLang)
-            setSuccessMessage('Настройки успешно обновлены!')
+            setSuccessMessage(getText(lang.profile.success.successChanged))
 
             setTimeout(() => setSuccessMessage(''), 3000)
 
         } catch (error) {
-            setErrorMessage('Ошибка при обновлении настроек')
+            setErrorMessage(getText(lang.profile.error.failedUpdate))
             setTimeout(() => setErrorMessage(''), 3000)
         }
     }
@@ -92,14 +92,13 @@ export default function Profile() {
                 const data = response.data;
                 setTargetLang(data.target_language_id)
                 setBaseLang(data.base_language_id)
-                // Сохраняем начальные значения
                 setInitialBaseLang(data.base_language_id)
                 setInitialTargetLang(data.target_language_id)
                 setNoneWords(data.none_words)
                 setLearningWords(data.learning_words)
                 setLearnedWords(data.learned_words)
             } catch (error) {
-                console.error('Error fetching profile:', error);
+
             }
         };
         fetchProfile();
@@ -118,13 +117,13 @@ export default function Profile() {
             <div className="flex flex-col w-full max-w-5xl items-center space-y-6">
                 <div className="flex w-full items-center gap-4">
                     <ButtonBack />
-                    <h1 className="text-2xl font-bold text-slate-800">Профиль</h1>
+                    <h1 className="text-2xl font-bold text-slate-800">{getText(lang.profile.profileLabel)}</h1>
                 </div>
 
                 <div className="w-full bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <div>
-                            <label className="text-sm font-medium text-slate-600 block mb-2">Базовый язык</label>
+                            <label className="text-sm font-medium text-slate-600 block mb-2">{getText(lang.profile.baseLang)}</label>
                             <SelectLanguage
                                 setLang={setBaseLang}
                                 value={baseLang}
@@ -136,7 +135,7 @@ export default function Profile() {
                             />
                         </div>
                         <div>
-                            <label className="text-sm font-medium text-slate-600 block mb-2">Язык изучения</label>
+                            <label className="text-sm font-medium text-slate-600 block mb-2">{getText(lang.profile.targetLang)}</label>
                             <SelectLanguage
                                 setLang={setTargetLang}
                                 value={targetLang}
@@ -169,27 +168,27 @@ export default function Profile() {
                         onClick={changeProfile}
                         disabled={isButtonDisabled()}
                     >
-                        {isButtonDisabled() ? 'Нет изменений' : 'Изменить'}
+                        {isButtonDisabled() ? getText(lang.profile.noChanged) : getText(lang.profile.buttonChange)}
                     </button>
                 </div>
 
                 <div className="w-full bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
-                    <h2 className="text-sm font-medium text-slate-500 mb-4">Статистика</h2>
+                    <h2 className="text-sm font-medium text-slate-500 mb-4">{getText(lang.profile.stats)}</h2>
                     <div className="space-y-3">
                         <div className="flex items-center justify-between px-4 py-3 bg-slate-50 rounded-xl">
-                            <span className="text-slate-700 font-medium">Выучено слов</span>
+                            <span className="text-slate-700 font-medium">{getText(lang.profile.alreadyLearned)}</span>
                             <span className="px-4 py-1 rounded-full bg-emerald-500 text-white font-bold text-sm">
                                 {learnedWords}
                             </span>
                         </div>
                         <div className="flex items-center justify-between px-4 py-3 bg-slate-50 rounded-xl">
-                            <span className="text-slate-700 font-medium">Слов изучается</span>
+                            <span className="text-slate-700 font-medium">{getText(lang.profile.learning)}</span>
                             <span className="px-4 py-1 rounded-full bg-blue-500 text-white font-bold text-sm">
                                 {learningWords}
                             </span>
                         </div>
                         <div className="flex items-center justify-between px-4 py-3 bg-slate-50 rounded-xl">
-                            <span className="text-slate-700 font-medium">Ещё не изучено</span>
+                            <span className="text-slate-700 font-medium">{getText(lang.profile.noLearning)}</span>
                             <span className="px-4 py-1 rounded-full bg-rose-500 text-white font-bold text-sm">
                                 {noneWords}
                             </span>
@@ -208,7 +207,7 @@ export default function Profile() {
                         onMouseLeave={() => setHover1(false)}
                         onClick={logout}
                     >
-                        Выйти
+                        {getText(lang.profile.signOut)}
                     </button>
                     <button
                         className={`flex-1 px-6 py-3 rounded-xl font-medium transition-all duration-200 cursor-pointer ${
@@ -220,7 +219,7 @@ export default function Profile() {
                         onMouseLeave={() => setHover2(false)}
                         onClick={clearProgress}
                     >
-                        Сбросить прогресс
+                        {getText(lang.profile.clearProgress)}
                     </button>
                 </div>
             </div>
