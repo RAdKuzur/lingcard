@@ -104,46 +104,49 @@ class CourseService
     {
         DB::beginTransaction();
         try {
+            $user = AuthHelper::user();
             $course = $this->courseRepository->find($id);
-            if ($course && $status) {
-                switch ($course->status) {
-                    case StatusDictionary::NONE:
-                        $this->courseRepository->update($id, [
-                            'repeat' => $course->repeat,
-                            'status' => StatusDictionary::LEARNED,
-                            'last_time_repeated' => now()
-                        ]);
-                        WordRepeated::dispatch();
-                        break;
-                    case StatusDictionary::LEARNING:
-                        $this->courseRepository->update($id, [
-                            'repeat' => $course->repeat + 1,
-                            'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusDictionary::LEARNED : StatusDictionary::LEARNING,
-                            'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+1 days"))
-                        ]);
-                        if ($course->repeat + 1 > Course::REPEAT_TIME) {
-                            WordRepeated::dispatch();
-                        }
-                        break;
-                    default:
-                        break;
+            if ($user && $course) {
+                if ($status) {
+                    switch ($course->status) {
+                        case StatusDictionary::NONE:
+                            $this->courseRepository->update($id, [
+                                'repeat' => $course->repeat,
+                                'status' => StatusDictionary::LEARNED,
+                                'last_time_repeated' => now()
+                            ]);
+                            WordRepeated::dispatch($user);
+                            break;
+                        case StatusDictionary::LEARNING:
+                            $this->courseRepository->update($id, [
+                                'repeat' => $course->repeat + 1,
+                                'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusDictionary::LEARNED : StatusDictionary::LEARNING,
+                                'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+1 days"))
+                            ]);
+                            if ($course->repeat + 1 > Course::REPEAT_TIME) {
+                                WordRepeated::dispatch($user);
+                            }
+                            break;
+                        default:
+                            break;
+                    }
                 }
-            }
-            else {
-                switch ($course->status) {
-                    case StatusDictionary::NONE:
-                        $this->courseRepository->update($id, [
-                            'status' => StatusDictionary::LEARNING,
-                            'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
-                        ]);
-                        break;
-                    case StatusDictionary::LEARNING:
-                        $this->courseRepository->update($id, [
-                            'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+5 minutes"))
-                        ]);
-                        break;
-                    default:
-                        break;
+                else {
+                    switch ($course->status) {
+                        case StatusDictionary::NONE:
+                            $this->courseRepository->update($id, [
+                                'status' => StatusDictionary::LEARNING,
+                                'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
+                            ]);
+                            break;
+                        case StatusDictionary::LEARNING:
+                            $this->courseRepository->update($id, [
+                                'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+5 minutes"))
+                            ]);
+                            break;
+                        default:
+                            break;
+                    }
                 }
             }
             DB::commit();

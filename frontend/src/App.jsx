@@ -15,14 +15,26 @@ import ProtectedRoute from "./components/layouts/ProtectedRoute.jsx";
 import Register from "./components/auth/Register.jsx";
 import UnprotectedRoute from "./components/layouts/UnprotectedRoute.jsx";
 import echo from "./plugins/echo.js";
+import {useAuth} from "./plugins/AuthContext.jsx";
 function App() {
-
+    const auth = useAuth()
+    const username = auth.user?.username;
+    const [notification, setNotification] = useState(null);
     useEffect(() => {
-        const channel = echo.channel('notifications');
-        channel.listen('.words.repeated', (e) => {
-            console.log(e.message);
+        if (!username) return;
+        const channelName = `notifications`;
+        const channel = echo.channel(channelName);
+        channel.listen(`.words.repeated.${username}`, (e) => {
+            setNotification(e.message);
+            setTimeout(() => {
+                setNotification(null);
+            }, 5000);
         });
-    }, []);
+        return () => {
+            echo.leave(channelName);
+        };
+    }, [username]);
+
     return (
         <div className="flex flex-col min-h-screen">
             <Navbar/>
@@ -73,6 +85,11 @@ function App() {
                     </ProtectedRoute>
                 }/>
             </Routes>
+            {notification && (
+                <div className="fixed bottom-5 right-5 bg-green-600 text-white px-4 py-3 rounded-lg shadow-lg">
+                    {notification}
+                </div>
+            )}
             <Footer/>
         </div>
     )
