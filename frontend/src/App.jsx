@@ -14,8 +14,15 @@ import About from "./components/about/About.jsx";
 import ProtectedRoute from "./components/layouts/ProtectedRoute.jsx";
 import Register from "./components/auth/Register.jsx";
 import UnprotectedRoute from "./components/layouts/UnprotectedRoute.jsx";
-
+import echo from "./plugins/echo.js";
 function App() {
+
+    useEffect(() => {
+        const channel = echo.channel('notifications');
+        channel.listen('.words.repeated', (e) => {
+            console.log(e.message);
+        });
+    }, []);
     return (
         <div className="flex flex-col min-h-screen">
             <Navbar/>

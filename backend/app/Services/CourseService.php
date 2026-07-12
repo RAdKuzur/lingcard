@@ -6,6 +6,7 @@ use App\Dictionaries\LevelDictionary;
 use App\Dictionaries\StatusDictionary;
 use App\DTO\WordProgressDTO;
 use App\DTO\WordTrainingDTO;
+use App\Events\WordRepeated;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
 use App\Jobs\InitProgressJob;
@@ -112,6 +113,7 @@ class CourseService
                             'status' => StatusDictionary::LEARNED,
                             'last_time_repeated' => now()
                         ]);
+                        WordRepeated::dispatch();
                         break;
                     case StatusDictionary::LEARNING:
                         $this->courseRepository->update($id, [
@@ -119,6 +121,9 @@ class CourseService
                             'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusDictionary::LEARNED : StatusDictionary::LEARNING,
                             'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+1 days"))
                         ]);
+                        if ($course->repeat + 1 > Course::REPEAT_TIME) {
+                            WordRepeated::dispatch();
+                        }
                         break;
                     default:
                         break;
