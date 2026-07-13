@@ -14,9 +14,9 @@ class NewsController extends Controller
         $this->newsService = $newsService;
     }
 
-    public function all()
+    public function all($code = 'ru')
     {
-        $data = $this->newsService->all();
+        $data = $this->newsService->newsByCode($code);
         return response()->json([
             'data' => $data
         ]);

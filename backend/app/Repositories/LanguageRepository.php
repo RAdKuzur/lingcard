@@ -14,6 +14,9 @@ class LanguageRepository implements LanguageRepositoryInterface
     public function find($id) {
         return Language::find($id);
     }
+    public function findByCode($code) {
+        return Language::where(['code' => $code])->first();
+    }
     public function insert($data) : bool {
         return DB::table('languages')->insert($data);
     }

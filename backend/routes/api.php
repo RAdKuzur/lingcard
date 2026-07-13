@@ -22,7 +22,7 @@ Route::post('/user', [AuthController::class, 'user'])->name('user');
 Route::group(['middleware' => AuthMiddleware::class], function () {
     Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
-    Route::get('/news', [NewsController::class, 'all'])->name('news');
+    Route::get('/news/{code?}', [NewsController::class, 'all'])->name('news');
     Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
     Route::get('/training', [TrainingController::class, 'newWord'])->name('new-word');

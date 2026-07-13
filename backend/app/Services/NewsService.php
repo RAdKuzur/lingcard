@@ -3,17 +3,21 @@
 namespace App\Services;
 
 use App\DTO\NewsDTO;
+use App\Repositories\Interfaces\LanguageRepositoryInterface;
 use App\Repositories\Interfaces\NewsRepositoryInterface;
 use DateTime;
 
 class NewsService
 {
     private NewsRepositoryInterface $newsRepository;
+    private LanguageRepositoryInterface $languageRepository;
     public function __construct(
-        NewsRepositoryInterface $newsRepository
+        NewsRepositoryInterface $newsRepository,
+        LanguageRepositoryInterface $languageRepository
     )
     {
         $this->newsRepository = $newsRepository;
+        $this->languageRepository = $languageRepository;
     }
 
     public function all() : array
@@ -25,8 +29,29 @@ class NewsService
                 id: $item->id,
                 content: $item->content,
                 date: (new DateTime($item->date))->format('d.m.Y H:i'),
-                title: $item->title
+                title: $item->title,
+                code: $item->language->code
             ))->toArray();
+        }
+        return $data;
+    }
+
+
+    public function newsByCode($code) : array
+    {
+        $language = $this->languageRepository->findByCode($code);
+        $data = [];
+        if ($language) {
+            $news = $this->newsRepository->findByLangId($language->id);
+            foreach ($news as $item) {
+                $data[] = (new NewsDTO(
+                    id: $item->id,
+                    content: $item->content,
+                    date: (new DateTime($item->date))->format('d.m.Y H:i'),
+                    title: $item->title,
+                    code: $code
+                ))->toArray();
+            }
         }
         return $data;
     }

@@ -17,6 +17,9 @@ class NewsRepository implements NewsRepositoryInterface
     public function find($id) {
         return News::find($id);
     }
+    public function findByLangId($langId) {
+        return News::where(['language_id' => $langId])->orderBy('date', 'asc')->get();
+    }
     public function insert($data) : bool {
         return DB::table('news')->insert($data);
     }

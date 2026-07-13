@@ -8,9 +8,12 @@ use Illuminate\Database\Eloquent\Model;
  * @property int $id
  * @property string $title
  * @property string $content
+ * @property int $language_id
  * @property \Carbon\Carbon $date
  * @property \Carbon\Carbon $created_at
  * @property \Carbon\Carbon $updated_at
+ *
+ * @property Language $language
  */
 class News extends Model
 {
@@ -42,4 +45,9 @@ class News extends Model
     protected $casts = [
         'date' => 'datetime',
     ];
+
+    public function language(): BelongsTo
+    {
+        return $this->belongsTo(Language::class, 'language_id');
+    }
 }
