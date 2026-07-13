@@ -1,0 +1,129 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:17
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_DATABASE}
+    networks:
+      - network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USERNAME} -d ${DB_DATABASE}"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.prod
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    networks:
+      - network
+    depends_on:
+      websocket:
+        condition: service_started
+
+  migrator:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.prod
+    command: migrate
+    networks:
+      - network
+    depends_on:
+      db:
+        condition: service_healthy
+      backend:
+        condition: service_started
+
+  seeder:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.prod
+    command: db:seed
+    networks:
+      - network
+    depends_on:
+      db:
+        condition: service_healthy
+      backend:
+        condition: service_started
+      migrator:
+        condition: service_completed_successfully
+
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.prod
+    command: octane:start --server=roadrunner --port=8080 --host=0.0.0.0
+    ports:
+      - "8080:8080"
+    networks:
+      - network
+    depends_on:
+      - db
+
+  queue:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.prod
+    command: queue:work
+    networks:
+      - network
+    restart: always
+    depends_on:
+      backend:
+        condition: service_started
+      db:
+        condition: service_healthy
+      migrator:
+        condition: service_completed_successfully
+      redis:
+        condition: service_started
+
+  redis:
+    image: redis:latest
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - network
+
+  websocket:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.prod
+    command: reverb:start --port=5000 --host=0.0.0.0
+    ports:
+      - "5000:5000"
+    networks:
+      - network
+    depends_on:
+      backend:
+        condition: service_started
+      redis:
+        condition: service_started
+      migrator:
+        condition: service_completed_successfully
+
+volumes:
+  redis_data:
+  postgres_data:
+
+networks:
+  network:
+    driver: bridge
