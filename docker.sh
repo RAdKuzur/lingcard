@@ -1,3 +1,3 @@
 docker compose up --build -d
-php artisan key:generate
-php artisan jwt:secret
+docker compose exec backend php artisan key:generate
+docker compose exec backend php artisan jwt:secret
