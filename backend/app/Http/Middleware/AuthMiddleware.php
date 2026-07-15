@@ -34,7 +34,7 @@ class AuthMiddleware
         $refreshToken = $request->cookie('refresh_token');
         $this->visitRepository->insert([
             'path' => request()->path(),
-            'ip' => request()->ip(),
+            'ip' => $request->header('X-Real-IP'),
             'user_agent' => request()->userAgent(),
             'time' => now()
         ]);
