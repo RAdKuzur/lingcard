@@ -23,7 +23,7 @@ class NewsSeeder extends Seeder
         ]);
         DB::table('news')->insert([
             'content' => 'Мы добавили русский и казахский языки для обучения!',
-            'date' => now()->addDay(),
+            'date' => now()->addSecond(),
             'title' => 'Русский и Қазақша',
             'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
         ]);
@@ -36,7 +36,7 @@ class NewsSeeder extends Seeder
         ]);
         DB::table('news')->insert([
             'content' => 'Біз оқытуға арналған орыс және қазақ тілдерін қостық!',
-            'date' => now()->addDay(),
+            'date' => now()->addSecond(),
             'title' => 'Русский и Қазақша',
             'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
         ]);
