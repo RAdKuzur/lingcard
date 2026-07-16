@@ -13,9 +13,14 @@ export default function Login() {
     const [isHover, setHover] = useState(false);
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
+    const [error, setError] = useState('');
 
-    function signIn() {
-        loginAxios(email, password, auth, redirect);
+    async function signIn() {
+        setError('');
+        const result = await loginAxios(email, password, auth, redirect);
+        if (!result.success) {
+            setError(getText(lang.login.invalidCredentials));
+        }
     }
 
     function goToRegister() {
@@ -34,6 +39,7 @@ export default function Login() {
                         <input
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
                             onInput={(e) => setEmail(e.target.value)}
+                            value={email}
                         />
                     </div>
                     <div>
@@ -42,8 +48,14 @@ export default function Login() {
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
                             type="password"
                             onInput={(e) => setPassword(e.target.value)}
+                            value={password}
                         />
                     </div>
+                    {error !== '' ? (
+                        <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-xl text-sm text-left">
+                            {error}
+                        </div>
+                    ) : ''}
                 </div>
                 <div className="mt-4 space-y-3">
                     <button

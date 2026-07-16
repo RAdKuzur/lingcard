@@ -1,6 +1,5 @@
 import SelectLanguage from "../layouts/SelectLanguage.jsx";
 import {useState} from "react";
-import {post} from "../../plugins/request.js";
 import axios from "axios";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
@@ -15,28 +14,49 @@ export default function Register() {
     const [password, setPassword] = useState('');
     const [lang, setLang] = useState(0)
     const [targetLang, setTargetLang] = useState(0)
+    const [message, setMessage] = useState('')
+    const [isSuccess, setIsSuccess] = useState(false)
+
     async function signUp() {
-        const response = await axios.post(
-            apiRoutes.register,
-            {
-                email: email,
-                password: password,
-                base_language_id: lang,
-                target_language_id: targetLang,
-                name: username
-            },
-            {
-                withCredentials: true,
-                headers: {
-                    'Content-Type': 'application/json',
+        setMessage('')
+        setIsSuccess(false)
+
+        try {
+            const response = await axios.post(
+                apiRoutes.register,
+                {
+                    email: email,
+                    password: password,
+                    base_language_id: lang,
+                    target_language_id: targetLang,
+                    name: username
+                },
+                {
+                    withCredentials: true,
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
                 }
+            );
+
+            const successRegister = response.data.data.status;
+
+            if(successRegister) {
+                setIsSuccess(true)
+                setMessage(getText(langauge.register.success))
+                setTimeout(() => {
+                    redirect(innerRoutes.login)
+                }, 5000)
+            } else {
+                setMessage(getText(langauge.register.failed))
+                setIsSuccess(false)
             }
-        );
-        const successRegister = await response.data.data.status;
-        if(successRegister) {
-            redirect(innerRoutes.login)
+        } catch (error) {
+            setMessage(getText(langauge.register.failed))
+            setIsSuccess(false)
         }
     }
+
     return (
         <main
             className="flex flex-1 bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 items-center justify-center p-4">
@@ -45,6 +65,13 @@ export default function Register() {
                 <div className="font-bold text-2xl text-slate-800 mt-2">
                     {getText(langauge.register.registerLabel)}
                 </div>
+
+                {message && (
+                    <div className={`px-4 py-3 rounded-xl text-sm ${isSuccess ? 'bg-green-50 border border-green-200 text-green-700' : 'bg-red-50 border border-red-200 text-red-700'}`}>
+                        {message}
+                    </div>
+                )}
+
                 <div className="space-y-4">
                     <div>
                         <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(langauge.register.email)}</div>
