@@ -63,6 +63,9 @@ export default function Navbar() {
                                 {item.label}
                             </Link>
                         )) : ''}
+                    </div>
+                    <div className="flex items-center gap-4">
+                        {/* Селект с языками */}
                         <div className="relative">
                             <select
                                 value={currentLang}
@@ -92,8 +95,8 @@ export default function Navbar() {
                                 </svg>
                             </div>
                         </div>
+                        <ProfileBar />
                     </div>
-                    <ProfileBar />
                 </div>
             </div>
         </nav>
