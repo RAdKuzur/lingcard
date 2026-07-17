@@ -65,7 +65,6 @@ export default function Navbar() {
                         )) : ''}
                     </div>
                     <div className="flex items-center gap-4">
-                        {/* Селект с языками */}
                         <div className="relative">
                             <select
                                 value={currentLang}

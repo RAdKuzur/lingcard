@@ -5,6 +5,7 @@ import {apiRoutes} from "../../plugins/apiRoutes.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 import {innerRoutes} from "../../plugins/routes.js";
 import {getText, lang as langauge} from "../../lang/lang.js";
+import ConfirmRegister from "./ConfirmRegister.jsx";
 
 export default function Register() {
     const {redirect} = useRedirect()
@@ -43,10 +44,6 @@ export default function Register() {
 
             if(successRegister) {
                 setIsSuccess(true)
-                setMessage(getText(langauge.register.success))
-                setTimeout(() => {
-                    redirect(innerRoutes.login)
-                }, 5000)
             } else {
                 setMessage(getText(langauge.register.failed))
                 setIsSuccess(false)
@@ -58,6 +55,7 @@ export default function Register() {
     }
 
     return (
+        !isSuccess ? (
         <main
             className="flex flex-1 bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 items-center justify-center p-4">
             <div
@@ -67,7 +65,7 @@ export default function Register() {
                 </div>
 
                 {message && (
-                    <div className={`px-4 py-3 rounded-xl text-sm ${isSuccess ? 'bg-green-50 border border-green-200 text-green-700' : 'bg-red-50 border border-red-200 text-red-700'}`}>
+                    <div className={`px-4 py-3 mt-3 rounded-xl text-sm bg-red-50 border border-red-200 text-red-700`}>
                         {message}
                     </div>
                 )}
@@ -118,5 +116,7 @@ export default function Register() {
                 </div>
             </div>
         </main>
+        ) :
+        <ConfirmRegister/>
     )
 }

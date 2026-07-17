@@ -64,6 +64,22 @@ export const lang = {
             kz: "Қонақ"
         }
     },
+
+    confirmRegister: {
+        welcome: {
+            ru: "Добро пожаловать в LingCard!",
+            kz: "LingCard-қа қош келдіңіз!"
+        },
+        successfulCreated: {
+            ru: "Ваш аккаунт успешно создан!",
+            kz: "Аккаунтыңыз сәтті құрылды!"
+        },
+        startTraining: {
+            ru: "Начать обучение",
+            kz: "Оқуды бастау"
+        }
+    },
+
     login: {
         mainLabel: {
             ru: "Вход в систему",
