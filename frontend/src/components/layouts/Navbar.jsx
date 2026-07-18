@@ -36,7 +36,8 @@ export default function Navbar() {
 
     const languageOptions = [
         { name: 'Қазақша', flag: '/flags/kz.svg', value: 'kz' },
-        { name: 'Русский', flag: '/flags/ru.svg', value: 'ru' }
+        { name: 'Русский', flag: '/flags/ru.svg', value: 'ru' },
+        { name: 'English', flag: '/flags/en.svg', value: 'en' }
     ];
 
     const handleLanguageChange = (e) => {

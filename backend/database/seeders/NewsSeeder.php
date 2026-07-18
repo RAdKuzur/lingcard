@@ -40,5 +40,18 @@ class NewsSeeder extends Seeder
             'title' => 'Русский и Қазақша',
             'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
         ]);
+
+        DB::table('news')->insert([
+            'content' => 'From this moment, our LingCard project can be considered launched and ready for use!',
+            'date' => now(),
+            'title' => 'LingCard is launched!',
+            'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
+        ]);
+        DB::table('news')->insert([
+            'content' => 'We have added Russian and Kazakh languages for learning!',
+            'date' => now()->addSecond(),
+            'title' => 'Russian and Kazakh',
+            'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
+        ]);
     }
 }

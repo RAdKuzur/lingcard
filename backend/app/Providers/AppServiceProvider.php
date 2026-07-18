@@ -2,7 +2,9 @@
 
 namespace App\Providers;
 
+use App\Repositories\AvailableLanguageRepository;
 use App\Repositories\CourseRepository;
+use App\Repositories\Interfaces\AvailableLanguageRepositoryInterface;
 use App\Repositories\Interfaces\CourseRepositoryInterface;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
 use App\Repositories\Interfaces\NewsRepositoryInterface;
@@ -29,6 +31,7 @@ class AppServiceProvider extends ServiceProvider
         $this->app->bind(LanguageRepositoryInterface::class, LanguageRepository::class);
         $this->app->bind(WordTranslationRepositoryInterface::class, WordTranslationRepository::class);
         $this->app->bind(NewsRepositoryInterface::class, NewsRepository::class);
+        $this->app->bind(AvailableLanguageRepositoryInterface::class, AvailableLanguageRepository::class);
     }
 
     /**

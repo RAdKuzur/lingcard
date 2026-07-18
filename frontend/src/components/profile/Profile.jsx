@@ -127,11 +127,11 @@ export default function Profile() {
                             <SelectLanguage
                                 setLang={setBaseLang}
                                 value={baseLang}
-                                disabled={true}
                                 onChange={() => {
                                     setErrorMessage('')
                                     setSuccessMessage('')
                                 }}
+                                exceptId={targetLang}
                             />
                         </div>
                         <div>

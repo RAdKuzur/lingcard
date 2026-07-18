@@ -3,16 +3,20 @@
 namespace App\Services;
 
 use App\DTO\LanguageDTO;
+use App\Repositories\Interfaces\AvailableLanguageRepositoryInterface;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
 
 class LanguageService
 {
     private LanguageRepositoryInterface $languageRepository;
+    private AvailableLanguageRepositoryInterface $availableLanguageRepository;
     public function __construct(
-        LanguageRepositoryInterface $languageRepository
+        LanguageRepositoryInterface $languageRepository,
+        AvailableLanguageRepositoryInterface $availableLanguageRepository
     )
     {
         $this->languageRepository = $languageRepository;
+        $this->availableLanguageRepository = $availableLanguageRepository;
     }
 
     public function all() : array
@@ -32,15 +36,14 @@ class LanguageService
     public function exceptLanguage($id) : array
     {
         $data = [];
-        $languages = $this->languageRepository->all();
-        foreach ($languages as $language) {
-            if ($language->id != $id) {
-                $data[] = (new LanguageDTO(
-                    id: $language->id,
-                    name: $language->name,
-                    code: $language->code
-                ))->toArray();
-            }
+        $availableLanguages = $this->availableLanguageRepository->findByBaseLanguageId($id);
+        foreach ($availableLanguages as $availableLanguage) {
+            $language = $availableLanguage->targetLanguage;
+            $data[] = (new LanguageDTO(
+                id: $language->id,
+                name: $language->name,
+                code: $language->code
+            ))->toArray();
         }
         return $data;
     }

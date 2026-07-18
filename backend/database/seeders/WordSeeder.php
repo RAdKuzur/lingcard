@@ -16,6 +16,11 @@ class WordSeeder extends Seeder
      */
     public function run(): void
     {
-        Artisan::call('app:fill-word');
+        DB::table('words')->truncate();
+        DB::table('word_translations')->truncate();
+        DB::table('courses')->truncate();
+        Artisan::call('app:kz-ru-word-command');
+        Artisan::call('app:en-ru-word-command');
+        Artisan::call('app:en-kz-word-command');
     }
 }

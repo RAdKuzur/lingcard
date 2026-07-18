@@ -6,6 +6,7 @@ export default function About() {
     const countries = [
         { name: 'Қазақша', flag: '/flags/kz.svg' },
         { name: 'Русский', flag: '/flags/ru.svg' },
+        { name: 'English', flag: '/flags/en.svg' },
         // { name: 'Грузия', flag: '/flags/ge.svg' },
         // { name: 'Армения', flag: '/flags/am.svg' },
         // { name: 'Китай', flag: '/flags/cn.svg' }
