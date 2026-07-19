@@ -22,7 +22,7 @@ services:
   frontend:
     build:
       context: ./frontend
-      dockerfile: Dockerfile.prod
+      dockerfile: Dockerfile
     ports:
       - "5173:5173"
     volumes:
@@ -37,7 +37,7 @@ services:
   migrator:
     build:
       context: ./backend
-      dockerfile: Dockerfile.prod
+      dockerfile: Dockerfile
     command: migrate
     networks:
       - network
@@ -50,7 +50,7 @@ services:
   seeder:
     build:
       context: ./backend
-      dockerfile: Dockerfile.prod
+      dockerfile: Dockerfile
     command: db:seed
     networks:
       - network
@@ -66,7 +66,7 @@ services:
   backend:
     build:
       context: ./backend
-      dockerfile: Dockerfile.prod
+      dockerfile: Dockerfile
     command: octane:start --server=swoole --port=8080 --host=0.0.0.0
     ports:
       - "8080:8080"
@@ -78,7 +78,7 @@ services:
   queue:
     build:
       context: ./backend
-      dockerfile: Dockerfile.prod
+      dockerfile: Dockerfile
     command: queue:work
     networks:
       - network
@@ -106,7 +106,7 @@ services:
   websocket:
     build:
       context: ./backend
-      dockerfile: Dockerfile.prod
+      dockerfile: Dockerfile
     command: reverb:start --port=5000 --host=0.0.0.0
     ports:
       - "5000:5000"
