@@ -155,16 +155,25 @@ class CourseService
     public function status() : array
     {
         $user = AuthHelper::user();
-        if(count($this->courseRepository->getUserCourses($user->id)) > 0) {
-            return [
-                'language' => $user->targetLanguage->code,
-                'training' => true
-            ];
-        }
+        $amountCourses = count($this->courseRepository->getUserCourses($user->id));
+        if($amountCourses > 0) {
+            if ($amountCourses === $this->courseRepository->countUserStats($user->id, StatusDictionary::LEARNED)) {
+                return [
+                    'language' => $user->targetLanguage->code,
+                    'training' => StatusDictionary::LEARNED,
+                ];
+            }
+            else {
+                return [
+                    'language' => $user->targetLanguage->code,
+                    'training' => StatusDictionary::LEARNING,
+                ];
+            }
 
+        }
         return [
             'language' => $user->targetLanguage->code,
-            'training' => false
+            'training' => StatusDictionary::NONE,
         ];
     }
 }

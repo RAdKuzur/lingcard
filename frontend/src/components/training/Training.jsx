@@ -4,10 +4,12 @@ import { get, patch } from "../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import InitWindow from "./InitWindow.jsx";
 import {getText, lang} from "../../lang/lang.js";
-
+import {studyStatuses} from "../../plugins/studyStatus.js";
+import EndTraining from "./EndTraining.jsx";
+import WaitingTraining from "./WaitingTraining.jsx";
 export default function Training() {
-    const [isTraining, setTraining] = useState(false)
-    const [isLoading, setIsLoading] = useState(true) // Добавлено состояние загрузки
+    const [isTraining, setTraining] = useState(studyStatuses.none)
+    const [isLoading, setIsLoading] = useState(true)
     const [word, setWord] = useState(true)
     const [isHoverNo, setHoverNo] = useState(false)
     const [isHoverShow, setHoverShow] = useState(false)
@@ -27,7 +29,7 @@ export default function Training() {
     function show() {
         setWord(!word);
         setOpacityTranslation(!opacityTranslation)
-        return word ? 'Слово' : 'Перевод'
+        return word
     }
 
     async function trainingRepeat(status) {
@@ -76,14 +78,15 @@ export default function Training() {
         const fetchData = async () => {
             setIsLoading(true)
             const status = await handleCheckTrainingStatus()
-            if (status) {
+            if (status === studyStatuses.learning) {
                 setIsLoading(true)
                 newWord()
-                setIsLoading(false)
             }
+            setIsLoading(false)
         }
         fetchData()
     }, [])
+
     async function newWord() {
         const response = await get(apiRoutes.training, null, {withCredentials: true});
         const data = await response.data;
@@ -96,7 +99,7 @@ export default function Training() {
             setRepeat(data.repeat)
         }
         else {
-            setTraining(false)
+            setTraining(studyStatuses.waiting)
         }
     }
 
@@ -117,8 +120,12 @@ export default function Training() {
                     <div className="w-16 h-16 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin"></div>
                     <p className="text-lg font-medium text-slate-600 animate-pulse">{getText(lang.training.loading)}</p>
                 </div>
-            ) : !isTraining ? (
+            ) : isTraining === studyStatuses.none ? (
                 <InitWindow countryCode={countryCode} setTraining={handleSetTraining}/>
+            ) : isTraining === studyStatuses.waiting ? (
+                <WaitingTraining />
+            ) : isTraining === studyStatuses.learned ? (
+                <EndTraining/>
             ) : (
                 <div className="w-full max-w-md">
                     <div className="flex w-1/5 mb-6">

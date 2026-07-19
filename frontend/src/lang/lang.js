@@ -404,6 +404,40 @@ export const lang = {
             en: "Next"
         }
     },
+    endTraining: {
+        congratulations: {
+            ru: "Поздравляем!",
+            kz: "Құттықтаймыз!",
+            en: "Congratulations!"
+        },
+        message:{
+            ru: "Вы завершили обучение!",
+            kz: "Сіз оқуды аяқтадыңыз!",
+            en: "You have completed the training!"
+        },
+        continue: {
+            ru: "Далее",
+            kz: "Әрі қарай",
+            en: "Next"
+        }
+    },
+    waitingTraining: {
+        alreadyWords: {
+            ru: "На данный момент вы изучили все слова.",
+            kz: "Қазіргі уақытта сіз барлық сөздерді оқып біттіңіз.",
+            en: "You have learned all the words for now."
+        },
+        newWords: {
+            ru: "Новые появятся через некоторое время.",
+            kz: "Жаңа сөздер біраз уақыттан кейін пайда болады.",
+            en: "New ones will appear after some time."
+        },
+        continue: {
+            ru: "Далее",
+            kz: "Әрі қарай",
+            en: "Next"
+        }
+    },
     initWindows: {
         start: {
             ru: "Начать обучение",
