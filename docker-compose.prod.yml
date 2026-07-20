@@ -47,22 +47,6 @@ services:
       backend:
         condition: service_started
 
-  seeder:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
-    command: db:seed
-    networks:
-      - network
-    depends_on:
-      db:
-        condition: service_healthy
-      backend:
-        condition: service_started
-      migrator:
-        condition: service_completed_successfully
-
-
   backend:
     build:
       context: ./backend
