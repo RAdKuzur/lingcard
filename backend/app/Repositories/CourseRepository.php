@@ -21,17 +21,31 @@ class CourseRepository implements CourseRepositoryInterface
 
     public function getOldLearningWords($userId)
     {
-        return Course::with('wordTranslation.word')
-            ->join('word_translations', 'courses.word_translation_id', '=', 'word_translations.id')
-            ->join('words', 'word_translations.word_id', '=', 'words.id')
-            ->where('courses.user_id', $userId)
-            ->where('courses.last_time_repeated', '<', now())
-            ->whereIn('courses.status', [StatusDictionary::NONE, StatusDictionary::LEARNING])
-            ->orderBy('courses.status', 'desc')
-            ->orderBy('words.level' , 'asc')
-            ->orderBy('courses.last_time_repeated', 'desc')
-            ->select('courses.*')
-            ->first();
+        return DB::table('courses')
+                ->where('user_id', $userId)
+                ->where('status', StatusDictionary::LEARNING)
+                ->where('last_time_repeated', '<', now())
+                ->count() > 0 ?
+            Course::with('wordTranslation.word')
+                ->join('word_translations', 'courses.word_translation_id', '=', 'word_translations.id')
+                ->join('words', 'word_translations.word_id', '=', 'words.id')
+                ->where('courses.user_id', $userId)
+                ->where('courses.last_time_repeated', '<', now())
+                ->where('courses.status', StatusDictionary::LEARNING)
+                ->orderBy('courses.status', 'desc')
+                ->orderBy('words.level' , 'asc')
+                ->orderBy('courses.last_time_repeated', 'desc')
+                ->select('courses.*')
+                ->first() :
+            Course::with('wordTranslation.word')
+                ->join('word_translations', 'courses.word_translation_id', '=', 'word_translations.id')
+                ->join('words', 'word_translations.word_id', '=', 'words.id')
+                ->where('courses.user_id', $userId)
+                ->where('courses.last_time_repeated', '<', now())
+                ->where('courses.status', StatusDictionary::NONE)
+                ->select('courses.*')
+                ->inRandomOrder()
+                ->first();
     }
 
     public function updateUserCourses($userId, $data) {
