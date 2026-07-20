@@ -8,7 +8,7 @@ interface CourseRepositoryInterface extends BaseRepositoryInterface
     public function getOldLearningWords($userId);
     public function updateUserCourses($userId, $data);
     public function getByStatus($status, $userId ,$page, $limit, $search);
-    public function countByStatus($status, $search);
+    public function countByStatus($status, $userId, $search);
     public function countUserStats($userId, $status);
     public function deleteProgress($userId);
     public function deleteWordProgress($courseId);

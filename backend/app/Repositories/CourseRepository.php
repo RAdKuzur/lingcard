@@ -49,12 +49,14 @@ class CourseRepository implements CourseRepositoryInterface
             ->paginate($limit, ['*'], 'page', $page);
     }
 
-    public function countByStatus($status, $search = '') {
+    public function countByStatus($status, $userId, $search = '') {
         return Course::with('wordTranslation')->with('wordTranslation.word')
             ->join('word_translations', 'courses.word_translation_id', '=', 'word_translations.id')
             ->join('words', 'word_translations.word_id', '=', 'words.id')
             ->where('words.text', 'LIKE', '%' . $search . '%')
-            ->where(['status' => $status])->count();
+            ->where(['status' => $status])
+            ->where(['user_id' => $userId])
+            ->count();
     }
 
 

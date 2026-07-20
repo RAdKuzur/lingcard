@@ -40,7 +40,7 @@ class CourseService
         }
         return [
             'data' => $data,
-            'amountWords' => $this->courseRepository->countByStatus($status, $search),
+            'amountWords' => $this->courseRepository->countByStatus($status, $user->id, $search),
         ];
     }
     public function clearProgress() : void
