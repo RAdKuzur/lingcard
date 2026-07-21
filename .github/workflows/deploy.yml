@@ -17,36 +17,39 @@ jobs:
         run: |
           cd /root/lingcard
           cp .env.example .env
-          sed -i "s/DB_USERNAME=.*/DB_USERNAME=${{ vars.DB_USERNAME }}/" .env
-          sed -i "s/DB_PASSWORD=.*/DB_PASSWORD=${{ vars.DB_PASSWORD }}/" .env
-          sed -i "s/DB_DATABASE=.*/DB_DATABASE=${{ vars.DB_DATABASE }}/" .env
+          # Используем | как разделитель вместо /
+          sed -i "s|DB_USERNAME=.*|DB_USERNAME=${{ vars.DB_USERNAME }}|" .env
+          sed -i "s|DB_PASSWORD=.*|DB_PASSWORD=${{ vars.DB_PASSWORD }}|" .env
+          sed -i "s|DB_DATABASE=.*|DB_DATABASE=${{ vars.DB_DATABASE }}|" .env
 
       - name: Prepare frontend environment
         run: |
           cd /root/lingcard/frontend
           cp .env.example .env
-          sed -i "s/VITE_BACKEND_URL=.*/VITE_BACKEND_URL=${{ vars.VITE_BACKEND_URL }}/" .env
-          sed -i "s/VITE_REVERB_APP_KEY=.*/VITE_REVERB_APP_KEY=${{ vars.VITE_REVERB_APP_KEY }}/" .env
-          sed -i "s/VITE_REVERB_HOST=.*/VITE_REVERB_HOST=${{ vars.VITE_REVERB_HOST }}/" .env
-          sed -i "s/VITE_REVERB_PORT=.*/VITE_REVERB_PORT=${{ vars.VITE_REVERB_PORT }}/" .env
+          # Используем | как разделитель
+          sed -i "s|VITE_BACKEND_URL=.*|VITE_BACKEND_URL=${{ vars.VITE_BACKEND_URL }}|" .env
+          sed -i "s|VITE_REVERB_APP_KEY=.*|VITE_REVERB_APP_KEY=${{ vars.VITE_REVERB_APP_KEY }}|" .env
+          sed -i "s|VITE_REVERB_HOST=.*|VITE_REVERB_HOST=${{ vars.VITE_REVERB_HOST }}|" .env
+          sed -i "s|VITE_REVERB_PORT=.*|VITE_REVERB_PORT=${{ vars.VITE_REVERB_PORT }}|" .env
 
       - name: Prepare backend environment
         run: |
           cd /root/lingcard/backend
           cp .env.example .env
-          sed -i "s/DB_USERNAME=.*/DB_USERNAME=${{ vars.DB_USERNAME }}/" .env
-          sed -i "s/DB_PASSWORD=.*/DB_PASSWORD=${{ vars.DB_PASSWORD }}/" .env
-          sed -i "s/DB_DATABASE=.*/DB_DATABASE=${{ vars.DB_DATABASE }}/" .env
+          # Используем | как разделитель
+          sed -i "s|DB_USERNAME=.*|DB_USERNAME=${{ vars.DB_USERNAME }}|" .env
+          sed -i "s|DB_PASSWORD=.*|DB_PASSWORD=${{ vars.DB_PASSWORD }}|" .env
+          sed -i "s|DB_DATABASE=.*|DB_DATABASE=${{ vars.DB_DATABASE }}|" .env
           
-          sed -i "s/SESSION_DOMAIN=.*/SESSION_DOMAIN=${{ vars.SESSION_DOMAIN }}/" .env
-          sed -i "s/REVERB_APP_ID=.*/REVERB_APP_ID=${{ vars.REVERB_APP_ID }}/" .env
-          sed -i "s/REVERB_APP_KEY=.*/REVERB_APP_KEY=${{ vars.VITE_REVERB_APP_KEY }}/" .env
-          sed -i "s/REVERB_PORT=.*/REVERB_PORT=${{ vars.VITE_REVERB_PORT }}/" .env
-          sed -i "s/JWT_SECRET=.*/JWT_SECRET=${{ vars.JWT_SECRET }}/" .env
-          sed -i "s/APP_KEY=.*/APP_KEY=${{ vars.APP_KEY }}/" .env
-          sed -i "s/APP_URL=.*/APP_URL=${{ vars.APP_URL }}/" .env
+          sed -i "s|SESSION_DOMAIN=.*|SESSION_DOMAIN=${{ vars.SESSION_DOMAIN }}|" .env
+          sed -i "s|REVERB_APP_ID=.*|REVERB_APP_ID=${{ vars.REVERB_APP_ID }}|" .env
+          sed -i "s|REVERB_APP_KEY=.*|REVERB_APP_KEY=${{ vars.VITE_REVERB_APP_KEY }}|" .env
+          sed -i "s|REVERB_PORT=.*|REVERB_PORT=${{ vars.VITE_REVERB_PORT }}|" .env
+          sed -i "s|JWT_SECRET=.*|JWT_SECRET=${{ vars.JWT_SECRET }}|" .env
+          sed -i "s|APP_KEY=.*|APP_KEY=${{ vars.APP_KEY }}|" .env
+          sed -i "s|APP_URL=.*|APP_URL=${{ vars.APP_URL }}|" .env
 
-      - name: Pull
+      - name: Deploy
         run: |
           cd /root/lingcard
           docker compose -f docker-compose.prod.yml up --build -d
