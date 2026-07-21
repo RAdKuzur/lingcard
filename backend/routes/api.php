@@ -13,28 +13,31 @@ use App\Http\Middleware\VisitMiddleware;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/metrics', [TelemetryController::class, 'metrics'])->name('metrics');
-Route::group(['middleware' => VisitMiddleware::class], function () {
-    Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
-    Route::get('/except-language/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
-    Route::post('/login', [AuthController::class, 'login'])->name('login');
-    Route::post('/register', [AuthController::class, 'register'])->name('register');
-    Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');
-    Route::post('/user', [AuthController::class, 'user'])->name('user');
 
-    Route::group(['middleware' => AuthMiddleware::class], function () {
-        Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
-        Route::get('/news/{code?}', [NewsController::class, 'all'])->name('news');
-        Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
-        Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
-        Route::get('/training', [TrainingController::class, 'newWord'])->name('new-word');
-        Route::patch('/training/{id}', [TrainingController::class, 'repeatWord'])->name('repeat-word');
+Route::middleware(['throttle:api'])->group(function () {
+    Route::group(['middleware' => VisitMiddleware::class], function () {
+        Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
+        Route::get('/except-language/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
+        Route::post('/login', [AuthController::class, 'login'])->name('login');
+        Route::post('/register', [AuthController::class, 'register'])->name('register');
+        Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');
+        Route::post('/user', [AuthController::class, 'user'])->name('user');
 
-        Route::get('/dictionary/{baseTrainingId}/language/{targetLanguageId}', [DictionaryController::class, 'translate'])->name('translate');
-        Route::get('/progress/{status}', [ProgressController::class, 'progress'])->name('progress');
+        Route::group(['middleware' => AuthMiddleware::class], function () {
+            Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
+            Route::get('/news/{code?}', [NewsController::class, 'all'])->name('news');
+            Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
+            Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
+            Route::get('/training', [TrainingController::class, 'newWord'])->name('new-word');
+            Route::patch('/training/{id}', [TrainingController::class, 'repeatWord'])->name('repeat-word');
 
-        Route::post('/progress', [ProgressController::class, 'initProgress'])->name('progress-init');
-        Route::delete('/progress', [ProgressController::class, 'clearProgress'])->name('progress-clear');
-        Route::delete('/words/{id}/progress', [ProgressController::class, 'clearWordProgress'])->name('progress-clear-word');
-        Route::get('/teachable', [TrainingController::class, 'teachable'])->name('teachable');
+            Route::get('/dictionary/{baseTrainingId}/language/{targetLanguageId}', [DictionaryController::class, 'translate'])->name('translate');
+            Route::get('/progress/{status}', [ProgressController::class, 'progress'])->name('progress');
+
+            Route::post('/progress', [ProgressController::class, 'initProgress'])->name('progress-init');
+            Route::delete('/progress', [ProgressController::class, 'clearProgress'])->name('progress-clear');
+            Route::delete('/words/{id}/progress', [ProgressController::class, 'clearWordProgress'])->name('progress-clear-word');
+            Route::get('/teachable', [TrainingController::class, 'teachable'])->name('teachable');
+        });
     });
 });

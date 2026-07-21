@@ -20,6 +20,8 @@ use App\Repositories\VisitRepository;
 use App\Repositories\WordTranslationRepository;
 use App\Services\Interfaces\PrometheusServiceInterface;
 use App\Services\PrometheusService;
+use Illuminate\Cache\RateLimiting\Limit;
+use Illuminate\Support\Facades\RateLimiter;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -45,6 +47,8 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        //
+        RateLimiter::for('api', function () {
+            return Limit::perMinute(500)->by(request()->header('X-Real-IP'));
+        });
     }
 }
