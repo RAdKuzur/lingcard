@@ -10,12 +10,16 @@ use App\Repositories\Interfaces\LanguageRepositoryInterface;
 use App\Repositories\Interfaces\NewsRepositoryInterface;
 use App\Repositories\Interfaces\TokenRepositoryInterface;
 use App\Repositories\Interfaces\UserRepositoryInterface;
+use App\Repositories\Interfaces\VisitRepositoryInterface;
 use App\Repositories\Interfaces\WordTranslationRepositoryInterface;
 use App\Repositories\LanguageRepository;
 use App\Repositories\NewsRepository;
 use App\Repositories\TokenRepository;
 use App\Repositories\UserRepository;
+use App\Repositories\VisitRepository;
 use App\Repositories\WordTranslationRepository;
+use App\Services\Interfaces\PrometheusServiceInterface;
+use App\Services\PrometheusService;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -32,6 +36,8 @@ class AppServiceProvider extends ServiceProvider
         $this->app->bind(WordTranslationRepositoryInterface::class, WordTranslationRepository::class);
         $this->app->bind(NewsRepositoryInterface::class, NewsRepository::class);
         $this->app->bind(AvailableLanguageRepositoryInterface::class, AvailableLanguageRepository::class);
+        $this->app->bind(PrometheusServiceInterface::class, PrometheusService::class);
+        $this->app->bind(VisitRepositoryInterface::class, VisitRepository::class);
     }
 
     /**

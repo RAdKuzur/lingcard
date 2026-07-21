@@ -2,12 +2,10 @@
 
 namespace App\Http\Middleware;
 
-use App\Repositories\TokenRepository;
-use App\Repositories\VisitRepository;
+use App\Repositories\Interfaces\TokenRepositoryInterface;
 use Closure;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response;
-use Tymon\JWTAuth\Facades\JWTAuth;
 
 class AuthMiddleware
 {
@@ -17,9 +15,9 @@ class AuthMiddleware
      * @param  Closure(Request): (Response)  $next
      */
 
-    private TokenRepository $tokenRepository;
+    private TokenRepositoryInterface $tokenRepository;
     public function __construct(
-        TokenRepository $tokenRepository,
+        TokenRepositoryInterface $tokenRepository,
     )
     {
         $this->tokenRepository = $tokenRepository;

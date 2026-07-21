@@ -6,12 +6,13 @@ use App\Http\Controllers\LanguageController;
 use App\Http\Controllers\NewsController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\ProgressController;
+use App\Http\Controllers\TelemetryController;
 use App\Http\Controllers\TrainingController;
 use App\Http\Middleware\AuthMiddleware;
 use App\Http\Middleware\VisitMiddleware;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
+Route::get('/metrics', [TelemetryController::class, 'metrics'])->name('metrics');
 Route::group(['middleware' => VisitMiddleware::class], function () {
     Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
     Route::get('/except-language/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');

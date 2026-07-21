@@ -2,19 +2,23 @@
 
 namespace App\Http\Middleware;
 
-use App\Repositories\VisitRepository;
+use App\Repositories\Interfaces\VisitRepositoryInterface;
+use App\Services\Interfaces\PrometheusServiceInterface;
 use Closure;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response;
 
 class VisitMiddleware
 {
-    private VisitRepository $visitRepository;
+    private VisitRepositoryInterface $visitRepository;
+    private PrometheusServiceInterface $prometheusService;
     public function __construct(
-        VisitRepository $visitRepository
+        VisitRepositoryInterface $visitRepository,
+        PrometheusServiceInterface $prometheusService
     )
     {
         $this->visitRepository = $visitRepository;
+        $this->prometheusService = $prometheusService;
     }
 
     /**
@@ -24,6 +28,7 @@ class VisitMiddleware
      */
     public function handle(Request $request, Closure $next): Response
     {
+        $this->prometheusService->incHttpTotalRequests();
         $this->visitRepository->insert([
             'path' => request()->path(),
             'ip' => $request->header('X-Real-IP'),
