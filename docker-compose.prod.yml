@@ -129,7 +129,6 @@ services:
     depends_on:
       prometheus:
         condition: service_started
-    restart: always
 
 volumes:
   redis_data:
