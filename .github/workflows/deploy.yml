@@ -6,12 +6,8 @@ on:
 jobs:
   deploy:
     runs-on: self-hosted
+    environment: "production"
     steps:
-      - name: Debug variables
-        run: |
-          echo "APP_KEY: ${{ vars.APP_KEY }}"
-          echo "JWT_SECRET: ${{ vars.JWT_SECRET }}"
-
       - name: Pull
         run: |
           cd /root/lingcard
