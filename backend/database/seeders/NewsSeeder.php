@@ -53,5 +53,24 @@ class NewsSeeder extends Seeder
             'title' => 'Russian and Kazakh',
             'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
         ]);
+
+        DB::table('news')->insert([
+            'content' => 'Были добавлен английский язык для изучения (более 5000 слов)',
+            'date' => now()->addSeconds(2),
+            'title' => 'Английский язык!',
+            'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
+        ]);
+        DB::table('news')->insert([
+            'content' => 'Ағылшын тілі оқу үшін қосылды (5000-нан астам сөз)',
+            'date' => now()->addSeconds(2),
+            'title' => 'Ағылшын тілі!',
+            'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
+        ]);
+        DB::table('news')->insert([
+            'content' => 'English language has been added for learning (more than 5000 words)',
+            'date' => now()->addSeconds(2),
+            'title' => 'English language!',
+            'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
+        ]);
     }
 }
