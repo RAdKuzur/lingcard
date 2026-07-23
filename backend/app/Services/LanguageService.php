@@ -22,7 +22,7 @@ class LanguageService
     public function all() : array
     {
         $data = [];
-        $languages = $this->languageRepository->all();
+        $languages = $this->languageRepository->allActive();
         foreach ($languages as $language) {
             $data[] = (new LanguageDTO(
                 id: $language->id,

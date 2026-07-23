@@ -36,7 +36,6 @@ class Token extends Model
         'ip_address',
         'user_agent',
         'is_revoked',
-        'is_active',
     ];
 
     /**
@@ -47,7 +46,6 @@ class Token extends Model
     protected $casts = [
         'expires_at' => 'datetime',
         'is_revoked' => 'boolean',
-        'is_active' => 'boolean',
     ];
 
     /**

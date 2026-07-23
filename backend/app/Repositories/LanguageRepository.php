@@ -11,6 +11,9 @@ class LanguageRepository implements LanguageRepositoryInterface
     public function all() {
         return Language::all();
     }
+    public function allActive() {
+        return Language::where(['is_active' => true])->get();
+    }
     public function find($id) {
         return Language::find($id);
     }
