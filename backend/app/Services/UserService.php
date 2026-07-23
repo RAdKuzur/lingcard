@@ -3,7 +3,7 @@
 namespace App\Services;
 
 use App\Dictionaries\RoleDictionary;
-use App\Dictionaries\StatusDictionary;
+use App\Dictionaries\StatusWordDictionary;
 use App\DTO\ProfileDTO;
 use App\DTO\ProfileUpdateDTO;
 use App\Helpers\AuthHelper;
@@ -33,9 +33,9 @@ class UserService
             role: RoleDictionary::get($user->role),
             baseLanguageId: $user->base_language_id,
             targetLanguageId: $user->target_language_id,
-            noneWords: $this->courseRepository->countUserStats($user->id, StatusDictionary::NONE),
-            learningWords: $this->courseRepository->countUserStats($user->id, StatusDictionary::LEARNING),
-            learnedWords: $this->courseRepository->countUserStats($user->id, StatusDictionary::LEARNED),
+            noneWords: $this->courseRepository->countUserStats($user->id, StatusWordDictionary::NONE),
+            learningWords: $this->courseRepository->countUserStats($user->id, StatusWordDictionary::LEARNING),
+            learnedWords: $this->courseRepository->countUserStats($user->id, StatusWordDictionary::LEARNED),
         ))->toArray();
     }
 

@@ -1,6 +1,6 @@
 <?php
 
-use App\Dictionaries\StatusDictionary;
+use App\Dictionaries\StatusWordDictionary;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
@@ -17,7 +17,7 @@ return new class extends Migration
             $table->foreignId('word_translation_id')->constrained('word_translations');
             $table->foreignId('user_id')->constrained('users');
             $table->integer('repeat')->default(0);
-            $table->integer('status')->default(StatusDictionary::NONE);
+            $table->integer('status')->default(StatusWordDictionary::NONE);
             $table->dateTime('last_time_repeated')->nullable();
             $table->timestamps();
         });

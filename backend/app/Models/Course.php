@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use App\Dictionaries\StatusDictionary;
+use App\Dictionaries\StatusWordDictionary;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
@@ -43,7 +43,7 @@ class Course extends Model
 
     protected $attributes = [
         'repeat' => 0,
-        'status' => StatusDictionary::NONE,
+        'status' => StatusWordDictionary::NONE,
     ];
 
     public function wordTranslation(): BelongsTo

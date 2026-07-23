@@ -2,7 +2,7 @@
 
 namespace App\Dictionaries;
 
-class StatusDictionary implements BaseDictionary
+class StatusWordDictionary implements BaseDictionary
 {
     public const NONE = 1;
     public const LEARNING = 2;

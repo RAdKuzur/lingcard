@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use App\Dictionaries\StatusDictionary;
+use App\Dictionaries\StatusWordDictionary;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
@@ -21,7 +21,7 @@ class CourseSeeder extends Seeder
             DB::table('courses')->insert([
                 'word_translation_id' => $wordTranslation->id,
                 'user_id' => $user->id,
-                'status' => StatusDictionary::NONE,
+                'status' => StatusWordDictionary::NONE,
                 'repeat' => 0,
                 'last_time_repeated' => now()
             ]);

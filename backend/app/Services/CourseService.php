@@ -3,7 +3,7 @@
 namespace App\Services;
 
 use App\Dictionaries\LevelDictionary;
-use App\Dictionaries\StatusDictionary;
+use App\Dictionaries\StatusWordDictionary;
 use App\DTO\WordProgressDTO;
 use App\DTO\WordTrainingDTO;
 use App\Helpers\AuthHelper;
@@ -108,17 +108,17 @@ class CourseService
             if ($user && $course) {
                 if ($status) {
                     switch ($course->status) {
-                        case StatusDictionary::NONE:
+                        case StatusWordDictionary::NONE:
                             $this->courseRepository->update($id, [
                                 'repeat' => $course->repeat,
-                                'status' => StatusDictionary::LEARNED,
+                                'status' => StatusWordDictionary::LEARNED,
                                 'last_time_repeated' => now()
                             ]);
                             break;
-                        case StatusDictionary::LEARNING:
+                        case StatusWordDictionary::LEARNING:
                             $this->courseRepository->update($id, [
                                 'repeat' => $course->repeat + 1,
-                                'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusDictionary::LEARNED : StatusDictionary::LEARNING,
+                                'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusWordDictionary::LEARNED : StatusWordDictionary::LEARNING,
                                 'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+1 days"))
                             ]);
                             break;
@@ -128,13 +128,13 @@ class CourseService
                 }
                 else {
                     switch ($course->status) {
-                        case StatusDictionary::NONE:
+                        case StatusWordDictionary::NONE:
                             $this->courseRepository->update($id, [
-                                'status' => StatusDictionary::LEARNING,
+                                'status' => StatusWordDictionary::LEARNING,
                                 'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
                             ]);
                             break;
-                        case StatusDictionary::LEARNING:
+                        case StatusWordDictionary::LEARNING:
                             $this->courseRepository->update($id, [
                                 'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+5 minutes"))
                             ]);
@@ -157,23 +157,23 @@ class CourseService
         $user = AuthHelper::user();
         $amountCourses = count($this->courseRepository->getUserCourses($user->id));
         if($amountCourses > 0) {
-            if ($amountCourses === $this->courseRepository->countUserStats($user->id, StatusDictionary::LEARNED)) {
+            if ($amountCourses === $this->courseRepository->countUserStats($user->id, StatusWordDictionary::LEARNED)) {
                 return [
                     'language' => $user->targetLanguage->code,
-                    'training' => StatusDictionary::LEARNED,
+                    'training' => StatusWordDictionary::LEARNED,
                 ];
             }
             else {
                 return [
                     'language' => $user->targetLanguage->code,
-                    'training' => StatusDictionary::LEARNING,
+                    'training' => StatusWordDictionary::LEARNING,
                 ];
             }
 
         }
         return [
             'language' => $user->targetLanguage->code,
-            'training' => StatusDictionary::NONE,
+            'training' => StatusWordDictionary::NONE,
         ];
     }
 }

@@ -2,7 +2,7 @@
 
 namespace App\Jobs;
 
-use App\Dictionaries\StatusDictionary;
+use App\Dictionaries\StatusWordDictionary;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
 use App\Models\User;
@@ -44,7 +44,7 @@ class InitProgressJob implements ShouldQueue
                 DB::table('courses')->insert([
                     'word_translation_id' => $wordTranslation->translation_id,
                     'repeat' => 0,
-                    'status' => StatusDictionary::NONE,
+                    'status' => StatusWordDictionary::NONE,
                     'user_id' => $this->userId,
                     'last_time_repeated' => now()
                 ]);

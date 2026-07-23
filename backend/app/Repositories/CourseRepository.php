@@ -2,7 +2,7 @@
 
 namespace App\Repositories;
 
-use App\Dictionaries\StatusDictionary;
+use App\Dictionaries\StatusWordDictionary;
 use App\Models\Course;
 use App\Repositories\Interfaces\CourseRepositoryInterface;
 use Illuminate\Support\Facades\DB;
@@ -23,7 +23,7 @@ class CourseRepository implements CourseRepositoryInterface
     {
         return DB::table('courses')
                 ->where('user_id', $userId)
-                ->where('status', StatusDictionary::LEARNING)
+                ->where('status', StatusWordDictionary::LEARNING)
                 ->where('last_time_repeated', '<', now())
                 ->count() > 0 ?
             Course::with('wordTranslation.word')
@@ -31,7 +31,7 @@ class CourseRepository implements CourseRepositoryInterface
                 ->join('words', 'word_translations.word_id', '=', 'words.id')
                 ->where('courses.user_id', $userId)
                 ->where('courses.last_time_repeated', '<', now())
-                ->where('courses.status', StatusDictionary::LEARNING)
+                ->where('courses.status', StatusWordDictionary::LEARNING)
                 ->orderBy('courses.status', 'desc')
                 ->orderBy('words.level' , 'asc')
                 ->orderBy('courses.last_time_repeated', 'desc')
@@ -42,7 +42,7 @@ class CourseRepository implements CourseRepositoryInterface
                 ->join('words', 'word_translations.word_id', '=', 'words.id')
                 ->where('courses.user_id', $userId)
                 ->where('courses.last_time_repeated', '<', now())
-                ->where('courses.status', StatusDictionary::NONE)
+                ->where('courses.status', StatusWordDictionary::NONE)
                 ->select('courses.*')
                 ->inRandomOrder()
                 ->first();
@@ -84,7 +84,7 @@ class CourseRepository implements CourseRepositoryInterface
 
     public function deleteWordProgress($courseId) {
         return DB::table('courses')->where(['id' => $courseId])->update([
-            'status' => StatusDictionary::NONE,
+            'status' => StatusWordDictionary::NONE,
             'repeat' => 0,
             'last_time_repeated' => now()
         ]);
