@@ -21,17 +21,17 @@ function App() {
     const username = auth.user?.username;
     const [notification, setNotification] = useState(null);
     useEffect(() => {
-        // if (!username) return;
-        // const channel = echo.channel(`private-notifications.${username}`);
-        // channel.listen(`.words.repeated`, (e) => {
-        //     setNotification(e.message);
-        //     setTimeout(() => {
-        //         setNotification(null);
-        //     }, 5000);
-        // });
-        // return () => {
-        //     echo.leaveChannel(`private-notifications.${username}`);
-        // };
+        if (!username) return;
+        const channel = echo.channel(`private-notifications.${username}`);
+        channel.listen(`.words.repeated`, (e) => {
+            setNotification(e.message);
+            setTimeout(() => {
+                setNotification(null);
+            }, 5000);
+        });
+        return () => {
+            echo.leaveChannel(`private-notifications.${username}`);
+        };
     }, [username]);
 
     return (
