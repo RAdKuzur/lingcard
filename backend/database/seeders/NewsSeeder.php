@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Dictionaries\StatusNewsDictionary;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
@@ -20,12 +21,18 @@ class NewsSeeder extends Seeder
             'date' => now(),
             'title' => 'LingCard запущено!',
             'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Россия',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
         DB::table('news')->insert([
             'content' => 'Мы добавили русский и казахский языки для обучения!',
             'date' => now()->addSecond(),
             'title' => 'Русский и Қазақша',
             'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Россия',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
 
         DB::table('news')->insert([
@@ -33,12 +40,18 @@ class NewsSeeder extends Seeder
             'date' => now(),
             'title' => 'LingCard іске қосылды!',
             'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Қазақстан',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
         DB::table('news')->insert([
             'content' => 'Біз оқытуға арналған орыс және қазақ тілдерін қостық!',
             'date' => now()->addSecond(),
             'title' => 'Русский и Қазақша',
             'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Қазақстан',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
 
         DB::table('news')->insert([
@@ -46,12 +59,18 @@ class NewsSeeder extends Seeder
             'date' => now(),
             'title' => 'LingCard is launched!',
             'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Europe',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
         DB::table('news')->insert([
             'content' => 'We have added Russian and Kazakh languages for learning!',
             'date' => now()->addSecond(),
             'title' => 'Russian and Kazakh',
             'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Europe',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
 
         DB::table('news')->insert([
@@ -59,18 +78,27 @@ class NewsSeeder extends Seeder
             'date' => now()->addSeconds(2),
             'title' => 'Английский язык!',
             'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Россия',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
         DB::table('news')->insert([
             'content' => 'Ағылшын тілі оқу үшін қосылды (5000-нан астам сөз)',
             'date' => now()->addSeconds(2),
             'title' => 'Ағылшын тілі!',
             'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Қазақстан',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
         DB::table('news')->insert([
             'content' => 'English language has been added for learning (more than 5000 words)',
             'date' => now()->addSeconds(2),
             'title' => 'English language!',
             'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
+            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
+            'address' => 'Europe',
+            'status' => StatusNewsDictionary::APPROVED
         ]);
     }
 }

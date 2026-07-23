@@ -2,6 +2,7 @@
 
 namespace App\Repositories;
 
+use App\Dictionaries\StatusNewsDictionary;
 use App\Models\News;
 use App\Repositories\Interfaces\NewsRepositoryInterface;
 use Illuminate\Support\Facades\DB;
@@ -19,6 +20,11 @@ class NewsRepository implements NewsRepositoryInterface
     }
     public function findByLangId($langId) {
         return News::where(['language_id' => $langId])->orderBy('date', 'asc')->get();
+    }
+    public function findApprovedNewsByLangId($langId) {
+        return News::where(['language_id' => $langId])
+            ->where(['status' => StatusNewsDictionary::APPROVED])
+            ->orderBy('date', 'asc')->get();
     }
     public function insert($data) : bool {
         return DB::table('news')->insert($data);

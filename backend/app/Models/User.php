@@ -32,6 +32,8 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property-read Language $targetLanguage
  * @property-read Course[]|HasMany $courses
  *
+ * @property News[] $news
+ *
  * @property Token[] $tokens
 */
 #[Fillable(['name', 'email', 'password'])]
@@ -72,6 +74,10 @@ class User extends Authenticatable implements JWTSubject
     public function tokens(): HasMany
     {
         return $this->hasMany(Token::class);
+    }
+    public function news(): HasMany
+    {
+        return $this->hasMany(News::class);
     }
 
     public function getJWTIdentifier()

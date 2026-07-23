@@ -2,6 +2,7 @@
 
 namespace App\Services;
 
+use App\Dictionaries\StatusNewsDictionary;
 use App\DTO\NewsDTO;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
 use App\Repositories\Interfaces\NewsRepositoryInterface;
@@ -42,14 +43,17 @@ class NewsService
         $language = $this->languageRepository->findByCode($code);
         $data = [];
         if ($language) {
-            $news = $this->newsRepository->findByLangId($language->id);
+            $news = $this->newsRepository->findApprovedNewsByLangId($language->id);
             foreach ($news as $item) {
                 $data[] = (new NewsDTO(
                     id: $item->id,
                     content: $item->content,
                     date: (new DateTime($item->date))->format('d.m.Y H:i'),
                     title: $item->title,
-                    code: $code
+                    code: $code,
+                    username: $item->user->name,
+                    address: $item->address,
+                    status: StatusNewsDictionary::get($item->status),
                 ))->toArray();
             }
         }
