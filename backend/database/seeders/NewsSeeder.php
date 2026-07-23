@@ -55,7 +55,7 @@ class NewsSeeder extends Seeder
         ]);
 
         DB::table('news')->insert([
-            'content' => 'Были добавлен английский язык для изучения (более 5000 слов)',
+            'content' => 'Был добавлен английский язык для изучения (более 5000 слов)',
             'date' => now()->addSeconds(2),
             'title' => 'Английский язык!',
             'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
