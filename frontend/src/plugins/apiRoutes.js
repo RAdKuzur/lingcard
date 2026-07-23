@@ -12,7 +12,8 @@ export const apiRoutes = {
     teachable: apiUrl + '/teachable',
     user: apiUrl + '/user',
     news: apiUrl + '/news',
-    exceptLanguage: apiUrl + '/except-language'
+    exceptLanguage: apiUrl + '/except-language',
+    authBroadcast: apiUrl + '/auth/broadcasting'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {

@@ -1,5 +1,6 @@
 import Pusher from 'pusher-js';
 import Echo from 'laravel-echo';
+import {apiRoutes} from "./apiRoutes.js";
 window.Pusher = Pusher;
 
 const echo = new Echo({
@@ -10,6 +11,8 @@ const echo = new Echo({
     wssPort: import.meta.env.VITE_REVERB_PORT,
     forceTLS: false,
     enabledTransports: ['ws', 'wss'],
+    withCredentials: true,
+    authEndpoint: apiRoutes.authBroadcast
 });
 
 export default echo;

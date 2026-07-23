@@ -5,6 +5,7 @@ namespace App\Events;
 use App\Models\User;
 use Illuminate\Broadcasting\Channel;
 use Illuminate\Broadcasting\InteractsWithSockets;
+use Illuminate\Broadcasting\PrivateChannel;
 use Illuminate\Contracts\Broadcasting\ShouldBroadcastNow;
 use Illuminate\Foundation\Events\Dispatchable;
 use Illuminate\Queue\SerializesModels;
@@ -31,12 +32,12 @@ class WordRepeated implements ShouldBroadcastNow
     public function broadcastOn(): array
     {
         return [
-            new Channel('notifications'),
+            new PrivateChannel('notifications.' . $this->user->name),
         ];
     }
     public function broadcastAs(): string
     {
-        return 'words.repeated.' . $this->user->name;
+        return 'words.repeated';
     }
     public function broadcastWith(): array {
         return [

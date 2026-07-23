@@ -22,16 +22,15 @@ function App() {
     const [notification, setNotification] = useState(null);
     useEffect(() => {
         // if (!username) return;
-        // const channelName = `notifications`;
-        // const channel = echo.channel(channelName);
-        // channel.listen(`.words.repeated.${username}`, (e) => {
+        // const channel = echo.channel(`private-notifications.${username}`);
+        // channel.listen(`.words.repeated`, (e) => {
         //     setNotification(e.message);
         //     setTimeout(() => {
         //         setNotification(null);
         //     }, 5000);
         // });
         // return () => {
-        //     echo.leave(channelName);
+        //     echo.leaveChannel(`private-notifications.${username}`);
         // };
     }, [username]);
 

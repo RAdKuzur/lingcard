@@ -14,6 +14,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/metrics', [TelemetryController::class, 'metrics'])->name('metrics');
 
+Route::post('/auth/broadcasting', [AuthController::class, 'broadcast'])->name('auth.broadcasting');
+
 Route::middleware(['throttle:api'])->group(function () {
     Route::group(['middleware' => VisitMiddleware::class], function () {
         Route::get('/languages', [LanguageController::class, 'all'])->name('languages');

@@ -2,10 +2,12 @@
 
 namespace App\Http\Controllers;
 
+use App\Helpers\AuthHelper;
 use App\Http\Requests\LoginRequest;
 use App\Http\Requests\RegisterRequest;
 use App\Services\AuthService;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class AuthController extends Controller
 {
@@ -98,5 +100,15 @@ class AuthController extends Controller
         return response()->json([
             'data' => $user
         ]);
+    }
+
+    public function broadcast(Request $request)
+    {
+        $user = AuthHelper::user();
+        if(!$user) {
+            return response()->json(['error' => 'Unauthenticated.'], 401);
+        }
+        Auth::login($user);
+        return \Illuminate\Support\Facades\Broadcast::auth($request);
     }
 }
