@@ -9,6 +9,7 @@ import {getText, lang} from "../../lang/lang.js";
 export default function Navbar() {
     const auth = useAuth();
     const [currentLang, setCurrentLang] = useState('ru');
+    const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
     const menuOptions = {
         training: {
@@ -28,11 +29,33 @@ export default function Navbar() {
             label: getText(lang.navbar.options.about)
         }
     }
+
     useEffect(() => {
-        const language = localStorage.getItem('lang') ?? 'ru'
-        setCurrentLang(language)
-        localStorage.setItem('lang', language)
-    }, [])
+        const language = localStorage.getItem('lang') ?? 'ru';
+        setCurrentLang(language);
+        localStorage.setItem('lang', language);
+    }, []);
+
+    useEffect(() => {
+        const handleClickOutside = (e) => {
+            if (isMobileMenuOpen && !e.target.closest('nav')) {
+                setIsMobileMenuOpen(false);
+            }
+        };
+        document.addEventListener('click', handleClickOutside);
+        return () => document.removeEventListener('click', handleClickOutside);
+    }, [isMobileMenuOpen]);
+
+    useEffect(() => {
+        if (isMobileMenuOpen) {
+            document.body.style.overflow = 'hidden';
+        } else {
+            document.body.style.overflow = 'unset';
+        }
+        return () => {
+            document.body.style.overflow = 'unset';
+        };
+    }, [isMobileMenuOpen]);
 
     const languageOptions = [
         { name: 'Қазақша', flag: '/flags/kz.svg', value: 'kz' },
@@ -43,62 +66,109 @@ export default function Navbar() {
     const handleLanguageChange = (e) => {
         const newLang = e.target.value;
         setCurrentLang(newLang);
-        localStorage.setItem('lang', newLang)
+        localStorage.setItem('lang', newLang);
         window.location.reload();
     };
 
     return (
-        <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-lg border-b border-slate-200/50 shadow-sm">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div className="flex justify-between items-center h-16 md:h-20">
-                    <Logo />
-                    <div className="flex items-center gap-8">
-                        {auth.isAuthenticated() ? Object.values(menuOptions).map((item) => (
-                            <Link
-                                key={item.label}
-                                to={item.link}
-                                className="text-sm font-medium text-slate-700 hover:text-indigo-600
-                                         transition-colors duration-200 border-b-2 border-transparent
-                                         hover:border-indigo-600 pb-1"
-                            >
-                                {item.label}
-                            </Link>
-                        )) : ''}
-                    </div>
-                    <div className="flex items-center gap-4">
-                        <div className="relative">
-                            <select
-                                value={currentLang}
-                                onChange={handleLanguageChange}
-                                className="appearance-none bg-transparent border border-slate-200 rounded-lg
-                                         pl-9 pr-8 py-1.5 text-sm font-medium text-slate-700
-                                         hover:border-indigo-400 focus:outline-none focus:ring-2
-                                         focus:ring-indigo-500/20 focus:border-indigo-500
-                                         transition-all duration-200 cursor-pointer"
-                            >
-                                {languageOptions.map((lang) => (
-                                    <option key={lang.value} value={lang.value} className="py-1">
-                                        {lang.name}
-                                    </option>
-                                ))}
-                            </select>
-                            <div className="absolute left-2 top-1/2 -translate-y-1/2 pointer-events-none">
-                                <img
-                                    src={languageOptions.find(l => l.value === currentLang)?.flag}
-                                    alt="flag"
-                                    className="w-5 h-5 rounded-sm object-cover"
-                                />
-                            </div>
-                            <div className="absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none">
-                                <svg className="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
-                                </svg>
-                            </div>
+        <>
+            <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-lg border-b border-slate-200/50 shadow-sm">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                    <div className="flex justify-between items-center h-16 md:h-20">
+                        <div className="flex-shrink-0">
+                            <Logo />
                         </div>
-                        <ProfileBar />
+                        <div className="hidden md:flex items-center gap-4 lg:gap-8">
+                            {auth.isAuthenticated() && Object.values(menuOptions).map((item) => (
+                                <Link
+                                    key={item.label}
+                                    to={item.link}
+                                    className="text-sm font-medium text-slate-700 hover:text-indigo-600
+                                             transition-colors duration-200 border-b-2 border-transparent
+                                             hover:border-indigo-600 pb-1 whitespace-nowrap"
+                                >
+                                    {item.label}
+                                </Link>
+                            ))}
+                        </div>
+
+                        <div className="flex items-center gap-2 sm:gap-4">
+                            <div className="relative">
+                                <select
+                                    value={currentLang}
+                                    onChange={handleLanguageChange}
+                                    className="appearance-none bg-transparent border border-slate-200 rounded-lg
+                                             pl-7 sm:pl-9 pr-6 sm:pr-8 py-1 sm:py-1.5
+                                             text-xs sm:text-sm font-medium text-slate-700
+                                             hover:border-indigo-400 focus:outline-none focus:ring-2
+                                             focus:ring-indigo-500/20 focus:border-indigo-500
+                                             transition-all duration-200 cursor-pointer
+                                             min-w-[60px] sm:min-w-[80px] md:min-w-[120px]"
+                                >
+                                    {languageOptions.map((lang) => (
+                                        <option key={lang.value} value={lang.value}>
+                                            <span className="hidden md:inline">{lang.name}</span>
+                                        </option>
+                                    ))}
+                                </select>
+
+                                <div className="absolute left-1.5 sm:left-2 top-1/2 -translate-y-1/2 pointer-events-none">
+                                    <img
+                                        src={languageOptions.find(l => l.value === currentLang)?.flag}
+                                        alt="flag"
+                                        className="w-4 h-4 sm:w-5 sm:h-5 rounded-sm object-cover"
+                                    />
+                                </div>
+
+                                <div className="absolute right-1.5 sm:right-2 top-1/2 -translate-y-1/2 pointer-events-none">
+                                    <svg className="w-3 h-3 sm:w-4 sm:h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </div>
+                            </div>
+
+                            <ProfileBar />
+                            <button
+                                onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+                                className="md:hidden p-2 rounded-lg hover:bg-slate-100 transition-colors duration-200"
+                                aria-label="Toggle menu"
+                            >
+                                <svg className="w-6 h-6 text-slate-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    {isMobileMenuOpen ? (
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+                                    ) : (
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
+                                    )}
+                                </svg>
+                            </button>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </nav>
+            </nav>
+            {isMobileMenuOpen && auth.isAuthenticated() && (
+                <div className="md:hidden fixed inset-0 z-40 bg-black/20 backdrop-blur-sm animate-fadeIn">
+                    <div className="fixed inset-x-0 top-16 bg-white shadow-xl border-b border-slate-200 animate-slideDown">
+                        <div className="px-4 py-3 space-y-1 max-h-[calc(100vh-4rem)] overflow-y-auto">
+                            {Object.values(menuOptions).map((item, index) => (
+                                <Link
+                                    key={item.label}
+                                    to={item.link}
+                                    onClick={() => setIsMobileMenuOpen(false)}
+                                    className="block px-4 py-3 rounded-lg text-base font-medium
+                                             text-slate-700 hover:bg-indigo-50 hover:text-indigo-600
+                                             transition-all duration-200 border-l-4 border-transparent
+                                             hover:border-indigo-500"
+                                    style={{
+                                        animationDelay: `${index * 50}ms`
+                                    }}
+                                >
+                                    {item.label}
+                                </Link>
+                            ))}
+                        </div>
+                    </div>
+                </div>
+            )}
+        </>
     );
 }
