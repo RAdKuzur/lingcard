@@ -27,7 +27,7 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property int $base_language_id
  * @property int $target_language_id
  * @property int $role
- *
+ * @property bool $is_banned
  * @property-read Language $baseLanguage
  * @property-read Language $targetLanguage
  * @property-read Course[]|HasMany $courses

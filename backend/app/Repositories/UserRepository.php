@@ -17,7 +17,7 @@ class UserRepository implements UserRepositoryInterface
         return User::find($id);
     }
     public function getUserByCredentials($email, $password) {
-        $user = User::where('email', $email)->first();
+        $user = User::where('email', $email)->where('is_banned', false)->first();
         if ($user && Hash::check($password, $user->password)) {
             return $user;
         }

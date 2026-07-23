@@ -17,12 +17,13 @@ class UserSeeder extends Seeder
     {
         DB::table('users')->truncate();
         DB::table('users')->insert([
-            'email' => 'admin@admin.com',
+            'email' => 'drive16052003@gmail.com',
             'password' => Hash::make('password'),
-            'name' => 'RKuzur',
+            'name' => 'LingCard',
             'base_language_id' => DB::table('languages')->where('code', 'ru')->first()->id,
             'target_language_id' => DB::table('languages')->where('code', 'kz')->first()->id,
             'role' => RoleDictionary::ADMIN,
+            'is_banned' => false
         ]);
     }
 }

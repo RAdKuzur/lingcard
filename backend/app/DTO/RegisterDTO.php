@@ -34,7 +34,8 @@ class RegisterDTO implements BaseDTO
             'password' => $this->password,
             'role' => RoleDictionary::USER,
             'target_language_id' => $this->targetLangId,
-            'base_language_id' => $this->baseLangId
+            'base_language_id' => $this->baseLangId,
+            'is_banned' => false
         ];
     }
 

@@ -115,7 +115,7 @@ class AuthService
         $refreshToken = $request->cookie('refresh_token');
         if ($refreshToken) {
             $token = $this->tokenRepository->getByRefreshToken($refreshToken);
-            if ($token) {
+            if ($token && !$token->user->is_banned) {
                 DB::beginTransaction();
                 try {
                     $newRefreshToken = JWTAuth::claims([
