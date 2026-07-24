@@ -16,6 +16,9 @@ export const apiRoutes = {
     exceptLanguage: apiUrl + '/except-language',
     authBroadcast: apiUrl + '/auth/broadcasting',
     allLanguages: apiUrl + '/languages',
+    like: apiUrl + '/like',
+    dislike: apiUrl + '/dislike',
+    unset: apiUrl + '/unset-reaction'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {

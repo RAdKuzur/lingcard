@@ -6,6 +6,7 @@ use App\Http\Controllers\LanguageController;
 use App\Http\Controllers\NewsController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\ProgressController;
+use App\Http\Controllers\ReactionController;
 use App\Http\Controllers\TelemetryController;
 use App\Http\Controllers\TrainingController;
 use App\Http\Middleware\AuthMiddleware;
@@ -30,6 +31,9 @@ Route::middleware(['throttle:api'])->group(function () {
             Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
             Route::get('/article/{id}', [NewsController::class, 'one'])->name('article');
             Route::get('/news/{code?}', [NewsController::class, 'all'])->name('news');
+            Route::post('/like/{newsId}', [ReactionController::class , 'like'])->name('like');
+            Route::post('/dislike/{newsId}', [ReactionController::class , 'dislike'])->name('dislike');
+            Route::post('/unset-reaction/{newsId}', [ReactionController::class , 'unset'])->name('unset-reaction');
             Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
             Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
             Route::get('/training', [TrainingController::class, 'newWord'])->name('new-word');

@@ -4,21 +4,28 @@ namespace App\Services;
 
 use App\Dictionaries\StatusNewsDictionary;
 use App\DTO\NewsDTO;
+use App\Helpers\AuthHelper;
+use App\Helpers\LogHelper;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
 use App\Repositories\Interfaces\NewsRepositoryInterface;
+use App\Repositories\Interfaces\ReactionRepositoryInterface;
 use DateTime;
+use Illuminate\Support\Facades\DB;
 
 class NewsService
 {
     private NewsRepositoryInterface $newsRepository;
     private LanguageRepositoryInterface $languageRepository;
+    private ReactionRepositoryInterface $reactionRepository;
     public function __construct(
         NewsRepositoryInterface $newsRepository,
-        LanguageRepositoryInterface $languageRepository
+        LanguageRepositoryInterface $languageRepository,
+        ReactionRepositoryInterface $reactionRepository
     )
     {
         $this->newsRepository = $newsRepository;
         $this->languageRepository = $languageRepository;
+        $this->reactionRepository = $reactionRepository;
     }
 
     public function all() : array
@@ -38,7 +45,19 @@ class NewsService
     }
     public function one($id) : array
     {
+        $user = AuthHelper::user();
+        DB::beginTransaction();
+        try {
+            $this->newsRepository->incrementViewsCount($id);
+            DB::commit();
+        }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
+        }
         $news = $this->newsRepository->find($id);
+        $isLiked = $this->reactionRepository->isLiked($user->id, $id);
+        $isDisliked = $this->reactionRepository->isDisliked($user->id, $id);
         $data = (new NewsDTO(
             id: $news->id,
             content: $news->content,
@@ -48,6 +67,11 @@ class NewsService
             username: $news->user->name,
             address: $news->address,
             status: StatusNewsDictionary::get($news->status),
+            viewsCount: $news->views_count,
+            likesCount: $news->likes_count,
+            dislikesCount: $news->dislikes_count,
+            isLiked: $isLiked,
+            isDisliked: $isDisliked
         ))->toArray();
         return $data;
     }

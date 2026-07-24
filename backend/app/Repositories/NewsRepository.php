@@ -35,4 +35,25 @@ class NewsRepository implements NewsRepositoryInterface
     public function delete($id) : int {
         return DB::table('news')->where('id', $id)->delete();
     }
+    public function incrementViewsCount($id)
+    {
+        return DB::table('news')->where('id', $id)->increment('views_count');
+    }
+    public function incrementLikesCount($id)
+    {
+        return DB::table('news')->where('id', $id)->increment('likes_count');
+    }
+    public function incrementDislikesCount($id)
+    {
+        return DB::table('news')->where('id', $id)->increment('dislikes_count');
+    }
+    public function decrementLikesCount($id)
+    {
+        return DB::table('news')->where('id', $id)->decrement('likes_count');
+    }
+    public function decrementDislikesCount($id)
+    {
+        return DB::table('news')->where('id', $id)->decrement('dislikes_count');
+    }
 }
+

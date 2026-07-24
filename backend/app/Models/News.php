@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 /**
  * @property int $id
@@ -15,9 +16,13 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property int $user_id
  * @property string $address
  * @property int $status
+ * @property int $views_count
+ * @property int $likes_count
+ * @property int $dislikes_count
  *
  * @property User $user
- * 
+ * @property Reaction[] $reactions
+ *
  * @property \Carbon\Carbon $created_at
  * @property \Carbon\Carbon $updated_at
  *
@@ -61,5 +66,9 @@ class News extends Model
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class, 'user_id');
+    }
+    public function reactions() : HasMany
+    {
+        return $this->hasMany(Reaction::class);
     }
 }

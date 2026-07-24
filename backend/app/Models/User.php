@@ -33,7 +33,7 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property-read Course[]|HasMany $courses
  *
  * @property News[] $news
- *
+ * @property Reaction[] $reactions
  * @property Token[] $tokens
 */
 #[Fillable(['name', 'email', 'password'])]
@@ -78,6 +78,10 @@ class User extends Authenticatable implements JWTSubject
     public function news(): HasMany
     {
         return $this->hasMany(News::class);
+    }
+    public function reactions(): HasMany
+    {
+        return $this->hasMany(Reaction::class);
     }
 
     public function getJWTIdentifier()

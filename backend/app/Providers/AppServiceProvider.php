@@ -8,6 +8,7 @@ use App\Repositories\Interfaces\AvailableLanguageRepositoryInterface;
 use App\Repositories\Interfaces\CourseRepositoryInterface;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
 use App\Repositories\Interfaces\NewsRepositoryInterface;
+use App\Repositories\Interfaces\ReactionRepositoryInterface;
 use App\Repositories\Interfaces\SuggestionRepositoryInterface;
 use App\Repositories\Interfaces\TokenRepositoryInterface;
 use App\Repositories\Interfaces\UserRepositoryInterface;
@@ -15,6 +16,7 @@ use App\Repositories\Interfaces\VisitRepositoryInterface;
 use App\Repositories\Interfaces\WordTranslationRepositoryInterface;
 use App\Repositories\LanguageRepository;
 use App\Repositories\NewsRepository;
+use App\Repositories\ReactionRepository;
 use App\Repositories\SuggestionRepository;
 use App\Repositories\TokenRepository;
 use App\Repositories\UserRepository;
@@ -43,6 +45,7 @@ class AppServiceProvider extends ServiceProvider
         $this->app->bind(PrometheusServiceInterface::class, PrometheusService::class);
         $this->app->bind(VisitRepositoryInterface::class, VisitRepository::class);
         $this->app->bind(SuggestionRepositoryInterface::class, SuggestionRepository::class);
+        $this->app->bind(ReactionRepositoryInterface::class, ReactionRepository::class);
     }
 
     /**

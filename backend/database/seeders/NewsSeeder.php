@@ -23,7 +23,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Россия',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
         DB::table('news')->insert([
             'content' => 'Мы добавили русский и казахский языки для обучения!',
@@ -32,7 +35,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Россия',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
 
         DB::table('news')->insert([
@@ -42,7 +48,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Қазақстан',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
         DB::table('news')->insert([
             'content' => 'Біз оқытуға арналған орыс және қазақ тілдерін қостық!',
@@ -51,7 +60,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Қазақстан',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
 
         DB::table('news')->insert([
@@ -61,7 +73,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Europe',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
         DB::table('news')->insert([
             'content' => 'We have added Russian and Kazakh languages for learning!',
@@ -70,7 +85,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Europe',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
 
         DB::table('news')->insert([
@@ -80,7 +98,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Россия',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
         DB::table('news')->insert([
             'content' => 'Ағылшын тілі оқу үшін қосылды (5000-нан астам сөз)',
@@ -89,7 +110,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Қазақстан',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
         DB::table('news')->insert([
             'content' => 'English language has been added for learning (more than 5000 words)',
@@ -98,7 +122,10 @@ class NewsSeeder extends Seeder
             'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
             'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
             'address' => 'Europe',
-            'status' => StatusNewsDictionary::APPROVED
+            'status' => StatusNewsDictionary::APPROVED,
+            'views_count' => 0,
+            'likes_count' => 0,
+            'dislikes_count' => 0
         ]);
     }
 }
