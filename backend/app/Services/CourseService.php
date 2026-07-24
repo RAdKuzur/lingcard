@@ -8,6 +8,7 @@ use App\DTO\WordProgressDTO;
 use App\DTO\WordTrainingDTO;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
+use App\Helpers\RepeatHelper;
 use App\Jobs\InitProgressJob;
 use App\Models\Course;
 use App\Repositories\Interfaces\CourseRepositoryInterface;
@@ -118,8 +119,8 @@ class CourseService
                         case StatusWordDictionary::LEARNING:
                             $this->courseRepository->update($id, [
                                 'repeat' => $course->repeat + 1,
-                                'status' => $course->repeat + 1 > Course::REPEAT_TIME ? StatusWordDictionary::LEARNED : StatusWordDictionary::LEARNING,
-                                'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+1 days"))
+                                'status' => $course->repeat > Course::REPEAT_TIME ? StatusWordDictionary::LEARNED : StatusWordDictionary::LEARNING,
+                                'last_time_repeated' => RepeatHelper::repeat($course->repeat)
                             ]);
                             break;
                         default:
@@ -136,7 +137,7 @@ class CourseService
                             break;
                         case StatusWordDictionary::LEARNING:
                             $this->courseRepository->update($id, [
-                                'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+5 minutes"))
+                                'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
                             ]);
                             break;
                         default:

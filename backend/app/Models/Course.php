@@ -24,7 +24,7 @@ use Illuminate\Support\Carbon;
 class Course extends Model
 {
 
-    public const REPEAT_TIME = 5;
+    public const REPEAT_TIME = 6;
     use HasFactory;
 
     protected $fillable = [
