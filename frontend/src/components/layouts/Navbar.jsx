@@ -3,13 +3,15 @@ import ProfileBar from "./ProfileBar.jsx";
 import Logo from "./Logo.jsx";
 import {innerRoutes} from "../../plugins/routes.js";
 import {useAuth} from "../../plugins/AuthContext.jsx";
-import {useEffect, useState} from "react";
+import {useEffect, useState, useRef} from "react";
 import {getText, lang} from "../../lang/lang.js";
 
 export default function Navbar() {
     const auth = useAuth();
     const [currentLang, setCurrentLang] = useState('ru');
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+    const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false);
+    const languageDropdownRef = useRef(null);
 
     const menuOptions = {
         news: {
@@ -38,10 +40,26 @@ export default function Navbar() {
         }
     }
 
+    const languageOptions = [
+        { name: 'Қазақша', flag: '/flags/kz.svg', value: 'kz' },
+        { name: 'Русский', flag: '/flags/ru.svg', value: 'ru' },
+        { name: 'English', flag: '/flags/en.svg', value: 'en' }
+    ];
+
     useEffect(() => {
         const language = localStorage.getItem('lang') ?? 'ru';
         setCurrentLang(language);
         localStorage.setItem('lang', language);
+    }, []);
+
+    useEffect(() => {
+        const handleClickOutside = (e) => {
+            if (languageDropdownRef.current && !languageDropdownRef.current.contains(e.target)) {
+                setIsLanguageDropdownOpen(false);
+            }
+        };
+        document.addEventListener('click', handleClickOutside);
+        return () => document.removeEventListener('click', handleClickOutside);
     }, []);
 
     useEffect(() => {
@@ -65,18 +83,14 @@ export default function Navbar() {
         };
     }, [isMobileMenuOpen]);
 
-    const languageOptions = [
-        { name: 'Қазақша', flag: '/flags/kz.svg', value: 'kz' },
-        { name: 'Русский', flag: '/flags/ru.svg', value: 'ru' },
-        { name: 'English', flag: '/flags/en.svg', value: 'en' }
-    ];
-
-    const handleLanguageChange = (e) => {
-        const newLang = e.target.value;
-        setCurrentLang(newLang);
-        localStorage.setItem('lang', newLang);
+    const handleLanguageChange = (value) => {
+        setCurrentLang(value);
+        localStorage.setItem('lang', value);
+        setIsLanguageDropdownOpen(false);
         window.location.reload();
     };
+
+    const selectedLanguage = languageOptions.find(l => l.value === currentLang);
 
     return (
         <>
@@ -101,38 +115,56 @@ export default function Navbar() {
                         </div>
 
                         <div className="flex items-center gap-2 sm:gap-4">
-                            <div className="relative">
-                                <select
-                                    value={currentLang}
-                                    onChange={handleLanguageChange}
-                                    className="appearance-none bg-transparent border border-slate-200 rounded-lg
-                                             pl-7 sm:pl-9 pr-6 sm:pr-8 py-1 sm:py-1.5
+                            <div className="relative" ref={languageDropdownRef}>
+                                <button
+                                    onClick={() => setIsLanguageDropdownOpen(!isLanguageDropdownOpen)}
+                                    className="flex items-center gap-2 border border-slate-200 rounded-lg
+                                             pl-2 sm:pl-2 pr-2 sm:pr-2 py-1 sm:py-1.5
                                              text-xs sm:text-sm font-medium text-slate-700
                                              hover:border-indigo-400 focus:outline-none focus:ring-2
                                              focus:ring-indigo-500/20 focus:border-indigo-500
                                              transition-all duration-200 cursor-pointer
-                                             min-w-[60px] sm:min-w-[80px] md:min-w-[120px]"
+                                             min-w-[60px] sm:min-w-[80px] md:min-w-[120px]
+                                             bg-transparent"
                                 >
-                                    {languageOptions.map((lang) => (
-                                        <option key={lang.value} value={lang.value}>
-                                            <span className="hidden md:inline">{lang.name}</span>
-                                        </option>
-                                    ))}
-                                </select>
-
-                                <div className="absolute left-1.5 sm:left-2 top-1/2 -translate-y-1/2 pointer-events-none">
                                     <img
-                                        src={languageOptions.find(l => l.value === currentLang)?.flag}
-                                        alt="flag"
+                                        src={selectedLanguage?.flag}
+                                        alt={selectedLanguage?.name}
                                         className="w-4 h-4 sm:w-5 sm:h-5 rounded-sm object-cover"
                                     />
-                                </div>
-
-                                <div className="absolute right-1.5 sm:right-2 top-1/2 -translate-y-1/2 pointer-events-none">
-                                    <svg className="w-3 h-3 sm:w-4 sm:h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <span className="hidden md:inline">{selectedLanguage?.name}</span>
+                                    <svg className="w-3 h-3 sm:w-4 sm:h-4 text-slate-400 ml-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
                                     </svg>
-                                </div>
+                                </button>
+
+                                {isLanguageDropdownOpen && (
+                                    <div className="absolute right-0 mt-1 min-w-[160px] bg-white
+                                                  border border-slate-200 rounded-lg shadow-lg
+                                                  py-1 z-50 animate-fadeIn">
+                                        {languageOptions.map((lang) => (
+                                            <button
+                                                key={lang.value}
+                                                onClick={() => handleLanguageChange(lang.value)}
+                                                className="w-full flex items-center gap-3 px-4 py-2
+                                                         text-sm text-slate-700 hover:bg-indigo-50
+                                                         transition-colors duration-150"
+                                            >
+                                                <img
+                                                    src={lang.flag}
+                                                    alt={lang.name}
+                                                    className="w-5 h-5 rounded-sm object-cover"
+                                                />
+                                                <span>{lang.name}</span>
+                                                {lang.value === currentLang && (
+                                                    <svg className="w-4 h-4 text-indigo-600 ml-auto" fill="currentColor" viewBox="0 0 20 20">
+                                                        <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                                                    </svg>
+                                                )}
+                                            </button>
+                                        ))}
+                                    </div>
+                                )}
                             </div>
 
                             <ProfileBar />
