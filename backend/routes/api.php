@@ -22,7 +22,7 @@ Route::middleware(['throttle:api'])->group(function () {
     Route::group(['middleware' => VisitMiddleware::class], function () {
         Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
         Route::get('/active-languages', [LanguageController::class, 'allActive'])->name('active-languages');
-        Route::get('/except-language/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
+        Route::get('/except-languages/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
         Route::post('/login', [AuthController::class, 'login'])->name('login');
         Route::post('/register', [AuthController::class, 'register'])->name('register');
         Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');
@@ -31,12 +31,12 @@ Route::middleware(['throttle:api'])->group(function () {
         Route::group(['middleware' => AuthMiddleware::class], function () {
             Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
-            Route::get('/article/{id}', [NewsController::class, 'one'])->name('article');
+            Route::get('/articles/{id}', [NewsController::class, 'one'])->name('article');
             Route::get('/news/{code?}', [NewsController::class, 'all'])->name('news');
 
-            Route::post('/like/{newsId}', [ReactionController::class , 'like'])->name('like');
-            Route::post('/dislike/{newsId}', [ReactionController::class , 'dislike'])->name('dislike');
-            Route::post('/unset-reaction/{newsId}', [ReactionController::class , 'unset'])->name('unset-reaction');
+            Route::post('/likes/{newsId}', [ReactionController::class , 'like'])->name('like');
+            Route::post('/dislikes/{newsId}', [ReactionController::class , 'dislike'])->name('dislike');
+            Route::post('/unset-reactions/{newsId}', [ReactionController::class , 'unset'])->name('unset-reaction');
 
             Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
             Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');

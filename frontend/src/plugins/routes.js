@@ -8,8 +8,8 @@ export const innerRoutes = {
     about: '/about',
     profile: '/profile',
     register: '/register',
-    article: '/article',
-    articlePath: '/article/:id',
+    article: '/articles',
+    articlePath: '/articles/:id',
     votes: '/votes',
     votesPath: '/votes/:id'
 }
