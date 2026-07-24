@@ -28,4 +28,15 @@ class VoiceRepository implements VoiceRepositoryInterface
     {
         return DB::table('voices')->where('vote_option_id', $voteOptionId)->count();
     }
+    public function deleteVoice($userId, $voteOptionId)
+    {
+        return DB::table('voices')->where('user_id', $userId)->where('vote_option_id', $voteOptionId)->delete();
+    }
+    public function deleteUserVoices($userId, array $voteOptionIds) {
+        return DB::table('voices')->where('user_id', $userId)->whereIn('vote_option_id', $voteOptionIds)->delete();
+    }
+    public function findUserVoices($userId, array $voteOptionIds) {
+        return DB::table('voices')->where('user_id', $userId)->whereIn('vote_option_id', $voteOptionIds)->first();
+    }
+
 }
