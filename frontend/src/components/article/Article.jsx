@@ -27,17 +27,14 @@ export default function Article() {
     function like() {
         const id = window.location.pathname.split('/').pop();
         if(dislikeCount) {
-            setDislikeCount(dislikeCount - 1)
             setDislike(false)
             reactUnset(id)
         }
         if (!isLike) {
-            setLikeCount(likeCount + 1)
             setLike(true)
             reactLike(id)
         }
         else {
-            setLikeCount(likeCount - 1)
             setLike(false)
             reactUnset(id)
         }
@@ -46,17 +43,14 @@ export default function Article() {
     function dislike() {
         const id = window.location.pathname.split('/').pop();
         if (isLike) {
-            setLikeCount(likeCount - 1)
             setLike(false)
             reactUnset(id)
         }
         if (!isDislike) {
-            setDislikeCount(dislikeCount + 1)
             setDislike(true)
             reactDislike(id)
         }
         else {
-            setDislikeCount(dislikeCount - 1)
             setDislike(false)
             reactUnset(id)
         }
