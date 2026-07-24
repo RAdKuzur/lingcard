@@ -46,7 +46,12 @@ class NewsService
     public function one($id) : array
     {
         $user = AuthHelper::user();
-        DB::beginTransaction();
+        $news = $this->newsRepository->find($id);
+        $isLiked = $this->reactionRepository->isLiked($user->id, $id);
+        $isDisliked = $this->reactionRepository->isDisliked($user->id, $id);
+        $likesCount = $this->reactionRepository->countLikes($id);
+        $dislikesCount = $this->reactionRepository->countDislikes($id);
+            DB::beginTransaction();
         try {
             $this->newsRepository->incrementViewsCount($id);
             DB::commit();
@@ -55,9 +60,6 @@ class NewsService
             DB::rollBack();
             LogHelper::errorLog($e->getTrace(), $e->getMessage());
         }
-        $news = $this->newsRepository->find($id);
-        $isLiked = $this->reactionRepository->isLiked($user->id, $id);
-        $isDisliked = $this->reactionRepository->isDisliked($user->id, $id);
         $data = (new NewsDTO(
             id: $news->id,
             content: $news->content,
@@ -68,8 +70,8 @@ class NewsService
             address: $news->address,
             status: StatusNewsDictionary::get($news->status),
             viewsCount: $news->views_count,
-            likesCount: $news->likes_count,
-            dislikesCount: $news->dislikes_count,
+            likesCount: $likesCount,
+            dislikesCount: $dislikesCount,
             isLiked: $isLiked,
             isDisliked: $isDisliked
         ))->toArray();

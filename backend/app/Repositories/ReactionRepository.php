@@ -55,4 +55,18 @@ class ReactionRepository implements ReactionRepositoryInterface
             ->where(['status' => StatusReactionDictionary::DISLIKE])
             ->exists();
     }
+    public function countLikes($newsId)
+    {
+        return DB::table('reactions')
+            ->where(['news_id' => $newsId])
+            ->where(['status' => StatusReactionDictionary::LIKE])
+            ->count();
+    }
+    public function countDislikes($newsId)
+    {
+        return DB::table('reactions')
+            ->where(['news_id' => $newsId])
+            ->where(['status' => StatusReactionDictionary::DISLIKE])
+            ->count();
+    }
 }
