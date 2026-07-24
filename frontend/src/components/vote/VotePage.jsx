@@ -1,0 +1,61 @@
+import {useEffect, useState} from "react";
+import {get, post} from "../../plugins/request.js";
+import {apiRoutes} from "../../plugins/apiRoutes.js";
+import ButtonBack from "../layouts/ButtonBack.jsx";
+import {getText, lang} from "../../lang/lang.js";
+export default function VotePage() {
+    const [vote, setVote] = useState([])
+    const [voteOptions, setVoteOptions] = useState([])
+    useEffect(() => {
+        const fetchVote = async () => {
+            const id = window.location.pathname.split('/').pop();
+            const response = await get(apiRoutes.votes + '/' + id, {}, { withCredentials: true });
+            const data = await response.data;
+            setVote(data)
+            setVoteOptions(data.vote_options)
+            console.log()
+        };
+        fetchVote();
+    }, [])
+
+    function voice(id) {
+
+    }
+    return (
+        <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
+            <div className="flex max-w-5xl mx-auto justify-start mb-6">
+                <ButtonBack/>
+            </div>
+            <div className="max-w-5xl mx-auto space-y-8">
+                <div>
+                    <div className="flex items-center gap-3 mb-4 pl-4">
+                        <h1 className="text-2xl font-bold text-slate-800">{vote.title}</h1>
+                    </div>
+                    {
+                        voteOptions.length > 0 ?
+                            (voteOptions.map((e) => (
+                                <div key={e.id}
+                                     className="cursor-pointer bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all hover:shadow-lg hover:scale-[1.02] active:scale-[0.98]"
+                                     onClick={() => voice(e.id)}>
+                                    <div className="flex items-center gap-4 justify-between">
+                                        <div className="flex items-center gap-4">
+                                            <img
+                                                src={`/flags/${e.content}.svg`}
+                                                alt={e.content}
+                                                className="w-12 h-12 rounded-full object-cover border-2 border-slate-200 flex-shrink-0"
+                                            />
+                                            <h1 className="text-xl font-bold text-slate-800">{e.title}</h1>
+                                        </div>
+                                        <div className="flex items-center gap-4">
+                                            {e.count} {getText(lang.votes.voters)}
+                                        </div>
+                                    </div>
+                                </div>
+                            )))
+                        : <p className="text-center text-slate-500 text-lg">Нет доступных вариантов</p>
+                    }
+                </div>
+            </div>
+        </main>
+    );
+}

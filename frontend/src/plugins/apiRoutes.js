@@ -18,7 +18,8 @@ export const apiRoutes = {
     allLanguages: apiUrl + '/languages',
     like: apiUrl + '/like',
     dislike: apiUrl + '/dislike',
-    unset: apiUrl + '/unset-reaction'
+    unset: apiUrl + '/unset-reaction',
+    votes: apiUrl + '/votes'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {

@@ -13,6 +13,9 @@ use App\Repositories\Interfaces\SuggestionRepositoryInterface;
 use App\Repositories\Interfaces\TokenRepositoryInterface;
 use App\Repositories\Interfaces\UserRepositoryInterface;
 use App\Repositories\Interfaces\VisitRepositoryInterface;
+use App\Repositories\Interfaces\VoiceRepositoryInterface;
+use App\Repositories\Interfaces\VoteOptionRepositoryInterface;
+use App\Repositories\Interfaces\VoteRepositoryInterface;
 use App\Repositories\Interfaces\WordTranslationRepositoryInterface;
 use App\Repositories\LanguageRepository;
 use App\Repositories\NewsRepository;
@@ -21,6 +24,9 @@ use App\Repositories\SuggestionRepository;
 use App\Repositories\TokenRepository;
 use App\Repositories\UserRepository;
 use App\Repositories\VisitRepository;
+use App\Repositories\VoiceRepository;
+use App\Repositories\VoteOptionRepository;
+use App\Repositories\VoteRepository;
 use App\Repositories\WordTranslationRepository;
 use App\Services\Interfaces\PrometheusServiceInterface;
 use App\Services\PrometheusService;
@@ -46,6 +52,9 @@ class AppServiceProvider extends ServiceProvider
         $this->app->bind(VisitRepositoryInterface::class, VisitRepository::class);
         $this->app->bind(SuggestionRepositoryInterface::class, SuggestionRepository::class);
         $this->app->bind(ReactionRepositoryInterface::class, ReactionRepository::class);
+        $this->app->bind(VoteRepositoryInterface::class, VoteRepository::class);
+        $this->app->bind(VoteOptionRepositoryInterface::class, VoteOptionRepository::class);
+        $this->app->bind(VoiceRepositoryInterface::class, VoiceRepository::class);
     }
 
     /**

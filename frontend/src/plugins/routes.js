@@ -9,5 +9,7 @@ export const innerRoutes = {
     profile: '/profile',
     register: '/register',
     article: '/article',
-    articlePath: '/article/:id'
+    articlePath: '/article/:id',
+    votes: '/votes',
+    votesPath: '/votes/:id'
 }

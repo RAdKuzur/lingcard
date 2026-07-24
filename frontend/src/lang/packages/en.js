@@ -29,6 +29,9 @@ export const en = {
             dictionary: {
                 en: "Dictionary"
             },
+            votes: {
+                en: "Add your language!"
+            },
             about: {
                 en: "About us"
             }
@@ -296,6 +299,14 @@ export const en = {
         },
         hide: {
             en: "Hide"
+        }
+    },
+    votes: {
+        mainLabel: {
+            en: "Voting"
+        },
+        voters: {
+            en: "voters"
         }
     }
 }

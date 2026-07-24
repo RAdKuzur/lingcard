@@ -29,6 +29,9 @@ export const ru = {
             dictionary: {
                 ru: "Словарь"
             },
+            votes: {
+                ru: "Добавьте ваш язык!"
+            },
             about: {
                 ru: "О нас"
             }
@@ -296,6 +299,14 @@ export const ru = {
         },
         hide: {
             ru: "Убрать"
+        }
+    },
+    votes: {
+        mainLabel: {
+            ru: "Голосование"
+        },
+        voters: {
+            ru: "проголововаших"
         }
     }
 }

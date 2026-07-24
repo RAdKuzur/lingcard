@@ -17,6 +17,8 @@ import UnprotectedRoute from "./components/layouts/UnprotectedRoute.jsx";
 import echo from "./plugins/echo.js";
 import {useAuth} from "./plugins/AuthContext.jsx";
 import Article from "./components/article/Article.jsx";
+import Vote from "./components/vote/Vote.jsx";
+import VotePage from "./components/vote/VotePage.jsx";
 function App() {
     const auth = useAuth()
     const username = auth.user?.username;
@@ -82,6 +84,16 @@ function App() {
                 <Route path={innerRoutes.profile} element={
                     <ProtectedRoute>
                         <Profile/>
+                    </ProtectedRoute>
+                }/>
+                <Route path={innerRoutes.votes} element={
+                    <ProtectedRoute>
+                        <Vote/>
+                    </ProtectedRoute>
+                }/>
+                <Route path={innerRoutes.votesPath} element={
+                    <ProtectedRoute>
+                        <VotePage/>
                     </ProtectedRoute>
                 }/>
                 <Route path={innerRoutes.about} element={

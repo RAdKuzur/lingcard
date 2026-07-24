@@ -29,6 +29,9 @@ export const kz = {
             dictionary: {
                 kz: "Сөздік"
             },
+            votes: {
+                kz: "Тіліңізді қосыңыз!"
+            },
             about: {
                 kz: "Біз туралы"
             }
@@ -296,6 +299,14 @@ export const kz = {
         },
         hide: {
             kz: "Жасыру"
+        }
+    },
+    votes: {
+        mainLabel: {
+            kz: "Дауыс беру"
+        },
+        voters: {
+            kz: "дауыс берушілер"
         }
     }
 }
