@@ -14,9 +14,15 @@ class LanguageController extends Controller
     {
         $this->languageService = $languageService;
     }
-
     public function all() {
         $languages = $this->languageService->all();
+        return response()->json([
+            'success' => true,
+            'data' => $languages
+        ]);
+    }
+    public function allActive() {
+        $languages = $this->languageService->allActive();
         return response()->json([
             'success' => true,
             'data' => $languages

@@ -5,7 +5,7 @@ export const apiRoutes = {
     logout: apiUrl + '/logout',
     register: apiUrl + '/register',
     refresh: apiUrl + '/refresh',
-    languages: apiUrl + '/languages',
+    languages: apiUrl + '/active-languages',
     profile: apiUrl + '/profile',
     progress: apiUrl + '/progress',
     training: apiUrl + '/training',
@@ -13,7 +13,8 @@ export const apiRoutes = {
     user: apiUrl + '/user',
     news: apiUrl + '/news',
     exceptLanguage: apiUrl + '/except-language',
-    authBroadcast: apiUrl + '/auth/broadcasting'
+    authBroadcast: apiUrl + '/auth/broadcasting',
+    allLanguages: apiUrl + '/languages',
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {

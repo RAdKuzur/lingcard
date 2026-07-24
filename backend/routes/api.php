@@ -19,6 +19,7 @@ Route::post('/auth/broadcasting', [AuthController::class, 'broadcast'])->name('a
 Route::middleware(['throttle:api'])->group(function () {
     Route::group(['middleware' => VisitMiddleware::class], function () {
         Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
+        Route::get('/active-languages', [LanguageController::class, 'allActive'])->name('active-languages');
         Route::get('/except-language/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
         Route::post('/login', [AuthController::class, 'login'])->name('login');
         Route::post('/register', [AuthController::class, 'register'])->name('register');
