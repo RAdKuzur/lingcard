@@ -16,6 +16,7 @@ import Register from "./components/auth/Register.jsx";
 import UnprotectedRoute from "./components/layouts/UnprotectedRoute.jsx";
 import echo from "./plugins/echo.js";
 import {useAuth} from "./plugins/AuthContext.jsx";
+import Article from "./components/article/Article.jsx";
 function App() {
     const auth = useAuth()
     const username = auth.user?.username;
@@ -56,6 +57,11 @@ function App() {
                 <Route path={innerRoutes.home} element={
                     <ProtectedRoute>
                         <Home/>
+                    </ProtectedRoute>
+                }/>
+                <Route path={innerRoutes.articlePath} element={
+                    <ProtectedRoute>
+                        <Article/>
                     </ProtectedRoute>
                 }/>
                 <Route path={innerRoutes.training} element={

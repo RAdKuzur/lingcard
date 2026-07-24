@@ -5,8 +5,10 @@ import {useState} from "react";
 import {get} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
 import {getText, lang} from "../../lang/lang.js";
+import {useRedirect} from "../../hooks/useRedirect.js";
 
 export default function Home() {
+    const {redirect} = useRedirect()
     const [language, setLanguage] = useState('')
     const [news, setNews] = useState([])
     const countries = [
@@ -21,7 +23,9 @@ export default function Home() {
         setNews(data)
         setLanguage(lang1)
     },[])
-
+    function goToArticle(id) {
+        redirect(innerRoutes.article + '/' + id)
+    }
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
             <div className="max-w-5xl mx-auto space-y-8">
@@ -32,7 +36,7 @@ export default function Home() {
                     {
                         news.length > 0 ?
                             (news.map((e) => (
-                                <div key={e.id} className="bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all">
+                                <div key={e.id} className="cursor-pointer bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all" onClick={() => goToArticle(e.id)}>
                                     <div className={'flex justify-between items-start'}>
                                         <div className="flex items-center gap-3 mb-4">
                                             <h1 className="text-xl font-bold text-slate-800">{e.title}</h1>

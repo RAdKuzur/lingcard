@@ -7,5 +7,7 @@ export const innerRoutes = {
     progress: '/progress',
     about: '/about',
     profile: '/profile',
-    register: '/register'
+    register: '/register',
+    article: '/article',
+    articlePath: '/article/:id'
 }

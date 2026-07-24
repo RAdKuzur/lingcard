@@ -21,4 +21,11 @@ class NewsController extends Controller
             'data' => $data
         ]);
     }
+    public function one($id)
+    {
+        $data = $this->newsService->one($id);
+        return response()->json([
+            'data' => $data
+        ]);
+    }
 }

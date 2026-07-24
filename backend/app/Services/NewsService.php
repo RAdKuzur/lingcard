@@ -36,7 +36,21 @@ class NewsService
         }
         return $data;
     }
-
+    public function one($id) : array
+    {
+        $news = $this->newsRepository->find($id);
+        $data = (new NewsDTO(
+            id: $news->id,
+            content: $news->content,
+            date: (new DateTime($news->date))->format('d.m.Y H:i'),
+            title: $news->title,
+            code: $news->language->code,
+            username: $news->user->name,
+            address: $news->address,
+            status: StatusNewsDictionary::get($news->status),
+        ))->toArray();
+        return $data;
+    }
 
     public function newsByCode($code) : array
     {

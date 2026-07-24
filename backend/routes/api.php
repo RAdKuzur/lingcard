@@ -28,6 +28,7 @@ Route::middleware(['throttle:api'])->group(function () {
 
         Route::group(['middleware' => AuthMiddleware::class], function () {
             Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
+            Route::get('/article/{id}', [NewsController::class, 'one'])->name('article');
             Route::get('/news/{code?}', [NewsController::class, 'all'])->name('news');
             Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
             Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
