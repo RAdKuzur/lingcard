@@ -29,10 +29,10 @@ export default function Vote() {
                         votes.length > 0 ?
                             (votes.map((e) => (
                                 <div key={e.id}
-                                     className="cursor-pointer bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"
+                                     className="cursor-pointer bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all outline-2 border-black-500"
                                      onClick={() => goToVote(e.id)}>
                                     <div className={'flex justify-between items-start'}>
-                                        <div className="flex items-center gap-3 mb-4">
+                                        <div className="flex items-center gap-3">
                                             <h1 className="text-xl font-bold text-slate-800">{e.title}</h1>
                                         </div>
                                     </div>

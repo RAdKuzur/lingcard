@@ -18,7 +18,7 @@ class VoteSeeder extends Seeder
         DB::table('voices')->truncate();
 
         $voteId = DB::table('votes')->insertGetId([
-            'title' => 'Выберите новый язык для добавления в систему!!!!',
+            'title' => 'Select a new language to add!',
             'is_active' => true
         ]);
 

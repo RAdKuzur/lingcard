@@ -12,6 +12,10 @@ export default function Navbar() {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
     const menuOptions = {
+        news: {
+            link: innerRoutes.home,
+            label: getText(lang.navbar.options.news)
+        },
         training: {
             link: innerRoutes.training,
             label: getText(lang.navbar.options.training)

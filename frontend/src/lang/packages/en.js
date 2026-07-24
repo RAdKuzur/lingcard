@@ -4,7 +4,7 @@ export const en = {
             en: "About us"
         },
         mission: {
-            en: "LingCard is a project that helps people learn languages using simple interactive cards.\nOur mission is to make language learning accessible, engaging, and effective for everyone."
+            en: "LingCard is a project that helps people around the world learn languages using interactive flashcards. Our mission is to make language learning accessible, engaging, and effective for everyone. The learning process utilizes the spaced repetition method."
         },
         contacts: {
             en: "Contacts"
@@ -20,6 +20,9 @@ export const en = {
     },
     navbar: {
         options: {
+            news: {
+                en: "News"
+            },
             training: {
                 en: "Training"
             },

@@ -1,16 +1,19 @@
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import {getText, lang} from "../../lang/lang.js";
 import {useEffect, useState} from "react";
+import {get} from "../../plugins/request.js";
+import {apiRoutes} from "../../plugins/apiRoutes.js";
 
 export default function About() {
-    const countries = [
-        { name: 'Қазақша', flag: '/flags/kz.svg' },
-        { name: 'Русский', flag: '/flags/ru.svg' },
-        { name: 'English', flag: '/flags/en.svg' },
-        // { name: 'Грузия', flag: '/flags/ge.svg' },
-        // { name: 'Армения', flag: '/flags/am.svg' },
-        // { name: 'Китай', flag: '/flags/cn.svg' }
-    ];
+    const [countries, setCountries] = useState([])
+    useEffect(() => {
+        async function Languages() {
+            const response = await get(apiRoutes.languages, {}, {withCredentials: true})
+            const data = await response.data
+            setCountries(data)
+        }
+        Languages()
+    }, [])
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
             <div className="flex max-w-5xl mx-auto justify-start mb-6">
@@ -52,8 +55,8 @@ export default function About() {
                             >
                                 <div className="w-30 h-30 mb-3 group-hover:scale-110 transition-transform duration-300 rounded-lg overflow-hidden shadow-md">
                                     <img
-                                        src={country.flag}
-                                        alt={country.name}
+                                        src={`/flags/${country.code}.svg`}
+                                        alt={country.code}
                                         className="w-full h-full object-cover"
                                     />
                                 </div>

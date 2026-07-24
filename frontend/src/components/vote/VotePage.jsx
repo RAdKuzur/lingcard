@@ -68,13 +68,15 @@ export default function VotePage() {
                                                 <h1 className="text-xl font-bold text-slate-800">{e.title}</h1>
                                             </div>
                                             <div className="flex items-center gap-4">
-                                                {e.count + (isSelected && vote.voted !== e.id ? 1 : 0) + ( !isSelected && vote.voted === e.id ? -1 : 0 )} {getText(lang.votes.voters)}
+                                                <span className={"text-xl font-bold"}>
+                                                    {e.count + (isSelected && vote.voted !== e.id ? 1 : 0) + ( !isSelected && vote.voted === e.id ? -1 : 0 )} {getText(lang.votes.voters)}
+                                                </span>
                                             </div>
                                         </div>
                                     </div>
                                 );
                             }))
-                            : <p className="text-center text-slate-500 text-lg">Нет доступных вариантов</p>
+                            : ''
                     }
                 </div>
             </div>

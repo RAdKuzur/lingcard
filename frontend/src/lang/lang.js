@@ -19,6 +19,8 @@ export function init() {
             return kz;
         case 'en':
             return en;
+        default:
+            return ru;
     }
 }
 
