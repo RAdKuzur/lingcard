@@ -19,7 +19,9 @@ export const apiRoutes = {
     like: apiUrl + '/like',
     dislike: apiUrl + '/dislike',
     unset: apiUrl + '/unset-reaction',
-    votes: apiUrl + '/votes'
+    votes: apiUrl + '/votes',
+    voice: apiUrl + '/voices',
+    cancelVoice: apiUrl + '/cancel-voices'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {
