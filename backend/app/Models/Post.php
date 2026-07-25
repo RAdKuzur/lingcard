@@ -28,7 +28,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
  *
  * @property Language $language
  */
-class News extends Model
+class Post extends Model
 {
     use HasFactory;
 
@@ -37,7 +37,7 @@ class News extends Model
      *
      * @var string
      */
-    protected $table = 'news';
+    protected $table = 'posts';
 
     /**
      * The attributes that are mass assignable.

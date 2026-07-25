@@ -1,6 +1,6 @@
 <?php
 
-use App\Dictionaries\StatusNewsDictionary;
+use App\Dictionaries\StatusPostDictionary;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
@@ -12,10 +12,10 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::table('news', function (Blueprint $table) {
+        Schema::table('posts', function (Blueprint $table) {
             $table->foreignId('user_id')->constrained('users');
             $table->string('address')->nullable();
-            $table->integer('status')->default(StatusNewsDictionary::APPROVED);
+            $table->integer('status')->default(StatusPostDictionary::APPROVED);
         });
     }
 
@@ -24,7 +24,7 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::table('news', function (Blueprint $table) {
+        Schema::table('posts', function (Blueprint $table) {
             $table->dropColumn('user_id');
             $table->dropColumn('address');
             $table->dropColumn('status');

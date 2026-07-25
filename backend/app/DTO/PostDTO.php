@@ -2,7 +2,7 @@
 
 namespace App\DTO;
 
-class NewsDTO implements BaseDTO
+class PostDTO implements BaseDTO
 {
     public ?int $id = null;
     public ?string $content = null;

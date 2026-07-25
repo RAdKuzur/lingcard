@@ -3,7 +3,7 @@
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DictionaryController;
 use App\Http\Controllers\LanguageController;
-use App\Http\Controllers\NewsController;
+use App\Http\Controllers\PostController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\ProgressController;
 use App\Http\Controllers\ReactionController;
@@ -32,12 +32,12 @@ Route::middleware(['throttle:api'])->group(function () {
         Route::group(['middleware' => AuthMiddleware::class], function () {
             Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
-            Route::get('/articles/{id}', [NewsController::class, 'one'])->name('article');
-            Route::get('/news/{code?}', [NewsController::class, 'all'])->name('news');
+            Route::get('/articles/{id}', [PostController::class, 'one'])->name('article');
+            Route::get('/posts/{code?}', [PostController::class, 'all'])->name('posts');
 
-            Route::post('/likes/{newsId}', [ReactionController::class , 'like'])->name('like');
-            Route::post('/dislikes/{newsId}', [ReactionController::class , 'dislike'])->name('dislike');
-            Route::post('/unset-reactions/{newsId}', [ReactionController::class , 'unset'])->name('unset-reaction');
+            Route::post('/likes/{postId}', [ReactionController::class , 'like'])->name('like');
+            Route::post('/dislikes/{postId}', [ReactionController::class , 'dislike'])->name('dislike');
+            Route::post('/unset-reactions/{postId}', [ReactionController::class , 'unset'])->name('unset-reaction');
 
             Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
             Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');

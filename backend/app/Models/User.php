@@ -32,7 +32,7 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property-read Language $targetLanguage
  * @property-read Course[]|HasMany $courses
  *
- * @property News[] $news
+ * @property Post[] $posts
  * @property Reaction[] $reactions
  * @property Token[] $tokens
 */
@@ -75,9 +75,9 @@ class User extends Authenticatable implements JWTSubject
     {
         return $this->hasMany(Token::class);
     }
-    public function news(): HasMany
+    public function posts(): HasMany
     {
-        return $this->hasMany(News::class);
+        return $this->hasMany(Post::class);
     }
     public function reactions(): HasMany
     {

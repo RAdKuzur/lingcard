@@ -2,28 +2,28 @@
 
 namespace App\Services;
 
-use App\Dictionaries\StatusNewsDictionary;
-use App\DTO\NewsDTO;
+use App\Dictionaries\StatusPostDictionary;
+use App\DTO\PostDTO;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
-use App\Repositories\Interfaces\NewsRepositoryInterface;
+use App\Repositories\Interfaces\PostRepositoryInterface;
 use App\Repositories\Interfaces\ReactionRepositoryInterface;
 use DateTime;
 use Illuminate\Support\Facades\DB;
 
-class NewsService
+class PostService
 {
-    private NewsRepositoryInterface $newsRepository;
+    private PostRepositoryInterface $postRepository;
     private LanguageRepositoryInterface $languageRepository;
     private ReactionRepositoryInterface $reactionRepository;
     public function __construct(
-        NewsRepositoryInterface $newsRepository,
+        PostRepositoryInterface     $postRepository,
         LanguageRepositoryInterface $languageRepository,
         ReactionRepositoryInterface $reactionRepository
     )
     {
-        $this->newsRepository = $newsRepository;
+        $this->postRepository = $postRepository;
         $this->languageRepository = $languageRepository;
         $this->reactionRepository = $reactionRepository;
     }
@@ -31,14 +31,14 @@ class NewsService
     public function all() : array
     {
         $data = [];
-        $news = $this->newsRepository->allSorted();
-        foreach ($news as $item) {
-            $data[] = (new NewsDTO(
-                id: $item->id,
-                content: $item->content,
-                date: (new DateTime($item->date))->format('d.m.Y H:i'),
-                title: $item->title,
-                code: $item->language->code
+        $posts = $this->postRepository->allSorted();
+        foreach ($posts as $post) {
+            $data[] = (new PostDTO(
+                id: $post->id,
+                content: $post->content,
+                date: (new DateTime($post->date))->format('d.m.Y H:i'),
+                title: $post->title,
+                code: $post->language->code
             ))->toArray();
         }
         return $data;
@@ -46,30 +46,30 @@ class NewsService
     public function one($id) : array
     {
         $user = AuthHelper::user();
-        $news = $this->newsRepository->find($id);
+        $post = $this->postRepository->find($id);
         $isLiked = $this->reactionRepository->isLiked($user->id, $id);
         $isDisliked = $this->reactionRepository->isDisliked($user->id, $id);
         $likesCount = $this->reactionRepository->countLikes($id);
         $dislikesCount = $this->reactionRepository->countDislikes($id);
             DB::beginTransaction();
         try {
-            $this->newsRepository->incrementViewsCount($id);
+            $this->postRepository->incrementViewsCount($id);
             DB::commit();
         }
         catch (\Exception $e) {
             DB::rollBack();
             LogHelper::errorLog($e->getTrace(), $e->getMessage());
         }
-        $data = (new NewsDTO(
-            id: $news->id,
-            content: $news->content,
-            date: (new DateTime($news->date))->format('d.m.Y H:i'),
-            title: $news->title,
-            code: $news->language->code,
-            username: $news->user->name,
-            address: $news->address,
-            status: StatusNewsDictionary::get($news->status),
-            viewsCount: $news->views_count,
+        $data = (new PostDTO(
+            id: $post->id,
+            content: $post->content,
+            date: (new DateTime($post->date))->format('d.m.Y H:i'),
+            title: $post->title,
+            code: $post->language->code,
+            username: $post->user->name,
+            address: $post->address,
+            status: StatusPostDictionary::get($post->status),
+            viewsCount: $post->views_count,
             likesCount: $likesCount,
             dislikesCount: $dislikesCount,
             isLiked: $isLiked,
@@ -78,22 +78,22 @@ class NewsService
         return $data;
     }
 
-    public function newsByCode($code) : array
+    public function postsByCode($code) : array
     {
         $language = $this->languageRepository->findByCode($code);
         $data = [];
         if ($language) {
-            $news = $this->newsRepository->findApprovedNewsByLangId($language->id);
-            foreach ($news as $item) {
-                $data[] = (new NewsDTO(
-                    id: $item->id,
-                    content: $item->content,
-                    date: (new DateTime($item->date))->format('d.m.Y H:i'),
-                    title: $item->title,
+            $posts = $this->postRepository->findApprovedPostsByLangId($language->id);
+            foreach ($posts as $post) {
+                $data[] = (new PostDTO(
+                    id: $post->id,
+                    content: $post->content,
+                    date: (new DateTime($post->date))->format('d.m.Y H:i'),
+                    title: $post->title,
                     code: $code,
-                    username: $item->user->name,
-                    address: $item->address,
-                    status: StatusNewsDictionary::get($item->status),
+                    username: $post->user->name,
+                    address: $post->address,
+                    status: StatusPostDictionary::get($post->status),
                 ))->toArray();
             }
         }

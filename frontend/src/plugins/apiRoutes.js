@@ -11,7 +11,7 @@ export const apiRoutes = {
     training: apiUrl + '/training',
     teachable: apiUrl + '/teachable',
     user: apiUrl + '/user',
-    news: apiUrl + '/news',
+    posts: apiUrl + '/posts',
     article: apiUrl + '/articles',
     exceptLanguage: apiUrl + '/except-languages',
     authBroadcast: apiUrl + '/auth/broadcasting',

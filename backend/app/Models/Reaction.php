@@ -8,25 +8,25 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 /**
  *  @property int $id
  * @property int $user_id
- * @property int $news_id
+ * @property int $post_id
  * @property int $status
  *
  * @property User $user
- * @property News $news
+ * @property Post $post
  *
  */
 class Reaction extends Model
 {
     protected $table = 'reactions';
     protected $fillable = [
-        'news_id',
+        'post_id',
         'user_id',
         'status'
     ];
 
-    public function news() : BelongsTo
+    public function post() : BelongsTo
     {
-        return $this->belongsTo(News::class);
+        return $this->belongsTo(Post::class);
     }
     public function user() : BelongsTo
     {

@@ -8,8 +8,8 @@ import {useRedirect} from "../../hooks/useRedirect.js";
 export default function Home() {
     const {redirect} = useRedirect()
     const [language, setLanguage] = useState('')
-    const [languageNews, setLanguageNews] = useState(localStorage.getItem('lang') ?? 'ru')
-    const [news, setNews] = useState([])
+    const [languagePost, setLanguagePost] = useState(localStorage.getItem('lang') ?? 'ru')
+    const [posts, setPosts] = useState([])
     const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false);
     const languageDropdownRef = useRef(null);
 
@@ -19,19 +19,19 @@ export default function Home() {
         { name: 'English', flag: '/flags/en.svg', value: 'en' }
     ];
     useEffect(() => {
-        const fetchNews = async () => {
+        const fetchPosts = async () => {
             try {
-                const lang1 = languageNews;
-                const response = await get(apiRoutes.news + '/' + lang1, {}, {withCredentials: true});
+                const lang1 = languagePost;
+                const response = await get(apiRoutes.posts + '/' + lang1, {}, {withCredentials: true});
                 const data = await response.data;
-                setNews(data);
+                setPosts(data);
                 setLanguage(lang1);
             } catch (error) {
-                console.error('Error fetching news:', error);
+                console.error('Error fetching posts:', error);
             }
         };
-        fetchNews();
-    }, [languageNews]);
+        fetchPosts();
+    }, [languagePost]);
 
     useEffect(() => {
         const handleClickOutside = (e) => {
@@ -48,11 +48,11 @@ export default function Home() {
     }
 
     const handleLanguageChange = (value) => {
-        setLanguageNews(value);
+        setLanguagePost(value);
         setIsLanguageDropdownOpen(false);
     };
 
-    const selectedLanguage = languageOptions.find(l => l.value === languageNews);
+    const selectedLanguage = languageOptions.find(l => l.value === languagePost);
 
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
@@ -105,7 +105,7 @@ export default function Home() {
                                                     className="w-5 h-5 rounded-sm object-cover"
                                                 />
                                                 <span>{lang.name}</span>
-                                                {lang.value === languageNews && (
+                                                {lang.value === languagePost && (
                                                     <svg className="w-4 h-4 text-indigo-600 ml-auto" fill="currentColor" viewBox="0 0 24 24">
                                                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                                                     </svg>
@@ -117,8 +117,8 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                    {news.length > 0 ? (
-                        news.map((e) => (
+                    {posts.length > 0 ? (
+                        posts.map((e) => (
                             <div key={e.id}
                                  className="cursor-pointer bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"
                                  onClick={() => goToArticle(e.id)}>

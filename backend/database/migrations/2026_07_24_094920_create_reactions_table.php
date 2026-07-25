@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('reactions', function (Blueprint $table) {
             $table->id();
             $table->foreignId('user_id')->constrained('users');
-            $table->foreignId('news_id')->constrained('news');
+            $table->foreignId('post_id')->constrained('posts');
             $table->integer('status')->nullable(false);
             $table->timestamps();
         });

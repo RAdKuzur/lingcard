@@ -2,28 +2,28 @@
 
 namespace App\Http\Controllers;
 
-use App\Services\NewsService;
+use App\Services\PostService;
 
-class NewsController extends Controller
+class PostController extends Controller
 {
-    private NewsService $newsService;
+    private PostService $postService;
     public function __construct(
-        NewsService $newsService
+        PostService $postService
     )
     {
-        $this->newsService = $newsService;
+        $this->postService = $postService;
     }
 
     public function all($code = 'ru')
     {
-        $data = $this->newsService->newsByCode($code);
+        $data = $this->postService->postsByCode($code);
         return response()->json([
             'data' => $data
         ]);
     }
     public function one($id)
     {
-        $data = $this->newsService->one($id);
+        $data = $this->postService->one($id);
         return response()->json([
             'data' => $data
         ]);

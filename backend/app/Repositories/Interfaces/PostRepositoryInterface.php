@@ -2,11 +2,11 @@
 
 namespace App\Repositories\Interfaces;
 
-interface NewsRepositoryInterface extends BaseRepositoryInterface
+interface PostRepositoryInterface extends BaseRepositoryInterface
 {
     public function allSorted();
     public function findByLangId($langId);
-    public function findApprovedNewsByLangId($langId);
+    public function findApprovedPostsByLangId($langId);
     public function incrementViewsCount($id);
     public function incrementLikesCount($id);
     public function incrementDislikesCount($id);

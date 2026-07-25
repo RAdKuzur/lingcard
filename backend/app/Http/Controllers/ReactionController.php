@@ -15,22 +15,22 @@ class ReactionController extends Controller
         $this->reactionService = $reactionService;
     }
 
-    public function like($newsId) {
-        $this->reactionService->like($newsId);
+    public function like($postId) {
+        $this->reactionService->like($postId);
         return response()->json([
             'success' => true
         ]);
     }
 
-    public function dislike($newsId) {
-        $this->reactionService->dislike($newsId);
+    public function dislike($postId) {
+        $this->reactionService->dislike($postId);
         return response()->json([
             'success' => true
         ]);
     }
 
-    public function unset($newsId) {
-        $this->reactionService->unset($newsId);
+    public function unset($postId) {
+        $this->reactionService->unset($postId);
         return response()->json([
             'success' => true
         ]);

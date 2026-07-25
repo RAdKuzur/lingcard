@@ -2,7 +2,7 @@
 
 namespace App\Dictionaries;
 
-class StatusNewsDictionary implements BaseDictionary
+class StatusPostDictionary implements BaseDictionary
 {
     public const WAITING = 1;
     public const APPROVED = 2;

@@ -5,21 +5,21 @@ namespace App\Services;
 use App\Dictionaries\StatusReactionDictionary;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
-use App\Repositories\Interfaces\NewsRepositoryInterface;
+use App\Repositories\Interfaces\PostRepositoryInterface;
 use App\Repositories\Interfaces\ReactionRepositoryInterface;
 use Illuminate\Support\Facades\DB;
 
 class ReactionService
 {
     private ReactionRepositoryInterface $reactionRepository;
-    private NewsRepositoryInterface $newsRepository;
+    private PostRepositoryInterface $postRepository;
     public function __construct(
         ReactionRepositoryInterface $reactionRepository,
-        NewsRepositoryInterface $newsRepository
+        PostRepositoryInterface $postRepository
     )
     {
         $this->reactionRepository = $reactionRepository;
-        $this->newsRepository = $newsRepository;
+        $this->postRepository = $postRepository;
     }
 
     public function like($id)
@@ -30,10 +30,10 @@ class ReactionService
             $this->reactionRepository->deleteReaction($user->id, $id, StatusReactionDictionary::DISLIKE);
             $this->reactionRepository->insert([
                 'user_id' => $user->id,
-                'news_id' => $id,
+                'post_id' => $id,
                 'status' => StatusReactionDictionary::LIKE
             ]);
-            $this->newsRepository->incrementLikesCount($id);
+            $this->postRepository->incrementLikesCount($id);
             DB::commit();
         }
         catch (\Exception $e) {
@@ -49,10 +49,10 @@ class ReactionService
             $this->reactionRepository->deleteReaction($user->id, $id, StatusReactionDictionary::LIKE);
             $this->reactionRepository->insert([
                 'user_id' => $user->id,
-                'news_id' => $id,
+                'post_id' => $id,
                 'status' => StatusReactionDictionary::DISLIKE
             ]);
-            $this->newsRepository->incrementDislikesCount($id);
+            $this->postRepository->incrementDislikesCount($id);
             DB::commit();
         }
         catch (\Exception $e) {
@@ -70,10 +70,10 @@ class ReactionService
             if ($reaction) {
                 $this->reactionRepository->delete($reaction->id);
                 if ($reaction->status == StatusReactionDictionary::LIKE) {
-                    $this->newsRepository->decrementLikesCount($id);
+                    $this->postRepository->decrementLikesCount($id);
                 }
                 if ($reaction->status == StatusReactionDictionary::DISLIKE) {
-                    $this->newsRepository->decrementDislikesCount($id);
+                    $this->postRepository->decrementDislikesCount($id);
                 }
             }
             DB::commit();

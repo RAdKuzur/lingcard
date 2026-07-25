@@ -24,48 +24,48 @@ class ReactionRepository implements ReactionRepositoryInterface
     public function delete($id) : int {
         return DB::table('reactions')->where('id', $id)->delete();
     }
-    public function findReaction($userId, $newsId) {
+    public function findReaction($userId, $postId) {
         return Reaction::where(['user_id' => $userId])
-            ->where(['news_id' => $newsId])
+            ->where(['post_id' => $postId])
             ->first();
     }
-    public function deleteReaction($userId, $newsId, $status)
+    public function deleteReaction($userId, $postId, $status)
     {
         return DB::table('reactions')
             ->where(['user_id' => $userId])
-            ->where(['news_id' => $newsId])
+            ->where(['post_id' => $postId])
             ->where(['status' => $status])
             ->delete();
     }
 
-    public function isLiked($userId, $newsId) : bool
+    public function isLiked($userId, $postId) : bool
     {
         return DB::table('reactions')
             ->where(['user_id' => $userId])
-            ->where(['news_id' => $newsId])
+            ->where(['post_id' => $postId])
             ->where(['status' => StatusReactionDictionary::LIKE])
             ->exists();
     }
 
-    public function isDisliked($userId, $newsId) : bool
+    public function isDisliked($userId, $postId) : bool
     {
         return DB::table('reactions')
             ->where(['user_id' => $userId])
-            ->where(['news_id' => $newsId])
+            ->where(['post_id' => $postId])
             ->where(['status' => StatusReactionDictionary::DISLIKE])
             ->exists();
     }
-    public function countLikes($newsId)
+    public function countLikes($postId)
     {
         return DB::table('reactions')
-            ->where(['news_id' => $newsId])
+            ->where(['post_id' => $postId])
             ->where(['status' => StatusReactionDictionary::LIKE])
             ->count();
     }
-    public function countDislikes($newsId)
+    public function countDislikes($postId)
     {
         return DB::table('reactions')
-            ->where(['news_id' => $newsId])
+            ->where(['post_id' => $postId])
             ->where(['status' => StatusReactionDictionary::DISLIKE])
             ->count();
     }

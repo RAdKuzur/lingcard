@@ -20,7 +20,7 @@ class DatabaseSeeder extends Seeder
             AvailableLanguageSeeder::class,
             UserSeeder::class,
             WordSeeder::class,
-            NewsSeeder::class,
+            PostSeeder::class,
             VoteSeeder::class
         ]);
     }

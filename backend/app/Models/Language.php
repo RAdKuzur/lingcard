@@ -17,7 +17,7 @@ use Illuminate\Support\Carbon;
  *
  * @property-read Word[]|HasMany $words
  * @property-read WordTranslation[]|HasMany $wordTranslations
- * @property-read News[]|HasMany $news
+ * @property-read Post[]|HasMany $posts
  *
  * @property-read AvailableLanguage[]|null $baseLanguages
  * @property-read AvailableLanguage[]|null $availableLanguages
@@ -42,9 +42,9 @@ class Language extends Model
         return $this->hasMany(WordTranslation::class, 'target_language_id');
     }
 
-    public function news(): HasMany
+    public function posts(): HasMany
     {
-        return $this->hasMany(News::class, 'language_id');
+        return $this->hasMany(Post::class, 'language_id');
     }
 
     public function baseLanguages() : HasMany

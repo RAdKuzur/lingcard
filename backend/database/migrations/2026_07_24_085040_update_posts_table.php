@@ -11,7 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::table('news', function (Blueprint $table) {
+        Schema::table('posts', function (Blueprint $table) {
             $table->integer('views_count')->default(0);
             $table->integer('likes_count')->default(0);
             $table->integer('dislikes_count')->default(0);
@@ -23,7 +23,7 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::table('news', function (Blueprint $table) {
+        Schema::table('posts', function (Blueprint $table) {
             $table->dropColumn('views_count');
             $table->dropColumn('likes_count');
             $table->dropColumn('dislikes_count');
