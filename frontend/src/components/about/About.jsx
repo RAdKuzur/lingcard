@@ -8,6 +8,7 @@ export default function About() {
     const [countries, setCountries] = useState([])
     const [isHidden, setHidden] = useState(true)
     const [input, setInput] = useState('')
+    const [isMessage, setMessage] = useState(false)
     useEffect(() => {
         async function Languages() {
             const response = await get(apiRoutes.languages, {}, {withCredentials: true})
@@ -24,6 +25,11 @@ export default function About() {
         await post(apiRoutes.suggestions, {
             message: input
         }, {withCredentials: true})
+        setMessage(true)
+        setTimeout(() => {
+            setMessage(false)
+        }, 5000)
+        setHidden(true)
     }
     function hideFeedback() {
         setHidden(true)
@@ -63,7 +69,9 @@ export default function About() {
                                       onInput={(e) => {setInput(e.target.value)}}>
                             </textarea>
                         </div>) : ''}
-
+                        {
+                            isMessage ? (<span className={`font-bold`}>Ваше предложение успешно отправлено!</span>) : ''
+                        }
                         <div className={'flex gap-4'}>
                             {isHidden ? (<button
                                 className={'bg-indigo-600 cursor-pointer p-2 rounded-2xl mt-3'}
