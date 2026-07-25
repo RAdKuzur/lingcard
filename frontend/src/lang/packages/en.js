@@ -20,6 +20,9 @@ export const en = {
         },
         hide: {
             en: "Hide"
+        },
+        success: {
+            en: "Your proposal has been successfully submitted!"
         }
     },
     back: {

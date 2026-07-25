@@ -70,7 +70,7 @@ export default function About() {
                             </textarea>
                         </div>) : ''}
                         {
-                            isMessage ? (<span className={`font-bold`}>Ваше предложение успешно отправлено!</span>) : ''
+                            isMessage ? (<span className={`font-bold`}>{getText(lang.about.success)}</span>) : ''
                         }
                         <div className={'flex gap-4'}>
                             {isHidden ? (<button
