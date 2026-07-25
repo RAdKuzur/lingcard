@@ -11,6 +11,15 @@ export const ru = {
         },
         languages: {
             ru: "Доступные языки"
+        },
+        feedback: {
+            ru: "Связаться с нами"
+        },
+        sendFeedback: {
+            ru: "Отправить"
+        },
+        hide: {
+            ru: "Скрыть"
         }
     },
     back: {

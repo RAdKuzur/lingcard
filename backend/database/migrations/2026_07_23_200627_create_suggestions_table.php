@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('suggestions', function (Blueprint $table) {
             $table->id();
-            $table->string('message')->nullable();
+            $table->text('message')->nullable();
             $table->dateTime('date')->nullable();
             $table->foreignId('user_id')->constrained('users');
             $table->boolean('status')->default(false);

@@ -21,7 +21,8 @@ export const apiRoutes = {
     unset: apiUrl + '/unset-reactions',
     votes: apiUrl + '/votes',
     voice: apiUrl + '/voices',
-    cancelVoice: apiUrl + '/cancel-voices'
+    cancelVoice: apiUrl + '/cancel-voices',
+    suggestions: apiUrl + '/suggestions'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {

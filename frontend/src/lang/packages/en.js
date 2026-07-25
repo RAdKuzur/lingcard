@@ -11,6 +11,15 @@ export const en = {
         },
         languages: {
             en: "Available languages"
+        },
+        feedback: {
+            en: "Contact us"
+        },
+        sendFeedback: {
+            en: "Send"
+        },
+        hide: {
+            en: "Hide"
         }
     },
     back: {

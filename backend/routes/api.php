@@ -7,6 +7,7 @@ use App\Http\Controllers\NewsController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\ProgressController;
 use App\Http\Controllers\ReactionController;
+use App\Http\Controllers\SuggestionController;
 use App\Http\Controllers\TelemetryController;
 use App\Http\Controllers\TrainingController;
 use App\Http\Controllers\VoteController;
@@ -56,6 +57,8 @@ Route::middleware(['throttle:api'])->group(function () {
             Route::get('/votes/{id}', [VoteController::class, 'one'])->name('votes');
             Route::post('/voices/{voteOptionId}', [VoteController::class, 'vote'])->name('vote');
             Route::post('/cancel-voices/{voteOptionId}', [VoteController::class, 'cancelVote'])->name('cancel-vote');
+
+            Route::post('/suggestions', [SuggestionController::class, 'create'])->name('create-suggestions');
         });
     });
 });

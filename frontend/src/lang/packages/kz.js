@@ -11,6 +11,15 @@ export const kz = {
         },
         languages: {
             kz: "Қолжетімді тілдер"
+        },
+        feedback: {
+            kz: "Бізбен байланысу"
+        },
+        sendFeedback: {
+            kz: "Жіберу"
+        },
+        hide: {
+            kz: "Жасыру"
         }
     },
     back: {
