@@ -134,8 +134,9 @@ export default function Navbar() {
                                     </svg>
                                 </div>
                             </div>
-
-                            <ProfileBar />
+                            <div className={'hidden md:flex'}>
+                                <ProfileBar/>
+                            </div>
                             <button
                                 onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
                                 className="md:hidden p-2 rounded-lg hover:bg-slate-100 transition-colors duration-200"
@@ -173,6 +174,16 @@ export default function Navbar() {
                                     {item.label}
                                 </Link>
                             ))}
+                            <Link
+                                key={auth.user?.username}
+                                to={innerRoutes.profile}
+                                onClick={() => setIsMobileMenuOpen(false)}
+                                className="block px-4 py-3 rounded-lg text-base font-medium
+                                             text-slate-700 hover:bg-indigo-50 hover:text-indigo-600
+                                             transition-all duration-200 border-l-4 border-transparent
+                                             hover:border-indigo-500">
+                                {auth.user?.username}
+                            </Link>
                         </div>
                     </div>
                 </div>
