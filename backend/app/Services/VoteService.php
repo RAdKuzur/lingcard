@@ -35,7 +35,8 @@ class VoteService
         foreach ($votes as $vote) {
             $data[] = (new SimpleVoteDTO(
                 id: $vote->id,
-                title: $vote->title
+                title: $vote->title,
+                content: $vote->content,
             ))->toArray();
         }
         return $data;
@@ -62,6 +63,7 @@ class VoteService
         return (new VoteDTO(
             id: $vote->id,
             title: $vote->title,
+            content: $vote->content,
             voteOptions: $data,
             totalCount: $count,
             isActive: $vote->is_active,
@@ -90,7 +92,7 @@ class VoteService
     }
     public function cancelVote($voteOptionId) {
         DB::beginTransaction();
-        try{
+        try {
             $user = AuthHelper::user();
             $this->voiceRepository->deleteVoice($user->id, $voteOptionId);
             DB::commit();

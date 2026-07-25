@@ -9,6 +9,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 /**
  * @property int $id
  * @property string $title
+ * @property string $context
  * @property bool $is_active
  * @property VoteOption[] $voteOptions
  */
@@ -18,6 +19,7 @@ class Vote extends Model
 
     protected $fillable = [
         'title',
+        'content',
         'is_active',
     ];
 

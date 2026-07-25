@@ -14,6 +14,7 @@ return new class extends Migration
         Schema::create('votes', function (Blueprint $table) {
             $table->id();
             $table->string('title')->nullable(false);
+            $table->text('content')->nullable(false);
             $table->boolean('is_active')->default(false);
             $table->timestamps();
         });

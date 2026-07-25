@@ -19,6 +19,7 @@ class VoteSeeder extends Seeder
 
         $voteId = DB::table('votes')->insertGetId([
             'title' => 'Select a new language to add!',
+            'content' => 'This is the first vote on LingCard! Your opinion is extremely important to us, because it is you who shape the future of our project. We invite you to choose the next language to be added for learning.',
             'is_active' => true
         ]);
 
