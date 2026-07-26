@@ -1,4 +1,15 @@
 export const ru = {
+    article: {
+        comments: {
+            ru: "Комментарии"
+        },
+        noComments: {
+            ru: "Нет комментариев"
+        },
+        send: {
+            ru: "Отправить"
+        }
+    },
     about: {
         me: {
             ru: "О нас"
@@ -155,6 +166,9 @@ export const ru = {
     home: {
         news: {
             ru: "Новости"
+        },
+        noNews: {
+            ru: "Нет доступных новостей"
         }
     },
     selectedLanguage: {

@@ -35,6 +35,7 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property Post[] $posts
  * @property Reaction[] $reactions
  * @property Token[] $tokens
+ * @property Comment[] $comments
 */
 #[Fillable(['name', 'email', 'password'])]
 #[Hidden(['password', 'remember_token'])]
@@ -83,7 +84,10 @@ class User extends Authenticatable implements JWTSubject
     {
         return $this->hasMany(Reaction::class);
     }
-
+    public function comments(): HasMany
+    {
+        return $this->hasMany(Comment::class);
+    }
     public function getJWTIdentifier()
     {
         return $this->getKey();

@@ -17,6 +17,7 @@ class PostDTO implements BaseDTO
     public ?int $dislikesCount = null;
     public ?bool $isLiked = null;
     public ?bool $isDisliked = null;
+    public ?array $comments = null;
 
     public function __construct(
         ?int $id = null,
@@ -31,7 +32,8 @@ class PostDTO implements BaseDTO
         ?int $likesCount = null,
         ?int $dislikesCount = null,
         ?bool $isLiked = null,
-        ?bool $isDisliked = null
+        ?bool $isDisliked = null,
+        ?array $comments = null
     )
     {
         $this->id = $id;
@@ -47,6 +49,7 @@ class PostDTO implements BaseDTO
         $this->dislikesCount = $dislikesCount;
         $this->isLiked = $isLiked;
         $this->isDisliked = $isDisliked;
+        $this->comments = $comments;
     }
     public function toArray() : array {
         return [
@@ -62,7 +65,8 @@ class PostDTO implements BaseDTO
             'likes_count' => $this->likesCount,
             'dislikes_count' => $this->dislikesCount,
             'is_liked' => $this->isLiked,
-            'is_disliked' => $this->isDisliked
+            'is_disliked' => $this->isDisliked,
+            'comments' => $this->comments
         ];
     }
 }

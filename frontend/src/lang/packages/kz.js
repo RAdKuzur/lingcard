@@ -1,4 +1,15 @@
 export const kz = {
+    article: {
+        comments: {
+            kz: "Пікірлер"
+        },
+        noComments: {
+            kz: "Пікірлер жоқ"
+        },
+        send: {
+            kz: "Жіберу"
+        }
+    },
     about: {
         me: {
             kz: "Біз туралы"
@@ -155,6 +166,9 @@ export const kz = {
     home: {
         news: {
             kz: "Жаңалықтар"
+        },
+        noNews: {
+            en: 'Жаңалықтар жоқ'
         }
     },
     selectedLanguage: {

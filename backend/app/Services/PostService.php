@@ -3,9 +3,11 @@
 namespace App\Services;
 
 use App\Dictionaries\StatusPostDictionary;
+use App\DTO\CommentDTO;
 use App\DTO\PostDTO;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
+use App\Repositories\Interfaces\CommentRepositoryInterface;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
 use App\Repositories\Interfaces\PostRepositoryInterface;
 use App\Repositories\Interfaces\ReactionRepositoryInterface;
@@ -17,15 +19,18 @@ class PostService
     private PostRepositoryInterface $postRepository;
     private LanguageRepositoryInterface $languageRepository;
     private ReactionRepositoryInterface $reactionRepository;
+    private CommentRepositoryInterface $commentRepository;
     public function __construct(
         PostRepositoryInterface     $postRepository,
         LanguageRepositoryInterface $languageRepository,
-        ReactionRepositoryInterface $reactionRepository
+        ReactionRepositoryInterface $reactionRepository,
+        CommentRepositoryInterface $commentRepository
     )
     {
         $this->postRepository = $postRepository;
         $this->languageRepository = $languageRepository;
         $this->reactionRepository = $reactionRepository;
+        $this->commentRepository = $commentRepository;
     }
 
     public function all() : array
@@ -45,13 +50,24 @@ class PostService
     }
     public function one($id) : array
     {
+        $commentsArray = [];
         $user = AuthHelper::user();
         $post = $this->postRepository->find($id);
         $isLiked = $this->reactionRepository->isLiked($user->id, $id);
         $isDisliked = $this->reactionRepository->isDisliked($user->id, $id);
         $likesCount = $this->reactionRepository->countLikes($id);
         $dislikesCount = $this->reactionRepository->countDislikes($id);
-            DB::beginTransaction();
+        $comments = $this->commentRepository->getComments($id);
+        foreach ($comments as $comment) {
+            $commentsArray[] = (new CommentDTO(
+                id: $comment->id,
+                text: $comment->text,
+                username: $comment->user->name,
+                time: (new DateTime($comment->time))->format('d.m.Y H:i'),
+                is_fixed: $comment->is_fixed,
+            ))->toArray();
+        }
+        DB::beginTransaction();
         try {
             $this->postRepository->incrementViewsCount($id);
             DB::commit();
@@ -73,7 +89,8 @@ class PostService
             likesCount: $likesCount,
             dislikesCount: $dislikesCount,
             isLiked: $isLiked,
-            isDisliked: $isDisliked
+            isDisliked: $isDisliked,
+            comments: $commentsArray
         ))->toArray();
         return $data;
     }
@@ -98,5 +115,25 @@ class PostService
             }
         }
         return $data;
+    }
+
+    public function createComment(CommentDTO $commentDTO, $postId)
+    {
+        DB::beginTransaction();
+        try{
+            $user = AuthHelper::user();
+            $this->commentRepository->insert([
+                'post_id' => $postId,
+                'user_id' => $user->id,
+                'text' => $commentDTO->text,
+                'time' => now(),
+                'is_fixed' => false
+            ]);
+            DB::commit();
+        }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
+        }
     }
 }

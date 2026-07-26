@@ -1,4 +1,15 @@
 export const en = {
+    article: {
+        comments: {
+            en: "Comments"
+        },
+        noComments: {
+            en: "No comments"
+        },
+        send: {
+            en: "Send"
+        }
+    },
     about: {
         me: {
             en: "About us"
@@ -155,6 +166,9 @@ export const en = {
     home: {
         news: {
             en: "News"
+        },
+        noNews: {
+            en: 'No news available'
         }
     },
     selectedLanguage: {

@@ -1,6 +1,6 @@
 import {useEffect, useState} from "react";
 import {get, post} from "../../plugins/request.js";
-import {apiRoutes} from "../../plugins/apiRoutes.js";
+import {apiCreateComment, apiRoutes} from "../../plugins/apiRoutes.js";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import {getText, lang} from "../../lang/lang.js";
 export default function Article() {
@@ -9,6 +9,8 @@ export default function Article() {
     const [isDislike, setDislike] = useState(false)
     const [likeCount, setLikeCount] = useState(0)
     const [dislikeCount, setDislikeCount] = useState(0)
+    const [comments, setComments] = useState([])
+    const [textComment, setTextComment] = useState('')
     useEffect(() => {
         const fetchArticle = async () => {
             const id = window.location.pathname.split('/').pop();
@@ -19,6 +21,7 @@ export default function Article() {
             setDislike(data.is_disliked)
             setLikeCount(data.likes_count)
             setDislikeCount(data.dislikes_count)
+            setComments(data.comments)
         };
         fetchArticle();
     }, [])
@@ -34,12 +37,10 @@ export default function Article() {
             setLikeCount(prev => prev + 1)
             reactLike(id)
         } else if (!isLike) {
-            // Просто ставим лайк
             setLike(true)
             setLikeCount(prev => prev + 1)
             reactLike(id)
         } else {
-            // Убираем лайк
             setLike(false)
             setLikeCount(prev => prev - 1)
             reactUnset(id)
@@ -77,7 +78,15 @@ export default function Article() {
     async function reactUnset(id) {
         await post(apiRoutes.unset + '/' + id, {}, {withCredentials: true})
     }
-
+    async function handleSendComment(text) {
+        const id = window.location.pathname.split('/').pop();
+        if (text !== '') {
+            await post(apiCreateComment(id), {
+                text: text
+            }, {withCredentials: true})
+            window.location.reload()
+        }
+    }
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
             <div className="flex max-w-5xl mx-auto justify-start mb-6">
@@ -154,6 +163,55 @@ export default function Article() {
                                 {dislikeCount}
                             </span>
                         </div>
+                    </div>
+                </div>
+                <div id={"comments"} className={"bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"}>
+                    <div>
+                        <div className="flex items-center gap-3 mb-4">
+                            <h1 className="text-xl font-bold text-slate-800">{getText(lang.article.comments)}</h1>
+                        </div>
+                        <div className="flex items-center gap-3 mb-4">
+                            <input className={'w-full rounded-2xl p-2 outline-2 border-black'} onInput={(e) => {setTextComment(e.target.value)}}></input>
+                            <button className={'bg-indigo-500 p-2 rounded-2xl cursor-pointer'} onClick={() => handleSendComment(textComment)}>
+                                <span className={'text-white font-bold'}>
+                                    {getText(lang.article.send)}
+                                </span>
+                            </button>
+                        </div>
+                        <hr className="border-black-500 mb-3 mt-3"/>
+                        {comments.length > 0 ? (
+                            comments.map((e) => (
+                                <div key={e.id}
+                                     className="bg-white items-center p-8 transition-all">
+                                    <div className={'flex justify-between items-start'}>
+                                        <div className="flex items-center gap-3 mb-4">
+                                            <h6 className="font-bold text-slate-800">{e.username}</h6>
+                                            {e.is_fixed && (
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                     fill="currentColor" className="bi bi-pin" viewBox="0 0 16 16">
+                                                    <path
+                                                        d="M4.146.146A.5.5 0 0 1 4.5 0h7a.5.5 0 0 1 .5.5c0 .68-.342 1.174-.646 1.479-.126.125-.25.224-.354.298v4.431l.078.048c.203.127.476.314.751.555C12.36 7.775 13 8.527 13 9.5a.5.5 0 0 1-.5.5h-4v4.5c0 .276-.224 1.5-.5 1.5s-.5-1.224-.5-1.5V10h-4a.5.5 0 0 1-.5-.5c0-.973.64-1.725 1.17-2.189A6 6 0 0 1 5 6.708V2.277a3 3 0 0 1-.354-.298C4.342 1.674 4 1.179 4 .5a.5.5 0 0 1 .146-.354m1.58 1.408-.002-.001zm-.002-.001.002.001A.5.5 0 0 1 6 2v5a.5.5 0 0 1-.276.447h-.002l-.012.007-.054.03a5 5 0 0 0-.827.58c-.318.278-.585.596-.725.936h7.792c-.14-.34-.407-.658-.725-.936a5 5 0 0 0-.881-.61l-.012-.006h-.002A.5.5 0 0 1 10 7V2a.5.5 0 0 1 .295-.458 1.8 1.8 0 0 0 .351-.271c.08-.08.155-.17.214-.271H5.14q.091.15.214.271a1.8 1.8 0 0 0 .37.282"/>
+                                                </svg>
+                                            )}
+                                        </div>
+                                        <div className="flex items-center gap-2 mb-4">
+                                            <span className="text-slate-500 ml-1">
+                                                {e.time}
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <p className="text-slate-600 leading-relaxed text-lg">
+                                            {e.text}
+                                        </p>
+                                    </div>
+                                </div>
+                            ))
+                        ) : (
+                            <div className="text-center">
+                                <p className="text-slate-500 text-lg">{getText(lang.article.noComments)}</p>
+                            </div>
+                        )}
                     </div>
                 </div>
             </div>

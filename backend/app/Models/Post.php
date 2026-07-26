@@ -22,6 +22,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
  *
  * @property User $user
  * @property Reaction[] $reactions
+ * @property Comment[] $comments
  *
  * @property \Carbon\Carbon $created_at
  * @property \Carbon\Carbon $updated_at
@@ -70,5 +71,9 @@ class Post extends Model
     public function reactions() : HasMany
     {
         return $this->hasMany(Reaction::class);
+    }
+    public function comments() : HasMany
+    {
+        return $this->hasMany(Comment::class);
     }
 }

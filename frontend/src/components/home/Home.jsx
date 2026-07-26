@@ -171,7 +171,7 @@ export default function Home() {
                         ))
                     ) : (
                         <div className="text-center py-12">
-                            <p className="text-slate-500 text-lg">Нет доступных новостей</p>
+                            <p className="text-slate-500 text-lg">{getText(lang.home.noNews)}</p>
                         </div>
                     )}
                 </div>

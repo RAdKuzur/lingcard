@@ -38,3 +38,7 @@ export function apiDictionary(baseLangId, targetLangId, page, limit, search = nu
 export function apiClearWordProgress(id) {
     return apiUrl + '/words/' + id + '/progress'
 }
+
+export function apiCreateComment(id) {
+    return apiUrl + '/posts/' + id + '/comments'
+}
