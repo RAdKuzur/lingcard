@@ -65,6 +65,7 @@ class PostService
                 username: $comment->user->name,
                 time: (new DateTime($comment->time))->format('d.m.Y H:i'),
                 is_fixed: $comment->is_fixed,
+                languageCode: $comment->user->baseLanguage->code
             ))->toArray();
         }
         DB::beginTransaction();

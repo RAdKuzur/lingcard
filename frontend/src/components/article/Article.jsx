@@ -195,7 +195,15 @@ export default function Article() {
                                             )}
                                         </div>
                                         <div className="flex items-center gap-2 mb-4">
-                                            <span className="text-slate-500 ml-1">
+                                            <img
+                                                src={`/flags/${e.language_code}.svg`}
+                                                alt={e.language_code}
+                                                className="w-6 h-6 rounded-sm object-cover"
+                                            />
+                                            <span className="text-sm font-medium text-slate-700">
+                                                {e.language_code}
+                                            </span>
+                                            <span className="text-sm text-slate-500 ml-1">
                                                 {e.time}
                                             </span>
                                         </div>

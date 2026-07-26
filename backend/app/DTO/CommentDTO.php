@@ -9,12 +9,14 @@ class CommentDTO implements BaseDTO
     public ?string $username;
     public ?string $time;
     public ?bool $is_fixed;
+    public ?string $languageCode = null;
     public function __construct(
         ?int $id = null,
         ?string $text = null,
         ?string $username = null,
         ?string $time = null,
-        ?bool $is_fixed = null
+        ?bool $is_fixed = null,
+        ?string $languageCode = null
     )
     {
         $this->id = $id;
@@ -22,6 +24,7 @@ class CommentDTO implements BaseDTO
         $this->username = $username;
         $this->time = $time;
         $this->is_fixed = $is_fixed;
+        $this->languageCode = $languageCode;
     }
     public function toArray(): array
     {
@@ -30,7 +33,8 @@ class CommentDTO implements BaseDTO
             'text' => $this->text,
             'username' => $this->username,
             'time' => $this->time,
-            'is_fixed' => $this->is_fixed
+            'is_fixed' => $this->is_fixed,
+            'language_code' => $this->languageCode
         ];
     }
 
