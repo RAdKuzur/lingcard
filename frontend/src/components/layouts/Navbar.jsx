@@ -47,7 +47,7 @@ export default function Navbar() {
     ];
 
     useEffect(() => {
-        const language = localStorage.getItem('lang') ?? 'ru';
+        const language = localStorage.getItem('lang') ?? 'en';
         setCurrentLang(language);
         localStorage.setItem('lang', language);
     }, []);

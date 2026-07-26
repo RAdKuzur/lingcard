@@ -8,7 +8,7 @@ import {useRedirect} from "../../hooks/useRedirect.js";
 export default function Home() {
     const {redirect} = useRedirect()
     const [language, setLanguage] = useState('')
-    const [languagePost, setLanguagePost] = useState(localStorage.getItem('lang') ?? 'ru')
+    const [languagePost, setLanguagePost] = useState(localStorage.getItem('lang') ?? 'en')
     const [posts, setPosts] = useState([])
     const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false);
     const languageDropdownRef = useRef(null);

@@ -7,7 +7,7 @@ export function getText(label) {
     if (lang) {
         return label[lang]
     }
-    return label.ru
+    return label.en
 }
 
 export function init() {
@@ -20,8 +20,8 @@ export function init() {
         case 'en':
             return en;
         default:
-            return ru;
+            return en;
     }
 }
 
-export const lang= init()
+export const lang = init()
