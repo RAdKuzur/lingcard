@@ -4,6 +4,7 @@ namespace App\Services;
 
 use App\Dictionaries\StatusPostDictionary;
 use App\DTO\CommentDTO;
+use App\DTO\CreatePostDTO;
 use App\DTO\PostDTO;
 use App\Helpers\AuthHelper;
 use App\Helpers\LogHelper;
@@ -130,6 +131,21 @@ class PostService
                 'time' => now(),
                 'is_fixed' => false
             ]);
+            DB::commit();
+        }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
+        }
+    }
+
+    public function create(CreatePostDTO $createPostDTO)
+    {
+        DB::beginTransaction();
+        try{
+            $user = AuthHelper::user();
+            $createPostDTO->setExtraAttributes($user->id);
+            $this->postRepository->insert($createPostDTO->toArray());
             DB::commit();
         }
         catch (\Exception $e) {

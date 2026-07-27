@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\CommentRequest;
+use App\Http\Requests\PostRequest;
 use App\Services\PostService;
 
 class PostController extends Controller
@@ -33,6 +34,14 @@ class PostController extends Controller
     public function createComment(CommentRequest $request, $postId)
     {
         $this->postService->createComment($request->toDTO(), $postId);
+        return response()->json([
+            'success' => true
+        ]);
+    }
+    public function create(PostRequest $request)
+    {
+        $dto = $request->toDTO();
+        $this->postService->create($dto);
         return response()->json([
             'success' => true
         ]);

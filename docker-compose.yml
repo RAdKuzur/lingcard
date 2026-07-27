@@ -38,6 +38,7 @@ services:
       dockerfile: Dockerfile
     volumes:
       - ./frontend:/app
+      - /app/dist
       - /app/node_modules
     networks:
       - network

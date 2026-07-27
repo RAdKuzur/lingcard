@@ -19,6 +19,7 @@ import {useAuth} from "./plugins/AuthContext.jsx";
 import Article from "./components/article/Article.jsx";
 import Vote from "./components/vote/Vote.jsx";
 import VotePage from "./components/vote/VotePage.jsx";
+import CreateArticle from "./components/article/CreateArticle.jsx";
 function App() {
     const auth = useAuth()
     const username = auth.user?.username;
@@ -64,6 +65,11 @@ function App() {
                 <Route path={innerRoutes.articlePath} element={
                     <ProtectedRoute>
                         <Article/>
+                    </ProtectedRoute>
+                }/>
+                <Route path={innerRoutes.article} element={
+                    <ProtectedRoute>
+                        <CreateArticle/>
                     </ProtectedRoute>
                 }/>
                 <Route path={innerRoutes.training} element={

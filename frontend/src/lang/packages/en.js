@@ -1,4 +1,27 @@
 export const en = {
+    createArticle: {
+        create: {
+            en: 'Publish news'
+        },
+        title: {
+            en: 'News title'
+        },
+        content: {
+            en: 'Publication content'
+        },
+        address: {
+            en: 'Address / location'
+        },
+        language: {
+            en: 'Publication language'
+        },
+        button: {
+            en: 'Publish'
+        },
+        article: {
+            en: 'Your publication has been submitted for review by the LingCard administrator! Once it passes moderation, the publication will appear on the main page.'
+        }
+    },
     article: {
         comments: {
             en: "Comments"
@@ -169,6 +192,9 @@ export const en = {
         },
         noNews: {
             en: 'No news available'
+        },
+        createPost: {
+            en: 'Publish news'
         }
     },
     selectedLanguage: {
