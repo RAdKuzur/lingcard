@@ -21,6 +21,9 @@ export default function CreateArticle() {
             const response = await get(apiRoutes.languages, {}, {withCredentials: true})
             const data = await response.data
             setLanguages(data)
+            const enLanguage = data.find(item => item.code === 'en');
+            const enId = enLanguage?.id;
+            setLanguageId(enId)
             setLanguagePost(localStorage.getItem('lang') ?? 'en')
         };
         fetchArticle();
@@ -31,7 +34,7 @@ export default function CreateArticle() {
         setIsLanguageDropdownOpen(false);
     };
     async function handleCreatePost() {
-        if(address !== '' && title !== ''  && content !== '') {
+        if(address !== '' && title !== ''  && content !== '' && languageId !== 0) {
             try {
                 await post(apiRoutes.posts, {
                     title: title,
