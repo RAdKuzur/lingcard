@@ -62,7 +62,7 @@ export default function Dictionary() {
                         </div>
                         <div>
                             <label className="text-sm font-medium text-slate-600 block mb-2">{getText(language.dictionary.lang2)}</label>
-                            <SelectLanguage setLang={setLang2} value={lang2} />
+                            <SelectLanguage setLang={setLang2} value={lang2} exceptId={lang1}/>
                         </div>
                     </div>
                     <button
