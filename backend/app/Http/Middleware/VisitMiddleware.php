@@ -35,6 +35,10 @@ class VisitMiddleware
             'user_agent' => request()->userAgent(),
             'time' => now()
         ]);
-        return $next($request);
+        $startTime = microtime(true) * 1000;
+        $response = $next($request);
+        $duration = (microtime(true) * 1000) - $startTime;
+        $this->prometheusService->setHttpDurationRequests($duration);
+        return $response;
     }
 }

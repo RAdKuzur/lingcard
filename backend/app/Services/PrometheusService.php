@@ -8,13 +8,18 @@ use Illuminate\Support\Facades\DB;
 
 class PrometheusService implements PrometheusServiceInterface
 {
-    public function getMetrics() : string
+    public function getMetrics(): string
     {
         $httpTotalRequests = $this->getHttpTotalRequests();
         $totalErrors = $this->getTotalErrors();
-        return
-            "http_total_requests " . $httpTotalRequests . "\n" .
-            "total_errors " . $totalErrors . "\n";
+        $durationSum = $this->getHttpDurationSum();
+        $avgDuration = $httpTotalRequests > 0 ? $durationSum / $httpTotalRequests : 0;
+        return implode("\n", [
+            "http_total_requests " . $httpTotalRequests,
+            "total_errors " . $totalErrors,
+            "http_duration_avg_ms " . number_format($avgDuration, 2, '.', ''),
+            "http_duration_sum_ms " . number_format($durationSum, 2, '.', ''),
+        ]);
     }
     public function incHttpTotalRequests() : void
     {
@@ -38,8 +43,23 @@ class PrometheusService implements PrometheusServiceInterface
             Cache::put('total_errors', 1);
         }
     }
+    public function setHttpDurationRequests($duration): void
+    {
+        Cache::increment('http_duration_sum', (int)($duration * 100));
+    }
     public function getTotalErrors() : int
     {
         return Cache::get('total_errors') ?? 0;
+    }
+    public function getHttpDurationSum(): float
+    {
+        return Cache::get('http_duration_sum', 0) / 100;
+    }
+    public function getHttpDurationRequests(): float
+    {
+        $sum = $this->getHttpDurationSum();
+        $count = $this->getHttpTotalRequests();
+
+        return $count > 0 ? $sum / $count : 0;
     }
 }
