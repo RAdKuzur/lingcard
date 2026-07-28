@@ -23,13 +23,16 @@ class VoteSeeder extends Seeder
             'is_active' => true
         ]);
 
-
         $languages = DB::table('languages')->where(['is_active' => false])->get();
         foreach ($languages as $language) {
+            $content = json_encode([
+                'picture' => "/flags/$language->code.svg",
+                'code' => $language->code
+            ]);
             DB::table('vote_options')->insert([
                 'vote_id' => $voteId,
                 'title' => $language->name,
-                'content' => $language->code
+                'content' => $content
             ]);
         }
     }
