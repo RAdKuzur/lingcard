@@ -3,7 +3,6 @@
 namespace Database\Seeders;
 
 use App\Dictionaries\StatusPostDictionary;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 
@@ -14,118 +13,52 @@ class PostSeeder extends Seeder
      */
     public function run(): void
     {
+        $userId = DB::table('users')->where(['name' => 'LingCard'])->first()->id;
+        $ruLangId = DB::table('languages')->where(['code' => 'ru'])->first()->id;
+        $enLangId = DB::table('languages')->where(['code' => 'en'])->first()->id;
+        $kzLangId = DB::table('languages')->where(['code' => 'kz'])->first()->id;
+        $posts = [
+            [
+                'content' => 'Всем привет! Рады сообщить, что LingCard открыт для всех желающих изучать языки разных стран. Если интересующего вас языка нет, сообщите нам или проголосуйте за его добавление.',
+                'date' => now(),
+                'title' => 'Стартуем!',
+                'language_id' => $ruLangId,
+                'user_id' => $userId,
+                'address' => 'Россия',
+                'status' => StatusPostDictionary::APPROVED,
+                'views_count' => 0,
+                'likes_count' => 0,
+                'dislikes_count' => 0
+            ],
+            [
+                'content' => 'Барлығына сәлем! LingCard түрлі елдердің тілдерін үйренгісі келетіндердің бәріне ашық екенін хабарлауға қуаныштымыз. Егер сізді қызықтыратын тіл жоқ болса, бізге хабарлаңыз немесе оны қосуды дауыстап қолдаңыз.',
+                'date' => now(),
+                'title' => 'Бастаймыз!',
+                'language_id' => $kzLangId,
+                'user_id' => $userId,
+                'address' => 'Қазақстан',
+                'status' => StatusPostDictionary::APPROVED,
+                'views_count' => 0,
+                'likes_count' => 0,
+                'dislikes_count' => 0
+            ],
+            [
+                'content' => 'Hello everyone! We are happy to announce that LingCard is now open to everyone who wants to learn languages from different countries. If your language of interest is not available, let us know or vote for its addition.',
+                'date' => now(),
+                'title' => 'We\'re starting!',
+                'language_id' => $enLangId,
+                'user_id' => $userId,
+                'address' => 'United Kingdom',
+                'status' => StatusPostDictionary::APPROVED,
+                'views_count' => 0,
+                'likes_count' => 0,
+                'dislikes_count' => 0
+            ]
+        ];
+
         DB::table('posts')->truncate();
-
-        DB::table('posts')->insert([
-            'content' => 'С этого момента наш проект LingCard можно считать запущенным и готовым к экспуатации!',
-            'date' => now(),
-            'title' => 'LingCard запущено!',
-            'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Россия',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
-        DB::table('posts')->insert([
-            'content' => 'Мы добавили русский и казахский языки для обучения!',
-            'date' => now()->addSecond(),
-            'title' => 'Русский и Қазақша',
-            'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Россия',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
-
-        DB::table('posts')->insert([
-            'content' => 'Осы сәттен бастап біздің LingCard жобасын іске қосылды және пайдалануға дайын деп санауға болады!',
-            'date' => now(),
-            'title' => 'LingCard іске қосылды!',
-            'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Қазақстан',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
-        DB::table('posts')->insert([
-            'content' => 'Біз оқытуға арналған орыс және қазақ тілдерін қостық!',
-            'date' => now()->addSecond(),
-            'title' => 'Русский и Қазақша',
-            'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Қазақстан',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
-
-        DB::table('posts')->insert([
-            'content' => 'From this moment, our LingCard project can be considered launched and ready for use!',
-            'date' => now(),
-            'title' => 'LingCard is launched!',
-            'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Europe',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
-        DB::table('posts')->insert([
-            'content' => 'We have added Russian and Kazakh languages for learning!',
-            'date' => now()->addSecond(),
-            'title' => 'Russian and Kazakh',
-            'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Europe',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
-
-        DB::table('posts')->insert([
-            'content' => 'Был добавлен английский язык для изучения (более 5000 слов)',
-            'date' => now()->addSeconds(2),
-            'title' => 'Английский язык!',
-            'language_id' => DB::table('languages')->where(['code' => 'ru'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Россия',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
-        DB::table('posts')->insert([
-            'content' => 'Ағылшын тілі оқу үшін қосылды (5000-нан астам сөз)',
-            'date' => now()->addSeconds(2),
-            'title' => 'Ағылшын тілі!',
-            'language_id' => DB::table('languages')->where(['code' => 'kz'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Қазақстан',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
-        DB::table('posts')->insert([
-            'content' => 'English language has been added for learning (more than 5000 words)',
-            'date' => now()->addSeconds(2),
-            'title' => 'English language!',
-            'language_id' => DB::table('languages')->where(['code' => 'en'])->first()->id,
-            'user_id' => DB::table('users')->where(['name' => 'LingCard'])->first()->id,
-            'address' => 'Europe',
-            'status' => StatusPostDictionary::APPROVED,
-            'views_count' => 0,
-            'likes_count' => 0,
-            'dislikes_count' => 0
-        ]);
+        foreach ($posts as $post) {
+            DB::table('posts')->insert($post);
+        }
     }
 }
