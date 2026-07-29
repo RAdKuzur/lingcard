@@ -61,8 +61,8 @@ export default function VotePage() {
                                         <div className="flex items-center gap-4 justify-between">
                                             <div className="flex items-center gap-4">
                                                 <img
-                                                    src={`/flags/${e.content}.svg`}
-                                                    alt={e.content}
+                                                    src={(JSON.parse(e.content)).picture}
+                                                    alt={(JSON.parse(e.content)).code}
                                                     className="w-12 h-12 rounded-full object-cover border-2 border-slate-200 flex-shrink-0"
                                                 />
                                                 <h1 className="text-xl font-bold text-slate-800">{e.title}</h1>
