@@ -19,8 +19,6 @@ class WordSeeder extends Seeder
         DB::table('words')->truncate();
         DB::table('word_translations')->truncate();
         DB::table('courses')->truncate();
-        Artisan::call('app:kz-ru-word-command');
-        Artisan::call('app:en-ru-word-command');
-        Artisan::call('app:en-kz-word-command');
+        Artisan::call('app:transform-jsonl-data-command');
     }
 }
