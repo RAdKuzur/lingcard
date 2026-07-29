@@ -167,7 +167,7 @@ export const kz = {
             kz: "Құпиясөз"
         },
         baseLang: {
-            kz: "Негізгі тіл"
+            kz: "Сіздің тіліңіз"
         },
         targetLang: {
             kz: "Оқылатын тіл"
@@ -251,7 +251,7 @@ export const kz = {
     profile: {
         error: {
             sameLanguages: {
-                kz: "Негізгі тіл мен оқылатын тіл бірдей бола алмайды"
+                kz: "Сіздің тіліңіз мен оқылатын тіл бірдей бола алмайды"
             },
             bothLanguages: {
                 kz: "Екі тілді де таңдаңыз"
@@ -272,7 +272,7 @@ export const kz = {
             kz: "Профиль"
         },
         baseLang: {
-            kz: "Негізгі тіл"
+            kz: "Сіздің тіліңіз"
         },
         targetLang: {
             kz: "Оқылатын тіл"

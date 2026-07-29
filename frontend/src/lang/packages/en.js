@@ -167,7 +167,7 @@ export const en = {
             en: "Password"
         },
         baseLang: {
-            en: "Base language"
+            en: "Your language"
         },
         targetLang: {
             en: "Target language"
@@ -251,7 +251,7 @@ export const en = {
     profile: {
         error: {
             sameLanguages: {
-                en: "Base language and target language cannot be the same"
+                en: "Your language and target language cannot be the same"
             },
             bothLanguages: {
                 en: "Please select both languages"
@@ -272,7 +272,7 @@ export const en = {
             en: "Profile"
         },
         baseLang: {
-            en: "Base language"
+            en: "Your language"
         },
         targetLang: {
             en: "Target language"

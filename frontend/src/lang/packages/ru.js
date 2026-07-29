@@ -167,7 +167,7 @@ export const ru = {
             ru: "Пароль"
         },
         baseLang: {
-            ru: "Базовый язык"
+            ru: "Ваш язык"
         },
         targetLang: {
             ru: "Язык изучения"
@@ -251,7 +251,7 @@ export const ru = {
     profile: {
         error: {
             sameLanguages: {
-                ru: "Базовый язык и язык изучения не могут быть одинаковыми"
+                ru: "Ваш язык и язык изучения не могут быть одинаковыми"
             },
             bothLanguages: {
                 ru: "Пожалуйста, выберите оба языка"
@@ -272,7 +272,7 @@ export const ru = {
             ru: "Профиль"
         },
         baseLang: {
-            ru: "Базовый язык"
+            ru: "Ваш язык"
         },
         targetLang: {
             ru: "Язык изучения"

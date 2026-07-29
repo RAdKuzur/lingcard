@@ -17,13 +17,26 @@ export default function Support() {
                     </div>
                     <p className="text-slate-600 leading-relaxed text-lg">
                         {getText(lang.support.content)} <br/>
-                        <a href={innerRoutes.support}><u>donation.link1</u></a> <br/>
-                        <a href={innerRoutes.support}><u>donation.link2</u></a> <br/>
-                        <a href={innerRoutes.support}><u>donation.link3</u></a> <br/>
+                        <a href={innerRoutes.support} className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors group">
+                            <span className="text-lg group-hover:underline">
+                                donation.link1
+                            </span>
+                        </a>
+                        <a href={innerRoutes.support} className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors group">
+                            <span className="text-lg group-hover:underline">
+                                donation.link2
+                            </span>
+                        </a>
+                        <a href={innerRoutes.support} className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors group">
+                            <span className="text-lg group-hover:underline">
+                                donation.link3
+                            </span>
+                        </a>
                     </p>
                 </div>
 
-                <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
+                <div
+                    className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
                     <div className="flex items-center justify-center gap-3 mb-4">
                         <h1 className="text-2xl font-bold text-slate-800 text-center">
                             {getText(lang.support.heroes)}
