@@ -37,7 +37,11 @@ export default function Navbar() {
         about: {
             link: innerRoutes.about,
             label: getText(lang.navbar.options.about)
-        }
+        },
+        support: {
+            link: innerRoutes.support,
+            label: getText(lang.navbar.options.support)
+        },
     }
 
     const languageOptions = [
@@ -95,7 +99,7 @@ export default function Navbar() {
     return (
         <>
             <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-lg border-b border-slate-200/50 shadow-sm">
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div className="max-w-12xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between items-center h-16 md:h-20">
                         <div className="flex-shrink-0">
                             <Logo />

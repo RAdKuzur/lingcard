@@ -67,9 +67,9 @@ export default function Home() {
                             <h1 className="text-2xl font-bold text-slate-800">{getText(lang.home.news)}</h1>
                         </div>
                         <div className={'flex items-center gap-4 justify-between'}>
-                            <div className="flex items-center gap-3">
-                                <button className={'bg-indigo-500 font-bold p-2 text-white rounded-2xl cursor-pointer'} onClick={handleCreatePost}>{getText(lang.home.createPost)}</button>
-                            </div>
+                            {/*<div className="flex items-center gap-3">*/}
+                            {/*    <button className={'bg-indigo-500 font-bold p-2 text-white rounded-2xl cursor-pointer'} onClick={handleCreatePost}>{getText(lang.home.createPost)}</button>*/}
+                            {/*</div>*/}
                             <div className="flex items-center gap-2 sm:gap-4">
                                 <div className="relative" ref={languageDropdownRef}>
                                     <button

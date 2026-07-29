@@ -20,6 +20,7 @@ import Article from "./components/article/Article.jsx";
 import Vote from "./components/vote/Vote.jsx";
 import VotePage from "./components/vote/VotePage.jsx";
 import CreateArticle from "./components/article/CreateArticle.jsx";
+import Support from "./components/support/Support.jsx";
 function App() {
     const auth = useAuth()
     const username = auth.user?.username;
@@ -105,6 +106,11 @@ function App() {
                 <Route path={innerRoutes.about} element={
                     <ProtectedRoute>
                         <About/>
+                    </ProtectedRoute>
+                }/>
+                <Route path={innerRoutes.support} element={
+                    <ProtectedRoute>
+                        <Support/>
                     </ProtectedRoute>
                 }/>
             </Routes>

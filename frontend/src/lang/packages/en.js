@@ -1,4 +1,26 @@
 export const en = {
+    footer: {
+        about: {
+            en: 'About Us'
+        },
+        support: {
+            en: 'Support Us!'
+        }
+    },
+    support: {
+        label: {
+            en: 'Support Us!'
+        },
+        content: {
+            en: 'Thank you for using our project, we exist only thanks to you! Support us to help our project grow:'
+        },
+        heroes: {
+            en: 'Our Heroes'
+        },
+        beFirst: {
+            en: 'Become our first hero'
+        }
+    },
     createArticle: {
         create: {
             en: 'Publish news'
@@ -83,7 +105,10 @@ export const en = {
             },
             about: {
                 en: "About us"
-            }
+            },
+            support: {
+                en: 'Support Us!'
+            },
         }
     },
     profileBar: {
