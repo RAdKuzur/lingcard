@@ -25,6 +25,7 @@ class WordTranslationService
                 id: $wordTranslation->id,
                 text: $wordTranslation->word->text,
                 translation: $wordTranslation->translation,
+                transcription: $wordTranslation->word->transcription,
                 level: LevelDictionary::get($wordTranslation->word->level),
             ));
         }

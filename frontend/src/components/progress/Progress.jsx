@@ -125,6 +125,7 @@ export default function Progress() {
                                     repeat={e.repeat_time}
                                     progressId={e.id}
                                     activeTab = {activeTab}
+                                    transcription={e.transcription}
                                 />
                             ))
                         ) : (

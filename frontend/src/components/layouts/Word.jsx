@@ -3,7 +3,7 @@ import {apiClearWordProgress} from "../../plugins/apiRoutes.js";
 import {useState} from "react";
 import {getText, lang} from "../../lang/lang.js";
 
-export default function Word({ word, translation, level = null, repeat = null , progressId = null, activeTab = 1}) {
+export default function Word({ word, translation, level = null, repeat = null , progressId = null, activeTab = 1, transcription = ''}) {
     const [isHidden, setHidden] = useState(false)
     async function handleProgress(id) {
         const response = await del(
@@ -37,6 +37,7 @@ export default function Word({ word, translation, level = null, repeat = null , 
             className={`flex items-center gap-4 w-full px-5 py-3 bg-white rounded-xl border border-slate-200 hover:border-slate-300 hover:shadow-md transition-all duration-200 ${isHidden ? 'hidden' : ''}`}>
             <div className="flex-1 min-w-0">
                 <div className="font-semibold text-slate-800 truncate">{word}</div>
+                {transcription === null || transcription === '' ? '' : (<div className="text-slate-500 text-sm truncate">[{transcription}]</div>)}
                 <div className="text-slate-500 text-sm truncate">{translation}</div>
             </div>
             <div className="flex items-center gap-2 flex-shrink-0">

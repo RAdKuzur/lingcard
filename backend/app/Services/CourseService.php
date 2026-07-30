@@ -35,6 +35,7 @@ class CourseService
                 id: $course->id,
                 text: $course->wordTranslation->word->text,
                 translation: $course->wordTranslation->translation,
+                transcription: $course->wordTranslation->word->transcription,
                 level: LevelDictionary::get($course->wordTranslation->word->level),
                 repeatTime: (new DateTime($course->last_time_repeated))->format('d.m.Y H:i:s')
             ))->toArray();
@@ -91,6 +92,7 @@ class CourseService
                 id: $course->id,
                 text: $course->wordTranslation->word->text,
                 translation: $course->wordTranslation->translation,
+                transcription: $course->wordTranslation->word->transcription,
                 level: LevelDictionary::get($course->wordTranslation->word->level),
                 status: $course->status,
                 repeat: $course->repeat

@@ -93,6 +93,7 @@ export default function Dictionary() {
                                     word={e.text}
                                     translation={e.translation}
                                     level={e.level}
+                                    transcription={e.transcription}
                                 />
                             ))
                         ) : (

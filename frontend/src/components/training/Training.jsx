@@ -25,6 +25,7 @@ export default function Training() {
     const [level, setLevel] = useState('')
     const [status, setStatus] = useState('')
     const [repeat, setRepeat] = useState(0)
+    const [transcription, setTranscription] = useState('')
 
     function show() {
         setWord(!word);
@@ -97,6 +98,7 @@ export default function Training() {
             setLevel(data.level)
             setStatus(data.status)
             setRepeat(data.repeat)
+            setTranscription(data.transcription)
         }
         else {
             setTraining(studyStatuses.waiting)
@@ -156,6 +158,10 @@ export default function Training() {
                                 <div className="text-4xl font-bold text-slate-800 mb-4 tracking-tight">
                                     {translation}
                                 </div>
+                                { transcription === '' || transcription === null ? '' : (<div
+                                    className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
+                                    [{transcription}]
+                                </div>) }
                                 <div
                                     className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
                                     {text}
