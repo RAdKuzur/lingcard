@@ -30,7 +30,7 @@ export default function Card({opacityCard, direction, status, repeat, translatio
 
                     <div className="py-8">
                         <div className="text-4xl font-bold text-slate-800 mb-4 tracking-tight">
-                            {translation}
+                            {text}
                         </div>
                         {transcription === '' || transcription === null ? '' : (<div
                             className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
@@ -38,7 +38,7 @@ export default function Card({opacityCard, direction, status, repeat, translatio
                         </div>)}
                         <div
                             className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
-                            {text}
+                            {translation}
                         </div>
                     </div>
 

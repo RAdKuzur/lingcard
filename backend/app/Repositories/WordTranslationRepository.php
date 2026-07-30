@@ -31,8 +31,8 @@ class WordTranslationRepository implements WordTranslationRepositoryInterface
     public function getByTargetLanguageIdAndBaseLanguageId($baseLanguageId, $targetLanguageId) {
         return WordTranslation::with('word')
             ->join('words', 'word_translations.word_id', '=', 'words.id')
-            ->where('word_translations.target_language_id', $targetLanguageId)
-            ->where('words.language_id', $baseLanguageId)
+            ->where('word_translations.target_language_id', $baseLanguageId)
+            ->where('words.language_id', $targetLanguageId)
             ->select('word_translations.*', 'word_translations.id as translation_id')
             ->get();
     }
