@@ -83,7 +83,12 @@ export default function Register() {
                         <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(langauge.register.username)}</div>
                         <input
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
-                            onInput={(e) => setUsername(e.target.value)}
+                            onInput={(e) => {
+                                const latinAndNumbers = e.target.value.replace(/[^a-zA-Z0-9]/g, '');
+                                e.target.value = latinAndNumbers;
+                                setUsername(latinAndNumbers);
+                            }}
+                            value={username}
                         />
                     </div>
 
