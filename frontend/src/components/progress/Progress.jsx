@@ -4,8 +4,10 @@ import ButtonBack from "../layouts/ButtonBack.jsx";
 import { get } from "../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import {getText, lang} from "../../lang/lang.js";
+import Loading from "../layouts/Loading.jsx";
 
 export default function Progress() {
+    const [isLoading, setLoading] = useState(false)
     const [activeTab, setActiveTab] = useState(1);
     const [page, setPage] = useState(1);
     const [limit] = useState(10);
@@ -37,6 +39,7 @@ export default function Progress() {
     }
 
     async function handleProgress(status, page = 1, limit = 10, value = '') {
+        setLoading(true)
         let url = `${apiRoutes.progress}/${status}?page=${page}&limit=${limit}`;
         if (value) {
             url = url + '&search=' + value;
@@ -51,6 +54,7 @@ export default function Progress() {
         setAmountWords(await response.amountWords);
         setWords(data);
         setSearch(value)
+        setLoading(false)
     }
 
     function totalPages() {
@@ -108,32 +112,34 @@ export default function Progress() {
                         <div className="flex-1 max-w-xs">
                             <input
                                 type="text"
-                                placeholder={getText(lang.progress.chooseLabel)}
+                                placeholder={''}
                                 className="w-full px-4 py-2 text-sm border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-all duration-200"
                                 onInput={(e) => handleProgress(activeTab, page, limit, e.target.value)}
                             />
                         </div>
                     </div>
-                    <div className="space-y-3 max-h-[50vh] overflow-y-auto">
-                        {words.length > 0 ? (
-                            words.map((e) => (
-                                <Word
-                                    key={e.id}
-                                    word={e.text}
-                                    translation={e.translation}
-                                    level={e.level}
-                                    repeat={e.repeat_time}
-                                    progressId={e.id}
-                                    activeTab = {activeTab}
-                                    transcription={e.transcription}
-                                />
-                            ))
-                        ) : (
-                            <div className="text-center py-12 text-slate-400">
-                                <p className="text-lg">{getText(lang.progress.noWords)}</p>
-                            </div>
-                        )}
-                    </div>
+                    {isLoading ? (<Loading/>) : (
+                        <div className="space-y-3 max-h-[50vh] overflow-y-auto">
+                            {words.length > 0 ? (
+                                words.map((e) => (
+                                    <Word
+                                        key={e.id}
+                                        word={e.text}
+                                        translation={e.translation}
+                                        level={e.level}
+                                        repeat={e.repeat_time}
+                                        progressId={e.id}
+                                        activeTab={activeTab}
+                                        transcription={e.transcription}
+                                    />
+                                ))
+                            ) : (
+                                <div className="text-center py-12 text-slate-400">
+                                    <p className="text-lg">{getText(lang.progress.noWords)}</p>
+                                </div>
+                            )}
+                        </div>
+                    )}
                 </div>
 
                 {words.length > 0 && (
