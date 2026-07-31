@@ -2,7 +2,7 @@ import {innerRoutes} from "../../plugins/routes.js";
 import {useEffect, useRef, useState} from "react";
 import {get} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
-import {getText, lang} from "../../lang/lang.js";
+import {getText, lang, languageOptions} from "../../lang/lang.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 
 export default function Home() {
@@ -13,12 +13,6 @@ export default function Home() {
     const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false);
     const languageDropdownRef = useRef(null);
 
-    const languageOptions = [
-        { name: 'Қазақша', flag: '/flags/kz.svg', value: 'kz' },
-        { name: 'Русский', flag: '/flags/ru.svg', value: 'ru' },
-        { name: 'English', flag: '/flags/en.svg', value: 'en' },
-        { name: 'Français', flag: '/flags/fr.svg', value: 'fr' }
-    ];
     useEffect(() => {
         const fetchPosts = async () => {
             try {

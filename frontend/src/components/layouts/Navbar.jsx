@@ -4,7 +4,7 @@ import Logo from "./Logo.jsx";
 import {innerRoutes} from "../../plugins/routes.js";
 import {useAuth} from "../../plugins/AuthContext.jsx";
 import {useEffect, useState, useRef} from "react";
-import {getText, lang} from "../../lang/lang.js";
+import {getText, lang, languageOptions} from "../../lang/lang.js";
 
 export default function Navbar() {
     const auth = useAuth();
@@ -44,12 +44,6 @@ export default function Navbar() {
         },
     }
 
-    const languageOptions = [
-        { name: 'Қазақша', flag: '/flags/kz.svg', value: 'kz' },
-        { name: 'Русский', flag: '/flags/ru.svg', value: 'ru' },
-        { name: 'English', flag: '/flags/en.svg', value: 'en' },
-        { name: 'Français', flag: '/flags/fr.svg', value: 'fr' }
-    ];
 
     useEffect(() => {
         const language = localStorage.getItem('lang') ?? 'en';
