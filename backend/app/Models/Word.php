@@ -11,6 +11,7 @@ use Illuminate\Support\Carbon;
 /**
  * @property int $id
  * @property string $text
+ * @property string $transcription
  * @property int $language_id
  * @property int $level
  * @property Carbon $created_at
@@ -25,6 +26,7 @@ class Word extends Model
 
     protected $fillable = [
         'text',
+        'transcription',
         'language_id',
         'level',
     ];
