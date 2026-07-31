@@ -32,7 +32,7 @@ class TransformJsonlDataCommand extends Command
                     $word = json_decode($line);
                     $wordId = DB::table('words')->insertGetId([
                         'text' => $word->{$language},
-                        'transcription' => isset($word->{$transcription}) ? $word->{$transcription} : null,
+                        'transcription' => isset($word->transcription) ? $word->transcription : null,
                         'language_id' => $firstLanguage->id,
                         'level' => $word->level
                     ]);

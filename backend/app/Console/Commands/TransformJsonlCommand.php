@@ -16,19 +16,23 @@ class TransformJsonlCommand extends Command
      */
     public function handle()
     {
-        $baseFilePath = base_path('data/words/kz/words_fr.jsonl');
-        $createdFilePath = base_path('data/words/kz/fr.jsonl');
-        $file = fopen($baseFilePath, 'r');
+        $words = [];
+        $baseFilePath = base_path('data/portuguese.json');
+        $createdFilePath = base_path('data/pt.jsonl');
+        $file = file_get_contents($baseFilePath);
         $file2 = fopen($createdFilePath, 'w');
-        while (($line = fgets($file)) !== false) {
-            $word = json_decode($line);
-            $data = [
-                'kz' => strtolower($word->kz),
-                'fr' => strtolower($word->fr),
-                'level' => $word->level,
-            ];
-            fwrite($file2, json_encode($data, JSON_UNESCAPED_UNICODE) . PHP_EOL);
+
+        $data = json_decode($file, true);
+        foreach ($data as $item) {
+            if(!in_array($this->getWordField($item), $words)) {
+                $words[] = $this->getWordField($item) ;
+                $json = [
+                    'pt' => $this->getWordField($item)
+                ];
+                fwrite($file2, json_encode($json, JSON_UNESCAPED_UNICODE) . PHP_EOL);
+            }
         }
+        fclose($file2);
     }
     public function level($index)
     {
@@ -45,6 +49,37 @@ class TransformJsonlCommand extends Command
                 return 5;
             case $index >= 5000:
                 return 6;
+        }
+    }
+    public function levelCEFR($level)
+    {
+        switch ($level) {
+            case 'A1':
+                return 1;
+            case 'A2':
+                return 2;
+            case 'B1':
+                return 3;
+            case 'B2':
+                return 4;
+            case 'C1':
+                return 5;
+            case 'C2':
+                return 6;
+            default:
+                return 6;
+        }
+    }
+
+    function getWordField($entry) {
+        // Проверяем наличие разных полей
+        if (isset($entry['root_word'])) {
+            return $entry['root_word'];
+        } else
+        if (isset($entry['word'])) {
+            return strtolower($entry['word']);
+        } else {
+            throw new \Exception('Word not found');
         }
     }
 }

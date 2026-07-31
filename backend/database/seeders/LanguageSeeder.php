@@ -33,7 +33,7 @@ class LanguageSeeder extends Seeder
         DB::table('languages')->insert([
             'name' => 'Español',
             'code' => 'es',
-            'is_active' => false
+            'is_active' => true
         ]);
         DB::table('languages')->insert([
             'name' => 'Français',
@@ -43,7 +43,7 @@ class LanguageSeeder extends Seeder
         DB::table('languages')->insert([
             'name' => 'Deutsch',
             'code' => 'de',
-            'is_active' => false
+            'is_active' => true
         ]);
         DB::table('languages')->insert([
             'name' => 'Italiano',
@@ -53,7 +53,7 @@ class LanguageSeeder extends Seeder
         DB::table('languages')->insert([
             'name' => 'Português',
             'code' => 'pt',
-            'is_active' => false
+            'is_active' => true
         ]);
         DB::table('languages')->insert([
             'name' => 'Nederlands',
@@ -73,22 +73,22 @@ class LanguageSeeder extends Seeder
         DB::table('languages')->insert([
             'name' => '中文',
             'code' => 'cn',
-            'is_active' => false
+            'is_active' => true
         ]);
         DB::table('languages')->insert([
             'name' => '日本語',
             'code' => 'jp',
-            'is_active' => false
+            'is_active' => true
         ]);
         DB::table('languages')->insert([
             'name' => '한국어',
             'code' => 'kr',
-            'is_active' => false
+            'is_active' => true
         ]);
         DB::table('languages')->insert([
             'name' => 'العربية',
             'code' => 'sa',
-            'is_active' => false
+            'is_active' => true
         ]);
         DB::table('languages')->insert([
             'name' => 'हिन्दी',

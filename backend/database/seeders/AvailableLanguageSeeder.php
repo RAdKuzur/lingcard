@@ -17,7 +17,7 @@ class AvailableLanguageSeeder extends Seeder
         $availableCodes = [
             'ru' => ['en', 'kz' , 'fr'],
             'kz' => ['en', 'ru' , 'fr'],
-            'en' => ['ru', 'kz' , 'fr'],
+            'en' => ['ru', 'kz' , 'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
             'fr' => ['en', 'kz' , 'ru'],
         ];
         foreach ($availableCodes as $code => $languages) {
