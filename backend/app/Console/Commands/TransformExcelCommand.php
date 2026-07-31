@@ -16,19 +16,21 @@ class TransformExcelCommand extends Command
      */
     public function handle()
     {
-        $filepath = base_path() . "/data/excel/words.xlsx";
-
+        $index = 0;
+        $filepath = base_path() . "/data/excel/fr.xlsx";
         $spreadsheet = IOFactory::load($filepath);
         $worksheet = $spreadsheet->getActiveSheet();
         $rows = $worksheet->toArray();
-        $filePath = base_path() . "/data/words/base/ru.jsonl";
+        $filePath = base_path() . "/data/words/base/fr.jsonl";
         $file = fopen($filePath, "w");
         foreach ($rows as $row) {
-            $data = json_encode([
-                'ru' => $row[0],
-            ], JSON_UNESCAPED_UNICODE);
-            fwrite($file, $data . PHP_EOL);
-            echo $row[0]. "\n";
+            if ($row[0] && $index < 5000) {
+                $data = json_encode([
+                    'fr' => $row[0],
+                ], JSON_UNESCAPED_UNICODE);
+                fwrite($file, $data . PHP_EOL);
+                $index = $index + 1;
+            }
         }
         fclose($file);
     }

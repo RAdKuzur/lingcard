@@ -38,7 +38,7 @@ class LanguageSeeder extends Seeder
         DB::table('languages')->insert([
             'name' => 'Français',
             'code' => 'fr',
-            'is_active' => false
+            'is_active' => true
         ]);
         DB::table('languages')->insert([
             'name' => 'Deutsch',

@@ -14,38 +14,21 @@ class AvailableLanguageSeeder extends Seeder
     public function run(): void
     {
         DB::table('available_languages')->truncate();
-        $ruLanguage = DB::table('languages')->where('code', 'ru')->first();
-        $kzLanguage = DB::table('languages')->where('code', 'kz')->first();
-        $enLanguage = DB::table('languages')->where('code', 'en')->first();
-
-        //ru-kz
-        DB::table('available_languages')->insert([
-            'base_language_id' => $ruLanguage->id,
-            'target_language_id' => $kzLanguage->id,
-        ]);
-        DB::table('available_languages')->insert([
-            'base_language_id' => $kzLanguage->id,
-            'target_language_id' => $ruLanguage->id,
-        ]);
-
-        //en-ru
-        DB::table('available_languages')->insert([
-            'base_language_id' => $enLanguage->id,
-            'target_language_id' => $ruLanguage->id,
-        ]);
-        DB::table('available_languages')->insert([
-            'base_language_id' => $ruLanguage->id,
-            'target_language_id' => $enLanguage->id,
-        ]);
-
-        //en-kz
-        DB::table('available_languages')->insert([
-            'base_language_id' => $enLanguage->id,
-            'target_language_id' => $kzLanguage->id,
-        ]);
-        DB::table('available_languages')->insert([
-            'base_language_id' => $kzLanguage->id,
-            'target_language_id' => $enLanguage->id,
-        ]);
+        $availableCodes = [
+            'ru' => ['en', 'kz' , 'fr'],
+            'kz' => ['en', 'ru' , 'fr'],
+            'en' => ['ru', 'kz' , 'fr'],
+            'fr' => ['en', 'kz' , 'ru'],
+        ];
+        foreach ($availableCodes as $code => $languages) {
+            $baseLanguage = DB::table('languages')->where('code', $code)->first();
+            foreach ($languages as $language) {
+                $targetLanguage = DB::table('languages')->where('code', $language)->first();
+                DB::table('available_languages')->insert([
+                    'base_language_id' =>  $baseLanguage->id,
+                    'target_language_id' => $targetLanguage->id
+                ]);
+            }
+        }
     }
 }

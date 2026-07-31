@@ -1,6 +1,7 @@
 import {ru} from "./packages/ru.js";
 import {kz} from "./packages/kz.js";
 import {en} from "./packages/en.js";
+import {fr} from "./packages/fr.js";
 
 export function getText(label) {
     const lang = localStorage.getItem('lang');
@@ -19,6 +20,8 @@ export function init() {
             return kz;
         case 'en':
             return en;
+        case 'fr':
+            return fr;
         default:
             return en;
     }

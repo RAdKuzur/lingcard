@@ -27,6 +27,7 @@ class TransformJsonlDataCommand extends Command
                 $targetLanguage = str_replace('.jsonl', '', $baseLanguage);
                 $secondLanguage = DB::table('languages')->where(['code' => $targetLanguage])->first();
                 $fileDescriptor = fopen($baseFilePath. '/' .$language . '/' . $baseLanguage , 'r');
+                echo "Загружаю языковой пакет $firstLanguage->code -  $secondLanguage->code\n";
                 while (($line = fgets($fileDescriptor)) !== false) {
                     $word = json_decode($line);
                     $wordId = DB::table('words')->insertGetId([

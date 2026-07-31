@@ -16,7 +16,8 @@ export default function Home() {
     const languageOptions = [
         { name: 'Қазақша', flag: '/flags/kz.svg', value: 'kz' },
         { name: 'Русский', flag: '/flags/ru.svg', value: 'ru' },
-        { name: 'English', flag: '/flags/en.svg', value: 'en' }
+        { name: 'English', flag: '/flags/en.svg', value: 'en' },
+        { name: 'Français', flag: '/flags/fr.svg', value: 'fr' }
     ];
     useEffect(() => {
         const fetchPosts = async () => {
