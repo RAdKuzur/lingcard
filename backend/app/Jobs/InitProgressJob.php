@@ -40,21 +40,25 @@ class InitProgressJob implements ShouldQueue
         DB::beginTransaction();
         try {
             $wordTranslations = (new WordTranslationRepository())->getByTargetLanguageIdAndBaseLanguageId($this->baseLanguageId, $this->targetLanguageId);
+            $insertData = [];
             foreach ($wordTranslations as $wordTranslation) {
-                DB::table('courses')->insert([
+                $insertData[] = [
                     'word_translation_id' => $wordTranslation->translation_id,
                     'repeat' => 0,
                     'status' => StatusWordDictionary::NONE,
                     'user_id' => $this->userId,
                     'last_time_repeated' => now()
-                ]);
+                ];
+            }
+            if (!empty($insertData)) {
+                DB::table('courses')->insert($insertData);
             }
             DB::commit();
         }
         catch (\Exception $e) {
             DB::rollBack();
             LogHelper::errorLog($e->getTrace(), $e->getMessage());
+            throw $e;
         }
-
     }
 }
