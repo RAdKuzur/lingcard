@@ -19,6 +19,13 @@ class AvailableLanguageSeeder extends Seeder
             'kz' => ['en', 'ru' , 'fr'],
             'en' => ['ru', 'kz' , 'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
             'fr' => ['en', 'kz' , 'ru'],
+            'cn' => ['en'],
+            'de' => ['en'],
+            'es' => ['en'],
+            'jp' => ['en'],
+            'kr' => ['en'],
+            'pt' => ['en'],
+            'sa' => ['en']
         ];
         foreach ($availableCodes as $code => $languages) {
             $baseLanguage = DB::table('languages')->where('code', $code)->first();
