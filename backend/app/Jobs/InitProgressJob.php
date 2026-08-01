@@ -41,7 +41,7 @@ class InitProgressJob implements ShouldQueue
         try {
             $wordTranslations = (new WordTranslationRepository())->getByTargetLanguageIdAndBaseLanguageId($this->baseLanguageId, $this->targetLanguageId);
             $insertData = [];
-            foreach ($wordTranslations as $wordTranslation) {
+            foreach ($wordTranslations as $index => $wordTranslation) {
                 $insertData[] = [
                     'word_translation_id' => $wordTranslation->translation_id,
                     'repeat' => 0,
@@ -49,6 +49,11 @@ class InitProgressJob implements ShouldQueue
                     'user_id' => $this->userId,
                     'last_time_repeated' => now()
                 ];
+                if (!empty($insertData) && $index % 500 === 0) {
+                    DB::table('courses')->insert($insertData);
+                    DB::commit();
+                    $insertData = [];
+                }
             }
             if (!empty($insertData)) {
                 DB::table('courses')->insert($insertData);
