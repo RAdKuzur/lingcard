@@ -24,6 +24,7 @@ Route::middleware(['throttle:api'])->group(function () {
         Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
         Route::get('/active-languages', [LanguageController::class, 'allActive'])->name('active-languages');
         Route::get('/except-languages/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
+        Route::get('/map-languages', [LanguageController::class, 'map'])->name('map-languages');
         Route::post('/login', [AuthController::class, 'login'])->name('login');
         Route::post('/register', [AuthController::class, 'register'])->name('register');
         Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');

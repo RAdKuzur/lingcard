@@ -131,7 +131,7 @@ export default function Profile() {
                                     setErrorMessage('')
                                     setSuccessMessage('')
                                 }}
-                                exceptId={targetLang}
+                                // exceptId={targetLang}
                             />
                         </div>
                         <div>

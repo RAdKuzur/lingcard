@@ -36,4 +36,12 @@ class LanguageController extends Controller
             'data' => $languages
         ]);
     }
+
+    public function map() {
+        $map = $this->languageService->map();
+        return response()->json([
+            'success' => true,
+            'data' => $map
+        ]);
+    }
 }
