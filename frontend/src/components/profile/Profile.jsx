@@ -160,15 +160,11 @@ export default function Profile() {
                     )}
 
                     <button
-                        className={`mt-4 w-full px-6 py-2.5 font-medium rounded-xl transition-all duration-200 shadow-lg ${
-                            isButtonDisabled()
-                                ? 'bg-slate-300 cursor-not-allowed text-slate-500 shadow-slate-300/25'
-                                : 'bg-emerald-500 hover:bg-emerald-600 text-white shadow-emerald-500/25 hover:shadow-emerald-500/35'
-                        }`}
+                        className={'mt-4 w-full px-6 py-2.5 font-medium rounded-xl transition-all duration-200 shadow-lg ' +
+                            'bg-emerald-500 hover:bg-emerald-600 text-white shadow-emerald-500/25 hover:shadow-emerald-500/35'}
                         onClick={changeProfile}
-                        disabled={isButtonDisabled()}
                     >
-                        {isButtonDisabled() ? getText(lang.profile.noChanged) : getText(lang.profile.buttonChange)}
+                        {getText(lang.profile.buttonChange)}
                     </button>
                 </div>
 
