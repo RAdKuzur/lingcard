@@ -1,0 +1,3183 @@
+{"kz":"аға","de":"älterer bruder","level":1}
+{"kz":"ағайынды","de":"brüder","level":2}
+{"kz":"ағайын-туған","de":"verwandte","level":2}
+{"kz":"ағалы-інілі","de":"geschwister","level":2}
+{"kz":"ақсүйек","de":"aristokrat","level":4}
+{"kz":"ана","de":"mutter","level":1}
+{"kz":"апалы-сіңілі","de":"geschwister","level":2}
+{"kz":"армандаушы","de":"träumer","level":3}
+{"kz":"ата","de":"großvater","level":1}
+{"kz":"ата-баба","de":"vorfahren","level":2}
+{"kz":"әже","de":"großmutter","level":1}
+{"kz":"әйел","de":"frau, frau","level":1}
+{"kz":"әке","de":"vater","level":1}
+{"kz":"әке-шеше, ата-ана","de":"eltern","level":1}
+{"kz":"әпке","de":"ältere schwester","level":2}
+{"kz":"әріптес","de":"kollege","level":3}
+{"kz":"бажа","de":"ehemänner der schwestern untereinander","level":5}
+{"kz":"бала","de":"kind, junge","level":1}
+{"kz":"балдыз","de":"die jüngeren brüder und schwestern der frau","level":5}
+{"kz":"бауыр","de":"blutsverwandte","level":3}
+{"kz":"бәсекелес","de":"konkurrent, rivale","level":4}
+{"kz":"бозбала","de":"junger mann","level":3}
+{"kz":"бойжеткен","de":"junge frau","level":3}
+{"kz":"болжағыш","de":"prädiktor","level":5}
+{"kz":"бос сөзге құмар кісі","de":"müßiger redner, redner","level":5}
+{"kz":"бөле","de":"kinder von schwestern untereinander","level":5}
+{"kz":"бөспе","de":"angeber","level":4}
+{"kz":"бөтен адам","de":"fremder","level":3}
+{"kz":"білімдар","de":"universalgelehrter","level":4}
+{"kz":"данышпан","de":"salbei","level":4}
+{"kz":"дос","de":"freund","level":1}
+{"kz":"егіз","de":"zwilling","level":3}
+{"kz":"ер азамат, еркек","de":"mann","level":2}
+{"kz":"ерлі-зайыптылар","de":"ehepartner","level":4}
+{"kz":"жағымпаз","de":"schmeichler","level":5}
+{"kz":"жалқау","de":"faul","level":3}
+{"kz":"жасөспірім","de":"teenager","level":3}
+{"kz":"жастар","de":"jugend","level":2}
+{"kz":"жау","de":"feind","level":2}
+{"kz":"жезде","de":"ehemann der älteren schwester","level":4}
+{"kz":"жеңге","de":"schwiegertochter, ehefrau des älteren bruders","level":4}
+{"kz":"жеткіншек","de":"jüngere generation","level":3}
+{"kz":"жиен","de":"neffe","level":3}
+{"kz":"жігіт","de":"junge","level":2}
+{"kz":"зейнеткер","de":"rentner(n)","level":3}
+{"kz":"келін","de":"schwiegertochter, ehefrau jr. bruder","level":3}
+{"kz":"кемпір","de":"alte dame, oma","level":3}
+{"kz":"көрші","de":"nachbar","level":2}
+{"kz":"көшбасшы","de":"führer","level":4}
+{"kz":"күйеу","de":"ehemann","level":2}
+{"kz":"күйеу бала","de":"ehemann der jüngeren schwester","level":4}
+{"kz":"қайын ата","de":"vater des ehemanns\/der ehefrau","level":4}
+{"kz":"қайын ене","de":"mutter des ehemanns\/der ehefrau","level":4}
+{"kz":"қайын жұрт","de":"schwiegereltern","level":4}
+{"kz":"қарағым","de":"liebevolle ansprache an jüngere","level":3}
+{"kz":"қарт адам","de":"alter mann","level":2}
+{"kz":"қарт әйел","de":"ältere frau","level":3}
+{"kz":"қарындас","de":"jüngere schwester (für bruder)","level":3}
+{"kz":"қиялшыл","de":"träumer","level":4}
+{"kz":"құрбы","de":"freundin","level":2}
+{"kz":"құрдас","de":"peer","level":3}
+{"kz":"қыз","de":"mädchen, tochter","level":1}
+{"kz":"нағашы","de":"mütterlicher verwandter","level":4}
+{"kz":"нәресте","de":"baby","level":3}
+{"kz":"негізін салушы","de":"gründer","level":5}
+{"kz":"немере","de":"enkel","level":2}
+{"kz":"ойшыл","de":"denker","level":4}
+{"kz":"ойы бір","de":"gleichgesinnte","level":4}
+{"kz":"отбасы","de":"familie","level":1}
+{"kz":"сәби","de":"baby","level":2}
+{"kz":"серіктес","de":"verbündeter, partner","level":4}
+{"kz":"скептик","de":"skeptiker","level":5}
+{"kz":"сыншы","de":"kritiker","level":4}
+{"kz":"сіңлі","de":"kleine schwester (für schwester)","level":3}
+{"kz":"түлек","de":"absolvent","level":3}
+{"kz":"тілектес","de":"gute besserung","level":4}
+{"kz":"ұл","de":"sohn","level":1}
+{"kz":"ұсынушы","de":"träger","level":5}
+{"kz":"шал","de":"alter mann","level":2}
+{"kz":"іні","de":"jüngerer bruder","level":2}
+{"kz":"автобус","de":"bus","level":1}
+{"kz":"алаң","de":"quadrat","level":2}
+{"kz":"астана, елорда","de":"hauptstadt","level":3}
+{"kz":"асхана","de":"esszimmer","level":2}
+{"kz":"аудан","de":"bezirk","level":2}
+{"kz":"аула","de":"hof","level":2}
+{"kz":"аурухана","de":"krankenhaus","level":2}
+{"kz":"ауылдық жер","de":"landschaft","level":3}
+{"kz":"аяқ киім жөндеу","de":"schuhreparatur","level":3}
+{"kz":"аялдама","de":"stoppen","level":2}
+{"kz":"әкімдік","de":"akimat","level":4}
+{"kz":"бағдаршам","de":"ampel","level":3}
+{"kz":"бақ","de":"garten","level":1}
+{"kz":"бақша","de":"garten","level":2}
+{"kz":"балабақша","de":"kindergarten","level":2}
+{"kz":"банк","de":"bank","level":1}
+{"kz":"ғимарат","de":"gebäude","level":3}
+{"kz":"даңғыл","de":"avenue","level":3}
+{"kz":"дәмхана","de":"cafe","level":2}
+{"kz":"дәріхана","de":"apotheke","level":3}
+{"kz":"дүкен","de":"geschäft","level":1}
+{"kz":"дүңгіршек","de":"kiosk","level":4}
+{"kz":"емдеу-сауықтыру орталығы","de":"gesundheits- und wellnesszentrum","level":5}
+{"kz":"емхана","de":"klinik","level":3}
+{"kz":"ескерткіш","de":"monument","level":3}
+{"kz":"жағалау","de":"ufer","level":3}
+{"kz":"жанармай бекеті","de":"tankstelle","level":4}
+{"kz":"жатақхана","de":"schlafsaal","level":3}
+{"kz":"жедел жәрдем","de":"krankenwagen","level":3}
+{"kz":"зауыт","de":"fabrik","level":3}
+{"kz":"институт","de":"institut","level":3}
+{"kz":"көлік","de":"transport","level":2}
+{"kz":"көше","de":"straße","level":1}
+{"kz":"көшірме орталығы","de":"kopierzentrum","level":4}
+{"kz":"кітап дүкені","de":"buchhandlung","level":3}
+{"kz":"кітапхана","de":"bibliothek","level":3}
+{"kz":"қақпа","de":"tore","level":3}
+{"kz":"қала","de":"stadt","level":1}
+{"kz":"қиылыс","de":"kreuzung","level":3}
+{"kz":"қоғамдық көлік","de":"öffentliche verkehrsmittel","level":4}
+{"kz":"қонақүй","de":"hotel","level":3}
+{"kz":"қызмет","de":"service","level":3}
+{"kz":"мәдениет орталығы","de":"kulturzentrum","level":4}
+{"kz":"мейрамхана","de":"restaurant","level":2}
+{"kz":"мекеме","de":"institution","level":3}
+{"kz":"мекенжай","de":"wohnort","level":4}
+{"kz":"мектеп","de":"schule","level":1}
+{"kz":"метро","de":"metro","level":1}
+{"kz":"мешіт","de":"moschee","level":3}
+{"kz":"монша","de":"badehaus","level":3}
+{"kz":"мұражай","de":"museum","level":2}
+{"kz":"ойын-сауық орталығы","de":"einkaufs- und unterhaltungszentrum","level":4}
+{"kz":"орталық","de":"center","level":2}
+{"kz":"орын","de":"ort","level":1}
+{"kz":"пошта","de":"post","level":2}
+{"kz":"сағат жөндеу","de":"uhrenreparatur","level":3}
+{"kz":"сауда орталығы","de":"einkaufszentrum","level":3}
+{"kz":"сауда үйі","de":"handelshaus","level":3}
+{"kz":"саябақ","de":"park","level":2}
+{"kz":"спорт кешені","de":"sportkomplex","level":4}
+{"kz":"станция, бекет","de":"station","level":2}
+{"kz":"сұлулық салоны","de":"schönheitssalon","level":3}
+{"kz":"сырты","de":"außenseite","level":3}
+{"kz":"такси","de":"taxi","level":1}
+{"kz":"троллейбус","de":"obus","level":2}
+{"kz":"университет","de":"universität","level":2}
+{"kz":"үй","de":"haus","level":1}
+{"kz":"шаштараз","de":"salon","level":3}
+{"kz":"шеберхана","de":"werkstatt","level":3}
+{"kz":"шеті","de":"(seine) kante","level":3}
+{"kz":"шипажай","de":"sanatorium","level":4}
+{"kz":"шіркеу","de":"kirche","level":3}
+{"kz":"ықшамаудан","de":"mikrobezirk","level":4}
+{"kz":"ағаш жәшік","de":"holzkiste","level":3}
+{"kz":"айна","de":"spiegel","level":2}
+{"kz":"асүй","de":"küche","level":2}
+{"kz":"ауа баптағыш","de":"klimaanlage","level":4}
+{"kz":"әжетхана","de":"toilette","level":2}
+{"kz":"әжетхана, дәретхана","de":"toilette","level":2}
+{"kz":"баспалдақ, саты","de":"leiter","level":3}
+{"kz":"бассейн","de":"pool","level":2}
+{"kz":"бесік","de":"wiege","level":4}
+{"kz":"бөлме","de":"zimmer","level":2}
+{"kz":"бөшке","de":"fass","level":3}
+{"kz":"бұрыш","de":"ecke","level":2}
+{"kz":"газ баллоны","de":"gasflasche","level":4}
+{"kz":"газ плитасы","de":"gasherd","level":3}
+{"kz":"дәліз","de":"korridor","level":3}
+{"kz":"еден","de":"boden","level":2}
+{"kz":"елеу","de":"sieb","level":4}
+{"kz":"есік","de":"tür","level":1}
+{"kz":"жайма","de":"blatt","level":3}
+{"kz":"жарық","de":"licht","level":2}
+{"kz":"жастық","de":"kissen","level":2}
+{"kz":"жатын бөлме","de":"schlafzimmer","level":3}
+{"kz":"жәшік","de":"kasten","level":3}
+{"kz":"жеке үй","de":"privathaus","level":3}
+{"kz":"жиhаз","de":"möbel","level":3}
+{"kz":"жорық құтысы","de":"reiseflasche","level":5}
+{"kz":"жуынатын бөлме","de":"badezimmer","level":3}
+{"kz":"жіп","de":"faden","level":2}
+{"kz":"зат","de":"artikel","level":2}
+{"kz":"ине","de":"nadel","level":2}
+{"kz":"картон жәшік","de":"pappkarton","level":4}
+{"kz":"кәрзеңке","de":"korb","level":3}
+{"kz":"кереует","de":"bett","level":2}
+{"kz":"кесе","de":"schüssel","level":3}
+{"kz":"көрпе","de":"decke","level":3}
+{"kz":"кілем","de":"teppich","level":2}
+{"kz":"кілт","de":"schlüssel","level":2}
+{"kz":"кір жуу машинасы","de":"waschmaschine","level":3}
+{"kz":"кіреберіс бөлме","de":"flur","level":4}
+{"kz":"қабат","de":"boden","level":2}
+{"kz":"қабырға","de":"wand","level":2}
+{"kz":"қағаз қалдықтары","de":"altpapier","level":5}
+{"kz":"қайшы","de":"schere","level":3}
+{"kz":"қап","de":"tasche","level":3}
+{"kz":"қара жәшік","de":"blackbox","level":3}
+{"kz":"қасық","de":"löffel","level":2}
+{"kz":"қоқыс","de":"müll","level":2}
+{"kz":"қонақ бөлме","de":"wohnzimmer, flur","level":3}
+{"kz":"қорап","de":"kasten","level":2}
+{"kz":"құлып","de":"sperren","level":3}
+{"kz":"құты, фляга","de":"flasche","level":4}
+{"kz":"лифт","de":"aufzug","level":2}
+{"kz":"майлық","de":"serviette","level":3}
+{"kz":"матрац","de":"matratze","level":3}
+{"kz":"метал сынығы","de":"altmetall","level":5}
+{"kz":"микротолқынды пеш","de":"mikrowellenofen","level":4}
+{"kz":"ожау","de":"schöpfkelle","level":4}
+{"kz":"ойыншық","de":"spielzeug","level":2}
+{"kz":"оқтау","de":"nudelholz","level":4}
+{"kz":"орындық","de":"stuhl","level":1}
+{"kz":"оттегі баллоны","de":"sauerstoffflasche","level":5}
+{"kz":"пәтер","de":"wohnung","level":2}
+{"kz":"пышақ","de":"messer","level":2}
+{"kz":"сандық","de":"kasten","level":4}
+{"kz":"сауыт","de":"gefäß, behälter","level":4}
+{"kz":"сөре","de":"regal","level":3}
+{"kz":"сурет","de":"malerei","level":2}
+{"kz":"сыпырғыш","de":"besen","level":3}
+{"kz":"таба","de":"pfanne","level":3}
+{"kz":"табақ","de":"gericht","level":3}
+{"kz":"теледидар","de":"fernseher","level":2}
+{"kz":"терезе","de":"fenster","level":1}
+{"kz":"тоңазытқыш","de":"kühlschrank","level":3}
+{"kz":"төсек","de":"bett","level":3}
+{"kz":"тұрмыстық заттар","de":"haushaltsgeräte","level":4}
+{"kz":"түсқағаз","de":"tapete","level":4}
+{"kz":"үйдің төбесі","de":"decke","level":3}
+{"kz":"үстел","de":"tisch","level":1}
+{"kz":"үтік","de":"eisen","level":3}
+{"kz":"шайқасық","de":"teelöffel","level":3}
+{"kz":"шам","de":"lampe","level":2}
+{"kz":"шамадан, жолсандық","de":"koffer","level":3}
+{"kz":"шанышқы","de":"gabel","level":2}
+{"kz":"шаңсорғыш","de":"staubsauger","level":3}
+{"kz":"шелек","de":"eimer","level":2}
+{"kz":"шкаф","de":"kleiderschrank","level":2}
+{"kz":"шыны сауыт, колба","de":"flasche","level":5}
+{"kz":"шыны, әйнек","de":"glas","level":2}
+{"kz":"шыныаяқ","de":"tasse","level":2}
+{"kz":"ыдыс","de":"gerichte","level":2}
+{"kz":"ақыл","de":"geist","level":2}
+{"kz":"ақыл-парасат, сана","de":"intelligenz","level":4}
+{"kz":"арқа","de":"zurück","level":2}
+{"kz":"асқазан","de":"magen","level":3}
+{"kz":"ауыз","de":"mund","level":1}
+{"kz":"аяқ","de":"bein","level":1}
+{"kz":"бас","de":"kopf","level":1}
+{"kz":"бауыр","de":"leber","level":3}
+{"kz":"бел","de":"kreuz","level":3}
+{"kz":"бет","de":"gesicht","level":1}
+{"kz":"бұйра шаш","de":"lockiges haar","level":3}
+{"kz":"бұлшық ет","de":"muskel","level":4}
+{"kz":"бүйрек","de":"nieren","level":4}
+{"kz":"дене бітімі","de":"körperbau","level":4}
+{"kz":"дене мүшелері","de":"körperteile","level":3}
+{"kz":"елестету","de":"vorstellung","level":4}
+{"kz":"ерін","de":"lippe","level":2}
+{"kz":"ес, жады","de":"erinnerung","level":3}
+{"kz":"жақ","de":"wange","level":2}
+{"kz":"желке","de":"hinterkopf","level":4}
+{"kz":"жүз","de":"gesicht, aussehen","level":2}
+{"kz":"жүрек","de":"herz","level":2}
+{"kz":"иек","de":"kinn","level":3}
+{"kz":"иық","de":"schulter","level":2}
+{"kz":"кекіл","de":"knall","level":4}
+{"kz":"кеуде","de":"brust","level":3}
+{"kz":"көз","de":"auge","level":1}
+{"kz":"көзқарас","de":"schau, meinung","level":4}
+{"kz":"көкірек","de":"brustkorb","level":4}
+{"kz":"көңіл күй","de":"stimmung","level":3}
+{"kz":"кірпік","de":"wimpern","level":4}
+{"kz":"қабақ","de":"augenlid","level":4}
+{"kz":"қарақат көз","de":"schwarze augen","level":3}
+{"kz":"қарашық","de":"schüler","level":4}
+{"kz":"қарын","de":"magen","level":3}
+{"kz":"қас","de":"augenbraue","level":2}
+{"kz":"қиғаш қас","de":"hochgezogene augenbrauen","level":5}
+{"kz":"қол","de":"hand","level":1}
+{"kz":"құлақ","de":"ohr","level":2}
+{"kz":"қыр мұрын","de":"gerade nase","level":3}
+{"kz":"маңдай","de":"stirn","level":3}
+{"kz":"мең","de":"mol","level":3}
+{"kz":"ми","de":"gehirn","level":2}
+{"kz":"мойын","de":"nacken","level":2}
+{"kz":"мұрт","de":"schnurrbart","level":2}
+{"kz":"мұрын","de":"nase","level":1}
+{"kz":"мінез","de":"charakter","level":3}
+{"kz":"назар","de":"aufmerksamkeit","level":2}
+{"kz":"несеп жолы","de":"harnleiter","level":6}
+{"kz":"өкпе","de":"lunge","level":3}
+{"kz":"өкше","de":"ferse","level":3}
+{"kz":"парасат, интеллект","de":"intelligenz","level":4}
+{"kz":"пікір","de":"meinung","level":3}
+{"kz":"сақал","de":"bart","level":2}
+{"kz":"самай","de":"tempel","level":4}
+{"kz":"саусақ","de":"finger","level":2}
+{"kz":"сезім","de":"gefühl","level":3}
+{"kz":"соқырішек","de":"appendizitis","level":5}
+{"kz":"сүйек","de":"knochen","level":2}
+{"kz":"тамақ","de":"kehle","level":2}
+{"kz":"тамыр","de":"vene","level":3}
+{"kz":"түсінік","de":"verständnis","level":3}
+{"kz":"тырнақ","de":"nagel","level":2}
+{"kz":"тізе","de":"knie","level":2}
+{"kz":"тіл","de":"sprache","level":1}
+{"kz":"тіс","de":"zahn","level":1}
+{"kz":"ұйқы безі","de":"pankreas","level":6}
+{"kz":"шаш","de":"haar","level":1}
+{"kz":"іш","de":"magen","level":2}
+{"kz":"ішек","de":"darm","level":4}
+{"kz":"әліпби","de":"alphabet","level":3}
+{"kz":"әліппе","de":"abc","level":3}
+{"kz":"әріп","de":"brief","level":2}
+{"kz":"бaстауыш мектеп","de":"grundschule","level":3}
+{"kz":"баға","de":"grad","level":2}
+{"kz":"белгі","de":"zeichen","level":2}
+{"kz":"бестік","de":"fünf","level":3}
+{"kz":"биіктік","de":"höhe","level":3}
+{"kz":"бояу","de":"farbstoff","level":2}
+{"kz":"бөлшек","de":"teil, bruch","level":3}
+{"kz":"білім","de":"wissen","level":2}
+{"kz":"білім ордасы","de":"bildungseinrichtung","level":4}
+{"kz":"білім ісі","de":"angelegenheit der bildung","level":4}
+{"kz":"білімді ұрпақ","de":"gebildete generation","level":4}
+{"kz":"грант иесі","de":"stipendiat","level":5}
+{"kz":"ғылым негіздері","de":"grundlagen der wissenschaft","level":4}
+{"kz":"ғылыми мақала","de":"wissenschaftlicher artikel","level":4}
+{"kz":"дауыс ырғағы","de":"intonation","level":5}
+{"kz":"дәйекше, апостроф","de":"apostroph","level":5}
+{"kz":"дәптер","de":"notizbuch","level":2}
+{"kz":"дәріс","de":"vortrag","level":3}
+{"kz":"дене шынықтыру","de":"körperkultur","level":3}
+{"kz":"диплом","de":"diplom","level":3}
+{"kz":"доп","de":"ball","level":1}
+{"kz":"дұрыс жазу ережесі","de":"rechtschreibregeln","level":4}
+{"kz":"дыбыс","de":"klang","level":2}
+{"kz":"екілік","de":"teufel","level":3}
+{"kz":"емтихан","de":"prüfung","level":3}
+{"kz":"ен","de":"breite","level":2}
+{"kz":"есім","de":"name","level":1}
+{"kz":"жазба әдебиеті","de":"geschriebene literatur","level":4}
+{"kz":"жалпы орта білім","de":"allgemeine sekundarschulbildung","level":4}
+{"kz":"жаттығу","de":"training, Übung","level":3}
+{"kz":"желім","de":"kleber","level":2}
+{"kz":"жұп","de":"paar","level":2}
+{"kz":"иероглиф","de":"hieroglyphe","level":5}
+{"kz":"инициал","de":"anfänglich","level":4}
+{"kz":"кәмелеттік аттестат","de":"immatrikulationsbescheinigung","level":5}
+{"kz":"келі","de":"kilogramm","level":2}
+{"kz":"кесте","de":"zeitplan, zeitplan","level":3}
+{"kz":"кесте","de":"grafik, tabelle","level":3}
+{"kz":"килограмм","de":"kilogramm","level":2}
+{"kz":"компьютер","de":"computer","level":2}
+{"kz":"күнделік","de":"tagebuch","level":3}
+{"kz":"кірме сөз","de":"lehnwort","level":5}
+{"kz":"кітап","de":"buch","level":1}
+{"kz":"қазақ жазуы","de":"kasachische schrift","level":4}
+{"kz":"қаламсап","de":"stift","level":2}
+{"kz":"қанат белгісі","de":"häkchen","level":4}
+{"kz":"қарындаш","de":"bleistift","level":2}
+{"kz":"қате","de":"fehler","level":2}
+{"kz":"мақам, дикция","de":"diktion","level":4}
+{"kz":"метр","de":"meter","level":2}
+{"kz":"нөмір","de":"nummer","level":2}
+{"kz":"нүкте","de":"punkt","level":2}
+{"kz":"ойын","de":"spiel","level":1}
+{"kz":"оқу жылы","de":"akademisches jahr","level":3}
+{"kz":"оқу құралдары","de":"lehrmittel","level":4}
+{"kz":"оқу мерзімі","de":"dauer des studiums","level":4}
+{"kz":"оқулық","de":"lehrbuch","level":3}
+{"kz":"оқушы","de":"student(en)","level":2}
+{"kz":"орта білім","de":"sekundarschulbildung","level":3}
+{"kz":"орта мектеп","de":"gymnasium","level":3}
+{"kz":"өлшеуіш","de":"maßband, messen","level":3}
+{"kz":"өшіргіш","de":"gummi","level":3}
+{"kz":"парта","de":"schreibtisch","level":3}
+{"kz":"пән","de":"artikel","level":2}
+{"kz":"практика","de":"üben","level":3}
+{"kz":"сабақ","de":"lektion, lektion","level":2}
+{"kz":"сабақ кестесі","de":"stundenplan","level":3}
+{"kz":"сан","de":"nummer","level":2}
+{"kz":"сандар","de":"zahlen","level":2}
+{"kz":"сөз","de":"wort","level":1}
+{"kz":"сөздік","de":"wörterbuch","level":2}
+{"kz":"сөйлем","de":"angebot","level":3}
+{"kz":"сөйленіс","de":"sprechen","level":4}
+{"kz":"сурет салу","de":"zeichnung","level":3}
+{"kz":"сұхбат, диалог","de":"dialog","level":3}
+{"kz":"сызғыш","de":"herrscher","level":3}
+{"kz":"сызу","de":"zeichnung","level":3}
+{"kz":"сызық","de":"linie","level":2}
+{"kz":"сынақ","de":"prüfen","level":3}
+{"kz":"сынып","de":"klasse","level":2}
+{"kz":"табысты тапсыру","de":"erfolgreicher abschluss","level":4}
+{"kz":"тақта","de":"planke","level":2}
+{"kz":"тақырып","de":"thema","level":2}
+{"kz":"таңба","de":"fingerabdruck, markieren, markieren","level":4}
+{"kz":"тапсырма","de":"Übung","level":3}
+{"kz":"тарих","de":"geschichte","level":2}
+{"kz":"тәрбие","de":"erziehung","level":3}
+{"kz":"тереңдік","de":"tiefe","level":3}
+{"kz":"төртбұрыш","de":"viereck","level":4}
+{"kz":"төрттік","de":"vier","level":3}
+{"kz":"тұрмыстық тіл","de":"umgangssprache","level":5}
+{"kz":"ұзындық","de":"länge","level":2}
+{"kz":"үзіліс","de":"brechen","level":3}
+{"kz":"үй тапсырмасы","de":"hausaufgaben","level":3}
+{"kz":"үйірме","de":"kreis","level":3}
+{"kz":"үлгермеушілік","de":"untererfüllung","level":5}
+{"kz":"үлгерім","de":"akademische leistung","level":4}
+{"kz":"үтір","de":"komma","level":3}
+{"kz":"үшбұрыш","de":"dreieck","level":3}
+{"kz":"үштік","de":"troika","level":3}
+{"kz":"цифр","de":"nummer","level":2}
+{"kz":"шақырым","de":"kilometer","level":3}
+{"kz":"шаршы","de":"quadrat","level":3}
+{"kz":"шәкірт","de":"anhänger","level":4}
+{"kz":"шеңбер","de":"kreis","level":2}
+{"kz":"шет тілі","de":"fremdsprache","level":3}
+{"kz":"азық-түлік","de":"essen","level":3}
+{"kz":"айран","de":"kefir","level":2}
+{"kz":"алма","de":"apfel","level":1}
+{"kz":"алмұрт","de":"birne","level":2}
+{"kz":"алхоры, қараөрік","de":"pflaume","level":3}
+{"kz":"арпа","de":"gerste","level":4}
+{"kz":"асқабақ","de":"kürbis","level":3}
+{"kz":"ащы тұздық","de":"soße, soße","level":4}
+{"kz":"бал","de":"honig","level":1}
+{"kz":"балғындық","de":"frische, saftigkeit","level":4}
+{"kz":"балмұздақ","de":"eiscreme","level":2}
+{"kz":"балық","de":"fisch","level":1}
+{"kz":"банан","de":"banane","level":1}
+{"kz":"бауырсақ","de":"baursak","level":4}
+{"kz":"бәліш","de":"torte","level":3}
+{"kz":"бидай","de":"weizen","level":3}
+{"kz":"ботқа","de":"haferbrei","level":2}
+{"kz":"бұршақ","de":"erbsen","level":3}
+{"kz":"бұрыш","de":"pfeffer","level":2}
+{"kz":"бүлдірген","de":"erdbeeren","level":4}
+{"kz":"бір қайнатым","de":"schweißen","level":4}
+{"kz":"газдалған су","de":"sprudelwasser","level":3}
+{"kz":"дастарқан","de":"dastarkhan, tischdecke","level":4}
+{"kz":"дәмдеуіш","de":"würzen","level":4}
+{"kz":"десерт","de":"nachtisch","level":2}
+{"kz":"ет","de":"fleisch","level":1}
+{"kz":"жеміс","de":"obst","level":2}
+{"kz":"жержаңғақ","de":"erdnuss","level":4}
+{"kz":"жидек","de":"beere","level":2}
+{"kz":"жұмыртқа","de":"ei","level":2}
+{"kz":"жүгері","de":"mais","level":3}
+{"kz":"жүзім","de":"traube","level":2}
+{"kz":"картоп","de":"kartoffel","level":2}
+{"kz":"кәмпит","de":"süßigkeiten","level":2}
+{"kz":"кеспе","de":"nudeln","level":3}
+{"kz":"кешкі ас","de":"abendessen","level":2}
+{"kz":"кондитер өнімдері","de":"süßwaren","level":4}
+{"kz":"көже","de":"suppe","level":2}
+{"kz":"көкөніс","de":"gemüse","level":3}
+{"kz":"күнжіт","de":"sesam","level":5}
+{"kz":"күріш","de":"reis","level":2}
+{"kz":"кілегей","de":"creme","level":3}
+{"kz":"қазы","de":"kazy","level":4}
+{"kz":"қаймақ","de":"sauerrahm","level":3}
+{"kz":"қамыр","de":"teig","level":3}
+{"kz":"қант","de":"zucker","level":1}
+{"kz":"қаражидек","de":"blaubeere","level":4}
+{"kz":"қарақат","de":"johannisbeere","level":4}
+{"kz":"қарақұмық","de":"buchweizen","level":5}
+{"kz":"қарбыз","de":"wassermelone","level":2}
+{"kz":"қатық, ұйыған сүт","de":"sauermilch","level":5}
+{"kz":"қауын","de":"melone","level":2}
+{"kz":"қияр","de":"gurke","level":2}
+{"kz":"қуырдақ","de":"braten","level":4}
+{"kz":"құймақ","de":"pfannkuchen, pfannkuchen","level":4}
+{"kz":"құлпынай","de":"erdbeere","level":3}
+{"kz":"қызанақ","de":"tomate","level":2}
+{"kz":"қызылша","de":"rübe","level":3}
+{"kz":"қымыз","de":"kumiss","level":4}
+{"kz":"қырыққабат","de":"kohl","level":3}
+{"kz":"қыша","de":"senf","level":4}
+{"kz":"май","de":"Öl","level":1}
+{"kz":"майлы айран","de":"rjaschenka","level":4}
+{"kz":"минералды су","de":"mineralwasser","level":3}
+{"kz":"мұздатылған жеміс","de":"gefrorenes obst","level":4}
+{"kz":"нан","de":"brot","level":1}
+{"kz":"өрік","de":"aprikose, aprikose","level":3}
+{"kz":"өсімдік майы","de":"pflanzenöl","level":3}
+{"kz":"палау","de":"pilaw","level":3}
+{"kz":"печенье","de":"plätzchen","level":2}
+{"kz":"пияз","de":"zwiebel","level":2}
+{"kz":"салауатты тамақтану","de":"gesunde ernährung","level":4}
+{"kz":"сары май","de":"butter","level":3}
+{"kz":"сарымсақ","de":"knoblauch","level":3}
+{"kz":"сәбіз","de":"karotte","level":2}
+{"kz":"семіздік","de":"fett, fülle","level":4}
+{"kz":"сорпа","de":"bouillon","level":3}
+{"kz":"сусын","de":"trinken","level":2}
+{"kz":"сұлы","de":"hafer","level":3}
+{"kz":"сүзбе","de":"hüttenkäse","level":3}
+{"kz":"сүт","de":"milch","level":1}
+{"kz":"сүт өнімдері","de":"milchprodukte","level":3}
+{"kz":"сүтті коктейль","de":"milchshake","level":4}
+{"kz":"сыра","de":"bier","level":2}
+{"kz":"таба нан","de":"kuchen","level":3}
+{"kz":"табиғи өнім","de":"naturprodukt","level":4}
+{"kz":"тағам","de":"gericht (essen)","level":3}
+{"kz":"таңғы ас","de":"frühstück","level":2}
+{"kz":"таңқурай","de":"himbeere","level":3}
+{"kz":"тары","de":"hirse","level":4}
+{"kz":"тәттілер","de":"süßigkeiten","level":2}
+{"kz":"тез дайын болатын тағамдар","de":"fastfood","level":5}
+{"kz":"теңіз өнімдері","de":"meeresfrüchte","level":4}
+{"kz":"торт","de":"kuchen","level":2}
+{"kz":"тосап","de":"marmelade","level":3}
+{"kz":"тұз","de":"salz","level":1}
+{"kz":"тұздық","de":"sole","level":4}
+{"kz":"түскі ас","de":"abendessen","level":2}
+{"kz":"уылдырық","de":"kaviar","level":4}
+{"kz":"шабдалы","de":"pfirsich","level":3}
+{"kz":"шай","de":"tee","level":1}
+{"kz":"шарап","de":"wein","level":2}
+{"kz":"шәрбәт","de":"sirup","level":4}
+{"kz":"шие","de":"kirsche","level":3}
+{"kz":"шұбат","de":"shubat","level":5}
+{"kz":"шұжық","de":"wurst","level":3}
+{"kz":"шырын","de":"saft","level":2}
+{"kz":"ірімшік","de":"käse","level":3}
+{"kz":"ағаш","de":"baum","level":1}
+{"kz":"ағыс","de":"fließen","level":3}
+{"kz":"ай","de":"mond","level":1}
+{"kz":"айдың тұтылуы","de":"mondfinsternis","level":5}
+{"kz":"айлақ","de":"hafen","level":4}
+{"kz":"ақ жауын","de":"leichter regen","level":3}
+{"kz":"алып ара тұқымы","de":"riesenrasse","level":5}
+{"kz":"арал","de":"insel","level":2}
+{"kz":"аспан","de":"himmel","level":1}
+{"kz":"астық тұқымдастар","de":"getreide","level":5}
+{"kz":"атмосфера","de":"atmosphäre","level":4}
+{"kz":"атмосфера қысымы","de":"atmosphärischer druck","level":5}
+{"kz":"ауа","de":"luft","level":1}
+{"kz":"ауа райы","de":"wetter","level":2}
+{"kz":"ашық күн","de":"klarer tag","level":2}
+{"kz":"балды өсімдіктер","de":"honigpflanzen","level":5}
+{"kz":"барқан, шағыл","de":"barkhan","level":5}
+{"kz":"бастау","de":"quelle","level":3}
+{"kz":"батпақ","de":"sumpf","level":4}
+{"kz":"баяу жел, самал","de":"brise, leichte brise","level":4}
+{"kz":"боран","de":"schneesturm","level":4}
+{"kz":"бұлақ","de":"schlüssel","level":3}
+{"kz":"бұлт","de":"wolke","level":2}
+{"kz":"бұршақ","de":"hagel","level":3}
+{"kz":"біржылдық өсімдіктер","de":"einjährige pflanzen","level":5}
+{"kz":"градус","de":"grad","level":2}
+{"kz":"гүл","de":"blume","level":2}
+{"kz":"ғаламшар","de":"planet","level":3}
+{"kz":"ғарыш","de":"raum","level":3}
+{"kz":"дала","de":"steppe","level":3}
+{"kz":"дауыл","de":"sturm","level":3}
+{"kz":"жаға, жағалау","de":"küste","level":3}
+{"kz":"жағажай","de":"strand","level":2}
+{"kz":"жазық","de":"schlucht","level":3}
+{"kz":"жайылым","de":"wiese","level":4}
+{"kz":"жанартау","de":"vulkan","level":4}
+{"kz":"жаңбыр","de":"regen","level":1}
+{"kz":"жаңбыр тамшысы","de":"regentropfen","level":3}
+{"kz":"жартас","de":"felsen","level":3}
+{"kz":"жауын-шашын","de":"fällung","level":4}
+{"kz":"жел","de":"wind","level":1}
+{"kz":"жер","de":"erde","level":1}
+{"kz":"жер сілкінісі","de":"erdbeben","level":4}
+{"kz":"жер үсті","de":"erdoberfläche","level":4}
+{"kz":"жерасты үңгірі","de":"höhle, unterirdische grotte","level":5}
+{"kz":"жұлдыз","de":"stern","level":2}
+{"kz":"көл","de":"see","level":2}
+{"kz":"көлдің бетін тұман басты","de":"nebel über dem see","level":4}
+{"kz":"көлеңке","de":"schatten","level":3}
+{"kz":"көпжылдық өсімдіктер","de":"stauden","level":5}
+{"kz":"күн","de":"sonne","level":1}
+{"kz":"күннің батуы","de":"sonnenuntergang","level":3}
+{"kz":"күннің тұтылуы","de":"sonnenfinsternis","level":5}
+{"kz":"күннің шығуы","de":"sonnenaufgang","level":3}
+{"kz":"қалың тұман","de":"dichter nebel","level":3}
+{"kz":"қапырық","de":"stickig","level":4}
+{"kz":"қар","de":"schnee","level":1}
+{"kz":"қар көшкіні","de":"lawine","level":4}
+{"kz":"қарлы боран","de":"schneesturm","level":4}
+{"kz":"қоршаған орта","de":"umfeld","level":4}
+{"kz":"қуаңшылық","de":"trockenheit","level":4}
+{"kz":"қуаңшылықпен күресу","de":"dürrekontrolle","level":5}
+{"kz":"құз, шыңырау","de":"abgrund","level":4}
+{"kz":"құйын","de":"wirbel","level":4}
+{"kz":"құрғақшылық","de":"trocken, trockenheit, trockenheit","level":4}
+{"kz":"құрлық","de":"festland","level":4}
+{"kz":"ластану","de":"verschmutzung","level":3}
+{"kz":"мұхит","de":"ozean","level":3}
+{"kz":"найзағай","de":"blitz","level":3}
+{"kz":"ойпат","de":"flachland","level":4}
+{"kz":"орман","de":"wald","level":1}
+{"kz":"өзен","de":"fluss","level":1}
+{"kz":"өзен жағасы","de":"flussufer","level":3}
+{"kz":"өрт","de":"feuer","level":2}
+{"kz":"саванна","de":"savanne","level":5}
+{"kz":"салқын жел","de":"kühler wind","level":3}
+{"kz":"сарқырама","de":"wasserfall","level":4}
+{"kz":"сөнбеген жанартау","de":"aktiver vulkan","level":5}
+{"kz":"сөнген жанартау","de":"erloschener vulkan","level":5}
+{"kz":"су","de":"wasser","level":1}
+{"kz":"су ағындары","de":"wasser fließt","level":4}
+{"kz":"су айдын","de":"wasserfläche","level":5}
+{"kz":"су кеңістігі","de":"gewässer","level":4}
+{"kz":"су қоймасы","de":"reservoir","level":4}
+{"kz":"су тасқыны","de":"flut","level":4}
+{"kz":"суық түсе бастады","de":"es wird kälter","level":4}
+{"kz":"суық түсу","de":"kälteeinbruch","level":4}
+{"kz":"сіркіреген жауын","de":"nieselregen","level":5}
+{"kz":"табиғат","de":"natur","level":2}
+{"kz":"табиғат құбылыстары","de":"naturphänomene","level":4}
+{"kz":"табиғи апаттар","de":"natürliche elemente","level":5}
+{"kz":"тайғақ","de":"eis","level":4}
+{"kz":"таңғажайып ағаштар","de":"erstaunliche bäume","level":4}
+{"kz":"тау","de":"berg","level":1}
+{"kz":"тау шатқалы","de":"bergschlucht","level":4}
+{"kz":"таулы үстірт","de":"plateau","level":5}
+{"kz":"тегістік","de":"schmucklos","level":3}
+{"kz":"температура","de":"temperatur","level":3}
+{"kz":"теңіз","de":"meer","level":1}
+{"kz":"теңіз жағалауы","de":"meeresküste","level":4}
+{"kz":"термометр","de":"thermometer","level":3}
+{"kz":"толқын","de":"welle","level":2}
+{"kz":"төбе","de":"hügel","level":3}
+{"kz":"тұман","de":"nebel","level":2}
+{"kz":"тұман түсті","de":"der nebel hat sich gelegt","level":3}
+{"kz":"тұтылу","de":"finsternis","level":5}
+{"kz":"түбек","de":"halbinsel","level":4}
+{"kz":"түпсіз шыңырау","de":"bodenloser abgrund","level":5}
+{"kz":"ұя","de":"nest","level":3}
+{"kz":"үңгір","de":"höhle","level":4}
+{"kz":"хош иіс","de":"aroma","level":3}
+{"kz":"шатқал","de":"schlucht","level":5}
+{"kz":"шөл","de":"wüste","level":3}
+{"kz":"шұңқыр","de":"depression, pause","level":4}
+{"kz":"шың","de":"scheitel","level":3}
+{"kz":"ақбалық","de":"asp","level":5}
+{"kz":"аққу","de":"schwan","level":3}
+{"kz":"ақсерке","de":"beluga","level":5}
+{"kz":"ақтабан","de":"brachsen","level":5}
+{"kz":"ақтүлкі","de":"polarfuchs","level":5}
+{"kz":"аң","de":"tier","level":2}
+{"kz":"ара","de":"biene","level":2}
+{"kz":"арқан балық","de":"lachs","level":5}
+{"kz":"арқар","de":"argali","level":5}
+{"kz":"арыстан","de":"löwe","level":2}
+{"kz":"аю","de":"tragen","level":2}
+{"kz":"әтеш","de":"hahn","level":3}
+{"kz":"бақа","de":"frosch","level":3}
+{"kz":"балапан","de":"küken","level":3}
+{"kz":"балық","de":"fisch","level":1}
+{"kz":"барыс","de":"leopard","level":5}
+{"kz":"бекіре","de":"stör","level":5}
+{"kz":"бие","de":"stute","level":4}
+{"kz":"бозторғай","de":"lerche","level":4}
+{"kz":"бота","de":"babykamel","level":4}
+{"kz":"бөкен","de":"antilope","level":4}
+{"kz":"бөлтірік","de":"wolfsjunges","level":5}
+{"kz":"бұғы","de":"reh","level":3}
+{"kz":"бұзау","de":"kalb","level":3}
+{"kz":"бұлбұл","de":"nachtigall","level":4}
+{"kz":"бұлғын","de":"zobel","level":5}
+{"kz":"бүркіт","de":"steinadler","level":5}
+{"kz":"дауылпаз","de":"sturmvogel","level":5}
+{"kz":"дегелек","de":"storch","level":4}
+{"kz":"дернәсіл, балаңқұрт","de":"larve","level":5}
+{"kz":"доңыз","de":"eber","level":3}
+{"kz":"ешкі","de":"ziege","level":2}
+{"kz":"жабайы аңдар","de":"wilde tiere","level":4}
+{"kz":"жабайы жылқы","de":"wildes pferd","level":4}
+{"kz":"жайын","de":"etwas","level":4}
+{"kz":"жануар","de":"tier","level":2}
+{"kz":"жапалақ","de":"eule","level":3}
+{"kz":"жәндік","de":"insekt","level":3}
+{"kz":"жолбарыс","de":"tiger","level":3}
+{"kz":"жылан","de":"schlange","level":2}
+{"kz":"жылқы","de":"pferd","level":2}
+{"kz":"инелік","de":"libelle","level":4}
+{"kz":"ит","de":"hund","level":1}
+{"kz":"камбала","de":"flunder","level":5}
+{"kz":"керік","de":"giraffe","level":3}
+{"kz":"кесіртке","de":"eidechse","level":4}
+{"kz":"киік","de":"saiga","level":5}
+{"kz":"көбелек","de":"schmetterling","level":3}
+{"kz":"көгершін","de":"taube","level":3}
+{"kz":"көксерке","de":"zander","level":5}
+{"kz":"күйе","de":"mol","level":4}
+{"kz":"қабылан","de":"leopard","level":5}
+{"kz":"қаз","de":"gans","level":3}
+{"kz":"қанат","de":"flügel","level":3}
+{"kz":"қара қабылан","de":"panther","level":5}
+{"kz":"қарақұйрық","de":"kropfgazelle","level":6}
+{"kz":"қараторғай","de":"star","level":4}
+{"kz":"қарға","de":"krähe","level":3}
+{"kz":"қарға","de":"krähe","level":3}
+{"kz":"қаршыға","de":"falke","level":4}
+{"kz":"қасқыр","de":"wolf","level":2}
+{"kz":"қозы","de":"lamm","level":3}
+{"kz":"қой","de":"widder, schafe","level":2}
+{"kz":"қолтырауын","de":"krokodil","level":4}
+{"kz":"қорқау қасқыр","de":"hyäne","level":5}
+{"kz":"қоян","de":"hase","level":2}
+{"kz":"құйрық","de":"schwanz","level":2}
+{"kz":"құлын","de":"fohlen","level":4}
+{"kz":"құмырсқа","de":"ameise","level":3}
+{"kz":"құндыз","de":"biber","level":4}
+{"kz":"құрбақа","de":"kröte","level":4}
+{"kz":"құрт","de":"wurm","level":3}
+{"kz":"құс","de":"vogel","level":1}
+{"kz":"қыран","de":"adler","level":3}
+{"kz":"лақ","de":"kind","level":3}
+{"kz":"маймыл","de":"affe","level":3}
+{"kz":"маймыл","de":"affe","level":3}
+{"kz":"маса","de":"moskito","level":2}
+{"kz":"мысық","de":"katze","level":1}
+{"kz":"өгіз","de":"stier","level":2}
+{"kz":"өрмекші","de":"spinne","level":3}
+{"kz":"піл","de":"elefant","level":2}
+{"kz":"сазан","de":"karpfen","level":5}
+{"kz":"сауысқан","de":"elster","level":4}
+{"kz":"сиыр","de":"kuh","level":1}
+{"kz":"сона","de":"wespe","level":3}
+{"kz":"су сиыры, бегемот","de":"nilpferd","level":4}
+{"kz":"суыр","de":"murmeltier","level":5}
+{"kz":"сұңқар","de":"falke","level":4}
+{"kz":"тасбақа","de":"schildkröte","level":3}
+{"kz":"тауешкі","de":"bergziege","level":4}
+{"kz":"тауық","de":"huhn","level":2}
+{"kz":"тауыс","de":"pfau","level":4}
+{"kz":"тиін","de":"eichhörnchen","level":3}
+{"kz":"торғай","de":"spatz","level":3}
+{"kz":"төрт түлік","de":"haustiere","level":3}
+{"kz":"түйе","de":"kamel","level":3}
+{"kz":"түлкі","de":"fuchs","level":2}
+{"kz":"тырна","de":"kran","level":4}
+{"kz":"тышқан","de":"maus","level":2}
+{"kz":"ұлу","de":"schnecke","level":3}
+{"kz":"үй жануарлары","de":"haustiere","level":3}
+{"kz":"үйрек","de":"ente","level":2}
+{"kz":"ханбалық","de":"forelle","level":5}
+{"kz":"шабақ","de":"plötze","level":5}
+{"kz":"шегіртке","de":"heuschrecken","level":4}
+{"kz":"шортан","de":"pike","level":4}
+{"kz":"шыбын","de":"fliegen","level":2}
+{"kz":"шіркей","de":"mücke","level":4}
+{"kz":"абырой, бедел","de":"behörde","level":4}
+{"kz":"ақау, кемістік","de":"defekt","level":4}
+{"kz":"ақпарат","de":"information","level":3}
+{"kz":"алға басу","de":"fortschritt","level":4}
+{"kz":"алғышарт","de":"prämisse","level":5}
+{"kz":"амал, тәсіл","de":"weg","level":3}
+{"kz":"анықтау, нақтылау","de":"klärung","level":4}
+{"kz":"аспаз","de":"kochen","level":3}
+{"kz":"аудармашы","de":"Übersetzer","level":3}
+{"kz":"бағалау","de":"grad","level":3}
+{"kz":"балықшы","de":"fischer","level":3}
+{"kz":"бас маман","de":"chefspezialist","level":4}
+{"kz":"басқарма","de":"planke","level":4}
+{"kz":"басты қасиет","de":"grundqualität","level":4}
+{"kz":"басшы","de":"aufsicht","level":4}
+{"kz":"басшының беделі","de":"autorität des führers","level":5}
+{"kz":"басым бағыт","de":"prioritätsrichtung","level":5}
+{"kz":"баяндама","de":"bericht","level":4}
+{"kz":"бөлім","de":"abteilung","level":3}
+{"kz":"бухгалтер","de":"buchhalter","level":4}
+{"kz":"білікті маман","de":"qualifizierter spezialist","level":5}
+{"kz":"білімділік","de":"ausbildung","level":5}
+{"kz":"бірлестік","de":"verein","level":4}
+{"kz":"ғалым","de":"wissenschaftler","level":3}
+{"kz":"ғарышкер","de":"astronaut","level":4}
+{"kz":"ғылым","de":"wissenschaft","level":3}
+{"kz":"даяшы","de":"kellner","level":3}
+{"kz":"дәлел","de":"argument","level":4}
+{"kz":"демалыс","de":"ausruhen","level":2}
+{"kz":"демеуші","de":"sponsor","level":4}
+{"kz":"еңбегіне қарай","de":"nach verdienst","level":4}
+{"kz":"еңбек","de":"arbeiten","level":3}
+{"kz":"еңбек демалысы","de":"arbeitsurlaub","level":4}
+{"kz":"еңбек келісімшарты","de":"arbeitsvertrag","level":5}
+{"kz":"есеп","de":"bericht","level":3}
+{"kz":"жаңашыл педагог","de":"innovativer lehrer","level":5}
+{"kz":"жаратылу","de":"schaffung","level":4}
+{"kz":"жетіспеушілік","de":"mangel","level":4}
+{"kz":"жиналыс","de":"treffen, treffen","level":3}
+{"kz":"жоба","de":"projekt","level":3}
+{"kz":"жоғары көрсеткіш","de":"hohe quote","level":4}
+{"kz":"жұмыс","de":"arbeit","level":1}
+{"kz":"жұмыс кестесі","de":"arbeitsplan","level":4}
+{"kz":"жұмыс күні","de":"arbeitstag","level":3}
+{"kz":"жұмыс орны","de":"arbeitsplatz","level":3}
+{"kz":"жұмыс өтілі","de":"berufserfahrung","level":4}
+{"kz":"жұмысбастылық","de":"anstellung","level":5}
+{"kz":"жұмыссыздық","de":"arbeitslosigkeit","level":4}
+{"kz":"жұмысшы","de":"arbeitnehmer","level":3}
+{"kz":"жүргізуші","de":"treiber","level":3}
+{"kz":"заңгер","de":"rechtsanwalt","level":4}
+{"kz":"заңтану","de":"jurisprudenz","level":5}
+{"kz":"зерттеуші","de":"forscher","level":4}
+{"kz":"иелену","de":"besitz","level":4}
+{"kz":"кәсіп","de":"beruf, beruf","level":3}
+{"kz":"кәсіпкер","de":"unternehmer","level":4}
+{"kz":"кәсіпорын","de":"unternehmen","level":4}
+{"kz":"кедергі","de":"hindernis, barriere","level":4}
+{"kz":"кездесу","de":"treffen","level":2}
+{"kz":"келіссөз","de":"verhandlung","level":4}
+{"kz":"кепілдік","de":"garantie","level":4}
+{"kz":"көмекші","de":"assistent","level":3}
+{"kz":"көп тіл білуші","de":"polyglott","level":5}
+{"kz":"күнтізбе","de":"kalender","level":3}
+{"kz":"қабылдау","de":"rezeption","level":3}
+{"kz":"қаржыгер","de":"financier","level":5}
+{"kz":"қиындық","de":"schwierigkeit","level":3}
+{"kz":"қорытынды","de":"fazit, fazit","level":4}
+{"kz":"құжат","de":"dokumentieren","level":3}
+{"kz":"құзырет","de":"kompetenz","level":5}
+{"kz":"құрылым","de":"struktur","level":4}
+{"kz":"құрылыс","de":"konstruktion","level":3}
+{"kz":"құрылысшы","de":"baumeister","level":3}
+{"kz":"маман","de":"spezialist","level":3}
+{"kz":"мамандық","de":"spezialität","level":4}
+{"kz":"мекеме","de":"institution","level":3}
+{"kz":"мектеп директоры","de":"schulleiter","level":4}
+{"kz":"мұғалім","de":"lehrer","level":2}
+{"kz":"мұнайшы","de":"Ölarbeiter","level":4}
+{"kz":"нәтиже","de":"ergebnis","level":3}
+{"kz":"негіз","de":"basis, basis","level":3}
+{"kz":"негіздеме","de":"rechtfertigung","level":5}
+{"kz":"нышан","de":"unterschreiben, unterschreiben","level":4}
+{"kz":"оқу орны","de":"bildungseinrichtung","level":3}
+{"kz":"оқытушы","de":"lehrer","level":4}
+{"kz":"орынбасар","de":"stellvertreter","level":4}
+{"kz":"өмірбаян","de":"autobiographie","level":4}
+{"kz":"өтіл","de":"erfahrung","level":4}
+{"kz":"өтініш","de":"stellungnahme","level":3}
+{"kz":"профессор","de":"professor","level":4}
+{"kz":"ректор","de":"rektor","level":4}
+{"kz":"сарапшы","de":"experte","level":4}
+{"kz":"сатушы","de":"verkäufer","level":2}
+{"kz":"саудагер","de":"händler","level":3}
+{"kz":"сәнгер","de":"modedesigner","level":4}
+{"kz":"сәулет","de":"architektur","level":4}
+{"kz":"сәулетші","de":"architekt","level":4}
+{"kz":"сенімділік","de":"vertrauen","level":4}
+{"kz":"сипаттау","de":"beschreibung","level":3}
+{"kz":"студент","de":"student","level":2}
+{"kz":"суретші","de":"künstler","level":3}
+{"kz":"табандылық","de":"ausdauer","level":4}
+{"kz":"табыс","de":"einkommen","level":3}
+{"kz":"талдамашы","de":"analytiker","level":5}
+{"kz":"талдау","de":"analyse","level":4}
+{"kz":"тапсырыс","de":"befehl","level":3}
+{"kz":"тәрбиеші","de":"lehrer","level":3}
+{"kz":"тәртіп","de":"ordnung, routine","level":3}
+{"kz":"теріс ықпал ету","de":"negative auswirkungen","level":5}
+{"kz":"тұжырымдама","de":"konzept","level":5}
+{"kz":"түйіндеме","de":"wieder aufnehmen","level":4}
+{"kz":"түскі үзіліс","de":"mittagspause","level":3}
+{"kz":"тігінші","de":"schneider, näherin","level":3}
+{"kz":"тіл үйренуші","de":"sprachenlerner","level":4}
+{"kz":"тілші","de":"journalist","level":3}
+{"kz":"ұғым","de":"konzept","level":4}
+{"kz":"ұжым","de":"team","level":3}
+{"kz":"ұйым","de":"organisation","level":3}
+{"kz":"факультет деканы","de":"dekan der fakultät","level":5}
+{"kz":"хат","de":"brief","level":2}
+{"kz":"хатшы","de":"sekretär","level":3}
+{"kz":"анықтама бюросы","de":"informationsschalter","level":5}
+{"kz":"ас мәзірі","de":"speisekarte","level":3}
+{"kz":"атлет","de":"athlet","level":3}
+{"kz":"ауыр атлетика","de":"gewichtheben","level":4}
+{"kz":"әл-ауқат","de":"wohlfahrt","level":4}
+{"kz":"әлем бойынша","de":"auf der ganzen welt","level":3}
+{"kz":"әлеуметтік желі","de":"soziales netzwerk","level":3}
+{"kz":"әсем жер","de":"schöner ort","level":3}
+{"kz":"әуе көлігі","de":"lufttransport","level":4}
+{"kz":"әуежай","de":"flughafen","level":3}
+{"kz":"әуесқойлық, қызығушылық","de":"hobby","level":3}
+{"kz":"бағдар","de":"route, richtung","level":3}
+{"kz":"байланыс","de":"verbindung","level":3}
+{"kz":"бақылаушы","de":"regler","level":4}
+{"kz":"баскетбол","de":"basketball","level":2}
+{"kz":"бәссауда","de":"auktion","level":5}
+{"kz":"бейнематериал","de":"videomaterial","level":4}
+{"kz":"билет","de":"ticket","level":2}
+{"kz":"бортсерік","de":"flugbegleiterin","level":4}
+{"kz":"бос уақыт","de":"freizeit","level":2}
+{"kz":"біркісілік бөлме","de":"einzelzimmer","level":4}
+{"kz":"біріншілік","de":"meisterschaft, meisterschaft","level":4}
+{"kz":"вагон","de":"wagen","level":2}
+{"kz":"велосипед","de":"fahrrad","level":2}
+{"kz":"виза","de":"visum","level":3}
+{"kz":"волейбол","de":"volleyball","level":2}
+{"kz":"гимнастшы","de":"turner","level":4}
+{"kz":"ғаламтор","de":"internet","level":2}
+{"kz":"демалыс орны","de":"erholungsgebiet","level":3}
+{"kz":"екікісілік бөлме","de":"doppelzimmer","level":4}
+{"kz":"жайлылық","de":"bequemlichkeit","level":4}
+{"kz":"жалдамалы пәтер","de":"mietwohnung","level":4}
+{"kz":"жанкүйер","de":"lüfter","level":3}
+{"kz":"жарыс","de":"wettbewerb","level":3}
+{"kz":"жауапкершілік","de":"verantwortung","level":4}
+{"kz":"жеңіл атлетика","de":"leichtathletik","level":4}
+{"kz":"жеткізу","de":"lieferung","level":3}
+{"kz":"жол","de":"straße","level":1}
+{"kz":"жолақы","de":"fahrpreis","level":4}
+{"kz":"жолаушы","de":"passagier","level":3}
+{"kz":"жолсерік","de":"leiter","level":4}
+{"kz":"жүгіру","de":"läuft","level":2}
+{"kz":"жүзу бассейні","de":"schwimmbad","level":4}
+{"kz":"жүк","de":"ladung","level":3}
+{"kz":"залал, зиян","de":"schaden","level":3}
+{"kz":"зияндылық","de":"schädlichkeit","level":4}
+{"kz":"капитан, жетекші","de":"kapitän","level":3}
+{"kz":"кеден","de":"zoll","level":4}
+{"kz":"кеме","de":"schiff","level":2}
+{"kz":"кептеліс","de":"kork","level":3}
+{"kz":"коньки","de":"schlittschuhe","level":2}
+{"kz":"көркем сырғанау","de":"eiskunstlauf","level":4}
+{"kz":"көрініс","de":"sicht","level":3}
+{"kz":"күрес","de":"kampf","level":3}
+{"kz":"күту залы","de":"wartezimmer","level":3}
+{"kz":"қайық","de":"boot","level":3}
+{"kz":"қалашық","de":"stadt","level":3}
+{"kz":"қалғаны","de":"ausruhen","level":3}
+{"kz":"қоғамдық орын","de":"öffentlicher ort","level":4}
+{"kz":"қозғалыс кестесі","de":"zielplan","level":5}
+{"kz":"қолжүк","de":"handgepäck","level":4}
+{"kz":"қонақ","de":"gast","level":2}
+{"kz":"қуат көзі","de":"stromversorgung","level":4}
+{"kz":"құндылық","de":"wert","level":4}
+{"kz":"құрама","de":"nationalmannschaft","level":3}
+{"kz":"қызыққа толы","de":"voller spaß","level":4}
+{"kz":"мәдени орталық","de":"kulturzentrum","level":4}
+{"kz":"мәре","de":"finale","level":4}
+{"kz":"медаль","de":"medaille","level":3}
+{"kz":"мұз айдыны","de":"eislaufbahn","level":4}
+{"kz":"нәрсе","de":"ding, objekt, irgendetwas","level":2}
+{"kz":"орналасу","de":"unterkunft","level":4}
+{"kz":"орта","de":"mittwoch","level":2}
+{"kz":"орын","de":"ort","level":1}
+{"kz":"өзгешелік","de":"merkmal, unterschied","level":4}
+{"kz":"рейс, сапар","de":"flug","level":3}
+{"kz":"сапарға шығу","de":"reisen, tourismus","level":3}
+{"kz":"саяхат","de":"reise","level":3}
+{"kz":"саяхатшы","de":"reisender","level":3}
+{"kz":"спортшы","de":"athlet","level":3}
+{"kz":"стадион","de":"stadion","level":2}
+{"kz":"сүйікті іс","de":"lieblingsbeschäftigung, hobby","level":4}
+{"kz":"сый","de":"gegenwärtig","level":2}
+{"kz":"табиғат аясында","de":"draußen","level":3}
+{"kz":"таза ауа","de":"frische luft","level":2}
+{"kz":"тарихи жер","de":"historischer ort","level":3}
+{"kz":"теміржол","de":"eisenbahn","level":3}
+{"kz":"теміржол вокзалы","de":"bahnhof","level":4}
+{"kz":"топ","de":"gruppe","level":2}
+{"kz":"топ","de":"team","level":2}
+{"kz":"тосынсый","de":"Überraschung","level":4}
+{"kz":"төлем картасы","de":"zahlungskarte","level":4}
+{"kz":"турист","de":"tourist","level":2}
+{"kz":"тынымсыз өмір","de":"hektisches leben","level":4}
+{"kz":"тіркелу","de":"anmeldung","level":3}
+{"kz":"тіркеуші","de":"registrator","level":4}
+{"kz":"ұлттық құрама","de":"nationalmannschaft","level":4}
+{"kz":"ұпай","de":"punkt, punkt","level":3}
+{"kz":"ұстаным","de":"position","level":4}
+{"kz":"ұшақ","de":"flugzeug","level":2}
+{"kz":"ұшу","de":"abfahrt","level":3}
+{"kz":"футбол","de":"fußball","level":1}
+{"kz":"хабарлама","de":"bekanntmachung","level":3}
+{"kz":"халықаралық ұшу","de":"internationaler flug","level":4}
+{"kz":"хоккей","de":"eishockey","level":2}
+{"kz":"хоккейші","de":"hockeyspieler","level":3}
+{"kz":"шаңғы","de":"skier","level":2}
+{"kz":"шахматшы","de":"schachspieler","level":3}
+{"kz":"шашылу","de":"streuung","level":5}
+{"kz":"іздеу","de":"suchen","level":2}
+{"kz":"электр қуаты","de":"strom","level":4}
+{"kz":"айтыс","de":"aitys, poesiewettbewerb","level":5}
+{"kz":"айтыскер","de":"akyn improvisator in aitys","level":5}
+{"kz":"айырмашылық","de":"unterschied, unterschied","level":4}
+{"kz":"ақын","de":"dichter","level":3}
+{"kz":"аспап","de":"werkzeug","level":3}
+{"kz":"әдебиет","de":"literatur","level":3}
+{"kz":"әнші","de":"sänger","level":2}
+{"kz":"әңгіме","de":"geschichte","level":3}
+{"kz":"әртіс","de":"künstler","level":3}
+{"kz":"әсемдік, көркемдік, сұлулық","de":"schönheit","level":3}
+{"kz":"әуен","de":"melodie","level":4}
+{"kz":"бағдарлама","de":"programm","level":3}
+{"kz":"байқау","de":"wettbewerb","level":3}
+{"kz":"басты рөл","de":"hauptrolle","level":4}
+{"kz":"басылым","de":"ausgabe","level":4}
+{"kz":"бейне","de":"bild","level":3}
+{"kz":"бейнелеу өнері","de":"malerei","level":4}
+{"kz":"білік-дағды","de":"fähigkeit","level":4}
+{"kz":"бір-біріне ұқсас","de":"einander ähnlich","level":4}
+{"kz":"дарындылық","de":"hochbegabung","level":5}
+{"kz":"дарынсыздық","de":"mittelmäßigkeit","level":5}
+{"kz":"деректі фильм","de":"dokumentarfilm","level":4}
+{"kz":"домбыра","de":"dombra","level":4}
+{"kz":"ертегі","de":"märchen","level":2}
+{"kz":"жазушы","de":"schriftsteller","level":3}
+{"kz":"жауһар","de":"meisterwerk","level":5}
+{"kz":"жеңімпаз","de":"gewinner","level":4}
+{"kz":"зал","de":"saal","level":2}
+{"kz":"иіссу, әтір","de":"parfüm","level":4}
+{"kz":"касса","de":"kasse","level":3}
+{"kz":"кейіпкер","de":"held, charakter","level":4}
+{"kz":"кербездік","de":"eleganz","level":5}
+{"kz":"кино","de":"film","level":1}
+{"kz":"кинотеат","de":"kino","level":3}
+{"kz":"композитор","de":"komponist","level":4}
+{"kz":"концерт","de":"konzert","level":2}
+{"kz":"концерт залы","de":"konzertsaal","level":4}
+{"kz":"көрермен","de":"zuschauer","level":3}
+{"kz":"көркем фильм","de":"spielfilm","level":4}
+{"kz":"көрме","de":"ausstellung","level":3}
+{"kz":"күй","de":"kui","level":4}
+{"kz":"күйсандық","de":"klavier","level":5}
+{"kz":"қабілет","de":"fähigkeit","level":4}
+{"kz":"қайраткер","de":"figur","level":4}
+{"kz":"қатар","de":"reihe","level":2}
+{"kz":"қобыз","de":"kobyz","level":5}
+{"kz":"қолөнер","de":"handarbeit","level":4}
+{"kz":"құпия","de":"geheim, geheim","level":3}
+{"kz":"құрастырушы","de":"compiler","level":5}
+{"kz":"музыка","de":"musik","level":1}
+{"kz":"музыкант","de":"musiker","level":3}
+{"kz":"мультфильм","de":"karikatur","level":2}
+{"kz":"мүсін","de":"skulptur","level":4}
+{"kz":"ойлау қабілеті","de":"fähigkeit zu denken","level":5}
+{"kz":"оқиға","de":"ereignis","level":3}
+{"kz":"оқырман","de":"leser","level":3}
+{"kz":"оператор","de":"operator","level":3}
+{"kz":"ою-өрнек","de":"ornament","level":5}
+{"kz":"өлең","de":"gedicht","level":3}
+{"kz":"өлшем","de":"größe","level":3}
+{"kz":"өнер","de":"kunst","level":3}
+{"kz":"өнер түрлері","de":"künste","level":4}
+{"kz":"өнерсүйгіш","de":"kunstliebhaber","level":5}
+{"kz":"өнертапқыш","de":"erfinder","level":5}
+{"kz":"пайдалануға болады","de":"verwendet werden kann","level":4}
+{"kz":"патша","de":"zar","level":3}
+{"kz":"періште","de":"engel","level":3}
+{"kz":"сазгер","de":"komponist","level":4}
+{"kz":"саты","de":"schritt","level":3}
+{"kz":"сахна","de":"szene","level":3}
+{"kz":"сән","de":"mode","level":3}
+{"kz":"сыйлық","de":"bonus","level":4}
+{"kz":"сыйлық иегері","de":"preisträger","level":5}
+{"kz":"талғам","de":"schmecken","level":3}
+{"kz":"тәрбиеленуші","de":"schüler","level":4}
+{"kz":"театр","de":"theater","level":2}
+{"kz":"түс","de":"farbe","level":1}
+{"kz":"тіл мәдениеті","de":"sprachkultur","level":5}
+{"kz":"ұран","de":"slogan","level":5}
+{"kz":"фестиваль","de":"festival","level":3}
+{"kz":"фильм","de":"film","level":2}
+{"kz":"хобби","de":"hobby","level":2}
+{"kz":"шебер","de":"master","level":3}
+{"kz":"шеберлік","de":"fähigkeit","level":4}
+{"kz":"шешендік өнер","de":"oratorium","level":5}
+{"kz":"шығарма","de":"arbeiten","level":3}
+{"kz":"шығармашылық","de":"schaffung","level":4}
+{"kz":"шымылдық","de":"vorhang","level":4}
+{"kz":"алқа","de":"halskette","level":4}
+{"kz":"арзан киім","de":"billige kleidung","level":3}
+{"kz":"аяқкиім","de":"schuhe","level":2}
+{"kz":"әйелдер киімі","de":"damenbekleidung","level":3}
+{"kz":"әмиян","de":"geldbörse","level":4}
+{"kz":"әшекей","de":"dekoration","level":3}
+{"kz":"әшекей бұйым","de":"schmuck","level":4}
+{"kz":"балалар киімі","de":"kinderbekleidung","level":3}
+{"kz":"баскиім","de":"kopfschmuck","level":4}
+{"kz":"бау","de":"schnürsenkel","level":3}
+{"kz":"бәтеңке","de":"stiefel","level":3}
+{"kz":"бейсболка","de":"baseballkappe","level":3}
+{"kz":"белбеу","de":"gürtel","level":3}
+{"kz":"белдемше","de":"rock","level":2}
+{"kz":"белдемше","de":"rock","level":2}
+{"kz":"белдік","de":"gürtel","level":3}
+{"kz":"берет","de":"baskenmütze","level":3}
+{"kz":"бешпет","de":"jacke, blazer","level":4}
+{"kz":"биялай","de":"fäustlinge","level":4}
+{"kz":"бөрік","de":"kappe","level":3}
+{"kz":"білезік","de":"armband","level":4}
+{"kz":"галстук","de":"binden","level":3}
+{"kz":"далап","de":"pomade","level":4}
+{"kz":"дизайнерлік киім","de":"designerkleidung","level":4}
+{"kz":"домалақ шашақ","de":"pompon","level":5}
+{"kz":"дулыға","de":"helm","level":4}
+{"kz":"ерлер киімі","de":"herrenbekleidung","level":3}
+{"kz":"етік","de":"stiefel","level":3}
+{"kz":"жаға","de":"kragen","level":3}
+{"kz":"жағалы","de":"mit kragen","level":3}
+{"kz":"жадағай","de":"mantel","level":4}
+{"kz":"жадағай","de":"mantel","level":4}
+{"kz":"жаздық киім","de":"sommerkleidung","level":3}
+{"kz":"жапсырма","de":"aufkleber, aufnäher","level":4}
+{"kz":"жейде","de":"hemd","level":2}
+{"kz":"жейде","de":"hemd","level":2}
+{"kz":"желпуіш, веер","de":"lüfter","level":5}
+{"kz":"жемпір","de":"pullover","level":3}
+{"kz":"жең","de":"Ärmel","level":3}
+{"kz":"жең бүкпесі","de":"manschette","level":5}
+{"kz":"жеңілгек","de":"zucht","level":5}
+{"kz":"жылы пальто","de":"warmer mantel","level":3}
+{"kz":"зергерлік бұйымдар","de":"schmuck","level":4}
+{"kz":"зүбаржат жүзік","de":"ring mit smaragd","level":6}
+{"kz":"кесте","de":"stickerei","level":4}
+{"kz":"киім","de":"tuch","level":2}
+{"kz":"киім үлгісі","de":"kleidungsproben","level":4}
+{"kz":"костюм","de":"kostüm","level":2}
+{"kz":"көзілдірік","de":"gläser","level":3}
+{"kz":"көйлек","de":"kleid","level":2}
+{"kz":"көне, тозған киім","de":"schäbige, abgenutzte kleidung","level":5}
+{"kz":"кубанка бөрік","de":"kubanka","level":5}
+{"kz":"күнделікті киім","de":"freizeitkleidung","level":3}
+{"kz":"күнқағар","de":"visier","level":5}
+{"kz":"күрте","de":"jacke","level":2}
+{"kz":"қалпақ","de":"hut","level":3}
+{"kz":"қалта","de":"tasche","level":2}
+{"kz":"қалталы","de":"mit taschen","level":3}
+{"kz":"қамзол","de":"leibchen","level":4}
+{"kz":"қол жұмысымен тігілген киім","de":"handgemachte kleidung","level":5}
+{"kz":"қол орамал","de":"taschentuch","level":3}
+{"kz":"қол сөмке","de":"handtasche","level":3}
+{"kz":"қолғап","de":"handschuhe","level":3}
+{"kz":"қолғап","de":"handschuhe","level":3}
+{"kz":"қолшатыр","de":"regenschirm","level":3}
+{"kz":"құлақшын","de":"ohrenklappen","level":5}
+{"kz":"қымбат киім","de":"teure kleidung","level":3}
+{"kz":"қыстық киім","de":"winterkleidung","level":3}
+{"kz":"қыстық пальто","de":"wintermantel","level":3}
+{"kz":"малақай","de":"hut, malachai","level":4}
+{"kz":"мәсі","de":"softstiefel ohne absatz","level":5}
+{"kz":"мерекелік киім","de":"partykleidung","level":3}
+{"kz":"мойыналқа","de":"anhänger","level":4}
+{"kz":"мойынорағыш","de":"schal","level":3}
+{"kz":"моншақ","de":"perlen","level":4}
+{"kz":"нәресте киімі","de":"kleidung für neugeborene","level":4}
+{"kz":"орамал","de":"taschentuch","level":3}
+{"kz":"пәлте","de":"mantel","level":2}
+{"kz":"сақина","de":"ring","level":3}
+{"kz":"сәлде","de":"turban","level":5}
+{"kz":"сәнді түйреуіш","de":"brosche","level":5}
+{"kz":"сәндік","de":"outfit, dekoration","level":4}
+{"kz":"сәукеле","de":"kopfschmuck der braut","level":5}
+{"kz":"синтетикалық киім","de":"synthetische kleidung","level":5}
+{"kz":"сөмке","de":"tasche","level":2}
+{"kz":"спорт киімі","de":"sportbekleidung","level":3}
+{"kz":"сырға","de":"ohrringe","level":3}
+{"kz":"тақия","de":"schädeldecke","level":4}
+{"kz":"телпек","de":"kappe","level":5}
+{"kz":"тон","de":"pelzmantel","level":3}
+{"kz":"тон, ішік","de":"pelzmantel","level":3}
+{"kz":"топтама","de":"sammlung","level":3}
+{"kz":"туфли","de":"schuhe","level":2}
+{"kz":"түйме","de":"taste","level":3}
+{"kz":"түймелі","de":"mit knöpfen","level":3}
+{"kz":"ұйықтауға арналған киім","de":"nachtwäsche, pyjamas","level":4}
+{"kz":"ұлттық киім","de":"nationale kleidung","level":4}
+{"kz":"үшкіл орамал","de":"kopftuch","level":4}
+{"kz":"футболка","de":"t-shirt","level":2}
+{"kz":"шалбар","de":"hose","level":2}
+{"kz":"шаңғы костюмі","de":"skioveralls","level":4}
+{"kz":"шапан","de":"chapan, robe","level":4}
+{"kz":"шашақ","de":"randbereich","level":5}
+{"kz":"шәлі","de":"schal","level":4}
+{"kz":"шомылу киімі","de":"strandbekleidung","level":4}
+{"kz":"шұлық","de":"socken","level":2}
+{"kz":"шілтер","de":"spitze","level":5}
+{"kz":"ішкиім","de":"unterwäsche","level":3}
+{"kz":"ағылшын","de":"engländer","level":3}
+{"kz":"ағылшынша","de":"auf englisch","level":3}
+{"kz":"азаматтық","de":"staatsbürgerschaft","level":4}
+{"kz":"американдық","de":"amerikanisch","level":3}
+{"kz":"ардагер","de":"veteran","level":4}
+{"kz":"атақ","de":"ruhm, ruhm","level":4}
+{"kz":"аты, есімі","de":"(sein) name","level":2}
+{"kz":"аты-жөні","de":"nachname, vorname, vatersname","level":3}
+{"kz":"әлеумет","de":"menschen, Öffentlichkeit","level":4}
+{"kz":"әлеуметтік көмек","de":"sozialhilfe","level":4}
+{"kz":"байлық","de":"reichtum","level":3}
+{"kz":"балалық шақ","de":"kindheit","level":3}
+{"kz":"бап","de":"artikel","level":3}
+{"kz":"батыр","de":"held, tapferer mann","level":3}
+{"kz":"батыс, күнбатыс","de":"westen","level":3}
+{"kz":"бейімдеу орталығы","de":"anpassungszentrum","level":5}
+{"kz":"білімі терең адам","de":"gebildeter mensch","level":4}
+{"kz":"гимн","de":"hymne","level":4}
+{"kz":"ғұлама","de":"universalgelehrter, großer kenner","level":5}
+{"kz":"ғылымның ғұламалары","de":"titanen der wissenschaft","level":5}
+{"kz":"дегдар, таңдаулы","de":"spitzenelite","level":5}
+{"kz":"ел","de":"land","level":1}
+{"kz":"елтаңба","de":"wappen","level":4}
+{"kz":"елші","de":"botschafter","level":4}
+{"kz":"елшілік","de":"botschaft","level":4}
+{"kz":"еңбек ері","de":"held der arbeit","level":4}
+{"kz":"ерлік","de":"feat","level":4}
+{"kz":"жаза","de":"bestrafung","level":3}
+{"kz":"Жаңа жыл","de":"neujahr","level":2}
+{"kz":"жарқын болашақ","de":"glänzende zukunft","level":4}
+{"kz":"жас","de":"alter","level":2}
+{"kz":"жастық шақ","de":"jugend","level":3}
+{"kz":"жауынгер","de":"krieger","level":4}
+{"kz":"жеңіс","de":"sieg","level":3}
+{"kz":"Жеңіс күні","de":"tag des sieges","level":4}
+{"kz":"заң","de":"gesetz","level":3}
+{"kz":"заңнама негіздері","de":"grundgesetzgebung","level":5}
+{"kz":"испандық","de":"hispanisch","level":3}
+{"kz":"кәрілік","de":"alter","level":3}
+{"kz":"кемеңгер, данышпан","de":"genius","level":5}
+{"kz":"күнкөріс деңгейі","de":"existenzsichernder lohn","level":5}
+{"kz":"қазақ","de":"kasachisch","level":2}
+{"kz":"қазақ даласы","de":"kasachische steppen","level":4}
+{"kz":"қазақ зиялылары","de":"kasachische intelligenz","level":5}
+{"kz":"қазақи рух","de":"kasachischer geist","level":4}
+{"kz":"қазақша","de":"auf kasachisch","level":2}
+{"kz":"қамқорлық","de":"vormundschaft","level":4}
+{"kz":"қара шаңырақ","de":"elternhaus","level":4}
+{"kz":"қарыз","de":"pflicht","level":3}
+{"kz":"қатысу","de":"teilnahme","level":3}
+{"kz":"Қиыр Шығыс","de":"fernost","level":4}
+{"kz":"қоғамдағы бедел","de":"autorität in der gesellschaft","level":5}
+{"kz":"қор","de":"fonds","level":3}
+{"kz":"қошемет","de":"respekt, ehre","level":4}
+{"kz":"Құрбан айт","de":"muslimischer religiöser feiertag","level":5}
+{"kz":"құрметті жан","de":"angesehener mann","level":3}
+{"kz":"құрылтай","de":"kongress, kongress","level":5}
+{"kz":"қылмыс","de":"verbrechen","level":4}
+{"kz":"қытай","de":"chinesisch","level":3}
+{"kz":"мемлекет","de":"zustand","level":3}
+{"kz":"Мемлекеттік рәміздер күні","de":"tag der staatssymbole","level":5}
+{"kz":"мерейтой","de":"jubiläum","level":4}
+{"kz":"мереке","de":"urlaub","level":2}
+{"kz":"мырза","de":"herr","level":4}
+{"kz":"Наурыз мейрамы","de":"nauryz-feiertag","level":4}
+{"kz":"неміс","de":"deutsch","level":3}
+{"kz":"немісше","de":"auf deutsch","level":3}
+{"kz":"оқымысты","de":"wissenschaftler","level":3}
+{"kz":"оңтүстік","de":"süden","level":3}
+{"kz":"орыс","de":"russisch","level":2}
+{"kz":"орысша","de":"auf russisch","level":2}
+{"kz":"отан","de":"heimat","level":2}
+{"kz":"отау иесі","de":"besitzer einer jungen familie","level":5}
+{"kz":"президент","de":"präsident","level":3}
+{"kz":"рәміз","de":"symbol","level":3}
+{"kz":"республика","de":"republik","level":3}
+{"kz":"сайлау","de":"wahlen","level":3}
+{"kz":"салт-дәстүрлер","de":"bräuche und traditionen","level":4}
+{"kz":"солтүстік","de":"norden","level":3}
+{"kz":"тарихи оқиға","de":"historisches ereignis","level":4}
+{"kz":"тарихи тұлға","de":"historische figur","level":4}
+{"kz":"Таяу Шығыс","de":"naher osten","level":4}
+{"kz":"Тәуелсіздік күні","de":"unabhängigkeitstag","level":5}
+{"kz":"тегі","de":"(sein) nachname","level":3}
+{"kz":"тергеу","de":"untersuchung","level":4}
+{"kz":"төреші","de":"richter","level":4}
+{"kz":"ту","de":"flagge","level":2}
+{"kz":"туған жер","de":"heimat","level":3}
+{"kz":"туған күн","de":"geburtstag","level":2}
+{"kz":"тұрмыста","de":"verheiratet","level":3}
+{"kz":"түрік","de":"türke","level":3}
+{"kz":"ұлттық тағамдар","de":"nationalgerichte","level":4}
+{"kz":"ұлты","de":"(seine) nationalität","level":3}
+{"kz":"үйленген","de":"verheiratet","level":3}
+{"kz":"үйлену тойы","de":"hochzeit","level":3}
+{"kz":"үкімет","de":"regierung","level":4}
+{"kz":"француз","de":"franzose","level":3}
+{"kz":"француз","de":"franzose","level":3}
+{"kz":"хабарландыру","de":"bekanntmachung","level":4}
+{"kz":"халық","de":"menschen","level":2}
+{"kz":"халық саны","de":"bevölkerung","level":4}
+{"kz":"халықаралық оқиға","de":"internationale veranstaltung","level":4}
+{"kz":"халықтың қалаулысы","de":"wählte einen der menschen aus","level":5}
+{"kz":"ханым","de":"frau","level":4}
+{"kz":"шекара","de":"grenze","level":4}
+{"kz":"шенеунік","de":"offiziell","level":4}
+{"kz":"шетелдік","de":"ausländer","level":4}
+{"kz":"шығыс, күншығыс","de":"ost","level":3}
+{"kz":"шілдехана","de":"feiertag zu ehren des neugeborenen","level":5}
+{"kz":"абыр-сабыр","de":"aufruhr, chaos","level":5}
+{"kz":"ақиқат, шындық","de":"wahr","level":4}
+{"kz":"алмасу","de":"ändern","level":3}
+{"kz":"амандық, аман-есендік","de":"wohlbefinden","level":4}
+{"kz":"аңдау, пайымдау","de":"betrachtung","level":5}
+{"kz":"арман","de":"traum","level":2}
+{"kz":"асығыстық","de":"eile, eile","level":4}
+{"kz":"әділдік","de":"gerechtigkeit","level":4}
+{"kz":"әсер","de":"eindruck","level":3}
+{"kz":"бейбітшілік","de":"welt","level":4}
+{"kz":"бетбұрыс","de":"drehen","level":4}
+{"kz":"болжал","de":"vorhersage","level":4}
+{"kz":"бостандық","de":"freiheit","level":3}
+{"kz":"дағдарыс","de":"krise, depression","level":4}
+{"kz":"дүниежүзі","de":"welt, universum","level":4}
+{"kz":"дүниені сезіну","de":"attitüde","level":5}
+{"kz":"дүниетаным","de":"weltanschauung","level":5}
+{"kz":"енжарлық","de":"gleichgültigkeit","level":5}
+{"kz":"ерекше құбылыс, феномен","de":"phänomen","level":5}
+{"kz":"ерекшелік","de":"besonderheit","level":4}
+{"kz":"жағдаят","de":"situation","level":4}
+{"kz":"жағымсыз қасиет","de":"negative eigenschaft","level":5}
+{"kz":"жандану","de":"wiederbelebung","level":4}
+{"kz":"жетістік","de":"leistung","level":3}
+{"kz":"жолы болу","de":"glück, glück","level":4}
+{"kz":"жұмбақ","de":"geheimnis","level":3}
+{"kz":"жүріс-тұрыс","de":"verhalten","level":4}
+{"kz":"жігерлендіруші күш","de":"inspirierende kraft","level":5}
+{"kz":"игі тілек","de":"gute wünsche","level":4}
+{"kz":"интуиция арқылы","de":"durch intuition","level":5}
+{"kz":"келіспеушілік","de":"meinungsverschiedenheit, meinungsverschiedenheit","level":5}
+{"kz":"кеңес","de":"beratung","level":3}
+{"kz":"кері әсерін тигізу","de":"spiel","level":5}
+{"kz":"кері кету","de":"abbau","level":5}
+{"kz":"көмекке зәру","de":"brauchen hilfe","level":4}
+{"kz":"көрсеткіш","de":"indikator","level":4}
+{"kz":"күйзеліс","de":"krise, niedergang","level":5}
+{"kz":"күлкі","de":"lachen","level":2}
+{"kz":"күмән","de":"zweifeln","level":4}
+{"kz":"күш-жігер","de":"die ganze kraft","level":4}
+{"kz":"қағида","de":"prinzip","level":4}
+{"kz":"қажымас қайрат","de":"unerschöpfliche energie","level":5}
+{"kz":"қалжың","de":"witz","level":3}
+{"kz":"қалыпты жағдай","de":"normaler zustand","level":4}
+{"kz":"қанағатсыздық","de":"egoismus, gier","level":6}
+{"kz":"қарбалас","de":"hektik, hektik","level":4}
+{"kz":"қарсылық","de":"einspruch","level":4}
+{"kz":"қарым-қатынас","de":"beziehung","level":4}
+{"kz":"қауіп","de":"gefahr","level":3}
+{"kz":"қауіпсіздік","de":"sicherheit","level":4}
+{"kz":"қиял","de":"fantasie","level":3}
+{"kz":"қоштасу","de":"abschied","level":3}
+{"kz":"қуаныш","de":"freude","level":2}
+{"kz":"құлшыныс","de":"eifer","level":5}
+{"kz":"қызығушылық","de":"interesse","level":3}
+{"kz":"мағына","de":"bedeutung","level":3}
+{"kz":"мазасыздық","de":"sorge, angst","level":4}
+{"kz":"мақсат","de":"ziel","level":2}
+{"kz":"махаббат","de":"liebe","level":3}
+{"kz":"мүмкіндік","de":"gelegenheit","level":3}
+{"kz":"мысал","de":"beispiel","level":2}
+{"kz":"несібе","de":"gut, schicksal, schicksal","level":5}
+{"kz":"ниет","de":"aufrichtige absicht","level":4}
+{"kz":"нұсқа","de":"version, option","level":4}
+{"kz":"нығаю","de":"stärkung, stärkung","level":4}
+{"kz":"ой тұжырымы","de":"schlussfolgerung","level":5}
+{"kz":"ойдан шығарылған","de":"fiktion","level":4}
+{"kz":"ой-өріс","de":"horizont","level":4}
+{"kz":"өзін өзі тану","de":"selbsterkenntnis","level":5}
+{"kz":"өзін-өзі бағалау","de":"selbstwertgefühl","level":5}
+{"kz":"өкпе","de":"ressentiment","level":3}
+{"kz":"өмірдің мәні","de":"sinn des lebens","level":5}
+{"kz":"өтірік","de":"lüge","level":3}
+{"kz":"рас","de":"wahrheit","level":2}
+{"kz":"реніш","de":"Ärger","level":4}
+{"kz":"реттеу","de":"verordnung","level":4}
+{"kz":"салыстыру","de":"vergleich","level":4}
+{"kz":"сана-сезім","de":"geist, bewusstsein","level":4}
+{"kz":"сәлемдесу","de":"grüße","level":3}
+{"kz":"сәттілік","de":"glück","level":3}
+{"kz":"себеп","de":"ursache","level":3}
+{"kz":"сенім","de":"glaube","level":3}
+{"kz":"тағдыр","de":"schicksal","level":3}
+{"kz":"тазалық","de":"sauberkeit, sauberkeit","level":4}
+{"kz":"таным","de":"erkenntnis","level":4}
+{"kz":"танымдылық","de":"erkenntnis","level":5}
+{"kz":"танысу","de":"bekanntschaft","level":3}
+{"kz":"тапқырлық","de":"witz","level":5}
+{"kz":"татулық","de":"freundschaft, harmonie","level":4}
+{"kz":"тосқауыл","de":"hindernis, hindernis","level":4}
+{"kz":"төзімділік","de":"geduld","level":4}
+{"kz":"төңкеріс","de":"coup","level":5}
+{"kz":"тұрмыс","de":"alltag","level":3}
+{"kz":"тыныштық","de":"schweigen","level":3}
+{"kz":"тіршілік","de":"existenz","level":4}
+{"kz":"үлгі","de":"probe","level":3}
+{"kz":"үміт","de":"hoffnung","level":2}
+{"kz":"хабардарлық, білгендік","de":"bewusstsein","level":5}
+{"kz":"шапшаңдық","de":"geschwindigkeit","level":4}
+{"kz":"шешу, жауабын табу","de":"erraten","level":4}
+{"kz":"шығу тегі","de":"herkunft","level":4}
+{"kz":"шыдамдылық","de":"geduld","level":4}
+{"kz":"шыдамсыздық","de":"ungeduld","level":5}
+{"kz":"шынайылық","de":"wirklichkeit","level":4}
+{"kz":"ықпал ету","de":"beeinflussen","level":4}
+{"kz":"ырым","de":"omen","level":4}
+{"kz":"ішкі түйсік, интуиция","de":"intuition","level":5}
+{"kz":"ай","de":"monat","level":1}
+{"kz":"айдың соңы","de":"ende des monats","level":3}
+{"kz":"ақпан","de":"februar","level":3}
+{"kz":"алдыңгүні","de":"vorgestern","level":3}
+{"kz":"апта","de":"woche","level":1}
+{"kz":"апта күндері","de":"tage der woche","level":2}
+{"kz":"апта соңы","de":"ende der woche","level":3}
+{"kz":"аяғында","de":"am ende","level":3}
+{"kz":"әдетте","de":"normalerweise","level":2}
+{"kz":"әлдеқашан","de":"vor langer zeit, vor langer zeit","level":3}
+{"kz":"әрдайым","de":"stets","level":1}
+{"kz":"басында","de":"anfangs","level":2}
+{"kz":"баяғыда","de":"für eine lange zeit","level":3}
+{"kz":"бейсенбі","de":"donnerstag","level":2}
+{"kz":"беске қарай","de":"näher an fünf","level":3}
+{"kz":"биыл","de":"dieses jahr","level":3}
+{"kz":"болашақта","de":"in der zukunft","level":3}
+{"kz":"бұрын","de":"früher","level":2}
+{"kz":"бұрынырақ","de":"früh","level":3}
+{"kz":"бүгін","de":"heute","level":1}
+{"kz":"бүрсігүні","de":"übermorgen","level":3}
+{"kz":"былтыр","de":"letztes jahr","level":3}
+{"kz":"бір күні, бірде","de":"eines tages, eines tages","level":3}
+{"kz":"бір сәтте","de":"in einem augenblick","level":4}
+{"kz":"ғасыр","de":"jahrhundert","level":3}
+{"kz":"дейін, шейін","de":"zu","level":1}
+{"kz":"дүйсенбі","de":"montag","level":2}
+{"kz":"ежелгі заман","de":"antike","level":4}
+{"kz":"енді, қазір","de":"jetzt, jetzt","level":2}
+{"kz":"ерте","de":"früh","level":1}
+{"kz":"ертең","de":"morgen","level":1}
+{"kz":"ескі заман","de":"alte zeiten","level":3}
+{"kz":"жаз","de":"sommer","level":1}
+{"kz":"жақында","de":"bald","level":2}
+{"kz":"жартыжылдық","de":"halbes jahr","level":4}
+{"kz":"жексенбі","de":"sonntag","level":2}
+{"kz":"желтоқсан","de":"dezember","level":3}
+{"kz":"жиі","de":"oft","level":2}
+{"kz":"жұма","de":"freitag","level":2}
+{"kz":"жыл","de":"jahr","level":1}
+{"kz":"жыл басы","de":"anfang des jahres","level":3}
+{"kz":"жыл мезгілдері","de":"jahreszeiten","level":2}
+{"kz":"жыл сайын","de":"jährlich","level":3}
+{"kz":"жыл соңында","de":"am ende des jahres","level":3}
+{"kz":"заман ағымы","de":"fluss der zeit","level":4}
+{"kz":"кейде, анда-санда","de":"manchmal","level":2}
+{"kz":"кейін","de":"nach","level":2}
+{"kz":"кейінгі кезде","de":"letztes mal","level":3}
+{"kz":"кеш","de":"spät","level":1}
+{"kz":"кеше","de":"gestern","level":1}
+{"kz":"кешке","de":"am abend","level":2}
+{"kz":"кешке таман","de":"später nachmittag","level":3}
+{"kz":"көзді ашып жұмғанша","de":"im handumdrehen","level":4}
+{"kz":"көктем","de":"frühling","level":2}
+{"kz":"көне заман","de":"extreme antike","level":4}
+{"kz":"көненің көзі","de":"zeuge der vergangenheit","level":5}
+{"kz":"күз","de":"herbst","level":2}
+{"kz":"күн","de":"tag","level":1}
+{"kz":"күн батарда","de":"bei sonnenuntergang, am ende des tages","level":3}
+{"kz":"күнде","de":"täglich","level":2}
+{"kz":"күнде, күн сайын","de":"täglich","level":3}
+{"kz":"күнделікті","de":"täglich","level":3}
+{"kz":"күндіз","de":"tagsüber","level":2}
+{"kz":"күндіз-түні","de":"tag und nacht","level":3}
+{"kz":"күннің ортасы","de":"mittag","level":3}
+{"kz":"қазан","de":"oktober","level":3}
+{"kz":"қазір","de":"jetzt","level":1}
+{"kz":"қазіргі кезде","de":"momentan","level":3}
+{"kz":"қазіргі\/осы шақ","de":"gegenwart","level":3}
+{"kz":"қаңтар","de":"januar","level":3}
+{"kz":"қараша","de":"november","level":3}
+{"kz":"қас қағым","de":"sofort","level":4}
+{"kz":"қыркүйек","de":"september","level":3}
+{"kz":"қыс","de":"winter","level":1}
+{"kz":"мамыр","de":"mai","level":2}
+{"kz":"маусым","de":"juni, saison","level":3}
+{"kz":"мәңгілік","de":"ewigkeit","level":4}
+{"kz":"мейрам қарсаңында","de":"feiertagsabend","level":4}
+{"kz":"минут","de":"minute","level":1}
+{"kz":"мыңжылдық","de":"millennium","level":4}
+{"kz":"наурыз","de":"marsch","level":3}
+{"kz":"одан кейін","de":"dann, danach","level":2}
+{"kz":"онға жуық","de":"etwa zehn","level":3}
+{"kz":"онкүндік","de":"jahrzehnt","level":4}
+{"kz":"өліара","de":"nebensaison","level":5}
+{"kz":"өткен шақ","de":"vergangenheit","level":3}
+{"kz":"сағат","de":"stunde","level":1}
+{"kz":"сәрсенбі","de":"mittwoch","level":2}
+{"kz":"сәуір","de":"april","level":3}
+{"kz":"сейсенбі","de":"dienstag","level":2}
+{"kz":"секунд","de":"zweite","level":2}
+{"kz":"сенбі","de":"samstag","level":2}
+{"kz":"сирек","de":"selten","level":2}
+{"kz":"соңғы кездері","de":"letztes mal","level":3}
+{"kz":"тамыз","de":"august","level":3}
+{"kz":"таңертең","de":"am morgen","level":2}
+{"kz":"тәулік","de":"tag","level":3}
+{"kz":"тәулік бойы","de":"rund um die uhr","level":3}
+{"kz":"тоқсан","de":"quartal","level":4}
+{"kz":"түн","de":"nacht","level":1}
+{"kz":"түнде","de":"nachts","level":2}
+{"kz":"түске дейін","de":"vor dem mittagessen","level":2}
+{"kz":"түсте","de":"beim mittagessen","level":2}
+{"kz":"түстен кейін","de":"nach dem mittagessen","level":3}
+{"kz":"уақыт","de":"zeit","level":1}
+{"kz":"уақыт кезеңдері","de":"zeiträume","level":4}
+{"kz":"ұйықтар алдында","de":"vor dem schlafengehen","level":3}
+{"kz":"үнемі, ылғи","de":"ständig, regelmäßig","level":2}
+{"kz":"шілде","de":"juli","level":3}
+{"kz":"абзац","de":"absatz","level":4}
+{"kz":"автотұрақ","de":"parken","level":4}
+{"kz":"арнаулы тілші","de":"sonderberichterstatter","level":5}
+{"kz":"атақты әртіс","de":"berühmter künstler","level":4}
+{"kz":"атау","de":"name","level":4}
+{"kz":"аяқталу","de":"ende, vollendung","level":3}
+{"kz":"әңгіме","de":"gespräch","level":3}
+{"kz":"БАҚ (бұқаралық ақпарат құралдары)","de":"medien","level":4}
+{"kz":"баспа","de":"verlag","level":4}
+{"kz":"баспа үйі","de":"verlag","level":4}
+{"kz":"баспагер","de":"herausgeber","level":5}
+{"kz":"баспасөз","de":"drucken, drücken","level":4}
+{"kz":"бейнежазба","de":"videoaufzeichnung","level":4}
+{"kz":"бос сөз","de":"leere worte","level":3}
+{"kz":"бөлім бастығы","de":"abteilungsleiter","level":4}
+{"kz":"бірнеше гипотеза","de":"mehrere hypothesen","level":5}
+{"kz":"газет","de":"zeitung","level":2}
+{"kz":"газет тілшісі","de":"korrespondent","level":4}
+{"kz":"Гиннес рекордтар кітабы","de":"guinness-buch der rekorde","level":5}
+{"kz":"ғұмырнама, биография","de":"biographie","level":4}
+{"kz":"дерек","de":"daten","level":3}
+{"kz":"есептеудегі қате","de":"rechenfehler","level":5}
+{"kz":"естелік","de":"erinnerung","level":4}
+{"kz":"естелікнама","de":"erinnerungen","level":5}
+{"kz":"жағымды ақпарат","de":"positive informationen","level":4}
+{"kz":"жақсы жаңалық","de":"gute nachrichten","level":3}
+{"kz":"жалған мәлімет","de":"falsche informationen","level":5}
+{"kz":"жаңа бағдарлама","de":"neues programm","level":3}
+{"kz":"жаңа тілші","de":"neuer reporter","level":4}
+{"kz":"жаңалық","de":"nachricht","level":2}
+{"kz":"жаңалықтар дайындау","de":"nachrichtenvorbereitung","level":5}
+{"kz":"жарнама","de":"werbung","level":3}
+{"kz":"журнал","de":"magazin","level":2}
+{"kz":"кездейсоқ қате","de":"zufälliger fehler","level":4}
+{"kz":"кездейсоқ оқиғалар","de":"zufällige ereignisse","level":4}
+{"kz":"кейінгі тізім","de":"nachfolgende liste","level":4}
+{"kz":"кинофильм өндірісі","de":"filmproduktion","level":5}
+{"kz":"корректура","de":"korrekturlesen","level":5}
+{"kz":"көңілді кино","de":"lustiger film","level":3}
+{"kz":"көпшілік","de":"gesellschaft, Öffentlichkeit","level":3}
+{"kz":"көрсетілім","de":"zeigen","level":4}
+{"kz":"көрсетілім","de":"sendung, show","level":4}
+{"kz":"күлкілі әңгіме","de":"witz","level":4}
+{"kz":"күтпеген оқиға","de":"unerwartetes ereignis","level":4}
+{"kz":"кіріспе","de":"einführung","level":3}
+{"kz":"кітап бастыру","de":"buchverlag, buchverlag","level":5}
+{"kz":"кітапқа енген","de":"im buch enthalten","level":4}
+{"kz":"қанатты сөз","de":"aphorismus","level":5}
+{"kz":"қателік","de":"fehler","level":3}
+{"kz":"қателік жіберілді","de":"es wurde ein fehler gemacht","level":4}
+{"kz":"құрал","de":"bedeutet","level":3}
+{"kz":"қызық бағдарлама","de":"interessantes programm","level":3}
+{"kz":"қызық телешоу","de":"interessante tv-show","level":3}
+{"kz":"қызықты мәліметтер","de":"unterhaltsame informationen","level":4}
+{"kz":"қызықты мәліметтер","de":"interessante fakten","level":3}
+{"kz":"қызықты оқиға","de":"interessante veranstaltung","level":3}
+{"kz":"мазмұны","de":"(sein) inhalt","level":3}
+{"kz":"мақала","de":"artikel","level":3}
+{"kz":"мәтін","de":"text","level":3}
+{"kz":"меншікті тілші","de":"eigener korrespondent","level":5}
+{"kz":"мерзімді баспасөз","de":"zeitschriften, veröffentlichung","level":5}
+{"kz":"мысал әңгіме","de":"fabel","level":4}
+{"kz":"нұсқаулық","de":"anweisungen","level":4}
+{"kz":"отандық телеарна","de":"heimischer fernsehsender","level":4}
+{"kz":"өнер жұлдыздары","de":"kunststars","level":4}
+{"kz":"өнер қайраткері","de":"künstler","level":5}
+{"kz":"пайдасы жоқ","de":"nutzlos","level":3}
+{"kz":"пьеса кейіпкері","de":"held des stücks","level":5}
+{"kz":"сауалнама","de":"fragebogen, fragebogen","level":4}
+{"kz":"сөзсіз қате","de":"absoluter fehler","level":5}
+{"kz":"тақырыпат","de":"titel","level":4}
+{"kz":"танымал әнші","de":"beliebter sänger","level":3}
+{"kz":"танымал кинофильм","de":"beliebter film","level":3}
+{"kz":"танымдық мәліметтер","de":"bildungsinformationen","level":4}
+{"kz":"таңғы басылым","de":"morgenausgabe","level":4}
+{"kz":"тез сатылу","de":"verkauf","level":4}
+{"kz":"телеарна","de":"fernsehsender","level":3}
+{"kz":"телебағдарламаға қатысу","de":"teilnahme an einer fernsehsendung","level":5}
+{"kz":"теледидар бағдарламасы","de":"fernsehsendung","level":4}
+{"kz":"тележүргізуші","de":"fernsehmoderator","level":4}
+{"kz":"телехабар","de":"fernsehübertragung","level":4}
+{"kz":"телехикая","de":"fernsehserie","level":4}
+{"kz":"техникалық қиындықтар","de":"technische schwierigkeiten","level":5}
+{"kz":"тұсаукесер","de":"premiere, präsentation","level":5}
+{"kz":"түйін","de":"abschluss","level":4}
+{"kz":"түсіндірме","de":"kommentar, erklärung","level":4}
+{"kz":"түсінік беруші","de":"kommentator","level":4}
+{"kz":"тікелей эфир","de":"live-Übertragung","level":4}
+{"kz":"тіркеу қатесі","de":"registrierungsfehler","level":5}
+{"kz":"ұсыныс","de":"angebot","level":3}
+{"kz":"фильм түсіру","de":"filmen","level":4}
+{"kz":"фотосурет","de":"foto","level":3}
+{"kz":"хабар","de":"neuigkeiten, neuigkeiten","level":3}
+{"kz":"шебер","de":"master","level":3}
+{"kz":"шолушы","de":"rezensent","level":5}
+{"kz":"шығу мерзімі","de":"veröffentlichungsdatum","level":4}
+{"kz":"ағза","de":"organismus","level":4}
+{"kz":"ағзаның тітіркенуі","de":"allergie","level":5}
+{"kz":"аққандылық","de":"leukämie","level":6}
+{"kz":"апиын","de":"opium","level":5}
+{"kz":"артериялық қан қысымы","de":"blutdruck","level":5}
+{"kz":"асқазан ауруы","de":"gastritis","level":4}
+{"kz":"ауру","de":"krankheit, krank","level":2}
+{"kz":"аурудың алдын алу","de":"verhütung","level":5}
+{"kz":"аштық","de":"hunger","level":3}
+{"kz":"бас ауру","de":"kopfschmerzen","level":3}
+{"kz":"буындардың ауыруы","de":"gelenkschmerzen","level":4}
+{"kz":"буыны таю\/шығу","de":"luxation","level":4}
+{"kz":"бұрау","de":"tourniquet","level":5}
+{"kz":"дәм","de":"schmecken","level":2}
+{"kz":"дәрумен","de":"vitamin","level":4}
+{"kz":"дәрумендер","de":"vitamine","level":4}
+{"kz":"дәруменсіздік","de":"avitaminose","level":5}
+{"kz":"дәрі","de":"medizin","level":2}
+{"kz":"дәрі тамызғыш","de":"iv","level":5}
+{"kz":"дәрігер","de":"arzt","level":2}
+{"kz":"дәрігерлер кеңесі","de":"Ärztekammer","level":6}
+{"kz":"дәрі-дәрмектер","de":"medikamente","level":4}
+{"kz":"дәрілік қырмызыгүл","de":"calendula officinalis","level":6}
+{"kz":"дем алу","de":"einatmen","level":3}
+{"kz":"дем шығару","de":"ausatmung","level":3}
+{"kz":"денсаулық, саулық","de":"gesundheit","level":2}
+{"kz":"дұрыс тамақтану","de":"richtige ernährung","level":4}
+{"kz":"емші","de":"arzt","level":4}
+{"kz":"жақпа май","de":"salbe","level":4}
+{"kz":"жарақат","de":"wunde","level":3}
+{"kz":"жөтел","de":"husten","level":3}
+{"kz":"жүйке жүйесі","de":"nervensystem","level":5}
+{"kz":"жүрек ауруының дәрігері","de":"kardiologe","level":5}
+{"kz":"жылытқы","de":"wärmer","level":4}
+{"kz":"жындану","de":"tollwut","level":5}
+{"kz":"зақымдану","de":"schaden","level":4}
+{"kz":"зерттеу нәтижесі","de":"forschungsergebnis","level":5}
+{"kz":"зерттеу негізі","de":"umfragebasis","level":5}
+{"kz":"зертхана","de":"labor","level":4}
+{"kz":"ингалятор","de":"inhalator","level":5}
+{"kz":"иісмай","de":"creme","level":4}
+{"kz":"кабинет","de":"kabinett","level":3}
+{"kz":"келбет","de":"aussehen","level":4}
+{"kz":"компресс","de":"kompresse","level":5}
+{"kz":"көмірсу","de":"kohlenhydrat","level":5}
+{"kz":"қабыну","de":"entzündung","level":4}
+{"kz":"қалғу","de":"nickerchen","level":4}
+{"kz":"қан аздық, анемия","de":"anämie","level":5}
+{"kz":"қандауыр","de":"skalpell","level":6}
+{"kz":"құлақ ауру","de":"ohrenschmerzen","level":3}
+{"kz":"қызу көтерілу","de":"temperaturanstieg","level":4}
+{"kz":"қырмызыгүл","de":"ringelblume","level":5}
+{"kz":"қышақағаз","de":"senfpflaster","level":5}
+{"kz":"майсана","de":"rizinusöl","level":5}
+{"kz":"медицина қызметкерлері","de":"medizinisches personal","level":5}
+{"kz":"медициналық көрсеткіштер","de":"medizinische indikatoren","level":5}
+{"kz":"мейіргер","de":"krankenschwester, krankenschwester","level":3}
+{"kz":"минералды дәрі","de":"mineralmedizin","level":5}
+{"kz":"нәтижені құптау\/растау","de":"bestätigung des ergebnisses","level":5}
+{"kz":"ота","de":"betrieb","level":3}
+{"kz":"ота бөлмесі","de":"operationssaal","level":4}
+{"kz":"салмақ","de":"gewicht","level":2}
+{"kz":"сары ауру","de":"hepatitis","level":5}
+{"kz":"сергектік","de":"fröhlichkeit","level":4}
+{"kz":"сұйық дәрі, микстура","de":"trank","level":5}
+{"kz":"сынықшы","de":"orthopäde, chiropraktiker","level":5}
+{"kz":"тамақтану режимі","de":"diät","level":4}
+{"kz":"тәбет","de":"appetit","level":3}
+{"kz":"тез айығып кету","de":"schnelle genesung","level":4}
+{"kz":"тері ауруының дәрігері","de":"dermatologe","level":5}
+{"kz":"тұмау","de":"grippe","level":3}
+{"kz":"тұнба","de":"infusion","level":4}
+{"kz":"тыныс","de":"atem","level":3}
+{"kz":"тіс ауру","de":"zahnschmerzen","level":3}
+{"kz":"тіс дәрігері","de":"zahnarzt","level":4}
+{"kz":"уға қарсы дәрі","de":"gegenmittel","level":5}
+{"kz":"ұзақ өмір сүру үшін","de":"lange leben","level":3}
+{"kz":"ұйқы бұзылу","de":"schlafstörung","level":4}
+{"kz":"ұмытшақтық","de":"amnesie","level":5}
+{"kz":"шаншу","de":"kolik","level":5}
+{"kz":"шипа","de":"heilung, heilung","level":4}
+{"kz":"шипалы батпақ","de":"heilschlamm","level":5}
+{"kz":"шөл, шөлдеу","de":"durst","level":3}
+{"kz":"шөппен емдеуші","de":"kräuterkundiger","level":5}
+{"kz":"іріңдік","de":"abszess","level":6}
+{"kz":"ағаш","de":"holz","level":3}
+{"kz":"ағаш спирті","de":"holzalkohol","level":5}
+{"kz":"ағаштың діңі","de":"baumstamm","level":4}
+{"kz":"алма ағашы","de":"apfel","level":3}
+{"kz":"алтын","de":"gold","level":2}
+{"kz":"алюминий","de":"aluminium","level":4}
+{"kz":"анартас, гранит","de":"granit","level":4}
+{"kz":"асфальт","de":"asphalt","level":3}
+{"kz":"асыл тастар","de":"edelsteine","level":4}
+{"kz":"атлас","de":"atlas","level":4}
+{"kz":"ауа","de":"luft","level":1}
+{"kz":"әк","de":"kalk","level":4}
+{"kz":"әктас","de":"kalkstein","level":5}
+{"kz":"барқыт","de":"samt","level":4}
+{"kz":"баршын","de":"brokat","level":5}
+{"kz":"бәйшешек","de":"schneeglöckchen","level":4}
+{"kz":"бәтес","de":"batist","level":5}
+{"kz":"бетон","de":"beton","level":3}
+{"kz":"бор","de":"kreide","level":2}
+{"kz":"бөз","de":"kattun","level":5}
+{"kz":"бу","de":"dampf","level":2}
+{"kz":"бұтақ","de":"zweig","level":3}
+{"kz":"бұтақ","de":"zweig, zweig","level":4}
+{"kz":"бүртік","de":"boucle","level":6}
+{"kz":"бүршік","de":"knospe","level":3}
+{"kz":"былғары","de":"leder","level":3}
+{"kz":"ватин","de":"schlagen","level":5}
+{"kz":"газ","de":"gas","level":2}
+{"kz":"газ","de":"gase","level":3}
+{"kz":"гауһар","de":"diamant","level":4}
+{"kz":"гипс","de":"gips","level":4}
+{"kz":"гүлшоқ","de":"blumenstrauß","level":4}
+{"kz":"дәке","de":"gaze","level":4}
+{"kz":"дің","de":"stamm","level":3}
+{"kz":"емен","de":"eiche","level":3}
+{"kz":"емен","de":"eiche","level":3}
+{"kz":"ерітінді","de":"lösung","level":4}
+{"kz":"жабайы алма ағашы","de":"wilder apfelbaum","level":4}
+{"kz":"жақұт","de":"saphir","level":5}
+{"kz":"жалбыз","de":"minze","level":3}
+{"kz":"жасанды жібек","de":"viskose","level":5}
+{"kz":"жусан","de":"beifuß","level":4}
+{"kz":"жұмсақ тері, күдері","de":"wildleder","level":5}
+{"kz":"жүн мата","de":"wolle","level":3}
+{"kz":"жібек","de":"seide","level":3}
+{"kz":"жібек","de":"seide","level":3}
+{"kz":"зүбаржат","de":"smaragd","level":5}
+{"kz":"кәріптас","de":"bernstein","level":5}
+{"kz":"кенеп","de":"leinwand","level":4}
+{"kz":"кесек","de":"bar","level":4}
+{"kz":"кесек алтын","de":"barren gold","level":5}
+{"kz":"көгілдір ақық","de":"türkis","level":5}
+{"kz":"көкнәр","de":"mohn","level":4}
+{"kz":"крепдешин","de":"crêpe de chine","level":6}
+{"kz":"күкіртті сутегі","de":"schwefelwasserstoff","level":6}
+{"kz":"күл","de":"asche","level":3}
+{"kz":"күміс","de":"silber","level":3}
+{"kz":"кірпіш","de":"ziegel","level":3}
+{"kz":"қабық","de":"bellen","level":3}
+{"kz":"қайың","de":"birke","level":3}
+{"kz":"қалайы","de":"zinn","level":4}
+{"kz":"қалампыр","de":"nelke","level":4}
+{"kz":"қарағай","de":"kiefer","level":3}
+{"kz":"қатты зат","de":"solide","level":4}
+{"kz":"қола","de":"bronze","level":4}
+{"kz":"қоңырау гүл","de":"glocke","level":4}
+{"kz":"қорғасын","de":"führen","level":4}
+{"kz":"құм","de":"sand","level":2}
+{"kz":"қыжым","de":"plüsch","level":5}
+{"kz":"қызғалдақ, жауқазын","de":"tulpe","level":4}
+{"kz":"қымыздық","de":"sauerampfer","level":5}
+{"kz":"қышқыл","de":"säure","level":4}
+{"kz":"лавсан","de":"lavsan","level":5}
+{"kz":"лалагүл","de":"lilie","level":4}
+{"kz":"майлы заттар","de":"ölige substanzen","level":5}
+{"kz":"мақта","de":"baumwolle","level":3}
+{"kz":"маржан","de":"koralle","level":4}
+{"kz":"масаты","de":"velours","level":5}
+{"kz":"мата","de":"textil-","level":3}
+{"kz":"меруерт, інжу","de":"perle","level":4}
+{"kz":"минералдар","de":"mineralien","level":4}
+{"kz":"минералды тұз","de":"mineralsalz","level":4}
+{"kz":"мүсәтір спирті","de":"ammoniak","level":6}
+{"kz":"мыс","de":"kupfer","level":3}
+{"kz":"оттегі","de":"sauerstoff","level":4}
+{"kz":"өртелген кірпіш","de":"verbrannter ziegelstein","level":5}
+{"kz":"өсімдік","de":"anlage","level":2}
+{"kz":"пластмасса","de":"plastik","level":4}
+{"kz":"помази","de":"bumazea","level":6}
+{"kz":"раушан гүлі","de":"rose","level":3}
+{"kz":"сабақ","de":"stängel","level":3}
+{"kz":"саз, балшық","de":"ton","level":3}
+{"kz":"сәтен","de":"satin","level":4}
+{"kz":"сия","de":"tinte","level":3}
+{"kz":"спирт","de":"alkohol","level":4}
+{"kz":"суретті кілем","de":"tapisserie","level":5}
+{"kz":"сутегі","de":"wasserstoff","level":4}
+{"kz":"сұйық зат","de":"flüssige substanz","level":4}
+{"kz":"сұйықтық","de":"flüssig","level":4}
+{"kz":"табиғи силикаттар","de":"natürliche silikate","level":6}
+{"kz":"тал","de":"weide, weide","level":4}
+{"kz":"тамыр","de":"wurzel (pflanze)","level":3}
+{"kz":"тас","de":"stein","level":2}
+{"kz":"темір","de":"eisen","level":2}
+{"kz":"терек","de":"pappel","level":4}
+{"kz":"тоқыма","de":"textil-","level":4}
+{"kz":"торғын","de":"fein seide","level":5}
+{"kz":"тұқым","de":"samen","level":3}
+{"kz":"түбір","de":"wurzel (eines baumes), baumstumpf","level":3}
+{"kz":"түймедақ","de":"kamille","level":4}
+{"kz":"түтін","de":"rauch","level":3}
+{"kz":"тыңайтқыш","de":"dünger","level":4}
+{"kz":"үйеңкі","de":"ahorn","level":4}
+{"kz":"химиялық қоспа","de":"chemische zusätze","level":5}
+{"kz":"цемент","de":"zement","level":3}
+{"kz":"шаң","de":"staub","level":2}
+{"kz":"шибарқыт","de":"samt","level":5}
+{"kz":"шырша","de":"fichte","level":3}
+{"kz":"шыт","de":"chintz","level":5}
+{"kz":"ыстық бу","de":"heißer dampf","level":3}
+{"kz":"ағаш дайындау","de":"protokollierung","level":5}
+{"kz":"ағаш құлату","de":"fällen","level":5}
+{"kz":"ағаш өнеркәсібі","de":"holzindustrie","level":5}
+{"kz":"аралық","de":"intervall","level":4}
+{"kz":"атқару мерзімі","de":"exekutive amtszeit","level":5}
+{"kz":"әкімшілік","de":"verwaltung","level":4}
+{"kz":"бастан-аяқ","de":"von anfang bis ende","level":3}
+{"kz":"басы, басталуы, бастамасы","de":"start","level":2}
+{"kz":"басымдық","de":"priorität","level":4}
+{"kz":"болашақ","de":"zukunft","level":2}
+{"kz":"вагон жасау","de":"kutschenbau","level":5}
+{"kz":"ғимараттар құрылысы","de":"hochbau","level":5}
+{"kz":"ғылыми негіз","de":"wissenschaftliche grundlage","level":5}
+{"kz":"дайын өнім","de":"fertige produkte","level":4}
+{"kz":"дақ","de":"stelle","level":2}
+{"kz":"деңгей","de":"ebene","level":3}
+{"kz":"ең басында","de":"ganz am anfang","level":2}
+{"kz":"ең соңында","de":"ganz am ende","level":2}
+{"kz":"есеп қағазы","de":"papierbericht","level":4}
+{"kz":"жарамдылық","de":"eignung, eignung","level":4}
+{"kz":"жарамдылық мерзімі","de":"haltbar bis","level":4}
+{"kz":"жеңіл индустрия","de":"leichtindustrie","level":4}
+{"kz":"жеткізу мерзімі","de":"lieferzeit","level":4}
+{"kz":"жоғары дәреже","de":"hohen stellenwert","level":4}
+{"kz":"жол салу","de":"straßenbau","level":4}
+{"kz":"жұмыспен қамту","de":"bereitstellung von arbeit","level":5}
+{"kz":"жұмыстағы үзіліс","de":"pause bei der arbeit","level":4}
+{"kz":"жүлде","de":"preis","level":3}
+{"kz":"жүн иіру","de":"wollspinnen","level":5}
+{"kz":"жібек иіру","de":"filatur","level":5}
+{"kz":"иіру","de":"spinnen, handarbeiten","level":4}
+{"kz":"келісуші","de":"koordinator, verhandlungsführer","level":5}
+{"kz":"кеме жасау","de":"schiffbau","level":5}
+{"kz":"көлем","de":"volumen","level":3}
+{"kz":"көмір шығару","de":"kohlebergbau","level":4}
+{"kz":"қадағалау мерзімі","de":"beobachtungszeitraum","level":5}
+{"kz":"қант қайнату","de":"zucker kochen, zucker herstellen","level":5}
+{"kz":"қолданылу мерзімі","de":"nutzungsdauer","level":4}
+{"kz":"қосымша демалыс","de":"zusätzlicher urlaub","level":4}
+{"kz":"құжаттың айналу мерзімі","de":"belegflusszeitraum","level":6}
+{"kz":"құжаттың әрекет ету мерзімі","de":"gültigkeitsdauer des dokuments","level":5}
+{"kz":"құрамы","de":"verbindung","level":3}
+{"kz":"құрылыста жұмыс істеу","de":"arbeiten im baugewerbe","level":4}
+{"kz":"мал шаруашылығы саласы","de":"viehwirtschaft","level":5}
+{"kz":"машина жасау","de":"maschinenbau","level":5}
+{"kz":"мезгілі өтті","de":"abgelaufen, abgelaufen","level":4}
+{"kz":"мезгілінде орындалды","de":"pünktlich abgeschlossen","level":4}
+{"kz":"мерзімі өткенше","de":"vor ablauf der frist","level":4}
+{"kz":"мерзімі өтіп барады","de":"frist läuft ab","level":4}
+{"kz":"молшылық","de":"fülle","level":4}
+{"kz":"мөлшер, шама","de":"größe","level":3}
+{"kz":"нарық","de":"markt","level":3}
+{"kz":"озып шығу","de":"komm voran","level":4}
+{"kz":"орманшаруашылығы","de":"forstwirtschaft","level":5}
+{"kz":"орындалу мерзімі","de":"fälligkeitsdatum","level":4}
+{"kz":"отандық өндіруші","de":"inländischer hersteller","level":5}
+{"kz":"өндіруші","de":"hersteller","level":4}
+{"kz":"өндіріс","de":"produktion","level":3}
+{"kz":"өнертабыс","de":"erfindung","level":5}
+{"kz":"өнім","de":"produkte","level":3}
+{"kz":"өңір","de":"region","level":3}
+{"kz":"пайдалану мерзімі","de":"lebensdauer","level":5}
+{"kz":"сабын қайнату\/жасау","de":"seifenherstellung","level":5}
+{"kz":"сақталу мерзімі","de":"haltbarkeit","level":4}
+{"kz":"сақтандыру мерзімі","de":"versicherungszeitraum","level":5}
+{"kz":"санат","de":"kategorie","level":4}
+{"kz":"сатып алушы","de":"käufer","level":3}
+{"kz":"сыра қайнату\/ашыту","de":"brauen","level":5}
+{"kz":"тағайындалған мерзім","de":"vereinbarte zeit","level":5}
+{"kz":"тарап","de":"seite","level":3}
+{"kz":"тауар","de":"produkt","level":3}
+{"kz":"тексеруші","de":"inspektor","level":4}
+{"kz":"темір жол салу","de":"eisenbahnbau","level":5}
+{"kz":"туынды","de":"arbeiten","level":3}
+{"kz":"тұз қайнату","de":"salzherstellung, salzkochen","level":5}
+{"kz":"тұтыну","de":"verbrauch","level":4}
+{"kz":"тұтынушы","de":"verbraucher","level":4}
+{"kz":"тірлік","de":"leben, existenz","level":3}
+{"kz":"уақыт тәртібі","de":"reihenfolge der zeit","level":4}
+{"kz":"уақыт тәртібін сақтау","de":"halten sie die zeitreihenfolge ein","level":5}
+{"kz":"ұзақтық","de":"dauer","level":4}
+{"kz":"ұқсастық","de":"Ähnlichkeit","level":4}
+{"kz":"ұлттық байқау","de":"nationalen wettbewerb","level":4}
+{"kz":"ұлттық нақыш","de":"nationalfarbe","level":5}
+{"kz":"ұрлық","de":"diebstahl, diebstahl","level":4}
+{"kz":"ұсталу","de":"festnahme","level":4}
+{"kz":"үзіліссіз","de":"ohne pause","level":3}
+{"kz":"үлес","de":"aktie","level":3}
+{"kz":"үміткер","de":"herausforderer","level":4}
+{"kz":"шағым","de":"beschwerde, bitte","level":4}
+{"kz":"шарап ашытушылық","de":"weinherstellung","level":5}
+{"kz":"ың-шың, абыр-дабыр","de":"lärm, lärm","level":5}
+{"kz":"ізім-қайым жоғалу","de":"fehlen","level":5}
+{"kz":"іс","de":"fall","level":2}
+{"kz":"істің сәтті аяқталуы","de":"erfolgreicher ausgang des falles","level":5}
+{"kz":"айналым","de":"umsatz","level":4}
+{"kz":"айыппұл","de":"bußgeld","level":4}
+{"kz":"ақша","de":"geld","level":1}
+{"kz":"ақша жіберу, аударым","de":"Überweisung","level":4}
+{"kz":"алғы төлем","de":"vorauszahlung","level":4}
+{"kz":"алпауыт, магнат","de":"magnat","level":5}
+{"kz":"асыраудағы, қараудағы адам","de":"abhängig","level":5}
+{"kz":"баға","de":"preis","level":2}
+{"kz":"бағам","de":"also","level":4}
+{"kz":"баж салығы","de":"pflicht","level":5}
+{"kz":"бақылаушы, ревизор","de":"wirtschaftsprüfer","level":5}
+{"kz":"балама, эквивалент","de":"Äquivalent","level":5}
+{"kz":"біркелкілік, біртүрлілік","de":"gleichmäßigkeit","level":5}
+{"kz":"делдал","de":"makler, vermittler","level":5}
+{"kz":"депозит салушы","de":"einleger","level":6}
+{"kz":"ереуілші","de":"stürmer","level":5}
+{"kz":"жалдаушы","de":"mieter, mieter","level":4}
+{"kz":"жалпы саны","de":"gesamtmenge","level":3}
+{"kz":"жанама салық, акциз","de":"verbrauchsteuer","level":5}
+{"kz":"жарна","de":"beiträge","level":4}
+{"kz":"жарнашы","de":"aktionär","level":5}
+{"kz":"жәрдемақы","de":"zuschuss","level":4}
+{"kz":"жеке меншік иесі","de":"eigentümer","level":5}
+{"kz":"жекешелендіру","de":"privatisierung","level":5}
+{"kz":"жеңілдік","de":"rabatt","level":3}
+{"kz":"жеткізуші","de":"anbieter","level":4}
+{"kz":"жинақ ақша","de":"sparen","level":4}
+{"kz":"инвестор","de":"investor","level":4}
+{"kz":"кепіл","de":"versprechen","level":4}
+{"kz":"кепілгер","de":"garant","level":5}
+{"kz":"кепілдеме, кепілақы","de":"kaution","level":5}
+{"kz":"көмек, көмек қарыз","de":"darlehen","level":5}
+{"kz":"көмекқаржы","de":"subvention","level":5}
+{"kz":"көтерме саудагер","de":"großhändler","level":4}
+{"kz":"қазына","de":"kassen","level":4}
+{"kz":"қайырым жасаушы","de":"philanthrop, philanthrop","level":5}
+{"kz":"қайырымдылық","de":"wohltätigkeit","level":5}
+{"kz":"қамтамасыз ету, қамсыздандыру","de":"sicherheit","level":4}
+{"kz":"қаржы","de":"finanzen","level":4}
+{"kz":"қаржыландыру","de":"finanzierung","level":5}
+{"kz":"қаржылық салымдар","de":"investition","level":5}
+{"kz":"қарыз беруші","de":"gläubiger","level":4}
+{"kz":"қарыздар","de":"schuldner","level":4}
+{"kz":"қойма, көмбе","de":"lager, räumlichkeiten","level":4}
+{"kz":"қолма-қол ақша","de":"kasse","level":4}
+{"kz":"қор, жинақ, қорлану","de":"akkumulation","level":4}
+{"kz":"қосымша шығындар","de":"zusätzliche kosten, spesen","level":5}
+{"kz":"құн","de":"preis","level":3}
+{"kz":"құрылыстағы мердігер","de":"bauunternehmer","level":5}
+{"kz":"мемлекеттік көмекқаржы","de":"staatlicher zuschuss","level":5}
+{"kz":"мемлекеттік қазына","de":"staatskasse","level":5}
+{"kz":"мердігер","de":"auftragnehmer","level":4}
+{"kz":"мұнай магнаты","de":"Ölmagnat","level":5}
+{"kz":"мұра қалдырушы","de":"erblasser","level":5}
+{"kz":"мұрагер","de":"erbe","level":4}
+{"kz":"мүлікті сақтандыру","de":"sachversicherung","level":5}
+{"kz":"несие","de":"kredit","level":3}
+{"kz":"орташа табыс","de":"durchschnittseinkommen","level":4}
+{"kz":"пайда","de":"profitieren","level":3}
+{"kz":"пайыз","de":"prozent","level":3}
+{"kz":"пара","de":"bestechen","level":4}
+{"kz":"пәтерақы","de":"mieten","level":4}
+{"kz":"сақтандыру","de":"versicherung","level":4}
+{"kz":"салық","de":"steuer","level":3}
+{"kz":"салық төлеуші","de":"steuerzahler","level":5}
+{"kz":"салым","de":"beitrag","level":3}
+{"kz":"салымшы","de":"investor","level":4}
+{"kz":"сапа","de":"qualität","level":3}
+{"kz":"сатылым","de":"verkauf","level":3}
+{"kz":"сауда","de":"handel","level":3}
+{"kz":"төлеуші","de":"zahler","level":4}
+{"kz":"ұсталған шығын","de":"kosten","level":5}
+{"kz":"үлгі, эталон","de":"referenz","level":5}
+{"kz":"үлескер","de":"pächter","level":5}
+{"kz":"үстеме","de":"zuschuss","level":4}
+{"kz":"үстеме баға","de":"markup","level":5}
+{"kz":"шегеру","de":"abzug","level":5}
+{"kz":"шек, шекара","de":"grenze","level":3}
+{"kz":"шеттен әкелу, импорт","de":"import","level":4}
+{"kz":"шығын","de":"verbrauch","level":3}
+{"kz":"іріктеу негізі","de":"probenahmerahmen","level":6}
+{"kz":"айлық, жалақы","de":"löhne","level":3}
+{"kz":"айыппұл","de":"bußgeld","level":4}
+{"kz":"ақша аудару","de":"geldtransfers","level":4}
+{"kz":"ақысыз еңбек демалысы","de":"unbezahlter urlaub","level":5}
+{"kz":"алғыс хат","de":"dankesbrief","level":4}
+{"kz":"анықтама","de":"referenz","level":3}
+{"kz":"арыз","de":"beschwerde","level":4}
+{"kz":"атқара алмау","de":"nichteinhaltung","level":4}
+{"kz":"әрекет","de":"versuchen","level":3}
+{"kz":"әскери міндет","de":"militärdienst","level":5}
+{"kz":"бала күтімі","de":"kinderbetreuung","level":4}
+{"kz":"бас тарту","de":"ablehnung","level":3}
+{"kz":"безендіру жұмысы","de":"abschlussarbeiten","level":5}
+{"kz":"берілген күні","de":"datum der ausstellung","level":4}
+{"kz":"біліктілік","de":"qualifikation","level":4}
+{"kz":"біліктілік дәреже","de":"qualifizierender abschluss","level":5}
+{"kz":"бюджеттен тыс","de":"außerhalb des budgets","level":5}
+{"kz":"ғылыми дәреже","de":"akademischer grad","level":5}
+{"kz":"ғылыми еңбек","de":"wissenschaftliche arbeit","level":5}
+{"kz":"дана","de":"kopie","level":4}
+{"kz":"дәлелді себеп","de":"guter grund","level":4}
+{"kz":"еңбек дауы","de":"arbeitskonflikt","level":5}
+{"kz":"еңбек келісімі","de":"arbeitsvertrag","level":5}
+{"kz":"еңбек кітапшасы","de":"arbeitsbuch","level":5}
+{"kz":"еңбек қауіпсіздігі","de":"arbeitssicherheit","level":5}
+{"kz":"еңбек тәртібі","de":"arbeitsdisziplin","level":5}
+{"kz":"еңбекақы","de":"löhne","level":4}
+{"kz":"ереже","de":"position, herrschaft","level":3}
+{"kz":"ерекше жағдай","de":"sonderfall","level":4}
+{"kz":"еркін форма","de":"freie form","level":4}
+{"kz":"есепшот","de":"überprüfen","level":4}
+{"kz":"ескерту","de":"kommentar","level":3}
+{"kz":"жазбаша түрде","de":"schriftlich","level":4}
+{"kz":"жалдау","de":"mieten","level":4}
+{"kz":"жарғы","de":"dekret","level":4}
+{"kz":"жарияланған күн","de":"erscheinungsdatum","level":4}
+{"kz":"жауапкершілігі шектеулі","de":"beschränkte haftung","level":5}
+{"kz":"жеке еңбек шарты","de":"arbeitsvertrag","level":5}
+{"kz":"жеке куәлік","de":"ausweis","level":4}
+{"kz":"жеке тұлға","de":"person","level":4}
+{"kz":"жеке іс парағы","de":"persönliches blatt","level":5}
+{"kz":"жоғары білім","de":"höhere bildung","level":3}
+{"kz":"жоспар","de":"planen","level":2}
+{"kz":"жұмыс беруші","de":"arbeitgeber","level":4}
+{"kz":"жүгіну","de":"appellieren","level":4}
+{"kz":"заңды күші бар","de":"hat gesetzeskraft","level":5}
+{"kz":"заңды тұлға","de":"juristische person","level":5}
+{"kz":"иегер, ие","de":"eigentümer","level":3}
+{"kz":"кадрлық қызмет","de":"personaldienstleistung","level":5}
+{"kz":"кәсіпкерлік","de":"unternehmertum","level":5}
+{"kz":"кезектен тыс демалыс","de":"außerordentlicher urlaub","level":5}
+{"kz":"кезінде","de":"während","level":2}
+{"kz":"келісім","de":"vereinbarung","level":3}
+{"kz":"келісімшарт","de":"vereinbarung","level":4}
+{"kz":"қаржылық құжат","de":"finanzdokument","level":5}
+{"kz":"қатысушы","de":"teilnehmer","level":3}
+{"kz":"қаулы","de":"auflösung","level":4}
+{"kz":"қолтаңба, жеке қолы","de":"unterschrift","level":4}
+{"kz":"құжат айналымы","de":"dokumentenfluss","level":5}
+{"kz":"қызмет түрі","de":"art der aktivität","level":4}
+{"kz":"қызметтік міндет","de":"amtspflicht","level":5}
+{"kz":"қызметтік хат","de":"servicebrief","level":4}
+{"kz":"лауазым","de":"berufsbezeichnung","level":4}
+{"kz":"лауазымдық нұсқаулық","de":"stellenbeschreibungen","level":6}
+{"kz":"мағлұмат","de":"information","level":3}
+{"kz":"материалдық көтермелеу","de":"finanzieller anreiz","level":5}
+{"kz":"мәміле","de":"vereinbarung, vereinbarung","level":5}
+{"kz":"мөр","de":"siegel","level":3}
+{"kz":"мүлік","de":"eigentum","level":4}
+{"kz":"мінездеме","de":"merkmal","level":4}
+{"kz":"нотариалды расталған","de":"notariell beglaubigt","level":5}
+{"kz":"орындалу мерзімі","de":"fälligkeitsdatum","level":4}
+{"kz":"отбасы жағдайы","de":"familienstand","level":4}
+{"kz":"өз еркімен","de":"auf ihren eigenen wunsch","level":4}
+{"kz":"өзгеріс","de":"ändern","level":3}
+{"kz":"өкілдік ету","de":"darstellung","level":5}
+{"kz":"өкілетті орган","de":"autorisierte stelle","level":5}
+{"kz":"өкім","de":"satz","level":4}
+{"kz":"растау","de":"bestätigung","level":4}
+{"kz":"ресми құжат","de":"offizielles dokument","level":4}
+{"kz":"сақталу мерзімі","de":"haltbarkeit","level":4}
+{"kz":"сенім білдіруші","de":"rektor","level":5}
+{"kz":"сенімді өкіл","de":"zuverlässiger vertreter","level":4}
+{"kz":"сенімхат","de":"vollmacht","level":4}
+{"kz":"сипат","de":"eigentum","level":4}
+{"kz":"сөгіс","de":"tadel","level":4}
+{"kz":"сыйақы","de":"bonus","level":4}
+{"kz":"сынақ мерзімі","de":"bewährung","level":5}
+{"kz":"тармақ","de":"absatz","level":4}
+{"kz":"тәжірибе","de":"erfahrung, praxis","level":3}
+{"kz":"тексеру","de":"inspektion","level":3}
+{"kz":"тоқтату","de":"beendigung","level":4}
+{"kz":"толық мәлімет","de":"vollständige informationen","level":3}
+{"kz":"төлқұжат","de":"reisepass","level":3}
+{"kz":"туу туралы куәлік","de":"geburtsurkunde","level":5}
+{"kz":"тұрғылықты жері","de":"ort des ständigen wohnsitzes","level":4}
+{"kz":"тізім","de":"liste","level":3}
+{"kz":"тіркеу","de":"anmeldung","level":3}
+{"kz":"ұйым жетекшісі","de":"leiter der organisation","level":5}
+{"kz":"үй ауыстыру","de":"hausersatz","level":4}
+{"kz":"үстемеақы","de":"zuschuss","level":4}
+{"kz":"хаттама","de":"protokoll","level":4}
+{"kz":"шарт","de":"vereinbarung","level":3}
+{"kz":"шартты атау","de":"codename","level":4}
+{"kz":"шартты бұзу","de":"kündigung des vertrages","level":5}
+{"kz":"шығарушы","de":"hersteller","level":4}
+{"kz":"іс қағаздары","de":"dokumentation","level":4}
+{"kz":"іссапар","de":"geschäftsreise","level":4}
+{"kz":"айтқаның келсін","de":"mögen deine wünsche in erfüllung gehen","level":4}
+{"kz":"айтыңызшы","de":"sag es mir bitte","level":2}
+{"kz":"Айып етпеңіз.","de":"entschuldigung.","level":2}
+{"kz":"Ал сіздің тегіңіз?","de":"wie ist ihr nachname?","level":2}
+{"kz":"Алаңдама, түк те емес.","de":"keine sorge, es ist kein problem.","level":2}
+{"kz":"Алаңдамай-ақ қойсын.","de":"lass ihn sich keine sorgen machen.","level":2}
+{"kz":"Алғысымды білдіремін.","de":"danke schön.","level":2}
+{"kz":"Алыңыз, алыңыз.","de":"nimm es, nimm es.","level":1}
+{"kz":"Әрине, көмектесе аламын.","de":"natürlich kann ich helfen.","level":2}
+{"kz":"Әрине, рұқсат.","de":"natürlich kannst du das.","level":1}
+{"kz":"Әрине, уайымдамаңыз.","de":"machen sie sich natürlich keine sorgen.","level":2}
+{"kz":"Әрине, уайымдамаңыз.","de":"machen sie sich natürlich keine sorgen.","level":2}
+{"kz":"бабаларымыз айтқандай","de":"wie unsere vorfahren sagten","level":4}
+{"kz":"бақытыма қарай","de":"glücklicherweise","level":3}
+{"kz":"басқаша айтқанда","de":"mit anderen worten","level":3}
+{"kz":"Бәрі бұрынғыша.","de":"alles ist gleich.","level":2}
+{"kz":"Бәрі дұрыс, ештеңеге алаңдамаңыз.","de":"alles ist in ordnung, keine sorge.","level":2}
+{"kz":"Бәрі ойдағыдай.","de":"alles läuft nach plan.","level":3}
+{"kz":"Бәрі сәтті болсын!","de":"beste wünsche!","level":2}
+{"kz":"бұрынғыға қарағанда","de":"im vergleich zur vergangenheit","level":4}
+{"kz":"Бұрынғыдай.","de":"wie zuvor. \/ auf die alte art.","level":2}
+{"kz":"Бүгін бос емеспін.","de":"ich bin heute beschäftigt.","level":2}
+{"kz":"Бүгін кешке хабарласыңызшы.","de":"rufen sie heute abend an.","level":3}
+{"kz":"Біз әлі кездесеміз!","de":"wir werden uns wiedersehen!","level":2}
+{"kz":"Біз бұрын кездескенбіз.","de":"wir haben uns schon einmal getroffen.","level":3}
+{"kz":"Біз кездеспегелі қай заман!","de":"wir haben uns hundert jahre lang nicht gesehen!","level":3}
+{"kz":"Біз таныспыз.","de":"wir kennen uns bereits.","level":2}
+{"kz":"Бірқалыпты.","de":"keine Änderungen.","level":2}
+{"kz":"біріншіден","de":"erstens","level":2}
+{"kz":"дегенмен","de":"trotzdem, trotz","level":3}
+{"kz":"екіншіден","de":"zweitens","level":2}
+{"kz":"Ештеңе етпейді.","de":"es ist in ordnung. \/ freut mich.","level":2}
+{"kz":"Жақсы, хабарласамын.","de":"okay, ich melde mich bei ihnen.","level":2}
+{"kz":"жалпы айтқанда","de":"allgemein","level":3}
+{"kz":"Жаман емес.","de":"nicht schlecht.","level":2}
+{"kz":"Жаңалық жоқ десе болады.","de":"es gibt keine neuigkeiten, könnte man sagen.","level":3}
+{"kz":"Жолыңыз болсын!","de":"gute reise!","level":2}
+{"kz":"Жолыңыз болсын!","de":"gute reise!","level":2}
+{"kz":"Жұмыста бәрі жақсы ма?","de":"ist bei der arbeit alles in ordnung?","level":2}
+{"kz":"жүз жасасын","de":"möge er hundert jahre leben","level":3}
+{"kz":"Кездескенше!","de":"wir sehen uns!","level":1}
+{"kz":"Кездесу деп осыны айт!","de":"was für ein treffen!","level":3}
+{"kz":"Келесі жолы күтеміз.","de":"wir warten das nächste mal.","level":2}
+{"kz":"кешіріңіз","de":"entschuldigung","level":1}
+{"kz":"Кешіріңіз, атыңыз кім?","de":"entschuldigung, wie ist ihr name?","level":2}
+{"kz":"Кешіріңіз, сіз кімсіз?","de":"entschuldigung, wer sind sie?","level":2}
+{"kz":"Кешіріңіз, сізде қаламсап бар ма?","de":"entschuldigung, haben sie einen stift?","level":2}
+{"kz":"Көмектескеніңіз үшін рақмет.","de":"vielen dank für ihre hilfe.","level":2}
+{"kz":"Күтпеген кездесу.","de":"ein unerwartetes treffen.","level":3}
+{"kz":"Кіруге бола ма?","de":"kann ich reinkommen?","level":1}
+{"kz":"Кіруге рұқсат етіңізші.","de":"lass mich reinkommen.","level":2}
+{"kz":"Кіріңіз.","de":"komm herein!","level":1}
+{"kz":"Қайырлы кеш!","de":"guten abend!","level":1}
+{"kz":"Қайырлы күн!","de":"guten tag","level":1}
+{"kz":"Қайырлы таң!","de":"guten morgen!","level":1}
+{"kz":"Қайырлы түн!","de":"gute nacht!","level":1}
+{"kz":"Қалайсыз (қалайсың)?","de":"wie geht es dir (dir)?","level":1}
+{"kz":"Қалыңыз қалай?","de":"wie geht es dir?","level":2}
+{"kz":"Қалыңыз қалай?","de":"wie geht es dir?","level":2}
+{"kz":"Қандай жақсы кездесу болды!","de":"was für ein angenehmes treffen!","level":3}
+{"kz":"Қарсы алғаныңызға рақмет.","de":"vielen dank, dass sie mich kennengelernt haben.","level":2}
+{"kz":"Қолдағаныңызға рақмет.","de":"vielen dank für ihre unterstützung.","level":3}
+{"kz":"қорытындылай келе","de":"abschließend","level":4}
+{"kz":"Қош келдіңіз!","de":"willkommen!","level":2}
+{"kz":"Құттықтағаныңызға рақмет.","de":"vielen dank für ihre glückwünsche.","level":3}
+{"kz":"қысқасын айтқанда","de":"zusamenfassend","level":3}
+{"kz":"Маған журнал беріңізші.","de":"geben sie mir bitte die zeitschrift.","level":2}
+{"kz":"Маған ренжімеңіз.","de":"sei nicht beleidigt von mir.","level":3}
+{"kz":"Мазалағаныма кешірім өтінемін.","de":"tut mir leid, sie zu stören.","level":3}
+{"kz":"мақұл, жарайды","de":"okay gut","level":2}
+{"kz":"Мен бәрін реттеп қоямын.","de":"ich werde alles tun.","level":2}
+{"kz":"Мен сізге өте ризамын.","de":"ich bin ihnen wirklich sehr dankbar.","level":2}
+{"kz":"Мен сізді білемін.","de":"ich kenne sie.","level":2}
+{"kz":"Мен сіздің алдыңызда кінәлімін.","de":"ich bin schuld an dir.","level":3}
+{"kz":"Менің атым ...","de":"ich heiße...","level":1}
+{"kz":"менің ойымша","de":"meiner meinung nach","level":2}
+{"kz":"Менің сізбен танысқым келеді.","de":"ich möchte sie treffen.","level":2}
+{"kz":"Менің сізге бір өтінішім бар.","de":"ich habe eine bitte an sie.","level":3}
+{"kz":"Менің сізді ренжіткім келген жоқ.","de":"ich wollte dich nicht beleidigen.","level":3}
+{"kz":"назарларыңызға ұсынамыз","de":"wir machen sie darauf aufmerksam","level":3}
+{"kz":"Не жаңалық бар?","de":"was ist neu?","level":2}
+{"kz":"Өзімді таныстырайын.","de":"darf ich mich vorstellen?","level":2}
+{"kz":"Өзімді таныстырайын.","de":"darf ich mich vorstellen?","level":2}
+{"kz":"өйткені","de":"denn schließlich","level":3}
+{"kz":"өкінішке қарай","de":"bedauerlicherweise","level":3}
+{"kz":"рұқсат етіңіз","de":"erlaube mir","level":2}
+{"kz":"салыстырып қарағанда","de":"wenn man vergleicht","level":4}
+{"kz":"Сау болыңыз!","de":"auf wiedersehen!","level":1}
+{"kz":"Сәлем!","de":"hallo!","level":1}
+{"kz":"Сәлеметсіз бе!","de":"hallo!","level":1}
+{"kz":"Сенің кеңесіңе өте ризамын.","de":"ich bin ihnen für ihren rat sehr dankbar.","level":3}
+{"kz":"Соншалықты ештеңе болған жоқ.","de":"es ist nichts besonderes passiert.","level":3}
+{"kz":"сөз басында айтқанымдай","de":"wie eingangs erwähnt","level":4}
+{"kz":"Сыйлығыңызға рақмет.","de":"vielen dank für das geschenk.","level":2}
+{"kz":"Сіз мені таныдыңыз ба?","de":"erkennst du mich?","level":2}
+{"kz":"Сіз мені танымадыңыз ба?","de":"erkennst du mich nicht?","level":3}
+{"kz":"Сізбен танысқаныма қуаныштымын.","de":"ich freue mich, sie kennenzulernen.","level":2}
+{"kz":"Сізде сөздік бар ма?","de":"hast du ein wörterbuch?","level":2}
+{"kz":"Сізді бір жерден кездестіргенмін.","de":"ich habe dich schon irgendwo getroffen.","level":3}
+{"kz":"Сізді бір жерден көргенмін.","de":"ich habe dich schon irgendwo gesehen.","level":3}
+{"kz":"Сіздің есіміңіз кім?","de":"wie heißen sie?","level":2}
+{"kz":"таныс болайық","de":"lasst uns kennenlernen","level":2}
+{"kz":"Танысуға рұқсат етіңізші.","de":"lass mich dich kennenlernen.","level":2}
+{"kz":"Телефон шалуға рұқсат етіңізші.","de":"lass mich anrufen.","level":3}
+{"kz":"Түк те емес.","de":"nichts. \/ kein problem.","level":2}
+{"kz":"Уақытым болмай тұр.","de":"ich habe keine zeit.","level":2}
+{"kz":"Ұмытпаңыздар!","de":"nicht vergessen!","level":2}
+{"kz":"Үйде бәрі жақсы ма?","de":"ist zu hause alles in ordnung?","level":2}
+{"kz":"халықтың айтуынша","de":"nach angaben der leute","level":3}
+{"kz":"шын жүректен","de":"von ganzem herzen","level":3}
+{"kz":"аз","de":"wenige","level":1}
+{"kz":"айналасы","de":"um","level":2}
+{"kz":"айтарлықтай","de":"erheblich","level":4}
+{"kz":"ақырын","de":"langsam","level":2}
+{"kz":"ал","de":"a","level":1}
+{"kz":"алайда","de":"aber","level":2}
+{"kz":"алдын ала","de":"im voraus, im voraus","level":3}
+{"kz":"алдында","de":"voraus","level":2}
+{"kz":"алыс","de":"weit","level":2}
+{"kz":"анағұрлым","de":"viel, erheblich","level":4}
+{"kz":"анау, ана","de":"das hier","level":2}
+{"kz":"артында","de":"hinter","level":2}
+{"kz":"ауызша","de":"mündlich, mündlich","level":3}
+{"kz":"әлде","de":"oder","level":1}
+{"kz":"әрине","de":"sicherlich","level":1}
+{"kz":"бар","de":"es gibt","level":1}
+{"kz":"барынша","de":"maximal","level":4}
+{"kz":"басқаша","de":"sonst, anders","level":2}
+{"kz":"бәрекелді!","de":"bravo! großartig!","level":3}
+{"kz":"бұл, осы, мынау, мына","de":"dies, dies, dies","level":1}
+{"kz":"біздіңше","de":"unserer meinung nach","level":2}
+{"kz":"бір, біреу","de":"jemand","level":2}
+{"kz":"біраз","de":"ein wenig","level":2}
+{"kz":"бірауыздан","de":"einstimmig","level":4}
+{"kz":"бірге","de":"zusammen","level":1}
+{"kz":"бірдеңе","de":"etwas","level":2}
+{"kz":"бірнеше","de":"manche","level":2}
+{"kz":"бірте-бірте","de":"schrittweise","level":3}
+{"kz":"біршама","de":"manche","level":3}
+{"kz":"дәнеме, ештеңе","de":"nichts","level":2}
+{"kz":"дей тұрғанмен","de":"trotzdem","level":4}
+{"kz":"дейін, шейін","de":"zu","level":1}
+{"kz":"дер кезінде","de":"rechtzeitig","level":3}
+{"kz":"дұрыс пікір","de":"richtige meinung","level":3}
+{"kz":"емес","de":"nicht (nominalnegation)","level":1}
+{"kz":"ендеше","de":"in diesem fall also","level":3}
+{"kz":"ешбір кем емес","de":"nicht weniger","level":4}
+{"kz":"ешкім","de":"niemand","level":2}
+{"kz":"жазбаша","de":"schriftlich, geschrieben","level":3}
+{"kz":"жақсы","de":"bußgeld","level":1}
+{"kz":"жақын","de":"schließen","level":2}
+{"kz":"жаман","de":"schlecht","level":1}
+{"kz":"жанында","de":"in der nähe, in der nähe","level":2}
+{"kz":"жарайсың","de":"gut gemacht","level":2}
+{"kz":"жартысы","de":"(seine) hälfte","level":3}
+{"kz":"жарым","de":"hälfte","level":2}
+{"kz":"және","de":"und","level":1}
+{"kz":"жоқ","de":"nein","level":1}
+{"kz":"жөн","de":"richtig, richtig","level":2}
+{"kz":"зерттеу жүргізген","de":"forschung durchgeführt","level":4}
+{"kz":"иә","de":"ja","level":1}
+{"kz":"керек, қажет","de":"notwendig","level":1}
+{"kz":"керісінше","de":"umgekehrt","level":3}
+{"kz":"көп","de":"viele","level":1}
+{"kz":"қайсыбір","de":"einige, andere","level":3}
+{"kz":"қайтадан","de":"wieder, wieder","level":2}
+{"kz":"қатысы бар","de":"relevant","level":3}
+{"kz":"қысқаша","de":"kurz, kurz","level":2}
+{"kz":"лезде","de":"schnell, sofort","level":3}
+{"kz":"мәселен","de":"zum beispiel, zum beispiel","level":3}
+{"kz":"мезгілінен бұрын","de":"vorzeitig","level":4}
+{"kz":"меніңше","de":"meiner meinung nach","level":2}
+{"kz":"мол, көп","de":"viele","level":2}
+{"kz":"мұқият","de":"gründlich","level":3}
+{"kz":"мүлде","de":"überhaupt, überhaupt","level":3}
+{"kz":"мүмкін","de":"vielleicht","level":2}
+{"kz":"мүмкін емес","de":"kann nicht sein","level":3}
+{"kz":"одан басқа","de":"außerdem","level":3}
+{"kz":"ойдағыдай","de":"wie erwartet","level":3}
+{"kz":"онша емес","de":"nicht sehr viel","level":3}
+{"kz":"оң жақ","de":"rechte seite","level":2}
+{"kz":"өз бетімен","de":"auf eigene faust","level":3}
+{"kz":"өзара","de":"einander, gegenseitig","level":3}
+{"kz":"пайдасы бар","de":"nützlich, nützlich","level":3}
+{"kz":"рақмет","de":"danke","level":1}
+{"kz":"салқын","de":"kühl","level":2}
+{"kz":"себебі, өйткені","de":"weil","level":2}
+{"kz":"сенуі қиын","de":"kaum zu glauben","level":3}
+{"kz":"сияқты, секілді","de":"wie zum beispiel","level":2}
+{"kz":"сол жақ","de":"linke seite","level":2}
+{"kz":"сондай-ақ","de":"und auch","level":2}
+{"kz":"сондықтан, сол себепті","de":"deshalb","level":2}
+{"kz":"сонымен қатар","de":"dazu und auch","level":3}
+{"kz":"талдай келе","de":"analysiert haben","level":4}
+{"kz":"тамаша","de":"großartig","level":2}
+{"kz":"тезірек","de":"schneller","level":2}
+{"kz":"тек қана","de":"gerade mal","level":2}
+{"kz":"тиіс","de":"muss","level":3}
+{"kz":"тура","de":"gerade, gerade","level":2}
+{"kz":"туралы","de":"oh, ungefähr","level":2}
+{"kz":"турасына көшсек","de":"tatsächlich","level":4}
+{"kz":"түк, ешбір","de":"nichts, überhaupt nicht","level":3}
+{"kz":"шапшаң, тез, жылдам","de":"schnell","level":2}
+{"kz":"шынымен","de":"tatsächlich","level":3}
+{"kz":"шынын айтқанда","de":"in wahrheit","level":3}
+{"kz":"шіркін!","de":"o! äh!","level":3}
+{"kz":"ыстық","de":"heiß","level":2}
+{"kz":"айту, сөйлеу","de":"sprechen","level":1}
+{"kz":"алғыс айту","de":"dank","level":2}
+{"kz":"алдау","de":"täuschen","level":3}
+{"kz":"бағдарламаны жүргізу","de":"führen sie das programm aus","level":4}
+{"kz":"баспадан шығу","de":"vergriffen sein","level":4}
+{"kz":"бір-бірін түсіну","de":"einander verstehen","level":3}
+{"kz":"біреуге ұқсау","de":"wie jemand sein","level":3}
+{"kz":"даярлау, дайындау","de":"vorbereiten","level":2}
+{"kz":"дәлелдеу","de":"beweisen","level":4}
+{"kz":"дәрігерді шақыру","de":"rufen sie einen arzt an","level":3}
+{"kz":"достасу","de":"freunde finden","level":3}
+{"kz":"еліктеу","de":"imitieren","level":4}
+{"kz":"еңбектену","de":"arbeiten, schuften","level":3}
+{"kz":"жамылу","de":"in deckung gehen","level":4}
+{"kz":"жарысу","de":"wetteifern","level":3}
+{"kz":"жату","de":"zu bett gehen","level":2}
+{"kz":"жинақтау","de":"sammeln, ansammeln","level":3}
+{"kz":"жиналу","de":"sammeln, vorbereiten","level":2}
+{"kz":"жуыну","de":"waschen","level":2}
+{"kz":"жіберу","de":"schicken","level":2}
+{"kz":"зейнетақы тағайындау","de":"eine rente zuordnen","level":5}
+{"kz":"игеру","de":"meister, meister","level":4}
+{"kz":"кездестіру","de":"ein treffen vereinbaren","level":3}
+{"kz":"кездесу","de":"treffen","level":2}
+{"kz":"келісу","de":"zu einer einigung kommen","level":4}
+{"kz":"кемшілігін кешіру","de":"verzeihen sie mängel","level":5}
+{"kz":"кию","de":"aufsetzen","level":2}
+{"kz":"көңілде кірбің қалу","de":"hinterlasse ein schlechtes gefühl in meiner seele","level":5}
+{"kz":"көрсету","de":"zeigen","level":2}
+{"kz":"көшу","de":"bewegen, bewegen","level":3}
+{"kz":"күресу","de":"kämpfen","level":3}
+{"kz":"күш-қуат жұмсау","de":"energie verschwenden","level":4}
+{"kz":"кіру","de":"eingeben","level":1}
+{"kz":"қадірін білу","de":"würde kennen, schätzen","level":4}
+{"kz":"қайнату","de":"kochen","level":3}
+{"kz":"қайталау","de":"wiederholen","level":2}
+{"kz":"қайтыс болу","de":"sterben","level":3}
+{"kz":"қал-жағдай сұрау","de":"fragen sie nach dem geschäft","level":4}
+{"kz":"қолдану","de":"genießen","level":2}
+{"kz":"қоштасу","de":"verabschieden sie sich","level":2}
+{"kz":"қою","de":"setzen","level":1}
+{"kz":"қуанышын білдіру","de":"freude ausdrücken","level":4}
+{"kz":"қуыру","de":"braten","level":3}
+{"kz":"қызықтыру","de":"interesse","level":4}
+{"kz":"мақтан ету","de":"sei stolz","level":3}
+{"kz":"микрофонды өшіру","de":"schalten sie das mikrofon aus","level":4}
+{"kz":"негізін қалау","de":"den grundstein legen","level":5}
+{"kz":"ойлау","de":"denken","level":1}
+{"kz":"ойнау","de":"spielen","level":1}
+{"kz":"оқу","de":"lehren, lesen","level":1}
+{"kz":"оқыту, үйрету","de":"unterrichten","level":3}
+{"kz":"отыру","de":"hinsetzen","level":1}
+{"kz":"ояну","de":"aufwachen","level":2}
+{"kz":"өзгеру","de":"ändern","level":3}
+{"kz":"өту","de":"passieren","level":2}
+{"kz":"өтініш айту","de":"eine anfrage stellen","level":4}
+{"kz":"өшіру","de":"löschen, ausschalten","level":2}
+{"kz":"пісіру","de":"kochen","level":2}
+{"kz":"салу","de":"setzen","level":2}
+{"kz":"санау","de":"zählen","level":2}
+{"kz":"сапарға шығу","de":"auf eine reise gehen","level":3}
+{"kz":"сендіру","de":"überzeugen","level":3}
+{"kz":"сөзін ұмытып қалу","de":"vergiss die worte","level":4}
+{"kz":"спортпен айналысу","de":"Übung","level":3}
+{"kz":"суық тию","de":"eine erkältung bekommen","level":3}
+{"kz":"сұраққа жауап беру","de":"fragen beantworten","level":3}
+{"kz":"сұрау","de":"fragen","level":1}
+{"kz":"сүрту","de":"wischen","level":2}
+{"kz":"сызу","de":"ziehen","level":3}
+{"kz":"сыйлау","de":"respektieren","level":3}
+{"kz":"табысқа жету","de":"erfolg erzielen","level":4}
+{"kz":"тазалау","de":"sauber","level":2}
+{"kz":"таңдау","de":"wählen","level":2}
+{"kz":"тарату","de":"verteilen","level":3}
+{"kz":"татуласу","de":"aufstellen","level":4}
+{"kz":"тексеру","de":"überprüfen","level":2}
+{"kz":"телесериал көру","de":"fernsehserien ansehen","level":3}
+{"kz":"тоқтау","de":"bleiben","level":2}
+{"kz":"толқу","de":"sorge","level":3}
+{"kz":"туу","de":"gebären","level":2}
+{"kz":"тұру","de":"lebe, sei","level":1}
+{"kz":"түсіндіру","de":"erklären","level":3}
+{"kz":"түсіну","de":"verstehen","level":2}
+{"kz":"ұйықтау","de":"schlafen","level":1}
+{"kz":"ұмыту","de":"vergessen","level":2}
+{"kz":"ұшу","de":"fliegen","level":2}
+{"kz":"үйлену","de":"heiraten","level":3}
+{"kz":"үйрену","de":"studie","level":2}
+{"kz":"үлгеру","de":"seien sie pünktlich","level":3}
+{"kz":"хабарласу","de":"bleiben sie in kontakt","level":4}
+{"kz":"шаң сору","de":"vakuum","level":3}
+{"kz":"шаршағанын ұмыту","de":"vergessen sie die müdigkeit","level":4}
+{"kz":"шаршау","de":"werde müde","level":2}
+{"kz":"шұғылдану","de":"studie","level":4}
+{"kz":"шығару","de":"durchführen","level":2}
+{"kz":"шығу","de":"hinausgehen","level":1}
+{"kz":"іске қосылу","de":"in kraft treten","level":4}
+{"kz":"істеу","de":"tun","level":1}
+{"kz":"ішу","de":"trinken","level":1}
+{"kz":"эфирге шығу","de":"auf sendung gehen","level":4}
+{"kz":"ағаш отырғызу","de":"bäume pflanzen","level":3}
+{"kz":"айналысу","de":"engagieren, sich engagieren","level":3}
+{"kz":"алу","de":"nehmen","level":1}
+{"kz":"аудару","de":"überweisen","level":3}
+{"kz":"ауыру","de":"krank werden","level":2}
+{"kz":"ашу","de":"offen","level":1}
+{"kz":"аялау","de":"beschützen, aufpassen","level":3}
+{"kz":"әлемге таныту","de":"der ganzen welt präsent","level":4}
+{"kz":"ән айту","de":"singen","level":1}
+{"kz":"әуестену","de":"sich mitreißen lassen","level":3}
+{"kz":"бағындыру","de":"unterwerfen","level":4}
+{"kz":"байқау","de":"bemerken, folgen","level":3}
+{"kz":"басымдық беру","de":"vorzug geben","level":4}
+{"kz":"беру","de":"geben","level":1}
+{"kz":"бояну","de":"malen","level":3}
+{"kz":"бояу","de":"farbe","level":2}
+{"kz":"бөлісу","de":"aktie","level":3}
+{"kz":"бұйрық шығару","de":"einen befehl erteilen","level":5}
+{"kz":"білу","de":"wissen","level":1}
+{"kz":"даму","de":"entwickeln","level":3}
+{"kz":"дүкен аралау","de":"geh einkaufen","level":3}
+{"kz":"емдеу","de":"behandeln","level":3}
+{"kz":"есту","de":"hören","level":1}
+{"kz":"жабу","de":"schließen","level":1}
+{"kz":"жазу","de":"schreiben","level":1}
+{"kz":"жақсарту","de":"verbessern","level":3}
+{"kz":"жақсы көру","de":"liebe","level":1}
+{"kz":"жалықтыру","de":"langweile dich, langweile dich","level":4}
+{"kz":"жариялау","de":"veröffentlichen","level":4}
+{"kz":"жасау","de":"machen, herstellen","level":2}
+{"kz":"жауап беру","de":"antwort","level":2}
+{"kz":"жаяу қыдыру","de":"gehen","level":3}
+{"kz":"жеу","de":"essen, essen","level":1}
+{"kz":"жинау","de":"aufräumen","level":2}
+{"kz":"жөтелу","de":"husten","level":3}
+{"kz":"жуу","de":"waschen","level":1}
+{"kz":"жұмыс істеу","de":"arbeiten","level":1}
+{"kz":"жүгіру","de":"laufen","level":2}
+{"kz":"жүзуге бару","de":"geh schwimmen","level":3}
+{"kz":"жүктелу","de":"geladen werden","level":4}
+{"kz":"жүру","de":"gehen","level":1}
+{"kz":"зерттеу","de":"forschung","level":4}
+{"kz":"ие болу","de":"erreichen, eigentümer sein","level":4}
+{"kz":"кино көру","de":"einen film ansehen","level":2}
+{"kz":"коньки тебу","de":"schlittschuh","level":3}
+{"kz":"көзге түсу","de":"fangen sie ihre aufmerksamkeit","level":4}
+{"kz":"көзі шалу","de":"beachten","level":4}
+{"kz":"куә болу","de":"sei ein zeuge","level":4}
+{"kz":"кітап оқу","de":"bücher lesen","level":2}
+{"kz":"қадам басу","de":"schritt","level":3}
+{"kz":"қайта оралу","de":"komm wieder zurück","level":3}
+{"kz":"қамтамасыз ету","de":"bieten","level":4}
+{"kz":"қарсы алу, күтіп алу","de":"treffen","level":2}
+{"kz":"қиындыққа ұшырау","de":"befinden sie sich in einer schwierigen lage","level":5}
+{"kz":"қолдау","de":"unterstützung","level":3}
+{"kz":"қорғау","de":"verteidigen","level":4}
+{"kz":"қуанту","de":"bitte","level":3}
+{"kz":"қуану","de":"freue dich","level":2}
+{"kz":"құттықтау","de":"gratulieren","level":3}
+{"kz":"мән беру","de":"bedeutung beimessen","level":4}
+{"kz":"музыка тыңдау","de":"musik hören","level":2}
+{"kz":"ниеттену","de":"bedeuten","level":4}
+{"kz":"ойлану","de":"denken","level":2}
+{"kz":"орындау","de":"erfüllen","level":3}
+{"kz":"өз-өзіңді алдау","de":"täusche dich selbst","level":5}
+{"kz":"өлең жазу","de":"gedichte schreiben","level":3}
+{"kz":"өмір сүру","de":"live","level":2}
+{"kz":"өнер көрсету","de":"durchführen","level":4}
+{"kz":"өткізу","de":"benehmen","level":2}
+{"kz":"пайдалану","de":"anwenden","level":3}
+{"kz":"сараптау","de":"eine prüfung durchführen","level":5}
+{"kz":"сәнді киіну","de":"kleiden sie sich modisch","level":3}
+{"kz":"сәті түсу","de":"gelingen","level":4}
+{"kz":"секіру","de":"springen","level":2}
+{"kz":"сенімін ақтау","de":"rechtfertigen das vertrauen","level":5}
+{"kz":"созылу","de":"weitermachen","level":4}
+{"kz":"сырғанау","de":"fahrt","level":3}
+{"kz":"сырқаттану","de":"krank werden","level":4}
+{"kz":"талдау","de":"analysieren","level":4}
+{"kz":"тамақ ішу","de":"essen","level":3}
+{"kz":"таң-тамаша болу","de":"sei überrascht","level":3}
+{"kz":"телефон соғу","de":"anruf","level":2}
+{"kz":"тойлау","de":"feiern","level":3}
+{"kz":"төлену","de":"bezahlt werden","level":4}
+{"kz":"түшкіру","de":"niesen","level":3}
+{"kz":"тынбай еңбек ету","de":"arbeit ohne pause","level":4}
+{"kz":"тілек айту","de":"wunsch","level":3}
+{"kz":"уақыт өлтіру","de":"die zeit totschlagen","level":4}
+{"kz":"ұзарту","de":"verlängern, verlängern","level":4}
+{"kz":"ұйымдастыру","de":"organisieren","level":4}
+{"kz":"ұнау","de":"wie","level":2}
+{"kz":"ұсыну","de":"vorschlagen","level":3}
+{"kz":"ұшырау","de":"unterworfen werden","level":4}
+{"kz":"ұятқа қалдыру","de":"schande machen, der hoffnung nicht gerecht werden","level":5}
+{"kz":"үлес қосу","de":"beitragen, beitragen","level":4}
+{"kz":"үнемдеу","de":"sparen, aufpassen","level":3}
+{"kz":"хабар алу","de":"holen sie sich die neuigkeiten","level":3}
+{"kz":"шақыру","de":"einladen","level":2}
+{"kz":"шығарып салу","de":"absehen","level":3}
+{"kz":"шіру","de":"verrotten","level":4}
+{"kz":"айырбастау","de":"austausch","level":4}
+{"kz":"алаңдату","de":"stören, ablenken","level":3}
+{"kz":"алаңдаушылық білдіру","de":"bedenken äußern","level":5}
+{"kz":"артық көру","de":"für überflüssig\/besser halten","level":4}
+{"kz":"арылу","de":"loswerden, reinigen","level":4}
+{"kz":"атану","de":"aufgerufen werden","level":3}
+{"kz":"әлемді дүр сілкіндіру","de":"schockieren die welt","level":5}
+{"kz":"баяу жүру","de":"geh langsam","level":3}
+{"kz":"бекіту","de":"genehmigen","level":4}
+{"kz":"билет алу","de":"nimm ein ticket","level":3}
+{"kz":"босатылу","de":"gefeuert werden","level":4}
+{"kz":"бұзу, қирату","de":"zerstören, verderben","level":3}
+{"kz":"домбыра тарту","de":"spiele die dombra","level":4}
+{"kz":"жадында ұстау","de":"denken sie daran, denken sie daran","level":4}
+{"kz":"жалғасын табу","de":"eine fortsetzung finden","level":4}
+{"kz":"жапсыру","de":"kleber","level":3}
+{"kz":"жарасу","de":"passen, harmonieren","level":4}
+{"kz":"жарнамалау","de":"werben","level":4}
+{"kz":"жасалу","de":"getan werden, gemacht werden","level":3}
+{"kz":"жету","de":"komm dorthin","level":2}
+{"kz":"жоғалту","de":"verlieren","level":3}
+{"kz":"жолға шығу","de":"verlassen","level":3}
+{"kz":"жолықтыру","de":"treffen","level":3}
+{"kz":"жою","de":"abbrechen, zerstören","level":4}
+{"kz":"жөнелту","de":"schicken","level":3}
+{"kz":"жұмысқа кірісу","de":"machen sie sich an die arbeit","level":4}
+{"kz":"жүктеу","de":"herunterladen, hochladen","level":3}
+{"kz":"жылдам жүру","de":"schnell gehen","level":2}
+{"kz":"келу","de":"kommen","level":1}
+{"kz":"кептіру","de":"trocken","level":3}
+{"kz":"кесу, турау","de":"schneiden","level":2}
+{"kz":"кету","de":"geh, geh","level":1}
+{"kz":"кешігу","de":"zu spät kommen","level":3}
+{"kz":"киіну","de":"kleid","level":2}
+{"kz":"көмек беру","de":"hilfe leisten","level":3}
+{"kz":"көңіл көтеру","de":"kopf hoch","level":4}
+{"kz":"көру","de":"sehen, beobachten","level":1}
+{"kz":"көшіру","de":"umschreiben","level":3}
+{"kz":"көшіру","de":"kopie","level":3}
+{"kz":"күлу","de":"lachen","level":2}
+{"kz":"күмбірлеу","de":"ton gedämpft","level":5}
+{"kz":"кір жуу","de":"dinge waschen","level":3}
+{"kz":"қабылдану","de":"akzeptiert werden","level":4}
+{"kz":"қабылдау","de":"akzeptieren","level":2}
+{"kz":"қағу","de":"einschlagen, einschlagen","level":3}
+{"kz":"қалау","de":"wünschen, legen, bauen","level":2}
+{"kz":"қалу","de":"bleiben","level":1}
+{"kz":"қарайту","de":"schwarz hervorheben, abdunkeln","level":4}
+{"kz":"қиынға соғу","de":"kompliziert werden (über eine sache)","level":5}
+{"kz":"қол қою","de":"zeichen","level":3}
+{"kz":"қолға алу","de":"abholen","level":3}
+{"kz":"қолма-қол төлеу","de":"bar bezahlen","level":4}
+{"kz":"құжатты куәландыру","de":"ein dokument beglaubigen","level":5}
+{"kz":"құрастыру","de":"bilden","level":4}
+{"kz":"қызмет істеу","de":"arbeiten","level":3}
+{"kz":"мазаны алу","de":"stören, belästigen","level":4}
+{"kz":"мәселені шешу","de":"lösen sie das problem","level":4}
+{"kz":"мектеп бітіру","de":"die schule beenden","level":3}
+{"kz":"мұражайға бару","de":"geh ins museum","level":3}
+{"kz":"несие алу","de":"einen kredit aufnehmen","level":4}
+{"kz":"өзгеріс әкелу","de":"eine veränderung vornehmen","level":4}
+{"kz":"өзгеріске ұшырау","de":"ändern","level":4}
+{"kz":"өлу","de":"sterben","level":2}
+{"kz":"рахаттану","de":"genießen","level":3}
+{"kz":"рәсімдеу","de":"erstellen","level":4}
+{"kz":"салауатты өмір сүру","de":"einen gesunden lebensstil führen","level":4}
+{"kz":"саяхат жасау","de":"reisen","level":3}
+{"kz":"сену","de":"glauben","level":2}
+{"kz":"сенімін жоғалтпау","de":"verliere nicht das vertrauen","level":5}
+{"kz":"сергек жүру","de":"gehen sie zügig","level":3}
+{"kz":"серуендеу","de":"spaziergang","level":3}
+{"kz":"созу","de":"ziehen, ziehen","level":3}
+{"kz":"суретке түсіру","de":"foto","level":3}
+{"kz":"сылау","de":"gips, abstrich","level":4}
+{"kz":"табу","de":"finden","level":1}
+{"kz":"тағайындау","de":"zuordnen","level":4}
+{"kz":"талап ету","de":"nachfrage","level":3}
+{"kz":"талқылау","de":"diskutieren","level":3}
+{"kz":"таңғалдыру","de":"Überraschung","level":4}
+{"kz":"таңғалу","de":"sei überrascht","level":3}
+{"kz":"тапсыру","de":"anvertrauen, übergeben","level":3}
+{"kz":"тауға шығу","de":"erklimme die berge","level":3}
+{"kz":"тәуелді болу","de":"abhängen","level":4}
+{"kz":"тесу","de":"löcher machen","level":4}
+{"kz":"топтастыру","de":"gruppe","level":4}
+{"kz":"төсеу","de":"ausbreiten","level":3}
+{"kz":"тұрғызу","de":"aufrichten, platzieren","level":4}
+{"kz":"түзету","de":"richtig, richtig","level":3}
+{"kz":"тырысу","de":"versuchen, sich bemühen","level":3}
+{"kz":"тіл үйіру","de":"lecker sein","level":4}
+{"kz":"тіс тазалау","de":"putzen sie ihre zähne","level":3}
+{"kz":"уақыт белгілеу","de":"eine zeit festlegen","level":4}
+{"kz":"ұйқыдан тұру","de":"nach dem schlafen aufstehen","level":3}
+{"kz":"ұстап қалу","de":"halten","level":3}
+{"kz":"үтіктеу","de":"eisen","level":3}
+{"kz":"шайқасу","de":"kämpfen","level":4}
+{"kz":"шаңғы тебу","de":"ski","level":3}
+{"kz":"шөлін қандыру","de":"lösche deinen durst","level":4}
+{"kz":"іздеу","de":"suchen","level":2}
+{"kz":"ілу","de":"aufhängen","level":2}
+{"kz":"айнымау","de":"sei wie","level":3}
+{"kz":"ақша жұмсау","de":"geld ausgeben","level":3}
+{"kz":"ақы төлеу","de":"für die arbeit bezahlen","level":4}
+{"kz":"анықтау, нақтылау","de":"klären, klären","level":4}
+{"kz":"араздаспау","de":"streite nicht","level":4}
+{"kz":"араластыру","de":"mischen","level":4}
+{"kz":"аршу","de":"schälen (schälen)","level":4}
+{"kz":"асығу","de":"beeil dich","level":2}
+{"kz":"атау","de":"anruf","level":3}
+{"kz":"ауысып отыру","de":"eine transplantation durchführen","level":4}
+{"kz":"әйнектеу","de":"glas","level":5}
+{"kz":"әріптес болу","de":"kollegen sein","level":4}
+{"kz":"бағаламау","de":"unterschätzen","level":4}
+{"kz":"бас қосу","de":"vereinigen, versammeln","level":4}
+{"kz":"басып шығару","de":"drucken","level":3}
+{"kz":"бұзылу","de":"brechen, sich verschlechtern","level":3}
+{"kz":"бұзылу","de":"verschlechtern, zerfallen","level":3}
+{"kz":"ғашық болу","de":"verliebe dich","level":3}
+{"kz":"дауыс көтермеу","de":"erhebe deine stimme nicht","level":4}
+{"kz":"демдеу","de":"aufbrühen (tee)","level":4}
+{"kz":"емделу","de":"sich behandeln lassen","level":3}
+{"kz":"ерекешелену","de":"hervorstechen, hervorstechen","level":5}
+{"kz":"есте сақтау","de":"erinnern","level":3}
+{"kz":"есім беру, ат қою","de":"name","level":4}
+{"kz":"жақтырмау","de":"missbilligen","level":3}
+{"kz":"жалға алу","de":"mieten","level":4}
+{"kz":"жалға беру","de":"vermieten","level":4}
+{"kz":"жасырмау","de":"versteck dich nicht","level":3}
+{"kz":"жатқа оқу","de":"auswendig lernen","level":4}
+{"kz":"жаяу жүру","de":"gehen (zu fuß)","level":2}
+{"kz":"жәрдем беру","de":"helfen","level":3}
+{"kz":"жек көру","de":"hassen","level":3}
+{"kz":"жемісін көру","de":"die vorteile ernten","level":4}
+{"kz":"жеңу, ұту","de":"gewinnen","level":2}
+{"kz":"жерге қону","de":"land","level":4}
+{"kz":"жерлеу","de":"begraben","level":4}
+{"kz":"жол жүру","de":"reisen","level":3}
+{"kz":"жолын табу","de":"einen weg finden","level":3}
+{"kz":"жөн санау","de":"für richtig halten","level":4}
+{"kz":"жөндеу","de":"reparieren","level":3}
+{"kz":"зиян келтіру","de":"schaden","level":4}
+{"kz":"көбею","de":"zunahme","level":3}
+{"kz":"қалану","de":"gestalt annehmen, bauen","level":4}
+{"kz":"қамқор болу","de":"bevormunden","level":4}
+{"kz":"қарау","de":"sehen","level":1}
+{"kz":"қателесу","de":"einen fehler machen","level":3}
+{"kz":"қашу","de":"weglaufen","level":3}
+{"kz":"қиылысу","de":"kreuzen","level":4}
+{"kz":"қоқыс тастау","de":"müll wegwerfen","level":3}
+{"kz":"қоректену","de":"essen","level":4}
+{"kz":"қорқу","de":"besorgt","level":2}
+{"kz":"құлау","de":"fallen","level":2}
+{"kz":"құмарту","de":"werde süchtig, lass dich mitreißen","level":4}
+{"kz":"құрмет тұту","de":"respekt, ehre","level":4}
+{"kz":"құрметтеу","de":"respekt, ehre","level":3}
+{"kz":"құрметіне қойылу","de":"nach jemandem benennen","level":4}
+{"kz":"қырыну","de":"rasur","level":4}
+{"kz":"қысым көрсету","de":"druck ausüben, drücken","level":5}
+{"kz":"лақтыру","de":"werfen, werfen","level":3}
+{"kz":"мазаламау","de":"nicht stören","level":3}
+{"kz":"мекендеу","de":"verweilen","level":4}
+{"kz":"міндеттену","de":"sich verpflichten","level":5}
+{"kz":"назар аудару\/салу","de":"passt auf","level":3}
+{"kz":"ояту","de":"aufwachen","level":3}
+{"kz":"өзгерту","de":"ändern","level":3}
+{"kz":"өкіну","de":"bedauern, bereuen","level":4}
+{"kz":"өсіру","de":"wachsen, wachsen","level":3}
+{"kz":"өтініш жазу","de":"eine stellungnahme schreiben","level":4}
+{"kz":"сабындау","de":"schaum","level":5}
+{"kz":"сақтау","de":"retten, schützen","level":3}
+{"kz":"сапар шегу","de":"reisen","level":4}
+{"kz":"сұхбат алу","de":"interview","level":4}
+{"kz":"сүртіну","de":"abtrocknen","level":3}
+{"kz":"сығу","de":"quetschen","level":3}
+{"kz":"сыпыру","de":"fegen","level":4}
+{"kz":"сыр жасырмау","de":"versteck dich nicht, verheimliche nicht","level":5}
+{"kz":"табылу","de":"auftauchen, finden","level":4}
+{"kz":"талдау, саралау","de":"analysieren","level":5}
+{"kz":"таңбалау","de":"markieren, markieren","level":5}
+{"kz":"тарту","de":"ziehen","level":2}
+{"kz":"тәмамдау","de":"schluss, schluss","level":4}
+{"kz":"темекі тарту","de":"rauch","level":3}
+{"kz":"терлеу","de":"schweiß","level":4}
+{"kz":"тоқтатпау","de":"hör nicht auf","level":3}
+{"kz":"төгу","de":"ausgießen","level":3}
+{"kz":"тістеу","de":"beißen","level":3}
+{"kz":"уақыт өткізу","de":"zeit verbringen","level":3}
+{"kz":"ұйықтап кету","de":"einschlafen","level":2}
+{"kz":"ұнату","de":"liebe, so","level":2}
+{"kz":"ұнтақ салу","de":"pulver hinzufügen","level":5}
+{"kz":"ұрлау","de":"stehlen","level":3}
+{"kz":"ұрыспау","de":"schimpfe nicht","level":3}
+{"kz":"ұшып келу","de":"einfliegen","level":3}
+{"kz":"ұшып кету","de":"wegfliegen","level":3}
+{"kz":"үміт ақтау","de":"den erwartungen gerecht werden","level":5}
+{"kz":"шайнау","de":"kauen","level":2}
+{"kz":"шешім қабылдау","de":"eine entscheidung treffen","level":4}
+{"kz":"шолу жасау","de":"rezension","level":5}
+{"kz":"шынығу, жаттығу","de":"zug","level":3}
+{"kz":"ықшамдау","de":"komprimieren, reduzieren","level":5}
+{"kz":"айғайлау","de":"schreien","level":2}
+{"kz":"айналу","de":"drehen","level":3}
+{"kz":"алмастыру","de":"ersetzen","level":4}
+{"kz":"алу","de":"subtrahieren, nehmen","level":3}
+{"kz":"аралау","de":"wandern, wandern","level":4}
+{"kz":"ауыстыру","de":"ersetzen","level":4}
+{"kz":"әсер ету","de":"beeinflussen","level":4}
+{"kz":"байлау","de":"bandage","level":3}
+{"kz":"басталу","de":"beginnen","level":2}
+{"kz":"бату","de":"ertrinken","level":3}
+{"kz":"беделден айырылу","de":"autorität verlieren","level":5}
+{"kz":"бөлу","de":"teilen","level":2}
+{"kz":"бұрылу","de":"drehen","level":3}
+{"kz":"дауыс беру","de":"abstimmen, eine stimme abgeben","level":4}
+{"kz":"дәрі тамызу","de":"tropfmedizin","level":5}
+{"kz":"дәрі ішу","de":"medikamente einnehmen","level":3}
+{"kz":"дәрігерге қаралу","de":"einen arzt aufsuchen","level":4}
+{"kz":"дем алу","de":"atmen","level":2}
+{"kz":"демалыс алу","de":"urlaub machen","level":3}
+{"kz":"доғару","de":"hör auf, hör auf","level":4}
+{"kz":"есеп шығару","de":"ein problem lösen","level":4}
+{"kz":"еске түсіру","de":"abrufen","level":3}
+{"kz":"жадыны өшіру","de":"speicher löschen","level":5}
+{"kz":"жалдау","de":"mieten","level":3}
+{"kz":"жалығып кету","de":"werde müde, werde gelangweilt","level":4}
+{"kz":"жанжалдасу","de":"einen skandal, konflikt auslösen","level":5}
+{"kz":"жасыру","de":"verstecken, verstecken","level":3}
+{"kz":"жауапқа тарту","de":"vor gericht bringen","level":5}
+{"kz":"жегізу","de":"füttern, zu essen geben","level":3}
+{"kz":"желбегей жамылу","de":"auf dich werfen","level":5}
+{"kz":"жеңіп алу","de":"gewinnen","level":3}
+{"kz":"жеткізіп салу","de":"liefern","level":4}
+{"kz":"жол ашу","de":"öffne die straße","level":4}
+{"kz":"жұмсару","de":"erweichen","level":4}
+{"kz":"жұту","de":"schlucken","level":2}
+{"kz":"иемдену","de":"master","level":5}
+{"kz":"иісті сезу","de":"geruch","level":4}
+{"kz":"келістіре кию","de":"kleiden sie sich nach ihrem geschmack","level":4}
+{"kz":"кері қайту","de":"geh zurück","level":3}
+{"kz":"кигізу","de":"anziehen, anziehen","level":3}
+{"kz":"киіп көру","de":"anprobieren","level":3}
+{"kz":"көбейту","de":"multiplizieren","level":3}
+{"kz":"көмектесу","de":"helfen","level":2}
+{"kz":"көтеру","de":"aufzug","level":2}
+{"kz":"күнге қыздырыну","de":"sonnenbaden","level":4}
+{"kz":"қайта қарау","de":"überdenken","level":4}
+{"kz":"қарап шығу","de":"sicht","level":3}
+{"kz":"қартаю","de":"alt werden, alt werden","level":4}
+{"kz":"қарызға алу","de":"ausleihen","level":4}
+{"kz":"қатаю","de":"härten","level":4}
+{"kz":"қашып құтылу","de":"flucht","level":5}
+{"kz":"қосу","de":"falten","level":2}
+{"kz":"құпия ұстау","de":"geheim halten","level":4}
+{"kz":"құрмет көрсету","de":"tue die ehre","level":5}
+{"kz":"құю","de":"gießen, gießen","level":2}
+{"kz":"марапаттау","de":"belohnen","level":4}
+{"kz":"мәре-сәре болу","de":"freue dich","level":4}
+{"kz":"мойындау","de":"anerkennen, erkennen","level":4}
+{"kz":"ойлап табу","de":"erfinden","level":4}
+{"kz":"орын алу","de":"nehmen platz ein","level":4}
+{"kz":"өзгеріс енгізу","de":"Änderungen vornehmen","level":5}
+{"kz":"өшіп қалу","de":"ausschalten, ausschalten","level":3}
+{"kz":"пікірлесу","de":"meinungen austauschen","level":4}
+{"kz":"ренжісу","de":"voneinander beleidigt sein","level":4}
+{"kz":"ренжіту","de":"beleidigen","level":3}
+{"kz":"сауығу, жазылу","de":"genesen","level":4}
+{"kz":"сәндеу","de":"schmücken","level":4}
+{"kz":"сезіну","de":"fühlen, spüren","level":3}
+{"kz":"сенім арту","de":"vertrauen","level":5}
+{"kz":"сенім білдіру","de":"vertrauen ausdrücken","level":5}
+{"kz":"сөз қылу","de":"klatschen, diskutieren","level":5}
+{"kz":"сулау","de":"feuchte","level":4}
+{"kz":"сүңгу","de":"tauchen","level":3}
+{"kz":"сындыру","de":"pause, pause","level":3}
+{"kz":"сіңу","de":"absorbiert werden, absorbiert werden","level":5}
+{"kz":"тамызу","de":"tropfen","level":4}
+{"kz":"тапсырыс беру","de":"befehl","level":3}
+{"kz":"тастау","de":"werfen","level":2}
+{"kz":"тексеріп көру","de":"überprüfen","level":3}
+{"kz":"тойып жеу","de":"iss dich satt","level":4}
+{"kz":"толтыру","de":"füllen","level":3}
+{"kz":"толықтыру","de":"ergänzen","level":4}
+{"kz":"төлеу","de":"zahlen","level":2}
+{"kz":"түзеу","de":"fix","level":3}
+{"kz":"түсіріп алу","de":"fallen","level":3}
+{"kz":"тігу","de":"nähen","level":2}
+{"kz":"тілеу","de":"wünschen, fragen","level":3}
+{"kz":"ұқсату","de":"vergleichen, Ähnlichkeiten finden","level":5}
+{"kz":"ұмытылмау","de":"vergiss es nicht","level":3}
+{"kz":"ұстаздық ету","de":"unterweisen, lehren","level":5}
+{"kz":"хабар тарату","de":"eine botschaft übermitteln","level":5}
+{"kz":"шағымдану","de":"eine beschwerde einreichen","level":5}
+{"kz":"шешімін табу","de":"eine lösung finden","level":4}
+{"kz":"іздеп табу","de":"finden","level":3}
+{"kz":"адал","de":"ehrlich","level":2}
+{"kz":"ақкөңіл","de":"aufrichtig","level":3}
+{"kz":"ақылды","de":"schlau","level":1}
+{"kz":"алғыр","de":"zäh","level":4}
+{"kz":"алқалық","de":"kollegial","level":5}
+{"kz":"алып","de":"groß, riesig","level":2}
+{"kz":"аңқау","de":"naiv","level":3}
+{"kz":"арзан","de":"billig","level":2}
+{"kz":"астыңғы","de":"untere","level":2}
+{"kz":"ашушаң","de":"hitzig, wütend","level":4}
+{"kz":"әдепті","de":"gut erzogen","level":3}
+{"kz":"әділ","de":"gerecht","level":3}
+{"kz":"әйгілі","de":"berühmt","level":3}
+{"kz":"бақытты","de":"glücklich","level":2}
+{"kz":"белгілі","de":"berühmt","level":2}
+{"kz":"белсенді","de":"aktiv","level":3}
+{"kz":"бөлек","de":"getrennt, getrennt","level":3}
+{"kz":"бұлтсыз","de":"wolkenlos","level":3}
+{"kz":"бұлтты","de":"bewölkt, mit wolken bedeckt","level":2}
+{"kz":"білімді","de":"gebildet","level":3}
+{"kz":"дарынды","de":"talentiert","level":3}
+{"kz":"дөңгелек","de":"runden","level":2}
+{"kz":"дөрекі","de":"unhöflich","level":3}
+{"kz":"едәуір","de":"bedeutsam","level":4}
+{"kz":"екпінді","de":"ungestüm, stark","level":4}
+{"kz":"елеулі","de":"bedeutsam, bedeutsam","level":4}
+{"kz":"еңбекқор","de":"hart arbeiten","level":3}
+{"kz":"жағымсыз","de":"unangenehm, ekelhaft","level":3}
+{"kz":"жазғы","de":"sommer","level":2}
+{"kz":"жақсы","de":"gut","level":1}
+{"kz":"жалқау","de":"faul","level":2}
+{"kz":"жарасымды","de":"passend, okay","level":4}
+{"kz":"жарқын","de":"hell","level":2}
+{"kz":"жас","de":"jung","level":1}
+{"kz":"жекеменшік","de":"privat","level":4}
+{"kz":"жергілікті","de":"lokal","level":3}
+{"kz":"жеткіліксіз","de":"unzureichend","level":4}
+{"kz":"жоспарлы","de":"geplant","level":4}
+{"kz":"жұқа","de":"dünn","level":2}
+{"kz":"жүйрік","de":"schnell","level":3}
+{"kz":"зерек","de":"schlau","level":4}
+{"kz":"зиян","de":"schädlich","level":3}
+{"kz":"кәдімгі","de":"gewöhnlich, gewöhnlich","level":2}
+{"kz":"кең","de":"breit","level":1}
+{"kz":"көне","de":"uralt","level":3}
+{"kz":"көңілді","de":"lustig","level":2}
+{"kz":"кіші","de":"jünger","level":2}
+{"kz":"қайғылы","de":"traurig","level":3}
+{"kz":"қайырымды","de":"art","level":2}
+{"kz":"қалың","de":"dick, dicht","level":2}
+{"kz":"қарапайым","de":"bescheiden, einfach","level":3}
+{"kz":"қатыгез","de":"grausam","level":4}
+{"kz":"қауіпті","de":"gefährlich","level":3}
+{"kz":"қоғамдық","de":"öffentlich","level":3}
+{"kz":"қолданбалы","de":"angewandt","level":4}
+{"kz":"құқылы","de":"rechtsfähigkeit","level":5}
+{"kz":"құрметті","de":"liebling","level":3}
+{"kz":"қызықты","de":"interessant","level":2}
+{"kz":"қымбат","de":"teuer","level":2}
+{"kz":"қысқы","de":"winter","level":2}
+{"kz":"лас","de":"schmutzig","level":2}
+{"kz":"мазасыз","de":"alarmierend","level":4}
+{"kz":"майлы","de":"fettig","level":2}
+{"kz":"мейірімді","de":"menschlich","level":4}
+{"kz":"мемлекеттік","de":"zustand","level":3}
+{"kz":"мылжың","de":"gesprächig, gesprächig","level":4}
+{"kz":"міндетті","de":"verpflichtet","level":3}
+{"kz":"нағыз","de":"real","level":3}
+{"kz":"нәтижелі","de":"fruchtbar, effektiv","level":4}
+{"kz":"негізгі","de":"basic","level":2}
+{"kz":"отандық","de":"inländisch","level":3}
+{"kz":"өзекті","de":"aktuell","level":4}
+{"kz":"пайдалы","de":"nützlich","level":2}
+{"kz":"пәнаралық","de":"interdisziplinär","level":5}
+{"kz":"салмақты","de":"ruhig","level":3}
+{"kz":"сараң","de":"gierig","level":3}
+{"kz":"сенімді","de":"treu","level":3}
+{"kz":"сөзге шешен","de":"beredt","level":5}
+{"kz":"сыпайы","de":"höflich","level":3}
+{"kz":"сыртқы","de":"außen, oben","level":3}
+{"kz":"таза","de":"sauber","level":1}
+{"kz":"талғампаз","de":"wählerisch, wählerisch","level":4}
+{"kz":"танымал","de":"beliebt","level":3}
+{"kz":"таңғажайып, ғажап","de":"wunderbar, erstaunlich","level":4}
+{"kz":"тапқыр","de":"witzig","level":4}
+{"kz":"тап-таза","de":"völlig sauber","level":3}
+{"kz":"тұйық","de":"geschlossen, still","level":4}
+{"kz":"тұманды","de":"nebel","level":3}
+{"kz":"түнерген","de":"bewölkt, düster","level":4}
+{"kz":"тыныш","de":"ruhig","level":2}
+{"kz":"уайымшыл","de":"pessimistisch","level":4}
+{"kz":"ұқыпты","de":"aufmerksam","level":3}
+{"kz":"үлкен","de":"senior","level":1}
+{"kz":"шағын","de":"klein","level":2}
+{"kz":"шектеулі","de":"beschränkt","level":4}
+{"kz":"шетел","de":"ausländisch","level":3}
+{"kz":"шетелдік","de":"ausländisch","level":3}
+{"kz":"шулы","de":"laut","level":2}
+{"kz":"шыдамды","de":"geduldig","level":3}
+{"kz":"іргелі","de":"grundlegend","level":5}
+{"kz":"aқкөңіл","de":"gutmütig","level":3}
+{"kz":"абыройлы","de":"maßgeblich","level":4}
+{"kz":"аққұба","de":"licht","level":3}
+{"kz":"алаңғасар","de":"zerstreut","level":4}
+{"kz":"алыс","de":"weit","level":2}
+{"kz":"арнайы","de":"besonders","level":3}
+{"kz":"ашулы","de":"wütend","level":3}
+{"kz":"ащы","de":"bitter","level":2}
+{"kz":"әмбебап","de":"universal-","level":4}
+{"kz":"әсерлі","de":"beeindruckend","level":4}
+{"kz":"бақытсыз","de":"unzufrieden","level":3}
+{"kz":"батыл","de":"entscheidend","level":4}
+{"kz":"беделді","de":"maßgeblich","level":4}
+{"kz":"бойдақ","de":"unverheiratet","level":3}
+{"kz":"бұйра","de":"lockig","level":3}
+{"kz":"бұлыңғыр","de":"trüb, dunstig","level":4}
+{"kz":"бірбеткей","de":"prinzipiell","level":5}
+{"kz":"дәл","de":"genau","level":2}
+{"kz":"дәмді","de":"lecker","level":2}
+{"kz":"дұрыс","de":"richtig","level":2}
+{"kz":"ерекше","de":"besonders","level":3}
+{"kz":"ескі","de":"alt","level":1}
+{"kz":"жабайы","de":"wild","level":3}
+{"kz":"жағымды","de":"positiv","level":3}
+{"kz":"жақын","de":"schließen","level":2}
+{"kz":"жаңа","de":"neu","level":1}
+{"kz":"жауапты","de":"verantwortlich","level":3}
+{"kz":"жұмсақ","de":"weich","level":2}
+{"kz":"жүзі жылы","de":"hübsch","level":4}
+{"kz":"жігерлі","de":"energisch, proaktiv","level":4}
+{"kz":"келесі","de":"nächste","level":1}
+{"kz":"көк көзді","de":"blauäugig","level":3}
+{"kz":"көңілсіз","de":"freudlos","level":3}
+{"kz":"көпқабатты","de":"mehrstöckig","level":3}
+{"kz":"көпшіл","de":"gesprächig","level":3}
+{"kz":"көреген","de":"weitsichtig, scharfsichtig","level":4}
+{"kz":"көрікті","de":"prominent","level":3}
+{"kz":"күрделі","de":"schwierig","level":3}
+{"kz":"кінәлі","de":"schuldig","level":3}
+{"kz":"кір","de":"schmutzig","level":2}
+{"kz":"қабілетті","de":"fähig","level":3}
+{"kz":"қайратты","de":"stark, energisch","level":3}
+{"kz":"қайсар","de":"hartnäckig","level":4}
+{"kz":"қалаулы, таңдаулы","de":"auserwählter","level":4}
+{"kz":"қалың","de":"dick","level":2}
+{"kz":"қара шашты","de":"schwarzhaarig","level":3}
+{"kz":"қараторы","de":"dunkel","level":4}
+{"kz":"қатаң","de":"strikt","level":3}
+{"kz":"қатты","de":"solide","level":2}
+{"kz":"қауырт","de":"hastig, notfall","level":5}
+{"kz":"қиын","de":"schwierig","level":2}
+{"kz":"қолайлы","de":"komfortabel","level":3}
+{"kz":"қолайсыз","de":"unbequem","level":3}
+{"kz":"қолжетімді","de":"zugänglich","level":3}
+{"kz":"қонақжай","de":"gastfreundlich","level":4}
+{"kz":"қорқақ","de":"feige","level":3}
+{"kz":"қорқынышты","de":"beängstigend","level":3}
+{"kz":"қосымша","de":"zusätzlich","level":3}
+{"kz":"құнды","de":"wertvoll","level":3}
+{"kz":"қысқа","de":"kurz","level":2}
+{"kz":"қысқа бойлы","de":"kurz","level":3}
+{"kz":"қышқыл","de":"sauer","level":3}
+{"kz":"лайықты","de":"passend, angemessen","level":4}
+{"kz":"мақсатшыл","de":"zielgerichtet","level":4}
+{"kz":"маңызды","de":"wichtig","level":2}
+{"kz":"мәдениетті","de":"kulturell","level":3}
+{"kz":"мықты","de":"stark","level":2}
+{"kz":"нақты","de":"spezifisch","level":3}
+{"kz":"озық","de":"fortschrittlich","level":4}
+{"kz":"ортақ","de":"einzel","level":3}
+{"kz":"отбасылы","de":"familie","level":3}
+{"kz":"өзге","de":"anders, anders, besonders","level":2}
+{"kz":"сабырлы","de":"ausgewogen","level":4}
+{"kz":"салақ","de":"schlampig","level":4}
+{"kz":"салтанатты","de":"feierlich","level":4}
+{"kz":"сапалы","de":"qualitativ","level":3}
+{"kz":"суық","de":"kalt","level":2}
+{"kz":"сұлу","de":"schön","level":2}
+{"kz":"сұсты","de":"beeindruckend, streng","level":4}
+{"kz":"сүйкімді","de":"niedlich","level":3}
+{"kz":"сүйкімсіз","de":"unangenehm","level":4}
+{"kz":"табанды","de":"hartnäckig, hartnäckig","level":4}
+{"kz":"тақырбас","de":"kahl","level":4}
+{"kz":"тәжірибелі","de":"erfahren","level":3}
+{"kz":"тәтті","de":"süß","level":2}
+{"kz":"тегін","de":"frei","level":3}
+{"kz":"тиянақты","de":"gründlich, effizient","level":5}
+{"kz":"томпақ","de":"rundlich, wohlgenährt","level":4}
+{"kz":"тұрақты","de":"dauerhaft, stabil","level":3}
+{"kz":"тілтабысқыш","de":"gesprächig","level":5}
+{"kz":"ұзын","de":"lang","level":2}
+{"kz":"ұйқышыл","de":"schläfrig, schlafmütze","level":4}
+{"kz":"ұқыпты, құнтты","de":"sparsam","level":4}
+{"kz":"ұрысқақ","de":"skandalös","level":4}
+{"kz":"ұялшақ","de":"schüchtern, schüchtern","level":4}
+{"kz":"үстіңгі","de":"obere","level":2}
+{"kz":"шексіз","de":"grenzenlos","level":4}
+{"kz":"шынайы","de":"echt, wahr","level":3}
+{"kz":"ылғалды","de":"feucht, feucht","level":3}
+{"kz":"ыстық","de":"heiß","level":2}
+{"kz":"ақ","de":"weiß","level":1}
+{"kz":"ақысыз","de":"kostenlos, kostenlos","level":3}
+{"kz":"алтын","de":"gold","level":2}
+{"kz":"арнаулы","de":"besonders, beabsichtigt","level":4}
+{"kz":"арық","de":"dünn","level":3}
+{"kz":"ауыр","de":"schwer","level":2}
+{"kz":"әлеуметтік","de":"sozial, öffentlich","level":3}
+{"kz":"әлсіз","de":"schwach","level":2}
+{"kz":"бағалы","de":"wertvoll","level":3}
+{"kz":"бай","de":"reich","level":2}
+{"kz":"бейресми","de":"informell","level":4}
+{"kz":"белгілі","de":"bekannt, sicher","level":2}
+{"kz":"белгісіз","de":"unbekannt","level":3}
+{"kz":"биік","de":"hoch","level":2}
+{"kz":"брендті","de":"gebrandmarkt","level":4}
+{"kz":"буға піскен","de":"gedämpft","level":4}
+{"kz":"бұлтты","de":"wolkig","level":3}
+{"kz":"білікті","de":"kompetent, qualifiziert","level":3}
+{"kz":"ғылыми","de":"wissenschaftlich, wissenschaftler","level":3}
+{"kz":"дамыған","de":"entwickelt","level":3}
+{"kz":"дана","de":"weise","level":3}
+{"kz":"дарынсыз","de":"unbegabt","level":4}
+{"kz":"дәлелді","de":"beweiskräftig, gerechtfertigt","level":4}
+{"kz":"ең ауыр","de":"das schwerste","level":3}
+{"kz":"ең бай","de":"der reichste","level":3}
+{"kz":"ең кішкентай","de":"der kleinste","level":3}
+{"kz":"ең қымбат","de":"das teuerste","level":3}
+{"kz":"ең үлкен","de":"größte","level":2}
+{"kz":"ересек","de":"erwachsene","level":2}
+{"kz":"ерке","de":"verwöhnt, liebling","level":4}
+{"kz":"еріншек","de":"faul","level":3}
+{"kz":"есті","de":"vernünftig","level":2}
+{"kz":"ешқандай","de":"nein","level":3}
+{"kz":"жайлы, ыңғайлы","de":"komfortabel","level":3}
+{"kz":"жалған","de":"falsch","level":3}
+{"kz":"жалғыз","de":"der einzige","level":2}
+{"kz":"жапсырмалы","de":"klebstoff","level":4}
+{"kz":"жасанды","de":"künstlich","level":3}
+{"kz":"жасыл","de":"grün","level":2}
+{"kz":"жасырын","de":"geheim, heimlich","level":3}
+{"kz":"жеңіл","de":"einfach","level":2}
+{"kz":"жеткілікті, жетерлік","de":"ausreichend, genug","level":3}
+{"kz":"жиі","de":"häufig","level":2}
+{"kz":"жүрдек","de":"schnell","level":3}
+{"kz":"жылы","de":"warm","level":1}
+{"kz":"заңды","de":"legal, natürlich","level":4}
+{"kz":"зор","de":"riesig","level":3}
+{"kz":"кедей","de":"arm","level":2}
+{"kz":"кездейсоқ","de":"zufällig","level":3}
+{"kz":"көгілдір","de":"blau","level":3}
+{"kz":"көк","de":"blau","level":1}
+{"kz":"көтерме","de":"großhandel","level":4}
+{"kz":"күміс","de":"silber","level":3}
+{"kz":"күшті","de":"stark","level":2}
+{"kz":"қажымас","de":"unermüdlich","level":5}
+{"kz":"қазақы","de":"charakteristisch für kasachen","level":4}
+{"kz":"қайнатылған","de":"gekocht","level":4}
+{"kz":"қап-қара","de":"schwarz-schwarz","level":3}
+{"kz":"қара","de":"schwarz","level":1}
+{"kz":"қаржылық","de":"finanziell","level":4}
+{"kz":"қауіпсіз","de":"sicher, sicher","level":3}
+{"kz":"қоңыр","de":"braun","level":3}
+{"kz":"қуырылған","de":"gebraten","level":3}
+{"kz":"құқықтық","de":"legal","level":4}
+{"kz":"құрылған","de":"zusammengestellt","level":4}
+{"kz":"қызметтік","de":"offiziell","level":4}
+{"kz":"қызыл","de":"rot","level":1}
+{"kz":"маусымдық","de":"saisonal","level":4}
+{"kz":"мерекелік","de":"festlich, feierlich","level":3}
+{"kz":"мұқият","de":"ordentlich, gründlich","level":3}
+{"kz":"оң","de":"rechts","level":1}
+{"kz":"өмірге құштар","de":"heiter","level":4}
+{"kz":"парасатты","de":"intellektuell entwickelt","level":5}
+{"kz":"піскен","de":"reif","level":3}
+{"kz":"риза","de":"angenehm, zufrieden","level":3}
+{"kz":"сары","de":"gelb","level":2}
+{"kz":"сәнді","de":"elegant, modisch","level":3}
+{"kz":"сәтті","de":"erfolgreich, erfolgreich","level":3}
+{"kz":"сол","de":"links","level":1}
+{"kz":"сөзшең","de":"gesprächig, eloquent","level":4}
+{"kz":"сұр","de":"grau","level":2}
+{"kz":"сүйікті","de":"geliebter, liebling","level":2}
+{"kz":"табиғи","de":"natürlich","level":3}
+{"kz":"табысты","de":"erfolgreich","level":3}
+{"kz":"танымдық","de":"kognitiv","level":4}
+{"kz":"тар","de":"eng","level":2}
+{"kz":"тарихи","de":"historisch","level":3}
+{"kz":"тиімді","de":"profitabel","level":4}
+{"kz":"толық","de":"voll","level":2}
+{"kz":"төмен","de":"kurz","level":2}
+{"kz":"туған","de":"einheimisch","level":2}
+{"kz":"тұрғылықты","de":"dauerhaft, einheimisch","level":4}
+{"kz":"түрлі түсті","de":"farbe","level":3}
+{"kz":"ұзақ","de":"lang, lang","level":2}
+{"kz":"ұзын бойлы","de":"groß","level":3}
+{"kz":"ұқсас","de":"ähnlich","level":3}
+{"kz":"үздік","de":"am besten","level":2}
+{"kz":"халықаралық","de":"international","level":4}
+{"kz":"шартты","de":"bedingt","level":4}
+{"kz":"шектен тыс","de":"übertrieben","level":4}
+{"kz":"алпыс","de":"sechzig","level":2}
+{"kz":"алпысыншы","de":"sechzigster","level":3}
+{"kz":"алтау","de":"sechs","level":3}
+{"kz":"алты","de":"sechs","level":1}
+{"kz":"алтыншы","de":"sechste","level":2}
+{"kz":"бес","de":"fünf","level":1}
+{"kz":"бесеу","de":"fünf","level":3}
+{"kz":"бесінші","de":"fünfte","level":2}
+{"kz":"біз","de":"wir","level":1}
+{"kz":"біздің","de":"unser","level":1}
+{"kz":"бір","de":"eins","level":1}
+{"kz":"біреу","de":"einer von","level":2}
+{"kz":"бірінші","de":"erste","level":1}
+{"kz":"екеу","de":"zwei","level":2}
+{"kz":"екі","de":"zwei","level":1}
+{"kz":"екінші","de":"zweite","level":1}
+{"kz":"елу","de":"fünfzig","level":2}
+{"kz":"елуінші","de":"fünfzigste","level":3}
+{"kz":"жетеу","de":"sieben","level":3}
+{"kz":"жетпіс","de":"siebzig","level":2}
+{"kz":"жетпісінші","de":"siebzigste","level":3}
+{"kz":"жеті","de":"sieben","level":1}
+{"kz":"жетінші","de":"siebte","level":2}
+{"kz":"жиырма","de":"zwanzig","level":2}
+{"kz":"жиырмасыншы","de":"zwanzigsten","level":3}
+{"kz":"жүз","de":"einhundert","level":1}
+{"kz":"жүз шақты","de":"ungefähr hundert","level":3}
+{"kz":"жүздеген","de":"hunderte","level":2}
+{"kz":"жүзінші","de":"hundertstel","level":3}
+{"kz":"кім?","de":"who?","level":1}
+{"kz":"кімдікі?","de":"wessen?","level":2}
+{"kz":"қайда?","de":"wo?","level":1}
+{"kz":"қалай?","de":"wie?","level":1}
+{"kz":"қандай?","de":"welche?","level":1}
+{"kz":"қанша?","de":"wie viele?","level":1}
+{"kz":"қырқыншы","de":"vierzigsten","level":3}
+{"kz":"қырық","de":"vierzig","level":2}
+{"kz":"мен","de":"ich","level":1}
+{"kz":"менің","de":"mein","level":1}
+{"kz":"мың","de":"tausend","level":2}
+{"kz":"мыңдаған","de":"tausende","level":3}
+{"kz":"мыңыншы","de":"tausendstel","level":4}
+{"kz":"не?","de":"was?","level":1}
+{"kz":"нешінші?","de":"welches in ordnung?","level":3}
+{"kz":"нөл","de":"null","level":2}
+{"kz":"нөлінші","de":"null","level":4}
+{"kz":"ол","de":"er, sie","level":1}
+{"kz":"олар","de":"sie","level":1}
+{"kz":"олардың","de":"ihre","level":2}
+{"kz":"он","de":"zehn","level":1}
+{"kz":"он алты","de":"sechzehn","level":2}
+{"kz":"он бес","de":"fünfzehn","level":2}
+{"kz":"он бір","de":"elf","level":2}
+{"kz":"он екі","de":"zwölf","level":2}
+{"kz":"он жеті","de":"siebzehn","level":2}
+{"kz":"он сегіз","de":"achtzehn","level":2}
+{"kz":"он тоғыз","de":"neunzehn","level":2}
+{"kz":"он төрт","de":"vierzehn","level":2}
+{"kz":"он үш","de":"dreizehn","level":2}
+{"kz":"ондаған","de":"zehner","level":3}
+{"kz":"он-оннан","de":"zehn, zehn","level":3}
+{"kz":"оныншы","de":"zehntel","level":2}
+{"kz":"оның","de":"er, sie","level":2}
+{"kz":"отыз","de":"dreißig","level":2}
+{"kz":"отызыншы","de":"dreißigsten","level":3}
+{"kz":"өздерің, өздеріңіз","de":"du selbst (plural)","level":3}
+{"kz":"өзі","de":"sich selbst","level":2}
+{"kz":"өзім","de":"ich selbst","level":2}
+{"kz":"өзіміз","de":"uns","level":2}
+{"kz":"өзің","de":"du selbst","level":2}
+{"kz":"өзіңіз","de":"du selbst (singular)","level":2}
+{"kz":"сегіз","de":"acht","level":1}
+{"kz":"сегізінші","de":"achte","level":2}
+{"kz":"сексен","de":"achtzig","level":2}
+{"kz":"сексенінші","de":"achtzigsten","level":3}
+{"kz":"сен","de":"du","level":1}
+{"kz":"сенің","de":"dein","level":1}
+{"kz":"сіз","de":"du (singular)","level":1}
+{"kz":"сіздер, сендер","de":"du (plural)","level":2}
+{"kz":"сіздің","de":"dein","level":2}
+{"kz":"тоғыз","de":"neun","level":1}
+{"kz":"тоғызыншы","de":"neunte","level":2}
+{"kz":"тоқсан","de":"neunzig","level":2}
+{"kz":"тоқсаныншы","de":"neunzigster","level":3}
+{"kz":"төрт","de":"vier","level":1}
+{"kz":"төртеу","de":"vier","level":3}
+{"kz":"төртінші","de":"vierte","level":2}
+{"kz":"үш","de":"drei","level":1}
+{"kz":"үшеу","de":"drei","level":3}
+{"kz":"үшінші","de":"dritte","level":2}
