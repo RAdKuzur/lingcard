@@ -14,18 +14,19 @@ class AvailableLanguageSeeder extends Seeder
     public function run(): void
     {
         DB::table('available_languages')->truncate();
+        // ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa']
         $availableCodes = [
-            'ru' => ['en', 'kz' , 'fr'],
-            'kz' => ['en', 'ru' , 'fr'],
-            'en' => ['ru', 'kz' , 'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
-            'fr' => ['en', 'kz' , 'ru'],
-            'cn' => ['en'],
-            'de' => ['en'],
-            'es' => ['en'],
-            'jp' => ['en'],
-            'kr' => ['en'],
-            'pt' => ['en'],
-            'sa' => ['en']
+            'ru' => ['kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
+            'kz' => ['ru', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
+            'en' => ['ru', 'kz', 'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
+            'fr' => ['ru', 'kz', 'en' ,'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
+            'cn' => ['ru', 'kz', 'en' ,'fr', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
+            'de' => ['ru', 'kz', 'en' ,'fr', 'cn', 'es', 'jp', 'kr', 'pt', 'sa'],
+            'es' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'jp', 'kr', 'pt', 'sa'],
+            'jp' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'es', 'kr', 'pt', 'sa'],
+            'kr' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'pt', 'sa'],
+            'pt' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'sa'],
+            'sa' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt']
         ];
         foreach ($availableCodes as $code => $languages) {
             $baseLanguage = DB::table('languages')->where('code', $code)->first();
