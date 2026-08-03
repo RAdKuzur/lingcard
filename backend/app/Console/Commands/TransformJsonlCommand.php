@@ -16,21 +16,23 @@ class TransformJsonlCommand extends Command
      */
     public function handle()
     {
+        $language = 'sa';
         $words = [];
-        $baseFilePath = base_path('data/portuguese.json');
-        $createdFilePath = base_path('data/pt.jsonl');
-        $file = file_get_contents($baseFilePath);
+        $baseFilePath = base_path("data/words/jp/$language.jsonl");
+        $createdFilePath = base_path("data/words/$language.jsonl");
+        $file = fopen($baseFilePath, "r");
         $file2 = fopen($createdFilePath, 'w');
-
-        $data = json_decode($file, true);
-        foreach ($data as $item) {
-            if(!in_array($this->getWordField($item), $words)) {
-                $words[] = $this->getWordField($item) ;
-                $json = [
-                    'pt' => $this->getWordField($item)
-                ];
-                fwrite($file2, json_encode($json, JSON_UNESCAPED_UNICODE) . PHP_EOL);
-            }
+        $file3 = fopen(base_path("data/words/jp/en.jsonl"), 'r');
+        while (($line = fgets($file)) !== false) {
+            $word = json_decode($line);
+            $line2 = fgets($file3);
+            $word2 = json_decode($line2);
+            fwrite($file2, json_encode([
+                'jp' => $word->{'jp'},
+                $language => $word->{$language},
+                'transcription' => $word2->{'transcription'},
+                'level' => $word->{'level'},
+            ], JSON_UNESCAPED_UNICODE) . PHP_EOL);
         }
         fclose($file2);
     }
