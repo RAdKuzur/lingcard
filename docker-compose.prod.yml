@@ -25,9 +25,11 @@ services:
       dockerfile: Dockerfile
     ports:
       - "127.0.0.1:5173:5173"
+    command: preview -- --host --port 5173
     volumes:
       - ./frontend:/app
       - /app/node_modules
+      - /app/dist
     networks:
       - network
     depends_on:
@@ -38,7 +40,7 @@ services:
     build:
       context: ./backend
       dockerfile: Dockerfile
-    command: migrate
+    command: migrate --force
     networks:
       - network
     depends_on:

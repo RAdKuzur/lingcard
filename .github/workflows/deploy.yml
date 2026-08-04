@@ -46,6 +46,8 @@ jobs:
           sed -i "s|^JWT_SECRET=.*|JWT_SECRET=${{ vars.JWT_SECRET }}|" .env
           sed -i "s|^APP_KEY=.*|APP_KEY=${{ vars.APP_KEY }}|" .env
           sed -i "s|^APP_URL=.*|APP_URL=${{ vars.APP_URL }}|" .env
+          sed -i "s|^APP_ENV=.*|APP_ENV=${{ vars.APP_ENV }}|" .env
+          sed -i "s|^APP_DEBUG=.*|APP_DEBUG=${{ vars.APP_DEBUG }}|" .env
 
       - name: Deploy
         run: |

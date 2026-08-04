@@ -6,6 +6,12 @@ COPY package.json ./
 
 RUN npm install
 
+COPY . .
+
+RUN rm -rf dist
+
+RUN npm run build
+
 EXPOSE 5173
 
-CMD ["npm", "run", "dev", "--", "--host"]
+ENTRYPOINT ["npm", "run"]
