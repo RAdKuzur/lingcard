@@ -3,6 +3,8 @@
 namespace Tests\Feature;
 
 use App\Dictionaries\RoleDictionary;
+use Database\Seeders\LanguageSeeder;
+use Database\Seeders\UserSeeder;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Hash;
@@ -10,8 +12,11 @@ use Tests\TestCase;
 
 class LoginTest extends TestCase
 {
+    use RefreshDatabase;
     public function test_successful_login(): void
     {
+        $this->seed(LanguageSeeder::class);
+        $this->seed(UserSeeder::class);
         $data = [
             'email' => 'drive16052003@gmail.com',
             'password' => 'password'

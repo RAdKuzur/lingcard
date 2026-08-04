@@ -43,7 +43,15 @@ class User extends Authenticatable implements JWTSubject
 {
     /** @use HasFactory<UserFactory> */
     use HasFactory, Notifiable;
-
+    protected $fillable = [
+        'name',
+        'email',
+        'password',
+        'base_language_id',
+        'target_language_id',
+        'role',
+        'is_banned'
+    ];
     /**
      * Get the attributes that should be cast.
      *

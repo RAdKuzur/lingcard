@@ -49,8 +49,14 @@ class Post extends Model
         'title',
         'content',
         'date',
+        'language_id',
+        'user_id',
+        'address',
+        'status',
+        'views_count',
+        'likes_count',
+        'dislikes_count',
     ];
-
     /**
      * The attributes that should be cast.
      *
