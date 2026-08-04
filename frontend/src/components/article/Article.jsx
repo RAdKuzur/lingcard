@@ -3,6 +3,11 @@ import {get, post} from "../../plugins/request.js";
 import {apiCreateComment, apiRoutes} from "../../plugins/apiRoutes.js";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import {getText, lang} from "../../lang/lang.js";
+import Location from "../svg/Location.jsx";
+import View from "../svg/View.jsx";
+import Like from "../svg/Like.jsx";
+import Dislike from "../svg/Dislike.jsx";
+import Pin from "../svg/Pin.jsx";
 export default function Article() {
     const [article, setArticle] = useState([])
     const [isLike, setLike] = useState(false)
@@ -126,13 +131,7 @@ export default function Article() {
                                 </span>
                             </div>
                             <div className="flex items-center gap-2">
-                                <svg className="w-4 h-4 text-slate-400" fill="none" stroke="currentColor"
-                                     viewBox="0 0 24 24">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
-                                          d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
-                                          d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
-                                </svg>
+                                <Location/>
                                 <span className="text-sm text-slate-500">
                                     {article.address}
                                 </span>
@@ -140,26 +139,15 @@ export default function Article() {
                         </div>
                         <div className={"flex gap-4 items-center"}>
                             <span className="text-sm text-slate-600 font-medium flex items-center gap-2">
-                                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                                          d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                                          d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
-                                </svg>
+                                <View/>
                                 {article.views_count ?? 0}
                             </span>
                             <span className="text-sm text-slate-600 font-medium flex items-center gap-2">
-                                <svg className="w-4 h-4 cursor-pointer" fill={`${isLike ? 'black' : 'none'}`} stroke="currentColor" viewBox="0 0 24 24" onClick={like}>
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                                          d="M14 10h4.764a2 2 0 011.789 2.894l-3.5 7A2 2 0 0115.263 21h-4.017c-.163 0-.326-.02-.485-.06L7 20m7-10V5a2 2 0 00-2-2h-.095c-.5 0-.905.405-.905.905 0 .714-.211 1.412-.608 2.006L7 11v9m7-10h-2M7 20H5a2 2 0 01-2-2v-6a2 2 0 012-2h2.5"/>
-                                </svg>
+                                <Like isLike={isLike} like={like}/>
                                 {likeCount}
                             </span>
                             <span className="text-sm text-slate-600 font-medium flex items-center gap-2">
-                                <svg className="w-4 h-4 cursor-pointer" fill={`${isDislike ? 'black' : 'none'}`} stroke="currentColor" viewBox="0 0 24 24" onClick={dislike}>
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                                          d="M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018c.163 0 .326.02.485.06L17 4m-7 10v5a2 2 0 002 2h.095c.5 0 .905.405.905.905 0 .714.211 1.412.608 2.006L17 13v-9m-7 10h2M17 4h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5"/>
-                                </svg>
+                                <Dislike isDislike={isDislike} dislike={dislike}/>
                                 {dislikeCount}
                             </span>
                         </div>
@@ -187,11 +175,7 @@ export default function Article() {
                                         <div className="flex items-center gap-3 mb-4">
                                             <h6 className="font-bold text-slate-800">{e.username}</h6>
                                             {e.is_fixed && (
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                                     fill="currentColor" className="bi bi-pin" viewBox="0 0 16 16">
-                                                    <path
-                                                        d="M4.146.146A.5.5 0 0 1 4.5 0h7a.5.5 0 0 1 .5.5c0 .68-.342 1.174-.646 1.479-.126.125-.25.224-.354.298v4.431l.078.048c.203.127.476.314.751.555C12.36 7.775 13 8.527 13 9.5a.5.5 0 0 1-.5.5h-4v4.5c0 .276-.224 1.5-.5 1.5s-.5-1.224-.5-1.5V10h-4a.5.5 0 0 1-.5-.5c0-.973.64-1.725 1.17-2.189A6 6 0 0 1 5 6.708V2.277a3 3 0 0 1-.354-.298C4.342 1.674 4 1.179 4 .5a.5.5 0 0 1 .146-.354m1.58 1.408-.002-.001zm-.002-.001.002.001A.5.5 0 0 1 6 2v5a.5.5 0 0 1-.276.447h-.002l-.012.007-.054.03a5 5 0 0 0-.827.58c-.318.278-.585.596-.725.936h7.792c-.14-.34-.407-.658-.725-.936a5 5 0 0 0-.881-.61l-.012-.006h-.002A.5.5 0 0 1 10 7V2a.5.5 0 0 1 .295-.458 1.8 1.8 0 0 0 .351-.271c.08-.08.155-.17.214-.271H5.14q.091.15.214.271a1.8 1.8 0 0 0 .37.282"/>
-                                                </svg>
+                                                <Pin/>
                                             )}
                                         </div>
                                         <div className="flex items-center gap-2 mb-4">

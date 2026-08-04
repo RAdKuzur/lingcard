@@ -2,6 +2,7 @@ import {del} from "../../plugins/request.js";
 import {apiClearWordProgress} from "../../plugins/apiRoutes.js";
 import {useState} from "react";
 import {getText, lang} from "../../lang/lang.js";
+import Bin from "../svg/Bin.jsx";
 
 export default function Word({ word, translation, level = null, repeat = null , progressId = null, activeTab = 1, transcription = ''}) {
     const [isHidden, setHidden] = useState(false)
@@ -51,11 +52,7 @@ export default function Word({ word, translation, level = null, repeat = null , 
                     className="flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r from-red-500 to-rose-500 text-white text-sm font-medium shadow-sm hover:shadow-md hover:scale-105 hover:from-red-600 hover:to-rose-600 active:scale-95 transition-all duration-200 cursor-pointer"
                     onClick={() => handleProgress(progressId)}
                 >
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24"
-                         stroke="currentColor" strokeWidth={2}>
-                        <path strokeLinecap="round" strokeLinejoin="round"
-                              d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/>
-                    </svg>
+                    <Bin/>
                     <span>{getText(lang.word.clearProgress)}</span>
                 </button>
             </div>

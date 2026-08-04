@@ -1,6 +1,7 @@
 import {useEffect, useState} from "react";
 import {useRedirect} from "../../hooks/useRedirect.js";
 import {getText, lang} from "../../lang/lang.js";
+import ArrowBack from "../svg/ArrowBack.jsx";
 
 export default function ButtonBack() {
     const {redirectIfAuth} = useRedirect();
@@ -18,9 +19,7 @@ export default function ButtonBack() {
             onMouseEnter={() => setHover(true)}
             onMouseLeave={() => setHover(false)}
         >
-            <svg className="w-4 h-4 text-slate-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-            </svg>
+            <ArrowBack/>
             <span className="text-sm font-medium text-slate-600">{getText(lang.back.button)}</span>
         </div>
     );

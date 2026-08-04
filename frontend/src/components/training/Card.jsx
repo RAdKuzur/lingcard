@@ -3,6 +3,9 @@ import {getText, lang} from "../../lang/lang.js";
 import {useState} from "react";
 import {post} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
+import Cancel from "../svg/Cancel.jsx";
+import Flag from "../svg/Flag.jsx";
+import PaperPlane from "../svg/PaperPlane.jsx";
 
 export default function Card({opacityCard, direction, status, repeat, translation , transcription, opacityTranslation, text, isHoverNo, setHoverNo, swipe, isHoverShow, setHoverShow, word, isHoverYes, setHoverYes, show }) {
     const [isProblem, setProblem] = useState(false)
@@ -55,18 +58,9 @@ export default function Card({opacityCard, direction, status, repeat, translatio
                         <div className={'flex cursor-pointer justify-end w-2/5'} onClick={handleProblem}>
                             {
                                 !isProblem ? (
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32"
-                                         fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"
-                                         stroke-linejoin="round">
-                                        <path d="M4 21V3"/>
-                                        <path d="M4 4h11l-2 4l2 4H4"/>
-                                    </svg>
+                                    <Cancel/>
                                 ) : (
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32"
-                                         fill="none" stroke="#000" stroke-width="2" stroke-linecap="round">
-                                        <line x1="4" y1="4" x2="20" y2="20"/>
-                                        <line x1="20" y1="4" x2="4" y2="20"/>
-                                    </svg>
+                                    <Flag/>
                                 )
                             }
                         </div>
@@ -98,21 +92,7 @@ export default function Card({opacityCard, direction, status, repeat, translatio
                                     onClick={() => sendProblem(textProblem)}
                                     aria-label="Отправить"
                                 >
-                                    <svg
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        viewBox="0 0 24 24"
-                                        width="28"
-                                        height="28"
-                                        fill="none"
-                                        stroke="#ffffff"
-                                        stroke-width="2"
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        className="shrink-0"
-                                    >
-                                        <path d="M22 2L11 13"/>
-                                        <path d="M22 2L15 22l-4-9l-9-4l20-7z"/>
-                                    </svg>
+                                    <PaperPlane/>
                                 </button>
                             </>
                         ) : (

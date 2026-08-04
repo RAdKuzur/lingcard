@@ -4,6 +4,9 @@ import {get} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
 import {getText, lang, languageOptions} from "../../lang/lang.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
+import ArrowDown from "../svg/ArrowDown.jsx";
+import Choose from "../svg/Choose.jsx";
+import Location from "../svg/Location.jsx";
 
 export default function Home() {
     const {redirect} = useRedirect()
@@ -84,11 +87,7 @@ export default function Home() {
                                             className="w-4 h-4 sm:w-5 sm:h-5 rounded-sm object-cover"
                                         />
                                         <span className="hidden md:inline">{selectedLanguage?.name}</span>
-                                        <svg className="w-3 h-3 sm:w-4 sm:h-4 text-slate-400 ml-auto" fill="none"
-                                             stroke="currentColor" viewBox="0 0 24 24">
-                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
-                                                  d="M19 9l-7 7-7-7"/>
-                                        </svg>
+                                        <ArrowDown/>
                                     </button>
                                     {isLanguageDropdownOpen && (
                                         <div className="absolute left-0 mt-1 min-w-[160px] bg-white
@@ -109,13 +108,7 @@ export default function Home() {
                                                     />
                                                     <span>{lang.name}</span>
                                                     {lang.value === languagePost && (
-                                                        <svg className="w-4 h-4 text-indigo-600 ml-auto"
-                                                             fill="currentColor"
-                                                             viewBox="0 0 24 24">
-                                                            <path fillRule="evenodd"
-                                                                  d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                                                  clipRule="evenodd"/>
-                                                        </svg>
+                                                       <Choose/>
                                                     )}
                                                 </button>
                                             ))}
@@ -163,13 +156,7 @@ export default function Home() {
                                         </span>
                                     </div>
                                     <div className="flex items-center gap-2">
-                                        <svg className="w-4 h-4 text-slate-400" fill="none" stroke="currentColor"
-                                             viewBox="0 0 24 24">
-                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
-                                                  d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
-                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
-                                                  d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
-                                        </svg>
+                                        <Location/>
                                         <span className="text-sm text-slate-500">
                                             {e.address}
                                         </span>

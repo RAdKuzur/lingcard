@@ -5,6 +5,9 @@ import {innerRoutes} from "../../plugins/routes.js";
 import {useAuth} from "../../plugins/AuthContext.jsx";
 import {useEffect, useState, useRef} from "react";
 import {getText, lang, languageOptions} from "../../lang/lang.js";
+import ArrowDown from "../svg/ArrowDown.jsx";
+import Burger from "../svg/Burger.jsx";
+import Choose from "../svg/Choose.jsx";
 
 export default function Navbar() {
     const auth = useAuth();
@@ -132,9 +135,7 @@ export default function Navbar() {
                                         className="w-4 h-4 sm:w-5 sm:h-5 rounded-sm object-cover"
                                     />
                                     <span className="hidden md:inline">{selectedLanguage?.name}</span>
-                                    <svg className="w-3 h-3 sm:w-4 sm:h-4 text-slate-400 ml-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
-                                    </svg>
+                                    <ArrowDown/>
                                 </button>
 
                                 {isLanguageDropdownOpen && (
@@ -156,9 +157,7 @@ export default function Navbar() {
                                                 />
                                                 <span>{lang.name}</span>
                                                 {lang.value === currentLang && (
-                                                    <svg className="w-4 h-4 text-indigo-600 ml-auto" fill="currentColor" viewBox="0 0 20 20">
-                                                        <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                                                    </svg>
+                                                    <Choose/>
                                                 )}
                                             </button>
                                         ))}
@@ -173,13 +172,7 @@ export default function Navbar() {
                                 className="md:hidden p-2 rounded-lg hover:bg-slate-100 transition-colors duration-200"
                                 aria-label="Toggle menu"
                             >
-                                <svg className="w-6 h-6 text-slate-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    {isMobileMenuOpen ? (
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
-                                    ) : (
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
-                                    )}
-                                </svg>
+                                <Burger isMobileMenuOpen={isMobileMenuOpen}/>
                             </button>
                         </div>
                     </div>

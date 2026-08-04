@@ -1,6 +1,7 @@
 import {getText, lang} from "../../lang/lang.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 import {innerRoutes} from "../../plugins/routes.js";
+import Clock from "../svg/Clock.jsx";
 
 export default function WaitingTraining() {
     const {redirect} = useRedirect()
@@ -11,19 +12,7 @@ export default function WaitingTraining() {
         <div className="flex flex-col items-center gap-8 w-96 p-10 bg-white/90 backdrop-blur-sm rounded-3xl shadow-xl border border-white/50">
             <div className="flex flex-col items-center gap-3">
                 <div className="w-24 h-24 rounded-full bg-gradient-to-br from-amber-100 to-orange-100 flex items-center justify-center p-4 shadow-inner">
-                    <svg
-                        className="w-full h-full text-amber-500"
-                        fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
-                    >
-                        <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
-                        />
-                    </svg>
+                   <Clock/>
                 </div>
                 <h2 className="text-2xl font-light text-slate-700 tracking-wide text-center">
                     <span className="text-base font-normal text-slate-500 mt-1 block">

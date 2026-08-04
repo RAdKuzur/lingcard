@@ -19,8 +19,8 @@ Route::get('/metrics', [TelemetryController::class, 'metrics'])->name('metrics')
 
 Route::post('/auth/broadcasting', [AuthController::class, 'broadcast'])->name('auth.broadcasting');
 
-Route::middleware(['throttle:api'])->group(function () {
-    Route::group(['middleware' => VisitMiddleware::class], function () {
+Route::middleware([''])->group(function () {
+    Route::group([], function () {
         Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
         Route::get('/active-languages', [LanguageController::class, 'allActive'])->name('active-languages');
         Route::get('/except-languages/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');

@@ -5,6 +5,8 @@ import ButtonBack from "../layouts/ButtonBack.jsx";
 import {getText, lang} from "../../lang/lang.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 import {innerRoutes} from "../../plugins/routes.js";
+import ArrowDown from "../svg/ArrowDown.jsx";
+import Choose from "../svg/Choose.jsx";
 export default function CreateArticle() {
     const {redirect} = useRedirect()
     const [loading, setLoading] = useState(false)
@@ -107,11 +109,7 @@ export default function CreateArticle() {
                                         className="w-4 h-4 sm:w-5 sm:h-5 rounded-sm object-cover"
                                     />
                                     <span className="hidden md:inline">{selectedLanguage?.name}</span>
-                                    <svg className="w-3 h-3 sm:w-4 sm:h-4 text-slate-400 ml-auto" fill="none"
-                                         stroke="currentColor" viewBox="0 0 24 24">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
-                                              d="M19 9l-7 7-7-7"/>
-                                    </svg>
+                                    <ArrowDown/>
                                 </button>
                                 {isLanguageDropdownOpen && (
                                     <div className="absolute left-0 mt-1 min-w-[160px] bg-white
@@ -132,13 +130,7 @@ export default function CreateArticle() {
                                                 />
                                                 <span>{lang.name}</span>
                                                 {lang.id === languagePost && (
-                                                    <svg className="w-4 h-4 text-indigo-600 ml-auto"
-                                                         fill="currentColor"
-                                                         viewBox="0 0 24 24">
-                                                        <path fillRule="evenodd"
-                                                              d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                                              clipRule="evenodd"/>
-                                                    </svg>
+                                                    <Choose/>
                                                 )}
                                             </button>
                                         ))}
