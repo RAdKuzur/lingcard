@@ -2,7 +2,7 @@ import {useEffect, useState} from "react";
 import {get, post} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
 import ButtonBack from "../layouts/ButtonBack.jsx";
-import {getText, lang} from "../../lang/lang.js";
+import {getLabel, getText, lang} from "../../lang/lang.js";
 export default function VotePage() {
     const [vote, setVote] = useState([])
     const [voteOptions, setVoteOptions] = useState([])
@@ -44,7 +44,7 @@ export default function VotePage() {
             <div className="max-w-5xl mx-auto space-y-8">
                 <div>
                     <div className="flex items-center gap-3 mb-4 pl-4">
-                        <h1 className="text-2xl font-bold text-slate-800">{vote.title}</h1>
+                        <h1 className="text-2xl font-bold text-slate-800">{getLabel(vote.title)}</h1>
                     </div>
                     {
                         voteOptions.length > 0 ?

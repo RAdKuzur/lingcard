@@ -3,14 +3,13 @@ import ButtonBack from "../layouts/ButtonBack.jsx";
 import {useState} from "react";
 import {get} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
-import {getText, lang} from "../../lang/lang.js";
+import {getLabel, getText, lang} from "../../lang/lang.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 
 export default function Vote() {
     const {redirect} = useRedirect()
     const [votes, setVotes] = useState([])
     useState(async () => {
-        const lang1 = localStorage.getItem('lang') ?? 'ru'
         const response = await get(apiRoutes.votes, {}, {withCredentials: true})
         const data = await response.data
         setVotes(data)
@@ -33,10 +32,10 @@ export default function Vote() {
                                      onClick={() => goToVote(e.id)}>
                                     <div className={'flex flex-col items-start gap-2'}>
                                         <div className="flex items-center gap-3">
-                                            <h1 className="text-xl font-bold text-slate-800">{e.title}</h1>
+                                            <h1 className="text-xl font-bold text-slate-800">{getLabel(e.title)}</h1>
                                         </div>
                                         <p className="text-slate-600 leading-relaxed text-lg">
-                                            {e.content}
+                                            {getLabel(e.content)}
                                         </p>
                                     </div>
                                 </div>

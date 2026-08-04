@@ -64,3 +64,11 @@ export const languageOptions = [
     { name: 'Português', flag: '/flags/pt.svg', value: 'pt' },
     { name: '한국어', flag: '/flags/kr.svg', value: 'kr' },
 ];
+
+export function getLabel(label) {
+    if(label) {
+        const lang = localStorage.getItem('lang') ?? 'en'
+        return JSON.parse(label)[lang] ?? JSON.parse(label).en
+    }
+    return ''
+}
