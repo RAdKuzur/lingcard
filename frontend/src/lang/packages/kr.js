@@ -359,6 +359,9 @@ export const kr = {
         }
     },
     training: {
+        problem: {
+            kr: "단어의 번역/해석에 동의하지 않으시면 저희에게 알려주세요!"
+        },
         loading: {
             kr: "로딩 중..."
         },

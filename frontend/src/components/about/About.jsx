@@ -73,7 +73,6 @@ export default function About() {
                             <textarea
                                 className="border-2 border-indigo-300 focus:border-indigo-500 outline-none w-full rounded-2xl p-3 sm:p-4 min-h-[100px] sm:min-h-[120px] text-base"
                                 onInput={(e) => setInput(e.target.value)}
-                                placeholder={getText(lang.about.writeFeedback)}
                             />
                             </div>
                         )}

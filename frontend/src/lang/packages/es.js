@@ -359,6 +359,9 @@ export const es = {
         }
     },
     training: {
+        problem: {
+            es: "Si no está de acuerdo con la traducción/interpretación de la palabra, ¡escríbanos!"
+        },
         loading: {
             es: "Cargando..."
         },

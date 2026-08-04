@@ -360,6 +360,9 @@ export const fr = {
         }
     },
     "training": {
+        problem: {
+            fr: "Si vous n'êtes pas d'accord avec la traduction/l'interprétation du mot, écrivez-nous !"
+        },
         "loading": {
             "fr": "Chargement..."
         },

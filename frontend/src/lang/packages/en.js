@@ -359,6 +359,9 @@ export const en = {
         }
     },
     training: {
+        problem: {
+            en: "If you disagree with the translation/interpretation of the word, write to us!",
+        },
         loading: {
             en: "Loading..."
         },

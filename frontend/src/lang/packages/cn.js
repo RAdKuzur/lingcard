@@ -359,6 +359,9 @@ export const cn = {
         }
     },
     training: {
+        problem: {
+            cn: "如果您不同意该词的翻译/解释，请写信给我们！",
+        },
         loading: {
             cn: "加载中..."
         },

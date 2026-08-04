@@ -359,6 +359,9 @@ export const jp = {
         }
     },
     training: {
+        problem: {
+            jp: "単語の翻訳/解釈に同意できない場合は、お問い合わせください！"
+        },
         loading: {
             jp: "読み込み中..."
         },
