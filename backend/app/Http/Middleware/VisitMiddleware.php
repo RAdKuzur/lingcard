@@ -31,7 +31,7 @@ class VisitMiddleware
         $this->prometheusService->incHttpTotalRequests();
         $this->visitRepository->insert([
             'path' => request()->path(),
-            'ip' => $request->header('X-Real-IP'),
+            'ip' => $request->header('X-Real-IP') ?? 'test_ip',
             'user_agent' => request()->userAgent(),
             'time' => now()
         ]);
