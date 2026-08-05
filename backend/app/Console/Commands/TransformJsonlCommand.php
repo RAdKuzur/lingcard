@@ -22,68 +22,80 @@ class TransformJsonlCommand extends Command
      */
     public function handle()
     {
-        $baseLanguage = 'cn';
-        $languages = ['ru', 'kz', 'jp'];
-        foreach ($languages as $language) {
-            $baseFilePath = base_path("data/words/$baseLanguage/$language.jsonl");
-            $createdFilePath = base_path("data/ai/$baseLanguage/$language.jsonl");
+        $baseLanguages = ['jp', 'de', 'kr', 'ru', 'kz', 'en' ,'fr', 'es', 'pt', 'sa'];
+        $languages = [
+            'jp' => ['ru', 'kz' ,'fr', 'cn', 'de', 'es', 'kr', 'pt', 'sa'], //9 ~118000
+            'kr' => ['ru', 'kz', 'fr', 'cn', 'de', 'es', 'jp', 'pt', 'sa'], //9 ~96000
+            'ru' => ['fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'], //7 ~40600
+            'kz' => ['fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa', 'en'], //8 ~25600
+            'fr' => ['ru', 'kz', 'en' ,'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'], //10 ~50000
+            'de' => ['ru', 'kz', 'fr', 'cn', 'es', 'jp', 'kr', 'pt', 'sa'], //9 ~82800
+            'es' => ['ru', 'kz', 'fr', 'cn', 'de', 'jp', 'kr', 'pt', 'sa'], //9 ~65000
+            'pt' => ['ru', 'kz', 'fr', 'cn', 'de', 'es', 'jp', 'kr', 'sa'], //9 ~66600
+            'sa' => ['ru', 'kz', 'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt'], //9 ~52000
+            'en' => ['kz', 'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'], //9 ~48000
+        ];
+        foreach ($baseLanguages as $baseLanguage) {
+            foreach ($languages[$baseLanguage] as $language) {
+                $baseFilePath = base_path("data/words/$baseLanguage/$language.jsonl");
+                $createdFilePath = base_path("data/ai/$baseLanguage/$language.jsonl");
 
-            $file = fopen($baseFilePath, "r");
-            $file2 = fopen($createdFilePath, "w+");
+                $file = fopen($baseFilePath, "r");
+                $file2 = fopen($createdFilePath, "w+");
 
-            $index = 0;
-            $batch = [];
-            $allBatches = [];
+                $index = 0;
+                $batch = [];
+                $allBatches = [];
 
-            while (($line = fgets($file)) !== false) {
-                $line = trim($line);
-                if (empty($line)) continue;
+                while (($line = fgets($file)) !== false) {
+                    $line = trim($line);
+                    if (empty($line)) continue;
 
-                $word = json_decode($line, true);
-                if (json_last_error() !== JSON_ERROR_NONE) {
-                    echo "Ошибка JSON в строке $index: " . json_last_error_msg() . "\n";
-                    fwrite($file2, $line . "\n");
+                    $word = json_decode($line, true);
+                    if (json_last_error() !== JSON_ERROR_NONE) {
+                        echo "Ошибка JSON в строке $index: " . json_last_error_msg() . "\n";
+                        fwrite($file2, $line . "\n");
+                        $index++;
+                        continue;
+                    }
+
+                    $batch[] = $word;
                     $index++;
-                    continue;
+
+                    if (count($batch) >= $this->batchSize) {
+                        $allBatches[] = $batch;
+                        $batch = [];
+                    }
                 }
 
-                $batch[] = $word;
-                $index++;
-
-                if (count($batch) >= $this->batchSize) {
+                if (!empty($batch)) {
                     $allBatches[] = $batch;
-                    $batch = [];
                 }
+
+                fclose($file);
+
+                echo "Всего батчей: " . count($allBatches) . "\n";
+                echo "Всего слов: $index\n";
+                echo "Начинаем параллельную обработку...\n\n";
+
+                $batchesChunks = array_chunk($allBatches, $this->concurrency);
+                $totalChunks = count($batchesChunks);
+                $currentChunk = 0;
+
+                foreach ($batchesChunks as $batchChunk) {
+                    $currentChunk++;
+                    echo "⏳ Обработка чанка $currentChunk из $totalChunks (батчей: " . count($batchChunk) . ") языковая пара $baseLanguage - $language\n";
+
+                    $this->processBatchesParallel($batchChunk, $baseLanguage, $language, $file2);
+
+                    echo "✅ Чанк $currentChunk обработан\n\n";
+                }
+
+                fclose($file2);
+
+                echo "🎉 Готово! Обработано $index записей.\n";
             }
-
-            if (!empty($batch)) {
-                $allBatches[] = $batch;
-            }
-
-            fclose($file);
-
-            echo "Всего батчей: " . count($allBatches) . "\n";
-            echo "Всего слов: $index\n";
-            echo "Начинаем параллельную обработку...\n\n";
-
-            $batchesChunks = array_chunk($allBatches, $this->concurrency);
-            $totalChunks = count($batchesChunks);
-            $currentChunk = 0;
-
-            foreach ($batchesChunks as $batchChunk) {
-                $currentChunk++;
-                echo "⏳ Обработка чанка $currentChunk из $totalChunks (батчей: " . count($batchChunk) . ")\n";
-
-                $this->processBatchesParallel($batchChunk, $baseLanguage, $language, $file2);
-
-                echo "✅ Чанк $currentChunk обработан\n\n";
-            }
-
-            fclose($file2);
-
-            echo "🎉 Готово! Обработано $index записей.\n";
         }
-
     }
 
     /**
