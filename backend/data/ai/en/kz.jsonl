@@ -1,0 +1,5272 @@
+{"en":"about","kz":"туралы"}
+{"en":"above","kz":"жоғары"}
+{"en":"across","kz":"бойымен"}
+{"en":"action","kz":"әрекет"}
+{"en":"activity","kz":"белсенділік"}
+{"en":"actor","kz":"актер"}
+{"en":"actress","kz":"актриса"}
+{"en":"add","kz":"қосу"}
+{"en":"address","kz":"мекенжай"}
+{"en":"adult","kz":"ересек адам"}
+{"en":"advice","kz":"кеңес"}
+{"en":"afraid","kz":"қорқып, үрейленген"}
+{"en":"after","kz":"кейін"}
+{"en":"afternoon","kz":"күндіз"}
+{"en":"again","kz":"тағы да"}
+{"en":"age","kz":"жас"}
+{"en":"ago","kz":"бұрын"}
+{"en":"agree","kz":"келісу"}
+{"en":"air","kz":"ауа"}
+{"en":"airport","kz":"әуежай"}
+{"en":"all","kz":"барлық"}
+{"en":"also","kz":"сонымен қатар"}
+{"en":"always","kz":"әрқашан"}
+{"en":"amazing","kz":"таңғажайып"}
+{"en":"and","kz":"және"}
+{"en":"angry","kz":"ренжіген"}
+{"en":"animal","kz":"жануар"}
+{"en":"another","kz":"тағы бір"}
+{"en":"answer","kz":"жауап"}
+{"en":"any","kz":"кейбір"}
+{"en":"anyone","kz":"кез келген адам, біреу"}
+{"en":"anything","kz":"нәрсе, бірдеңе"}
+{"en":"apartment","kz":"пәтер"}
+{"en":"apple","kz":"алма"}
+{"en":"April","kz":"сәуір"}
+{"en":"area","kz":"аудан, сала, аумақ"}
+{"en":"arm","kz":"қол (білек пен саусақ арасы)"}
+{"en":"around","kz":"айнала, маңай, шамамен"}
+{"en":"arrive","kz":"келу, жету"}
+{"en":"art","kz":"өнер"}
+{"en":"article","kz":"мақала, зат, бұйым"}
+{"en":"artist","kz":"суретші, әртіс"}
+{"en":"as","kz":"ретінде, қалай, себебі"}
+{"en":"ask","kz":"сұрау, өтіну"}
+{"en":"at","kz":"қа, та, де, -де, -да"}
+{"en":"August","kz":"тамыз"}
+{"en":"aunt","kz":"апа, тәте"}
+{"en":"away","kz":"алыс, алыста, кетіп"}
+{"en":"awesome","kz":"тамаша, керемет"}
+{"en":"baby","kz":"нәресте, сәби"}
+{"en":"back","kz":"арқа, артқы жақ, кері"}
+{"en":"bad","kz":"жаман"}
+{"en":"bag","kz":"сөмке, қап"}
+{"en":"ball","kz":"доп, шар"}
+{"en":"banana","kz":"банан"}
+{"en":"band","kz":"топ, лента, таспа"}
+{"en":"bank","kz":"банк"}
+{"en":"bar","kz":"бар, таяқша"}
+{"en":"baseball","kz":"бейсбол"}
+{"en":"basketball","kz":"баскетбол"}
+{"en":"bath","kz":"ванна"}
+{"en":"bathroom","kz":"жағажай бөлме"}
+{"en":"be","kz":"болу"}
+{"en":"beach","kz":"жағажай"}
+{"en":"beautiful","kz":"әдемі"}
+{"en":"because","kz":"себебі"}
+{"en":"become","kz":"болу"}
+{"en":"bed","kz":"кереует"}
+{"en":"bedroom","kz":"жатын бөлме"}
+{"en":"beer","kz":"сыра"}
+{"en":"before","kz":"бұрын"}
+{"en":"begin","kz":"бастау"}
+{"en":"beginning","kz":"бастама"}
+{"en":"behind","kz":"артында"}
+{"en":"believe","kz":"сену"}
+{"en":"below","kz":"астында"}
+{"en":"best","kz":"ең жақсы"}
+{"en":"better","kz":"жақсырақ"}
+{"en":"between","kz":"арасында"}
+{"en":"bicycle","kz":"велосипед"}
+{"en":"big","kz":"үлкен"}
+{"en":"bike","kz":"мотоцикл"}
+{"en":"bill","kz":"шот"}
+{"en":"bird","kz":"құс"}
+{"en":"birthday","kz":"туған күн"}
+{"en":"black","kz":"қара"}
+{"en":"blog","kz":"блог"}
+{"en":"blond","kz":"ақшыл шашты"}
+{"en":"blue","kz":"көк"}
+{"en":"boat","kz":"кеме"}
+{"en":"body","kz":"адам"}
+{"en":"book","kz":"книга"}
+{"en":"boot","kz":"нозак"}
+{"en":"bored","kz":"разочарованный, расстроенный"}
+{"en":"boring","kz":"скучный, скучающий"}
+{"en":"born","kz":"родившийся"}
+{"en":"both","kz":"оба"}
+{"en":"bottle","kz":"бутылка"}
+{"en":"box","kz":"коробка"}
+{"en":"boy","kz":"мальчик"}
+{"en":"boyfriend","kz":"любовник, возлюбленный"}
+{"en":"bread","kz":"хлеб"}
+{"en":"break","kz":"разбить"}
+{"en":"breakfast","kz":"завтрак"}
+{"en":"bring","kz":"везти"}
+{"en":"brother","kz":"брат"}
+{"en":"brown","kz":"коричневый"}
+{"en":"build","kz":"строить"}
+{"en":"building","kz":"здание"}
+{"en":"bus","kz":"автобус"}
+{"en":"business","kz":"дело, бизнес"}
+{"en":"busy","kz":"занятый"}
+{"en":"but","kz":"но"}
+{"en":"butter","kz":"масло (из молока)"}
+{"en":"buy","kz":"купить"}
+{"en":"by","kz":"по, через"}
+{"en":"bye","kz":"прощай"}
+{"en":"cafe","kz":"кафе"}
+{"en":"cake","kz":"торт"}
+{"en":"call","kz":"звать, позвонить"}
+{"en":"camera","kz":"фотоаппарат"}
+{"en":"can","kz":"олуға мүмкіндік"}
+{"en":"cannot","kz":"олуға мүмкіндік жоқ"}
+{"en":"capital","kz":"бас әріп"}
+{"en":"car","kz":"машина"}
+{"en":"card","kz":"карточка"}
+{"en":"career","kz":"кәсіп"}
+{"en":"carrot","kz":"сәбіз"}
+{"en":"carry","kz":"тасымалдау"}
+{"en":"cat","kz":"мысық"}
+{"en":"CD","kz":"компакт-диск"}
+{"en":"cent","kz":"сент"}
+{"en":"center","kz":"орталық"}
+{"en":"chair","kz":"орындық"}
+{"en":"change","kz":"өзгерту, ауыстыру"}
+{"en":"chart","kz":"кесте"}
+{"en":"cheap","kz":"арзан"}
+{"en":"check","kz":"тексеру"}
+{"en":"cheese","kz":"ірімшік"}
+{"en":"chicken","kz":"тауық"}
+{"en":"child","kz":"бала"}
+{"en":"chocolate","kz":"шоколад"}
+{"en":"choose","kz":"таңдау"}
+{"en":"city","kz":"қала"}
+{"en":"class","kz":"сынып"}
+{"en":"classroom","kz":"сынып бөлмесі"}
+{"en":"clean","kz":"таза, тазалау"}
+{"en":"climb","kz":"өрмелеу, шығу"}
+{"en":"clock","kz":"сағат (қабырғалық)"}
+{"en":"close","kz":"жабу"}
+{"en":"clothes","kz":"кешіктер"}
+{"en":"club","kz":"клуб"}
+{"en":"coat","kz":"пальто, куртка"}
+{"en":"coffee","kz":"кофе"}
+{"en":"cold","kz":"суық"}
+{"en":"college","kz":"колледж"}
+{"en":"color","kz":"түс, реңк"}
+{"en":"come","kz":"келу"}
+{"en":"common","kz":"ортақ, жалпы"}
+{"en":"company","kz":"компания, фирма"}
+{"en":"compare","kz":"салыстыру"}
+{"en":"complete","kz":"толық, аяқтау"}
+{"en":"computer","kz":"компьютер"}
+{"en":"concert","kz":"концерт"}
+{"en":"conversation","kz":"әңгіме, сөйлесу"}
+{"en":"cook","kz":"пісіру, дайындау"}
+{"en":"cooking","kz":"ас пісіру"}
+{"en":"cool","kz":"салқын, керемет"}
+{"en":"correct","kz":"дұрыс, түзету"}
+{"en":"cost","kz":"баға, құны"}
+{"en":"could","kz":"болуы мүмкін, істей алар еді"}
+{"en":"country","kz":"ел, ауыл, ауыл жері"}
+{"en":"course","kz":"курс, бағыт"}
+{"en":"cousin","kz":"немере аға\/сіңлі"}
+{"en":"cow","kz":"сиыр"}
+{"en":"cream","kz":"крем, қаймақ"}
+{"en":"create","kz":"жасау, құру"}
+{"en":"culture","kz":"мәдениет"}
+{"en":"cup","kz":"кесе"}
+{"en":"customer","kz":"тұтынушы, клиент"}
+{"en":"cut","kz":"кесу"}
+{"en":"dad","kz":"әке"}
+{"en":"dance","kz":"би"}
+{"en":"dancer","kz":"биші"}
+{"en":"dancing","kz":"би өнері"}
+{"en":"dangerous","kz":"қауіпті"}
+{"en":"dark","kz":"қараңғы"}
+{"en":"date","kz":"кездесу"}
+{"en":"daughter","kz":"қыз"}
+{"en":"day","kz":"күн"}
+{"en":"dear","kz":"қымбатты"}
+{"en":"December","kz":"желтоқсан"}
+{"en":"decide","kz":"шешім қабылдау"}
+{"en":"delicious","kz":"өте дәмді"}
+{"en":"describe","kz":"сипаттау"}
+{"en":"description","kz":"сипаттама"}
+{"en":"design","kz":"дизайн"}
+{"en":"desk","kz":"үстел"}
+{"en":"detail","kz":"бөлшек"}
+{"en":"dialogue","kz":"диалог"}
+{"en":"dictionary","kz":"сөздік"}
+{"en":"die","kz":"өлу"}
+{"en":"diet","kz":"диета"}
+{"en":"difference","kz":"айырмашылық"}
+{"en":"different","kz":"басқа"}
+{"en":"difficult","kz":"қиын"}
+{"en":"dinner","kz":"кешкі ас"}
+{"en":"dirty","kz":"лас"}
+{"en":"discuss","kz":"талқылау"}
+{"en":"dish","kz":"тағам"}
+{"en":"do","kz":"жасау"}
+{"en":"doctor","kz":"дәрігер"}
+{"en":"dog","kz":"ішкіт"}
+{"en":"dollar","kz":"доллар"}
+{"en":"door","kz":"есік"}
+{"en":"down","kz":"төменге"}
+{"en":"downstairs","kz":"төменгі қабатта, төменде"}
+{"en":"draw","kz":"сурет салу, сызу"}
+{"en":"dress","kz":"көйлек, киіну"}
+{"en":"drink","kz":"сусын, ішу"}
+{"en":"drive","kz":"көлік жүргізу"}
+{"en":"driver","kz":"жүргізуші"}
+{"en":"during","kz":"кезінде, барысында"}
+{"en":"DVD","kz":"DVD-диск"}
+{"en":"each","kz":"әрбір, әрқайсысы"}
+{"en":"ear","kz":"құлақ"}
+{"en":"early","kz":"ерте, ертерек"}
+{"en":"east","kz":"шығыс"}
+{"en":"easy","kz":"жеңіл"}
+{"en":"eat","kz":"жеу, тамақтану"}
+{"en":"egg","kz":"жұмыртқа"}
+{"en":"eight","kz":"сегіз"}
+{"en":"eighteen","kz":"он сегіз"}
+{"en":"eighty","kz":"сексен"}
+{"en":"elephant","kz":"піл"}
+{"en":"eleven","kz":"он бір"}
+{"en":"else","kz":"тағы, басқа, өзге"}
+{"en":"email","kz":"электронды пошта, хат жіберу"}
+{"en":"end","kz":"аяқ, соңы, аяқтау"}
+{"en":"enjoy","kz":"рахаттану, ләззат алу"}
+{"en":"enough","kz":"жеткілікті"}
+{"en":"euro","kz":"еуро"}
+{"en":"even","kz":"тіпті, жұп"}
+{"en":"evening","kz":"кеш"}
+{"en":"event","kz":"оқиға, іс-шара"}
+{"en":"ever","kz":"ешқашан, әйтеуір"}
+{"en":"every","kz":"әрбір, әр"}
+{"en":"everybody","kz":"бәрі, әркім"}
+{"en":"everyone","kz":"бәрі, әрбір адам"}
+{"en":"everything","kz":"бәрі, барлық нәрсе"}
+{"en":"exam","kz":"емтихан"}
+{"en":"example","kz":"мысал"}
+{"en":"excited","kz":"толқыған, қобалжыған"}
+{"en":"exciting","kz":"толқытатын, қызықты"}
+{"en":"exercise","kz":"жаттығу, жаттығу жасау"}
+{"en":"expensive","kz":"қымбат"}
+{"en":"explain","kz":"түсіндіру"}
+{"en":"extra","kz":"қосымша"}
+{"en":"eye","kz":"көз"}
+{"en":"face","kz":"бет, жүз"}
+{"en":"fact","kz":"факт"}
+{"en":"fall","kz":"құлау, түсу, күз"}
+{"en":"false","kz":"жалған, дұрыс емес"}
+{"en":"family","kz":"отбасы"}
+{"en":"famous","kz":"атақты, белгілі"}
+{"en":"fantastic","kz":"керемет, тамаша"}
+{"en":"far","kz":"алыс, әлдеқайда"}
+{"en":"farm","kz":"ферма, шаруашылық"}
+{"en":"farmer","kz":"фермер, диқан"}
+{"en":"fast","kz":"жылдам, тез"}
+{"en":"fat","kz":"майлы"}
+{"en":"father","kz":"әке"}
+{"en":"favorite","kz":"сүйікті"}
+{"en":"February","kz":"ақпан"}
+{"en":"feel","kz":"сезу"}
+{"en":"feeling","kz":"сезім"}
+{"en":"festival","kz":"фестиваль"}
+{"en":"few","kz":"бірнеше"}
+{"en":"fifteen","kz":"бесінші"}
+{"en":"fifth","kz":"бесінші"}
+{"en":"fifty","kz":"елу"}
+{"en":"fill","kz":"толтыру"}
+{"en":"final","kz":"соңғы"}
+{"en":"find","kz":"табу"}
+{"en":"fine","kz":"жақсы"}
+{"en":"finish","kz":"бітіру"}
+{"en":"fire","kz":"от"}
+{"en":"first","kz":"бірінші"}
+{"en":"fish","kz":"балық"}
+{"en":"five","kz":"бес"}
+{"en":"flight","kz":"ұшу"}
+{"en":"floor","kz":"қабат"}
+{"en":"flower","kz":"гүл"}
+{"en":"fly","kz":"ұшу"}
+{"en":"follow","kz":"еру"}
+{"en":"food","kz":"тамақ"}
+{"en":"foot","kz":"аяқ"}
+{"en":"football","kz":"футбол"}
+{"en":"for","kz":"үшін"}
+{"en":"forget","kz":"ұмыту"}
+{"en":"form","kz":"формалық"}
+{"en":"forty","kz":"ондық шаңғырған саны"}
+{"en":"four","kz":"төрт"}
+{"en":"fourteen","kz":"он төрт"}
+{"en":"fourth","kz":"төртінші"}
+{"en":"free","kz":"еркін, тегін"}
+{"en":"Friday","kz":"жұма"}
+{"en":"friend","kz":"дос"}
+{"en":"friendly","kz":"достық, жылы"}
+{"en":"from","kz":"-ден, -тан, -нан"}
+{"en":"front","kz":"алдыңғы жағы"}
+{"en":"fruit","kz":"жеміс"}
+{"en":"full","kz":"толық"}
+{"en":"fun","kz":"көңілді, қызық"}
+{"en":"funny","kz":"күлкілі, әзіл"}
+{"en":"future","kz":"болашақ"}
+{"en":"game","kz":"ойын"}
+{"en":"garden","kz":"бақ"}
+{"en":"geography","kz":"география"}
+{"en":"get","kz":"алу, айналу"}
+{"en":"girl","kz":"қыз"}
+{"en":"girlfriend","kz":"қыз, сүйген қыз"}
+{"en":"give","kz":"беру"}
+{"en":"glass","kz":"шыны, стакан"}
+{"en":"go","kz":"бару, жүру"}
+{"en":"good","kz":"жақсы"}
+{"en":"goodbye","kz":"қош бол, сау бол"}
+{"en":"grandfather","kz":"ата"}
+{"en":"grandmother","kz":"әже"}
+{"en":"grandparent","kz":"ата-әже"}
+{"en":"gray","kz":"сұр"}
+{"en":"great","kz":"кішкентай, керемет"}
+{"en":"green","kz":"жасыл"}
+{"en":"group","kz":"топ"}
+{"en":"grow","kz":"өсу"}
+{"en":"guess","kz":"болжау"}
+{"en":"guitar","kz":"гитара"}
+{"en":"gym","kz":"спортзал"}
+{"en":"hair","kz":"шаш"}
+{"en":"half","kz":"жарты"}
+{"en":"hand","kz":"қол (алақан)"}
+{"en":"happen","kz":"болу, орын алу"}
+{"en":"happy","kz":"бақытты"}
+{"en":"hard","kz":"қатты, қиын, тынымсыз"}
+{"en":"hat","kz":"бас киім, қалпақ"}
+{"en":"hate","kz":"жек көру"}
+{"en":"have","kz":"ие болу, алу"}
+{"en":"have to","kz":"тиіс, міндетті"}
+{"en":"he","kz":"ол (еркек)"}
+{"en":"head","kz":"бас"}
+{"en":"health","kz":"денсаулық"}
+{"en":"healthy","kz":"сау, дені сау"}
+{"en":"hear","kz":"есту"}
+{"en":"hello","kz":"сәлем, қайырлы күн"}
+{"en":"help","kz":"көмек, көмектесу"}
+{"en":"her","kz":"оның (әйел адам), оған"}
+{"en":"here","kz":"мұнда, осында"}
+{"en":"hey","kz":"ей, сәлем"}
+{"en":"hi","kz":"сәлем"}
+{"en":"high","kz":"биік"}
+{"en":"him","kz":"оған"}
+{"en":"his","kz":"оның"}
+{"en":"history","kz":"тарих"}
+{"en":"hobby","kz":"хобби"}
+{"en":"home","kz":"үй"}
+{"en":"homework","kz":"үй тапсырмасы"}
+{"en":"hope","kz":"үміттену"}
+{"en":"horse","kz":"жылқы"}
+{"en":"hospital","kz":"аурухана"}
+{"en":"hot","kz":"ыстық"}
+{"en":"hotel","kz":"мейманхана, қонақүй"}
+{"en":"hour","kz":"сағат"}
+{"en":"house","kz":"үй"}
+{"en":"how","kz":"қалай"}
+{"en":"however","kz":"алайда, дегенмен"}
+{"en":"hundred","kz":"жүз"}
+{"en":"hungry","kz":"аш"}
+{"en":"husband","kz":"күйеу"}
+{"en":"I","kz":"мен"}
+{"en":"ice","kz":"мұз"}
+{"en":"ice cream","kz":"балмұздақ"}
+{"en":"idea","kz":"идея, ой"}
+{"en":"if","kz":"егер"}
+{"en":"imagine","kz":"елестету, ойша көру"}
+{"en":"important","kz":"маңызды"}
+{"en":"improve","kz":"жақсарту"}
+{"en":"in","kz":"-да"}
+{"en":"include","kz":"қосу"}
+{"en":"information","kz":"ақпарат"}
+{"en":"interest","kz":"қызығушылық"}
+{"en":"interested","kz":"қызығушылық танытқан"}
+{"en":"interesting","kz":"қызықты"}
+{"en":"internet","kz":"интернет"}
+{"en":"interview","kz":"сұхбат"}
+{"en":"into","kz":"-қа, -ге"}
+{"en":"introduce","kz":"таныстыру"}
+{"en":"island","kz":"арал"}
+{"en":"it","kz":"ол (зат)"}
+{"en":"its","kz":"оның (зат)"}
+{"en":"jacket","kz":"күрте"}
+{"en":"January","kz":"қаңтар"}
+{"en":"jeans","kz":"джинсы"}
+{"en":"job","kz":"жұмыс"}
+{"en":"join","kz":"қосылу, бірігу"}
+{"en":"juice","kz":"шырын"}
+{"en":"July","kz":"шілде"}
+{"en":"June","kz":"маусым"}
+{"en":"just","kz":"әділ, дәл, ақтап"}
+{"en":"keep","kz":"сақтау, ұстау"}
+{"en":"key","kz":"кілт"}
+{"en":"kind","kz":"түр, сорт"}
+{"en":"kitchen","kz":"асхана"}
+{"en":"know","kz":"білу"}
+{"en":"land","kz":"жер, топырақ"}
+{"en":"language","kz":"тіл"}
+{"en":"large","kz":"үлкен, көлемді"}
+{"en":"last","kz":"соңғы, өткен"}
+{"en":"late","kz":"кеш, кешіккен"}
+{"en":"later","kz":"кейінірек, кейін"}
+{"en":"laugh","kz":"күлу"}
+{"en":"learn","kz":"үйрену"}
+{"en":"leave","kz":"кету"}
+{"en":"left","kz":"сол жақ"}
+{"en":"leg","kz":"аяқ"}
+{"en":"lesson","kz":"сабақ"}
+{"en":"let","kz":"рұқсат ету"}
+{"en":"letter","kz":"хат"}
+{"en":"library","kz":"кітапхана"}
+{"en":"lie","kz":"өтірік айту"}
+{"en":"life","kz":"өмір"}
+{"en":"light","kz":"жарық"}
+{"en":"like","kz":"сияқты"}
+{"en":"line","kz":"сызық"}
+{"en":"lion","kz":"арыстан"}
+{"en":"list","kz":"тізім"}
+{"en":"listen","kz":"тыңдау"}
+{"en":"little","kz":"кішкентай"}
+{"en":"live","kz":"өмір сүру"}
+{"en":"local","kz":"жергілікті"}
+{"en":"long","kz":"ұзын"}
+{"en":"look","kz":"қарау"}
+{"en":"lose","kz":"жоғалту"}
+{"en":"lot","kz":"көп"}
+{"en":"love","kz":"махаббат"}
+{"en":"lunch","kz":"түскі ас"}
+{"en":"machine","kz":"машина"}
+{"en":"magazine","kz":"журнал"}
+{"en":"main","kz":"негізгі"}
+{"en":"make","kz":"жасау"}
+{"en":"mall","kz":"сауда орталығы"}
+{"en":"man","kz":"адам"}
+{"en":"many","kz":"көп"}
+{"en":"map","kz":"карта"}
+{"en":"March","kz":"наурыз"}
+{"en":"market","kz":"нарық"}
+{"en":"married","kz":"үйленген"}
+{"en":"match","kz":"матч"}
+{"en":"May","kz":"мамыр"}
+{"en":"maybe","kz":"мүмкін"}
+{"en":"me","kz":"мені"}
+{"en":"meal","kz":"тамақ"}
+{"en":"mean","kz":"білдіру"}
+{"en":"meaning","kz":"мағына"}
+{"en":"meat","kz":"ет"}
+{"en":"meet","kz":"кездесу"}
+{"en":"meeting","kz":"жиналыс"}
+{"en":"member","kz":"мүше"}
+{"en":"menu","kz":"мәзір"}
+{"en":"message","kz":"хабарлама"}
+{"en":"meter","kz":"метр"}
+{"en":"midnight","kz":"түн ортасы"}
+{"en":"mile","kz":"миля"}
+{"en":"milk","kz":"сүт"}
+{"en":"million","kz":"миллион"}
+{"en":"minute","kz":"минут"}
+{"en":"miss","kz":"сағындыру"}
+{"en":"mistake","kz":"қателік"}
+{"en":"model","kz":"модель"}
+{"en":"modern","kz":"қазіргі"}
+{"en":"mom","kz":"ана"}
+{"en":"moment","kz":"сәт"}
+{"en":"Monday","kz":"дүйсенбі"}
+{"en":"money","kz":"ақша"}
+{"en":"month","kz":"ай"}
+{"en":"more","kz":"көбірек"}
+{"en":"morning","kz":"таңғы"}
+{"en":"most","kz":"ең"}
+{"en":"mother","kz":"ана"}
+{"en":"mountain","kz":"тау"}
+{"en":"mouse","kz":"мыс"}
+{"en":"mouth","kz":"ауыз"}
+{"en":"move","kz":"жылжыту"}
+{"en":"movie","kz":"фильм"}
+{"en":"much","kz":"көп"}
+{"en":"museum","kz":"музей"}
+{"en":"music","kz":"музыка"}
+{"en":"must","kz":"керектіңіс"}
+{"en":"my","kz":"менің"}
+{"en":"name","kz":"атаның"}
+{"en":"natural","kz":"табиғи"}
+{"en":"near","kz":"жақын"}
+{"en":"need","kz":"қажеттіңіс"}
+{"en":"negative","kz":"теріс"}
+{"en":"neighbor","kz":"көрші"}
+{"en":"neighborhood","kz":"көршілік"}
+{"en":"never","kz":"ешқашан"}
+{"en":"new","kz":"жаңа"}
+{"en":"news","kz":"жаңалық"}
+{"en":"newspaper","kz":"газета"}
+{"en":"next","kz":"келесі"}
+{"en":"next to","kz":"жақсы, көрікті"}
+{"en":"nice","kz":"жақсы, көрікті"}
+{"en":"night","kz":"түн"}
+{"en":"nine","kz":"тоғыз"}
+{"en":"nineteen","kz":"он тоғыз"}
+{"en":"ninety","kz":"тоқсан"}
+{"en":"no","kz":"-ден, -дің, туралы"}
+{"en":"no one","kz":"ешкім"}
+{"en":"nobody","kz":"ешкім"}
+{"en":"north","kz":"солтүстік"}
+{"en":"nose","kz":"мұрын"}
+{"en":"not","kz":"-ден, -дің, емес, емеспін"}
+{"en":"note","kz":"жазба, нота"}
+{"en":"nothing","kz":"ештеңе"}
+{"en":"November","kz":"қараша"}
+{"en":"now","kz":"қазір, енді"}
+{"en":"number","kz":"сан, нөмір"}
+{"en":"nurse","kz":"медбике"}
+{"en":"object","kz":"зат, объект"}
+{"en":"ocean","kz":"мұхит"}
+{"en":"o clock","kz":"сағат"}
+{"en":"October","kz":"қазан"}
+{"en":"of","kz":"-ден, -дің, туралы"}
+{"en":"off","kz":"өшірулі, тыс, шетіне"}
+{"en":"office","kz":"кеңсе, офис"}
+{"en":"often","kz":"жиі"}
+{"en":"oh","kz":"о! (ой, ә!"}
+{"en":"OK","kz":"жарайды, жақсы"}
+{"en":"old","kz":"ескі, кәрі"}
+{"en":"on","kz":"үстінде, қосулы"}
+{"en":"once","kz":"бір рет"}
+{"en":"one","kz":"бір"}
+{"en":"onion","kz":"пияз"}
+{"en":"online","kz":"онлайн"}
+{"en":"only","kz":"тек"}
+{"en":"open","kz":"ашық"}
+{"en":"opinion","kz":"ой"}
+{"en":"opposite","kz":"қарама-қарсы"}
+{"en":"or","kz":"немесе"}
+{"en":"orange","kz":"апельсин"}
+{"en":"order","kz":"бұйрық"}
+{"en":"other","kz":"өзге"}
+{"en":"our","kz":"біздің"}
+{"en":"out","kz":"тыс"}
+{"en":"outside","kz":"сыртында"}
+{"en":"over","kz":"үстінде"}
+{"en":"own","kz":"өзімнің"}
+{"en":"page","kz":"парақ"}
+{"en":"paint","kz":"бояу"}
+{"en":"painting","kz":"сурет"}
+{"en":"pair","kz":"жұп"}
+{"en":"pants","kz":"шалбар"}
+{"en":"paper","kz":"қағаз"}
+{"en":"paragraph","kz":"абзац"}
+{"en":"parent","kz":"ата-ана"}
+{"en":"park","kz":"саябақ"}
+{"en":"part","kz":"бөлік"}
+{"en":"partner","kz":"серіктес"}
+{"en":"party","kz":"партия"}
+{"en":"passport","kz":"паспорт"}
+{"en":"past","kz":"өткен шақ"}
+{"en":"pay","kz":"ақым"}
+{"en":"pen","kz":"жазба"}
+{"en":"pencil","kz":"кесек, қалам"}
+{"en":"people","kz":"халық"}
+{"en":"pepper","kz":"бұрыш"}
+{"en":"perfect","kz":"кемел, мінсіз"}
+{"en":"period","kz":"кезең, нүкте"}
+{"en":"person","kz":"адам, тұлға"}
+{"en":"personal","kz":"жеке"}
+{"en":"phone","kz":"телефон"}
+{"en":"photo","kz":"фотосурет"}
+{"en":"photograph","kz":"фотография"}
+{"en":"phrase","kz":"фраза, сөз тіркесі"}
+{"en":"piano","kz":"пианино"}
+{"en":"picture","kz":"сурет, фотосурет"}
+{"en":"piece","kz":"бөлік"}
+{"en":"pig","kz":"шошқа"}
+{"en":"pink","kz":"қызғылт"}
+{"en":"place","kz":"орын"}
+{"en":"plan","kz":"жоспар, жоспарлау"}
+{"en":"plane","kz":"ұшақ"}
+{"en":"plant","kz":"өсімдік, завод"}
+{"en":"play","kz":"ойнау, пьеса"}
+{"en":"player","kz":"ойыншы, плеер"}
+{"en":"please","kz":"рахат ету"}
+{"en":"point","kz":"нүкте, балл, пункт"}
+{"en":"police","kz":"полиция"}
+{"en":"policeman","kz":"полицей"}
+{"en":"pool","kz":"бассейн"}
+{"en":"poor","kz":"басқа"}
+{"en":"popular","kz":"танымал"}
+{"en":"positive","kz":"оң, жағымды"}
+{"en":"possible","kz":"мүмкін"}
+{"en":"post","kz":"хат жіберу"}
+{"en":"potato","kz":"картоп"}
+{"en":"pound","kz":"фунт"}
+{"en":"practice","kz":"жаттығу"}
+{"en":"prefer","kz":"артық көру"}
+{"en":"prepare","kz":"дайындау"}
+{"en":"present","kz":"сыйлық"}
+{"en":"pretty","kz":"әдемі, өте"}
+{"en":"price","kz":"баға"}
+{"en":"probably","kz":"мүмкін, әбден"}
+{"en":"problem","kz":"мәселе"}
+{"en":"product","kz":"өнім"}
+{"en":"program","kz":"бағдарлама"}
+{"en":"project","kz":"жоба"}
+{"en":"purple","kz":"күлгін"}
+{"en":"put","kz":"қою"}
+{"en":"quarter","kz":"25 цент"}
+{"en":"question","kz":"сұрақ"}
+{"en":"quick","kz":"жылдам"}
+{"en":"quickly","kz":"тез, жылдам"}
+{"en":"quiet","kz":"тыныш"}
+{"en":"quite","kz":"біршама, әбден"}
+{"en":"radio","kz":"радио"}
+{"en":"rain","kz":"жауып тұру"}
+{"en":"read","kz":"оқу"}
+{"en":"reader","kz":"оқырман"}
+{"en":"reading","kz":"оқу"}
+{"en":"ready","kz":"дайын"}
+{"en":"real","kz":"нақты"}
+{"en":"really","kz":"шынымен"}
+{"en":"reason","kz":"себеп"}
+{"en":"red","kz":"қызыл"}
+{"en":"relax","kz":"демалыс"}
+{"en":"remember","kz":"есте сақтау"}
+{"en":"repeat","kz":"қайталау"}
+{"en":"report","kz":"есеп"}
+{"en":"restaurant","kz":"мейрамхана"}
+{"en":"result","kz":"нәтиже"}
+{"en":"return","kz":"оралу"}
+{"en":"rice","kz":"күріш"}
+{"en":"rich","kz":"бай"}
+{"en":"ride","kz":"міну"}
+{"en":"right","kz":"дұрыс"}
+{"en":"river","kz":"өзен"}
+{"en":"road","kz":"жол"}
+{"en":"room","kz":"бөлме"}
+{"en":"routine","kz":"күнделікті тәртіп"}
+{"en":"rule","kz":"ереже"}
+{"en":"run","kz":"жүгіру"}
+{"en":"sad","kz":"қайғылы"}
+{"en":"salad","kz":"салат"}
+{"en":"salt","kz":"тұз"}
+{"en":"same","kz":"бірдей"}
+{"en":"sandwich","kz":"сэндвич"}
+{"en":"Saturday","kz":"сенбі"}
+{"en":"say","kz":"айту"}
+{"en":"school","kz":"мектеп"}
+{"en":"science","kz":"ғылым"}
+{"en":"scientist","kz":"ғалым"}
+{"en":"second","kz":"екінші"}
+{"en":"section","kz":"бөлім, секция"}
+{"en":"see","kz":"көру"}
+{"en":"sell","kz":"сату"}
+{"en":"send","kz":"жіберу"}
+{"en":"sentence","kz":"сөйлем"}
+{"en":"September","kz":"қыркүйек"}
+{"en":"seven","kz":"жеті"}
+{"en":"seventeen","kz":"он жеті"}
+{"en":"seventy","kz":"жетпіс"}
+{"en":"share","kz":"бөлісу"}
+{"en":"she","kz":"ол (әйел)"}
+{"en":"sheep","kz":"қой"}
+{"en":"shirt","kz":"жейде"}
+{"en":"shoe","kz":"аяқ киім"}
+{"en":"shop","kz":"дүкен, сатып алу"}
+{"en":"shopping","kz":"сауда, дүкен аралау"}
+{"en":"short","kz":"қысқа, кішкентай (бойлы)"}
+{"en":"should","kz":"керек, тиіс"}
+{"en":"show","kz":"көрсету, шоу"}
+{"en":"shower","kz":"душ"}
+{"en":"sick","kz":"ауру"}
+{"en":"similar","kz":"ұқсас"}
+{"en":"sing","kz":"ән айту"}
+{"en":"singer","kz":"әнші"}
+{"en":"sister","kz":"қарындас, әпке"}
+{"en":"sit","kz":"отыру"}
+{"en":"situation","kz":"жағдай"}
+{"en":"six","kz":"алты"}
+{"en":"sixteen","kz":"он алты"}
+{"en":"sixty","kz":"алпыс"}
+{"en":"skill","kz":"дағды"}
+{"en":"skirt","kz":"белдемше"}
+{"en":"sleep","kz":"ұйықтау"}
+{"en":"slow","kz":"баяу"}
+{"en":"small","kz":"кіші"}
+{"en":"smart","kz":"ақылды"}
+{"en":"snake","kz":"жылан"}
+{"en":"snow","kz":"қар"}
+{"en":"so","kz":"сондықтан, осылай"}
+{"en":"some","kz":"біраз"}
+{"en":"somebody","kz":"біреу"}
+{"en":"someone","kz":"біреу"}
+{"en":"something","kz":"нәрсе, бірдеме"}
+{"en":"sometimes","kz":"кейде"}
+{"en":"son","kz":"ұл"}
+{"en":"song","kz":"ән"}
+{"en":"soon","kz":"жақында, тез арада"}
+{"en":"sorry","kz":"кешіріңіз, өкінген"}
+{"en":"sound","kz":"дыбыс, естілу"}
+{"en":"soup","kz":"сорпа"}
+{"en":"south","kz":"оңтүстік"}
+{"en":"space","kz":"ғарыш, кеңістік"}
+{"en":"speak","kz":"сөйлеу"}
+{"en":"special","kz":"арнайы, ерекше"}
+{"en":"spell","kz":"әріппен айту"}
+{"en":"spelling","kz":"орфография"}
+{"en":"spend","kz":"өткізу"}
+{"en":"sport","kz":"спорт"}
+{"en":"spring","kz":"көктем"}
+{"en":"stand","kz":"тұру"}
+{"en":"star","kz":"жұлдыз"}
+{"en":"start","kz":"бастау"}
+{"en":"statement","kz":"мәлімдеме"}
+{"en":"station","kz":"станция"}
+{"en":"stay","kz":"қалу"}
+{"en":"still","kz":"әлі де"}
+{"en":"stop","kz":"тоқтату"}
+{"en":"store","kz":"дүкен"}
+{"en":"story","kz":"әңгіме"}
+{"en":"street","kz":"көше"}
+{"en":"strong","kz":"күшті"}
+{"en":"student","kz":"студент"}
+{"en":"study","kz":"оқу"}
+{"en":"style","kz":"стиль"}
+{"en":"subject","kz":"пән"}
+{"en":"success","kz":"табыс"}
+{"en":"sugar","kz":"қант"}
+{"en":"summer","kz":"жаз"}
+{"en":"sun","kz":"күн"}
+{"en":"Sunday","kz":"жексенбі"}
+{"en":"supermarket","kz":"супермаркет"}
+{"en":"sure","kz":"сенімді"}
+{"en":"sweater","kz":"свитер"}
+{"en":"swim","kz":"жүзу"}
+{"en":"swimming","kz":"жүзу"}
+{"en":"table","kz":"үстел"}
+{"en":"take","kz":"алу"}
+{"en":"talk","kz":"сөйлесу"}
+{"en":"tall","kz":"ұзын бойлы"}
+{"en":"taxi","kz":"такси"}
+{"en":"tea","kz":"шай"}
+{"en":"teach","kz":"оқыту"}
+{"en":"teacher","kz":"мұғалім"}
+{"en":"team","kz":"команда"}
+{"en":"teenager","kz":"жасөспірім"}
+{"en":"telephone","kz":"телефон"}
+{"en":"television","kz":"теледидар, телевизор"}
+{"en":"tell","kz":"айту"}
+{"en":"ten","kz":"он"}
+{"en":"tennis","kz":"теннис"}
+{"en":"terrible","kz":"жаман, қорқынышты"}
+{"en":"test","kz":"тест, сынау"}
+{"en":"text","kz":"хат жазу, смс жазу"}
+{"en":"than","kz":"қарағанда"}
+{"en":"thank","kz":"рахмет айту, алғыс білдіру"}
+{"en":"thanks","kz":"рахмет"}
+{"en":"that","kz":"сол, анау"}
+{"en":"theater","kz":"театр"}
+{"en":"their","kz":"олардың"}
+{"en":"them","kz":"оларды, оларға"}
+{"en":"then","kz":"содан кейін, сонан соң"}
+{"en":"there","kz":"онда, сонда"}
+{"en":"they","kz":"олар"}
+{"en":"thing","kz":"зат, нәрсе"}
+{"en":"think","kz":"ойлау, ойлану"}
+{"en":"third","kz":"үшінші"}
+{"en":"thirsty","kz":"шөлдеген"}
+{"en":"thirteen","kz":"он үш"}
+{"en":"thirty","kz":"отыз"}
+{"en":"this","kz":"осы, бұл"}
+{"en":"thousand","kz":"мың"}
+{"en":"three","kz":"үш"}
+{"en":"through","kz":"арқылы"}
+{"en":"Thursday","kz":"бейсенбі"}
+{"en":"ticket","kz":"билет"}
+{"en":"time","kz":"уақыт"}
+{"en":"tired","kz":"шаршаған"}
+{"en":"title","kz":"атау, тақырып"}
+{"en":"to","kz":"-қа, -ге, -ға"}
+{"en":"today","kz":"бүгін, қазіргі күн"}
+{"en":"together","kz":"бірге, бірігіп"}
+{"en":"toilet","kz":"дәретхана"}
+{"en":"tomato","kz":"қызанақ"}
+{"en":"tomorrow","kz":"ертең, ертеңгі күн"}
+{"en":"tonight","kz":"бүгін кешке"}
+{"en":"too","kz":"да, де, өте"}
+{"en":"tooth","kz":"тіс"}
+{"en":"topic","kz":"тақырып"}
+{"en":"tourist","kz":"турист"}
+{"en":"town","kz":"шаһар, қалашық"}
+{"en":"traffic","kz":"көлік қозғалысы"}
+{"en":"train","kz":"жаттықтыру"}
+{"en":"travel","kz":"саяхаттау"}
+{"en":"tree","kz":"ағаш"}
+{"en":"trip","kz":"саяхат"}
+{"en":"truck","kz":"жүк көлігі"}
+{"en":"true","kz":"шындық"}
+{"en":"try","kz":"тұрғызу, байқау"}
+{"en":"T-shirt","kz":"футболка"}
+{"en":"Tuesday","kz":"сейсенбі"}
+{"en":"turn","kz":"бұрылу"}
+{"en":"TV","kz":"телевизор"}
+{"en":"twelve","kz":"он екі"}
+{"en":"twenty","kz":"жиырма"}
+{"en":"twice","kz":"екі рет"}
+{"en":"two","kz":"екі"}
+{"en":"type","kz":"түр, үлгі"}
+{"en":"umbrella","kz":"қолшатыр"}
+{"en":"uncle","kz":"аға"}
+{"en":"under","kz":"астында"}
+{"en":"understand","kz":"түсіну"}
+{"en":"university","kz":"университет"}
+{"en":"until","kz":"дейін"}
+{"en":"up","kz":"жоғары"}
+{"en":"upstairs","kz":"жоғарғы қабатта"}
+{"en":"us","kz":"бізді, бізге"}
+{"en":"use","kz":"қолдану"}
+{"en":"useful","kz":"пайдалы"}
+{"en":"usually","kz":"әдетте"}
+{"en":"vacation","kz":"демалыс, каникул"}
+{"en":"vegetable","kz":"көкөніс"}
+{"en":"very","kz":"өте, аса"}
+{"en":"video","kz":"бейне"}
+{"en":"visit","kz":"бару, сапар"}
+{"en":"visitor","kz":"келуші, қонақ"}
+{"en":"wait","kz":"күту"}
+{"en":"waiter","kz":"кайраткер"}
+{"en":"wake","kz":"ойну, ояту"}
+{"en":"walk","kz":"жүру"}
+{"en":"wall","kz":"қабырға"}
+{"en":"want","kz":"қалау"}
+{"en":"warm","kz":"жылы"}
+{"en":"wash","kz":"жуу"}
+{"en":"watch","kz":"күзету, сағат"}
+{"en":"water","kz":"су"}
+{"en":"way","kz":"жол"}
+{"en":"we","kz":"біз"}
+{"en":"wear","kz":"кию, тағу"}
+{"en":"weather","kz":"ауа райы"}
+{"en":"website","kz":"веб-сайт"}
+{"en":"Wednesday","kz":"сәрсенбі"}
+{"en":"week","kz":"апта"}
+{"en":"weekend","kz":"демалыс күндері"}
+{"en":"welcome","kz":"қош келдіңіз, қарсы алу"}
+{"en":"well","kz":"жақсы"}
+{"en":"west","kz":"батыс"}
+{"en":"what","kz":"не, қандай"}
+{"en":"when","kz":"қашан, кезде"}
+{"en":"where","kz":"қайда, қай жерде"}
+{"en":"which","kz":"қайсы, қандай"}
+{"en":"white","kz":"ақ"}
+{"en":"who","kz":"кім"}
+{"en":"why","kz":"неге, не үшін"}
+{"en":"wife","kz":"әйел, жұбай"}
+{"en":"will","kz":"болашақта, ерік"}
+{"en":"win","kz":"жеңу"}
+{"en":"window","kz":"терезе"}
+{"en":"wine","kz":"шарап"}
+{"en":"winter","kz":"қыс"}
+{"en":"with","kz":"бірге, -мен"}
+{"en":"without","kz":"онсыз"}
+{"en":"woman","kz":"әйел, әйел адам"}
+{"en":"wonderful","kz":"тамаша"}
+{"en":"word","kz":"сөз"}
+{"en":"work","kz":"жұмыс, жұмыс істеу"}
+{"en":"worker","kz":"жұмысшы"}
+{"en":"world","kz":"әлем, дүние"}
+{"en":"would","kz":"еді, болар еді"}
+{"en":"write","kz":"жазу"}
+{"en":"writer","kz":"жазушы"}
+{"en":"writing","kz":"жазу"}
+{"en":"wrong","kz":"дұрыс емес, қате"}
+{"en":"yard","kz":"аула, ярд"}
+{"en":"yeah","kz":"иә"}
+{"en":"year","kz":"жыл"}
+{"en":"yellow","kz":"сары"}
+{"en":"yes","kz":"иә"}
+{"en":"yesterday","kz":"кеше, кешегі күн"}
+{"en":"you","kz":"сен, сіз"}
+{"en":"young","kz":"жас"}
+{"en":"your","kz":"сенің, сіздің"}
+{"en":"yourself","kz":"өзің, өзіңіз"}
+{"en":"ability","kz":"қабілет"}
+{"en":"able","kz":"қабілетті"}
+{"en":"accept","kz":"қабылдау"}
+{"en":"accident","kz":"оқиға"}
+{"en":"according to","kz":"бойынша, сәйкес"}
+{"en":"achieve","kz":"жету"}
+{"en":"act","kz":"әрекет ету"}
+{"en":"active","kz":"белсенді"}
+{"en":"actually","kz":"шын мәнінде"}
+{"en":"adult","kz":"ересек адам"}
+{"en":"advantage","kz":"артықшылық"}
+{"en":"adventure","kz":"бастан кешіру, оқиға"}
+{"en":"advertise","kz":"жарнамалау"}
+{"en":"advertisement","kz":"жарнама"}
+{"en":"advertising","kz":"жарнама ісі"}
+{"en":"affect","kz":"әсер ету"}
+{"en":"after","kz":"кейін, соң"}
+{"en":"against","kz":"қарсы"}
+{"en":"ah","kz":"ә!"}
+{"en":"airline","kz":"әуе компаниясы"}
+{"en":"alive","kz":"тірі"}
+{"en":"all","kz":"барлығы, мүлде"}
+{"en":"all right","kz":"жарайды, жақсы"}
+{"en":"allow","kz":"рұқсат ету"}
+{"en":"almost","kz":"дерлік, шамалы"}
+{"en":"alone","kz":"жалғыз"}
+{"en":"along","kz":"бойымен, бірге"}
+{"en":"already","kz":"әлдеқашан"}
+{"en":"alternative","kz":"балама"}
+{"en":"although","kz":"дегенмен, әрі"}
+{"en":"among","kz":"арасында"}
+{"en":"amount","kz":"мөлшер, шама"}
+{"en":"analyze","kz":"талдау"}
+{"en":"ancient","kz":"ежелгі"}
+{"en":"ankle","kz":"ақылға"}
+{"en":"any","kz":"барлық"}
+{"en":"anybody","kz":"кім де","transcription":"кез келген"}
+{"en":"anymore","kz":"өйтсеңіз, әлдеқайда да"}
+{"en":"anyway","kz":"бәрібір, дегенмен"}
+{"en":"anywhere","kz":"қайда болса да"}
+{"en":"app","kz":"қосымша"}
+{"en":"appear","kz":"пайда болады"}
+{"en":"appearance","kz":"сырт келбет, пайда болады"}
+{"en":"apply","kz":"өтініш беру, қолдану"}
+{"en":"architect","kz":"сәулетші"}
+{"en":"architecture","kz":"сәулет"}
+{"en":"argue","kz":"дауласу, таласу"}
+{"en":"argument","kz":"дау, аргумент"}
+{"en":"army","kz":"әскер"}
+{"en":"arrange","kz":"ұйымдастыру"}
+{"en":"arrangement","kz":"ұйымдастыру, келісім"}
+{"en":"as","kz":"ретінде, қалай, себебі"}
+{"en":"asleep","kz":"ұйықтап жатқан"}
+{"en":"assistant","kz":"көмекші"}
+{"en":"athlete","kz":"атлет, спортшы"}
+{"en":"attack","kz":"шабуыл, шабуыл жасау"}
+{"en":"attend","kz":"қатысу"}
+{"en":"attention","kz":"назар, көңіл"}
+{"en":"attractive","kz":"тартымды"}
+{"en":"audience","kz":"көрермендер, аудитория"}
+{"en":"author","kz":"автор"}
+{"en":"available","kz":"қолжетімді"}
+{"en":"average","kz":"орташа"}
+{"en":"avoid","kz":"болдырмау"}
+{"en":"award","kz":"сыйлық"}
+{"en":"awful","kz":"ұсқынсыз"}
+{"en":"back","kz":"артқы"}
+{"en":"background","kz":"фон"}
+{"en":"badly","kz":"жаман, қатты"}
+{"en":"based","kz":"негізделген"}
+{"en":"bean","kz":"бұршақ"}
+{"en":"bear","kz":"аю"}
+{"en":"beat","kz":"ұру"}
+{"en":"beef","kz":"сиыр еті"}
+{"en":"before","kz":"бұрын"}
+{"en":"behave","kz":"өзін-өзі ұстау"}
+{"en":"behavior","kz":"мінез-құлық"}
+{"en":"belong","kz":"тиесілі болу"}
+{"en":"belt","kz":"белбеу"}
+{"en":"benefit","kz":"пайда"}
+{"en":"best","kz":"ең жақсысы"}
+{"en":"better","kz":"жақсырақ"}
+{"en":"between","kz":"арасында"}
+{"en":"billion","kz":"миллиард"}
+{"en":"biology","kz":"биология"}
+{"en":"birth","kz":"туылу"}
+{"en":"bit","kz":"аздап"}
+{"en":"blank","kz":"бос"}
+{"en":"block","kz":"квартал"}
+{"en":"blood","kz":"қан"}
+{"en":"blow","kz":"соққы"}
+{"en":"board","kz":"тақта"}
+{"en":"boil","kz":"қайнату"}
+{"en":"bone","kz":"сүйек"}
+{"en":"book","kz":"книга"}
+{"en":"borrow","kz":"аулау"}
+{"en":"boss","kz":"бастық"}
+{"en":"bottom","kz":"түбі, астыңғы"}
+{"en":"bowl","kz":"таза"}
+{"en":"brain","kz":"ми"}
+{"en":"bridge","kz":"көпір"}
+{"en":"bright","kz":"жарық, ақылды"}
+{"en":"brilliant","kz":"жарқын, керемет"}
+{"en":"broken","kz":"сынған"}
+{"en":"brush","kz":"щетка"}
+{"en":"burn","kz":"күйдіру, жанып тұру"}
+{"en":"businessman","kz":"бизнесмен"}
+{"en":"button","kz":"түйме"}
+{"en":"camp","kz":"лагерь"}
+{"en":"camping","kz":"кемпинг"}
+{"en":"campus","kz":"кампус"}
+{"en":"can","kz":"қалайы банка"}
+{"en":"candy","kz":"кәмпит"}
+{"en":"care","kz":"қамқорлық, қамқор болу"}
+{"en":"careful","kz":"абай"}
+{"en":"carefully","kz":"абайлап"}
+{"en":"carpet","kz":"кілем"}
+{"en":"cartoon","kz":"мультфильм"}
+{"en":"case","kz":"жағдай, чемодан"}
+{"en":"cash","kz":"қолма-қол ақша"}
+{"en":"catch","kz":"ұстау"}
+{"en":"cause","kz":"себеп, себеп болу"}
+{"en":"celebrate","kz":"мерейтойлау"}
+{"en":"celebrity","kz":"танымал адам"}
+{"en":"cell","kz":"жасуша"}
+{"en":"century","kz":"ғасыр"}
+{"en":"certain","kz":"белгілі"}
+{"en":"certainly","kz":"әріне"}
+{"en":"chance","kz":"мүмкіндік"}
+{"en":"character","kz":"мінез"}
+{"en":"charity","kz":"қайырымдылық"}
+{"en":"chat","kz":"әңгіме"}
+{"en":"check","kz":"тексеру"}
+{"en":"chef","kz":"бас аспаз"}
+{"en":"chemistry","kz":"химия"}
+{"en":"chip","kz":"чип"}
+{"en":"choice","kz":"таңдау"}
+{"en":"church","kz":"шіркеу"}
+{"en":"cigarette","kz":"темекі"}
+{"en":"circle","kz":"шеңбер"}
+{"en":"classical","kz":"классикалық"}
+{"en":"clear","kz":"айқын"}
+{"en":"clearly","kz":"анық"}
+{"en":"clerk","kz":"қызметкер"}
+{"en":"climate","kz":"климат"}
+{"en":"close","kz":"жақын"}
+{"en":"closed","kz":"жабық"}
+{"en":"closet","kz":"шкаф"}
+{"en":"clothing","kz":"киім"}
+{"en":"cloud","kz":"бұлт"}
+{"en":"coach","kz":"жаттықтырушы"}
+{"en":"coast","kz":"жағалау"}
+{"en":"code","kz":"код"}
+{"en":"colleague","kz":"әріптес"}
+{"en":"collect","kz":"жинау"}
+{"en":"column","kz":"колонка"}
+{"en":"comedy","kz":"комедия"}
+{"en":"comfortable","kz":"жайлы"}
+{"en":"comment","kz":"пікір"}
+{"en":"communicate","kz":"қарым-қатынас жасау"}
+{"en":"community","kz":"қауым"}
+{"en":"compete","kz":"бәсекелесу"}
+{"en":"competition","kz":"жарыс"}
+{"en":"complain","kz":"шағымдану"}
+{"en":"completely","kz":"толығымен"}
+{"en":"condition","kz":"жағдай"}
+{"en":"conference","kz":"конференция"}
+{"en":"connect","kz":"байланыстыру"}
+{"en":"connected","kz":"байланысқан"}
+{"en":"consider","kz":"қарастыру"}
+{"en":"contain","kz":"қамту"}
+{"en":"context","kz":"контекст"}
+{"en":"continent","kz":"континент"}
+{"en":"continue","kz":"жалғастыру"}
+{"en":"control","kz":"басқару"}
+{"en":"cook","kz":"аспаз"}
+{"en":"cookie","kz":"печенье"}
+{"en":"copy","kz":"көшірме"}
+{"en":"corner","kz":"бұрыш"}
+{"en":"correctly","kz":"дұрыс"}
+{"en":"count","kz":"санау"}
+{"en":"couple","kz":"жұп"}
+{"en":"cover","kz":"жабу"}
+{"en":"crazy","kz":"есер, ессіз"}
+{"en":"creative","kz":"шығармашылық"}
+{"en":"credit","kz":"несие"}
+{"en":"crime","kz":"қылмыс"}
+{"en":"criminal","kz":"қылмыскер"}
+{"en":"cross","kz":"кесіп өту, крест"}
+{"en":"crowd","kz":"топ, халық"}
+{"en":"crowded","kz":"толы, көп адамды"}
+{"en":"cry","kz":"жылау, айқайлау"}
+{"en":"curly","kz":"бұйра"}
+{"en":"cycle","kz":"цикл, велосипед тебу"}
+{"en":"daily","kz":"күнделікті"}
+{"en":"danger","kz":"қауіп"}
+{"en":"dark","kz":"қараңғы"}
+{"en":"data","kz":"деректер"}
+{"en":"dead","kz":"өлі"}
+{"en":"deal","kz":"іс, келісім"}
+{"en":"death","kz":"өлім"}
+{"en":"decision","kz":"шешім"}
+{"en":"deep","kz":"терең"}
+{"en":"definitely","kz":"сөзсіз, анық"}
+{"en":"degree","kz":"дәреже, градус"}
+{"en":"dentist","kz":"тіс дәрігері"}
+{"en":"department","kz":"бөлім"}
+{"en":"depend","kz":"байланысты болу"}
+{"en":"desert","kz":"шөл"}
+{"en":"designer","kz":"дизайнер"}
+{"en":"dessert","kz":"десерт"}
+{"en":"destroy","kz":"жою"}
+{"en":"detective","kz":"детектив"}
+{"en":"develop","kz":"өзгерту"}
+{"en":"device","kz":"аппарат"}
+{"en":"diary","kz":"күнделік"}
+{"en":"differently","kz":"басқаша"}
+{"en":"digital","kz":"цифрлы"}
+{"en":"direct","kz":"жақты"}
+{"en":"direction","kz":"бағыт"}
+{"en":"director","kz":"директор"}
+{"en":"disagree","kz":"келіспеу"}
+{"en":"disappear","kz":"жоғалу"}
+{"en":"disaster","kz":"апат"}
+{"en":"discover","kz":"табу, ашу"}
+{"en":"discovery","kz":"ашылым"}
+{"en":"discussion","kz":"талқы"}
+{"en":"disease","kz":"ауру"}
+{"en":"distance","kz":"қашықтық"}
+{"en":"divorced","kz":"ажырасқан"}
+{"en":"document","kz":"құжат"}
+{"en":"double","kz":"көбірек, екі еселеу"}
+{"en":"download","kz":"жүктеу"}
+{"en":"downstairs","kz":"төменгі қабырғадағы"}
+{"en":"downtown","kz":"қала орталығы"}
+{"en":"drama","kz":"драма"}
+{"en":"drawing","kz":"сурет"}
+{"en":"dream","kz":"түс, армандау"}
+{"en":"drive","kz":"жүргізу"}
+{"en":"driving","kz":"көлік жүргізу"}
+{"en":"drop","kz":"тастау"}
+{"en":"drug","kz":"дәрі, есірткі"}
+{"en":"dry","kz":"құрғақ, кептіру"}
+{"en":"earn","kz":"арау, ақша табу"}
+{"en":"earth","kz":"жер"}
+{"en":"easily","kz":"оңай"}
+{"en":"education","kz":"білім"}
+{"en":"effect","kz":"әсер"}
+{"en":"either","kz":"кез келген, де, да"}
+{"en":"electric","kz":"электрлік"}
+{"en":"electrical","kz":"электр техникалық"}
+{"en":"electricity","kz":"электр қуаты"}
+{"en":"electronic","kz":"электронды"}
+{"en":"elevator","kz":"лифт"}
+{"en":"employ","kz":"жұмысқа алу"}
+{"en":"employee","kz":"қызметкер"}
+{"en":"employer","kz":"жұмыс беруші"}
+{"en":"empty","kz":"бос"}
+{"en":"ending","kz":"аяқталу"}
+{"en":"energy","kz":"энергия"}
+{"en":"engine","kz":"қозғалтқыш"}
+{"en":"engineer","kz":"инженер"}
+{"en":"enormous","kz":"алып, өте үлкен"}
+{"en":"enter","kz":"кіру"}
+{"en":"environment","kz":"қоршаған орта"}
+{"en":"equipment","kz":"жабдық"}
+{"en":"error","kz":"қате, қателік"}
+{"en":"especially","kz":"әсіресе"}
+{"en":"essay","kz":"эссе"}
+{"en":"everyday","kz":"күнделікті"}
+{"en":"everywhere","kz":"барлық жерде"}
+{"en":"evidence","kz":"дәлел"}
+{"en":"exact","kz":"дәл"}
+{"en":"exactly","kz":"дәл"}
+{"en":"excellent","kz":"қатты"}
+{"en":"except","kz":"сирек, басқа"}
+{"en":"exist","kz":"бар болу"}
+{"en":"expect","kz":"үміттену"}
+{"en":"experience","kz":"тәжірибе"}
+{"en":"experiment","kz":"тәжірибе"}
+{"en":"expert","kz":"маман, терең білімді"}
+{"en":"explanation","kz":"сипаттау"}
+{"en":"express","kz":"білдіру, жеткізу"}
+{"en":"expression","kz":"өрнек, сипаттау"}
+{"en":"extreme","kz":"шындықтың ең жоғары деңгейі"}
+{"en":"extremely","kz":"өте, тым"}
+{"en":"factor","kz":"фактор"}
+{"en":"factory","kz":"зауыт"}
+{"en":"fail","kz":"сәтсіз болу"}
+{"en":"fair","kz":"әділ, сары (шаш)"}
+{"en":"fan","kz":"желдеткіш, жанкүйер"}
+{"en":"farm","kz":"егіншілікпен айналысу"}
+{"en":"farming","kz":"ауыл шаруашылығы"}
+{"en":"fashion","kz":"сән, стиль"}
+{"en":"fat","kz":"май"}
+{"en":"fear","kz":"қорқыныш"}
+{"en":"feature","kz":"ерекшелік"}
+{"en":"feed","kz":"тамақтандыру"}
+{"en":"female","kz":"әйел, ұрғашы"}
+{"en":"fever","kz":"қызба"}
+{"en":"fiction","kz":"көркем әдебиет"}
+{"en":"field","kz":"алаң, өріс"}
+{"en":"fight","kz":"күресу, ұрыс"}
+{"en":"figure","kz":"фигура"}
+{"en":"film","kz":"фильм"}
+{"en":"final","kz":"финал"}
+{"en":"finally","kz":"ақырында"}
+{"en":"finger","kz":"саусақ"}
+{"en":"finish","kz":"аяқталу, финиш"}
+{"en":"fire","kz":"жұмыстан шығару, ату"}
+{"en":"first","kz":"бірінші орын"}
+{"en":"fish","kz":"балық аулау"}
+{"en":"fishing","kz":"балық аулау"}
+{"en":"fit","kz":"сәйкес, жарау, жарамды"}
+{"en":"fix","kz":"жөндеу, бекіту"}
+{"en":"flat","kz":"жалпақ"}
+{"en":"flu","kz":"тұмау"}
+{"en":"fly","kz":"шыбын"}
+{"en":"flying","kz":"ұшу"}
+{"en":"focus","kz":"фокус"}
+{"en":"following","kz":"келесі"}
+{"en":"foreign","kz":"шетелдік"}
+{"en":"forest","kz":"орман"}
+{"en":"fork","kz":"шанышқы"}
+{"en":"formal","kz":"ресми"}
+{"en":"fortunately","kz":"бақытымызға орай"}
+{"en":"forward","kz":"алға"}
+{"en":"free","kz":"тегін"}
+{"en":"fresh","kz":"жаңа, жас"}
+{"en":"frog","kz":"бақа"}
+{"en":"fun","kz":"көңілді, қызық"}
+{"en":"furniture","kz":"жиһаз"}
+{"en":"further","kz":"одан әрі"}
+{"en":"future","kz":"келешек"}
+{"en":"gallery","kz":"галерея"}
+{"en":"gap","kz":"алшақтық"}
+{"en":"garbage","kz":"қоқыс"}
+{"en":"gas","kz":"газ"}
+{"en":"gate","kz":"қақпа"}
+{"en":"general","kz":"жалпы"}
+{"en":"gift","kz":"сыйлық"}
+{"en":"goal","kz":"мақсат"}
+{"en":"god","kz":"құдай"}
+{"en":"gold","kz":"алтын"}
+{"en":"golf","kz":"гольф"}
+{"en":"good","kz":"жақсылық"}
+{"en":"government","kz":"үкімет"}
+{"en":"grass","kz":"шөп"}
+{"en":"greet","kz":"сәлемдесу"}
+{"en":"grocery","kz":"азық-түлік, дүкен"}
+{"en":"ground","kz":"жер"}
+{"en":"guest","kz":"қонақ"}
+{"en":"guide","kz":"жетекші"}
+{"en":"gun","kz":"мылтық, тапанша"}
+{"en":"guy","kz":"жігіт"}
+{"en":"habit","kz":"әдет, дағды"}
+{"en":"half","kz":"жартылай"}
+{"en":"hall","kz":"зал"}
+{"en":"happily","kz":"бақытты, қуанышты"}
+{"en":"have","kz":"көмекші етістік"}
+{"en":"headache","kz":"бас ауруы"}
+{"en":"heart","kz":"жүрек"}
+{"en":"heat","kz":"ыстық, қыздыру"}
+{"en":"heavy","kz":"ауыр"}
+{"en":"height","kz":"бой"}
+{"en":"helpful","kz":"пайдалы"}
+{"en":"hero","kz":"батыр"}
+{"en":"hers","kz":"оныкі (әйел)"}
+{"en":"herself","kz":"өзі (әйел)"}
+{"en":"hide","kz":"жасыру"}
+{"en":"high","kz":"биік, жоғары"}
+{"en":"hill","kz":"төбе"}
+{"en":"himself","kz":"өзі (еркек)"}
+{"en":"his","kz":"оныкі (еркек)"}
+{"en":"hit","kz":"соғу, хит"}
+{"en":"hockey","kz":"хоккей"}
+{"en":"hold","kz":"ұстау"}
+{"en":"hole","kz":"тесік, шұңқыр"}
+{"en":"holiday","kz":"мейрам"}
+{"en":"home","kz":"үйлік"}
+{"en":"hope","kz":"үміт"}
+{"en":"huge","kz":"өте үлкен"}
+{"en":"human","kz":"адам, адамдық"}
+{"en":"hurt","kz":"жаралау"}
+{"en":"ideal","kz":"идеалды"}
+{"en":"identify","kz":"анықтау"}
+{"en":"ill","kz":"ауру"}
+{"en":"illness","kz":"ауру"}
+{"en":"image","kz":"бейне, образ"}
+{"en":"immediately","kz":"лезде"}
+{"en":"impossible","kz":"мүмкін емес"}
+{"en":"included","kz":"қосылған"}
+{"en":"including","kz":"қоса, қосқанда"}
+{"en":"increase","kz":"арту"}
+{"en":"incredible","kz":"керемет"}
+{"en":"independent","kz":"тәуелсіз"}
+{"en":"individual","kz":"жеке адам"}
+{"en":"industry","kz":"өнеркәсіп"}
+{"en":"informal","kz":"бейресми"}
+{"en":"injury","kz":"жарақат"}
+{"en":"insect","kz":"жаңбыр"}
+{"en":"inside","kz":"ішінде"}
+{"en":"instead","kz":"орнына"}
+{"en":"instruction","kz":"нұсқау"}
+{"en":"instructor","kz":"нұсқаушы"}
+{"en":"instrument","kz":"есептің құралы"}
+{"en":"intelligent","kz":"ақылды, зерек"}
+{"en":"international","kz":"халықаралық"}
+{"en":"introduction","kz":"кіріспе"}
+{"en":"invent","kz":"ойлап табу"}
+{"en":"invention","kz":"өнертабыс"}
+{"en":"invitation","kz":"шақыру"}
+{"en":"invite","kz":"шақыру"}
+{"en":"involve","kz":"қатыстыру"}
+{"en":"item","kz":"зат, бұйым"}
+{"en":"itself","kz":"өзі (зат)"}
+{"en":"jam","kz":"джем"}
+{"en":"jazz","kz":"джаз"}
+{"en":"jewelry","kz":"әшекей"}
+{"en":"joke","kz":"әзіл, әзілдеу"}
+{"en":"journalist","kz":"журналист"}
+{"en":"jump","kz":"секіру"}
+{"en":"kid","kz":"бала"}
+{"en":"kill","kz":"өлтіру"}
+{"en":"kilometer","kz":"километр"}
+{"en":"king","kz":"патша, король"}
+{"en":"knee","kz":"тізе"}
+{"en":"knife","kz":"пышақ"}
+{"en":"knock","kz":"қағу"}
+{"en":"knowledge","kz":"білім"}
+{"en":"lab","kz":"зертхана"}
+{"en":"lady","kz":"ханым"}
+{"en":"lake","kz":"көл"}
+{"en":"lamp","kz":"шам"}
+{"en":"land","kz":"қону"}
+{"en":"laptop","kz":"ноутбук"}
+{"en":"last","kz":"соңғы, ақтық"}
+{"en":"later","kz":"кейінгі"}
+{"en":"laughter","kz":"күлімдеу, күлкі"}
+{"en":"law","kz":"заң"}
+{"en":"lawyer","kz":"адвокат"}
+{"en":"lazy","kz":"жалқау"}
+{"en":"lead","kz":"жетектеу, бастау"}
+{"en":"leader","kz":"жетекші"}
+{"en":"learning","kz":"оқу, үйрену"}
+{"en":"least","kz":"ең аз"}
+{"en":"lecture","kz":"дәріс"}
+{"en":"lemon","kz":"лимон"}
+{"en":"lend","kz":"қарыз беру"}
+{"en":"less","kz":"аз, кем"}
+{"en":"level","kz":"деңгей"}
+{"en":"lifestyle","kz":"өмір салты"}
+{"en":"lift","kz":"көтеру"}
+{"en":"light","kz":"жағу"}
+{"en":"likely","kz":"ықтимал"}
+{"en":"link","kz":"сілтеме, байланыстыру"}
+{"en":"listener","kz":"тыңдаушы"}
+{"en":"little","kz":"кішкене"}
+{"en":"lock","kz":"құлыптау"}
+{"en":"look","kz":"көрініс, кейіп"}
+{"en":"lost","kz":"жоғалған"}
+{"en":"loud","kz":"дауысты"}
+{"en":"loudly","kz":"қатты естіліп"}
+{"en":"low","kz":"төмен"}
+{"en":"luck","kz":"сәттілік"}
+{"en":"lucky","kz":"сәтті"}
+{"en":"mail","kz":"пошта"}
+{"en":"major","kz":"басты"}
+{"en":"male","kz":"еркек, аталық"}
+{"en":"manage","kz":"басқару"}
+{"en":"manager","kz":"менеджер"}
+{"en":"manner","kz":"тәсіл"}
+{"en":"mark","kz":"белгі, белгілеу"}
+{"en":"marry","kz":"үйлену, тұрмысқа шығу"}
+{"en":"material","kz":"материал"}
+{"en":"math","kz":"математика"}
+{"en":"mathematics","kz":"математика"}
+{"en":"matter","kz":"мәселе, маңызды болу"}
+{"en":"may","kz":"болады"}
+{"en":"mayor","kz":"мэр"}
+{"en":"media","kz":"бұқаралық ақпарат"}
+{"en":"medical","kz":"медициналық"}
+{"en":"medicine","kz":"дәрі"}
+{"en":"memory","kz":"есте сақтау"}
+{"en":"mention","kz":"атап өту"}
+{"en":"metal","kz":"металл"}
+{"en":"method","kz":"әдіс"}
+{"en":"middle","kz":"ортаңғы"}
+{"en":"might","kz":"болар"}
+{"en":"mind","kz":"ақыл"}
+{"en":"mine","kz":"менікі"}
+{"en":"mirror","kz":"айна"}
+{"en":"missing","kz":"жоғалған"}
+{"en":"monkey","kz":"маймыл"}
+{"en":"moon","kz":"ай"}
+{"en":"mostly","kz":"негізінен"}
+{"en":"motorcycle","kz":"мотоцикл"}
+{"en":"movement","kz":"қозғалыс"}
+{"en":"musical","kz":"музыкалық"}
+{"en":"musician","kz":"музыкант"}
+{"en":"myself","kz":"өзім"}
+{"en":"narrow","kz":"тар"}
+{"en":"national","kz":"ұлттық"}
+{"en":"nature","kz":"табиғат"}
+{"en":"nearly","kz":"жақын"}
+{"en":"necessary","kz":"қажетті"}
+{"en":"neck","kz":"мойын"}
+{"en":"need","kz":"қажеттілік"}
+{"en":"neither","kz":"ешбір"}
+{"en":"nervous","kz":"жүйке"}
+{"en":"network","kz":"желі"}
+{"en":"noise","kz":"шу"}
+{"en":"noisy","kz":"шулы"}
+{"en":"none","kz":"ешбірі, дым"}
+{"en":"normal","kz":"қалыпты"}
+{"en":"normally","kz":"әдетте"}
+{"en":"notice","kz":"байқау, хабарландыру"}
+{"en":"novel","kz":"роман"}
+{"en":"nowhere","kz":"еш жерде"}
+{"en":"number","kz":"нөмірлеу"}
+{"en":"nut","kz":"жаңғақ"}
+{"en":"offer","kz":"ұсыну, ұсыныс"}
+{"en":"officer","kz":"офицер"}
+{"en":"oil","kz":"май, мұнай"}
+{"en":"onto","kz":"үстіне"}
+{"en":"opportunity","kz":"мүмкіндік"}
+{"en":"option","kz":"нұсқа"}
+{"en":"ordinary","kz":"кәдімгі"}
+{"en":"organization","kz":"ұйым"}
+{"en":"organize","kz":"ұйымдастыру"}
+{"en":"original","kz":"түпнұсқа"}
+{"en":"ourselves","kz":"өзіміз"}
+{"en":"outside","kz":"сырт, сыртында"}
+{"en":"oven","kz":"пеш"}
+{"en":"overseas","kz":"шетелде"}
+{"en":"own","kz":"ие болу"}
+{"en":"owner","kz":"ие, меншік иесі"}
+{"en":"pack","kz":"орау, жинау"}
+{"en":"pain","kz":"ауырсыну"}
+{"en":"painter","kz":"суретші"}
+{"en":"palace","kz":"сарай"}
+{"en":"parking","kz":"автотұрақ"}
+{"en":"particular","kz":"ерекше"}
+{"en":"pass","kz":"өту"}
+{"en":"passenger","kz":"жолаушы"}
+{"en":"past","kz":"артқа"}
+{"en":"patient","kz":"науқас"}
+{"en":"pattern","kz":"өрнек"}
+{"en":"pay","kz":"ақы"}
+{"en":"peace","kz":"бейбітшілік"}
+{"en":"penny","kz":"пенни"}
+{"en":"per","kz":"-ге, -на, сайын"}
+{"en":"percent","kz":"пайыз"}
+{"en":"perform","kz":"өнер көрсету"}
+{"en":"perhaps","kz":"мүмкін"}
+{"en":"permission","kz":"рұқсат"}
+{"en":"personality","kz":"тұлға, мінез"}
+{"en":"pet","kz":"үй жануары"}
+{"en":"photograph","kz":"фотоға түсіру"}
+{"en":"physical","kz":"физикалық"}
+{"en":"physics","kz":"физика"}
+{"en":"pick","kz":"таңдау, теріп алу"}
+{"en":"pilot","kz":"ұшқыш"}
+{"en":"planet","kz":"планета"}
+{"en":"plant","kz":"отырғызу"}
+{"en":"plastic","kz":"пластик"}
+{"en":"plate","kz":"тәрелке"}
+{"en":"platform","kz":"платформа"}
+{"en":"please","kz":"жақсы ету"}
+{"en":"pleased","kz":"риза"}
+{"en":"pocket","kz":"қалта"}
+{"en":"polite","kz":"мәңгілік"}
+{"en":"pollution","kz":"көмірсура"}
+{"en":"pop","kz":"поп-музыка"}
+{"en":"population","kz":"халық саны"}
+{"en":"position","kz":"орны, лауазым"}
+{"en":"possession","kz":"иелік"}
+{"en":"possibility","kz":"мүмкіндік"}
+{"en":"poster","kz":"постер"}
+{"en":"power","kz":"күш, билік"}
+{"en":"predict","kz":"болжау"}
+{"en":"present","kz":"ұсыну, таныстыру"}
+{"en":"president","kz":"президент"}
+{"en":"prevent","kz":"алдын алу"}
+{"en":"print","kz":"басып шығару"}
+{"en":"printer","kz":"принтер"}
+{"en":"prison","kz":"түрме"}
+{"en":"prize","kz":"сыйлық"}
+{"en":"process","kz":"үдеріс"}
+{"en":"produce","kz":"өндіру"}
+{"en":"professional","kz":"кәсіби"}
+{"en":"professor","kz":"профессор"}
+{"en":"profile","kz":"бейіндік, профиль"}
+{"en":"progress","kz":"прогресс"}
+{"en":"promise","kz":"уәде, уәде ету"}
+{"en":"pronounce","kz":"айту, дыбыстау"}
+{"en":"protect","kz":"қорғау"}
+{"en":"provide","kz":"қамтамасыз ету"}
+{"en":"public","kz":"қоғамдық"}
+{"en":"publish","kz":"жариялау"}
+{"en":"pull","kz":"тарту"}
+{"en":"purpose","kz":"мақсат"}
+{"en":"push","kz":"тарту"}
+{"en":"quality","kz":"сапа"}
+{"en":"quantity","kz":"мөлшер"}
+{"en":"queen","kz":"королева"}
+{"en":"question","kz":"сұрау"}
+{"en":"quietly","kz":"тыныш"}
+{"en":"race","kz":"жарыс"}
+{"en":"railroad","kz":"темір жол"}
+{"en":"raise","kz":"көтеру"}
+{"en":"rate","kz":"ставка"}
+{"en":"rather","kz":"дәл"}
+{"en":"reach","kz":"жету"}
+{"en":"react","kz":"жауап беру"}
+{"en":"realize","kz":"түсіну"}
+{"en":"receive","kz":"алу"}
+{"en":"recent","kz":"жақында болған"}
+{"en":"recently","kz":"жақында"}
+{"en":"reception","kz":"қабылдау"}
+{"en":"recipe","kz":"рецепт"}
+{"en":"recognize","kz":"тану"}
+{"en":"recommend","kz":"ұсыну"}
+{"en":"record","kz":"жазба"}
+{"en":"recording","kz":"жазба"}
+{"en":"recycle","kz":"қайта өңдеу"}
+{"en":"reduce","kz":"қысқарту"}
+{"en":"refer","kz":"сілтеме жасау"}
+{"en":"refrigerator","kz":"тоңазытқыш"}
+{"en":"refuse","kz":"бас тарту"}
+{"en":"region","kz":"аймақ"}
+{"en":"regular","kz":"тұрақты"}
+{"en":"relationship","kz":"қарым-қатынас"}
+{"en":"remove","kz":"алып тастау"}
+{"en":"repair","kz":"жөндеу"}
+{"en":"replace","kz":"ауыстыру"}
+{"en":"reply","kz":"жауап беру"}
+{"en":"report","kz":"хабарлау"}
+{"en":"reporter","kz":"репортер"}
+{"en":"request","kz":"сұрау"}
+{"en":"research","kz":"зерттеу"}
+{"en":"researcher","kz":"зерттеуші"}
+{"en":"respond","kz":"жауап беру"}
+{"en":"response","kz":"жауап"}
+{"en":"rest","kz":"демалыс, демалыс"}
+{"en":"review","kz":"шолу, қарау"}
+{"en":"ride","kz":"жүру, сапар"}
+{"en":"ring","kz":"сақина"}
+{"en":"rise","kz":"көтерілу"}
+{"en":"rock","kz":"жартас, тас"}
+{"en":"role","kz":"рөл"}
+{"en":"roof","kz":"шатыр"}
+{"en":"round","kz":"дөңгелек"}
+{"en":"route","kz":"бағыт"}
+{"en":"rude","kz":"дөрекі"}
+{"en":"run","kz":"жүгіріс"}
+{"en":"runner","kz":"жүгірмелі"}
+{"en":"running","kz":"жүгіру"}
+{"en":"sadly","kz":"қайғылы"}
+{"en":"safe","kz":"қауіпсіз"}
+{"en":"sail","kz":"жүзу"}
+{"en":"sailing","kz":"желкенді спорт"}
+{"en":"salary","kz":"жалақы"}
+{"en":"sale","kz":"сату"}
+{"en":"sauce","kz":"соус"}
+{"en":"save","kz":"құтқару"}
+{"en":"scared","kz":"қорқынышты"}
+{"en":"scary","kz":"қорқынышты"}
+{"en":"scene","kz":"көрініс"}
+{"en":"schedule","kz":"кесте"}
+{"en":"score","kz":"гол соғу, есеп"}
+{"en":"screen","kz":"экран"}
+{"en":"sea","kz":"теңіз"}
+{"en":"search","kz":"іздеу"}
+{"en":"season","kz":"маусым"}
+{"en":"seat","kz":"орын"}
+{"en":"second","kz":"екіншіден"}
+{"en":"secret","kz":"құпия"}
+{"en":"secretary","kz":"хатшы"}
+{"en":"seem","kz":"көріну"}
+{"en":"sense","kz":"сезім, мағына"}
+{"en":"separate","kz":"бөлек"}
+{"en":"series","kz":"серия"}
+{"en":"serious","kz":"байсалды"}
+{"en":"serve","kz":"қызмет көрсету"}
+{"en":"service","kz":"қызмет"}
+{"en":"several","kz":"бірнеше"}
+{"en":"shake","kz":"сілку"}
+{"en":"shape","kz":"пішін"}
+{"en":"sheet","kz":"жапқыш, парақ"}
+{"en":"ship","kz":"кеме"}
+{"en":"shoulder","kz":"іскерлік жаныс"}
+{"en":"shout","kz":"айқайлау"}
+{"en":"shut","kz":"жабу"}
+{"en":"side","kz":"жақ, бүйір"}
+{"en":"sign","kz":"белгі, қол қою"}
+{"en":"silver","kz":"күміс"}
+{"en":"simple","kz":"қарапайым"}
+{"en":"since","kz":"бері, себебі"}
+{"en":"singing","kz":"ән айту"}
+{"en":"single","kz":"жалғыз, жалқы"}
+{"en":"sir","kz":"сэр, мырза"}
+{"en":"site","kz":"сайт, орын"}
+{"en":"size","kz":"өлшем"}
+{"en":"ski","kz":"шаңғымен сырғанау"}
+{"en":"skiing","kz":"шаңғы тебу"}
+{"en":"skin","kz":"тері"}
+{"en":"sky","kz":"аспан"}
+{"en":"sleep","kz":"ұйқы"}
+{"en":"slowly","kz":"баяу"}
+{"en":"smartphone","kz":"смартфон"}
+{"en":"smell","kz":"иіс, иіс сезу"}
+{"en":"smile","kz":"күлімдеу"}
+{"en":"smoke","kz":"түтін, темекі шегу"}
+{"en":"smoking","kz":"темекі шегу"}
+{"en":"sneaker","kz":"кросовка"}
+{"en":"soap","kz":"сабын"}
+{"en":"soccer","kz":"футбол"}
+{"en":"social","kz":"әлеуметтік"}
+{"en":"society","kz":"қоғам"}
+{"en":"sock","kz":"шұлық"}
+{"en":"soft","kz":"жұмсақ"}
+{"en":"soldier","kz":"жауынгер"}
+{"en":"solution","kz":"шешім"}
+{"en":"solve","kz":"шешу"}
+{"en":"somewhere","kz":"бір жерде"}
+{"en":"sort","kz":"түр, сұрыптау"}
+{"en":"source","kz":"көз, дереккөз"}
+{"en":"speaker","kz":"сөйлеуші, дауыс зорайтқыш"}
+{"en":"specific","kz":"нақты"}
+{"en":"speech","kz":"сөйлеу"}
+{"en":"speed","kz":"жылдамдық"}
+{"en":"spider","kz":"өрмекші"}
+{"en":"spoon","kz":"қасық"}
+{"en":"square","kz":"шаршы"}
+{"en":"stage","kz":"кезең, сахна"}
+{"en":"stair","kz":"баспалдақ"}
+{"en":"stamp","kz":"марка"}
+{"en":"star","kz":"жұлдыз, басты рөлде ойнау"}
+{"en":"start","kz":"бастау"}
+{"en":"state","kz":"штат, күй"}
+{"en":"stay","kz":"болу, тұру"}
+{"en":"steal","kz":"ұрлау"}
+{"en":"step","kz":"қадам"}
+{"en":"stomach","kz":"асқазан"}
+{"en":"stone","kz":"тас"}
+{"en":"storm","kz":"дауыл"}
+{"en":"stove","kz":"пеш"}
+{"en":"straight","kz":"жақсы"}
+{"en":"strange","kz":"бөтен, біртүрлі"}
+{"en":"strategy","kz":"стратегия"}
+{"en":"stress","kz":"стресс"}
+{"en":"structure","kz":"құрылым"}
+{"en":"stupid","kz":"ақымақ"}
+{"en":"subway","kz":"метро"}
+{"en":"succeed","kz":"табысқа жету"}
+{"en":"successful","kz":"табысты"}
+{"en":"such","kz":"сондай, осындай"}
+{"en":"suddenly","kz":"кенеттен"}
+{"en":"suggest","kz":"ұсыну"}
+{"en":"suggestion","kz":"ұсыныс"}
+{"en":"suit","kz":"костюм"}
+{"en":"support","kz":"қолдау"}
+{"en":"suppose","kz":"болжау, ойлау"}
+{"en":"sure","kz":"әрине, сөзсіз"}
+{"en":"surprise","kz":"тосын"}
+{"en":"surprised","kz":"таң қалған"}
+{"en":"surprising","kz":"таңғаларлық"}
+{"en":"survey","kz":"сауалнама"}
+{"en":"sweet","kz":"тәтті"}
+{"en":"symbol","kz":"символ"}
+{"en":"system","kz":"жүйе"}
+{"en":"tablet","kz":"планшет"}
+{"en":"talk","kz":"сөйлесу, әңгіме"}
+{"en":"target","kz":"мақсат, нысана"}
+{"en":"task","kz":"тапсырма"}
+{"en":"taste","kz":"дәм, дәмін тату"}
+{"en":"teaching","kz":"оқыту"}
+{"en":"technology","kz":"технология"}
+{"en":"teenage","kz":"жасөспірімдік"}
+{"en":"temperature","kz":"температура"}
+{"en":"term","kz":"термин"}
+{"en":"text","kz":"жазу"}
+{"en":"themselves","kz":"өздері"}
+{"en":"thick","kz":"қалың"}
+{"en":"thief","kz":"ұры"}
+{"en":"thin","kz":"жіңішке"}
+{"en":"thinking","kz":"ойлау"}
+{"en":"third","kz":"үшінші тарап"}
+{"en":"thought","kz":"ой"}
+{"en":"throw","kz":"лақтыру"}
+{"en":"tie","kz":"байлау"}
+{"en":"tip","kz":"кеңес"}
+{"en":"tool","kz":"құрал"}
+{"en":"top","kz":"жоғарғы"}
+{"en":"touch","kz":"ұстау"}
+{"en":"tour","kz":"тур"}
+{"en":"tourism","kz":"туризм"}
+{"en":"toward","kz":"қарай"}
+{"en":"towel","kz":"сүлгі"}
+{"en":"tower","kz":"мұнара"}
+{"en":"toy","kz":"ойыншық"}
+{"en":"track","kz":"із"}
+{"en":"tradition","kz":"дәстүр"}
+{"en":"traditional","kz":"дәстүрлі"}
+{"en":"train","kz":"жаттықтыру"}
+{"en":"training","kz":"жаттығу"}
+{"en":"transportation","kz":"көлік"}
+{"en":"trash","kz":"қоқыс"}
+{"en":"traveler","kz":"саяхатшы"}
+{"en":"trouble","kz":"қиындық"}
+{"en":"twin","kz":"егіз"}
+{"en":"typical","kz":"типтік"}
+{"en":"underground","kz":"жер асты"}
+{"en":"understanding","kz":"түсінік"}
+{"en":"unfortunately","kz":"өкінішке орай"}
+{"en":"unhappy","kz":"бақытсыз"}
+{"en":"uniform","kz":"форма"}
+{"en":"unit","kz":"бірлік"}
+{"en":"united","kz":"біріккен"}
+{"en":"unusual","kz":"ерекше"}
+{"en":"upstairs","kz":"жоғарғы қабаттағы"}
+{"en":"use","kz":"қолдану"}
+{"en":"used to","kz":"әдетте, бұрын жасаған"}
+{"en":"user","kz":"пайдаланушы"}
+{"en":"usual","kz":"әдеттегі"}
+{"en":"valley","kz":"аналық"}
+{"en":"variety","kz":"әртүрлілік"}
+{"en":"vehicle","kz":"көлік құралы"}
+{"en":"view","kz":"көрініс, көзқарас"}
+{"en":"village","kz":"ауыл"}
+{"en":"virus","kz":"вирус"}
+{"en":"voice","kz":"дауыс"}
+{"en":"wait","kz":"күту"}
+{"en":"war","kz":"соғыс"}
+{"en":"wash","kz":"жуу"}
+{"en":"washing","kz":"кір жуу"}
+{"en":"wave","kz":"толқын"}
+{"en":"weak","kz":"әлсіз"}
+{"en":"web","kz":"желі"}
+{"en":"wedding","kz":"үйлену тойы"}
+{"en":"weight","kz":"салмақ"}
+{"en":"welcome","kz":"қарсы алу, қош келдіңіз"}
+{"en":"wet","kz":"дымқыл"}
+{"en":"wheel","kz":"дөңгелек"}
+{"en":"while","kz":"кезде, әлде"}
+{"en":"whole","kz":"толық, бүтін"}
+{"en":"whose","kz":"кімнің"}
+{"en":"wide","kz":"кең"}
+{"en":"wild","kz":"жабайы"}
+{"en":"wind","kz":"жел"}
+{"en":"winner","kz":"жеңімпаз"}
+{"en":"wish","kz":"тілек, тілеу"}
+{"en":"wood","kz":"ағаш (материал)"}
+{"en":"wooden","kz":"ағаштан жасалған"}
+{"en":"working","kz":"жұмыстық"}
+{"en":"worried","kz":"мазасыз"}
+{"en":"worry","kz":"уайымдау"}
+{"en":"worse","kz":"жамандау"}
+{"en":"worst","kz":"ең жаманы"}
+{"en":"wow","kz":"өте жақсы!"}
+{"en":"yet","kz":"әлі, бірақ"}
+{"en":"yours","kz":"сенікі, сіздікі"}
+{"en":"zero","kz":"нөл"}
+{"en":"absolutely","kz":"мүлдем"}
+{"en":"academic","kz":"академиялық"}
+{"en":"access","kz":"қатынау, қолжетімділік"}
+{"en":"account","kz":"есеп, аккаунт"}
+{"en":"achievement","kz":"жетістік"}
+{"en":"act","kz":"әрекет, акт"}
+{"en":"ad","kz":"жарнама"}
+{"en":"addition","kz":"қосымша, қосу"}
+{"en":"administration","kz":"әкімшілік"}
+{"en":"admire","kz":"сүйсіну"}
+{"en":"admit","kz":"мойындау"}
+{"en":"advanced","kz":"озық"}
+{"en":"advise","kz":"кеңес беру"}
+{"en":"afford","kz":"көтере алу, бере алу"}
+{"en":"age","kz":"қартаю, ескіру"}
+{"en":"agent","kz":"агент"}
+{"en":"agreement","kz":"келісім"}
+{"en":"ahead","kz":"алда"}
+{"en":"aim","kz":"мақсат, бағыттау"}
+{"en":"alarm","kz":"дабыл, қауіп"}
+{"en":"album","kz":"альбом"}
+{"en":"alcohol","kz":"алкоголь"}
+{"en":"alcoholic","kz":"алкогоольді"}
+{"en":"alternative","kz":"баламалы"}
+{"en":"amazed","kz":"таң қалған"}
+{"en":"ambition","kz":"мақсат, ниет"}
+{"en":"analysis","kz":"талдау"}
+{"en":"announce","kz":"жариялау"}
+{"en":"announcement","kz":"хабарландыру"}
+{"en":"annoy","kz":"мазалау, ашуландыру"}
+{"en":"annoyed","kz":"ашуланған"}
+{"en":"annoying","kz":"мазасыздандыратын"}
+{"en":"apart","kz":"бөлек, аралық"}
+{"en":"apologize","kz":"кешірім сұрау"}
+{"en":"application","kz":"өтініш, қосымша"}
+{"en":"appointment","kz":"тағайындау, кездесу"}
+{"en":"appreciate","kz":"бағалау"}
+{"en":"approximately","kz":"шамамен"}
+{"en":"arrest","kz":"қамау, тұтқындау"}
+{"en":"arrival","kz":"келу, жету"}
+{"en":"assignment","kz":"тапсырма"}
+{"en":"assist","kz":"көмектесу"}
+{"en":"atmosphere","kz":"атмосфера"}
+{"en":"attach","kz":"бекіту, қосылу"}
+{"en":"attitude","kz":"көзқарас"}
+{"en":"attract","kz":"тарту"}
+{"en":"attraction","kz":"тартымдылық, аттракцион"}
+{"en":"authority","kz":"билік, ықпал"}
+{"en":"automatic","kz":"автоматты"}
+{"en":"automatically","kz":"автоматты түрде"}
+{"en":"average","kz":"орташа есеппен"}
+{"en":"award","kz":"марапаттау"}
+{"en":"aware","kz":"хабардар"}
+{"en":"backward","kz":"кері, артқа"}
+{"en":"bake","kz":"пісіру, жапсыру"}
+{"en":"balance","kz":"тепе-теңдік"}
+{"en":"ban","kz":"тыйым салу"}
+{"en":"bank","kz":"жаға (өзен)"}
+{"en":"base","kz":"негіз, негіздеу"}
+{"en":"basic","kz":"негізгі"}
+{"en":"basis","kz":"негіз"}
+{"en":"battery","kz":"батарея"}
+{"en":"battle","kz":"шайқас"}
+{"en":"beauty","kz":"сұлулық"}
+{"en":"bee","kz":"ара"}
+{"en":"belief","kz":"сенім"}
+{"en":"bell","kz":"қоңырау"}
+{"en":"bend","kz":"майысу"}
+{"en":"benefit","kz":"пайда әкелу"}
+{"en":"better","kz":"жақсырақ нәрсе"}
+{"en":"bite","kz":"тістеу"}
+{"en":"block","kz":"бұғаттау"}
+{"en":"board","kz":"бортқа отыру"}
+{"en":"bomb","kz":"бомба"}
+{"en":"border","kz":"шекара"}
+{"en":"bother","kz":"мазалау"}
+{"en":"branch","kz":"бұтақ"}
+{"en":"brand","kz":"бренд"}
+{"en":"brave","kz":"батыл"}
+{"en":"breath","kz":"дем"}
+{"en":"breathe","kz":"дем алу"}
+{"en":"breathing","kz":"тыныс алу"}
+{"en":"bride","kz":"қалыңдық"}
+{"en":"bubble","kz":"көпіршік"}
+{"en":"bury","kz":"көму"}
+{"en":"by","kz":"жанынан"}
+{"en":"cable","kz":"кабель"}
+{"en":"calm","kz":"тыныш"}
+{"en":"campaign","kz":"науқан"}
+{"en":"candidate","kz":"үміткер"}
+{"en":"cap","kz":"бас киім"}
+{"en":"captain","kz":"капитан"}
+{"en":"careless","kz":"абайсыз"}
+{"en":"category","kz":"санат"}
+{"en":"ceiling","kz":"төбе"}
+{"en":"celebration","kz":"мерейтой"}
+{"en":"center","kz":"орталық"}
+{"en":"central","kz":"орталық"}
+{"en":"ceremony","kz":"салтанат, рәсім"}
+{"en":"chain","kz":"тізбек"}
+{"en":"challenge","kz":"сын, сынау"}
+{"en":"champion","kz":"чемпион"}
+{"en":"channel","kz":"арна"}
+{"en":"chapter","kz":"тарау"}
+{"en":"charge","kz":"заряд, айып, төлем"}
+{"en":"cheap","kz":"арзан"}
+{"en":"cheat","kz":"алдау"}
+{"en":"cheerful","kz":"көңілді"}
+{"en":"chemical","kz":"химиялық, химикат"}
+{"en":"chest","kz":"кеуде, сандық"}
+{"en":"childhood","kz":"балалық шақ"}
+{"en":"claim","kz":"талап ету, мәлімдеу"}
+{"en":"clause","kz":"тармақ, шарт"}
+{"en":"clear","kz":"тазарту"}
+{"en":"clever","kz":"ақылды"}
+{"en":"click","kz":"басу, шерту"}
+{"en":"client","kz":"клиент"}
+{"en":"climb","kz":"өрмелеу, көтерілу"}
+{"en":"close","kz":"жақын, тығыз"}
+{"en":"cloth","kz":"мата"}
+{"en":"clue","kz":"айғақ, нұсқау"}
+{"en":"coach","kz":"жаттықтыру"}
+{"en":"coal","kz":"көмір"}
+{"en":"coin","kz":"монета"}
+{"en":"collection","kz":"жинау"}
+{"en":"colored","kz":"түстік"}
+{"en":"combine","kz":"біріктіру"}
+{"en":"comment","kz":"пікір айту"}
+{"en":"commercial","kz":"жарнама"}
+{"en":"commit","kz":"жазу, тапсыру"}
+{"en":"communication","kz":"байланыс"}
+{"en":"comparison","kz":"салыстыру"}
+{"en":"competitive","kz":"бәсекеге қабілетті"}
+{"en":"competitor","kz":"бәсекелес"}
+{"en":"complaint","kz":"шағым"}
+{"en":"complex","kz":"күрделі"}
+{"en":"concentrate","kz":"шоғырлану"}
+{"en":"conclude","kz":"қорытындылау"}
+{"en":"conclusion","kz":"қорытынды"}
+{"en":"confident","kz":"сенімді"}
+{"en":"confirm","kz":"растау"}
+{"en":"confuse","kz":"шатастыру"}
+{"en":"confused","kz":"шатасқан"}
+{"en":"connection","kz":"байланыс"}
+{"en":"consequence","kz":"салдар"}
+{"en":"consist","kz":"тұру"}
+{"en":"consume","kz":"тұтыну"}
+{"en":"consumer","kz":"тұтынушы"}
+{"en":"contact","kz":"байланыс"}
+{"en":"container","kz":"контейнер"}
+{"en":"content","kz":"мазмұн"}
+{"en":"continuous","kz":"үздіксіз"}
+{"en":"contrast","kz":"қарама-қарсылық"}
+{"en":"convenient","kz":"қолайлы"}
+{"en":"convince","kz":"сендіру"}
+{"en":"cool","kz":"салқындату"}
+{"en":"corn","kz":"жүгері"}
+{"en":"costume","kz":"костюм"}
+{"en":"cotton","kz":"мақта"}
+{"en":"count","kz":"есеп, граф"}
+{"en":"countryside","kz":"ауылдық жер"}
+{"en":"court","kz":"сот, корт"}
+{"en":"cover","kz":"мұқаба"}
+{"en":"covered","kz":"жабылған"}
+{"en":"cream","kz":"кремді"}
+{"en":"criminal","kz":"қылмыстық"}
+{"en":"cruel","kz":"мейірімсіз"}
+{"en":"cultural","kz":"мәдени"}
+{"en":"cupboard","kz":"шкаф"}
+{"en":"currency","kz":"валюта"}
+{"en":"current","kz":"ағымдағы"}
+{"en":"currently","kz":"қазіргі уақытта"}
+{"en":"curtain","kz":"перде"}
+{"en":"custom","kz":"салт-дәстүр, тапсырыс"}
+{"en":"cut","kz":"кесілген, қысқарту"}
+{"en":"daily","kz":"күн сайын"}
+{"en":"damage","kz":"зиян, зақымдау"}
+{"en":"deal","kz":"мәміле"}
+{"en":"decade","kz":"онжылдық"}
+{"en":"deep","kz":"терең"}
+{"en":"define","kz":"анықтау"}
+{"en":"definite","kz":"белгілі"}
+{"en":"definition","kz":"анықтама"}
+{"en":"deliver","kz":"жеткізу"}
+{"en":"departure","kz":"басып шығу"}
+{"en":"despite","kz":"қарамастан"}
+{"en":"destination","kz":"бағыт"}
+{"en":"determine","kz":"анықтау"}
+{"en":"determined","kz":"шешімді"}
+{"en":"development","kz":"даму"}
+{"en":"diagram","kz":"диаграмма"}
+{"en":"diamond","kz":"алмаз"}
+{"en":"difficulty","kz":"қиындық"}
+{"en":"direct","kz":"бағыттау"}
+{"en":"directly","kz":"тура, тікелей"}
+{"en":"dirt","kz":"кір"}
+{"en":"disadvantage","kz":"кемшілік"}
+{"en":"disappointed","kz":"көңілі қалған"}
+{"en":"disappointing","kz":"көңілсіз"}
+{"en":"discount","kz":"жеңілдік"}
+{"en":"dislike","kz":"ұнатпау"}
+{"en":"district","kz":"аудан"}
+{"en":"divide","kz":"бөлу"}
+{"en":"documentary","kz":"деректі фильм"}
+{"en":"donat","kz":"сыйға тарту"}
+{"en":"double","kz":"екі есе"}
+{"en":"doubt","kz":"күмән"}
+{"en":"dressed","kz":"киінген"}
+{"en":"drop","kz":"тамшы, құлау"}
+{"en":"drum","kz":"барабан"}
+{"en":"drunk","kz":"мас"}
+{"en":"due","kz":"тиісті, күтілетін"}
+{"en":"dust","kz":"шаң"}
+{"en":"duty","kz":"борыш"}
+{"en":"earthquake","kz":"жер сілкінісі"}
+{"en":"eastern","kz":"шығыстық"}
+{"en":"economic","kz":"экономикалық"}
+{"en":"economy","kz":"экономика"}
+{"en":"edge","kz":"шет, жиек"}
+{"en":"editor","kz":"редактор"}
+{"en":"educate","kz":"оқыту"}
+{"en":"educated","kz":"білімді"}
+{"en":"educational","kz":"білім беру"}
+{"en":"effective","kz":"тиімді"}
+{"en":"effectively","kz":"тиімді"}
+{"en":"effort","kz":"күш-жігер"}
+{"en":"election","kz":"сайлау"}
+{"en":"element","kz":"элемент"}
+{"en":"embarrassed","kz":"ұялған"}
+{"en":"embarrassing","kz":"ұялтарлық"}
+{"en":"emergency","kz":"авариялық жағдай"}
+{"en":"emotion","kz":"эмоция"}
+{"en":"employment","kz":"жұмыспен қамту"}
+{"en":"empty","kz":"босату"}
+{"en":"encourage","kz":"одан әрі жігерлендіру"}
+{"en":"enemy","kz":"жау"}
+{"en":"engaged","kz":"атастырылған"}
+{"en":"engineering","kz":"инженерия"}
+{"en":"entertain","kz":"көңіл көтеру"}
+{"en":"entertainment","kz":"көңіл көтеру"}
+{"en":"entrance","kz":"кіріс"}
+{"en":"entry","kz":"кіру, жазба"}
+{"en":"environmental","kz":"экологиялық"}
+{"en":"episode","kz":"эпизод"}
+{"en":"equal","kz":"тең болу"}
+{"en":"equally","kz":"әділ, біршама"}
+{"en":"escape","kz":"қашу"}
+{"en":"essential","kz":"маңызды"}
+{"en":"eventually","kz":"соңында"}
+{"en":"examine","kz":"зерттеу"}
+{"en":"except","kz":"басқа"}
+{"en":"exchange","kz":"алмасу"}
+{"en":"excitement","kz":"толқу"}
+{"en":"exhibition","kz":"көрме"}
+{"en":"exit","kz":"шығу"}
+{"en":"expand","kz":"кеңейту"}
+{"en":"expected","kz":"күтілетін"}
+{"en":"experience","kz":"бастан кешіру"}
+{"en":"experienced","kz":"тәжірибелі"}
+{"en":"experiment","kz":"тәжірибе жасау"}
+{"en":"explode","kz":"жарылу"}
+{"en":"explore","kz":"зерттеу"}
+{"en":"explosion","kz":"жарылыс"}
+{"en":"export","kz":"экспорт"}
+{"en":"extra","kz":"қосымша"}
+{"en":"face","kz":"кездесу"}
+{"en":"fairly","kz":"әділ, біршама"}
+{"en":"familiar","kz":"таныс"}
+{"en":"fancy","kz":"сәнді, ерекше"}
+{"en":"far","kz":"алыстағы"}
+{"en":"fascinating","kz":"қызықты"}
+{"en":"fashionable","kz":"сәнді"}
+{"en":"fasten","kz":"бекіту"}
+{"en":"favor","kz":"жақсылық"}
+{"en":"fear","kz":"қорқыну"}
+{"en":"feature","kz":"сипаттау, қосу"}
+{"en":"federal","kz":"федералды"}
+{"en":"fence","kz":"қоршау"}
+{"en":"fighting","kz":"күрес"}
+{"en":"file","kz":"файл, папка"}
+{"en":"financial","kz":"қаржылық"}
+{"en":"fitness","kz":"фитнес"}
+{"en":"fixed","kz":"белгіленген"}
+{"en":"flag","kz":"ту"}
+{"en":"flood","kz":"су тасқыны"}
+{"en":"flour","kz":"ұн"}
+{"en":"flow","kz":"ағу, ағыс"}
+{"en":"fold","kz":"бүктеу"}
+{"en":"folk","kz":"халық, халықтық"}
+{"en":"following","kz":"ілесу, ізбасарлар"}
+{"en":"force","kz":"күш, мәжбүрлеу"}
+{"en":"forever","kz":"мәңгілікке"}
+{"en":"frame","kz":"жақтау, қоршау"}
+{"en":"freeze","kz":"мұздату"}
+{"en":"frequently","kz":"жиі"}
+{"en":"friendship","kz":"достық"}
+{"en":"frighten","kz":"қорқыту"}
+{"en":"frightened","kz":"қорқып"}
+{"en":"frightening","kz":"қорқынышты"}
+{"en":"frozen","kz":"мұздатылған"}
+{"en":"fry","kz":"қуыру"}
+{"en":"fuel","kz":"отын"}
+{"en":"function","kz":"функция"}
+{"en":"fur","kz":"жүн"}
+{"en":"further","kz":"өткізбегі, соңына дейін"}
+{"en":"garage","kz":"гараж"}
+{"en":"gather","kz":"жинау"}
+{"en":"generally","kz":"жалпы"}
+{"en":"generation","kz":"ұрпақ"}
+{"en":"generous","kz":"жомарт"}
+{"en":"gentle","kz":"жұмсақ, мейірімді"}
+{"en":"gentleman","kz":"мырза"}
+{"en":"ghost","kz":"елес"}
+{"en":"giant","kz":"алып"}
+{"en":"glad","kz":"қуанышты"}
+{"en":"global","kz":"жаһандық"}
+{"en":"glove","kz":"қолғап"}
+{"en":"go","kz":"әрекет, қадам"}
+{"en":"grade","kz":"сынып, баға, деңгей"}
+{"en":"graduate","kz":"түлек, бітіру"}
+{"en":"grain","kz":"дәнді дақыл"}
+{"en":"grateful","kz":"алғысты"}
+{"en":"growth","kz":"өсу"}
+{"en":"guard","kz":"күзет"}
+{"en":"guilty","kz":"кінәлі"}
+{"en":"hand","kz":"беру, тапсыру"}
+{"en":"hang","kz":"ілу"}
+{"en":"happiness","kz":"бақыт"}
+{"en":"hardly","kz":"әрең"}
+{"en":"hate","kz":"жеккөрушілік"}
+{"en":"head","kz":"бағыт алу"}
+{"en":"headline","kz":"атау, басты тақырып"}
+{"en":"heating","kz":"жылыту"}
+{"en":"heavily","kz":"қатты, ауыр"}
+{"en":"helicopter","kz":"тікұшақ"}
+{"en":"highlight","kz":"ерекшелеу"}
+{"en":"highly","kz":"өте, жоғары"}
+{"en":"highway","kz":"тас жол"}
+{"en":"hire","kz":"жалдау"}
+{"en":"historic","kz":"тарихи"}
+{"en":"historical","kz":"тарихи"}
+{"en":"honest","kz":"шыншыл"}
+{"en":"horrible","kz":"жаман, аянышты"}
+{"en":"horror","kz":"үрей, қорқыныш"}
+{"en":"host","kz":"ие"}
+{"en":"hunt","kz":"аң аулау"}
+{"en":"hurricane","kz":"дауыл"}
+{"en":"hurry","kz":"асығыс"}
+{"en":"identity","kz":"тұлғалық"}
+{"en":"ignore","kz":"ескермеу"}
+{"en":"illegal","kz":"заңсыз"}
+{"en":"imaginary","kz":"қиялдағы"}
+{"en":"immediate","kz":"жедел"}
+{"en":"immigrant","kz":"иммигрант"}
+{"en":"impact","kz":"ықпал, әсер ету"}
+{"en":"import","kz":"импорт"}
+{"en":"importance","kz":"маңыздылық"}
+{"en":"impression","kz":"әсер, әсер"}
+{"en":"impressive","kz":"әсерлі"}
+{"en":"improvement","kz":"жақсарту"}
+{"en":"incredibly","kz":"керемет"}
+{"en":"indeed","kz":"шынында"}
+{"en":"indicate","kz":"көрсету"}
+{"en":"indirect","kz":"жанама"}
+{"en":"indoor","kz":"үй ішілік"}
+{"en":"indoors","kz":"үй ішінде"}
+{"en":"influence","kz":"ықпал, әсер ету"}
+{"en":"ingredient","kz":"құрамдас"}
+{"en":"injure","kz":"жаралау"}
+{"en":"injured","kz":"жараланған"}
+{"en":"innocent","kz":"күнәсіз"}
+{"en":"intelligence","kz":"ақыл"}
+{"en":"intend","kz":"ниеттену"}
+{"en":"intention","kz":"ниет"}
+{"en":"invest","kz":"инвестициялау"}
+{"en":"investigate","kz":"тергеу"}
+{"en":"involved","kz":"қатысқан"}
+{"en":"iron","kz":"үтік, темір"}
+{"en":"issue","kz":"мәселе, шығарылым"}
+{"en":"IT","kz":"ақпараттық технология"}
+{"en":"journal","kz":"журнал, күнделік"}
+{"en":"journey","kz":"саяхат"}
+{"en":"judge","kz":"судья, бағалау"}
+{"en":"key","kz":"мәтінді енгізу"}
+{"en":"keyboard","kz":"пернетақта"}
+{"en":"kick","kz":"тебу"}
+{"en":"killing","kz":"өлтіру"}
+{"en":"kind","kz":"мейірімді"}
+{"en":"kiss","kz":"сүю"}
+{"en":"knock","kz":"соғу, қағу"}
+{"en":"label","kz":"жапсырма"}
+{"en":"laboratory","kz":"зертхана"}
+{"en":"lack","kz":"жетіспеушілік"}
+{"en":"latest","kz":"соңғы"}
+{"en":"lay","kz":"қою"}
+{"en":"layer","kz":"қабат"}
+{"en":"lead","kz":"жетекшілік, қорғасын"}
+{"en":"leading","kz":"жетекші"}
+{"en":"leaf","kz":"жапырақ"}
+{"en":"leather","kz":"тері"}
+{"en":"legal","kz":"заңды"}
+{"en":"leisure","kz":"бос уақыт"}
+{"en":"length","kz":"ұзындық"}
+{"en":"level","kz":"деңгейлік"}
+{"en":"lie","kz":"өтірік айту"}
+{"en":"like","kz":"лайк"}
+{"en":"limit","kz":"шек, шектеу"}
+{"en":"lip","kz":"ерін"}
+{"en":"liquid","kz":"сұйықтық"}
+{"en":"literature","kz":"әдебиет"}
+{"en":"live","kz":"тікелей эфир"}
+{"en":"living","kz":"тіршілік, өмір"}
+{"en":"local","kz":"жергілікті тұрғын"}
+{"en":"locate","kz":"орналастыру"}
+{"en":"located","kz":"орналасқан"}
+{"en":"location","kz":"орналасу"}
+{"en":"lonely","kz":"жалғыз"}
+{"en":"loss","kz":"жоғалту, шығын"}
+{"en":"luxury","kz":"сән-салтанат"}
+{"en":"mad","kz":"есер, ашулы"}
+{"en":"magic","kz":"сиқыр"}
+{"en":"mainly","kz":"негізінен"}
+{"en":"management","kz":"басқару"}
+{"en":"market","kz":"өткізу"}
+{"en":"marketing","kz":"маркетинг"}
+{"en":"marriage","kz":"бейбітшілік"}
+{"en":"meanwhile","kz":"мәжұра, кезінде"}
+{"en":"measure","kz":"өлшеу"}
+{"en":"medium","kz":"орташа"}
+{"en":"mental","kz":"ақыл-ой"}
+{"en":"mention","kz":"еске алу"}
+{"en":"mess","kz":"бұлт"}
+{"en":"mild","kz":"жұмсақ"}
+{"en":"mine","kz":"мінем"}
+{"en":"mix","kz":"араластыру"}
+{"en":"mixture","kz":"қоспа"}
+{"en":"mood","kz":"көңіл-күй"}
+{"en":"move","kz":"қадам, қозғалыс"}
+{"en":"mud","kz":"батпақ"}
+{"en":"murder","kz":"кісі өлтіру"}
+{"en":"muscle","kz":"бұлшық ет"}
+{"en":"musical","kz":"мұздық"}
+{"en":"mystery","kz":"жұмбақ"}
+{"en":"nail","kz":"шеге, тырнақ"}
+{"en":"narrative","kz":"әңгіме, баяндау"}
+{"en":"nation","kz":"ұлт"}
+{"en":"native","kz":"тұрғын"}
+{"en":"naturally","kz":"табиғи"}
+{"en":"neat","kz":"ұқыпты"}
+{"en":"necessarily","kz":"міндетті түрде"}
+{"en":"need","kz":"қажеттілік"}
+{"en":"needle","kz":"ішкіңерек, қысым"}
+{"en":"neither","kz":"да, де емес"}
+{"en":"net","kz":"тор"}
+{"en":"next","kz":"келесі"}
+{"en":"nor","kz":"жоқ"}
+{"en":"normal","kz":"нормалы"}
+{"en":"northern","kz":"солтүстік"}
+{"en":"note","kz":"ескерту"}
+{"en":"now","kz":"енді"}
+{"en":"nuclear","kz":"ядролық"}
+{"en":"obvious","kz":"анық"}
+{"en":"occur","kz":"болады"}
+{"en":"odd","kz":"тақ"}
+{"en":"official","kz":"ресми"}
+{"en":"old-fashioned","kz":"ескірген"}
+{"en":"once","kz":"бірде"}
+{"en":"operation","kz":"операция"}
+{"en":"organized","kz":"ұйымдасқан"}
+{"en":"organizer","kz":"ұйымдастырушы"}
+{"en":"original","kz":"түпнұсқа"}
+{"en":"originally","kz":"бастапқыда"}
+{"en":"ought","kz":"керектіңіміздік"}
+{"en":"ours","kz":"біздің"}
+{"en":"outdoor","kz":"ашық аспан астында"}
+{"en":"outdoors","kz":"ашық аспан астында"}
+{"en":"overseas","kz":"шетелдік"}
+{"en":"pack","kz":"қаптама"}
+{"en":"package","kz":"бума"}
+{"en":"painful","kz":"ауыратын"}
+{"en":"pale","kz":"боз"}
+{"en":"pan","kz":"таба"}
+{"en":"participate","kz":"қатысу"}
+{"en":"particularly","kz":"әсіресе"}
+{"en":"pass","kz":"өткізу"}
+{"en":"passion","kz":"құмарлық"}
+{"en":"path","kz":"жол"}
+{"en":"payment","kz":"төлем"}
+{"en":"peaceful","kz":"бейбіт"}
+{"en":"percentage","kz":"пайыз"}
+{"en":"perfectly","kz":"керемет"}
+{"en":"performance","kz":"өнер көрсету, тиімділік"}
+{"en":"personally","kz":"жеке"}
+{"en":"persuade","kz":"сендіру"}
+{"en":"photographer","kz":"фотограф"}
+{"en":"photography","kz":"фотография"}
+{"en":"pin","kz":"түйреуіш"}
+{"en":"pipe","kz":"құбыр"}
+{"en":"place","kz":"орналастыру"}
+{"en":"planning","kz":"жоспарлау"}
+{"en":"pleasant","kz":"жағымды"}
+{"en":"pleasure","kz":"рахат"}
+{"en":"plenty","kz":"көп"}
+{"en":"plot","kz":"сюжет"}
+{"en":"plus","kz":"қосымша"}
+{"en":"poem","kz":"өлең"}
+{"en":"poet","kz":"ақын"}
+{"en":"poetry","kz":"поэзия"}
+{"en":"point","kz":"көрсету"}
+{"en":"poison","kz":"улы"}
+{"en":"poisonous","kz":"улы"}
+{"en":"policy","kz":"саясат"}
+{"en":"political","kz":"саяси"}
+{"en":"politician","kz":"саясаткер"}
+{"en":"politics","kz":"саясат"}
+{"en":"port","kz":"порт"}
+{"en":"portrait","kz":"портрет"}
+{"en":"possibly","kz":"мүмкін"}
+{"en":"pot","kz":"қазан, горшок"}
+{"en":"pour","kz":"құю"}
+{"en":"poverty","kz":"кедейлік"}
+{"en":"powder","kz":"ұнтақ"}
+{"en":"powerful","kz":"күшті"}
+{"en":"practical","kz":"практикалық"}
+{"en":"pray","kz":"дұға ету"}
+{"en":"prayer","kz":"дұға"}
+{"en":"prediction","kz":"болжам"}
+{"en":"prepared","kz":"дайын"}
+{"en":"presentation","kz":"презентация"}
+{"en":"press","kz":"баспасөз, басу"}
+{"en":"pressure","kz":"қысым"}
+{"en":"pretend","kz":"кейіп таныту"}
+{"en":"previous","kz":"алдыңғы"}
+{"en":"previously","kz":"бұрын"}
+{"en":"priest","kz":"дін қызметкері"}
+{"en":"primary","kz":"бастапқы"}
+{"en":"prince","kz":"ханзада"}
+{"en":"princess","kz":"ханым"}
+{"en":"principal","kz":"негізгі"}
+{"en":"printing","kz":"басып шығару"}
+{"en":"prisoner","kz":"тұтқын"}
+{"en":"private","kz":"жеке"}
+{"en":"producer","kz":"продюсер"}
+{"en":"production","kz":"өндіріс"}
+{"en":"profession","kz":"кәсіп"}
+{"en":"profit","kz":"мүлік"}
+{"en":"program","kz":"бағдарлама"}
+{"en":"promote","kz":"тәрбиелеу"}
+{"en":"proper","kz":"құрметті"}
+{"en":"properly","kz":"құрметті ретінде"}
+{"en":"property","kz":"мәңгілік құқығы"}
+{"en":"protest","kz":"басшылыққа шығу"}
+{"en":"proud","kz":"мақтаншақты"}
+{"en":"prove","kz":"дәлелдеу"}
+{"en":"pull","kz":"тарту күші"}
+{"en":"punish","kz":"жазалау"}
+{"en":"punishment","kz":"жаза"}
+{"en":"push","kz":"итеру, басу"}
+{"en":"qualification","kz":"біліктілік"}
+{"en":"qualified","kz":"білікті"}
+{"en":"qualify","kz":"біліктілік беру"}
+{"en":"quit","kz":"шығу, тастау"}
+{"en":"quotation","kz":"дәйексөз"}
+{"en":"quote","kz":"дәйексөз келтіру"}
+{"en":"race","kz":"нәсіл"}
+{"en":"racing","kz":"жарыс"}
+{"en":"raise","kz":"көтерілім"}
+{"en":"range","kz":"диапазон"}
+{"en":"rare","kz":"сирек"}
+{"en":"rarely","kz":"сирекке қарамастан"}
+{"en":"reaction","kz":"реакция"}
+{"en":"reality","kz":"шындық"}
+{"en":"receipt","kz":"бұйрық"}
+{"en":"recommendation","kz":"сынып беруі\/сұраныс"}
+{"en":"reference","kz":"сілтеме"}
+{"en":"reflect","kz":"көрінуі\/қарау"}
+{"en":"regularly","kz":"жүйелі"}
+{"en":"reject","kz":"қабылдамау"}
+{"en":"relate","kz":"байланысты болу"}
+{"en":"related","kz":"байланысты"}
+{"en":"relation","kz":"қатынас"}
+{"en":"relative","kz":"туыс"}
+{"en":"relaxed","kz":"тыныш"}
+{"en":"relaxing","kz":"тыныштандыратын"}
+{"en":"release","kz":"шығару, босату"}
+{"en":"reliable","kz":"сенімді"}
+{"en":"religion","kz":"дін"}
+{"en":"religious","kz":"діни"}
+{"en":"remain","kz":"қалу"}
+{"en":"remind","kz":"еске салу"}
+{"en":"remote","kz":"алыс"}
+{"en":"rent","kz":"жалдау ақысы"}
+{"en":"repair","kz":"жөндеу"}
+{"en":"repeat","kz":"қайталау"}
+{"en":"repeated","kz":"қайталанатын"}
+{"en":"represent","kz":"өкілдік ету"}
+{"en":"request","kz":"сұрау, талап"}
+{"en":"require","kz":"талап ету"}
+{"en":"reservation","kz":"брондау"}
+{"en":"resource","kz":"ресурс"}
+{"en":"respect","kz":"құрмет"}
+{"en":"responsibility","kz":"жауапкершілік"}
+{"en":"responsible","kz":"жауапкершілік"}
+{"en":"result","kz":"нәтиже"}
+{"en":"retire","kz":"қабыршақтан шығу"}
+{"en":"retired","kz":"қабыршақтың қалған кезеңі"}
+{"en":"revise","kz":"көрсетулерді өзгерту"}
+{"en":"ring","kz":"сақина, қоңырау, ринг"}
+{"en":"risk","kz":"тәуекел"}
+{"en":"robot","kz":"робот"}
+{"en":"roll","kz":"домалау, орама"}
+{"en":"romantic","kz":"романтикалық"}
+{"en":"rope","kz":"арқан"}
+{"en":"rough","kz":"дөрекі, тегіс емес"}
+{"en":"row","kz":"қатар"}
+{"en":"royal","kz":"патшалық"}
+{"en":"rule","kz":"басқару, билік жүргізу"}
+{"en":"safety","kz":"қауіпсіздік"}
+{"en":"sail","kz":"желкен"}
+{"en":"sailor","kz":"матрос"}
+{"en":"sample","kz":"үлгі"}
+{"en":"sand","kz":"құм"}
+{"en":"scan","kz":"сканерлеу"}
+{"en":"scientific","kz":"ғылыми"}
+{"en":"script","kz":"сценарий"}
+{"en":"sculpture","kz":"мүсін"}
+{"en":"secondary","kz":"екінші дәрежелі"}
+{"en":"security","kz":"қауіпсіздік"}
+{"en":"seed","kz":"тұқым"}
+{"en":"sensible","kz":"парасатты"}
+{"en":"separate","kz":"бөлу"}
+{"en":"seriously","kz":"байыпты"}
+{"en":"servant","kz":"қызметші"}
+{"en":"set","kz":"жинақ"}
+{"en":"setting","kz":"параметр"}
+{"en":"sex","kz":"жыныс"}
+{"en":"sexual","kz":"жыныстық"}
+{"en":"shake","kz":"сілкініс"}
+{"en":"share","kz":"үлес"}
+{"en":"sharp","kz":"өткір"}
+{"en":"shelf","kz":"сөре"}
+{"en":"shell","kz":"қабық, снаряд"}
+{"en":"shift","kz":"ауысым"}
+{"en":"shine","kz":"жарқырау"}
+{"en":"shiny","kz":"жылтыр"}
+{"en":"shoot","kz":"ату, түсіру"}
+{"en":"shy","kz":"ұялшақ"}
+{"en":"sight","kz":"көру"}
+{"en":"signal","kz":"белгі беру"}
+{"en":"silent","kz":"тыныш"}
+{"en":"silly","kz":"ақымақ"}
+{"en":"similarity","kz":"ұқсастық"}
+{"en":"similarly","kz":"ұқсас"}
+{"en":"simply","kz":"жай"}
+{"en":"since","kz":"сол уақыттан бері"}
+{"en":"sink","kz":"батып кету"}
+{"en":"slave","kz":"құл"}
+{"en":"slice","kz":"тілім"}
+{"en":"slightly","kz":"сәл"}
+{"en":"slow","kz":"баяулату"}
+{"en":"smooth","kz":"тегіс"}
+{"en":"software","kz":"бағдарламалық жасақтама"}
+{"en":"soil","kz":"топырақ"}
+{"en":"solid","kz":"қатты, берік"}
+{"en":"sort","kz":"сұрыптау"}
+{"en":"southern","kz":"оңтүстіктік"}
+{"en":"specifically","kz":"нақты"}
+{"en":"spending","kz":"шығын"}
+{"en":"spicy","kz":"ащы"}
+{"en":"spirit","kz":"рух"}
+{"en":"spoken","kz":"ауызша"}
+{"en":"spot","kz":"дақ, орын"}
+{"en":"spread","kz":"тарату"}
+{"en":"spring","kz":"секіру, серіппе"}
+{"en":"stadium","kz":"стадион"}
+{"en":"staff","kz":"персонал"}
+{"en":"standard","kz":"стандарт"}
+{"en":"state","kz":"мемлекеттік, мәлімдеу"}
+{"en":"statistic","kz":"статистика"}
+{"en":"statue","kz":"мүсін"}
+{"en":"stick","kz":"жабыстыру"}
+{"en":"still","kz":"тыныш"}
+{"en":"store","kz":"сақтау"}
+{"en":"stranger","kz":"бейтаныс адам"}
+{"en":"strength","kz":"күш"}
+{"en":"string","kz":"жол, ішек"}
+{"en":"strongly","kz":"қатты, күшті"}
+{"en":"studio","kz":"студия"}
+{"en":"stuff","kz":"заттар, материал"}
+{"en":"substance","kz":"зат"}
+{"en":"successfully","kz":"сәтті"}
+{"en":"sudden","kz":"жаңа"}
+{"en":"suffer","kz":"тұрмысына қарсы шығу"}
+{"en":"suit","kz":"қолдануға бейімділік"}
+{"en":"suitable","kz":"тиімді"}
+{"en":"summarize","kz":"жинақтау"}
+{"en":"summary","kz":"қорытынды"}
+{"en":"supply","kz":"жаңғыру"}
+{"en":"supporter","kz":"бақылаушы"}
+{"en":"surely","kz":"ескімдік"}
+{"en":"surface","kz":"бетіңізге қараңыз"}
+{"en":"survive","kz":"тірі қалу"}
+{"en":"swim","kz":"жүзу"}
+{"en":"switch","kz":"ауыстыру"}
+{"en":"symptom","kz":"симптом"}
+{"en":"tail","kz":"құйрығы"}
+{"en":"talent","kz":"талант"}
+{"en":"talented","kz":"талантты"}
+{"en":"tape","kz":"таспа"}
+{"en":"tax","kz":"салық"}
+{"en":"technical","kz":"техникалық"}
+{"en":"technique","kz":"әдіс"}
+{"en":"tend","kz":"бейімдеу"}
+{"en":"tent","kz":"шатыр"}
+{"en":"that","kz":"соншалық"}
+{"en":"theirs","kz":"олардың"}
+{"en":"theme","kz":"тақырып"}
+{"en":"theory","kz":"теория"}
+{"en":"therefore","kz":"сондықтан"}
+{"en":"this","kz":"осы"}
+{"en":"though","kz":"бірақ"}
+{"en":"throat","kz":"көз"}
+{"en":"throughout","kz":"бойы, бүкіл"}
+{"en":"tight","kz":"тығыз"}
+{"en":"till","kz":"дейін"}
+{"en":"tiny","kz":"кіп-кішкентай"}
+{"en":"tip","kz":"қисайту, ақша беру"}
+{"en":"tire","kz":"шина"}
+{"en":"toe","kz":"аяқ саусағы"}
+{"en":"ton","kz":"тонна"}
+{"en":"tongue","kz":"тіл (муше)"}
+{"en":"total","kz":"жалпы, толық"}
+{"en":"totally","kz":"толығымен"}
+{"en":"touch","kz":"тиісу"}
+{"en":"tour","kz":"саяхаттау"}
+{"en":"trade","kz":"сауда"}
+{"en":"trainer","kz":"жаттықтырушы"}
+{"en":"translate","kz":"аудару"}
+{"en":"translation","kz":"аударма"}
+{"en":"transport","kz":"тасымалдау"}
+{"en":"treat","kz":"емдеу, қарау"}
+{"en":"treatment","kz":"емдеу"}
+{"en":"trend","kz":"тенденция"}
+{"en":"trick","kz":"амал, алдау"}
+{"en":"truth","kz":"шындық"}
+{"en":"tube","kz":"түтік"}
+{"en":"type","kz":"басып шығару"}
+{"en":"typically","kz":"әдетте"}
+{"en":"ugly","kz":"сұйық"}
+{"en":"unable","kz":"қолынан келмеу"}
+{"en":"uncomfortable","kz":"ыңғайсыз"}
+{"en":"underwear","kz":"кіім кию құралы"}
+{"en":"unemployed","kz":"жұмыссыз"}
+{"en":"unemployment","kz":"жұмыссыздық"}
+{"en":"unfair","kz":"әділетсіз"}
+{"en":"union","kz":"бастық қауымдастығы"}
+{"en":"unless","kz":"егер болмаса"}
+{"en":"unlike","kz":"айырмашылығы"}
+{"en":"unlikely","kz":"мүмкін емес"}
+{"en":"unnecessary","kz":"қажетсіз"}
+{"en":"unpleasant","kz":"жағымсыз"}
+{"en":"update","kz":"жаңарту"}
+{"en":"upon","kz":"үстіне"}
+{"en":"upset","kz":"ренжіген"}
+{"en":"used","kz":"қолданылатын"}
+{"en":"valuable","kz":"бағалы"}
+{"en":"value","kz":"құндылық"}
+{"en":"various","kz":"әртүрлі"}
+{"en":"version","kz":"нұсқа"}
+{"en":"victim","kz":"жәбірленуші"}
+{"en":"view","kz":"қарау, қарастыру"}
+{"en":"viewer","kz":"көрермен"}
+{"en":"violent","kz":"зорлықшыл"}
+{"en":"volunteer","kz":"ерікті"}
+{"en":"vote","kz":"дауыс беру"}
+{"en":"warm","kz":"жылыту"}
+{"en":"warn","kz":"ескерту"}
+{"en":"warning","kz":"ескерту"}
+{"en":"waste","kz":"қалдық"}
+{"en":"water","kz":"су"}
+{"en":"wave","kz":"бұлғау"}
+{"en":"weapon","kz":"қару"}
+{"en":"weigh","kz":"салмақтау"}
+{"en":"western","kz":"батыстық"}
+{"en":"whatever","kz":"қандай болса да"}
+{"en":"whenever","kz":"қашанда"}
+{"en":"whether","kz":"ма, ме"}
+{"en":"while","kz":"біраз уақыт"}
+{"en":"whole","kz":"тұтас"}
+{"en":"will","kz":"ерік, өсиет"}
+{"en":"win","kz":"жеңіс"}
+{"en":"wing","kz":"қанат"}
+{"en":"within","kz":"ішінде"}
+{"en":"wonder","kz":"ойлану, таңғалу"}
+{"en":"wool","kz":"жүн"}
+{"en":"worldwide","kz":"бүкіләлемдік"}
+{"en":"worry","kz":"мазасыздық"}
+{"en":"worse","kz":"жамандау"}
+{"en":"worst","kz":"ең жаманы"}
+{"en":"worth","kz":"тұрарлық"}
+{"en":"written","kz":"жазбаша"}
+{"en":"wrong","kz":"дұрыс емес, бұрыс"}
+{"en":"young","kz":"жас ұрпақ"}
+{"en":"youth","kz":"жастар"}
+{"en":"abandon","kz":"тастау, бас тарту"}
+{"en":"abroad","kz":"шетелде"}
+{"en":"absolute","kz":"абсолютті"}
+{"en":"acceptable","kz":"қолайлы"}
+{"en":"accompany","kz":"еріп жүру"}
+{"en":"account","kz":"сөздік ақпарат"}
+{"en":"accurate","kz":"дәл"}
+{"en":"accuse","kz":"айыптау"}
+{"en":"acknowledge","kz":"білдіру, мойындау"}
+{"en":"acquire","kz":"алу, иелену"}
+{"en":"actual","kz":"нақты"}
+{"en":"adapt","kz":"бейімделу"}
+{"en":"additional","kz":"қосымша"}
+{"en":"address","kz":"жолдау, қарау"}
+{"en":"adopt","kz":"қабылдау, бала асырап алу"}
+{"en":"advance","kz":"алға жылжу"}
+{"en":"affair","kz":"іс, роман"}
+{"en":"afterward","kz":"кейін, соңында"}
+{"en":"agency","kz":"агенттік"}
+{"en":"agenda","kz":"күн тәртібі"}
+{"en":"aggressive","kz":"агрессивті"}
+{"en":"aid","kz":"көмек"}
+{"en":"aircraft","kz":"ұшақ"}
+{"en":"alarm","kz":"дабыл, үрейлену"}
+{"en":"alter","kz":"өзгерту"}
+{"en":"amount","kz":"тең болу, жету"}
+{"en":"anger","kz":"ашу"}
+{"en":"angle","kz":"бұрыш"}
+{"en":"anniversary","kz":"жылдық"}
+{"en":"annual","kz":"жылдық"}
+{"en":"anxious","kz":"мазасыз"}
+{"en":"apparent","kz":"анық, көрінетін"}
+{"en":"apparently","kz":"анық, мүмкін"}
+{"en":"appeal","kz":"үндеу, шағымдану"}
+{"en":"approach","kz":"тәсіл, жақындау"}
+{"en":"appropriate","kz":"тиісті"}
+{"en":"approval","kz":"мақұлдау"}
+{"en":"approve","kz":"мақұлдау"}
+{"en":"arise","kz":"туындау"}
+{"en":"armed","kz":"қарулы"}
+{"en":"arms","kz":"қару, герб"}
+{"en":"artificial","kz":"жасанды"}
+{"en":"artistic","kz":"көркемдік"}
+{"en":"ashamed","kz":"ұялған"}
+{"en":"aside","kz":"шетке"}
+{"en":"aspect","kz":"аспект"}
+{"en":"assess","kz":"бағалау"}
+{"en":"assessment","kz":"бағалау"}
+{"en":"associate","kz":"байланыстыру"}
+{"en":"associated","kz":"байланысты"}
+{"en":"association","kz":"ассоциация"}
+{"en":"assume","kz":"болжау"}
+{"en":"attempt","kz":"әрекет, тырысу"}
+{"en":"attorney","kz":"адвокат"}
+{"en":"back","kz":"қайтару, қолдау"}
+{"en":"bacteria","kz":"бактерия"}
+{"en":"bar","kz":"тыйым салу, кедергі жасау"}
+{"en":"barrier","kz":"кедергі"}
+{"en":"basically","kz":"негізінен"}
+{"en":"battle","kz":"күресу"}
+{"en":"bear","kz":"көтеру, шыдау"}
+{"en":"beat","kz":"ырғақ, соққы"}
+{"en":"beg","kz":"жалыну"}
+{"en":"being","kz":"болмыс"}
+{"en":"bent","kz":"иілген"}
+{"en":"bet","kz":"бәс, тігу"}
+{"en":"beyond","kz":"арғы, тыс"}
+{"en":"bill","kz":"шот ұсыну"}
+{"en":"bitter","kz":"ащы"}
+{"en":"blame","kz":"кінәлау"}
+{"en":"blind","kz":"соқыр"}
+{"en":"bond","kz":"байланыс"}
+{"en":"border","kz":"шекараласу"}
+{"en":"breast","kz":"кеуде"}
+{"en":"brief","kz":"қысқа"}
+{"en":"broad","kz":"кең"}
+{"en":"broadcast","kz":"хабар тарату"}
+{"en":"budget","kz":"бюджет"}
+{"en":"bullet","kz":"оқ"}
+{"en":"bunch","kz":"шоғыр"}
+{"en":"burn","kz":"күйік"}
+{"en":"bush","kz":"бұта"}
+{"en":"but","kz":"басқа, бірақ"}
+{"en":"calculate","kz":"есептеу"}
+{"en":"cancel","kz":"болдырмау"}
+{"en":"cancer","kz":"обыр"}
+{"en":"capable","kz":"қабілетті"}
+{"en":"capacity","kz":"сыйымдылық"}
+{"en":"capture","kz":"тұтқындау"}
+{"en":"cast","kz":"лақтыру, актерлер тобы"}
+{"en":"catch","kz":"ұстау, аулау"}
+{"en":"chain","kz":"тізбектеу"}
+{"en":"chair","kz":"төрағалық ету"}
+{"en":"chairman","kz":"төраға"}
+{"en":"challenge","kz":"сынға алу"}
+{"en":"characteristic","kz":"сипаттама"}
+{"en":"chart","kz":"кесте"}
+{"en":"chief","kz":"басты"}
+{"en":"circumstance","kz":"жағдай"}
+{"en":"cite","kz":"дерек келтіру"}
+{"en":"citizen","kz":"азамат"}
+{"en":"civil","kz":"азаматтық"}
+{"en":"classic","kz":"классикалық"}
+{"en":"close","kz":"жабу, аяқтау"}
+{"en":"closely","kz":"жақыннан"}
+{"en":"collapse","kz":"күйреу"}
+{"en":"combination","kz":"үйлесім"}
+{"en":"comfort","kz":"жайлылық, жұбату"}
+{"en":"command","kz":"бұйрық"}
+{"en":"commission","kz":"комиссия"}
+{"en":"commitment","kz":"міндеттеме"}
+{"en":"committee","kz":"комитет"}
+{"en":"commonly","kz":"жалпы"}
+{"en":"complex","kz":"кешен"}
+{"en":"complicated","kz":"күрделі"}
+{"en":"component","kz":"құраушы"}
+{"en":"concentration","kz":"шоғырлану"}
+{"en":"concept","kz":"түсінік"}
+{"en":"concern","kz":"қатысты болу, алаңдаушылық"}
+{"en":"concerned","kz":"алаңдаған"}
+{"en":"conduct","kz":"жүргізу, мінез-құлық"}
+{"en":"confidence","kz":"сенімділік"}
+{"en":"conflict","kz":"жанжал"}
+{"en":"confusing","kz":"шатастыратын"}
+{"en":"congress","kz":"конгресс"}
+{"en":"conscious","kz":"сознан"}
+{"en":"conservative","kz":"консервативті"}
+{"en":"consideration","kz":"қарастыру"}
+{"en":"consistent","kz":"жүйелі"}
+{"en":"constant","kz":"тұрақты"}
+{"en":"constantly","kz":"үздіксіз"}
+{"en":"construct","kz":"салу"}
+{"en":"construction","kz":"құрылыс"}
+{"en":"contemporary","kz":"заманауи"}
+{"en":"contest","kz":"байқау"}
+{"en":"contract","kz":"келісімшарт"}
+{"en":"contribute","kz":"үлес қосу"}
+{"en":"contribution","kz":"үлес"}
+{"en":"convert","kz":"түрлендіру"}
+{"en":"convinced","kz":"сенімді"}
+{"en":"core","kz":"өзек, негізгі"}
+{"en":"corporate","kz":"корпоративті"}
+{"en":"council","kz":"кеңес"}
+{"en":"county","kz":"округ"}
+{"en":"courage","kz":"батылдық"}
+{"en":"crash","kz":"апат, құлау"}
+{"en":"creation","kz":"жаратылыс"}
+{"en":"creature","kz":"жанды"}
+{"en":"credit","kz":"несиелеу, меншіктеу"}
+{"en":"crew","kz":"экипаж"}
+{"en":"crisis","kz":"дағдарыс"}
+{"en":"criterion","kz":"критерий"}
+{"en":"critic","kz":"сыншы"}
+{"en":"critical","kz":"сыни"}
+{"en":"criticism","kz":"сын"}
+{"en":"criticize","kz":"критикалау"}
+{"en":"crop","kz":"егін"}
+{"en":"crucial","kz":"шешуші"}
+{"en":"cry","kz":"айқай"}
+{"en":"cure","kz":"емдеу"}
+{"en":"current","kz":"ағыс"}
+{"en":"curve","kz":"қисық"}
+{"en":"curved","kz":"қисық"}
+{"en":"date","kz":"кездесу, уақыт белгілеу"}
+{"en":"debate","kz":"пікірсайыс"}
+{"en":"debt","kz":"борыш"}
+{"en":"decent","kz":"лайықты"}
+{"en":"declare","kz":"жариялау"}
+{"en":"decline","kz":"төмендеу, бас тарту"}
+{"en":"decorate","kz":"безендіру"}
+{"en":"decoration","kz":"безендіру"}
+{"en":"decrease","kz":"азайту"}
+{"en":"deeply","kz":"терең"}
+{"en":"defeat","kz":"жеңу"}
+{"en":"defend","kz":"қорғау"}
+{"en":"defense","kz":"қорғаныс"}
+{"en":"delay","kz":"кешіктіру"}
+{"en":"deliberate","kz":"әдейі"}
+{"en":"deliberately","kz":"әдейі"}
+{"en":"delivery","kz":"жеткізу"}
+{"en":"demand","kz":"талап, сұраныс"}
+{"en":"demonstrate","kz":"көрсету"}
+{"en":"deny","kz":"бас тарту, теріске шығару"}
+{"en":"depressed","kz":"депрессияға ұшыраған"}
+{"en":"depressing","kz":"депрессиялық"}
+{"en":"depth","kz":"глубина"}
+{"en":"desert","kz":"пустыня"}
+{"en":"deserve","kz":"должен быть"}
+{"en":"desire","kz":"желание"}
+{"en":"desperate","kz":"страхующийся"}
+{"en":"detail","kz":"деталь"}
+{"en":"detailed","kz":"подробный"}
+{"en":"detect","kz":"выявлять"}
+{"en":"dig","kz":"копать"}
+{"en":"discipline","kz":"дисциплина"}
+{"en":"discount","kz":"скидка"}
+{"en":"dishonest","kz":"неискренний"}
+{"en":"disk","kz":"диск"}
+{"en":"dismiss","kz":"отказаться от"}
+{"en":"display","kz":"показать"}
+{"en":"distribute","kz":"распределять"}
+{"en":"distribution","kz":"распределение"}
+{"en":"divide","kz":"делить"}
+{"en":"division","kz":"раздел"}
+{"en":"document","kz":"документ"}
+{"en":"domestic","kz":"внутренний"}
+{"en":"dominate","kz":"преобладать"}
+{"en":"downward","kz":"вниз"}
+{"en":"dozen","kz":"двадцать"}
+{"en":"draft","kz":"черновик"}
+{"en":"drag","kz":"тянуть"}
+{"en":"dramatic","kz":"драматичный"}
+{"en":"edit","kz":"редактировать"}
+{"en":"edition","kz":"издание"}
+{"en":"efficient","kz":"эффективный"}
+{"en":"elderly","kz":"қарт"}
+{"en":"elect","kz":"сайлау"}
+{"en":"elsewhere","kz":"басқа жерде"}
+{"en":"emerge","kz":"пайда болу"}
+{"en":"emotional","kz":"эмоционалды"}
+{"en":"emphasis","kz":"басымдылық"}
+{"en":"emphasize","kz":"баса айту"}
+{"en":"enable","kz":"мүмкіндік беру"}
+{"en":"encounter","kz":"кездесу"}
+{"en":"engage","kz":"тарту, жұмылдыру"}
+{"en":"enhance","kz":"жақсарту"}
+{"en":"ensure","kz":"қамтамасыз ету"}
+{"en":"enthusiasm","kz":"ынта"}
+{"en":"enthusiastic","kz":"ынталы"}
+{"en":"entire","kz":"толық, бүтін"}
+{"en":"equal","kz":"тең, тең құқықты"}
+{"en":"establish","kz":"орнату, негіздеу"}
+{"en":"estate","kz":"мүлік, жылжымайтын мүлік"}
+{"en":"estimate","kz":"бағалау"}
+{"en":"ethical","kz":"этикалық"}
+{"en":"evaluate","kz":"бағалау"}
+{"en":"even","kz":"тегіс, жұп"}
+{"en":"evil","kz":"жауыздық"}
+{"en":"examination","kz":"тексеру"}
+{"en":"excuse","kz":"кешіру, сылтау"}
+{"en":"executive","kz":"атқарушы"}
+{"en":"exhibit","kz":"көрсету"}
+{"en":"existence","kz":"бар болу"}
+{"en":"exit","kz":"шығу"}
+{"en":"expectation","kz":"үміт"}
+{"en":"expense","kz":"шығын"}
+{"en":"exploration","kz":"зерттеу"}
+{"en":"expose","kz":"ашу"}
+{"en":"extend","kz":"ұзарту"}
+{"en":"extent","kz":"дереже"}
+{"en":"external","kz":"сыртқы"}
+{"en":"extraordinary","kz":"ерекше"}
+{"en":"extreme","kz":"шеткі, аса"}
+{"en":"facility","kz":"нысан"}
+{"en":"failure","kz":"сәтсіздік"}
+{"en":"faith","kz":"сенім"}
+{"en":"fault","kz":"жауапкершілік"}
+{"en":"favor","kz":"қолдау"}
+{"en":"feather","kz":"қауырсын"}
+{"en":"fee","kz":"ақы"}
+{"en":"feed","kz":"жаю"}
+{"en":"feedback","kz":"кері байланыс"}
+{"en":"feel","kz":"сезім"}
+{"en":"fellow","kz":"жолдас"}
+{"en":"figure","kz":"ойлау, есептеу"}
+{"en":"file","kz":"тапсыру, сақтау"}
+{"en":"finance","kz":"қаржыландыру"}
+{"en":"finding","kz":"нәтиже, анықтама"}
+{"en":"firm","kz":"фирма"}
+{"en":"fix","kz":"түзету"}
+{"en":"flame","kz":"жалын"}
+{"en":"flash","kz":"жарқыл"}
+{"en":"flexible","kz":"икемді"}
+{"en":"float","kz":"қалқып жүру"}
+{"en":"fold","kz":"қатпар"}
+{"en":"folding","kz":"жиналмалы"}
+{"en":"following","kz":"кейін"}
+{"en":"forgive","kz":"кешіру"}
+{"en":"former","kz":"бұрынғы"}
+{"en":"fortune","kz":"сәттілік, дәулет"}
+{"en":"forward","kz":"алға, алдыңғы"}
+{"en":"found","kz":"негіздеу, құру"}
+{"en":"free","kz":"босату"}
+{"en":"freedom","kz":"еркіндік"}
+{"en":"frequency","kz":"жиілік"}
+{"en":"fuel","kz":"қуат беру"}
+{"en":"fully","kz":"толық"}
+{"en":"function","kz":"жұмыс істеу"}
+{"en":"fund","kz":"қор, қаржыландыру"}
+{"en":"fundamental","kz":"іргелі"}
+{"en":"funding","kz":"қаржыландыру"}
+{"en":"furthermore","kz":"онымен қатар"}
+{"en":"gain","kz":"алу, табыс"}
+{"en":"gang","kz":"банда"}
+{"en":"generate","kz":"тудыру"}
+{"en":"genre","kz":"жанр"}
+{"en":"goods","kz":"тауарлар"}
+{"en":"govern","kz":"басқару"}
+{"en":"governor","kz":"әкім, губернатор"}
+{"en":"grab","kz":"ұстап алу"}
+{"en":"grade","kz":"бағалау"}
+{"en":"gradually","kz":"біртіндеп"}
+{"en":"grand","kz":"ұлы, керемет"}
+{"en":"grant","kz":"грант"}
+{"en":"guarantee","kz":"кепілдік"}
+{"en":"handle","kz":"қолдану"}
+{"en":"harm","kz":"зиян келтіру"}
+{"en":"harmful","kz":"зиянды"}
+{"en":"hearing","kz":"есту"}
+{"en":"heaven","kz":"көк, жұмақ"}
+{"en":"heel","kz":"өкше"}
+{"en":"hell","kz":"тозақ"}
+{"en":"hesitate","kz":"тағатсыздану"}
+{"en":"high","kz":"жоғары нүкте"}
+{"en":"hire","kz":"жалдау, жалға алу"}
+{"en":"hold","kz":"ұстау, бағу"}
+{"en":"hollow","kz":"қуыс"}
+{"en":"holy","kz":"қасиетті"}
+{"en":"honor","kz":"құрмет"}
+{"en":"host","kz":"өткізу, қабылдау"}
+{"en":"house","kz":"орналастыру"}
+{"en":"household","kz":"үй шаруасы"}
+{"en":"housing","kz":"тұрғын үй"}
+{"en":"humor","kz":"юмор"}
+{"en":"humorous","kz":"юморлы"}
+{"en":"hunt","kz":"аңшылық"}
+{"en":"hunting","kz":"аң аулау"}
+{"en":"hurt","kz":"ауырсыну"}
+{"en":"ideal","kz":"идеал"}
+{"en":"illustrate","kz":"суреттеу"}
+{"en":"illustration","kz":"суреттеу"}
+{"en":"imagination","kz":"қиял"}
+{"en":"impatient","kz":"сабырсыз"}
+{"en":"imply","kz":"білдіру"}
+{"en":"impose","kz":"тағу, жүктеу"}
+{"en":"impress","kz":"әсер ету"}
+{"en":"impressed","kz":"әсерленген"}
+{"en":"inch","kz":"дюйм"}
+{"en":"incident","kz":"оқиға"}
+{"en":"income","kz":"кіріс"}
+{"en":"increasingly","kz":"көбірек"}
+{"en":"industrial","kz":"өнеркәсіптік"}
+{"en":"infection","kz":"инфекция"}
+{"en":"inform","kz":"хабарлау"}
+{"en":"initial","kz":"бастапқы"}
+{"en":"initially","kz":"бастапқыда"}
+{"en":"initiative","kz":"бастама"}
+{"en":"inner","kz":"ішкі"}
+{"en":"inquiry","kz":"сұрау"}
+{"en":"insight","kz":"түсінік"}
+{"en":"insist","kz":"талап ету"}
+{"en":"inspire","kz":"шабыттандыру"}
+{"en":"install","kz":"орнату"}
+{"en":"instance","kz":"мысал"}
+{"en":"institute","kz":"институт"}
+{"en":"institution","kz":"мекеме"}
+{"en":"insurance","kz":"сақтандыру"}
+{"en":"intended","kz":"арналған"}
+{"en":"intense","kz":"қарқынды"}
+{"en":"internal","kz":"ішкі"}
+{"en":"interpret","kz":"түсіндіру, аудару"}
+{"en":"interrupt","kz":"бөлу"}
+{"en":"investigation","kz":"тергеу"}
+{"en":"investment","kz":"инвестиция"}
+{"en":"issue","kz":"шығару"}
+{"en":"joy","kz":"қуаныш"}
+{"en":"judgment","kz":"үкім"}
+{"en":"junior","kz":"кіші"}
+{"en":"justice","kz":"әділдік"}
+{"en":"justify","kz":"ақтау"}
+{"en":"labor","kz":"еңбек"}
+{"en":"landscape","kz":"ландшафт"}
+{"en":"largely","kz":"негізінен"}
+{"en":"latest","kz":"соңғы нұсқа"}
+{"en":"launch","kz":"бастау, ұшыру"}
+{"en":"leadership","kz":"жетекшілік"}
+{"en":"league","kz":"лига"}
+{"en":"lean","kz":"сүйену"}
+{"en":"leave","kz":"демалыс"}
+{"en":"level","kz":"теңестіру"}
+{"en":"license","kz":"лицензия"}
+{"en":"limited","kz":"шектеулі"}
+{"en":"line","kz":"түзеу"}
+{"en":"lively","kz":"көңілді"}
+{"en":"load","kz":"жүк"}
+{"en":"loan","kz":"несие"}
+{"en":"logical","kz":"логикалық"}
+{"en":"long-term","kz":"ұзақ мерзімді"}
+{"en":"loose","kz":"бос"}
+{"en":"lord","kz":"ие"}
+{"en":"low","kz":"төмен, ең төмен"}
+{"en":"lower","kz":"төмендету"}
+{"en":"lung","kz":"өкпе"}
+{"en":"maintain","kz":"сақтау"}
+{"en":"major","kz":"мажор"}
+{"en":"majority","kz":"көпшілік"}
+{"en":"make","kz":"жасау"}
+{"en":"map","kz":"карта"}
+{"en":"mass","kz":"масса"}
+{"en":"massive","kz":"ауқымды"}
+{"en":"master","kz":"шебер"}
+{"en":"matching","kz":"сәйкес"}
+{"en":"material","kz":"материалдық"}
+{"en":"maximum","kz":"максималды"}
+{"en":"means","kz":"құрал"}
+{"en":"measurement","kz":"өлшем"}
+{"en":"medium","kz":"орта"}
+{"en":"melt","kz":"еру"}
+{"en":"military","kz":"әскери"}
+{"en":"mineral","kz":"минерал"}
+{"en":"minimum","kz":"минималды"}
+{"en":"minister","kz":"министр"}
+{"en":"minor","kz":"маңызды емес"}
+{"en":"minority","kz":"азшылық"}
+{"en":"mission","kz":"миссия"}
+{"en":"mistake","kz":"қателік"}
+{"en":"mixed","kz":"аралас"}
+{"en":"model","kz":"модель"}
+{"en":"modify","kz":"өзгерту"}
+{"en":"monitor","kz":"монитор"}
+{"en":"moral","kz":"адамгершілік"}
+{"en":"motor","kz":"қозғалтқыш"}
+{"en":"mount","kz":"орнату"}
+{"en":"multiple","kz":"көп"}
+{"en":"multiply","kz":"көбейту"}
+{"en":"mysterious","kz":"жұмбақ"}
+{"en":"narrow","kz":"түсініксіздік"}
+{"en":"national","kz":"азаматтық"}
+{"en":"negative","kz":"теріс жауап"}
+{"en":"nerve","kz":"жүйке"}
+{"en":"nevertheless","kz":"дегенмен"}
+{"en":"nightmare","kz":"қорқынышты түс"}
+{"en":"notion","kz":"ұғым"}
+{"en":"numerous","kz":"көп"}
+{"en":"obey","kz":"бағыну"}
+{"en":"object","kz":"қарсы болу"}
+{"en":"objective","kz":"мақсат, объективті"}
+{"en":"obligation","kz":"міндеттеме"}
+{"en":"observation","kz":"бақылау"}
+{"en":"observe","kz":"байқау"}
+{"en":"obtain","kz":"алу"}
+{"en":"occasionally","kz":"кейде"}
+{"en":"offend","kz":"ренжіту"}
+{"en":"offense","kz":"құқық бұзу"}
+{"en":"offensive","kz":"ренжітетін"}
+{"en":"official","kz":"лауазымды адам"}
+{"en":"opening","kz":"ашылу, саңылау"}
+{"en":"operate","kz":"жұмыс істеу, басқару"}
+{"en":"opponent","kz":"қарсылас"}
+{"en":"oppose","kz":"қарсы тұру"}
+{"en":"opposed","kz":"қарсы, қарама-қарсы"}
+{"en":"opposition","kz":"оппозиция"}
+{"en":"organ","kz":"ағза"}
+{"en":"origin","kz":"шығу тегі"}
+{"en":"otherwise","kz":"әйтпесе"}
+{"en":"outcome","kz":"нәтиже"}
+{"en":"outer","kz":"сыртқы"}
+{"en":"outline","kz":"жоспар"}
+{"en":"overall","kz":"жалпы"}
+{"en":"owe","kz":"қарыз болу"}
+{"en":"pace","kz":"қарқын"}
+{"en":"package","kz":"орау"}
+{"en":"panel","kz":"панель"}
+{"en":"participant","kz":"қатысушы"}
+{"en":"partly","kz":"ішінара"}
+{"en":"passage","kz":"өткел"}
+{"en":"patient","kz":"сабырлы"}
+{"en":"permanent","kz":"тұрақты"}
+{"en":"permit","kz":"рұқсат ету"}
+{"en":"perspective","kz":"келешек"}
+{"en":"phase","kz":"кезең"}
+{"en":"phenomenon","kz":"құбылыс"}
+{"en":"philosophy","kz":"философия"}
+{"en":"pick","kz":"таңдау"}
+{"en":"picture","kz":"елестету"}
+{"en":"pile","kz":"үйінді"}
+{"en":"pitch","kz":"биіктік, алаң"}
+{"en":"plain","kz":"қарапайым"}
+{"en":"plot","kz":"жоспарлау"}
+{"en":"plus","kz":"плюс, оң"}
+{"en":"pointed","kz":"нысаналы, үшкір"}
+{"en":"popularity","kz":"танымалдылық"}
+{"en":"pose","kz":"қою, позициялау"}
+{"en":"position","kz":"орналастыру"}
+{"en":"positive","kz":"оң жауап"}
+{"en":"possess","kz":"ие болу"}
+{"en":"potential","kz":"әлеуетті"}
+{"en":"power","kz":"қуаттандыру"}
+{"en":"praise","kz":"мадақтау"}
+{"en":"pregnant","kz":"жүкті"}
+{"en":"preparation","kz":"дайындық"}
+{"en":"presence","kz":"қатысу"}
+{"en":"preserve","kz":"сақтау"}
+{"en":"price","kz":"баға белгілеу"}
+{"en":"prime","kz":"негізгі, басты"}
+{"en":"principal","kz":"басты, негізгі"}
+{"en":"principle","kz":"принцип"}
+{"en":"print","kz":"баспа"}
+{"en":"priority","kz":"басымдылық"}
+{"en":"privacy","kz":"құпиялылық"}
+{"en":"procedure","kz":"тәртіп"}
+{"en":"process","kz":"өңдеу"}
+{"en":"produce","kz":"өнім"}
+{"en":"professional","kz":"кәсіпқой"}
+{"en":"progress","kz":"алға жылжу"}
+{"en":"project","kz":"жобалау"}
+{"en":"proof","kz":"дәлел"}
+{"en":"proposal","kz":"ұсыныс"}
+{"en":"propose","kz":"ұсыну"}
+{"en":"prospect","kz":"болжам"}
+{"en":"protection","kz":"қорғау"}
+{"en":"psychologist","kz":"психолог"}
+{"en":"psychology","kz":"психология"}
+{"en":"publication","kz":"басылым"}
+{"en":"purchase","kz":"сатып алу"}
+{"en":"pure","kz":"таза"}
+{"en":"pursue","kz":"құю"}
+{"en":"range","kz":"аралық"}
+{"en":"rank","kz":"оранайыс"}
+{"en":"rapid","kz":"жылдам"}
+{"en":"rapidly","kz":"жылдамдықта"}
+{"en":"rate","kz":"бағалау"}
+{"en":"raw","kz":"жаңа"}
+{"en":"reach","kz":"жетістік, аясы"}
+{"en":"realistic","kz":"шындыққа сай"}
+{"en":"reasonable","kz":"ақылға қонымды"}
+{"en":"recall","kz":"еске түсіру"}
+{"en":"recover","kz":"сауығу"}
+{"en":"reduction","kz":"азайту"}
+{"en":"regard","kz":"қарастыру"}
+{"en":"regional","kz":"аймақтық"}
+{"en":"register","kz":"тіркеу"}
+{"en":"regret","kz":"өкіну"}
+{"en":"regulation","kz":"реттеу"}
+{"en":"relatively","kz":"салыстырмалы"}
+{"en":"relevant","kz":"тиісті"}
+{"en":"relief","kz":"жеңілдік"}
+{"en":"rely","kz":"сену"}
+{"en":"remark","kz":"ескерту"}
+{"en":"representative","kz":"өкіл"}
+{"en":"reputation","kz":"бедел"}
+{"en":"requirement","kz":"талап"}
+{"en":"rescue","kz":"құтқару"}
+{"en":"reserve","kz":"қор"}
+{"en":"resident","kz":"тұрғын"}
+{"en":"resist","kz":"қарсы тұру"}
+{"en":"resolve","kz":"шешу"}
+{"en":"resort","kz":"курорт"}
+{"en":"retain","kz":"сақтау"}
+{"en":"reveal","kz":"ашу"}
+{"en":"revolution","kz":"революция"}
+{"en":"reward","kz":"сыйақы"}
+{"en":"rhythm","kz":"ырғақ"}
+{"en":"rid","kz":"құтылу"}
+{"en":"rise","kz":"өсу"}
+{"en":"root","kz":"түбір"}
+{"en":"round","kz":"айналым"}
+{"en":"routine","kz":"күнделікті"}
+{"en":"rub","kz":"ысқылау"}
+{"en":"rubber","kz":"резеңке"}
+{"en":"rural","kz":"ауылдық"}
+{"en":"rush","kz":"асығу"}
+{"en":"sample","kz":"сынап көру"}
+{"en":"satellite","kz":"спутник"}
+{"en":"satisfied","kz":"қанағаттанған"}
+{"en":"satisfy","kz":"қанағаттандыру"}
+{"en":"saving","kz":"үнемдеу"}
+{"en":"scale","kz":"масштаб"}
+{"en":"schedule","kz":"кестелеу"}
+{"en":"scream","kz":"айқайлау"}
+{"en":"screen","kz":"экрандау, бөлу"}
+{"en":"seat","kz":"отырғызу"}
+{"en":"sector","kz":"сектор"}
+{"en":"secure","kz":"қамтамасыз ету"}
+{"en":"seek","kz":"іздеу"}
+{"en":"select","kz":"таңдау"}
+{"en":"self","kz":"өзім"}
+{"en":"senate","kz":"сенат"}
+{"en":"senator","kz":"сенатор"}
+{"en":"senior","kz":"аға"}
+{"en":"sense","kz":"сезіну"}
+{"en":"sensitive","kz":"сезімтал"}
+{"en":"sentence","kz":"үкім шығару"}
+{"en":"sequence","kz":"тізбек"}
+{"en":"session","kz":"сессия"}
+{"en":"settle","kz":"қоныстану"}
+{"en":"severe","kz":"ауыр"}
+{"en":"shade","kz":"көлеңке, реңк"}
+{"en":"shadow","kz":"көлеңке"}
+{"en":"shall","kz":"керек, болады"}
+{"en":"shallow","kz":"тайыз"}
+{"en":"shame","kz":"ұят"}
+{"en":"shape","kz":"пішіндеу"}
+{"en":"shelter","kz":"баспана"}
+{"en":"shift","kz":"ауыстыру"}
+{"en":"ship","kz":"жөнелту"}
+{"en":"shock","kz":"шок"}
+{"en":"shocked","kz":"таң қалған"}
+{"en":"shooting","kz":"атыс"}
+{"en":"shot","kz":"атыс, кадр"}
+{"en":"significant","kz":"маңызды"}
+{"en":"significantly","kz":"айтарлықтай"}
+{"en":"silence","kz":"тыныштық"}
+{"en":"silk","kz":"жібек"}
+{"en":"sincere","kz":"шын жүректен"}
+{"en":"slide","kz":"сырғанау"}
+{"en":"slight","kz":"аз"}
+{"en":"slip","kz":"тайғанау"}
+{"en":"slope","kz":"көлбеу"}
+{"en":"solar","kz":"күн энергиясы"}
+{"en":"somewhat","kz":"біршама"}
+{"en":"soul","kz":"жан"}
+{"en":"specialist","kz":"маман"}
+{"en":"species","kz":"түр"}
+{"en":"speed","kz":"жылдамдату"}
+{"en":"spiritual","kz":"рухани"}
+{"en":"split","kz":"бөлу"}
+{"en":"sponsor","kz":"демеушілік ету"}
+{"en":"spot","kz":"көру, табу"}
+{"en":"spread","kz":"таралу"}
+{"en":"stable","kz":"тұрақты"}
+{"en":"stage","kz":"сахналау"}
+{"en":"stand","kz":"стенд, көзқарас"}
+{"en":"stare","kz":"қадала қарау"}
+{"en":"status","kz":"мәртебе"}
+{"en":"steady","kz":"тұрақты"}
+{"en":"steel","kz":"болат"}
+{"en":"steep","kz":"тік"}
+{"en":"step","kz":"қадам басу"}
+{"en":"sticky","kz":"жабысқақ"}
+{"en":"stiff","kz":"қатты"}
+{"en":"stock","kz":"қор"}
+{"en":"stream","kz":"ағын"}
+{"en":"stretch","kz":"қозғау"}
+{"en":"strict","kz":"қауіпсіздік"}
+{"en":"strike","kz":"соққы"}
+{"en":"structure","kz":"құрылым"}
+{"en":"struggle","kz":"күрес"}
+{"en":"stuff","kz":"сығу"}
+{"en":"subject","kz":"пәндік"}
+{"en":"submit","kz":"ұсыну"}
+{"en":"sum","kz":"қосымша"}
+{"en":"surgery","kz":"хирургия"}
+{"en":"surround","kz":"қоршау"}
+{"en":"surrounding","kz":"қоршаған"}
+{"en":"survey","kz":"зерттеу"}
+{"en":"suspect","kz":"күдіктену"}
+{"en":"swear","kz":"ант ету"}
+{"en":"sweep","kz":"сыпыру"}
+{"en":"switch","kz":"ауыстырғыш"}
+{"en":"sympathy","kz":"жанашырлық"}
+{"en":"tale","kz":"ертегі"}
+{"en":"tank","kz":"бак, танк"}
+{"en":"target","kz":"бағыттау"}
+{"en":"tear","kz":"жырту"}
+{"en":"temporary","kz":"уақытша"}
+{"en":"term","kz":"атау"}
+{"en":"therapy","kz":"терапия"}
+{"en":"threat","kz":"қауіп"}
+{"en":"threaten","kz":"қорқыту"}
+{"en":"thus","kz":"осылай"}
+{"en":"time","kz":"уақыт"}
+{"en":"title","kz":"атау"}
+{"en":"tone","kz":"түні"}
+{"en":"tough","kz":"қатты"}
+{"en":"track","kz":"жол"}
+{"en":"transfer","kz":"аудару"}
+{"en":"transform","kz":"түрлендіру"}
+{"en":"transition","kz":"өткізгіштілік"}
+{"en":"trial","kz":"көрініс"}
+{"en":"trip","kz":"жол жүріп өту"}
+{"en":"tropical","kz":"тропикалық"}
+{"en":"trouble","kz":"қателік"}
+{"en":"truly","kz":"шыншақ"}
+{"en":"trust","kz":"сенім"}
+{"en":"try","kz":"тәуелділік"}
+{"en":"tune","kz":"күйлеу"}
+{"en":"tunnel","kz":"туннель"}
+{"en":"ultimately","kz":"ақырындай"}
+{"en":"unconscious","kz":"есісі жоқ"}
+{"en":"unexpected","kz":"күтілмейтін"}
+{"en":"unique","kz":"бірегей"}
+{"en":"universe","kz":"ғалам"}
+{"en":"unknown","kz":"белгісіз"}
+{"en":"upper","kz":"жоғары"}
+{"en":"upward","kz":"жоғары қарай"}
+{"en":"urban","kz":"қалалық"}
+{"en":"urge","kz":"итермелеу"}
+{"en":"value","kz":"маңызы"}
+{"en":"van","kz":"фургон"}
+{"en":"vary","kz":"өзгеріс"}
+{"en":"vast","kz":"кең"}
+{"en":"venue","kz":"орын"}
+{"en":"very","kz":"кеңейтіп, ең көп"}
+{"en":"via","kz":"арқылы"}
+{"en":"victory","kz":"жеңіс"}
+{"en":"violence","kz":"зомбылық"}
+{"en":"virtual","kz":"виртуалды"}
+{"en":"vision","kz":"көзқарас"}
+{"en":"visual","kz":"көрнекі"}
+{"en":"vital","kz":"маңызды"}
+{"en":"vitamin","kz":"витамин"}
+{"en":"volume","kz":"көлем"}
+{"en":"wage","kz":"жалақы"}
+{"en":"way","kz":"жол"}
+{"en":"weakness","kz":"әлсіздік"}
+{"en":"wealth","kz":"байлық"}
+{"en":"wealthy","kz":"бай"}
+{"en":"whereas","kz":"мұндай"}
+{"en":"wherever","kz":"қайда болса да"}
+{"en":"whisper","kz":"сөйлесу"}
+{"en":"whom","kz":"кімге"}
+{"en":"widely","kz":"кеңінен"}
+{"en":"wildlife","kz":"жабайы табиғат"}
+{"en":"willing","kz":"дайын"}
+{"en":"wind","kz":"орау"}
+{"en":"wire","kz":"сым"}
+{"en":"wise","kz":"дана"}
+{"en":"witness","kz":"куәгер"}
+{"en":"worse","kz":"жамандау"}
+{"en":"worst","kz":"ең жаманы"}
+{"en":"worth","kz":"құндылық"}
+{"en":"wound","kz":"жара"}
+{"en":"wrap","kz":"орау"}
+{"en":"wrong","kz":"қате"}
+{"en":"yet","kz":"әлі"}
+{"en":"zone","kz":"аймақ"}
+{"en":"absorb","kz":"сіңіру"}
+{"en":"abstract","kz":"абстрактілі"}
+{"en":"accent","kz":"акцент"}
+{"en":"accidentally","kz":"кездейсоқ"}
+{"en":"accommodate","kz":"орналастыру"}
+{"en":"accommodation","kz":"тұрғын үй"}
+{"en":"accomplish","kz":"орындау"}
+{"en":"accountant","kz":"бухгалтер"}
+{"en":"accuracy","kz":"дәлдік"}
+{"en":"accurately","kz":"дәл"}
+{"en":"acid","kz":"қышқыл"}
+{"en":"acre","kz":"акр"}
+{"en":"activate","kz":"белсендіру"}
+{"en":"addiction","kz":"тәуелділік"}
+{"en":"additionally","kz":"сонымен қатар"}
+{"en":"adequate","kz":"жеткілікті"}
+{"en":"adjust","kz":"реттеу"}
+{"en":"affordable","kz":"қолжетімді"}
+{"en":"aged","kz":"кәрі"}
+{"en":"agriculture","kz":"ауыл шаруашылығы"}
+{"en":"AIDS","kz":"ЖИТС"}
+{"en":"alien","kz":"бөтен, шетелдік"}
+{"en":"alongside","kz":"қатар, бірге"}
+{"en":"altogether","kz":"тұтастай"}
+{"en":"ambitious","kz":"биік мақсатты"}
+{"en":"ambulance","kz":"жедел жәрдем"}
+{"en":"amusing","kz":"қызықты"}
+{"en":"analyst","kz":"аналитик"}
+{"en":"ancestor","kz":"баба, ата"}
+{"en":"animation","kz":"анимация"}
+{"en":"annually","kz":"жыл сайын"}
+{"en":"anticipate","kz":"болжау"}
+{"en":"anxiety","kz":"мазасыздық"}
+{"en":"apology","kz":"кешірім"}
+{"en":"applicant","kz":"үміткер"}
+{"en":"appropriately","kz":"тиісінше"}
+{"en":"arrow","kz":"жебе"}
+{"en":"artwork","kz":"сурет"}
+{"en":"asset","kz":"актив"}
+{"en":"assign","kz":"тағайындау"}
+{"en":"assistance","kz":"көмек"}
+{"en":"assumption","kz":"болжам"}
+{"en":"assure","kz":"сендіру"}
+{"en":"astonishing","kz":"таңғажайып"}
+{"en":"athletic","kz":"спорттық"}
+{"en":"attachment","kz":"тіркеме"}
+{"en":"audio","kz":"аудио"}
+{"en":"awareness","kz":"хабардарлық"}
+{"en":"awkward","kz":"ыңғайсыз"}
+{"en":"badge","kz":"белгі"}
+{"en":"balanced","kz":"теңдестірілген"}
+{"en":"ballet","kz":"балет"}
+{"en":"balloon","kz":"әуе шары"}
+{"en":"barely","kz":"әрең"}
+{"en":"bargain","kz":"саудаға","note":"Fixed: 'саудаласу' is not a standard Kazakh word for bargain; 'саудаға' means to bargain."}
+{"en":"basement","kz":"бастығыш","note":"Fixed: 'жертөле' is incorrect. 'Бастығыш' or 'күмшілік' are better, but 'бастығыш' implies a foundation\/base."}
+{"en":"basket","kz":"себет"}
+{"en":"bat","kz":"жаңбыр, таяқ","note":"Fixed: 'жарғанат' is not correct. 'Жаңбыр' means rain."}
+{"en":"beneficial","kz":"пайдалы"}
+{"en":"beside","kz":"басқа жағында"}
+{"en":"besides","kz":"одан басқа"}
+{"en":"bias","kz":"бейімділік"}
+{"en":"bid","kz":"ұсыныс, талап"}
+{"en":"biological","kz":"биологиялық"}
+{"en":"blanket","kz":"көрпе"}
+{"en":"blow","kz":"соққы"}
+{"en":"bold","kz":"батыл, қалың"}
+{"en":"bombing","kz":"бомбалау"}
+{"en":"boost","kz":"көтеру"}
+{"en":"bound","kz":"байланысты"}
+{"en":"brick","kz":"кірпіш"}
+{"en":"briefly","kz":"қысқаша"}
+{"en":"broadcaster","kz":"телерадиокомпания"}
+{"en":"broadly","kz":"кеңінен"}
+{"en":"buck","kz":"доллар"}
+{"en":"bug","kz":"қателік, жәндік"}
+{"en":"cabin","kz":"кабина"}
+{"en":"canal","kz":"канал"}
+{"en":"candle","kz":"шірақ"}
+{"en":"carbon","kz":"көміртегі"}
+{"en":"castle","kz":"қорған"}
+{"en":"casual","kz":"кездейсоқ"}
+{"en":"cave","kz":"үңгір"}
+{"en":"certainty","kz":"сенімділік"}
+{"en":"certificate","kz":"сертификат"}
+{"en":"challenging","kz":"қиын"}
+{"en":"championship","kz":"чемпионат"}
+{"en":"charming","kz":"сүйкімді"}
+{"en":"chase","kz":"қуу"}
+{"en":"cheek","kz":"бет"}
+{"en":"cheer","kz":"қуаттау"}
+{"en":"chop","kz":"шабу"}
+{"en":"circuit","kz":"тізбек"}
+{"en":"civilization","kz":"өркениет"}
+{"en":"clarify","kz":"нақтылау"}
+{"en":"classify","kz":"жіктеу"}
+{"en":"cliff","kz":"жартас"}
+{"en":"clinic","kz":"емхана"}
+{"en":"clip","kz":"бекіткіш, клип"}
+{"en":"coincidence","kz":"сәйкес келу"}
+{"en":"collector","kz":"жинаушы"}
+{"en":"colony","kz":"отар"}
+{"en":"colorful","kz":"түрлі-түсті"}
+{"en":"comic","kz":"комик, комикс"}
+{"en":"commander","kz":"командир"}
+{"en":"comparative","kz":"салыстырмалы"}
+{"en":"completion","kz":"аяқталу"}
+{"en":"compose","kz":"құрастыру"}
+{"en":"composer","kz":"композитор"}
+{"en":"compound","kz":"қосынды"}
+{"en":"comprehensive","kz":"жан-жақты"}
+{"en":"comprise","kz":"қамту"}
+{"en":"compulsory","kz":"міндетті"}
+{"en":"concrete","kz":"нақты, бетон"}
+{"en":"confess","kz":"сөзсіздік"}
+{"en":"confusion","kz":"бұзылыс"}
+{"en":"consequently","kz":"соңынан да"}
+{"en":"conservation","kz":"сақтау"}
+{"en":"considerable","kz":"көптеген"}
+{"en":"considerably","kz":"кеңейдік"}
+{"en":"consistently","kz":"жүйелі"}
+{"en":"conspiracy","kz":"қастандық"}
+{"en":"consult","kz":"сұрау"}
+{"en":"consultant","kz":"сұхбаттандырушы"}
+{"en":"consumption","kz":"тұтыну"}
+{"en":"controversial","kz":"даулы"}
+{"en":"controversy","kz":"дау"}
+{"en":"convenience","kz":"жайлылық"}
+{"en":"convention","kz":"конвенция"}
+{"en":"conventional","kz":"дәстүрлі"}
+{"en":"convey","kz":"жеткізу"}
+{"en":"convincing","kz":"сенімді"}
+{"en":"cop","kz":"полицей"}
+{"en":"cope","kz":"көтеру, жеңу"}
+{"en":"corporation","kz":"корпорация"}
+{"en":"corridor","kz":"дәліз"}
+{"en":"counter","kz":"есептегіш"}
+{"en":"coverage","kz":"қамту"}
+{"en":"cowboy","kz":"ковбой"}
+{"en":"crack","kz":"жарылу"}
+{"en":"craft","kz":"қолөнер"}
+{"en":"creativity","kz":"шығармашылық"}
+{"en":"critically","kz":"сын көзбен"}
+{"en":"cruise","kz":"круиз"}
+{"en":"cue","kz":"сигнал"}
+{"en":"curious","kz":"қызық"}
+{"en":"curriculum","kz":"оқу бағдарламасы"}
+{"en":"cute","kz":"сүйкімді"}
+{"en":"dairy","kz":"сүт тағамы"}
+{"en":"dare","kz":"батылдық"}
+{"en":"darkness","kz":"қараңғылық"}
+{"en":"database","kz":"мәліметтер базасы"}
+{"en":"deadline","kz":"мерзімі"}
+{"en":"deadly","kz":"өлімге әкелетін"}
+{"en":"dealer","kz":"дилер"}
+{"en":"deck","kz":"палуба"}
+{"en":"defender","kz":"қорғаушы"}
+{"en":"delete","kz":"жою"}
+{"en":"delighted","kz":"қуанған"}
+{"en":"democracy","kz":"демократия"}
+{"en":"democratic","kz":"демократиялық"}
+{"en":"demonstration","kz":"демонстрация"}
+{"en":"depart","kz":"кету"}
+{"en":"dependent","kz":"тәуелді"}
+{"en":"deposit","kz":"салым"}
+{"en":"depression","kz":"депрессия"}
+{"en":"derive","kz":"шығару, алу"}
+{"en":"desperately","kz":"өте қатты"}
+{"en":"destruction","kz":"жойылу"}
+{"en":"determination","kz":"шешімділік"}
+{"en":"devote","kz":"арнау"}
+{"en":"differ","kz":"ерекшелену"}
+{"en":"dime","kz":"10 цент"}
+{"en":"disability","kz":"мүгедектік"}
+{"en":"disabled","kz":"мүгедек"}
+{"en":"disagreement","kz":"келіспеушілік"}
+{"en":"disappoint","kz":"көңілдіру"}
+{"en":"disappointment","kz":"көңілсіздік"}
+{"en":"discourage","kz":"қайтару"}
+{"en":"disorder","kz":"бұзылыс"}
+{"en":"distant","kz":"алыстағы"}
+{"en":"distinct","kz":"айқын"}
+{"en":"distinguish","kz":"айыра білу"}
+{"en":"distract","kz":"аландату"}
+{"en":"disturb","kz":"мазалау"}
+{"en":"dive","kz":"сүңгу"}
+{"en":"diverse","kz":"әртүрлі"}
+{"en":"diversity","kz":"әртүрлілік"}
+{"en":"divorce","kz":"ажырасу"}
+{"en":"dominant","kz":"басым"}
+{"en":"donation","kz":"қайырымдылық"}
+{"en":"dot","kz":"нүкте"}
+{"en":"dramatically","kz":"күрт"}
+{"en":"drought","kz":"құрғақшылық"}
+{"en":"dull","kz":"күңгірт"}
+{"en":"dump","kz":"тастау"}
+{"en":"duration","kz":"ұзақтығы"}
+{"en":"dynamic","kz":"серпінді"}
+{"en":"eager","kz":"ынталы"}
+{"en":"economics","kz":"экономика"}
+{"en":"economist","kz":"экономист"}
+{"en":"editorial","kz":"редакциялық"}
+{"en":"efficiently","kz":"тиімді"}
+{"en":"elbow","kz":"шынтақ"}
+{"en":"electronics","kz":"электроника"}
+{"en":"elegant","kz":"сәнді"}
+{"en":"elementary","kz":"бастауыш"}
+{"en":"eliminate","kz":"жою"}
+{"en":"embrace","kz":"құшақтау"}
+{"en":"emission","kz":"шығарынды"}
+{"en":"emotionally","kz":"эмоционалды"}
+{"en":"empire","kz":"империя"}
+{"en":"enjoyable","kz":"жағымды"}
+{"en":"entertaining","kz":"көңілді"}
+{"en":"entrepreneur","kz":"кәсіпкер"}
+{"en":"envelope","kz":"конверт"}
+{"en":"equip","kz":"жабдықтау"}
+{"en":"equivalent","kz":"балама"}
+{"en":"era","kz":"дәуір"}
+{"en":"erupt","kz":"атқылау"}
+{"en":"essentially","kz":"негізінен"}
+{"en":"ethic","kz":"этика"}
+{"en":"ethnic","kz":"этникалық"}
+{"en":"evaluation","kz":"бағалау"}
+{"en":"evident","kz":"айқын"}
+{"en":"evolution","kz":"эволюция"}
+{"en":"evolve","kz":"даму"}
+{"en":"exceed","kz":"асып түсу"}
+{"en":"exception","kz":"ерекшелік"}
+{"en":"excessive","kz":"шамадан тыс"}
+{"en":"exclude","kz":"алып тастау"}
+{"en":"exotic","kz":"экзотикалық"}
+{"en":"expansion","kz":"кеңею"}
+{"en":"expedition","kz":"экспедиция"}
+{"en":"expertise","kz":"біліктілік"}
+{"en":"exploit","kz":"пайдалану"}
+{"en":"exposure","kz":"әсер ету"}
+{"en":"extension","kz":"ұзарту"}
+{"en":"extensive","kz":"кең"}
+{"en":"extensively","kz":"кеңінен"}
+{"en":"extract","kz":"сығынды"}
+{"en":"fabric","kz":"мата"}
+{"en":"fabulous","kz":"керемет"}
+{"en":"faculty","kz":"факультет"}
+{"en":"failed","kz":"сәтсіз"}
+{"en":"fake","kz":"жалған"}
+{"en":"fame","kz":"атақ"}
+{"en":"fantasy","kz":"фантазия"}
+{"en":"fare","kz":"жолақы"}
+{"en":"firefighter","kz":"өрт сөндіруші"}
+{"en":"firework","kz":"отшашу"}
+{"en":"firm","kz":"берік"}
+{"en":"firmly","kz":"қатты"}
+{"en":"flavor","kz":"дәм"}
+{"en":"fond","kz":"сүйіспеншілік"}
+{"en":"fool","kz":"ақымақ"}
+{"en":"forbid","kz":"тыйым салу"}
+{"en":"forecast","kz":"болжам"}
+{"en":"format","kz":"формат"}
+{"en":"formation","kz":"құрылым"}
+{"en":"formerly","kz":"бұрын"}
+{"en":"fortunate","kz":"бақытты"}
+{"en":"forum","kz":"форум"}
+{"en":"fossil","kz":"қазба"}
+{"en":"foundation","kz":"негіз"}
+{"en":"founder","kz":"басты"}
+{"en":"fraction","kz":"бөлшек"}
+{"en":"fragment","kz":"үзінді"}
+{"en":"framework","kz":"құрылым"}
+{"en":"fraud","kz":"алаяқтық"}
+{"en":"freely","kz":"еркін"}
+{"en":"frequent","kz":"жағымды"}
+{"en":"fulfill","kz":"орындау"}
+{"en":"full-time","kz":"толық уақыттық"}
+{"en":"fundamentally","kz":"түбегейлі"}
+{"en":"furious","kz":"көзге қараулы"}
+{"en":"gallon","kz":"галлон"}
+{"en":"gaming","kz":"ойын"}
+{"en":"gay","kz":"гомосексуалды"}
+{"en":"gender","kz":"жыныс"}
+{"en":"gene","kz":"генетикалық"}
+{"en":"genetic","kz":"генетикалық"}
+{"en":"genius","kz":"данышпан"}
+{"en":"genuine","kz":"шын"}
+{"en":"genuinely","kz":"шын"}
+{"en":"gesture","kz":"им"}
+{"en":"globalization","kz":"жаһандану"}
+{"en":"globe","kz":"жер шары"}
+{"en":"golden","kz":"алтын"}
+{"en":"goodness","kz":"жақсылық"}
+{"en":"gorgeous","kz":"тамаша"}
+{"en":"graphic","kz":"графикалық"}
+{"en":"graphics","kz":"графика"}
+{"en":"greatly","kz":"көп"}
+{"en":"greenhouse","kz":"жылжай"}
+{"en":"guideline","kz":"нұсқаулық"}
+{"en":"habitat","kz":"тіршілік ортасы"}
+{"en":"harbor","kz":"гавань"}
+{"en":"headquarters","kz":"бас кеңсе"}
+{"en":"heal","kz":"жазылу"}
+{"en":"healthcare","kz":"денсаулық сақтау"}
+{"en":"helmet","kz":"каска"}
+{"en":"hence","kz":"сондықтан"}
+{"en":"herb","kz":"шөп"}
+{"en":"hidden","kz":"жасырын"}
+{"en":"hilarious","kz":"күлкілі"}
+{"en":"hip","kz":"жамбас"}
+{"en":"historian","kz":"тарихшы"}
+{"en":"homeless","kz":"үйсіз"}
+{"en":"honesty","kz":"шыншылдық"}
+{"en":"honey","kz":"бал"}
+{"en":"hook","kz":"ілмек"}
+{"en":"hopefully","kz":"үміттенемін"}
+{"en":"hunger","kz":"аштық"}
+{"en":"hypothesis","kz":"гипотеза"}
+{"en":"icon","kz":"белгі"}
+{"en":"ID","kz":"жеке куәлік"}
+{"en":"identical","kz":"бірдей"}
+{"en":"illusion","kz":"елес"}
+{"en":"immigration","kz":"иммиграция"}
+{"en":"immune","kz":"иммунды"}
+{"en":"implement","kz":"жүзеге асыру"}
+{"en":"implication","kz":"салдар"}
+{"en":"incentive","kz":"ынталандыру"}
+{"en":"incorporate","kz":"қосу"}
+{"en":"incorrect","kz":"дұрыс емес"}
+{"en":"independence","kz":"тәуелсіздік"}
+{"en":"index","kz":"көрсеткіш"}
+{"en":"indication","kz":"белгі"}
+{"en":"inevitable","kz":"сөзсіз"}
+{"en":"infer","kz":"тұжырымдау"}
+{"en":"inflation","kz":"инфляция"}
+{"en":"info","kz":"ақпарат"}
+{"en":"infrastructure","kz":"инфрақұрылым"}
+{"en":"inhabitant","kz":"тұрғын"}
+{"en":"inherit","kz":"мұраға алу"}
+{"en":"ink","kz":"си"}
+{"en":"innovation","kz":"инновация"}
+{"en":"innovative","kz":"инновациялық"}
+{"en":"input","kz":"кіріс"}
+{"en":"insert","kz":"енгізу"}
+{"en":"inspector","kz":"инспектор"}
+{"en":"installation","kz":"орнату"}
+{"en":"instant","kz":"лезде"}
+{"en":"instantly","kz":"затан"}
+{"en":"integrate","kz":"біріктіру"}
+{"en":"intellectual","kz":"интеллектуалды"}
+{"en":"interact","kz":"әрекеттесу"}
+{"en":"interaction","kz":"әрекеттесу"}
+{"en":"interpretation","kz":"түсіндіру"}
+{"en":"interval","kz":"аралық"}
+{"en":"invade","kz":"басып кіру"}
+{"en":"invasion","kz":"басып кіру"}
+{"en":"investor","kz":"инвестор"}
+{"en":"isolate","kz":"оқшаулау"}
+{"en":"isolated","kz":"оқшау"}
+{"en":"jail","kz":"түрме"}
+{"en":"jet","kz":"реактивті ұшақ"}
+{"en":"joint","kz":"бірлескен"}
+{"en":"journalism","kz":"журналистика"}
+{"en":"jury","kz":"әділқазылар"}
+{"en":"kindergarten","kz":"балабақша"}
+{"en":"kit","kz":"жиынтық"}
+{"en":"ladder","kz":"баспалдақ"}
+{"en":"landing","kz":"қону"}
+{"en":"lane","kz":"жолақ"}
+{"en":"lately","kz":"жақында"}
+{"en":"legend","kz":"аңыз"}
+{"en":"lens","kz":"линза"}
+{"en":"lifetime","kz":"өмір бойы"}
+{"en":"lighting","kz":"жарықтандыру"}
+{"en":"likewise","kz":"сол сияқты"}
+{"en":"limitation","kz":"шектеу"}
+{"en":"literally","kz":"сөзбе-сөз"}
+{"en":"literary","kz":"әдеби"}
+{"en":"litter","kz":"қоқыс"}
+{"en":"logo","kz":"логотип"}
+{"en":"lottery","kz":"лотерея"}
+{"en":"loyal","kz":"берік"}
+{"en":"lyric","kz":"лирика"}
+{"en":"makeup","kz":"косметика"}
+{"en":"making","kz":"жасау"}
+{"en":"manufacture","kz":"өндіру"}
+{"en":"manufacturing","kz":"өнеркәсіп"}
+{"en":"marathon","kz":"марафон"}
+{"en":"margin","kz":"маржа"}
+{"en":"marker","kz":"маркер"}
+{"en":"martial","kz":"әскери"}
+{"en":"mate","kz":"жолдас"}
+{"en":"mechanic","kz":"механик"}
+{"en":"mechanical","kz":"механикалық"}
+{"en":"mechanism","kz":"механизм"}
+{"en":"medal","kz":"медаль"}
+{"en":"medication","kz":"дәрі"}
+{"en":"membership","kz":"мүшелік"}
+{"en":"memorable","kz":"естен кетпейтін"}
+{"en":"metaphor","kz":"метафора"}
+{"en":"miner","kz":"кенші"}
+{"en":"miserable","kz":"бейшара"}
+{"en":"mode","kz":"режим"}
+{"en":"modest","kz":"қарапайым"}
+{"en":"monster","kz":"құбыжық"}
+{"en":"monthly","kz":"айлық"}
+{"en":"monument","kz":"ескерткіш"}
+{"en":"moreover","kz":"онымен қатар"}
+{"en":"mortgage","kz":"ипотека"}
+{"en":"mosque","kz":"мешіт"}
+{"en":"mosquito","kz":"қабырғақ"}
+{"en":"motion","kz":"қозғалыс"}
+{"en":"motivate","kz":"ынталандыру"}
+{"en":"motivation","kz":"мотивация"}
+{"en":"moving","kz":"қозғалмалы"}
+{"en":"myth","kz":"миф"}
+{"en":"naked","kz":"жаңаша"}
+{"en":"nasty","kz":"жағымсыз"}
+{"en":"navigation","kz":"навигация"}
+{"en":"nearby","kz":"жақын"}
+{"en":"necessity","kz":"қажеттілік"}
+{"en":"negotiate","kz":"келіссөз жүргізу"}
+{"en":"negotiation","kz":"келіссөз"}
+{"en":"neutral","kz":"бейтарап"}
+{"en":"newly","kz":"жаңадан"}
+{"en":"nickel","kz":"никель"}
+{"en":"norm","kz":"норма"}
+{"en":"notebook","kz":"дәптер"}
+{"en":"novelist","kz":"жазушы"}
+{"en":"nowadays","kz":"қазіргі кезде"}
+{"en":"nursing","kz":"медицина"}
+{"en":"nutrition","kz":"тамақтану"}
+{"en":"obesity","kz":"бұлшықет жүйесі"}
+{"en":"observer","kz":"бақылаушы"}
+{"en":"obstacle","kz":"кедергі"}
+{"en":"occupation","kz":"кәсіп"}
+{"en":"occupy","kz":"алу, иелену"}
+{"en":"offender","kz":"құқық бұзушы"}
+{"en":"ongoing","kz":"жалғасатын"}
+{"en":"openly","kz":"ашық"}
+{"en":"opera","kz":"опера"}
+{"en":"operator","kz":"оператор"}
+{"en":"optimistic","kz":"оптимистік"}
+{"en":"orchestra","kz":"оркестр"}
+{"en":"organic","kz":"органикалық"}
+{"en":"outfit","kz":"жаңғыру"}
+{"en":"output","kz":"шығарылым"}
+{"en":"outstanding","kz":"көрнекті"}
+{"en":"overcome","kz":"жеңу"}
+{"en":"overnight","kz":"түн ішінде"}
+{"en":"ownership","kz":"меншік"}
+{"en":"oxygen","kz":"оттегі"}
+{"en":"packet","kz":"бума"}
+{"en":"palm","kz":"алақан, пальма"}
+{"en":"panic","kz":"үрей"}
+{"en":"parade","kz":"шеру"}
+{"en":"parallel","kz":"параллель"}
+{"en":"participation","kz":"қатысу"}
+{"en":"partnership","kz":"серіктестік"}
+{"en":"part-time","kz":"толық емес жұмыс күні"}
+{"en":"passionate","kz":"құмар"}
+{"en":"password","kz":"құпия сөз"}
+{"en":"patch","kz":"жамау"}
+{"en":"patience","kz":"сабыр"}
+{"en":"pause","kz":"тоқтау"}
+{"en":"peer","kz":"тең"}
+{"en":"penalty","kz":"айыппұл"}
+{"en":"perceive","kz":"қабылдау"}
+{"en":"perception","kz":"қабылдау"}
+{"en":"permanently","kz":"тұрақты"}
+{"en":"pharmacy","kz":"дәріхана"}
+{"en":"physician","kz":"дәрігер"}
+{"en":"pill","kz":"дәрі"}
+{"en":"pity","kz":"аяушылық"}
+{"en":"placement","kz":"орналастыру"}
+{"en":"portion","kz":"бөлік"}
+{"en":"potentially","kz":"әлеуетті түрде"}
+{"en":"precede","kz":"алдында болу"}
+{"en":"precious","kz":"қымбат"}
+{"en":"precise","kz":"дәл"}
+{"en":"predictable","kz":"болжамды"}
+{"en":"preference","kz":"артықшылық"}
+{"en":"presidential","kz":"президенттік"}
+{"en":"pride","kz":"мақтаныш"}
+{"en":"primarily","kz":"негізінен"}
+{"en":"prior","kz":"бұрынғы"}
+{"en":"probability","kz":"ықтималдық"}
+{"en":"probable","kz":"ықтимал"}
+{"en":"proceed","kz":"жалғастыру"}
+{"en":"programming","kz":"бағдарламалау"}
+{"en":"progressive","kz":"прогрессивті"}
+{"en":"prohibit","kz":"тыйым салу"}
+{"en":"promising","kz":"үміт берер"}
+{"en":"promotion","kz":"жылжыту"}
+{"en":"prompt","kz":"итермелеу"}
+{"en":"proportion","kz":"пропорция"}
+{"en":"protein","kz":"белок"}
+{"en":"protester","kz":"наразылық білдіруші"}
+{"en":"psychological","kz":"психологиялық"}
+{"en":"publicity","kz":"жариялылық"}
+{"en":"publishing","kz":"баспа ісі"}
+{"en":"punk","kz":"панк"}
+{"en":"purely","kz":"таза"}
+{"en":"pursuit","kz":"іздеу"}
+{"en":"puzzle","kz":"жұмбақ"}
+{"en":"questionnaire","kz":"сауалнама"}
+{"en":"racial","kz":"нәсілдік"}
+{"en":"racism","kz":"нәсілшілдік"}
+{"en":"racist","kz":"нәсілшіл"}
+{"en":"radiation","kz":"радиация"}
+{"en":"rail","kz":"теміржол"}
+{"en":"random","kz":"кездейсоқ"}
+{"en":"rat","kz":"егеуқұйрық"}
+{"en":"rating","kz":"рейтинг"}
+{"en":"reasonably","kz":"ақылға қонымды"}
+{"en":"rebuild","kz":"қайта салу"}
+{"en":"receiver","kz":"қабылдағыш"}
+{"en":"recession","kz":"рецессия"}
+{"en":"reckon","kz":"есептеу"}
+{"en":"recognition","kz":"тану"}
+{"en":"recovery","kz":"қалпына келтіру"}
+{"en":"recruit","kz":"жұмысқа алу"}
+{"en":"referee","kz":"төреші"}
+{"en":"refugee","kz":"босқын"}
+{"en":"registration","kz":"тіркеу"}
+{"en":"regulate","kz":"реттеу"}
+{"en":"reinforce","kz":"күшейту"}
+{"en":"relieve","kz":"жеңілдету"}
+{"en":"relieved","kz":"жеңілдеген"}
+{"en":"remarkable","kz":"керемет"}
+{"en":"remarkably","kz":"керемет"}
+{"en":"rental","kz":"жалдау"}
+{"en":"reporting","kz":"есептіңіздіңіңізді қабылдауыңызға"}
+{"en":"resign","kz":"отставкаға кету"}
+{"en":"resolution","kz":"шешім"}
+{"en":"restore","kz":"қалпына келтіру"}
+{"en":"restrict","kz":"шектеу"}
+{"en":"resume","kz":"түйіндеме"}
+{"en":"retail","kz":"бөлшек сауда"}
+{"en":"retirement","kz":"зейнеткерлік"}
+{"en":"revenue","kz":"кіріс"}
+{"en":"revision","kz":"қайта қарау"}
+{"en":"ridiculous","kz":"күлкілі"}
+{"en":"risky","kz":"тәуекелді"}
+{"en":"rival","kz":"бәсекелес"}
+{"en":"rob","kz":"тонау"}
+{"en":"robbery","kz":"тонау"}
+{"en":"rocket","kz":"зымыран"}
+{"en":"romance","kz":"романтика"}
+{"en":"rose","kz":"раушан"}
+{"en":"roughly","kz":"шамамен"}
+{"en":"ruin","kz":"күйрету"}
+{"en":"satisfaction","kz":"қанағат"}
+{"en":"scandal","kz":"жанжал"}
+{"en":"scare","kz":"қорқыту"}
+{"en":"scenario","kz":"сценарий"}
+{"en":"scholar","kz":"ғалым"}
+{"en":"scholarship","kz":"стипендия"}
+{"en":"scratch","kz":"тырнау"}
+{"en":"screening","kz":"скрининг"}
+{"en":"seeker","kz":"іздеуші"}
+{"en":"seminar","kz":"семинар"}
+{"en":"settler","kz":"қоныстанушы"}
+{"en":"severely","kz":"қатты"}
+{"en":"sexy","kz":"сүйкімді"}
+{"en":"shaped","kz":"пішінделген"}
+{"en":"shocking","kz":"шок ететін"}
+{"en":"shore","kz":"жағалау"}
+{"en":"shortage","kz":"тапшылық"}
+{"en":"shortly","kz":"жақында"}
+{"en":"short-term","kz":"қысқа мерзімді"}
+{"en":"sibling","kz":"аға-іні, әпке-сіңлі"}
+{"en":"sidewalk","kz":"жүргінші жолы"}
+{"en":"signature","kz":"қолтаңба"}
+{"en":"significance","kz":"маңыздылық"}
+{"en":"skilled","kz":"білікті"}
+{"en":"skull","kz":"бас сүйек"}
+{"en":"slogan","kz":"ұран"}
+{"en":"so-called","kz":"деп аталатын"}
+{"en":"somehow","kz":"қалай болса да"}
+{"en":"sometime","kz":"бір кездері"}
+{"en":"sophisticated","kz":"күрделі"}
+{"en":"spare","kz":"қосалқы"}
+{"en":"specialize","kz":"мамандану"}
+{"en":"specify","kz":"нақтылау"}
+{"en":"spectacular","kz":"керемет"}
+{"en":"spectator","kz":"көрермен"}
+{"en":"speculate","kz":"болжау"}
+{"en":"speculation","kz":"болжам"}
+{"en":"spice","kz":"дәмдеуіш"}
+{"en":"spill","kz":"төгу"}
+{"en":"spite","kz":"ашуланшақтық"}
+{"en":"spoil","kz":"бүлдіру"}
+{"en":"spokesman","kz":"өкіл"}
+{"en":"spokesperson","kz":"өкіл"}
+{"en":"spokeswoman","kz":"өкілі"}
+{"en":"sponsorship","kz":"демеушілік"}
+{"en":"stall","kz":"дүңгіршек"}
+{"en":"stance","kz":"ұстаным"}
+{"en":"starve","kz":"ашығу"}
+{"en":"steadily","kz":"тұрақты"}
+{"en":"steam","kz":"бу"}
+{"en":"stimulate","kz":"ынталандыру"}
+{"en":"strengthen","kz":"күшейту"}
+{"en":"strictly","kz":"қатаң"}
+{"en":"stroke","kz":"соққы"}
+{"en":"stunning","kz":"таңғажайып"}
+{"en":"subsequent","kz":"кейінгі"}
+{"en":"subsequently","kz":"кейін"}
+{"en":"suburb","kz":"қала маңы"}
+{"en":"suffering","kz":"азап"}
+{"en":"sufficient","kz":"жеткілікті"}
+{"en":"sufficiently","kz":"жеткілікті"}
+{"en":"super","kz":"керемет"}
+{"en":"surgeon","kz":"хирург"}
+{"en":"survival","kz":"тірі қалу"}
+{"en":"survivor","kz":"тірі қалған"}
+{"en":"suspend","kz":"тоқтата тұру"}
+{"en":"sustainable","kz":"тұрақты"}
+{"en":"swallow","kz":"жұту"}
+{"en":"sympathetic","kz":"жанашыр"}
+{"en":"tackle","kz":"шешу, ұстау"}
+{"en":"tag","kz":"белгі"}
+{"en":"tap","kz":"шүмек, басу"}
+{"en":"technological","kz":"технологиялық"}
+{"en":"teen","kz":"жасөспірім"}
+{"en":"temple","kz":"ғибадатхана"}
+{"en":"temporarily","kz":"уақытша"}
+{"en":"tendency","kz":"бейімділік"}
+{"en":"tension","kz":"кернеу"}
+{"en":"terminal","kz":"терминал"}
+{"en":"terms","kz":"шарттар"}
+{"en":"terribly","kz":"өте қатты"}
+{"en":"terrify","kz":"үрейлендіру"}
+{"en":"territory","kz":"аумақ"}
+{"en":"terror","kz":"үрей"}
+{"en":"terrorism","kz":"терроризм"}
+{"en":"terrorist","kz":"террорист"}
+{"en":"testing","kz":"тестілеу"}
+{"en":"textbook","kz":"оқулық"}
+{"en":"theft","kz":"ұрлық"}
+{"en":"therapist","kz":"терапевт"}
+{"en":"thesis","kz":"диссертация"}
+{"en":"thorough","kz":"мұқият"}
+{"en":"thoroughly","kz":"мұқият"}
+{"en":"thumb","kz":"бас бармақ"}
+{"en":"timing","kz":"уақытты таңдау"}
+{"en":"tissue","kz":"ұлпа"}
+{"en":"tournament","kz":"турнир"}
+{"en":"trace","kz":"ізін байқау"}
+{"en":"trading","kz":"сауда"}
+{"en":"tragedy","kz":"трагедия"}
+{"en":"tragic","kz":"трагедиялық"}
+{"en":"trait","kz":"ерекшелік"}
+{"en":"transmit","kz":"тарату"}
+{"en":"trap","kz":"тұзақ"}
+{"en":"treasure","kz":"қазына"}
+{"en":"tribe","kz":"тайпа"}
+{"en":"trigger","kz":"бастау"}
+{"en":"trillion","kz":"триллион"}
+{"en":"troop","kz":"әскер"}
+{"en":"tsunami","kz":"цунами"}
+{"en":"ultimate","kz":"түпкілікті"}
+{"en":"unacceptable","kz":"қолайсыз"}
+{"en":"uncertainty","kz":"белгісіздік"}
+{"en":"undergo","kz":"бастан кешіру"}
+{"en":"undertake","kz":"қолға алу"}
+{"en":"unfold","kz":"ашу"}
+{"en":"unfortunate","kz":"бақытсыз"}
+{"en":"unite","kz":"біріктіру"}
+{"en":"unity","kz":"бірлік"}
+{"en":"universal","kz":"әмбебап"}
+{"en":"urgent","kz":"аса маңызды"}
+{"en":"usage","kz":"қолдану"}
+{"en":"useless","kz":"пайдасыз"}
+{"en":"valid","kz":"жарамды"}
+{"en":"variation","kz":"өзгеріс"}
+{"en":"vertical","kz":"тік"}
+{"en":"viewpoint","kz":"көзқарас"}
+{"en":"visa","kz":"виза"}
+{"en":"visible","kz":"көрінетін"}
+{"en":"voluntary","kz":"ерікті"}
+{"en":"voting","kz":"дауыс беру"}
+{"en":"wander","kz":"кезу"}
+{"en":"warming","kz":"жылыну"}
+{"en":"weekly","kz":"апталық"}
+{"en":"weird","kz":"біртүрлі"}
+{"en":"welfare","kz":"әл-ауқат"}
+{"en":"wheat","kz":"бидай"}
+{"en":"whoever","kz":"кім болса да"}
+{"en":"widespread","kz":"кең таралған"}
+{"en":"wisdom","kz":"даналық"}
+{"en":"withdraw","kz":"алып қою"}
+{"en":"wolf","kz":"қасқыр"}
+{"en":"workforce","kz":"жұмыс күші"}
+{"en":"workplace","kz":"жұмыс орны"}
+{"en":"workshop","kz":"семинар"}
+{"en":"worm","kz":"құрт"}
+{"en":"wrist","kz":"білезік"}
+{"en":"abolish","kz":"жою"}
+{"en":"abortion","kz":"түсік"}
+{"en":"absence","kz":"жоқтық"}
+{"en":"absent","kz":"жоқ"}
+{"en":"absurd","kz":"ақылға сыймайтын"}
+{"en":"abuse","kz":"қиянат, қорлау"}
+{"en":"academy","kz":"академия"}
+{"en":"accelerate","kz":"жеделдету"}
+{"en":"acceptance","kz":"қабылдау"}
+{"en":"accessible","kz":"қолжетімді"}
+{"en":"accomplishment","kz":"жетістік"}
+{"en":"accordingly","kz":"тиісінше"}
+{"en":"accountability","kz":"есеп беру"}
+{"en":"accountable","kz":"есеп беретін"}
+{"en":"accumulate","kz":"жинау"}
+{"en":"accumulation","kz":"жинақталу"}
+{"en":"accusation","kz":"айыптау"}
+{"en":"accused","kz":"айыпталған"}
+{"en":"acid","kz":"қышқылды"}
+{"en":"acquisition","kz":"иемдену"}
+{"en":"activation","kz":"белсендіру"}
+{"en":"activist","kz":"активист"}
+{"en":"acute","kz":"өткір"}
+{"en":"adaptation","kz":"бейімделу"}
+{"en":"adhere","kz":"ұстану"}
+{"en":"adjacent","kz":"іргелес"}
+{"en":"adjustment","kz":"реттеу"}
+{"en":"administer","kz":"басқару"}
+{"en":"administrative","kz":"әкімшілік"}
+{"en":"administrator","kz":"әкімші"}
+{"en":"admission","kz":"кіру, мойындау"}
+{"en":"adolescent","kz":"жасөспірім"}
+{"en":"adoption","kz":"қабылдау"}
+{"en":"adverse","kz":"қолайсыз"}
+{"en":"advocate","kz":"қорғаушы"}
+{"en":"aesthetic","kz":"эстетикалық"}
+{"en":"affection","kz":"сүйіспеншілік"}
+{"en":"aftermath","kz":"салдары"}
+{"en":"aggression","kz":"агрессия"}
+{"en":"agricultural","kz":"ауыл шаруашылығы"}
+{"en":"aide","kz":"көмекші"}
+{"en":"alert","kz":"ескерту, ескерту"}
+{"en":"alien","kz":"бөтен"}
+{"en":"align","kz":"сайкестендіру"}
+{"en":"alignment","kz":"сәйкестендіру"}
+{"en":"alike","kz":"ұқсас"}
+{"en":"allegation","kz":"мәлімдеме"}
+{"en":"allege","kz":"мәлімдеу"}
+{"en":"alliance","kz":"одақ"}
+{"en":"allocate","kz":"бөлу"}
+{"en":"allocation","kz":"бөлу"}
+{"en":"allowance","kz":"жәрдемақы"}
+{"en":"ally","kz":"одақтас"}
+{"en":"aluminum","kz":"алюминий"}
+{"en":"amateur","kz":"әуесқой"}
+{"en":"ambassador","kz":"елші"}
+{"en":"amend","kz":"түзету"}
+{"en":"amendment","kz":"түзету"}
+{"en":"amid","kz":"арасында"}
+{"en":"analogy","kz":"ұқсастық"}
+{"en":"anchor","kz":"зәкір"}
+{"en":"angel","kz":"періште"}
+{"en":"anonymous","kz":"анонимді"}
+{"en":"apparatus","kz":"аппарат"}
+{"en":"apparel","kz":"киім"}
+{"en":"appealing","kz":"тартымды"}
+{"en":"appetite","kz":"тәбет"}
+{"en":"applaud","kz":"қарсы алу, соққы"}
+{"en":"applicable","kz":"қолдануға болатын"}
+{"en":"appoint","kz":"тағайындау"}
+{"en":"appreciation","kz":"бағалау"}
+{"en":"arbitrary","kz":"ерікті"}
+{"en":"architectural","kz":"сәулеттік"}
+{"en":"archive","kz":"мұрағат"}
+{"en":"arena","kz":"арена"}
+{"en":"arm","kz":"қолғап"}
+{"en":"array","kz":"жинақ"}
+{"en":"articulate","kz":"айқын айту"}
+{"en":"ash","kz":"күл"}
+{"en":"aspiration","kz":"ұмтылыс"}
+{"en":"aspire","kz":"ұмтылу"}
+{"en":"assassination","kz":"өлтіру"}
+{"en":"assault","kz":"шабуыл"}
+{"en":"assemble","kz":"жинау"}
+{"en":"assembly","kz":"жиналыс"}
+{"en":"assert","kz":"мәлімдеу"}
+{"en":"assertion","kz":"мәлімдеме"}
+{"en":"assurance","kz":"сенім"}
+{"en":"asylum","kz":"баспана"}
+{"en":"atrocity","kz":"қатыгездік"}
+{"en":"attain","kz":"жету"}
+{"en":"attendance","kz":"қатысу"}
+{"en":"attribute","kz":"меншіктеу"}
+{"en":"auction","kz":"аукцион"}
+{"en":"audit","kz":"тексеру"}
+{"en":"authentic","kz":"шын"}
+{"en":"authorize","kz":"уәкілеттік беру"}
+{"en":"auto","kz":"автомобиль"}
+{"en":"autonomy","kz":"автономия"}
+{"en":"autumn","kz":"күз"}
+{"en":"availability","kz":"қолжетімділік"}
+{"en":"await","kz":"күту"}
+{"en":"backdrop","kz":"фон"}
+{"en":"backing","kz":"қолдау"}
+{"en":"backup","kz":"көшірме"}
+{"en":"bail","kz":"кепілдік"}
+{"en":"ballot","kz":"дауыс беру"}
+{"en":"bankruptcy","kz":"банкроттық"}
+{"en":"banner","kz":"бейнерлік"}
+{"en":"bare","kz":"жаңашыл"}
+{"en":"barrel","kz":"бөшке"}
+{"en":"bass","kz":"бас"}
+{"en":"bat","kz":"соққы беру"}
+{"en":"battlefield","kz":"соғыс алаңы"}
+{"en":"bay","kz":"шығанақ"}
+{"en":"beam","kz":"арқалық"}
+{"en":"beast","kz":"құбыжық"}
+{"en":"behalf","kz":"атынан"}
+{"en":"behavioral","kz":"мінез-құлықтық"}
+{"en":"beloved","kz":"сүйікті"}
+{"en":"bench","kz":"орындық"}
+{"en":"benchmark","kz":"бағдар"}
+{"en":"beneath","kz":"астында"}
+{"en":"beneficiary","kz":"алушы"}
+{"en":"betray","kz":"сату"}
+{"en":"beverage","kz":"сусын"}
+{"en":"bind","kz":"байлау"}
+{"en":"biography","kz":"өмірбаян"}
+{"en":"bishop","kz":"епископ"}
+{"en":"bizarre","kz":"біртүрлі"}
+{"en":"blade","kz":"жүз"}
+{"en":"blast","kz":"жарылыс"}
+{"en":"bleed","kz":"қан кету"}
+{"en":"blend","kz":"араластыру"}
+{"en":"bless","kz":"бәсеке"}
+{"en":"blessing","kz":"бәсеке"}
+{"en":"boast","kz":"мақтану"}
+{"en":"bonus","kz":"бонус"}
+{"en":"booking","kz":"брондау"}
+{"en":"boom","kz":"өрлеу"}
+{"en":"bounce","kz":"секіру"}
+{"en":"boundary","kz":"шекара"}
+{"en":"bow","kz":"бас ию"}
+{"en":"breach","kz":"бұзу"}
+{"en":"breakdown","kz":"бұзылу"}
+{"en":"breakthrough","kz":"серпіліс"}
+{"en":"breed","kz":"өсіру"}
+{"en":"broadband","kz":"кеңжолақты"}
+{"en":"browser","kz":"браузер"}
+{"en":"brutal","kz":"қатыгез"}
+{"en":"buddy","kz":"жолдас"}
+{"en":"buffer","kz":"буфер"}
+{"en":"bulk","kz":"көпшілік"}
+{"en":"burden","kz":"ауыртпалық"}
+{"en":"bureaucracy","kz":"бюрократия"}
+{"en":"burial","kz":"жерлеу"}
+{"en":"burst","kz":"жарылу"}
+{"en":"cabinet","kz":"кабинет"}
+{"en":"calculation","kz":"есептеу"}
+{"en":"canvas","kz":"кенеп"}
+{"en":"capability","kz":"қабілет"}
+{"en":"capitalism","kz":"капитализм"}
+{"en":"capitalist","kz":"капиталистік"}
+{"en":"cargo","kz":"жүк"}
+{"en":"carriage","kz":"арба"}
+{"en":"carve","kz":"ойып салу"}
+{"en":"casino","kz":"казино"}
+{"en":"casualty","kz":"жазатайым оқиға"}
+{"en":"catalog","kz":"каталог"}
+{"en":"cater","kz":"қамтамасыз ету"}
+{"en":"cattle","kz":"ірі қара"}
+{"en":"caution","kz":"сақтық"}
+{"en":"cautious","kz":"сақ"}
+{"en":"cease","kz":"тоқтату"}
+{"en":"cemetery","kz":"зират"}
+{"en":"chamber","kz":"палата"}
+{"en":"chaos","kz":"хаос"}
+{"en":"characterize","kz":"сипаттау"}
+{"en":"charm","kz":"сүйкімділік"}
+{"en":"charter","kz":"жарғы"}
+{"en":"choir","kz":"хор"}
+{"en":"chronic","kz":"созылмалы"}
+{"en":"chunk","kz":"бөлік"}
+{"en":"circulate","kz":"тарату"}
+{"en":"circulation","kz":"айналым"}
+{"en":"citizenship","kz":"азаматтық"}
+{"en":"civic","kz":"азаматтық"}
+{"en":"civilian","kz":"бейбіт тұрғын"}
+{"en":"clarity","kz":"айқындық"}
+{"en":"clash","kz":"қақтығыс"}
+{"en":"classification","kz":"жіктеу"}
+{"en":"cling","kz":"жабысу"}
+{"en":"clinical","kz":"клиникалық"}
+{"en":"closure","kz":"жабу"}
+{"en":"cluster","kz":"топтама"}
+{"en":"coalition","kz":"коалиция"}
+{"en":"coastal","kz":"жағалаулық"}
+{"en":"cocktail","kz":"коктейль"}
+{"en":"cognitive","kz":"когнитивті"}
+{"en":"coincide","kz":"сәйкес келу"}
+{"en":"collaborate","kz":"ынтымақтасу"}
+{"en":"collaboration","kz":"ынтымақтастық"}
+{"en":"collective","kz":"ұжымдық"}
+{"en":"collision","kz":"соқтығысу"}
+{"en":"colonial","kz":"отаршылдық"}
+{"en":"columnist","kz":"колумнист"}
+{"en":"combat","kz":"күрес"}
+{"en":"commence","kz":"бастау"}
+{"en":"commentary","kz":"түсініктеме"}
+{"en":"commentator","kz":"түсіндіруші"}
+{"en":"commerce","kz":"коммерция"}
+{"en":"commissioner","kz":"комиссар"}
+{"en":"commodity","kz":"тауар"}
+{"en":"communist","kz":"коммунистік"}
+{"en":"companion","kz":"серік"}
+{"en":"comparable","kz":"салыстырмалы"}
+{"en":"compassion","kz":"жанашырлық"}
+{"en":"compel","kz":"мәжбүрлеу"}
+{"en":"compelling","kz":"сенімді"}
+{"en":"compensate","kz":"өтемақы төлеу"}
+{"en":"compensation","kz":"өтемақы"}
+{"en":"competence","kz":"құзыреттілік"}
+{"en":"competent","kz":"құзыретті"}
+{"en":"compile","kz":"жинақтау"}
+{"en":"complement","kz":"толықтыру"}
+{"en":"complexity","kz":"күрделілік"}
+{"en":"compliance","kz":"сәйкестік"}
+{"en":"complication","kz":"асқыну"}
+{"en":"comply","kz":"сақтау"}
+{"en":"composition","kz":"құрам"}
+{"en":"compromise","kz":"ымыра"}
+{"en":"compute","kz":"есептеу"}
+{"en":"conceal","kz":"жасыру"}
+{"en":"concede","kz":"мойындау"}
+{"en":"conceive","kz":"ойластыру"}
+{"en":"conception","kz":"түсінік"}
+{"en":"concession","kz":"жеңілдік"}
+{"en":"condemn","kz":"қарғау"}
+{"en":"confer","kz":"кеңесу"}
+{"en":"confession","kz":"мойындау"}
+{"en":"configuration","kz":"конфигурация"}
+{"en":"confine","kz":"шектеу"}
+{"en":"confirmation","kz":"растау"}
+{"en":"confront","kz":"қарсы тұру"}
+{"en":"confrontation","kz":"қарсы тұру"}
+{"en":"congratulate","kz":"құттықтау"}
+{"en":"congregation","kz":"жиналыс"}
+{"en":"congressional","kz":"конгресстік"}
+{"en":"conquer","kz":"жаулап алу"}
+{"en":"conscience","kz":"ар-ұят"}
+{"en":"consciousness","kz":"сана"}
+{"en":"consecutive","kz":"бірізді"}
+{"en":"consensus","kz":"келісім"}
+{"en":"consent","kz":"келісім"}
+{"en":"conserve","kz":"сақтау"}
+{"en":"consistency","kz":"тұрақтылық"}
+{"en":"consolidate","kz":"біріктіру"}
+{"en":"constitute","kz":"құрау"}
+{"en":"constitution","kz":"конституция"}
+{"en":"constitutional","kz":"конституциялық"}
+{"en":"constraint","kz":"шектеу"}
+{"en":"consultation","kz":"кеңес"}
+{"en":"contemplate","kz":"ойлану"}
+{"en":"contempt","kz":"жеккөрушілік"}
+{"en":"contend","kz":"дауласу"}
+{"en":"contender","kz":"үміткер"}
+{"en":"content","kz":"мазмұнды, қанағаттанған"}
+{"en":"contention","kz":"талас"}
+{"en":"continually","kz":"үздіксіз"}
+{"en":"contractor","kz":"мердігер"}
+{"en":"contradiction","kz":"қайшылық"}
+{"en":"contrary","kz":"керісінше"}
+{"en":"contributor","kz":"автор"}
+{"en":"conversion","kz":"түрлендіру"}
+{"en":"convict","kz":"соттау"}
+{"en":"conviction","kz":"сенім"}
+{"en":"cooperate","kz":"ынтымақтасу"}
+{"en":"cooperative","kz":"кооперативті"}
+{"en":"coordinate","kz":"үйлестіру"}
+{"en":"coordination","kz":"үйлестіру"}
+{"en":"coordinator","kz":"үйлестіруші"}
+{"en":"copper","kz":"мыс"}
+{"en":"copyright","kz":"авторлық құқық"}
+{"en":"correction","kz":"түзету"}
+{"en":"correlate","kz":"байланыстыру"}
+{"en":"correlation","kz":"байланыс"}
+{"en":"correspond","kz":"сәйкес келу"}
+{"en":"correspondence","kz":"хат алысу"}
+{"en":"correspondent","kz":"тілші"}
+{"en":"corresponding","kz":"тиісті"}
+{"en":"corrupt","kz":"сатылған"}
+{"en":"corruption","kz":"сыбайлас жемқорлық"}
+{"en":"costly","kz":"қымбат"}
+{"en":"councilor","kz":"кеңесші"}
+{"en":"counseling","kz":"кеңес беру"}
+{"en":"counselor","kz":"кеңесші"}
+{"en":"counter","kz":"қарсы тұру"}
+{"en":"counterpart","kz":"балама"}
+{"en":"countless","kz":"сансыз"}
+{"en":"coup","kz":"төңкеріс"}
+{"en":"courtesy","kz":"сыпайылық"}
+{"en":"craft","kz":"шеберлікпен жасау"}
+{"en":"crawl","kz":"жорғалау"}
+{"en":"creator","kz":"жаратушы"}
+{"en":"credibility","kz":"сенімділік"}
+{"en":"credible","kz":"сенімді"}
+{"en":"creep","kz":"басып кіру"}
+{"en":"critique","kz":"сын"}
+{"en":"crown","kz":"тәж"}
+{"en":"crude","kz":"өңделмеген"}
+{"en":"crush","kz":"жапсарлау, басу"}
+{"en":"crystal","kz":"кристал"}
+{"en":"cult","kz":"культ"}
+{"en":"cultivate","kz":"өсіру"}
+{"en":"curiosity","kz":"қызығушылық"}
+{"en":"custody","kz":"қамқорлық"}
+{"en":"cutting","kz":"кесу"}
+{"en":"cynical","kz":"циникалық"}
+{"en":"dam","kz":"бөгет"}
+{"en":"damaging","kz":"зиянды"}
+{"en":"dawn","kz":"таң"}
+{"en":"debris","kz":"сынықтар"}
+{"en":"debut","kz":"дебют"}
+{"en":"decision-making","kz":"шешім қабылдау"}
+{"en":"decisive","kz":"шешуші"}
+{"en":"declaration","kz":"декларация"}
+{"en":"dedicated","kz":"берілген"}
+{"en":"dedication","kz":"берілгендік"}
+{"en":"deed","kz":"іс-әрекет"}
+{"en":"deem","kz":"санау"}
+{"en":"default","kz":"әдепкі"}
+{"en":"defect","kz":"ақау"}
+{"en":"defensive","kz":"қорғаныс"}
+{"en":"deficiency","kz":"жетіспеушілік"}
+{"en":"deficit","kz":"тапшылық"}
+{"en":"defy","kz":"қарсы тұру"}
+{"en":"delegate","kz":"делегат"}
+{"en":"delegation","kz":"делегация"}
+{"en":"delicate","kz":"нәзік"}
+{"en":"demon","kz":"сайтан"}
+{"en":"denial","kz":"бас тарту"}
+{"en":"denounce","kz":"жариялау"}
+{"en":"dense","kz":"тығыз"}
+{"en":"density","kz":"тығыздық"}
+{"en":"dependence","kz":"тәуелділік"}
+{"en":"depict","kz":"бейнелеу"}
+{"en":"deploy","kz":"орналастыру"}
+{"en":"deprive","kz":"айыру"}
+{"en":"deputy","kz":"орынбасар"}
+{"en":"descend","kz":"төмен түсу"}
+{"en":"descent","kz":"түсу"}
+{"en":"designate","kz":"белгілеу"}
+{"en":"desirable","kz":"қалаулы"}
+{"en":"desktop","kz":"үстел үсті"}
+{"en":"destructive","kz":"жойқын"}
+{"en":"detain","kz":"қамау"}
+{"en":"detection","kz":"анықтау"}
+{"en":"detention","kz":"қамау"}
+{"en":"deteriorate","kz":"нашарлау"}
+{"en":"devastate","kz":"күйрету"}
+{"en":"devil","kz":"шайтан"}
+{"en":"devise","kz":"ойлап табу"}
+{"en":"diagnose","kz":"диагноз қою"}
+{"en":"diagnosis","kz":"диагноз"}
+{"en":"dictate","kz":"диктант айту"}
+{"en":"dictator","kz":"диктатор"}
+{"en":"differentiate","kz":"ажырату"}
+{"en":"dignity","kz":"адамгершілік"}
+{"en":"dilemma","kz":"дилемма"}
+{"en":"dimension","kz":"өлшем"}
+{"en":"diminish","kz":"кему"}
+{"en":"dip","kz":"батыру"}
+{"en":"diplomat","kz":"дипломат"}
+{"en":"diplomatic","kz":"дипломатиялық"}
+{"en":"directory","kz":"анықтамалық"}
+{"en":"disastrous","kz":"апатты"}
+{"en":"discard","kz":"тастау"}
+{"en":"discharge","kz":"босату"}
+{"en":"disclose","kz":"ашу"}
+{"en":"disclosure","kz":"ашу"}
+{"en":"discourse","kz":"сөз"}
+{"en":"discretion","kz":"қалауы"}
+{"en":"discrimination","kz":"кемсіту"}
+{"en":"dismissal","kz":"жұмыстан шығару"}
+{"en":"displace","kz":"орнынан қозғау"}
+{"en":"disposal","kz":"жою"}
+{"en":"dispose","kz":"тастау"}
+{"en":"dispute","kz":"дау"}
+{"en":"disrupt","kz":"бұзу"}
+{"en":"disruption","kz":"бұзу"}
+{"en":"dissolve","kz":"еру"}
+{"en":"distinction","kz":"айырмашылық"}
+{"en":"distinctive","kz":"ерекше"}
+{"en":"distort","kz":"бұрмалау"}
+{"en":"distress","kz":"қайғы"}
+{"en":"disturbing","kz":"мазасыздандыратын"}
+{"en":"divert","kz":"бұру"}
+{"en":"divine","kz":"құдайлық"}
+{"en":"doctrine","kz":"доктрина"}
+{"en":"documentation","kz":"құжаттама"}
+{"en":"domain","kz":"сала"}
+{"en":"dominance","kz":"үстемдік"}
+{"en":"donor","kz":"донор"}
+{"en":"dose","kz":"доза"}
+{"en":"drain","kz":"құрғату"}
+{"en":"drift","kz":"ағып жүру"}
+{"en":"driving","kz":"жүргізу"}
+{"en":"drown","kz":"суға бату"}
+{"en":"dual","kz":"қос"}
+{"en":"dub","kz":"дубляж"}
+{"en":"dumb","kz":"саңырау"}
+{"en":"duo","kz":"дуэт"}
+{"en":"dynamic","kz":"динамика"}
+{"en":"earnings","kz":"табыс"}
+{"en":"ease","kz":"жеңілдету"}
+{"en":"echo","kz":"жаңғырық"}
+{"en":"ecological","kz":"экологиялық"}
+{"en":"educator","kz":"педагог"}
+{"en":"effectiveness","kz":"тиімділік"}
+{"en":"efficiency","kz":"тиімділік"}
+{"en":"ego","kz":"эго"}
+{"en":"elaborate","kz":"егжей-тегжейлі"}
+{"en":"electoral","kz":"сайлау"}
+{"en":"elevate","kz":"көтеру"}
+{"en":"eligible","kz":"құқылы"}
+{"en":"elite","kz":"элита"}
+{"en":"embark","kz":"бастау"}
+{"en":"embarrassment","kz":"ұялу"}
+{"en":"embassy","kz":"елшілік"}
+{"en":"embed","kz":"енгізу"}
+{"en":"embody","kz":"бейнелеу"}
+{"en":"emergence","kz":"пайда болу"}
+{"en":"empirical","kz":"эмпирикалық"}
+{"en":"empower","kz":"құқық беру"}
+{"en":"enact","kz":"заңдастыру"}
+{"en":"encompass","kz":"қамту"}
+{"en":"encouragement","kz":"қолдау"}
+{"en":"encouraging","kz":"қолдайтын"}
+{"en":"endeavor","kz":"әрекет"}
+{"en":"endless","kz":"шексіз"}
+{"en":"endorse","kz":"қолдау"}
+{"en":"endorsement","kz":"қолдау"}
+{"en":"endure","kz":"шыдау"}
+{"en":"enforce","kz":"күшпен жүзеге асыру"}
+{"en":"enforcement","kz":"күшпен жүзеге асыру"}
+{"en":"engagement","kz":"қатысу"}
+{"en":"engaging","kz":"тартымды"}
+{"en":"enrich","kz":"байыту"}
+{"en":"enroll","kz":"тіркеу"}
+{"en":"ensue","kz":"нәтижесінде болу"}
+{"en":"enterprise","kz":"кәсіпорын"}
+{"en":"enthusiast","kz":"құмар"}
+{"en":"entitle","kz":"құқық беру"}
+{"en":"entity","kz":"субъект"}
+{"en":"epidemic","kz":"эпидемия"}
+{"en":"equality","kz":"теңдік"}
+{"en":"equation","kz":"теңдеу"}
+{"en":"erect","kz":"тұрғызу"}
+{"en":"escalate","kz":"өршу"}
+{"en":"essence","kz":"мәні"}
+{"en":"establishment","kz":"мекеме"}
+{"en":"eternal","kz":"мәңгі"}
+{"en":"evacuate","kz":"эвакуациялау"}
+{"en":"evoke","kz":"тудыру"}
+{"en":"evolutionary","kz":"эволюциялық"}
+{"en":"exaggerate","kz":"асыра сілтеу"}
+{"en":"excellence","kz":"кемелдік"}
+{"en":"exceptional","kz":"ерекше"}
+{"en":"excess","kz":"артық"}
+{"en":"exclusion","kz":"алып тастау"}
+{"en":"exclusive","kz":"эксклюзивті"}
+{"en":"exclusively","kz":"тек"}
+{"en":"execute","kz":"орындау"}
+{"en":"execution","kz":"орындау"}
+{"en":"exert","kz":"қолдану"}
+{"en":"exile","kz":"жер аудару"}
+{"en":"expenditure","kz":"шығын"}
+{"en":"experimental","kz":"эксперименттік"}
+{"en":"expire","kz":"мерзімі аяқталу"}
+{"en":"explicit","kz":"айқын"}
+{"en":"explicitly","kz":"айқын"}
+{"en":"exploitation","kz":"пайдалану"}
+{"en":"explosive","kz":"жарылғыш"}
+{"en":"extract","kz":"алу"}
+{"en":"extremist","kz":"экстремист"}
+{"en":"facilitate","kz":"жеңілдету"}
+{"en":"faction","kz":"фракция"}
+{"en":"fade","kz":"өшу"}
+{"en":"fairness","kz":"әділдік"}
+{"en":"fatal","kz":"өлімге әкелетін"}
+{"en":"fate","kz":"тағдыр"}
+{"en":"favorable","kz":"қолайлы"}
+{"en":"feat","kz":"ерлік"}
+{"en":"felony","kz":"қылмыс"}
+{"en":"feminist","kz":"феминист"}
+{"en":"fiber","kz":"нитка"}
+{"en":"fierce","kz":"ауыр"}
+{"en":"filmmaker","kz":"режиссер"}
+{"en":"filter","kz":"сүзгі"}
+{"en":"fine","kz":"айыппұл"}
+{"en":"firearm","kz":"атыс қаруы"}
+{"en":"fiscal","kz":"қаржы"}
+{"en":"fit","kz":"ұстама"}
+{"en":"flaw","kz":"кемшілік"}
+{"en":"flawed","kz":"кемістігі бар"}
+{"en":"flee","kz":"қашу"}
+{"en":"fleet","kz":"флот"}
+{"en":"flesh","kz":"ет"}
+{"en":"flexibility","kz":"икемділік"}
+{"en":"flourish","kz":"өркендеу"}
+{"en":"fluid","kz":"сұйықтық"}
+{"en":"footage","kz":"кадр"}
+{"en":"foreigner","kz":"шетелдік"}
+{"en":"forge","kz":"соғу"}
+{"en":"formula","kz":"формула"}
+{"en":"formulate","kz":"тұжырымдау"}
+{"en":"forth","kz":"алға"}
+{"en":"forthcoming","kz":"алдағы"}
+{"en":"foster","kz":"қолдау"}
+{"en":"fragile","kz":"сынғыш"}
+{"en":"franchise","kz":"франшиза"}
+{"en":"frankly","kz":"ашық"}
+{"en":"freshman","kz":"бірінші курс"}
+{"en":"frustrated","kz":"көңілсіз"}
+{"en":"frustrating","kz":"көптегендік"}
+{"en":"frustration","kz":"көңілсіздік"}
+{"en":"functional","kz":"функционалды"}
+{"en":"fundraising","kz":"қаражат жинау"}
+{"en":"funeral","kz":"жерлеу"}
+{"en":"gambling","kz":"құмар ойын"}
+{"en":"gathering","kz":"жиналыс"}
+{"en":"gaze","kz":"көз тастау"}
+{"en":"gear","kz":"беріліс"}
+{"en":"generic","kz":"жалпы"}
+{"en":"genocide","kz":"геноцид"}
+{"en":"gig","kz":"концерт"}
+{"en":"glance","kz":"көз салу"}
+{"en":"glimpse","kz":"көз салу"}
+{"en":"glorious","kz":"даңқты"}
+{"en":"glory","kz":"даңқ"}
+{"en":"governance","kz":"басқару"}
+{"en":"grace","kz":"сүйкімділік"}
+{"en":"grasp","kz":"ұстау"}
+{"en":"grave","kz":"ауыр"}
+{"en":"gravity","kz":"тартылыс"}
+{"en":"grid","kz":"тор"}
+{"en":"grief","kz":"қайғы"}
+{"en":"grin","kz":"күлу"}
+{"en":"grind","kz":"үккіштеу"}
+{"en":"grip","kz":"ұстау"}
+{"en":"gross","kz":"жалпы"}
+{"en":"guerrilla","kz":"партизан"}
+{"en":"guidance","kz":"басшылық"}
+{"en":"guilt","kz":"кінілеуі"}
+{"en":"gut","kz":"ішек"}
+{"en":"hail","kz":"сәл"}
+{"en":"halfway","kz":"жарты жолда"}
+{"en":"halt","kz":"тоқтату"}
+{"en":"handful","kz":"уыс"}
+{"en":"handling","kz":"өңдеу"}
+{"en":"handy","kz":"ыңғайлы"}
+{"en":"harassment","kz":"зәбірлеуі"}
+{"en":"hardware","kz":"аппараттық құрал"}
+{"en":"harmony","kz":"үйлесім"}
+{"en":"harsh","kz":"қатал"}
+{"en":"harvest","kz":"егін жинау"}
+{"en":"hatred","kz":"жеккөрушілік"}
+{"en":"haunt","kz":"мазалау"}
+{"en":"hazard","kz":"қауіп"}
+{"en":"heighten","kz":"күшейту"}
+{"en":"heritage","kz":"мұра"}
+{"en":"hierarchy","kz":"иерархия"}
+{"en":"high-profile","kz":"әйгілі"}
+{"en":"hint","kz":"нұсқау"}
+{"en":"homeland","kz":"Отан"}
+{"en":"hook","kz":"ілге косу"}
+{"en":"hopeful","kz":"үмітті"}
+{"en":"horizon","kz":"көкжиек"}
+{"en":"horn","kz":"мүйіз"}
+{"en":"hostage","kz":"тұтқын"}
+{"en":"hostile","kz":"жауыздық"}
+{"en":"harmony","kz":"үйлесім"}
+{"en":"humanitarian","kz":"гуманитарлы"}
+{"en":"humanity","kz":"адамзат"}
+{"en":"humble","kz":"кішіпейіл"}
+{"en":"hydrogen","kz":"сутек"}
+{"en":"identification","kz":"анықтау"}
+{"en":"ideological","kz":"идеологиялық"}
+{"en":"ideology","kz":"идеология"}
+{"en":"idiot","kz":"ақымақ"}
+{"en":"ignorance","kz":"надандық"}
+{"en":"imagery","kz":"бейне"}
+{"en":"immense","kz":"зор"}
+{"en":"imminent","kz":"таяу"}
+{"en":"implementation","kz":"жүзеге асыру"}
+{"en":"imprison","kz":"түрмеге жабу"}
+{"en":"inability","kz":"қабілетсіздік"}
+{"en":"inadequate","kz":"жеткіліксіз"}
+{"en":"inappropriate","kz":"орынсыз"}
+{"en":"incarcerate","kz":"түрмеге жабу"}
+{"en":"incarceration","kz":"түрмеге жабу"}
+{"en":"incidence","kz":"кездесу жиілігі"}
+{"en":"inclined","kz":"бейім"}
+{"en":"inclusion","kz":"қосу"}
+{"en":"incur","kz":"тарту"}
+{"en":"indicator","kz":"көрсеткіш"}
+{"en":"indictment","kz":"айыптау"}
+{"en":"indigenous","kz":"жергілікті"}
+{"en":"induce","kz":"шақыру"}
+{"en":"indulge","kz":"ерік беру"}
+{"en":"inequality","kz":"теңсіздік"}
+{"en":"infamous","kz":"бейбіт"}
+{"en":"infant","kz":"нәресте"}
+{"en":"infect","kz":"жұқтыру"}
+{"en":"inflict","kz":"келтіру"}
+{"en":"influential","kz":"ықпалды"}
+{"en":"inherent","kz":"тән"}
+{"en":"inhibit","kz":"тежеу"}
+{"en":"initiate","kz":"бастамашы болу"}
+{"en":"inject","kz":"егу"}
+{"en":"injection","kz":"инъекция"}
+{"en":"injustice","kz":"әділетсіздік"}
+{"en":"inmate","kz":"тұтқын"}
+{"en":"inquire","kz":"сұрау"}
+{"en":"insertion","kz":"енгізу"}
+{"en":"insider","kz":"ішкі"}
+{"en":"inspect","kz":"тексеру"}
+{"en":"inspection","kz":"тексеру"}
+{"en":"inspiration","kz":"шабыт"}
+{"en":"instinct","kz":"инстинкт"}
+{"en":"institutional","kz":"институционалды"}
+{"en":"instruct","kz":"нұсқау беру"}
+{"en":"instrumental","kz":"аспаптық"}
+{"en":"insufficient","kz":"жеткіліксіз"}
+{"en":"insult","kz":"қорлау"}
+{"en":"intact","kz":"бүтін"}
+{"en":"intake","kz":"қабылдау"}
+{"en":"integral","kz":"ажырамас"}
+{"en":"integrated","kz":"біріктірілген"}
+{"en":"integration","kz":"бірігу"}
+{"en":"integrity","kz":"тұтастық"}
+{"en":"intellectual","kz":"зияткер"}
+{"en":"intensify","kz":"күшейту"}
+{"en":"intensity","kz":"қарқындылық"}
+{"en":"intensive","kz":"қарқынды"}
+{"en":"intent","kz":"ниет"}
+{"en":"interactive","kz":"интерактивті"}
+{"en":"interface","kz":"интерфейс"}
+{"en":"interfere","kz":"кедергі жасау"}
+{"en":"interference","kz":"кедергі"}
+{"en":"interim","kz":"уақытша"}
+{"en":"interior","kz":"ішкі"}
+{"en":"intermediate","kz":"аралық"}
+{"en":"intersection","kz":"қиылыс"}
+{"en":"intervene","kz":"араласу"}
+{"en":"intervention","kz":"араласу"}
+{"en":"intimate","kz":"жақын"}
+{"en":"intriguing","kz":"қызықты"}
+{"en":"inventory","kz":"түгендеу"}
+{"en":"investigator","kz":"тергеуші"}
+{"en":"invisible","kz":"көрінбейтін"}
+{"en":"invoke","kz":"шақыру"}
+{"en":"involvement","kz":"қатысу"}
+{"en":"ironic","kz":"ирониялық"}
+{"en":"ironically","kz":"ирониялы түрде"}
+{"en":"irony","kz":"ирония"}
+{"en":"irrelevant","kz":"орынсыз"}
+{"en":"isolation","kz":"оқшаулану"}
+{"en":"judicial","kz":"соттық"}
+{"en":"jurisdiction","kz":"юрисдикция"}
+{"en":"just","kz":"әділ"}
+{"en":"justification","kz":"негіздеу"}
+{"en":"keen","kz":"құштар"}
+{"en":"kidnap","kz":"ұрлап кету"}
+{"en":"kidney","kz":"бүйрек"}
+{"en":"kingdom","kz":"патшалық"}
+{"en":"landlord","kz":"үй иесі"}
+{"en":"landmark","kz":"ескерткіш"}
+{"en":"lap","kz":"айналым"}
+{"en":"large-scale","kz":"ірі"}
+{"en":"laser","kz":"лазер"}
+{"en":"latter","kz":"соңғысы"}
+{"en":"lawmaker","kz":"заң шығарушы"}
+{"en":"lawn","kz":"көгал"}
+{"en":"lawsuit","kz":"сот ісі"}
+{"en":"layout","kz":"орналасу"}
+{"en":"leak","kz":"ағу"}
+{"en":"leap","kz":"секіру"}
+{"en":"legacy","kz":"мұра"}
+{"en":"legendary","kz":"аңызға айналған"}
+{"en":"legislation","kz":"заңнама"}
+{"en":"legislative","kz":"заң шығарушы"}
+{"en":"legislature","kz":"заң шығарушы орган"}
+{"en":"legitimate","kz":"заңды"}
+{"en":"lengthy","kz":"ұзақ"}
+{"en":"lesbian","kz":"лесбиян"}
+{"en":"lesser","kz":"кем"}
+{"en":"lethal","kz":"өлімге әкелетін"}
+{"en":"liable","kz":"жауапты"}
+{"en":"liberal","kz":"либералды"}
+{"en":"liberation","kz":"азат ету"}
+{"en":"liberty","kz":"еркіндік"}
+{"en":"lifelong","kz":"өмір бойы"}
+{"en":"likelihood","kz":"мүмкіндік"}
+{"en":"limb","kz":"бөлік"}
+{"en":"linear","kz":"сызықтық"}
+{"en":"lineup","kz":"жұмыс жүйесі"}
+{"en":"linger","kz":"күтіп қалу"}
+{"en":"listing","kz":"тақырыптық құжат"}
+{"en":"liter","kz":"кітап"}
+{"en":"literacy","kz":"біліктілік"}
+{"en":"liver","kz":"бауыр"}
+{"en":"lobby","kz":"мәдениет үйі"}
+{"en":"log","kz":"журнал"}
+{"en":"logic","kz":"логика"}
+{"en":"long-standing","kz":"көп жылдық"}
+{"en":"longtime","kz":"уақыт өтеді"}
+{"en":"loom","kz":"қауіп төну"}
+{"en":"loop","kz":"бұрыш"}
+{"en":"loyalty","kz":"адалдық"}
+{"en":"machinery","kz":"техника"}
+{"en":"magical","kz":"магиялық"}
+{"en":"magnetic","kz":"магниттік"}
+{"en":"magnificent","kz":"көптеген"}
+{"en":"magnitude","kz":"шама"}
+{"en":"mainland","kz":"материк"}
+{"en":"mainstream","kz":"негізгі арна"}
+{"en":"maintenance","kz":"сүйектілік"}
+{"en":"mandate","kz":"мандат"}
+{"en":"mandatory","kz":"міндетті"}
+{"en":"manifest","kz":"көрсету"}
+{"en":"manipulate","kz":"басқару"}
+{"en":"manipulation","kz":"басқару"}
+{"en":"manuscript","kz":"қолжазба"}
+{"en":"march","kz":"марш"}
+{"en":"marginal","kz":"маргиналды"}
+{"en":"marine","kz":"теңіз"}
+{"en":"marketplace","kz":"нарық"}
+{"en":"mask","kz":"маска"}
+{"en":"massacre","kz":"қырғын"}
+{"en":"mathematical","kz":"математикалық"}
+{"en":"mature","kz":"жетілген"}
+{"en":"maximize","kz":"барынша арттыру"}
+{"en":"meaningful","kz":"мағыналы"}
+{"en":"meantime","kz":"аралық уақыт"}
+{"en":"medieval","kz":"ортағасырлық"}
+{"en":"meditation","kz":"медитация"}
+{"en":"melody","kz":"әуен"}
+{"en":"memo","kz":"ескертпе"}
+{"en":"memoir","kz":"естелік"}
+{"en":"memorial","kz":"мемориал"}
+{"en":"mentor","kz":"тәлімгер"}
+{"en":"merchant","kz":"көпес"}
+{"en":"mercy","kz":"мейірім"}
+{"en":"mere","kz":"жай"}
+{"en":"merely","kz":"жай"}
+{"en":"merge","kz":"бірігу"}
+{"en":"merger","kz":"бірігу"}
+{"en":"merit","kz":"еңбегі"}
+{"en":"methodology","kz":"әдістеме"}
+{"en":"midst","kz":"ортасы"}
+{"en":"migration","kz":"көші-қон"}
+{"en":"militant","kz":"әскери"}
+{"en":"militia","kz":"жасақ"}
+{"en":"mill","kz":"диірмен"}
+{"en":"minimal","kz":"минималды"}
+{"en":"minimize","kz":"азайту"}
+{"en":"mining","kz":"кен өндіру"}
+{"en":"ministry","kz":"министрлік"}
+{"en":"minute","kz":"ұсақ"}
+{"en":"miracle","kz":"ғажайып"}
+{"en":"misery","kz":"азап"}
+{"en":"misleading","kz":"жаңылыстыратын"}
+{"en":"missile","kz":"зымыран"}
+{"en":"mob","kz":"бұқара"}
+{"en":"mobile","kz":"жылжымалы"}
+{"en":"mobility","kz":"жылжымалылық"}
+{"en":"mobilize","kz":"мобилизациялау"}
+{"en":"moderate","kz":"қалыпты"}
+{"en":"modification","kz":"өзгерту"}
+{"en":"module","kz":"модуль"}
+{"en":"momentum","kz":"импульс"}
+{"en":"monk","kz":"монах"}
+{"en":"monopoly","kz":"монополия"}
+{"en":"morality","kz":"адамгершілік"}
+{"en":"motive","kz":"себеп"}
+{"en":"municipal","kz":"муниципалды"}
+{"en":"mutual","kz":"өзара"}
+{"en":"namely","kz":"атап айтқанда"}
+{"en":"nationwide","kz":"жалпыұлттық"}
+{"en":"naval","kz":"әскери-теңіз"}
+{"en":"neglect","kz":"елемеу"}
+{"en":"neighboring","kz":"көрші"}
+{"en":"nest","kz":"ұя"}
+{"en":"net","kz":"таза"}
+{"en":"newsletter","kz":"ақпараттық бюллетень"}
+{"en":"niche","kz":"тауаша"}
+{"en":"noble","kz":"асыл"}
+{"en":"nod","kz":"бас изеу"}
+{"en":"nominate","kz":"ұсыну"}
+{"en":"nomination","kz":"ұсыну"}
+{"en":"nominee","kz":"үміткер"}
+{"en":"nonetheless","kz":"соған қарамастан"}
+{"en":"nonprofit","kz":"коммерциялық емес"}
+{"en":"nonsense","kz":"ақылсыздық"}
+{"en":"noon","kz":"түс"}
+{"en":"notable","kz":"атап өтерлік"}
+{"en":"notably","kz":"әсіресе"}
+{"en":"notify","kz":"хабарлау"}
+{"en":"notorious","kz":"белгілі"}
+{"en":"novel","kz":"жаңашыл"}
+{"en":"nursery","kz":"балабақша"}
+{"en":"objection","kz":"қарсылық"}
+{"en":"oblige","kz":"міндеттеу"}
+{"en":"obsess","kz":"қызығып кету"}
+{"en":"obsession","kz":"қызығушылық"}
+{"en":"occasional","kz":"сирек"}
+{"en":"occurrence","kz":"оқиға"}
+{"en":"odds","kz":"мүмкіндік"}
+{"en":"offering","kz":"ұсыныс"}
+{"en":"offspring","kz":"ұрпақ"}
+{"en":"operational","kz":"операциялық"}
+{"en":"opt","kz":"таңдау"}
+{"en":"optical","kz":"оптикалық"}
+{"en":"optimism","kz":"оптимизм"}
+{"en":"oral","kz":"ауызша"}
+{"en":"organizational","kz":"ұйымдастырушылық"}
+{"en":"orientation","kz":"бағдар"}
+{"en":"originate","kz":"пайда болу"}
+{"en":"outbreak","kz":"басталу"}
+{"en":"outing","kz":"саяхат"}
+{"en":"outlet","kz":"шығу"}
+{"en":"outlook","kz":"көзқарас"}
+{"en":"outrage","kz":"ашу"}
+{"en":"outsider","kz":"бөтен"}
+{"en":"overlook","kz":"ескермеу"}
+{"en":"overly","kz":"тым"}
+{"en":"oversee","kz":"бақылау"}
+{"en":"overturn","kz":"аударып тастау"}
+{"en":"overwhelm","kz":"басып кету"}
+{"en":"overwhelming","kz":"өте күшті"}
+{"en":"pad","kz":"төсеніш"}
+{"en":"parameter","kz":"параметр"}
+{"en":"parental","kz":"ата-аналық"}
+{"en":"parliament","kz":"парламент"}
+{"en":"partial","kz":"ішінара"}
+{"en":"partially","kz":"ішінара"}
+{"en":"passing","kz":"өту"}
+{"en":"passive","kz":"пассивті"}
+{"en":"pastor","kz":"пастор"}
+{"en":"patent","kz":"патент"}
+{"en":"pathway","kz":"жол"}
+{"en":"patrol","kz":"патруль"}
+{"en":"patron","kz":"көмекші"}
+{"en":"peak","kz":"пик"}
+{"en":"peasant","kz":"аңсау"}
+{"en":"peculiar","kz":"басқаға тән"}
+{"en":"pension","kz":"пенсия"}
+{"en":"persist","kz":"тұрақты болу"}
+{"en":"persistent","kz":"тұрақты"}
+{"en":"personnel","kz":"персонал"}
+{"en":"petition","kz":"жалоба"}
+{"en":"philosopher","kz":"философ"}
+{"en":"philosophical","kz":"философиялық"}
+{"en":"pioneer","kz":"пионер"}
+{"en":"pipeline","kz":"құбыр"}
+{"en":"pirate","kz":"кәсіпкер"}
+{"en":"pit","kz":"шұңқыр"}
+{"en":"plea","kz":"өтініш"}
+{"en":"plead","kz":"жалыну"}
+{"en":"pledge","kz":"уәде"}
+{"en":"plug","kz":"қолғап"}
+{"en":"plunge","kz":"суға түсу"}
+{"en":"pole","kz":"полюс"}
+{"en":"poll","kz":"сауалнама"}
+{"en":"pond","kz":"тоған"}
+{"en":"pop","kz":"қақпақ"}
+{"en":"portfolio","kz":"портфель"}
+{"en":"portray","kz":"бейнелеу"}
+{"en":"postpone","kz":"кейінге қалдыру"}
+{"en":"postwar","kz":"соғыстан кейінгі"}
+{"en":"practitioner","kz":"маман"}
+{"en":"preach","kz":"уағыздау"}
+{"en":"precedent","kz":"прецедент"}
+{"en":"precision","kz":"дәлдік"}
+{"en":"predator","kz":"жыртқыш"}
+{"en":"predecessor","kz":"алдыңғы"}
+{"en":"predominantly","kz":"негізінен"}
+{"en":"pregnancy","kz":"жүктілік"}
+{"en":"prejudice","kz":"теріс пікір"}
+{"en":"preliminary","kz":"алдын ала"}
+{"en":"premier","kz":"премьер"}
+{"en":"premise","kz":"алғышарт"}
+{"en":"premium","kz":"сыйлықақы"}
+{"en":"prescribe","kz":"тағайындау"}
+{"en":"prescription","kz":"рецепт"}
+{"en":"presently","kz":"қазір"}
+{"en":"preservation","kz":"сақтау"}
+{"en":"preside","kz":"төрағалық ету"}
+{"en":"presidency","kz":"президенттік"}
+{"en":"prestigious","kz":"беделді"}
+{"en":"presumably","kz":"болжам бойынша"}
+{"en":"presume","kz":"болжау"}
+{"en":"prevail","kz":"басым болу"}
+{"en":"prevalence","kz":"таралу"}
+{"en":"prevention","kz":"алдын алу"}
+{"en":"prey","kz":"жыртқыш"}
+{"en":"privatization","kz":"жекешелендіру"}
+{"en":"privilege","kz":"артықшылық"}
+{"en":"probe","kz":"тексеру"}
+{"en":"problematic","kz":"проблемалы"}
+{"en":"proceeding","kz":"іс жүргізу"}
+{"en":"proceeds","kz":"түсім"}
+{"en":"processing","kz":"өңдеу"}
+{"en":"processor","kz":"процессор"}
+{"en":"proclaim","kz":"жариялау"}
+{"en":"productive","kz":"өнімді"}
+{"en":"productivity","kz":"өнімділік"}
+{"en":"profitable","kz":"тиімді"}
+{"en":"profound","kz":"терең"}
+{"en":"projection","kz":"болжам"}
+{"en":"prominent","kz":"көрнекті"}
+{"en":"pronounced","kz":"айқын"}
+{"en":"propaganda","kz":"үгіт-насихат"}
+{"en":"proposition","kz":"ұсыныс"}
+{"en":"prosecute","kz":"қудалау"}
+{"en":"prosecution","kz":"қудалау"}
+{"en":"prosecutor","kz":"прокурор"}
+{"en":"prospective","kz":"болашақ"}
+{"en":"prosperity","kz":"гүлдену"}
+{"en":"protective","kz":"қорғаныш"}
+{"en":"protocol","kz":"протокол"}
+{"en":"province","kz":"провинция"}
+{"en":"provincial","kz":"провинциялық"}
+{"en":"provision","kz":"қамтамасыз ету"}
+{"en":"provoke","kz":"қоздыру"}
+{"en":"psychiatric","kz":"психиатриялық"}
+{"en":"pulse","kz":"пульс"}
+{"en":"pump","kz":"сорғы"}
+{"en":"punch","kz":"соққы"}
+{"en":"query","kz":"сұрау"}
+{"en":"quest","kz":"ізденіс"}
+{"en":"quota","kz":"квота"}
+{"en":"radar","kz":"радар"}
+{"en":"radical","kz":"түбегейлі"}
+{"en":"rage","kz":"ашу"}
+{"en":"raid","kz":"шабуыл"}
+{"en":"rally","kz":"митинг"}
+{"en":"ranking","kz":"ранг"}
+{"en":"rape","kz":"зорлау"}
+{"en":"ratio","kz":"қатынас"}
+{"en":"rational","kz":"парасатты"}
+{"en":"ray","kz":"сәуле"}
+{"en":"readily","kz":"дайын"}
+{"en":"realization","kz":"жүзеге асыру"}
+{"en":"realm","kz":"сала"}
+{"en":"rear","kz":"артқы"}
+{"en":"reasoning","kz":"дәлелдеу"}
+{"en":"reassure","kz":"сендіру"}
+{"en":"rebel","kz":"бүлікші"}
+{"en":"rebellion","kz":"көтеріліс"}
+{"en":"recipient","kz":"алушы"}
+{"en":"reconstruction","kz":"қайта құру"}
+{"en":"recount","kz":"баяндау"}
+{"en":"recruitment","kz":"қабылдау"}
+{"en":"referendum","kz":"референдум"}
+{"en":"reflection","kz":"шағылыс"}
+{"en":"reform","kz":"реформа"}
+{"en":"refuge","kz":"баспана"}
+{"en":"refusal","kz":"бас тарту"}
+{"en":"regain","kz":"қайта алу"}
+{"en":"regardless","kz":"қарамастан"}
+{"en":"regime","kz":"режим"}
+{"en":"regulator","kz":"регулятор"}
+{"en":"regulatory","kz":"регулярный"}
+{"en":"rehabilitation","kz":"восстановление"}
+{"en":"reign","kz":"правление"}
+{"en":"rejection","kz":"отказ"}
+{"en":"relevance","kz":"важность"}
+{"en":"reliability","kz":"надежность"}
+{"en":"reluctant","kz":"неохотный"}
+{"en":"remainder","kz":"остаток"}
+{"en":"remains","kz":"остатки"}
+{"en":"remedy","kz":"лечение"}
+{"en":"reminder","kz":"помощь"}
+{"en":"removal","kz":"удаление"}
+{"en":"render","kz":"представить"}
+{"en":"renew","kz":"восстановление"}
+{"en":"renowned","kz":"известный"}
+{"en":"replacement","kz":"замена"}
+{"en":"reportedly","kz":"по сообщению"}
+{"en":"representation","kz":"представительство"}
+{"en":"reproduce","kz":"производить"}
+{"en":"reproduction","kz":"воспроизведение"}
+{"en":"republic","kz":"реpublika"}
+{"en":"resemble","kz":"похожесть"}
+{"en":"reside","kz":"жить"}
+{"en":"residence","kz":"место жительства"}
+{"en":"residential","kz":"жилье"}
+{"en":"residue","kz":"остаток"}
+{"en":"resignation","kz":"отставка"}
+{"en":"resistance","kz":"сопротивление"}
+{"en":"respective","kz":"тиісті"}
+{"en":"respectively","kz":"тиісінше"}
+{"en":"restoration","kz":"қалпына келтіру"}
+{"en":"restraint","kz":"шектеу"}
+{"en":"resume","kz":"жалғастыру"}
+{"en":"retreat","kz":"шегіну"}
+{"en":"retrieve","kz":"қалпына келтіру"}
+{"en":"revelation","kz":"аян"}
+{"en":"revenge","kz":"кек"}
+{"en":"reverse","kz":"кері"}
+{"en":"revival","kz":"жандану"}
+{"en":"revive","kz":"жандандыру"}
+{"en":"revolutionary","kz":"революциялық"}
+{"en":"rhetoric","kz":"риторика"}
+{"en":"rifle","kz":"мылтық"}
+{"en":"riot","kz":"тәртіпсіздік"}
+{"en":"rip","kz":"жырту"}
+{"en":"ritual","kz":"рәсім"}
+{"en":"robust","kz":"берік"}
+{"en":"rock","kz":"тербеу"}
+{"en":"rod","kz":"таяқша"}
+{"en":"rookie","kz":"жаңадан келген"}
+{"en":"roster","kz":"тізім"}
+{"en":"rotate","kz":"айналдыру"}
+{"en":"rotation","kz":"айналу"}
+{"en":"ruling","kz":"билік"}
+{"en":"rumor","kz":"өсек"}
+{"en":"sacred","kz":"қасиетті"}
+{"en":"sacrifice","kz":"құрбандық"}
+{"en":"saint","kz":"әулие"}
+{"en":"sake","kz":"үшін"}
+{"en":"sanction","kz":"санкция"}
+{"en":"say","kz":"сөз"}
+{"en":"scattered","kz":"шашыраңқы"}
+{"en":"scope","kz":"аясы"}
+{"en":"screw","kz":"бұрау"}
+{"en":"scrutiny","kz":"мұқият тексеру"}
+{"en":"seal","kz":"мөр"}
+{"en":"secondly","kz":"екіншіден"}
+{"en":"secular","kz":"зайырлы"}
+{"en":"seemingly","kz":"көрінетіндей"}
+{"en":"segment","kz":"сегмент"}
+{"en":"seize","kz":"басып алу"}
+{"en":"seldom","kz":"сирек"}
+{"en":"selective","kz":"іріктеу"}
+{"en":"sensation","kz":"сезім"}
+{"en":"sensitivity","kz":"сезімталдық"}
+{"en":"sentiment","kz":"сезім"}
+{"en":"separation","kz":"бөлу"}
+{"en":"serial","kz":"сериялы"}
+{"en":"settlement","kz":"елді мекен"}
+{"en":"setup","kz":"орнату"}
+{"en":"sexuality","kz":"жыныстық"}
+{"en":"shareholder","kz":"акционер"}
+{"en":"shatter","kz":"сындыру"}
+{"en":"shed","kz":"төгу"}
+{"en":"sheer","kz":"таза"}
+{"en":"shipping","kz":"жеткізу"}
+{"en":"shoot","kz":"өркен"}
+{"en":"shrink","kz":"қысқару"}
+{"en":"shrug","kz":"іскердік көтеру"}
+{"en":"sigh","kz":"сәйкес келу"}
+{"en":"simulate","kz":"модельдеу"}
+{"en":"simultaneously","kz":"бір мезгілде"}
+{"en":"sin","kz":"күнә"}
+{"en":"situated","kz":"орналасқан"}
+{"en":"skeptical","kz":"күмәнді"}
+{"en":"sketch","kz":"нобай"}
+{"en":"skip","kz":"секіру"}
+{"en":"slam","kz":"соғу"}
+{"en":"slap","kz":"шапалақтау"}
+{"en":"slash","kz":"кесу"}
+{"en":"slavery","kz":"құлдық"}
+{"en":"slot","kz":"саңылау"}
+{"en":"smash","kz":"сындыру"}
+{"en":"snap","kz":"сындыру"}
+{"en":"soak","kz":"сіңіру"}
+{"en":"soar","kz":"көтерілу"}
+{"en":"socialist","kz":"социалистік"}
+{"en":"sole","kz":"жалғыз"}
+{"en":"solely","kz":"тек"}
+{"en":"solidarity","kz":"ынтымақ"}
+{"en":"solo","kz":"жеке"}
+{"en":"sophomore","kz":"екінші курс"}
+{"en":"sound","kz":"сау"}
+{"en":"sovereignty","kz":"егемендік"}
+{"en":"spam","kz":"спам"}
+{"en":"span","kz":"аралық"}
+{"en":"spare","kz":"қосалқы"}
+{"en":"spark","kz":"ұшқын"}
+{"en":"specialized","kz":"мамандандырылған"}
+{"en":"specification","kz":"техникалық сипаттама"}
+{"en":"specimen","kz":"үлгі"}
+{"en":"spectacle","kz":"көрініс"}
+{"en":"spectrum","kz":"спектр"}
+{"en":"spell","kz":"заклинание"}
+{"en":"sphere","kz":"сфера"}
+{"en":"spin","kz":"айналу"}
+{"en":"spine","kz":"омыртқа"}
+{"en":"spotlight","kz":"спот"}
+{"en":"spouse","kz":"жұбай"}
+{"en":"spy","kz":"тыңшы"}
+{"en":"squad","kz":"топ"}
+{"en":"squeeze","kz":"қысу"}
+{"en":"stab","kz":"салу"}
+{"en":"stability","kz":"тұрақтылық"}
+{"en":"stabilize","kz":"тұрақтандыру"}
+{"en":"stake","kz":"үлес"}
+{"en":"standing","kz":"тұрақты"}
+{"en":"stark","kz":"қатал"}
+{"en":"statistical","kz":"статистикалық"}
+{"en":"steer","kz":"басқару"}
+{"en":"stem","kz":"сабақ"}
+{"en":"stereotype","kz":"стереотип"}
+{"en":"stimulus","kz":"ынталандыру"}
+{"en":"stir","kz":"араластыру"}
+{"en":"storage","kz":"сақтау"}
+{"en":"straightforward","kz":"қарапайым"}
+{"en":"strain","kz":"кернеу"}
+{"en":"strand","kz":"талшық"}
+{"en":"strategic","kz":"стратегиялық"}
+{"en":"striking","kz":"әсерлі"}
+{"en":"strip","kz":"жолақ"}
+{"en":"stumble","kz":"сүріну"}
+{"en":"structural","kz":"құрылымдық"}
+{"en":"succession","kz":"тізбек"}
+{"en":"superb","kz":"тамаша"}
+{"en":"supervise","kz":"бақылау"}
+{"en":"supervision","kz":"бақылау"}
+{"en":"supervisor","kz":"жетекші"}
+{"en":"supplement","kz":"толықтыру"}
+{"en":"supportive","kz":"қолдайтын"}
+{"en":"supposedly","kz":"болжам бойынша"}
+{"en":"suppress","kz":"басу"}
+{"en":"supreme","kz":"жоғарғы"}
+{"en":"surge","kz":"толқын"}
+{"en":"surgical","kz":"хирургиялық"}
+{"en":"surplus","kz":"артықшылық"}
+{"en":"surrender","kz":"бас жүріс"}
+{"en":"surveillance","kz":"бақылау"}
+{"en":"suspension","kz":"тоқтату"}
+{"en":"suspicion","kz":"күдік"}
+{"en":"suspicious","kz":"күдікті"}
+{"en":"sustain","kz":"қолдау"}
+{"en":"swing","kz":"тербелу"}
+{"en":"sword","kz":"семсер"}
+{"en":"symbolic","kz":"символдық"}
+{"en":"syndrome","kz":"синдром"}
+{"en":"synthesis","kz":"синтез"}
+{"en":"systematic","kz":"жүйелі"}
+{"en":"tackle","kz":"жабдық"}
+{"en":"tactic","kz":"тактика"}
+{"en":"tactical","kz":"тактикалық"}
+{"en":"taxpayer","kz":"салық төлеуші"}
+{"en":"tempt","kz":"азғыру"}
+{"en":"tenant","kz":"жалдаушы"}
+{"en":"tender","kz":"нәзік"}
+{"en":"tenure","kz":"мерзім"}
+{"en":"terminal","kz":"соңғы"}
+{"en":"terminate","kz":"тоқтату"}
+{"en":"terrain","kz":"жер бедері"}
+{"en":"terrific","kz":"керемет"}
+{"en":"testify","kz":"куәлік беру"}
+{"en":"testimony","kz":"куәлік"}
+{"en":"texture","kz":"құрылым"}
+{"en":"thankfully","kz":"бақытымызға орай"}
+{"en":"theatrical","kz":"театралдық"}
+{"en":"theology","kz":"теология"}
+{"en":"theoretical","kz":"теориялық"}
+{"en":"thereafter","kz":"одан кейін"}
+{"en":"thereby","kz":"осылайша"}
+{"en":"thoughtful","kz":"ойлы"}
+{"en":"thought-provoking","kz":"ойландыратын"}
+{"en":"thread","kz":"жіп"}
+{"en":"threshold","kz":"босаға"}
+{"en":"thrilled","kz":"толқыған"}
+{"en":"thrive","kz":"гүлдену"}
+{"en":"tide","kz":"көтерілу"}
+{"en":"tighten","kz":"қатайту"}
+{"en":"timber","kz":"ағаш"}
+{"en":"timely","kz":"уақтылы"}
+{"en":"tobacco","kz":"темекі"}
+{"en":"tolerance","kz":"төзімділік"}
+{"en":"tolerate","kz":"төзу"}
+{"en":"toll","kz":"төлем"}
+{"en":"top","kz":"басшылық ету"}
+{"en":"torture","kz":"азаптау"}
+{"en":"toss","kz":"лақтыру"}
+{"en":"total","kz":"толық"}
+{"en":"toxic","kz":"токсикологиялық"}
+{"en":"trace","kz":"із"}
+{"en":"trademark","kz":"белгісіздік"}
+{"en":"trail","kz":"жолы"}
+{"en":"trailer","kz":"трейлер"}
+{"en":"transaction","kz":"мәміле"}
+{"en":"transcript","kz":"көшірме"}
+{"en":"transformation","kz":"өзгеріс"}
+{"en":"transit","kz":"транзит"}
+{"en":"transmission","kz":"беріліс"}
+{"en":"transparency","kz":"ашықтық"}
+{"en":"transparent","kz":"мөлдір"}
+{"en":"trauma","kz":"жарақат"}
+{"en":"treaty","kz":"келісім"}
+{"en":"tremendous","kz":"жауапкершілік"}
+{"en":"tribal","kz":"тайпалық"}
+{"en":"tribute","kz":"құрмет"}
+{"en":"trigger","kz":"тітіркендіру"}
+{"en":"trio","kz":"үштік"}
+{"en":"triumph","kz":"жеңіс"}
+{"en":"trophy","kz":"кубок"}
+{"en":"troubled","kz":"мазасыз"}
+{"en":"trustee","kz":"сенімді тұлға"}
+{"en":"tuition","kz":"оқу ақысы"}
+{"en":"tumor","kz":"ісік"}
+{"en":"turnout","kz":"қатысуы"}
+{"en":"turnover","kz":"айналым"}
+{"en":"twist","kz":"бұрау"}
+{"en":"unconstitutional","kz":"конституцияға қайшы"}
+{"en":"undergraduate","kz":"бакалавр"}
+{"en":"underlying","kz":"негізгі"}
+{"en":"undoubtedly","kz":"сөзсіз"}
+{"en":"unify","kz":"біріктіру"}
+{"en":"unprecedented","kz":"бұрын-соңды болмаған"}
+{"en":"unveil","kz":"ашу"}
+{"en":"upcoming","kz":"алдағы"}
+{"en":"upgrade","kz":"жаңарту"}
+{"en":"uphold","kz":"қолдау"}
+{"en":"utility","kz":"пайдалылық"}
+{"en":"utilize","kz":"пайдалану"}
+{"en":"utterly","kz":"мүлдем"}
+{"en":"vacuum","kz":"вакуум"}
+{"en":"vague","kz":"тұспал"}
+{"en":"validity","kz":"жарамдылық"}
+{"en":"vanish","kz":"жоғалу"}
+{"en":"variable","kz":"айнымалы"}
+{"en":"varied","kz":"әртүрлі"}
+{"en":"vein","kz":"тамыр"}
+{"en":"venture","kz":"кәсіп"}
+{"en":"verbal","kz":"ауызша"}
+{"en":"verdict","kz":"үкім"}
+{"en":"verify","kz":"тексеру"}
+{"en":"verse","kz":"өлең жолы"}
+{"en":"versus","kz":"қарсы"}
+{"en":"vessel","kz":"кеме"}
+{"en":"veteran","kz":"ардагер"}
+{"en":"viable","kz":"өміршең"}
+{"en":"vibrant","kz":"жанды"}
+{"en":"vice","kz":"кемшілік"}
+{"en":"vicious","kz":"қатыгез"}
+{"en":"violate","kz":"бұзу"}
+{"en":"violation","kz":"бұзушылық"}
+{"en":"virtue","kz":"ізгілік"}
+{"en":"vocal","kz":"вокалды"}
+{"en":"vow","kz":"ант"}
+{"en":"vulnerability","kz":"осалдық"}
+{"en":"vulnerable","kz":"осал"}
+{"en":"ward","kz":"палата"}
+{"en":"warehouse","kz":"қойма"}
+{"en":"warfare","kz":"соғыс"}
+{"en":"warrant","kz":"ордер"}
+{"en":"warrior","kz":"жауынгер"}
+{"en":"weaken","kz":"әлсірету"}
+{"en":"weave","kz":"тоқу"}
+{"en":"weed","kz":"алаң"}
+{"en":"well","kz":"құдық"}
+{"en":"well-being","kz":"әл-ауқат"}
+{"en":"whatsoever","kz":"қандай болса да"}
+{"en":"whereby","kz":"арқылы"}
+{"en":"whip","kz":"қамшылау"}
+{"en":"wholly","kz":"толығымен"}
+{"en":"widen","kz":"кеңейту"}
+{"en":"widow","kz":"жесір әйел"}
+{"en":"width","kz":"ені"}
+{"en":"willingness","kz":"дайындық"}
+{"en":"wipe","kz":"сүрту"}
+{"en":"wit","kz":"тапқырлық"}
+{"en":"withdrawal","kz":"алып қою"}
+{"en":"workout","kz":"жаттығу"}
+{"en":"worship","kz":"табыну"}
+{"en":"worthwhile","kz":"тұрарлық"}
+{"en":"worthy","kz":"лайық"}
+{"en":"yell","kz":"айқайлау"}
+{"en":"yield","kz":"өнім"}
