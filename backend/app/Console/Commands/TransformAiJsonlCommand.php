@@ -15,7 +15,7 @@ class TransformAiJsonlCommand extends Command
      */
     public function handle()
     {
-        $baseLanguages = ['jp', 'de', 'kr', 'ru', 'kz', 'en' ,'fr', 'es', 'pt', 'sa'];
+        $baseLanguages = ['jp', 'de', 'kr', 'ru', 'kz', 'en' ,'fr', 'es', 'pt'];
         $targetLanguages = [
             'ru' => ['kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
             'kz' => ['ru', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
@@ -48,7 +48,11 @@ class TransformAiJsonlCommand extends Command
 
                     while (($line = fgets($fileAI)) !== false) {
                         $wordAI = json_decode($line);
-                        if ($wordOriginalData[$wordAI->{$baseLanguage}]) {
+                        if (
+                            isset($wordOriginalData[$wordAI->{$baseLanguage}]) &&
+                            ($wordOriginalData[$wordAI->{$baseLanguage}]) &&
+                            ($wordOriginalData[$wordAI->{$baseLanguage}][$targetLanguage] !== "")
+                        ) {
                             $data = [
                                 $baseLanguage => $wordAI->{$baseLanguage},
                                 $targetLanguage =>$wordOriginalData[$wordAI->{$baseLanguage}][$targetLanguage],
@@ -64,15 +68,18 @@ class TransformAiJsonlCommand extends Command
                     fclose($fileAI);
                 }
                 else {
+                    echo "Нет файла! Преобразовываем $baseLanguage---$targetLanguage \n";
                     while (($line = fgets($fileManual)) !== false) {
                         $word = json_decode($line);
-                        $data = [
-                            $baseLanguage => $word->{$baseLanguage},
-                            $targetLanguage =>$word->{$targetLanguage},
-                            'level' => $word->level ?? null,
-                            'transcription' => $word->transcription ?? null,
-                        ];
-                        fwrite($fileAIFiltered, json_encode($data, JSON_UNESCAPED_UNICODE) . PHP_EOL);
+                        if ($word->{$targetLanguage} !== "") {
+                            $data = [
+                                $baseLanguage => $word->{$baseLanguage},
+                                $targetLanguage => $word->{$targetLanguage},
+                                'level' => $word->level ?? null,
+                                'transcription' => $word->transcription ?? null,
+                            ];
+                            fwrite($fileAIFiltered, json_encode($data, JSON_UNESCAPED_UNICODE) . PHP_EOL);
+                        }
                     }
                 }
                 fclose($fileManual);
