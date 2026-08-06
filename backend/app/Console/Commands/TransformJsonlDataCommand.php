@@ -13,7 +13,7 @@ class TransformJsonlDataCommand extends Command
 {
     public function handle()
     {
-        $baseFilePath = base_path('data/words');
+        $baseFilePath = base_path('data/filtered');
         $languages = array_diff(scandir($baseFilePath), ['.', '..', 'base']);
 
         $languagesCache = [];
