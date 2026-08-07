@@ -38,7 +38,7 @@ class VisitMiddleware
         $startTime = microtime(true) * 1000;
         $response = $next($request);
         $duration = (microtime(true) * 1000) - $startTime;
-        $this->prometheusService->setHttpDurationRequests($duration);
+        $this->prometheusService->setHttpLatencyRequests($duration);
         return $response;
     }
 }

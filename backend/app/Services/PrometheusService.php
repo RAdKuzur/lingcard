@@ -8,17 +8,16 @@ use Illuminate\Support\Facades\DB;
 
 class PrometheusService implements PrometheusServiceInterface
 {
+    public const int LOG_PERIOD = 10;
     public function getMetrics(): string
     {
         $httpTotalRequests = $this->getHttpTotalRequests();
         $totalErrors = $this->getTotalErrors();
-        $durationSum = $this->getHttpDurationSum();
-        $avgDuration = $httpTotalRequests > 0 ? $durationSum / $httpTotalRequests : 0;
+        $averageLatency = $this->getHttpLatencyRequests();
         return implode("\n", [
             "http_total_requests " . $httpTotalRequests,
             "total_errors " . $totalErrors,
-            "http_duration_avg_ms " . number_format($avgDuration, 2, '.', ''),
-            "http_duration_sum_ms " . number_format($durationSum, 2, '.', ''),
+            "total_request_latency " . $averageLatency
         ]);
     }
     public function incHttpTotalRequests() : void
@@ -34,32 +33,22 @@ class PrometheusService implements PrometheusServiceInterface
     {
         return Cache::get('http_total_requests') ?? 0;
     }
-    public function incTotalErrors() : void
+    public function setHttpLatencyRequests($duration): void
     {
-        if (Cache::has('total_errors')) {
-            Cache::increment('total_errors');
-        }
-        else {
-            Cache::put('total_errors', 1);
+        $latencyMs = (int)($duration * 100);
+        if (Cache::has('http_latency_sum')) {
+            Cache::increment('http_latency_sum', $latencyMs);
+        } else {
+            Cache::put('http_latency_sum', $latencyMs);
         }
     }
-    public function setHttpDurationRequests($duration): void
+
+    public function getHttpLatencyRequests(): float
     {
-        Cache::increment('http_duration_sum', (int)($duration * 100));
+        return round(Cache::get('http_latency_sum') / 100, 2) ?? 0;
     }
     public function getTotalErrors() : int
     {
         return Cache::get('total_errors') ?? 0;
-    }
-    public function getHttpDurationSum(): float
-    {
-        return Cache::get('http_duration_sum', 0) / 100;
-    }
-    public function getHttpDurationRequests(): float
-    {
-        $sum = $this->getHttpDurationSum();
-        $count = $this->getHttpTotalRequests();
-
-        return $count > 0 ? $sum / $count : 0;
     }
 }
