@@ -53,15 +53,9 @@ function App() {
                         <Login/>
                     </UnprotectedRoute>
                 }/>
-                <Route path={innerRoutes.all} element={
-                    <ProtectedRoute>
-                        <Home/>
-                    </ProtectedRoute>
-                }/>
+                <Route path={innerRoutes.all} element={<Navigate to={innerRoutes.home} replace />} />
                 <Route path={innerRoutes.home} element={
-                    <ProtectedRoute>
-                        <Home/>
-                    </ProtectedRoute>
+                    <Home/>
                 }/>
                 <Route path={innerRoutes.articlePath} element={
                     <ProtectedRoute>
@@ -104,9 +98,7 @@ function App() {
                     </ProtectedRoute>
                 }/>
                 <Route path={innerRoutes.about} element={
-                    <ProtectedRoute>
-                        <About/>
-                    </ProtectedRoute>
+                    <About/>
                 }/>
                 <Route path={innerRoutes.support} element={
                     <ProtectedRoute>

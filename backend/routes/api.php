@@ -29,12 +29,12 @@ Route::middleware(['throttle:api'])->group(function () {
         Route::post('/register', [AuthController::class, 'register'])->name('register');
         Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');
         Route::post('/user', [AuthController::class, 'user'])->name('user');
+        Route::get('/posts/{code?}', [PostController::class, 'all'])->name('posts');
 
         Route::group(['middleware' => AuthMiddleware::class], function () {
             Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
             Route::get('/articles/{id}', [PostController::class, 'one'])->name('article');
-            Route::get('/posts/{code?}', [PostController::class, 'all'])->name('posts');
             Route::post('/posts/{postId}/comments', [PostController::class, 'createComment'])->name('create-comment');
             Route::post('/posts', [PostController::class, 'create'])->name('create');
 
