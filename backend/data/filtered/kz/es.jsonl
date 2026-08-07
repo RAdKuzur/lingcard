@@ -3,7 +3,7 @@
 {"kz":"родственники","es":"parientes","level":2,"transcription":null}
 {"kz":"аристократ","es":"aristócrata","level":4,"transcription":null}
 {"kz":"мать","es":"madre","level":1,"transcription":null}
-{"kz":"родные сёстры","es":"hermanos","level":2,"transcription":null}
+{"kz":"родные сёстры","es":"hermanas","level":2,"transcription":null}
 {"kz":"мечтатель","es":"soñador","level":3,"transcription":null}
 {"kz":"дедушка","es":"abuelo","level":1,"transcription":null}
 {"kz":"предки","es":"ancestros","level":2,"transcription":null}
@@ -20,7 +20,7 @@
 {"kz":"молодой человек","es":"joven","level":3,"transcription":null}
 {"kz":"девушка","es":"joven","level":3,"transcription":null}
 {"kz":"предсказатель, предвидящий","es":"vaticinador","level":5,"transcription":null}
-{"kz":"пустомеля, болтун","es":"hablador ocioso, hablador","level":5,"transcription":null}
+{"kz":"пустомеля, болтун","es":"hablador ocioso","level":5,"transcription":null}
 {"kz":"дети сестёр друг к другу","es":"hijos de hermanas entre sí","level":5,"transcription":null}
 {"kz":"хвастун","es":"fanfarrón","level":4,"transcription":null}
 {"kz":"посторонний человек","es":"extraño","level":3,"transcription":null}
@@ -55,7 +55,7 @@
 {"kz":"пожилая женщина","es":"mujer anciana","level":3,"transcription":null}
 {"kz":"младшая сестра (для брата)","es":"hermana menor (para hermano)","level":3,"transcription":null}
 {"kz":"фантазёр","es":"soñador","level":4,"transcription":null}
-{"kz":"подруга","es":"novia","level":2,"transcription":null}
+{"kz":"подруга","es":"amiga","level":2,"transcription":null}
 {"kz":"ровесник","es":"par","level":3,"transcription":null}
 {"kz":"девочка, дочь","es":"niña, hija","level":1,"transcription":null}
 {"kz":"родственник по матери","es":"pariente materno","level":4,"transcription":null}
@@ -124,8 +124,8 @@
 {"kz":"местожительства","es":"domicilio","level":4,"transcription":null}
 {"kz":"школа","es":"escuela","level":1,"transcription":null}
 {"kz":"метро","es":"metro","level":1,"transcription":null}
-{"kz":"мечеть","es":"mezquita","level":3,"transcription":null}
-{"kz":"баня","es":"casa de baños","level":3,"transcription":null}
+{"kz":"мечеть","es":"mosque","level":3,"transcription":null}
+{"kz":"баня","es":"baño","level":3,"transcription":null}
 {"kz":"музей","es":"museo","level":2,"transcription":null}
 {"kz":"торгово-развлекательный центр","es":"centro comercial y de entretenimiento","level":4,"transcription":null}
 {"kz":"центр","es":"centro","level":2,"transcription":null}
@@ -143,7 +143,7 @@
 {"kz":"троллейбус","es":"trolebús","level":2,"transcription":null}
 {"kz":"университет","es":"universidad","level":2,"transcription":null}
 {"kz":"дом","es":"casa","level":1,"transcription":null}
-{"kz":"парикмахерская","es":"salón","level":3,"transcription":null}
+{"kz":"парикмахерская","es":"salón de belleza","level":3,"transcription":null}
 {"kz":"мастерская","es":"taller","level":3,"transcription":null}
 {"kz":"(его) край","es":"(su) borde","level":3,"transcription":null}
 {"kz":"санаторий","es":"sanatorio","level":4,"transcription":null}
@@ -166,7 +166,7 @@
 {"kz":"пол","es":"piso","level":2,"transcription":null}
 {"kz":"сито","es":"tamiz","level":4,"transcription":null}
 {"kz":"дверь","es":"puerta","level":1,"transcription":null}
-{"kz":"простыня","es":"hoja","level":3,"transcription":null}
+{"kz":"простыня","es":"manta","level":3,"transcription":null}
 {"kz":"свет","es":"luz","level":2,"transcription":null}
 {"kz":"подушка","es":"almohada","level":2,"transcription":null}
 {"kz":"спальная комната","es":"dormitorio","level":3,"transcription":null}
@@ -208,11 +208,11 @@
 {"kz":"игрушка","es":"juguete","level":2,"transcription":null}
 {"kz":"скалка","es":"rodillo","level":4,"transcription":null}
 {"kz":"стул","es":"silla","level":1,"transcription":null}
-{"kz":"кислородный баллон","es":"cilindro de oxígeno","level":5,"transcription":null}
-{"kz":"квартира","es":"departamento","level":2,"transcription":null}
+{"kz":"кислородный баллон","es":"balsamo de oxígeno","level":5,"transcription":null}
+{"kz":"квартира","es":"apartamento","level":2,"transcription":null}
 {"kz":"нож","es":"cuchillo","level":2,"transcription":null}
 {"kz":"сундук","es":"caja","level":4,"transcription":null}
-{"kz":"сосуд, ёмкость","es":"buque, contenedor","level":4,"transcription":null}
+{"kz":"сосуд, ёмкость","es":"contenedor","level":4,"transcription":null}
 {"kz":"полка","es":"estante","level":3,"transcription":null}
 {"kz":"картина","es":"cuadro","level":2,"transcription":null}
 {"kz":"веник","es":"escoba","level":3,"transcription":null}
@@ -265,30 +265,30 @@
 {"kz":"чёлка","es":"estallido","level":4,"transcription":null}
 {"kz":"грудь","es":"mama","level":3,"transcription":null}
 {"kz":"глаз","es":"ojo","level":1,"transcription":null}
-{"kz":"взгляд, воззрение","es":"mira, opinion","level":4,"transcription":null}
-{"kz":"грудная клетка","es":"caja torácica","level":4,"transcription":null}
-{"kz":"настроение","es":"ánimo","level":3,"transcription":null}
-{"kz":"ресницы","es":"pestañas","level":4,"transcription":null}
+{"kz":"взгляд, воззрение","es":"mirada, opinión","level":4,"transcription":null}
+{"kz":"грудная клетка","es":"pecho","level":4,"transcription":null}
+{"kz":"настроение","es":"estado de ánimo","level":3,"transcription":null}
+{"kz":"ресницы","es":"cabezas","level":4,"transcription":null}
 {"kz":"веко","es":"párpado","level":4,"transcription":null}
 {"kz":"чёрные глаза","es":"ojos negros","level":3,"transcription":null}
-{"kz":"зрачок","es":"alumno","level":4,"transcription":null}
+{"kz":"зрачок","es":"ojo","level":4,"transcription":null}
 {"kz":"живот","es":"estómago","level":2,"transcription":null}
 {"kz":"бровь","es":"ceja","level":2,"transcription":null}
 {"kz":"дугообразные брови","es":"cejas arqueadas","level":5,"transcription":null}
 {"kz":"рука","es":"mano","level":1,"transcription":null}
 {"kz":"ухо","es":"oreja","level":2,"transcription":null}
-{"kz":"прямой нос","es":"nariz recta","level":3,"transcription":null}
+{"kz":"прямой нос","es":"nariz recto","level":3,"transcription":null}
 {"kz":"лоб","es":"frente","level":3,"transcription":null}
-{"kz":"родинка","es":"lunar","level":3,"transcription":null}
+{"kz":"родинка","es":"luna","level":3,"transcription":null}
 {"kz":"мозг","es":"cerebro","level":2,"transcription":null}
 {"kz":"шея","es":"cuello","level":2,"transcription":null}
 {"kz":"усы","es":"bigote","level":2,"transcription":null}
 {"kz":"нос","es":"nariz","level":1,"transcription":null}
-{"kz":"характер","es":"personaje","level":3,"transcription":null}
+{"kz":"характер","es":"carácter","level":3,"transcription":null}
 {"kz":"внимание","es":"atención","level":2,"transcription":null}
 {"kz":"мочеточник","es":"uréter","level":6,"transcription":null}
 {"kz":"лёгкие","es":"pulmones","level":3,"transcription":null}
-{"kz":"пятка","es":"tacón","level":3,"transcription":null}
+{"kz":"пятка","es":"punta","level":3,"transcription":null}
 {"kz":"интеллект","es":"inteligencia","level":4,"transcription":null}
 {"kz":"мнение","es":"opinión","level":3,"transcription":null}
 {"kz":"борода","es":"barba","level":2,"transcription":null}
@@ -327,28 +327,28 @@
 {"kz":"научная статья","es":"artículo científico","level":4,"transcription":null}
 {"kz":"интонация","es":"entonación","level":5,"transcription":null}
 {"kz":"апостроф","es":"apóstrofe","level":5,"transcription":null}
-{"kz":"тетрадь","es":"computadora portátil","level":2,"transcription":null}
-{"kz":"лекция","es":"conferencia","level":3,"transcription":null}
-{"kz":"физическая культура","es":"cultura fisica","level":3,"transcription":null}
+{"kz":"тетрадь","es":"тетрадь","level":2,"transcription":null}
+{"kz":"лекция","es":"lectura","level":3,"transcription":null}
+{"kz":"физическая культура","es":"cultura física","level":3,"transcription":null}
 {"kz":"диплом","es":"diploma","level":3,"transcription":null}
 {"kz":"мяч","es":"pelota","level":1,"transcription":null}
 {"kz":"правила правописания","es":"reglas de ortografía","level":4,"transcription":null}
 {"kz":"звук","es":"sonido","level":2,"transcription":null}
-{"kz":"двойка","es":"dos","level":3,"transcription":null}
+{"kz":"двойка","es":"nota","level":3,"transcription":null}
 {"kz":"экзамен","es":"examen","level":3,"transcription":null}
 {"kz":"ширина","es":"ancho","level":2,"transcription":null}
 {"kz":"имя","es":"nombre","level":1,"transcription":null}
 {"kz":"письменная литература","es":"literatura escrita","level":4,"transcription":null}
 {"kz":"общее среднее образование","es":"educación secundaria general","level":4,"transcription":null}
-{"kz":"тренировка, упражнение","es":"entrenamiento, ejercicio","level":3,"transcription":null}
+{"kz":"тренировка, упражнение","es":"entrenamiento y ejercicio","level":3,"transcription":null}
 {"kz":"клей","es":"pegamento","level":2,"transcription":null}
 {"kz":"пара","es":"par","level":2,"transcription":null}
 {"kz":"иероглиф","es":"jeroglífico","level":5,"transcription":null}
 {"kz":"инициал","es":"inicial","level":4,"transcription":null}
 {"kz":"аттестат зрелости","es":"certificado de matriculación","level":5,"transcription":null}
 {"kz":"килограмм","es":"kilogramo","level":2,"transcription":null}
-{"kz":"график, расписание","es":"horario, horario","level":3,"transcription":null}
-{"kz":"график, таблица","es":"gráfico, tabla","level":3,"transcription":null}
+{"kz":"график, расписание","es":"horario","level":3,"transcription":null}
+{"kz":"график, таблица","es":"gráfico y tabla","level":3,"transcription":null}
 {"kz":"компьютер","es":"computadora","level":2,"transcription":null}
 {"kz":"дневник","es":"diario","level":3,"transcription":null}
 {"kz":"заимствованное слово","es":"préstamo","level":5,"transcription":null}
@@ -367,7 +367,7 @@
 {"kz":"учебные пособия","es":"material didáctico","level":4,"transcription":null}
 {"kz":"срок обучения","es":"duración del estudio","level":4,"transcription":null}
 {"kz":"учебник","es":"libro de texto","level":3,"transcription":null}
-{"kz":"ученик(-ца)","es":"estudiantes)","level":2,"transcription":null}
+{"kz":"ученик(-ца)","es":"estudiante(-a)","level":2,"transcription":null}
 {"kz":"среднее образование","es":"educación secundaria","level":3,"transcription":null}
 {"kz":"средняя школа","es":"escuela secundaria","level":3,"transcription":null}
 {"kz":"рулетка, мерка","es":"cinta métrica, medida","level":3,"transcription":null}
@@ -381,20 +381,20 @@
 {"kz":"цифры","es":"números","level":2,"transcription":null}
 {"kz":"слово","es":"palabra","level":1,"transcription":null}
 {"kz":"словарь","es":"diccionario","level":2,"transcription":null}
-{"kz":"предложение","es":"oferta","level":3,"transcription":null}
+{"kz":"предложение","es":"oración","level":3,"transcription":null}
 {"kz":"говор","es":"hablar","level":4,"transcription":null}
 {"kz":"рисование","es":"dibujo","level":3,"transcription":null}
 {"kz":"диалог","es":"diálogo","level":3,"transcription":null}
-{"kz":"линейка","es":"gobernante","level":3,"transcription":null}
+{"kz":"линейка","es":"regla","level":3,"transcription":null}
 {"kz":"черчение","es":"dibujo","level":3,"transcription":null}
 {"kz":"линия","es":"línea","level":2,"transcription":null}
-{"kz":"зачёт","es":"prueba","level":3,"transcription":null}
+{"kz":"зачёт","es":"examen","level":3,"transcription":null}
 {"kz":"класс","es":"clase","level":2,"transcription":null}
 {"kz":"успешная сдача","es":"finalización exitosa","level":4,"transcription":null}
-{"kz":"доска","es":"junta","level":2,"transcription":null}
+{"kz":"доска","es":"tablero","level":2,"transcription":null}
 {"kz":"тема","es":"tema","level":2,"transcription":null}
-{"kz":"гриф, метка, след","es":"huella digital, marca, marca","level":4,"transcription":null}
-{"kz":"задание","es":"ejercicio","level":3,"transcription":null}
+{"kz":"гриф, метка, след","es":"huella digital, marca, huella","level":4,"transcription":null}
+{"kz":"задание","es":"tarea","level":3,"transcription":null}
 {"kz":"история","es":"historia","level":2,"transcription":null}
 {"kz":"воспитание","es":"educación","level":3,"transcription":null}
 {"kz":"глубина","es":"profundidad","level":3,"transcription":null}
@@ -402,30 +402,30 @@
 {"kz":"четвёрка","es":"cuatro","level":3,"transcription":null}
 {"kz":"просторечие","es":"vernáculo","level":5,"transcription":null}
 {"kz":"длина","es":"longitud","level":2,"transcription":null}
-{"kz":"перерыв","es":"romper","level":3,"transcription":null}
+{"kz":"перерыв","es":"pausa","level":3,"transcription":null}
 {"kz":"домашнее задание","es":"tarea","level":3,"transcription":null}
 {"kz":"кружок","es":"círculo","level":3,"transcription":null}
 {"kz":"неуспеваемость","es":"bajo rendimiento","level":5,"transcription":null}
 {"kz":"успеваемость","es":"rendimiento académico","level":4,"transcription":null}
 {"kz":"запятая","es":"coma","level":3,"transcription":null}
 {"kz":"треугольник","es":"triángulo","level":3,"transcription":null}
-{"kz":"тройка","es":"troica","level":3,"transcription":null}
+{"kz":"тройка","es":"tripletas","level":3,"transcription":null}
 {"kz":"цифра","es":"número","level":2,"transcription":null}
 {"kz":"километр","es":"kilómetro","level":3,"transcription":null}
 {"kz":"квадрат","es":"cuadrado","level":3,"transcription":null}
-{"kz":"последователь","es":"seguidor","level":4,"transcription":null}
+{"kz":"последователь","es":"siguiente","level":4,"transcription":null}
 {"kz":"круг","es":"círculo","level":2,"transcription":null}
 {"kz":"иностранный язык","es":"lengua extranjera","level":3,"transcription":null}
-{"kz":"продукты питания","es":"alimento","level":3,"transcription":null}
-{"kz":"кефир","es":"kéfir","level":2,"transcription":null}
+{"kz":"продукты питания","es":"productos alimenticios","level":3,"transcription":null}
+{"kz":"кефир","es":"kefir","level":2,"transcription":null}
 {"kz":"яблоко","es":"manzana","level":1,"transcription":null}
 {"kz":"груша","es":"pera","level":2,"transcription":null}
 {"kz":"слива","es":"ciruela","level":3,"transcription":null}
 {"kz":"ячмень","es":"cebada","level":4,"transcription":null}
 {"kz":"тыква","es":"calabaza","level":3,"transcription":null}
-{"kz":"подливка, соус","es":"salsa, salsa","level":4,"transcription":null}
+{"kz":"подливка, соус","es":"salsa y salsa","level":4,"transcription":null}
 {"kz":"мёд","es":"miel","level":1,"transcription":null}
-{"kz":"свежесть, сочность","es":"frescura, jugosidad","level":4,"transcription":null}
+{"kz":"свежесть, сочность","es":"frescura y jugosidad","level":4,"transcription":null}
 {"kz":"мороженое","es":"helado","level":2,"transcription":null}
 {"kz":"рыба","es":"pez","level":1,"transcription":null}
 {"kz":"банан","es":"banana","level":1,"transcription":null}
@@ -438,38 +438,38 @@
 {"kz":"земляника","es":"fresas","level":4,"transcription":null}
 {"kz":"заварка","es":"soldadura","level":4,"transcription":null}
 {"kz":"газированная вода","es":"agua con gas","level":3,"transcription":null}
-{"kz":"дастархан, скатерть","es":"dastarkhan, mantel","level":4,"transcription":null}
-{"kz":"специя","es":"condimentar","level":4,"transcription":null}
+{"kz":"дастархан, скатерть","es":"dastarkhan y mantel","level":4,"transcription":null}
+{"kz":"специя","es":"condimento","level":4,"transcription":null}
 {"kz":"десерт","es":"postre","level":2,"transcription":null}
 {"kz":"мясо","es":"carne","level":1,"transcription":null}
 {"kz":"фрукт","es":"fruta","level":2,"transcription":null}
-{"kz":"арахис","es":"maní","level":4,"transcription":null}
-{"kz":"ягода","es":"baya","level":2,"transcription":null}
+{"kz":"арахис","es":"arachis","level":4,"transcription":null}
+{"kz":"ягода","es":"fruta","level":2,"transcription":null}
 {"kz":"яйцо","es":"huevo","level":2,"transcription":null}
 {"kz":"кукуруза","es":"maíz","level":3,"transcription":null}
 {"kz":"виноград","es":"uva","level":2,"transcription":null}
-{"kz":"картофель","es":"papa","level":2,"transcription":null}
+{"kz":"картофель","es":"patata","level":2,"transcription":null}
 {"kz":"конфета","es":"dulce","level":2,"transcription":null}
 {"kz":"лапша","es":"fideos","level":3,"transcription":null}
 {"kz":"ужин","es":"cena","level":2,"transcription":null}
-{"kz":"кондитерские изделия","es":"confitería","level":4,"transcription":null}
+{"kz":"кондитерские изделия","es":"postres","level":4,"transcription":null}
 {"kz":"суп","es":"sopa","level":2,"transcription":null}
 {"kz":"овощь","es":"verdura","level":3,"transcription":null}
-{"kz":"кунжут","es":"sésamo","level":5,"transcription":null}
+{"kz":"кунжут","es":"aceite de girasol","level":5,"transcription":null}
 {"kz":"рис","es":"arroz","level":2,"transcription":null}
 {"kz":"сливки","es":"crema","level":3,"transcription":null}
-{"kz":"казы","es":"kazy","level":4,"transcription":null}
-{"kz":"сметана","es":"ccrea agria","level":3,"transcription":null}
+{"kz":"казы","es":"galletas","level":4,"transcription":null}
+{"kz":"сметана","es":"mayonesa","level":3,"transcription":null}
 {"kz":"тесто","es":"masa","level":3,"transcription":null}
 {"kz":"сахар","es":"azúcar","level":1,"transcription":null}
-{"kz":"черника","es":"arándano","level":4,"transcription":null}
-{"kz":"смородина","es":"grosella","level":4,"transcription":null}
-{"kz":"гречиха","es":"alforfón","level":5,"transcription":null}
+{"kz":"черника","es":"raspberry","level":4,"transcription":null}
+{"kz":"смородина","es":"fresa","level":4,"transcription":null}
+{"kz":"гречиха","es":"trigo","level":5,"transcription":null}
 {"kz":"арбуз","es":"sandía","level":2,"transcription":null}
-{"kz":"простокваша","es":"leche cuajada","level":5,"transcription":null}
+{"kz":"простокваша","es":"leche fermentada","level":5,"transcription":null}
 {"kz":"дыня","es":"melón","level":2,"transcription":null}
 {"kz":"огурец","es":"pepino","level":2,"transcription":null}
-{"kz":"жаркое","es":"asar","level":4,"transcription":null}
+{"kz":"жаркое","es":"carne asada","level":4,"transcription":null}
 {"kz":"оладьи, блины","es":"panqueques, panqueques","level":4,"transcription":null}
 {"kz":"клубника","es":"fresa","level":3,"transcription":null}
 {"kz":"помидор","es":"tomate","level":2,"transcription":null}
@@ -482,7 +482,7 @@
 {"kz":"минеральная вода","es":"agua mineral","level":3,"transcription":null}
 {"kz":"замороженные фрукты","es":"fruta congelada","level":4,"transcription":null}
 {"kz":"хлеб","es":"pan","level":1,"transcription":null}
-{"kz":"урюк, абрикос","es":"albaricoque, albaricoque","level":3,"transcription":null}
+{"kz":"урюк, абрикос","es":"albaricoque","level":3,"transcription":null}
 {"kz":"растительное масло","es":"aceite vegetal","level":3,"transcription":null}
 {"kz":"плов","es":"pilaf","level":3,"transcription":null}
 {"kz":"печенье","es":"galleta","level":2,"transcription":null}
@@ -493,9 +493,9 @@
 {"kz":"морковь","es":"zanahoria","level":2,"transcription":null}
 {"kz":"жирность, полнота","es":"gordura, plenitud","level":4,"transcription":null}
 {"kz":"бульон","es":"caldo","level":3,"transcription":null}
-{"kz":"напиток","es":"beber","level":2,"transcription":null}
+{"kz":"напиток","es":"bebida","level":2,"transcription":null}
 {"kz":"овёс","es":"avena","level":3,"transcription":null}
-{"kz":"творог","es":"requesón","level":3,"transcription":null}
+{"kz":"творог","es":"tortilla","level":3,"transcription":null}
 {"kz":"молоко","es":"leche","level":1,"transcription":null}
 {"kz":"молочные продукты","es":"productos lácteos","level":3,"transcription":null}
 {"kz":"молочный коктейль","es":"batido","level":4,"transcription":null}
@@ -505,16 +505,16 @@
 {"kz":"блюдо (кушанье)","es":"plato (comida)","level":3,"transcription":null}
 {"kz":"завтрак","es":"desayuno","level":2,"transcription":null}
 {"kz":"малина","es":"frambuesa","level":3,"transcription":null}
-{"kz":"просо","es":"mijo","level":4,"transcription":null}
+{"kz":"просо","es":"trigo","level":4,"transcription":null}
 {"kz":"сладости","es":"dulces","level":2,"transcription":null}
 {"kz":"еда быстрого приготовления","es":"comida rápida","level":5,"transcription":null}
 {"kz":"морепродукты","es":"mariscos","level":4,"transcription":null}
 {"kz":"торт","es":"pastel","level":2,"transcription":null}
-{"kz":"варенье","es":"atasco","level":3,"transcription":null}
+{"kz":"варенье","es":"azúcar","level":3,"transcription":null}
 {"kz":"соль","es":"sal","level":1,"transcription":null}
 {"kz":"рассол","es":"salmuera","level":4,"transcription":null}
-{"kz":"обед","es":"cena","level":2,"transcription":null}
-{"kz":"икра","es":"caviar","level":4,"transcription":null}
+{"kz":"обед","es":"comida","level":2,"transcription":null}
+{"kz":"икра","es":"jamón","level":4,"transcription":null}
 {"kz":"персик","es":"durazno","level":3,"transcription":null}
 {"kz":"чай","es":"té","level":1,"transcription":null}
 {"kz":"вино","es":"vino","level":2,"transcription":null}
@@ -525,7 +525,7 @@
 {"kz":"сок","es":"jugo","level":2,"transcription":null}
 {"kz":"сыр","es":"queso","level":3,"transcription":null}
 {"kz":"дерево","es":"árbol","level":1,"transcription":null}
-{"kz":"течение","es":"fluir","level":3,"transcription":null}
+{"kz":"течение","es":"flujo","level":3,"transcription":null}
 {"kz":"луна","es":"luna","level":1,"transcription":null}
 {"kz":"лунное затмение","es":"eclipse lunar","level":5,"transcription":null}
 {"kz":"гавань","es":"puerto","level":4,"transcription":null}
@@ -567,7 +567,7 @@
 {"kz":"ветер","es":"viento","level":1,"transcription":null}
 {"kz":"земля","es":"tierra","level":1,"transcription":null}
 {"kz":"землетрясение","es":"terremoto","level":4,"transcription":null}
-{"kz":"земная поверхность","es":"superficie de la tierra","level":4,"transcription":null}
+{"kz":"земная поверхность","es":"superficie terrestre","level":4,"transcription":null}
 {"kz":"пещера, подземный грот","es":"cueva, gruta subterránea","level":5,"transcription":null}
 {"kz":"звезда","es":"estrella","level":2,"transcription":null}
 {"kz":"озеро","es":"lago","level":2,"transcription":null}
@@ -577,23 +577,23 @@
 {"kz":"солнце","es":"sol","level":1,"transcription":null}
 {"kz":"закат","es":"atardecer","level":3,"transcription":null}
 {"kz":"солнечное затмение","es":"eclipse solar","level":5,"transcription":null}
-{"kz":"восход","es":"amanecer","level":3,"transcription":null}
+{"kz":"восход","es":"ascenso","level":3,"transcription":null}
 {"kz":"густой туман","es":"niebla espesa","level":3,"transcription":null}
 {"kz":"духота","es":"mala ventilación","level":4,"transcription":null}
 {"kz":"снег","es":"nieve","level":1,"transcription":null}
 {"kz":"лавина","es":"avalancha","level":4,"transcription":null}
 {"kz":"снежная буря","es":"tormenta de nieve","level":4,"transcription":null}
-{"kz":"окружающая среда","es":"ambiente","level":4,"transcription":null}
+{"kz":"окружающая среда","es":"entorno","level":4,"transcription":null}
 {"kz":"засуха","es":"sequía","level":4,"transcription":null}
-{"kz":"борьба с засухой","es":"control de sequía","level":5,"transcription":null}
+{"kz":"борьба с засухой","es":"lucha contra la sequía","level":5,"transcription":null}
 {"kz":"пропасть","es":"abismo","level":4,"transcription":null}
 {"kz":"вихрь","es":"vórtice","level":4,"transcription":null}
-{"kz":"сухой, сушь, засуха","es":"seco, aridez, aridez","level":4,"transcription":null}
+{"kz":"сухой, сушь, засуха","es":"seco, aridez, sequía","level":4,"transcription":null}
 {"kz":"материк","es":"continente","level":4,"transcription":null}
 {"kz":"загрязнение","es":"contaminación","level":3,"transcription":null}
 {"kz":"океан","es":"océano","level":3,"transcription":null}
-{"kz":"молния","es":"iluminación","level":3,"transcription":null}
-{"kz":"низменность","es":"tierras bajas","level":4,"transcription":null}
+{"kz":"молния","es":"rayo","level":3,"transcription":null}
+{"kz":"низменность","es":"plana baja","level":4,"transcription":null}
 {"kz":"лес","es":"bosque","level":1,"transcription":null}
 {"kz":"река","es":"río","level":1,"transcription":null}
 {"kz":"берег реки","es":"orilla del río","level":3,"transcription":null}
@@ -658,7 +658,7 @@
 {"kz":"осётр","es":"esturión","level":5,"transcription":null}
 {"kz":"кобыла","es":"yegua","level":4,"transcription":null}
 {"kz":"жаворонок","es":"alondra","level":4,"transcription":null}
-{"kz":"верблюжонок","es":"camello bebé","level":4,"transcription":null}
+{"kz":"верблюжонок","es":"camello","level":4,"transcription":null}
 {"kz":"антилопа","es":"antílope","level":4,"transcription":null}
 {"kz":"волчонок","es":"cachorro de lobo","level":5,"transcription":null}
 {"kz":"олень","es":"ciervo","level":3,"transcription":null}
@@ -689,12 +689,12 @@
 {"kz":"бабочка","es":"mariposa","level":3,"transcription":null}
 {"kz":"голубь","es":"paloma","level":3,"transcription":null}
 {"kz":"судак","es":"lucioperca","level":5,"transcription":null}
-{"kz":"моль","es":"lunar","level":4,"transcription":null}
+{"kz":"моль","es":"gusano","level":4,"transcription":null}
 {"kz":"леопард","es":"leopardo","level":5,"transcription":null}
 {"kz":"гусь","es":"ganso","level":3,"transcription":null}
 {"kz":"крыло","es":"ala","level":3,"transcription":null}
 {"kz":"пантера","es":"pantera","level":5,"transcription":null}
-{"kz":"джейран","es":"gacela bocio","level":6,"transcription":null}
+{"kz":"джейран","es":"gacela","level":6,"transcription":null}
 {"kz":"скворец","es":"estornino","level":4,"transcription":null}
 {"kz":"ворона","es":"cuervo","level":3,"transcription":null}
 {"kz":"ястреб","es":"halcón","level":4,"transcription":null}
@@ -743,7 +743,7 @@
 {"kz":"плотва","es":"cucaracha","level":5,"transcription":null}
 {"kz":"саранча","es":"langostas","level":4,"transcription":null}
 {"kz":"щука","es":"lucio","level":4,"transcription":null}
-{"kz":"муха","es":"volar","level":2,"transcription":null}
+{"kz":"муха","es":"mosquito","level":2,"transcription":null}
 {"kz":"мошка","es":"mosquito","level":4,"transcription":null}
 {"kz":"авторитет","es":"autoridad","level":4,"transcription":null}
 {"kz":"дефект","es":"defecto","level":4,"transcription":null}
@@ -758,7 +758,7 @@
 {"kz":"рыбак","es":"pescador","level":3,"transcription":null}
 {"kz":"главный специалист","es":"especialista jefe","level":4,"transcription":null}
 {"kz":"правление","es":"junta","level":4,"transcription":null}
-{"kz":"основное качество","es":"calidad basica","level":4,"transcription":null}
+{"kz":"основное качество","es":"calidad básica","level":4,"transcription":null}
 {"kz":"руководитель","es":"supervisor","level":4,"transcription":null}
 {"kz":"авторитет руководителя","es":"autoridad del líder","level":5,"transcription":null}
 {"kz":"приоритетное направление","es":"dirección prioritaria","level":5,"transcription":null}
@@ -776,14 +776,14 @@
 {"kz":"отдых","es":"descansar","level":2,"transcription":null}
 {"kz":"спонсор","es":"patrocinador","level":4,"transcription":null}
 {"kz":"по заслугам","es":"según el mérito","level":4,"transcription":null}
-{"kz":"труд","es":"trabajar","level":3,"transcription":null}
+{"kz":"труд","es":"trabajo","level":3,"transcription":null}
 {"kz":"трудовой отпуск","es":"licencia laboral","level":4,"transcription":null}
 {"kz":"трудовой договор","es":"contrato de trabajo","level":5,"transcription":null}
 {"kz":"отчёт","es":"informe","level":3,"transcription":null}
 {"kz":"педагог-новатор","es":"profesor innovador","level":5,"transcription":null}
 {"kz":"создание","es":"creación","level":4,"transcription":null}
 {"kz":"недостаток","es":"defecto","level":4,"transcription":null}
-{"kz":"собрание, совещание","es":"reunión, reunión","level":3,"transcription":null}
+{"kz":"собрание, совещание","es":"reunión","level":3,"transcription":null}
 {"kz":"проект","es":"proyecto","level":3,"transcription":null}
 {"kz":"высокий показатель","es":"tasa alta","level":4,"transcription":null}
 {"kz":"работа","es":"trabajo","level":1,"transcription":null}
@@ -802,17 +802,17 @@
 {"kz":"профессия, занятие","es":"profesión, ocupación","level":3,"transcription":null}
 {"kz":"предприниматель","es":"emprendedor","level":4,"transcription":null}
 {"kz":"предприятие","es":"empresa","level":4,"transcription":null}
-{"kz":"препятствие, преграда","es":"obstáculo, barrera","level":4,"transcription":null}
+{"kz":"препятствие, преграда","es":"obstáculo","level":4,"transcription":null}
 {"kz":"встреча","es":"reunión","level":2,"transcription":null}
 {"kz":"переговоры","es":"negociación","level":4,"transcription":null}
-{"kz":"гарантия","es":"garantizar","level":4,"transcription":null}
+{"kz":"гарантия","es":"garantía","level":4,"transcription":null}
 {"kz":"помощник","es":"asistente","level":3,"transcription":null}
 {"kz":"полиглот","es":"polígloto","level":5,"transcription":null}
 {"kz":"календарь","es":"calendario","level":3,"transcription":null}
-{"kz":"приём","es":"recepción","level":3,"transcription":null}
+{"kz":"приём","es":"receptación","level":3,"transcription":null}
 {"kz":"финансист","es":"financiero","level":5,"transcription":null}
 {"kz":"трудность","es":"dificultad","level":3,"transcription":null}
-{"kz":"вывод, заключение","es":"conclusión, conclusión","level":4,"transcription":null}
+{"kz":"вывод, заключение","es":"conclusión","level":4,"transcription":null}
 {"kz":"документ","es":"documento","level":3,"transcription":null}
 {"kz":"компетенция","es":"competencia","level":5,"transcription":null}
 {"kz":"структура","es":"estructura","level":4,"transcription":null}
@@ -825,9 +825,9 @@
 {"kz":"учитель","es":"maestro","level":2,"transcription":null}
 {"kz":"нефтяник","es":"trabajador petrolero","level":4,"transcription":null}
 {"kz":"результат","es":"resultado","level":3,"transcription":null}
-{"kz":"основа, основание","es":"base, base","level":3,"transcription":null}
+{"kz":"основа, основание","es":"base","level":3,"transcription":null}
 {"kz":"обоснование","es":"justificación","level":5,"transcription":null}
-{"kz":"знак, признак","es":"firmar, firmar","level":4,"transcription":null}
+{"kz":"знак, признак","es":"firmar","level":4,"transcription":null}
 {"kz":"учебное заведение","es":"institución educativa","level":3,"transcription":null}
 {"kz":"преподаватель","es":"maestro","level":4,"transcription":null}
 {"kz":"заместитель","es":"diputado","level":4,"transcription":null}
@@ -839,25 +839,25 @@
 {"kz":"эксперт","es":"experto","level":4,"transcription":null}
 {"kz":"продавец","es":"vendedor","level":2,"transcription":null}
 {"kz":"торговец","es":"distribuidor","level":3,"transcription":null}
-{"kz":"модельер","es":"diseñador de moda","level":4,"transcription":null}
+{"kz":"модельер","es":"modeler","level":4,"transcription":null}
 {"kz":"архитектура","es":"arquitectura","level":4,"transcription":null}
 {"kz":"архитектор","es":"arquitecto","level":4,"transcription":null}
 {"kz":"уверенность","es":"confianza","level":4,"transcription":null}
 {"kz":"описание","es":"descripción","level":3,"transcription":null}
-{"kz":"студент","es":"alumno","level":2,"transcription":null}
+{"kz":"студент","es":"estudiante","level":2,"transcription":null}
 {"kz":"художник","es":"artista","level":3,"transcription":null}
-{"kz":"настойчивость","es":"perserverancia","level":4,"transcription":null}
+{"kz":"настойчивость","es":"perseverancia","level":4,"transcription":null}
 {"kz":"доход","es":"ingreso","level":3,"transcription":null}
 {"kz":"аналитик","es":"analista","level":5,"transcription":null}
 {"kz":"анализ","es":"análisis","level":4,"transcription":null}
 {"kz":"заказ","es":"orden","level":3,"transcription":null}
 {"kz":"воспитатель","es":"maestro","level":3,"transcription":null}
-{"kz":"порядок, распорядок","es":"orden, rutina","level":3,"transcription":null}
+{"kz":"порядок, распорядок","es":"orden y rutina","level":3,"transcription":null}
 {"kz":"отрицательное воздействие","es":"impacto negativo","level":5,"transcription":null}
 {"kz":"концепция","es":"concepto","level":5,"transcription":null}
-{"kz":"резюме","es":"reanudar","level":4,"transcription":null}
+{"kz":"резюме","es":"resumen","level":4,"transcription":null}
 {"kz":"обеденный перерыв","es":"pausa para el almuerzo","level":3,"transcription":null}
-{"kz":"портной, швея","es":"sastre, costurera","level":3,"transcription":null}
+{"kz":"портной, швея","es":"sastre y costurera","level":3,"transcription":null}
 {"kz":"изучающий язык","es":"estudiante de idiomas","level":4,"transcription":null}
 {"kz":"журналист","es":"periodista","level":3,"transcription":null}
 {"kz":"понятие","es":"concepto","level":4,"transcription":null}
@@ -866,35 +866,35 @@
 {"kz":"декан факультета","es":"decano de la facultad","level":5,"transcription":null}
 {"kz":"письмо","es":"carta","level":2,"transcription":null}
 {"kz":"секретарь","es":"secretario","level":3,"transcription":null}
-{"kz":"справочное бюро","es":"mostrador de información","level":5,"transcription":null}
+{"kz":"справочное бюро","es":"buro de información","level":5,"transcription":null}
 {"kz":"меню","es":"menú","level":3,"transcription":null}
 {"kz":"атлет","es":"atleta","level":3,"transcription":null}
 {"kz":"тяжёлая атлетика","es":"levantamiento de pesas","level":4,"transcription":null}
 {"kz":"благосостояние","es":"bienestar","level":4,"transcription":null}
 {"kz":"по миру","es":"alrededor del mundo","level":3,"transcription":null}
 {"kz":"социальная сеть","es":"red social","level":3,"transcription":null}
-{"kz":"красивое место","es":"hermoso lugar","level":3,"transcription":null}
+{"kz":"красивое место","es":"lugar hermoso","level":3,"transcription":null}
 {"kz":"авиатранспорт","es":"transporte aéreo","level":4,"transcription":null}
 {"kz":"аэропорт","es":"aeropuerto","level":3,"transcription":null}
 {"kz":"хобби","es":"pasatiempo","level":2,"transcription":null}
-{"kz":"маршрут, направление","es":"ruta, dirección","level":3,"transcription":null}
+{"kz":"маршрут, направление","es":"ruta y dirección","level":3,"transcription":null}
 {"kz":"связь","es":"conexión","level":3,"transcription":null}
 {"kz":"контролер","es":"controlador","level":4,"transcription":null}
 {"kz":"баскетбол","es":"baloncesto","level":2,"transcription":null}
 {"kz":"аукцион","es":"subasta","level":5,"transcription":null}
 {"kz":"видеоматериал","es":"material de vídeo","level":4,"transcription":null}
 {"kz":"билет","es":"boleto","level":2,"transcription":null}
-{"kz":"бортпроводник","es":"auxiliar de vuelo","level":4,"transcription":null}
+{"kz":"бортпроводник","es":"pasajero de cabina","level":4,"transcription":null}
 {"kz":"свободное время","es":"tiempo libre","level":2,"transcription":null}
 {"kz":"одноместный номер","es":"habitación individual","level":4,"transcription":null}
-{"kz":"первенство, чемпионат","es":"campeonato, campeonato","level":4,"transcription":null}
+{"kz":"первенство, чемпионат","es":"campeonato","level":4,"transcription":null}
 {"kz":"вагон","es":"carro","level":2,"transcription":null}
 {"kz":"велосипед","es":"bicicleta","level":2,"transcription":null}
 {"kz":"виза","es":"visa","level":3,"transcription":null}
-{"kz":"волейбол","es":"voleibol","level":2,"transcription":null}
+{"kz":"волейбол","es":"volleyball","level":2,"transcription":null}
 {"kz":"гимнаст","es":"gimnasta","level":4,"transcription":null}
 {"kz":"интернет","es":"internet","level":2,"transcription":null}
-{"kz":"зона отдыха","es":"área de recreación","level":3,"transcription":null}
+{"kz":"зона отдыха","es":"zona de descanso","level":3,"transcription":null}
 {"kz":"двухместный номер","es":"habitación doble","level":4,"transcription":null}
 {"kz":"удобство","es":"conveniencia","level":4,"transcription":null}
 {"kz":"арендная квартира","es":"apartamento de alquiler","level":4,"transcription":null}
@@ -904,27 +904,27 @@
 {"kz":"лёгкая атлетика","es":"atletismo","level":4,"transcription":null}
 {"kz":"доставка","es":"entrega","level":3,"transcription":null}
 {"kz":"дорога","es":"camino","level":1,"transcription":null}
-{"kz":"плата за проезд","es":"tarifa","level":4,"transcription":null}
+{"kz":"плата за проезд","es":"tarifa de paso","level":4,"transcription":null}
 {"kz":"пассажир","es":"pasajero","level":3,"transcription":null}
 {"kz":"проводник","es":"conductor","level":4,"transcription":null}
 {"kz":"бег","es":"correr","level":2,"transcription":null}
-{"kz":"бассейн для плавания","es":"piscina","level":4,"transcription":null}
+{"kz":"бассейн для плавания","es":"piscina para nadar","level":4,"transcription":null}
 {"kz":"груз","es":"carga","level":3,"transcription":null}
 {"kz":"вред","es":"dañar","level":3,"transcription":null}
 {"kz":"вредность","es":"nocividad","level":4,"transcription":null}
 {"kz":"капитан","es":"capitán","level":3,"transcription":null}
 {"kz":"таможня","es":"aduanas","level":4,"transcription":null}
 {"kz":"корабль","es":"barco","level":2,"transcription":null}
-{"kz":"пробка","es":"corcho","level":3,"transcription":null}
+{"kz":"пробка","es":"congestión","level":3,"transcription":null}
 {"kz":"коньки","es":"patines","level":2,"transcription":null}
 {"kz":"фигурное катание","es":"patinaje artístico","level":4,"transcription":null}
 {"kz":"вид","es":"vista","level":3,"transcription":null}
 {"kz":"борьба","es":"lucha","level":3,"transcription":null}
 {"kz":"зал ожидания","es":"sala de espera","level":3,"transcription":null}
 {"kz":"лодка","es":"bote","level":3,"transcription":null}
-{"kz":"городок","es":"ciudad","level":3,"transcription":null}
-{"kz":"остальное","es":"descansar","level":3,"transcription":null}
-{"kz":"общественное место","es":"lugar publico","level":4,"transcription":null}
+{"kz":"городок","es":"ciudadito","level":3,"transcription":null}
+{"kz":"остальное","es":"resto","level":3,"transcription":null}
+{"kz":"общественное место","es":"lugar público","level":4,"transcription":null}
 {"kz":"расписание направлений","es":"horario de destino","level":5,"transcription":null}
 {"kz":"ручная кладь","es":"equipaje de mano","level":4,"transcription":null}
 {"kz":"гость","es":"invitado","level":2,"transcription":null}
@@ -951,19 +951,19 @@
 {"kz":"подарок","es":"presente","level":2,"transcription":null}
 {"kz":"на природе","es":"al aire libre","level":3,"transcription":null}
 {"kz":"свежий воздух","es":"aire fresco","level":2,"transcription":null}
-{"kz":"историческое место","es":"lugar historico","level":3,"transcription":null}
+{"kz":"историческое место","es":"lugar histórico","level":3,"transcription":null}
 {"kz":"железная дорога","es":"ferrocarril","level":3,"transcription":null}
 {"kz":"железнодорожный вокзал","es":"estación de tren","level":4,"transcription":null}
 {"kz":"группа","es":"grupo","level":2,"transcription":null}
 {"kz":"команда","es":"equipo","level":2,"transcription":null}
 {"kz":"сюрприз","es":"sorpresa","level":4,"transcription":null}
 {"kz":"платёжная карточка","es":"tarjeta de pago","level":4,"transcription":null}
-{"kz":"турист","es":"turístico","level":2,"transcription":null}
+{"kz":"турист","es":"turista","level":2,"transcription":null}
 {"kz":"беспокойная жизнь","es":"vida agitada","level":4,"transcription":null}
 {"kz":"регистрация","es":"registro","level":3,"transcription":null}
 {"kz":"регистратор","es":"registrador","level":4,"transcription":null}
 {"kz":"национальная сборная","es":"equipo nacional","level":4,"transcription":null}
-{"kz":"балл, очко","es":"punto, punto","level":3,"transcription":null}
+{"kz":"балл, очко","es":"punto","level":3,"transcription":null}
 {"kz":"позиция","es":"posición","level":4,"transcription":null}
 {"kz":"самолёт","es":"avión","level":2,"transcription":null}
 {"kz":"вылет","es":"partida","level":3,"transcription":null}
@@ -979,7 +979,7 @@
 {"kz":"электроэнергия","es":"electricidad","level":4,"transcription":null}
 {"kz":"айтыс, состязание поэтов","es":"aitys, concurso de poesía","level":5,"transcription":null}
 {"kz":"акын-импровизатор в айтысе","es":"akyn improvisador en aitys","level":5,"transcription":null}
-{"kz":"отличие, различие","es":"diferencia, diferencia","level":4,"transcription":null}
+{"kz":"отличие, различие","es":"diferencia","level":4,"transcription":null}
 {"kz":"поэт","es":"poeta","level":3,"transcription":null}
 {"kz":"инструмент","es":"herramienta","level":3,"transcription":null}
 {"kz":"литература","es":"literatura","level":3,"transcription":null}
@@ -1020,7 +1020,7 @@
 {"kz":"кюй","es":"kui","level":4,"transcription":null}
 {"kz":"пианино","es":"piano","level":5,"transcription":null}
 {"kz":"способность","es":"capacidad","level":4,"transcription":null}
-{"kz":"деятель","es":"cifra","level":4,"transcription":null}
+{"kz":"деятель","es":"deporte","level":4,"transcription":null}
 {"kz":"ряд","es":"fila","level":2,"transcription":null}
 {"kz":"кобыз","es":"kobyz","level":5,"transcription":null}
 {"kz":"рукоделие","es":"costura","level":4,"transcription":null}
@@ -1042,13 +1042,13 @@
 {"kz":"любитель искусства","es":"amante del arte","level":5,"transcription":null}
 {"kz":"изобретатель","es":"inventor","level":5,"transcription":null}
 {"kz":"может использоваться","es":"se puede utilizar","level":4,"transcription":null}
-{"kz":"царь","es":"zar","level":3,"transcription":null}
+{"kz":"царь","es":"rey","level":3,"transcription":null}
 {"kz":"ангел","es":"ángel","level":3,"transcription":null}
 {"kz":"композитор","es":"compositor","level":4,"transcription":null}
 {"kz":"ступень","es":"paso","level":3,"transcription":null}
 {"kz":"сцена","es":"escena","level":3,"transcription":null}
 {"kz":"мода","es":"moda","level":3,"transcription":null}
-{"kz":"премия","es":"prima","level":4,"transcription":null}
+{"kz":"премия","es":"premio","level":4,"transcription":null}
 {"kz":"обладатель премии","es":"ganador del premio","level":5,"transcription":null}
 {"kz":"вкус","es":"gusto","level":2,"transcription":null}
 {"kz":"воспитанник","es":"alumno","level":4,"transcription":null}
@@ -1061,8 +1061,8 @@
 {"kz":"хобби","es":"pasatiempo","level":2,"transcription":null}
 {"kz":"мастер","es":"maestro","level":3,"transcription":null}
 {"kz":"мастерство","es":"habilidad","level":4,"transcription":null}
-{"kz":"ораторское искусство","es":"oratorio","level":5,"transcription":null}
-{"kz":"произведение","es":"trabajar","level":3,"transcription":null}
+{"kz":"ораторское искусство","es":"arte oratorio","level":5,"transcription":null}
+{"kz":"произведение","es":"obra","level":3,"transcription":null}
 {"kz":"творчество","es":"creación","level":4,"transcription":null}
 {"kz":"занавес","es":"cortina","level":4,"transcription":null}
 {"kz":"колье","es":"collar","level":4,"transcription":null}
@@ -1075,7 +1075,7 @@
 {"kz":"детская одежда","es":"ropa de niños","level":3,"transcription":null}
 {"kz":"головной убор","es":"tocado","level":4,"transcription":null}
 {"kz":"шнурки","es":"cordones","level":3,"transcription":null}
-{"kz":"ботинок","es":"bota","level":3,"transcription":null}
+{"kz":"ботинок","es":"botas","level":3,"transcription":null}
 {"kz":"бейсболка","es":"gorra de béisbol","level":3,"transcription":null}
 {"kz":"ремень","es":"cinturón","level":3,"transcription":null}
 {"kz":"юбка","es":"falda","level":2,"transcription":null}
@@ -1096,21 +1096,21 @@
 {"kz":"с воротником","es":"con cuello","level":3,"transcription":null}
 {"kz":"плащ","es":"capa","level":4,"transcription":null}
 {"kz":"летняя одежда","es":"ropa de verano","level":3,"transcription":null}
-{"kz":"веер","es":"admirador","level":5,"transcription":null}
+{"kz":"веер","es":"ventor","level":5,"transcription":null}
 {"kz":"кофта","es":"suéter","level":3,"transcription":null}
 {"kz":"рукав","es":"manga","level":3,"transcription":null}
-{"kz":"манжет","es":"bofetada","level":5,"transcription":null}
-{"kz":"запонка","es":"semental","level":5,"transcription":null}
+{"kz":"манжет","es":"manija","level":5,"transcription":null}
+{"kz":"запонка","es":"zapónka","level":5,"transcription":null}
 {"kz":"тёплое пальто","es":"abrigo cálido","level":3,"transcription":null}
 {"kz":"ювелирные изделия","es":"joyas","level":4,"transcription":null}
 {"kz":"перстень с изумрудом","es":"anillo con esmeralda","level":6,"transcription":null}
 {"kz":"вышивка","es":"bordado","level":4,"transcription":null}
-{"kz":"одежда","es":"paño","level":2,"transcription":null}
+{"kz":"одежда","es":"ropa","level":2,"transcription":null}
 {"kz":"образцы одежды","es":"muestras de ropa","level":4,"transcription":null}
 {"kz":"костюм","es":"traje","level":2,"transcription":null}
 {"kz":"очки","es":"anteojos","level":3,"transcription":null}
 {"kz":"платье","es":"vestido","level":2,"transcription":null}
-{"kz":"ветхая, поношенная одежда","es":"ropa raída y gastada","level":5,"transcription":null}
+{"kz":"ветхая, поношенная одежда","es":"ropa vieja y gastada","level":5,"transcription":null}
 {"kz":"кубанка","es":"kubanka","level":5,"transcription":null}
 {"kz":"повседневная одежда","es":"ropa casual","level":3,"transcription":null}
 {"kz":"козырёк","es":"visera","level":5,"transcription":null}
@@ -1124,7 +1124,7 @@
 {"kz":"сумочка","es":"bolso","level":3,"transcription":null}
 {"kz":"перчатки","es":"guantes","level":3,"transcription":null}
 {"kz":"зонт","es":"paraguas","level":3,"transcription":null}
-{"kz":"ушанка","es":"orejeras","level":5,"transcription":null}
+{"kz":"ушанка","es":"ušanka","level":5,"transcription":null}
 {"kz":"дорогая одежда","es":"ropa cara","level":3,"transcription":null}
 {"kz":"зимняя одежда","es":"ropa de invierno","level":3,"transcription":null}
 {"kz":"зимнее пальто","es":"abrigo de invierno","level":3,"transcription":null}
@@ -1174,9 +1174,9 @@
 {"kz":"известность, слава","es":"fama, fama","level":4,"transcription":null}
 {"kz":"(его) имя","es":"(su) nombre","level":2,"transcription":null}
 {"kz":"фамилия, имя, отчество","es":"apellido, nombre, patronímico","level":3,"transcription":null}
-{"kz":"народ, публика","es":"gente, publico","level":4,"transcription":null}
+{"kz":"народ, публика","es":"gente, público","level":4,"transcription":null}
 {"kz":"социальная помощь","es":"asistencia social","level":4,"transcription":null}
-{"kz":"богатство","es":"poder","level":3,"transcription":null}
+{"kz":"богатство","es":"riqueza","level":3,"transcription":null}
 {"kz":"детство","es":"infancia","level":3,"transcription":null}
 {"kz":"статья","es":"artículo","level":3,"transcription":null}
 {"kz":"герой, храбрец","es":"héroe, hombre valiente","level":3,"transcription":null}
@@ -1200,14 +1200,14 @@
 {"kz":"юность","es":"juventud","level":3,"transcription":null}
 {"kz":"воин","es":"guerrero","level":4,"transcription":null}
 {"kz":"победа","es":"victoria","level":3,"transcription":null}
-{"kz":"День победы","es":"dia de la victoria","level":4,"transcription":null}
+{"kz":"День победы","es":"día de la victoria","level":4,"transcription":null}
 {"kz":"закон","es":"ley","level":3,"transcription":null}
 {"kz":"основы законодательства","es":"legislación básica","level":5,"transcription":null}
 {"kz":"испанец","es":"hispano","level":3,"transcription":null}
 {"kz":"старость","es":"vejez","level":3,"transcription":null}
 {"kz":"гений","es":"genio","level":5,"transcription":null}
-{"kz":"прожиточный минимум","es":"salario digno","level":5,"transcription":null}
-{"kz":"казах","es":"kazajo","level":2,"transcription":null}
+{"kz":"прожиточный минимум","es":"salario mínimo","level":5,"transcription":null}
+{"kz":"казах","es":"kazak","level":2,"transcription":null}
 {"kz":"казахские степи","es":"estepas kazajas","level":4,"transcription":null}
 {"kz":"казахская интеллигенция","es":"intelectualidad kazaja","level":5,"transcription":null}
 {"kz":"казахский дух","es":"espíritu kazajo","level":4,"transcription":null}
@@ -1216,21 +1216,21 @@
 {"kz":"родительский дом","es":"casa de los padres","level":4,"transcription":null}
 {"kz":"долг","es":"deber","level":3,"transcription":null}
 {"kz":"участие","es":"participación","level":3,"transcription":null}
-{"kz":"Дальний Восток","es":"lejano oriente","level":4,"transcription":null}
+{"kz":"Дальний Восток","es":"Oriente lejano","level":4,"transcription":null}
 {"kz":"авторитет в обществе","es":"autoridad en la sociedad","level":5,"transcription":null}
-{"kz":"фонд","es":"financiar","level":3,"transcription":null}
-{"kz":"уважение, почёт","es":"respeto, honor","level":4,"transcription":null}
+{"kz":"фонд","es":"fondos","level":3,"transcription":null}
+{"kz":"уважение, почёт","es":"respeto y honor","level":4,"transcription":null}
 {"kz":"религиозный праздник мусульман","es":"fiesta religiosa musulmana","level":5,"transcription":null}
 {"kz":"уважаемый человек","es":"hombre respetado","level":3,"transcription":null}
-{"kz":"съезд, конгресс","es":"congreso, congreso","level":5,"transcription":null}
+{"kz":"съезд, конгресс","es":"congreso","level":5,"transcription":null}
 {"kz":"преступление","es":"delito","level":4,"transcription":null}
 {"kz":"китаец","es":"chino","level":3,"transcription":null}
 {"kz":"государство","es":"estado","level":3,"transcription":null}
-{"kz":"День государственных символов","es":"símbolos del día del estado","level":5,"transcription":null}
+{"kz":"День государственных символов","es":"día de los símbolos del estado","level":5,"transcription":null}
 {"kz":"юбилей","es":"aniversario","level":4,"transcription":null}
-{"kz":"праздник","es":"día festivo","level":2,"transcription":null}
+{"kz":"праздник","es":"fiesta","level":2,"transcription":null}
 {"kz":"господин","es":"señor","level":4,"transcription":null}
-{"kz":"праздник Наурыз","es":"vacaciones en nauryz","level":4,"transcription":null}
+{"kz":"праздник Наурыз","es":"Navruz","level":4,"transcription":null}
 {"kz":"немец","es":"alemán","level":3,"transcription":null}
 {"kz":"по-немецки","es":"en alemán","level":3,"transcription":null}
 {"kz":"учёный","es":"científico","level":3,"transcription":null}
@@ -1245,17 +1245,17 @@
 {"kz":"выборы","es":"elecciones","level":3,"transcription":null}
 {"kz":"обычаи и традиции","es":"costumbres y tradiciones","level":4,"transcription":null}
 {"kz":"север","es":"norte","level":3,"transcription":null}
-{"kz":"историческое событие","es":"evento historico","level":4,"transcription":null}
+{"kz":"историческое событие","es":"evento histórico","level":4,"transcription":null}
 {"kz":"историческая личность","es":"figura histórica","level":4,"transcription":null}
-{"kz":"Ближний Восток","es":"oriente medio","level":4,"transcription":null}
-{"kz":"День независимости","es":"dia de la independencia","level":5,"transcription":null}
+{"kz":"Ближний Восток","es":"Oriente Medio","level":4,"transcription":null}
+{"kz":"День независимости","es":"Día de la Independencia","level":5,"transcription":null}
 {"kz":"(его) фамилия","es":"(su) apellido","level":3,"transcription":null}
 {"kz":"расследование","es":"investigación","level":4,"transcription":null}
 {"kz":"судья","es":"juez","level":4,"transcription":null}
 {"kz":"флаг","es":"bandera","level":2,"transcription":null}
 {"kz":"родной край","es":"tierra natal","level":3,"transcription":null}
 {"kz":"день рождения","es":"cumpleaños","level":2,"transcription":null}
-{"kz":"замужняя","es":"casado","level":3,"transcription":null}
+{"kz":"замужняя","es":"casada","level":3,"transcription":null}
 {"kz":"турок","es":"turco","level":3,"transcription":null}
 {"kz":"национальные блюда","es":"platos nacionales","level":4,"transcription":null}
 {"kz":"(его) национальность","es":"(su) nacionalidad","level":3,"transcription":null}
@@ -1276,19 +1276,19 @@
 {"kz":"праздник в честь новорождённого","es":"fiesta en honor al recién nacido","level":5,"transcription":null}
 {"kz":"суматоха, хаос","es":"agitación, caos","level":5,"transcription":null}
 {"kz":"истина","es":"verdadero","level":4,"transcription":null}
-{"kz":"перемена","es":"cambiar","level":3,"transcription":null}
+{"kz":"перемена","es":"cambio","level":3,"transcription":null}
 {"kz":"благополучие","es":"bienestar","level":4,"transcription":null}
 {"kz":"созерцание","es":"contemplación","level":5,"transcription":null}
 {"kz":"мечта","es":"sueño","level":2,"transcription":null}
-{"kz":"спешка, торопливость","es":"prisa, prisa","level":4,"transcription":null}
+{"kz":"спешка, торопливость","es":"prisa","level":4,"transcription":null}
 {"kz":"справедливость","es":"justicia","level":4,"transcription":null}
 {"kz":"впечатление","es":"impresión","level":3,"transcription":null}
 {"kz":"мир","es":"mundo","level":4,"transcription":null}
 {"kz":"поворот","es":"doblar","level":4,"transcription":null}
 {"kz":"прогноз","es":"pronóstico","level":4,"transcription":null}
 {"kz":"свобода","es":"libertad","level":3,"transcription":null}
-{"kz":"кризис, депрессия","es":"crisis, depresión","level":4,"transcription":null}
-{"kz":"мир, вселенная","es":"mundo, universo","level":4,"transcription":null}
+{"kz":"кризис, депрессия","es":"crisis","level":4,"transcription":null}
+{"kz":"мир, вселенная","es":"mundo","level":4,"transcription":null}
 {"kz":"мироощущение","es":"actitud","level":5,"transcription":null}
 {"kz":"мировоззрение","es":"cosmovisión","level":5,"transcription":null}
 {"kz":"равнодушие","es":"indiferencia","level":5,"transcription":null}
@@ -1298,19 +1298,19 @@
 {"kz":"отрицательная черта","es":"rasgo negativo","level":5,"transcription":null}
 {"kz":"возрождение","es":"renacimiento","level":4,"transcription":null}
 {"kz":"достижение","es":"logro","level":3,"transcription":null}
-{"kz":"везение, удачливость","es":"suerte, fortuna","level":4,"transcription":null}
+{"kz":"везение, удачливость","es":"suerte","level":4,"transcription":null}
 {"kz":"загадка","es":"misterio","level":3,"transcription":null}
 {"kz":"поведение","es":"comportamiento","level":4,"transcription":null}
 {"kz":"вдохновляющая сила","es":"fuerza inspiradora","level":5,"transcription":null}
 {"kz":"доброе пожелание","es":"buenos deseos","level":4,"transcription":null}
 {"kz":"по интуиции","es":"por intuición","level":5,"transcription":null}
-{"kz":"несогласие, разногласие","es":"desacuerdo, desacuerdo","level":5,"transcription":null}
+{"kz":"несогласие, разногласие","es":"desacuerdo","level":5,"transcription":null}
 {"kz":"совет","es":"consejo","level":3,"transcription":null}
 {"kz":"обратная реакция","es":"reacción","level":5,"transcription":null}
 {"kz":"деградация","es":"degradación","level":5,"transcription":null}
 {"kz":"нуждающийся в помощи","es":"en necesidad de ayuda","level":4,"transcription":null}
 {"kz":"показатель","es":"indicador","level":4,"transcription":null}
-{"kz":"кризисное состояние, упадок","es":"crisis, decadencia","level":5,"transcription":null}
+{"kz":"кризисное состояние, упадок","es":"crisis","level":5,"transcription":null}
 {"kz":"смех","es":"risa","level":2,"transcription":null}
 {"kz":"сомнение","es":"duda","level":4,"transcription":null}
 {"kz":"вся сила","es":"toda la fuerza","level":4,"transcription":null}
@@ -1318,8 +1318,8 @@
 {"kz":"неиссякаемая энергия","es":"energía inagotable","level":5,"transcription":null}
 {"kz":"шутка","es":"broma","level":3,"transcription":null}
 {"kz":"нормальное условие","es":"condición normal","level":4,"transcription":null}
-{"kz":"корыстолюбие, алчность","es":"egoísmo, avaricia","level":6,"transcription":null}
-{"kz":"суматоха, спешка","es":"bullicio, prisa","level":4,"transcription":null}
+{"kz":"корыстолюбие, алчность","es":"egoísmo","level":6,"transcription":null}
+{"kz":"суматоха, спешка","es":"bullicio","level":4,"transcription":null}
 {"kz":"возражение","es":"objeción","level":4,"transcription":null}
 {"kz":"отношения","es":"relación","level":4,"transcription":null}
 {"kz":"опасность","es":"peligro","level":3,"transcription":null}
@@ -1330,15 +1330,15 @@
 {"kz":"рвение","es":"celo","level":5,"transcription":null}
 {"kz":"интерес","es":"interés","level":3,"transcription":null}
 {"kz":"значение","es":"significado","level":3,"transcription":null}
-{"kz":"беспокойство, тревога","es":"preocupación, ansiedad","level":4,"transcription":null}
+{"kz":"беспокойство, тревога","es":"preocupación","level":4,"transcription":null}
 {"kz":"цель","es":"objetivo","level":2,"transcription":null}
 {"kz":"любовь","es":"amar","level":3,"transcription":null}
 {"kz":"возможность","es":"oportunidad","level":3,"transcription":null}
 {"kz":"пример","es":"ejemplo","level":2,"transcription":null}
-{"kz":"благо, доля, судьба","es":"bien, destino, destino","level":5,"transcription":null}
+{"kz":"благо, доля, судьба","es":"bien, destino","level":5,"transcription":null}
 {"kz":"искреннее намерение","es":"intención sincera","level":4,"transcription":null}
-{"kz":"версия, вариант","es":"versión, opción","level":4,"transcription":null}
-{"kz":"укрепление, усиление","es":"fortalecimiento, fortalecimiento","level":4,"transcription":null}
+{"kz":"версия, вариант","es":"versión","level":4,"transcription":null}
+{"kz":"укрепление, усиление","es":"fortalecimiento","level":4,"transcription":null}
 {"kz":"умозаключение","es":"inferencia","level":5,"transcription":null}
 {"kz":"вымысел","es":"ficción","level":4,"transcription":null}
 {"kz":"кругозор","es":"horizonte","level":4,"transcription":null}
@@ -1357,12 +1357,12 @@
 {"kz":"причина","es":"causa","level":3,"transcription":null}
 {"kz":"вера","es":"fe","level":3,"transcription":null}
 {"kz":"судьба","es":"destino","level":3,"transcription":null}
-{"kz":"чистоплотность, чистота","es":"limpieza, limpieza","level":4,"transcription":null}
+{"kz":"чистоплотность, чистота","es":"limpieza","level":4,"transcription":null}
 {"kz":"познание","es":"cognición","level":4,"transcription":null}
-{"kz":"знакомство","es":"conocido","level":3,"transcription":null}
+{"kz":"знакомство","es":"conocimiento","level":3,"transcription":null}
 {"kz":"остроумие","es":"ingenio","level":5,"transcription":null}
-{"kz":"дружба, согласие","es":"amistad, armonía","level":4,"transcription":null}
-{"kz":"преграда, препятствие","es":"obstáculo, obstáculo","level":4,"transcription":null}
+{"kz":"дружба, согласие","es":"amistad","level":4,"transcription":null}
+{"kz":"преграда, препятствие","es":"obstáculo","level":4,"transcription":null}
 {"kz":"терпеливость","es":"paciencia","level":4,"transcription":null}
 {"kz":"переворот","es":"golpe","level":5,"transcription":null}
 {"kz":"быт","es":"vida cotidiana","level":3,"transcription":null}
@@ -1392,24 +1392,24 @@
 {"kz":"давно, давным-давно","es":"hace mucho tiempo, hace mucho tiempo","level":3,"transcription":null}
 {"kz":"всегда","es":"siempre","level":1,"transcription":null}
 {"kz":"сначала","es":"en primer lugar","level":2,"transcription":null}
-{"kz":"давно","es":"por mucho tiempo","level":3,"transcription":null}
+{"kz":"давно","es":"mucho tiempo","level":3,"transcription":null}
 {"kz":"четверг","es":"jueves","level":2,"transcription":null}
 {"kz":"ближе к пяти","es":"más cerca de cinco","level":3,"transcription":null}
 {"kz":"в этом году","es":"este año","level":3,"transcription":null}
 {"kz":"в будущем","es":"en el futuro","level":3,"transcription":null}
-{"kz":"раньше","es":"más temprano","level":2,"transcription":null}
-{"kz":"пораньше","es":"temprano","level":3,"transcription":null}
+{"kz":"раньше","es":"antes","level":2,"transcription":null}
+{"kz":"пораньше","es":"por delante","level":3,"transcription":null}
 {"kz":"сегодня","es":"hoy","level":1,"transcription":null}
-{"kz":"послезавтра","es":"pasado mañana","level":3,"transcription":null}
+{"kz":"послезавтра","es":"mañana después","level":3,"transcription":null}
 {"kz":"в прошлом году","es":"el año pasado","level":3,"transcription":null}
 {"kz":"как-то раз, однажды","es":"un día, un día","level":3,"transcription":null}
 {"kz":"в одно мгновение","es":"en seguida","level":4,"transcription":null}
 {"kz":"век","es":"siglo","level":3,"transcription":null}
-{"kz":"до","es":"a","level":1,"transcription":null}
+{"kz":"до","es":"hasta","level":1,"transcription":null}
 {"kz":"понедельник","es":"lunes","level":2,"transcription":null}
 {"kz":"древность","es":"antigüedad","level":4,"transcription":null}
 {"kz":"теперь, сейчас","es":"ahora, ahora","level":2,"transcription":null}
-{"kz":"рано","es":"temprano","level":1,"transcription":null}
+{"kz":"рано","es":"mañana","level":1,"transcription":null}
 {"kz":"завтра","es":"mañana","level":1,"transcription":null}
 {"kz":"старые времена","es":"viejos tiempos","level":3,"transcription":null}
 {"kz":"лето","es":"verano","level":1,"transcription":null}
@@ -1454,14 +1454,14 @@
 {"kz":"мгновение","es":"instante","level":4,"transcription":null}
 {"kz":"сентябрь","es":"septiembre","level":3,"transcription":null}
 {"kz":"зима","es":"invierno","level":1,"transcription":null}
-{"kz":"май","es":"puede","level":2,"transcription":null}
+{"kz":"май","es":"mayo","level":2,"transcription":null}
 {"kz":"июнь, сезон","es":"junio, temporada","level":3,"transcription":null}
 {"kz":"вечность","es":"eternidad","level":4,"transcription":null}
 {"kz":"канун праздника","es":"víspera de vacaciones","level":4,"transcription":null}
 {"kz":"минута","es":"minuto","level":1,"transcription":null}
 {"kz":"тысячелетие","es":"milenio","level":4,"transcription":null}
 {"kz":"март","es":"marzo","level":3,"transcription":null}
-{"kz":"потом, после этого","es":"entonces, después de eso","level":2,"transcription":null}
+{"kz":"потом, после этого","es":"después de eso","level":2,"transcription":null}
 {"kz":"около десяти","es":"alrededor de diez","level":3,"transcription":null}
 {"kz":"декада","es":"década","level":4,"transcription":null}
 {"kz":"межсезонье","es":"fuera de temporada","level":5,"transcription":null}
@@ -1494,13 +1494,13 @@
 {"kz":"специальный корреспондент","es":"corresponsal especial","level":5,"transcription":null}
 {"kz":"знаменитый артист","es":"artista famoso","level":4,"transcription":null}
 {"kz":"наименование","es":"nombre","level":4,"transcription":null}
-{"kz":"окончание, завершение","es":"final, finalización","level":3,"transcription":null}
+{"kz":"окончание, завершение","es":"finalización","level":3,"transcription":null}
 {"kz":"беседа","es":"conversación","level":3,"transcription":null}
 {"kz":"СМИ","es":"medios de comunicación","level":4,"transcription":null}
 {"kz":"издательство","es":"editorial","level":4,"transcription":null}
 {"kz":"издательский дом","es":"editorial","level":4,"transcription":null}
 {"kz":"издатель","es":"editor","level":5,"transcription":null}
-{"kz":"печать, пресса","es":"imprimir, presionar","level":4,"transcription":null}
+{"kz":"печать, пресса","es":"impresión","level":4,"transcription":null}
 {"kz":"видеозапись","es":"grabación de vídeo","level":4,"transcription":null}
 {"kz":"пустые слова","es":"palabras vacías","level":3,"transcription":null}
 {"kz":"начальник отдела","es":"jefe de departamento","level":4,"transcription":null}
@@ -1514,27 +1514,27 @@
 {"kz":"воспоминание","es":"memoria","level":4,"transcription":null}
 {"kz":"мемуары","es":"memorias","level":5,"transcription":null}
 {"kz":"положительная информация","es":"información positiva","level":4,"transcription":null}
-{"kz":"хорошие новости","es":"albricias","level":3,"transcription":null}
+{"kz":"хорошие новости","es":"noticias buenas","level":3,"transcription":null}
 {"kz":"ложная информация","es":"información falsa","level":5,"transcription":null}
-{"kz":"новая программа","es":"nuevo programa","level":3,"transcription":null}
-{"kz":"новый репортёр","es":"nuevo reportero","level":4,"transcription":null}
-{"kz":"новость","es":"noticias","level":2,"transcription":null}
+{"kz":"новая программа","es":"nueva programación","level":3,"transcription":null}
+{"kz":"новый репортёр","es":"reportero nuevo","level":4,"transcription":null}
+{"kz":"новость","es":"noticia","level":2,"transcription":null}
 {"kz":"подготовка новостей","es":"preparación de noticias","level":5,"transcription":null}
 {"kz":"реклама","es":"publicidad","level":3,"transcription":null}
 {"kz":"журнал","es":"revista","level":2,"transcription":null}
 {"kz":"случайная ошибка","es":"error aleatorio","level":4,"transcription":null}
 {"kz":"случайные события","es":"eventos aleatorios","level":4,"transcription":null}
 {"kz":"последующий список","es":"lista posterior","level":4,"transcription":null}
-{"kz":"производство фильмов","es":"producción cinematográfica","level":5,"transcription":null}
+{"kz":"производство фильмов","es":"producción de películas","level":5,"transcription":null}
 {"kz":"корректура","es":"corrección de pruebas","level":5,"transcription":null}
-{"kz":"забавный фильм","es":"pelicula divertida","level":3,"transcription":null}
-{"kz":"общество, публика","es":"sociedad, publico","level":3,"transcription":null}
-{"kz":"показ","es":"espectáculo","level":4,"transcription":null}
-{"kz":"трансляция, показ","es":"transmitir, mostrar","level":4,"transcription":null}
+{"kz":"забавный фильм","es":"película divertida","level":3,"transcription":null}
+{"kz":"общество, публика","es":"sociedad y público","level":3,"transcription":null}
+{"kz":"показ","es":"presentación","level":4,"transcription":null}
+{"kz":"трансляция, показ","es":"transmisión y presentación","level":4,"transcription":null}
 {"kz":"анекдот","es":"broma","level":4,"transcription":null}
 {"kz":"неожиданное событие","es":"evento inesperado","level":4,"transcription":null}
 {"kz":"введение","es":"introducción","level":3,"transcription":null}
-{"kz":"книгоиздание, книгоиздательство","es":"publicación de libros, edición de libros","level":5,"transcription":null}
+{"kz":"книгоиздание, книгоиздательство","es":"publicación de libros y edición de libros","level":5,"transcription":null}
 {"kz":"внесён в книгу","es":"incluido en el libro","level":4,"transcription":null}
 {"kz":"афоризм","es":"aforismo","level":5,"transcription":null}
 {"kz":"ошибка","es":"error","level":3,"transcription":null}
@@ -1557,12 +1557,12 @@
 {"kz":"деятель искусства","es":"artista","level":5,"transcription":null}
 {"kz":"бесполезный","es":"inútil","level":3,"transcription":null}
 {"kz":"герой пьесы","es":"héroe de la obra","level":5,"transcription":null}
-{"kz":"анкета, вопросник","es":"cuestionario, cuestionario","level":4,"transcription":null}
+{"kz":"анкета, вопросник","es":"cuestionario","level":4,"transcription":null}
 {"kz":"абсолютная ошибка","es":"error absoluto","level":5,"transcription":null}
 {"kz":"заголовок","es":"título","level":4,"transcription":null}
 {"kz":"популярный певец","es":"cantante popular","level":3,"transcription":null}
 {"kz":"популярный фильм","es":"película popular","level":3,"transcription":null}
-{"kz":"познавательные сведения","es":"informacion educativa","level":4,"transcription":null}
+{"kz":"познавательные сведения","es":"información educativa","level":4,"transcription":null}
 {"kz":"утренние издание","es":"edición de la mañana","level":4,"transcription":null}
 {"kz":"распродажа","es":"venta","level":4,"transcription":null}
 {"kz":"телеканал","es":"canal de televisión","level":3,"transcription":null}
@@ -1581,7 +1581,7 @@
 {"kz":"предложение","es":"oferta","level":3,"transcription":null}
 {"kz":"съёмки фильма","es":"rodaje","level":4,"transcription":null}
 {"kz":"фотография","es":"foto","level":3,"transcription":null}
-{"kz":"весть, новости","es":"noticias, noticias","level":3,"transcription":null}
+{"kz":"весть, новости","es":"noticias","level":3,"transcription":null}
 {"kz":"мастер","es":"maestro","level":3,"transcription":null}
 {"kz":"обозреватель","es":"crítico","level":5,"transcription":null}
 {"kz":"дата выпуска","es":"fecha de lanzamiento","level":4,"transcription":null}
@@ -1603,32 +1603,32 @@
 {"kz":"витамины","es":"vitaminas","level":4,"transcription":null}
 {"kz":"авитаминоз","es":"avitaminosis","level":5,"transcription":null}
 {"kz":"лекарство","es":"medicamento","level":2,"transcription":null}
-{"kz":"капельница","es":"iv","level":5,"transcription":null}
+{"kz":"капельница","es":"infusión","level":5,"transcription":null}
 {"kz":"врач","es":"doctor","level":2,"transcription":null}
-{"kz":"врачебный консилиум","es":"consejo medico","level":6,"transcription":null}
+{"kz":"врачебный консилиум","es":"consejo médico","level":6,"transcription":null}
 {"kz":"медикаменты","es":"medicamentos","level":4,"transcription":null}
 {"kz":"календула лекарственная","es":"caléndula officinalis","level":6,"transcription":null}
 {"kz":"вдох","es":"inhalar","level":3,"transcription":null}
 {"kz":"выдох","es":"exhalación","level":3,"transcription":null}
 {"kz":"здоровье","es":"salud","level":2,"transcription":null}
-{"kz":"правильное питание","es":"nutrición adecuada","level":4,"transcription":null}
+{"kz":"правильное питание","es":"alimentación adecuada","level":4,"transcription":null}
 {"kz":"лекарь","es":"doctor","level":4,"transcription":null}
-{"kz":"мазь","es":"ungüento","level":4,"transcription":null}
+{"kz":"мазь","es":"crema","level":4,"transcription":null}
 {"kz":"рана","es":"herida","level":3,"transcription":null}
 {"kz":"кашель","es":"tos","level":3,"transcription":null}
 {"kz":"нервная система","es":"sistema nervioso","level":5,"transcription":null}
 {"kz":"кардиолог","es":"cardiólogo","level":5,"transcription":null}
-{"kz":"грелка","es":"más cálido","level":4,"transcription":null}
+{"kz":"грелка","es":"calentador","level":4,"transcription":null}
 {"kz":"бешенство","es":"rabia","level":5,"transcription":null}
 {"kz":"повреждение","es":"daño","level":4,"transcription":null}
 {"kz":"результат исследования","es":"resultado de la investigación","level":5,"transcription":null}
-{"kz":"основа обследования","es":"base de la encuesta","level":5,"transcription":null}
+{"kz":"основа обследования","es":"base del examen","level":5,"transcription":null}
 {"kz":"лаборатория","es":"laboratorio","level":4,"transcription":null}
 {"kz":"ингалятор","es":"inhalador","level":5,"transcription":null}
 {"kz":"крем","es":"crema","level":4,"transcription":null}
 {"kz":"кабинет","es":"gabinete","level":3,"transcription":null}
-{"kz":"внешность","es":"apariencia","level":4,"transcription":null}
-{"kz":"компресс","es":"comprimir","level":5,"transcription":null}
+{"kz":"внешность","es":"aparición","level":4,"transcription":null}
+{"kz":"компресс","es":"compresión","level":5,"transcription":null}
 {"kz":"углевод","es":"carbohidrato","level":5,"transcription":null}
 {"kz":"воспаление","es":"inflamación","level":4,"transcription":null}
 {"kz":"дремота","es":"siesta","level":4,"transcription":null}
@@ -1637,11 +1637,11 @@
 {"kz":"боль в ухе","es":"dolor de oído","level":3,"transcription":null}
 {"kz":"повышение температуры","es":"aumento de temperatura","level":4,"transcription":null}
 {"kz":"календула","es":"caléndula","level":5,"transcription":null}
-{"kz":"горчичник","es":"yeso mostaza","level":5,"transcription":null}
+{"kz":"горчичник","es":"aceite de ricino","level":5,"transcription":null}
 {"kz":"касторка","es":"aceite de ricino","level":5,"transcription":null}
-{"kz":"медицинский персонал","es":"personal medico","level":5,"transcription":null}
-{"kz":"медицинские показатели","es":"indicadores medicos","level":5,"transcription":null}
-{"kz":"медбрат, медсестра","es":"enfermera, enfermera","level":3,"transcription":null}
+{"kz":"медицинский персонал","es":"personal médico","level":5,"transcription":null}
+{"kz":"медицинские показатели","es":"indicadores médicos","level":5,"transcription":null}
+{"kz":"медбрат, медсестра","es":"enfermera","level":3,"transcription":null}
 {"kz":"минеральное лекарство","es":"medicina mineral","level":5,"transcription":null}
 {"kz":"подтверждение результата","es":"confirmación del resultado","level":5,"transcription":null}
 {"kz":"операция","es":"operación","level":3,"transcription":null}
@@ -1650,22 +1650,22 @@
 {"kz":"гепатит","es":"hepatitis","level":5,"transcription":null}
 {"kz":"бодрость","es":"alegría","level":4,"transcription":null}
 {"kz":"микстура","es":"poción","level":5,"transcription":null}
-{"kz":"ортопед, костоправ","es":"ortopedista, quiropráctico","level":5,"transcription":null}
+{"kz":"ортопед, костоправ","es":"ortopedista","level":5,"transcription":null}
 {"kz":"режим питания","es":"dieta","level":4,"transcription":null}
 {"kz":"аппетит","es":"apetito","level":3,"transcription":null}
 {"kz":"быстрое выздоровление","es":"recuperación rápida","level":4,"transcription":null}
 {"kz":"дерматолог","es":"dermatólogo","level":5,"transcription":null}
 {"kz":"грипп","es":"gripe","level":3,"transcription":null}
 {"kz":"настой","es":"infusión","level":4,"transcription":null}
-{"kz":"дыхание","es":"aliento","level":3,"transcription":null}
+{"kz":"дыхание","es":"respiración","level":3,"transcription":null}
 {"kz":"зубная боль","es":"dolor de muelas","level":3,"transcription":null}
 {"kz":"зубной врач","es":"dentista","level":4,"transcription":null}
 {"kz":"противоядие","es":"antídoto","level":5,"transcription":null}
 {"kz":"чтобы долго жить","es":"vivir mucho tiempo","level":3,"transcription":null}
 {"kz":"нарушение сна","es":"trastorno del sueño","level":4,"transcription":null}
 {"kz":"амнезия","es":"amnesia","level":5,"transcription":null}
-{"kz":"колики","es":"cólico","level":5,"transcription":null}
-{"kz":"исцеление, целебный","es":"curación, curación","level":4,"transcription":null}
+{"kz":"колики","es":"cólicos","level":5,"transcription":null}
+{"kz":"исцеление, целебный","es":"curación","level":4,"transcription":null}
 {"kz":"лечебная грязь","es":"barro curativo","level":5,"transcription":null}
 {"kz":"жажда","es":"sed","level":3,"transcription":null}
 {"kz":"травник","es":"herbalista","level":5,"transcription":null}
@@ -1692,7 +1692,7 @@
 {"kz":"бязь","es":"calicó","level":5,"transcription":null}
 {"kz":"пар","es":"vapor","level":2,"transcription":null}
 {"kz":"ветка","es":"rama","level":3,"transcription":null}
-{"kz":"сук, ветка","es":"rama, rama","level":4,"transcription":null}
+{"kz":"сук, ветка","es":"ramo","level":4,"transcription":null}
 {"kz":"букле","es":"bouclé","level":6,"transcription":null}
 {"kz":"почка","es":"brote","level":3,"transcription":null}
 {"kz":"кожа","es":"cuero","level":3,"transcription":null}
@@ -1720,52 +1720,52 @@
 {"kz":"брусок","es":"bar","level":4,"transcription":null}
 {"kz":"брусок золота","es":"barra de oro","level":5,"transcription":null}
 {"kz":"бирюза","es":"turquesa","level":5,"transcription":null}
-{"kz":"мак","es":"amapola","level":4,"transcription":null}
-{"kz":"крепдешин","es":"crepé de china","level":6,"transcription":null}
-{"kz":"сернистый водород","es":"sulfuro de hidrógeno","level":6,"transcription":null}
+{"kz":"мак","es":"amarilla","level":4,"transcription":null}
+{"kz":"крепдешин","es":"crepúsculo","level":6,"transcription":null}
+{"kz":"сернистый водород","es":"hidrógeno sulfuro","level":6,"transcription":null}
 {"kz":"зола","es":"ceniza","level":3,"transcription":null}
 {"kz":"серебро","es":"plata","level":3,"transcription":null}
 {"kz":"кирпич","es":"ladrillo","level":3,"transcription":null}
-{"kz":"кора","es":"ladrar","level":3,"transcription":null}
-{"kz":"берёза","es":"abedul","level":3,"transcription":null}
-{"kz":"олово","es":"estaño","level":4,"transcription":null}
+{"kz":"кора","es":"cuerda","level":3,"transcription":null}
+{"kz":"берёза","es":"aulo","level":3,"transcription":null}
+{"kz":"олово","es":"plomo","level":4,"transcription":null}
 {"kz":"гвоздика","es":"clavel","level":4,"transcription":null}
 {"kz":"сосна","es":"pino","level":3,"transcription":null}
 {"kz":"твёрдое вещество","es":"sólido","level":4,"transcription":null}
 {"kz":"бронза","es":"bronce","level":4,"transcription":null}
 {"kz":"колокольчик","es":"campana","level":4,"transcription":null}
-{"kz":"свинец","es":"dirigir","level":4,"transcription":null}
+{"kz":"свинец","es":"plomo","level":4,"transcription":null}
 {"kz":"песок","es":"arena","level":2,"transcription":null}
-{"kz":"плюш","es":"felpa","level":5,"transcription":null}
+{"kz":"плюш","es":"peluche","level":5,"transcription":null}
 {"kz":"тюльпан","es":"tulipán","level":4,"transcription":null}
-{"kz":"щавель","es":"alazán","level":5,"transcription":null}
+{"kz":"щавель","es":"albahaca","level":5,"transcription":null}
 {"kz":"кислота","es":"ácido","level":4,"transcription":null}
 {"kz":"лавсан","es":"lavsan","level":5,"transcription":null}
 {"kz":"лилия","es":"lirio","level":4,"transcription":null}
 {"kz":"маслянистые вещества","es":"sustancias aceitosas","level":5,"transcription":null}
 {"kz":"хлопок","es":"algodón","level":3,"transcription":null}
 {"kz":"коралл","es":"coral","level":4,"transcription":null}
-{"kz":"велюр","es":"terciopelos","level":5,"transcription":null}
+{"kz":"велюр","es":"velud","level":5,"transcription":null}
 {"kz":"ткань","es":"textil","level":3,"transcription":null}
 {"kz":"жемчуг","es":"perla","level":4,"transcription":null}
 {"kz":"минералы","es":"minerales","level":4,"transcription":null}
 {"kz":"минеральная соль","es":"sal mineral","level":4,"transcription":null}
-{"kz":"нашатырный спирт","es":"amoníaco","level":6,"transcription":null}
+{"kz":"нашатырный спирт","es":"alcohol","level":6,"transcription":null}
 {"kz":"медь","es":"cobre","level":3,"transcription":null}
 {"kz":"кислород","es":"oxígeno","level":4,"transcription":null}
 {"kz":"обожжённый кирпич","es":"ladrillo quemado","level":5,"transcription":null}
 {"kz":"растение","es":"planta","level":2,"transcription":null}
 {"kz":"пластмасса","es":"plástico","level":4,"transcription":null}
-{"kz":"бумазея","es":"bumazea","level":6,"transcription":null}
+{"kz":"бумазея","es":"bумага","level":6,"transcription":null}
 {"kz":"роза","es":"rosa","level":3,"transcription":null}
-{"kz":"стебель","es":"provenir","level":3,"transcription":null}
+{"kz":"стебель","es":"tallo","level":3,"transcription":null}
 {"kz":"глина","es":"arcilla","level":3,"transcription":null}
-{"kz":"сатин","es":"satín","level":4,"transcription":null}
+{"kz":"сатин","es":"satin","level":4,"transcription":null}
 {"kz":"чернила","es":"tinta","level":3,"transcription":null}
 {"kz":"спирт","es":"alcohol","level":4,"transcription":null}
 {"kz":"гобелен","es":"tapiz","level":5,"transcription":null}
 {"kz":"водород","es":"hidrógeno","level":4,"transcription":null}
-{"kz":"жидкое вещество","es":"sustancia liquida","level":4,"transcription":null}
+{"kz":"жидкое вещество","es":"líquido","level":4,"transcription":null}
 {"kz":"жидкость","es":"líquido","level":4,"transcription":null}
 {"kz":"природные силикаты","es":"silicatos naturales","level":6,"transcription":null}
 {"kz":"тальник, ива","es":"sauce, sauce","level":4,"transcription":null}
@@ -1784,25 +1784,25 @@
 {"kz":"химические добавки","es":"aditivos químicos","level":5,"transcription":null}
 {"kz":"цемент","es":"cemento","level":3,"transcription":null}
 {"kz":"пыль","es":"polvo","level":2,"transcription":null}
-{"kz":"вельвет","es":"pana","level":5,"transcription":null}
+{"kz":"вельвет","es":"velvet","level":5,"transcription":null}
 {"kz":"ель","es":"picea","level":3,"transcription":null}
 {"kz":"ситец","es":"chintz","level":5,"transcription":null}
-{"kz":"горячий пар","es":"vapor caliente","level":3,"transcription":null}
-{"kz":"лесозаготовка","es":"explotación florestal","level":5,"transcription":null}
+{"kz":"горячий пар","es":"calor de vapor","level":3,"transcription":null}
+{"kz":"лесозаготовка","es":"explotación forestal","level":5,"transcription":null}
 {"kz":"лесоповал","es":"tala","level":5,"transcription":null}
 {"kz":"лесопромышленность","es":"industria maderera","level":5,"transcription":null}
 {"kz":"интервал","es":"intervalo","level":4,"transcription":null}
-{"kz":"исполнительный срок","es":"término ejecutivo","level":5,"transcription":null}
+{"kz":"исполнительный срок","es":"plazo ejecutivo","level":5,"transcription":null}
 {"kz":"администрация","es":"administración","level":4,"transcription":null}
 {"kz":"от начала до конца","es":"de principio a fin","level":3,"transcription":null}
-{"kz":"начало","es":"comenzar","level":2,"transcription":null}
+{"kz":"начало","es":"inicio","level":2,"transcription":null}
 {"kz":"приоритет","es":"prioridad","level":4,"transcription":null}
 {"kz":"будущее","es":"futuro","level":2,"transcription":null}
-{"kz":"вагоностроение","es":"edificio de carruajes","level":5,"transcription":null}
+{"kz":"вагоностроение","es":"construcción de vagones","level":5,"transcription":null}
 {"kz":"строительство зданий","es":"construcción de edificios","level":5,"transcription":null}
 {"kz":"научная основа","es":"base científica","level":5,"transcription":null}
 {"kz":"готовая продукция","es":"productos terminados","level":4,"transcription":null}
-{"kz":"пятно","es":"lugar","level":2,"transcription":null}
+{"kz":"пятно","es":"mancha","level":2,"transcription":null}
 {"kz":"уровень","es":"nivel","level":3,"transcription":null}
 {"kz":"в самом начале","es":"al principio","level":2,"transcription":null}
 {"kz":"в самом конце","es":"al final","level":2,"transcription":null}
@@ -1810,11 +1810,11 @@
 {"kz":"годность, пригодность","es":"idoneidad, idoneidad","level":4,"transcription":null}
 {"kz":"срок годности","es":"fecha de caducidad","level":4,"transcription":null}
 {"kz":"лёгкая индустрия","es":"industria ligera","level":4,"transcription":null}
-{"kz":"срок доставки","es":"el tiempo de entrega","level":4,"transcription":null}
-{"kz":"высокий статус","es":"alto estatus","level":4,"transcription":null}
+{"kz":"срок доставки","es":"tiempo de entrega","level":4,"transcription":null}
+{"kz":"высокий статус","es":"alto rango","level":4,"transcription":null}
 {"kz":"строительство дорог","es":"construcción de carreteras","level":4,"transcription":null}
 {"kz":"обеспечение работой","es":"provisión de trabajo","level":5,"transcription":null}
-{"kz":"перерыв на работе","es":"descanso en el trabajo","level":4,"transcription":null}
+{"kz":"перерыв на работе","es":"pausa en el trabajo","level":4,"transcription":null}
 {"kz":"приз","es":"premio","level":3,"transcription":null}
 {"kz":"шерстопрядение","es":"hilado de lana","level":5,"transcription":null}
 {"kz":"шёлкопрядение","es":"filatura","level":5,"transcription":null}
@@ -1828,9 +1828,9 @@
 {"kz":"срок использования","es":"periodo de uso","level":4,"transcription":null}
 {"kz":"дополнительный отпуск","es":"licencia adicional","level":4,"transcription":null}
 {"kz":"срок документооборота","es":"período de flujo de documentos","level":6,"transcription":null}
-{"kz":"срок действия документа","es":"período de validez del documento","level":5,"transcription":null}
+{"kz":"срок действия документа","es":"periodo de validez del documento","level":5,"transcription":null}
 {"kz":"состав","es":"compuesto","level":3,"transcription":null}
-{"kz":"работать на строительстве","es":"trabajar en la construccion","level":4,"transcription":null}
+{"kz":"работать на строительстве","es":"trabajar en la construcción","level":4,"transcription":null}
 {"kz":"отрасль животноводства","es":"industria ganadera","level":5,"transcription":null}
 {"kz":"машиностроение","es":"ingeniería mecánica","level":5,"transcription":null}
 {"kz":"истёк срок, просрочен","es":"caducado, caducado","level":4,"transcription":null}
@@ -1850,7 +1850,7 @@
 {"kz":"продукция","es":"productos","level":3,"transcription":null}
 {"kz":"регион","es":"región","level":3,"transcription":null}
 {"kz":"срок эксплуатации","es":"vida útil","level":5,"transcription":null}
-{"kz":"мыловарение","es":"hacer jabon","level":5,"transcription":null}
+{"kz":"мыловарение","es":"hacer jabón","level":5,"transcription":null}
 {"kz":"срок хранения","es":"duración","level":4,"transcription":null}
 {"kz":"срок страхования","es":"periodo de seguro","level":5,"transcription":null}
 {"kz":"категория","es":"categoría","level":4,"transcription":null}
@@ -1861,7 +1861,7 @@
 {"kz":"товар","es":"producto","level":3,"transcription":null}
 {"kz":"проверяющий","es":"inspector","level":4,"transcription":null}
 {"kz":"строительство железных дорог","es":"construcción ferroviaria","level":5,"transcription":null}
-{"kz":"произведение","es":"trabajar","level":3,"transcription":null}
+{"kz":"произведение","es":"obra","level":3,"transcription":null}
 {"kz":"солеварение, выварка соли","es":"hacer sal, hervir sal","level":5,"transcription":null}
 {"kz":"потребление","es":"consumo","level":4,"transcription":null}
 {"kz":"потребитель","es":"consumidor","level":4,"transcription":null}
@@ -1869,22 +1869,22 @@
 {"kz":"порядок времени","es":"orden de tiempo","level":4,"transcription":null}
 {"kz":"соблюдать порядок времени","es":"mantener el orden del tiempo","level":5,"transcription":null}
 {"kz":"продолжительность","es":"duración","level":4,"transcription":null}
-{"kz":"сходство","es":"semejanza","level":4,"transcription":null}
+{"kz":"сходство","es":"similitud","level":4,"transcription":null}
 {"kz":"национальный конкурс","es":"competencia nacional","level":4,"transcription":null}
 {"kz":"национальный колорит","es":"color nacional","level":5,"transcription":null}
-{"kz":"воровство, кража","es":"robo, robo","level":4,"transcription":null}
+{"kz":"воровство, кража","es":"robo","level":4,"transcription":null}
 {"kz":"задержание","es":"detención","level":4,"transcription":null}
 {"kz":"без перерыва","es":"sin descanso","level":3,"transcription":null}
 {"kz":"доля","es":"compartir","level":3,"transcription":null}
 {"kz":"претендент","es":"desafiador","level":4,"transcription":null}
 {"kz":"жалоба, просьба","es":"queja, petición","level":4,"transcription":null}
 {"kz":"виноделие","es":"vinificación","level":5,"transcription":null}
-{"kz":"гам, шум","es":"estrépito, ruido","level":5,"transcription":null}
+{"kz":"гам, шум","es":"estrépito","level":5,"transcription":null}
 {"kz":"пропавший без вести","es":"desaparecido","level":5,"transcription":null}
 {"kz":"дело","es":"caso","level":2,"transcription":null}
 {"kz":"благополучный исход дела","es":"resultado exitoso del caso","level":5,"transcription":null}
 {"kz":"оборот","es":"volumen de negocios","level":4,"transcription":null}
-{"kz":"штраф","es":"bien","level":4,"transcription":null}
+{"kz":"штраф","es":"multa","level":4,"transcription":null}
 {"kz":"деньги","es":"dinero","level":1,"transcription":null}
 {"kz":"денежный перевод","es":"remesa","level":4,"transcription":null}
 {"kz":"аванс","es":"avance","level":4,"transcription":null}
@@ -1896,10 +1896,10 @@
 {"kz":"ревизор","es":"auditor","level":5,"transcription":null}
 {"kz":"эквивалент","es":"equivalente","level":5,"transcription":null}
 {"kz":"единообразие","es":"uniformidad","level":5,"transcription":null}
-{"kz":"маклер, посредник","es":"corredor, intermediario","level":5,"transcription":null}
+{"kz":"маклер, посредник","es":"corredor","level":5,"transcription":null}
 {"kz":"депонент","es":"depositor","level":6,"transcription":null}
 {"kz":"забастовщик","es":"huelguista","level":5,"transcription":null}
-{"kz":"арендатор, наниматель","es":"inquilino, inquilino","level":4,"transcription":null}
+{"kz":"арендатор, наниматель","es":"inquilino","level":4,"transcription":null}
 {"kz":"общее количество","es":"cantidad total","level":3,"transcription":null}
 {"kz":"акциз","es":"impuesto especial","level":5,"transcription":null}
 {"kz":"взносы","es":"contribuciones","level":4,"transcription":null}
@@ -1911,14 +1911,14 @@
 {"kz":"поставщик","es":"proveedor","level":4,"transcription":null}
 {"kz":"сбережение","es":"ahorro","level":4,"transcription":null}
 {"kz":"инвестор","es":"inversor","level":4,"transcription":null}
-{"kz":"залог","es":"promesa","level":4,"transcription":null}
+{"kz":"залог","es":"garantía","level":4,"transcription":null}
 {"kz":"поручитель","es":"garante","level":5,"transcription":null}
 {"kz":"задаток","es":"depósito","level":5,"transcription":null}
 {"kz":"ссуда","es":"préstamo","level":5,"transcription":null}
 {"kz":"субсидия","es":"subvención","level":5,"transcription":null}
 {"kz":"оптовик","es":"mayorista","level":4,"transcription":null}
 {"kz":"казна","es":"arcas","level":4,"transcription":null}
-{"kz":"меценат, благотворитель","es":"filántropo, filántropo","level":5,"transcription":null}
+{"kz":"меценат, благотворитель","es":"filántropo","level":5,"transcription":null}
 {"kz":"благотворительность","es":"caridad","level":5,"transcription":null}
 {"kz":"обеспечение","es":"seguridad","level":4,"transcription":null}
 {"kz":"финансы","es":"finanzas","level":4,"transcription":null}
@@ -1926,14 +1926,14 @@
 {"kz":"капиталовложения","es":"inversión","level":5,"transcription":null}
 {"kz":"кредитор","es":"acreedor","level":4,"transcription":null}
 {"kz":"должник","es":"deudor","level":4,"transcription":null}
-{"kz":"склад, помещение","es":"almacén, local","level":4,"transcription":null}
+{"kz":"склад, помещение","es":"almacén","level":4,"transcription":null}
 {"kz":"наличные деньги","es":"dinero","level":4,"transcription":null}
 {"kz":"накопление","es":"acumulación","level":4,"transcription":null}
-{"kz":"дополнительные затраты, расходы","es":"costos adicionales, gastos","level":5,"transcription":null}
+{"kz":"дополнительные затраты, расходы","es":"costos adicionales","level":5,"transcription":null}
 {"kz":"стоимость","es":"precio","level":3,"transcription":null}
 {"kz":"подрядчик в строительстве","es":"contratista de construcción","level":5,"transcription":null}
-{"kz":"государственная субсидия","es":"subsidio gubernamental","level":5,"transcription":null}
-{"kz":"государственная казна","es":"tesorería del estado","level":5,"transcription":null}
+{"kz":"государственная субсидия","es":"subsidio estatal","level":5,"transcription":null}
+{"kz":"государственная казна","es":"cajón del estado","level":5,"transcription":null}
 {"kz":"подрядчик","es":"contratista","level":4,"transcription":null}
 {"kz":"нефтяной магнат","es":"magnate del petróleo","level":5,"transcription":null}
 {"kz":"завещатель","es":"testador","level":5,"transcription":null}
@@ -1944,7 +1944,7 @@
 {"kz":"прибыль","es":"ganancia","level":3,"transcription":null}
 {"kz":"процент","es":"por ciento","level":3,"transcription":null}
 {"kz":"взятка","es":"soborno","level":4,"transcription":null}
-{"kz":"квартплата","es":"alquilar","level":4,"transcription":null}
+{"kz":"квартплата","es":"alquiler de piso","level":4,"transcription":null}
 {"kz":"страховка","es":"seguro","level":4,"transcription":null}
 {"kz":"налог","es":"impuesto","level":3,"transcription":null}
 {"kz":"налогоплательщик","es":"contribuyente","level":5,"transcription":null}
@@ -1965,7 +1965,7 @@
 {"kz":"расход","es":"consumo","level":3,"transcription":null}
 {"kz":"основа выборки","es":"marco de muestreo","level":6,"transcription":null}
 {"kz":"заработная плата","es":"salarios","level":3,"transcription":null}
-{"kz":"штраф","es":"bien","level":4,"transcription":null}
+{"kz":"штраф","es":"multa","level":4,"transcription":null}
 {"kz":"денежные переводы","es":"transferencias de dinero","level":4,"transcription":null}
 {"kz":"неоплачиваемый отпуск","es":"licencia no remunerada","level":5,"transcription":null}
 {"kz":"благодарственное письмо","es":"carta de agradecimiento","level":4,"transcription":null}
@@ -1975,13 +1975,13 @@
 {"kz":"попытка","es":"intentar","level":3,"transcription":null}
 {"kz":"военная обязанность","es":"deber militar","level":5,"transcription":null}
 {"kz":"уход за ребёнком","es":"cuidado de los niños","level":4,"transcription":null}
-{"kz":"отказ","es":"negativa","level":3,"transcription":null}
+{"kz":"отказ","es":"rechazo","level":3,"transcription":null}
 {"kz":"отделочные работы","es":"trabajo de acabado","level":5,"transcription":null}
 {"kz":"дата выдачи","es":"fecha de emisión","level":4,"transcription":null}
 {"kz":"квалификация","es":"calificación","level":4,"transcription":null}
 {"kz":"квалификационная степень","es":"título de calificación","level":5,"transcription":null}
 {"kz":"внебюджетный","es":"fuera del presupuesto","level":5,"transcription":null}
-{"kz":"учёная степень","es":"grado academico","level":5,"transcription":null}
+{"kz":"учёная степень","es":"grado académico","level":5,"transcription":null}
 {"kz":"научный труд","es":"trabajo científico","level":5,"transcription":null}
 {"kz":"экземпляр","es":"copiar","level":4,"transcription":null}
 {"kz":"уважительная причина","es":"buena razón","level":4,"transcription":null}
@@ -2017,7 +2017,7 @@
 {"kz":"внеочередной отпуск","es":"licencia extraordinaria","level":5,"transcription":null}
 {"kz":"во время","es":"durante","level":2,"transcription":null}
 {"kz":"соглашение","es":"acuerdo","level":3,"transcription":null}
-{"kz":"договор","es":"acuerdo","level":3,"transcription":null}
+{"kz":"договор","es":"contrato","level":3,"transcription":null}
 {"kz":"финансовый документ","es":"documento financiero","level":5,"transcription":null}
 {"kz":"участник","es":"partícipe","level":3,"transcription":null}
 {"kz":"постановление","es":"resolución","level":4,"transcription":null}
@@ -2041,29 +2041,29 @@
 {"kz":"изменение","es":"cambiar","level":3,"transcription":null}
 {"kz":"представительство","es":"representación","level":5,"transcription":null}
 {"kz":"уполномоченный орган","es":"organismo autorizado","level":5,"transcription":null}
-{"kz":"приговор","es":"oración","level":4,"transcription":null}
+{"kz":"приговор","es":"sentencia","level":4,"transcription":null}
 {"kz":"подтверждение","es":"confirmación","level":4,"transcription":null}
 {"kz":"официальный документ","es":"documento oficial","level":4,"transcription":null}
 {"kz":"срок хранения","es":"duración","level":4,"transcription":null}
 {"kz":"доверитель","es":"principal","level":5,"transcription":null}
 {"kz":"надёжный представитель","es":"representante confiable","level":4,"transcription":null}
 {"kz":"доверенность","es":"poder legal","level":4,"transcription":null}
-{"kz":"свойство","es":"propiedad","level":4,"transcription":null}
+{"kz":"свойство","es":"característica","level":4,"transcription":null}
 {"kz":"выговор","es":"reprensión","level":4,"transcription":null}
-{"kz":"премия","es":"prima","level":4,"transcription":null}
-{"kz":"испытательный срок","es":"libertad condicional","level":5,"transcription":null}
-{"kz":"пункт","es":"párrafo","level":4,"transcription":null}
-{"kz":"опыт, практика","es":"experiencia, practica","level":3,"transcription":null}
+{"kz":"премия","es":"prémio","level":4,"transcription":null}
+{"kz":"испытательный срок","es":"tiempo límite","level":5,"transcription":null}
+{"kz":"пункт","es":"punto","level":4,"transcription":null}
+{"kz":"опыт, практика","es":"experiencia","level":3,"transcription":null}
 {"kz":"осмотр","es":"inspección","level":3,"transcription":null}
 {"kz":"прекращение","es":"terminación","level":4,"transcription":null}
 {"kz":"полная информация","es":"información completa","level":3,"transcription":null}
 {"kz":"паспорт","es":"pasaporte","level":3,"transcription":null}
 {"kz":"свидетельство о рождении","es":"certificado de nacimiento","level":5,"transcription":null}
-{"kz":"место постоянного жительства","es":"lugar de residencia permanente","level":4,"transcription":null}
+{"kz":"место постоянного жительства","es":"residencia permanente","level":4,"transcription":null}
 {"kz":"список","es":"lista","level":3,"transcription":null}
 {"kz":"регистрация","es":"registro","level":3,"transcription":null}
 {"kz":"руководитель организации","es":"jefe de la organización","level":5,"transcription":null}
-{"kz":"замена дома","es":"reemplazo de casa","level":4,"transcription":null}
+{"kz":"замена дома","es":"reemplazo del hogar","level":4,"transcription":null}
 {"kz":"надбавка","es":"prestación","level":4,"transcription":null}
 {"kz":"протокол","es":"protocolo","level":4,"transcription":null}
 {"kz":"договор","es":"acuerdo","level":3,"transcription":null}
@@ -2072,7 +2072,7 @@
 {"kz":"изготовитель","es":"fabricante","level":4,"transcription":null}
 {"kz":"документация","es":"documentación","level":4,"transcription":null}
 {"kz":"командировка","es":"viaje de negocios","level":4,"transcription":null}
-{"kz":"пусть исполняются желания","es":"que tus deseos se hagan realidad","level":4,"transcription":null}
+{"kz":"пусть исполняются желания","es":"que se hagan realidad los deseos","level":4,"transcription":null}
 {"kz":"подскажите, пожалуйста","es":"dime por favor","level":2,"transcription":null}
 {"kz":"Извините.","es":"lo siento.","level":2,"transcription":null}
 {"kz":"А ваша фамилия?","es":"¿cuál es tu apellido?","level":2,"transcription":null}
@@ -2138,18 +2138,18 @@
 {"kz":"вкратце","es":"en breve","level":3,"transcription":null}
 {"kz":"Дайте мне, пожалуйста, журнал.","es":"dame la revista, por favor.","level":2,"transcription":null}
 {"kz":"Не обижайтесь на меня.","es":"no te ofendas por mí.","level":3,"transcription":null}
-{"kz":"Извините за беспокойство.","es":"lamento molestarlo.","level":3,"transcription":null}
+{"kz":"Извините за беспокойство.","es":"no moleste.","level":3,"transcription":null}
 {"kz":"ладно, хорошо","es":"está bien","level":2,"transcription":null}
 {"kz":"Я всё сделаю.","es":"haré todo.","level":2,"transcription":null}
 {"kz":"Я вам очень благодарен.","es":"le estoy muy agradecido.","level":2,"transcription":null}
 {"kz":"Я вас знаю.","es":"te conozco.","level":2,"transcription":null}
-{"kz":"Я виноват перед вами.","es":"yo tengo la culpa por ti.","level":3,"transcription":null}
+{"kz":"Я виноват перед вами.","es":"me siento culpable por ti.","level":3,"transcription":null}
 {"kz":"Меня зовут ...","es":"mi nombre es...","level":1,"transcription":null}
 {"kz":"по моему мнению","es":"en mi opinión","level":2,"transcription":null}
 {"kz":"Я хочу с вами познакомиться.","es":"quiero conocerte.","level":2,"transcription":null}
 {"kz":"У меня есть к вам одна просьба.","es":"tengo una petición para ti.","level":3,"transcription":null}
-{"kz":"Я не хотел вас обидеть.","es":"no quise ofenderte.","level":3,"transcription":null}
-{"kz":"предлагаем вашему вниманию","es":"llamamos su atención","level":3,"transcription":null}
+{"kz":"Я не хотел вас обидеть.","es":"no me molesté en ofenderte.","level":3,"transcription":null}
+{"kz":"предлагаем вашему вниманию","es":"nos presentamos a ustedes.","level":3,"transcription":null}
 {"kz":"Что нового?","es":"¿qué hay de nuevo?","level":2,"transcription":null}
 {"kz":"Разрешите представиться.","es":"déjame presentarme.","level":2,"transcription":null}
 {"kz":"потому что, ведь","es":"porque, después de todo","level":3,"transcription":null}
@@ -2170,8 +2170,8 @@
 {"kz":"Я где-то уже встречал вас.","es":"ya te conocí en alguna parte.","level":3,"transcription":null}
 {"kz":"Я где-то уже видел вас.","es":"ya te he visto en alguna parte.","level":3,"transcription":null}
 {"kz":"Как ваше имя?","es":"¿cómo te llamas?","level":2,"transcription":null}
-{"kz":"будем знакомы","es":"vamos a conocer","level":2,"transcription":null}
-{"kz":"Разрешите с вами познакомиться.","es":"déjame conocerte.","level":2,"transcription":null}
+{"kz":"будем знакомы","es":"vamos a conocerse","level":2,"transcription":null}
+{"kz":"Разрешите с вами познакомиться.","es":"déjame conoceros.","level":2,"transcription":null}
 {"kz":"Разрешите мне позвонить.","es":"déjame llamar.","level":3,"transcription":null}
 {"kz":"Пустяки. \/ Не проблема.","es":"nada. \/ no hay problema.","level":2,"transcription":null}
 {"kz":"У меня нет времени.","es":"no tengo tiempo.","level":2,"transcription":null}
@@ -2198,8 +2198,8 @@
 {"kz":"максимально","es":"máximo","level":4,"transcription":null}
 {"kz":"иначе, по-другому","es":"de lo contrario, de manera diferente","level":2,"transcription":null}
 {"kz":"браво! здорово!","es":"¡bravo! ¡excelente!","level":3,"transcription":null}
-{"kz":"это, этот, эта","es":"esto, esto, esto","level":1,"transcription":null}
-{"kz":"по-нашему","es":"en nuestra opinión","level":2,"transcription":null}
+{"kz":"это, этот, эта","es":"esto","level":1,"transcription":null}
+{"kz":"по-нашему","es":"en nuestro idioma","level":2,"transcription":null}
 {"kz":"кто-то","es":"alguien","level":2,"transcription":null}
 {"kz":"немного","es":"un poco","level":2,"transcription":null}
 {"kz":"единогласно","es":"por unanimidad","level":4,"transcription":null}
@@ -2219,29 +2219,29 @@
 {"kz":"письменно, письменный","es":"por escrito, escrito","level":3,"transcription":null}
 {"kz":"хорошо","es":"bien","level":1,"transcription":null}
 {"kz":"близко","es":"cerca","level":2,"transcription":null}
-{"kz":"плохо","es":"gravemente","level":1,"transcription":null}
+{"kz":"плохо","es":"mal","level":1,"transcription":null}
 {"kz":"рядом, около","es":"cerca, cerca","level":2,"transcription":null}
 {"kz":"молодец","es":"bien hecho","level":2,"transcription":null}
 {"kz":"(его) половина","es":"(su) mitad","level":3,"transcription":null}
-{"kz":"половина","es":"medio","level":2,"transcription":null}
+{"kz":"половина","es":"mitad","level":2,"transcription":null}
 {"kz":"и","es":"y","level":1,"transcription":null}
 {"kz":"нет","es":"no","level":1,"transcription":null}
-{"kz":"верно, правильно","es":"correcto, correcto","level":2,"transcription":null}
-{"kz":"проведено исследование","es":"investigación realizada","level":4,"transcription":null}
+{"kz":"верно, правильно","es":"correcto","level":2,"transcription":null}
+{"kz":"проведено исследование","es":"realizado","level":4,"transcription":null}
 {"kz":"да","es":"sí","level":1,"transcription":null}
 {"kz":"надо","es":"necesario","level":1,"transcription":null}
 {"kz":"наоборот","es":"viceversa","level":3,"transcription":null}
-{"kz":"много","es":"muchos","level":2,"transcription":null}
-{"kz":"некоторый, другой","es":"algún otro","level":3,"transcription":null}
-{"kz":"снова, опять","es":"otra vez, otra vez","level":2,"transcription":null}
-{"kz":"имеет отношение","es":"importante","level":3,"transcription":null}
-{"kz":"кратко, краткий","es":"brevemente, brevemente","level":2,"transcription":null}
-{"kz":"быстро, моментально","es":"rápidamente, al instante","level":3,"transcription":null}
-{"kz":"к примеру, например","es":"por ejemplo, por ejemplo","level":3,"transcription":null}
+{"kz":"много","es":"mucho","level":2,"transcription":null}
+{"kz":"некоторый, другой","es":"otro","level":3,"transcription":null}
+{"kz":"снова, опять","es":"otra vez","level":2,"transcription":null}
+{"kz":"имеет отношение","es":"tiene relación","level":3,"transcription":null}
+{"kz":"кратко, краткий","es":"breve","level":2,"transcription":null}
+{"kz":"быстро, моментально","es":"rápido","level":3,"transcription":null}
+{"kz":"к примеру, например","es":"por ejemplo","level":3,"transcription":null}
 {"kz":"преждевременно","es":"prematuramente","level":4,"transcription":null}
 {"kz":"по-моему","es":"en mi opinión","level":2,"transcription":null}
 {"kz":"тщательно","es":"minuciosamente","level":3,"transcription":null}
-{"kz":"совсем, вообще","es":"en absoluto, en absoluto","level":3,"transcription":null}
+{"kz":"совсем, вообще","es":"en absoluto","level":3,"transcription":null}
 {"kz":"возможно","es":"tal vez","level":2,"transcription":null}
 {"kz":"не может быть","es":"no puede ser","level":3,"transcription":null}
 {"kz":"кроме того","es":"además","level":3,"transcription":null}
@@ -2249,8 +2249,8 @@
 {"kz":"не очень-то","es":"no mucho","level":3,"transcription":null}
 {"kz":"правая сторона","es":"lado derecho","level":2,"transcription":null}
 {"kz":"самостоятельно","es":"por cuenta propia","level":3,"transcription":null}
-{"kz":"между собой, взаимный","es":"el uno al otro, mutuo","level":3,"transcription":null}
-{"kz":"полезно, полезный","es":"útil, útil","level":3,"transcription":null}
+{"kz":"между собой, взаимный","es":"el uno al otro","level":3,"transcription":null}
+{"kz":"полезно, полезный","es":"útil","level":3,"transcription":null}
 {"kz":"спасибо","es":"gracias","level":1,"transcription":null}
 {"kz":"прохладно","es":"frío","level":2,"transcription":null}
 {"kz":"потому что","es":"porque","level":2,"transcription":null}
@@ -2258,7 +2258,7 @@
 {"kz":"такой как","es":"como","level":2,"transcription":null}
 {"kz":"левая сторона","es":"lado izquierdo","level":2,"transcription":null}
 {"kz":"а также","es":"y también","level":2,"transcription":null}
-{"kz":"поэтому","es":"es por eso","level":2,"transcription":null}
+{"kz":"поэтому","es":"por eso","level":2,"transcription":null}
 {"kz":"наряду с этим, а также","es":"junto con esto, y también","level":3,"transcription":null}
 {"kz":"проанализировав","es":"haber analizado","level":4,"transcription":null}
 {"kz":"отлично","es":"excelente","level":2,"transcription":null}
@@ -2286,24 +2286,24 @@
 {"kz":"вызвать врача","es":"llame a un médico","level":3,"transcription":null}
 {"kz":"подружиться","es":"hacer amigos","level":3,"transcription":null}
 {"kz":"подражать","es":"imitar","level":4,"transcription":null}
-{"kz":"работать, трудиться","es":"trabajar, afanarse","level":3,"transcription":null}
+{"kz":"работать, трудиться","es":"trabajar","level":3,"transcription":null}
 {"kz":"укрываться","es":"refugiarse","level":4,"transcription":null}
 {"kz":"соревноваться","es":"competir","level":3,"transcription":null}
 {"kz":"ложиться","es":"acostarse","level":2,"transcription":null}
-{"kz":"собирать, копить","es":"recoger, acumular","level":3,"transcription":null}
-{"kz":"собираться, готовиться","es":"reunir, preparar","level":2,"transcription":null}
+{"kz":"собирать, копить","es":"recoger","level":3,"transcription":null}
+{"kz":"собираться, готовиться","es":"preparar","level":2,"transcription":null}
 {"kz":"мыться","es":"lavar","level":2,"transcription":null}
 {"kz":"отправить","es":"enviar","level":2,"transcription":null}
 {"kz":"назначить пенсию","es":"asignar una pensión","level":5,"transcription":null}
-{"kz":"осваивать, овладевать","es":"maestro, maestro","level":4,"transcription":null}
+{"kz":"осваивать, овладевать","es":"maestro","level":4,"transcription":null}
 {"kz":"устроить встречу","es":"organizar una reunión","level":3,"transcription":null}
 {"kz":"встречаться","es":"encontrarse","level":2,"transcription":null}
 {"kz":"приходить к соглашению","es":"llegar a un acuerdo","level":4,"transcription":null}
 {"kz":"прощать недостатки","es":"perdonar las deficiencias","level":5,"transcription":null}
 {"kz":"надевать","es":"ponerse","level":2,"transcription":null}
 {"kz":"остаться осадку на душе","es":"deja un mal presentimiento en mi alma","level":5,"transcription":null}
-{"kz":"показывать","es":"espectáculo","level":2,"transcription":null}
-{"kz":"переезжать, переехать","es":"moverse, moverse","level":3,"transcription":null}
+{"kz":"показывать","es":"mostrar","level":2,"transcription":null}
+{"kz":"переезжать, переехать","es":"moverse","level":3,"transcription":null}
 {"kz":"бороться","es":"luchar","level":3,"transcription":null}
 {"kz":"тратить энергию","es":"desperdiciar energía","level":4,"transcription":null}
 {"kz":"входить","es":"ingresar","level":1,"transcription":null}
@@ -2313,21 +2313,21 @@
 {"kz":"умереть","es":"morir","level":3,"transcription":null}
 {"kz":"спрашивать о делах","es":"preguntar sobre negocios","level":4,"transcription":null}
 {"kz":"пользоваться","es":"disfrutar","level":2,"transcription":null}
-{"kz":"прощаться","es":"decir adios","level":2,"transcription":null}
+{"kz":"прощаться","es":"decir adiós","level":2,"transcription":null}
 {"kz":"ставить","es":"poner","level":1,"transcription":null}
 {"kz":"выражать радость","es":"expresar alegría","level":4,"transcription":null}
 {"kz":"жарить","es":"freír","level":3,"transcription":null}
-{"kz":"заинтересовывать","es":"interés","level":4,"transcription":null}
-{"kz":"гордиться","es":"estar orgulloso","level":3,"transcription":null}
-{"kz":"выключить микрофон","es":"apaga el micrófono","level":4,"transcription":null}
-{"kz":"заложить основу","es":"sentar las bases","level":5,"transcription":null}
+{"kz":"заинтересовывать","es":"interesar","level":4,"transcription":null}
+{"kz":"гордиться","es":"ser orgulloso","level":3,"transcription":null}
+{"kz":"выключить микрофон","es":"apagar el micrófono","level":4,"transcription":null}
+{"kz":"заложить основу","es":"poner las bases","level":5,"transcription":null}
 {"kz":"думать","es":"pensar","level":2,"transcription":null}
 {"kz":"играть","es":"jugar","level":1,"transcription":null}
 {"kz":"учить, читать","es":"enseñar, leer","level":1,"transcription":null}
-{"kz":"обучать","es":"enseñar","level":3,"transcription":null}
+{"kz":"обучать","es":"ensayar","level":3,"transcription":null}
 {"kz":"садиться","es":"sentarse","level":1,"transcription":null}
 {"kz":"просыпаться","es":"despertar","level":2,"transcription":null}
-{"kz":"изменяться","es":"cambiar","level":4,"transcription":null}
+{"kz":"изменяться","es":"cambiarse","level":4,"transcription":null}
 {"kz":"проходить","es":"aprobar","level":2,"transcription":null}
 {"kz":"выражать просьбу","es":"hacer una solicitud","level":4,"transcription":null}
 {"kz":"стирать, выключать","es":"borrar, apagar","level":2,"transcription":null}
@@ -2336,22 +2336,22 @@
 {"kz":"считать","es":"contar","level":2,"transcription":null}
 {"kz":"отправляться в путешествие","es":"ir de viaje","level":3,"transcription":null}
 {"kz":"убедить","es":"convencer","level":3,"transcription":null}
-{"kz":"забыть слова","es":"olvida las palabras","level":4,"transcription":null}
-{"kz":"заниматься спортом","es":"ejercicio","level":3,"transcription":null}
+{"kz":"забыть слова","es":"olvidarse de las palabras","level":4,"transcription":null}
+{"kz":"заниматься спортом","es":"ejercitarse","level":3,"transcription":null}
 {"kz":"простудиться","es":"resfriarse","level":3,"transcription":null}
-{"kz":"отвечать на вопросы","es":"responder preguntas","level":3,"transcription":null}
+{"kz":"отвечать на вопросы","es":"respondir preguntas","level":3,"transcription":null}
 {"kz":"спрашивать","es":"preguntar","level":1,"transcription":null}
 {"kz":"вытирать","es":"limpiar","level":2,"transcription":null}
 {"kz":"чертить","es":"dibujar","level":3,"transcription":null}
-{"kz":"уважать","es":"respeto","level":3,"transcription":null}
+{"kz":"уважать","es":"respetar","level":3,"transcription":null}
 {"kz":"добиваться успеха","es":"lograr el éxito","level":4,"transcription":null}
-{"kz":"чистить","es":"limpio","level":2,"transcription":null}
+{"kz":"чистить","es":"limpiar","level":2,"transcription":null}
 {"kz":"выбирать","es":"elegir","level":2,"transcription":null}
 {"kz":"распространять","es":"distribuir","level":3,"transcription":null}
-{"kz":"мириться","es":"hospedarse","level":4,"transcription":null}
+{"kz":"мириться","es":"permanecer","level":4,"transcription":null}
 {"kz":"проверять","es":"controlar","level":2,"transcription":null}
 {"kz":"смотреть телесериал","es":"ver series de televisión","level":3,"transcription":null}
-{"kz":"остановиться","es":"permanecer","level":2,"transcription":null}
+{"kz":"остановиться","es":"detenerse","level":2,"transcription":null}
 {"kz":"волноваться","es":"preocuparse","level":3,"transcription":null}
 {"kz":"родить","es":"dar a luz","level":2,"transcription":null}
 {"kz":"жить, находиться","es":"vivir, ser","level":1,"transcription":null}
@@ -2363,40 +2363,40 @@
 {"kz":"жениться","es":"casarse","level":3,"transcription":null}
 {"kz":"учиться","es":"estudiar","level":2,"transcription":null}
 {"kz":"успевать","es":"llegar a tiempo","level":3,"transcription":null}
-{"kz":"быть на связи","es":"mantente en contacto","level":4,"transcription":null}
-{"kz":"пылесосить","es":"vacío","level":3,"transcription":null}
+{"kz":"быть на связи","es":"mantenerse en contacto","level":4,"transcription":null}
+{"kz":"пылесосить","es":"limpiar","level":3,"transcription":null}
 {"kz":"уставать","es":"cansarse","level":2,"transcription":null}
-{"kz":"заниматься","es":"estudiar","level":4,"transcription":null}
-{"kz":"выносить","es":"realizar","level":2,"transcription":null}
+{"kz":"заниматься","es":"ocuparse","level":4,"transcription":null}
+{"kz":"выносить","es":"llevar","level":2,"transcription":null}
 {"kz":"выходить","es":"salir","level":1,"transcription":null}
 {"kz":"вступить в действие","es":"entrar en vigor","level":4,"transcription":null}
 {"kz":"делать","es":"hacer","level":1,"transcription":null}
 {"kz":"пить","es":"beber","level":1,"transcription":null}
 {"kz":"выйти в эфир","es":"salir al aire","level":4,"transcription":null}
-{"kz":"сажать деревья","es":"plantar arboles","level":3,"transcription":null}
+{"kz":"сажать деревья","es":"plantar árboles","level":3,"transcription":null}
 {"kz":"заниматься, увлекаться","es":"comprometerse, involucrarse","level":3,"transcription":null}
 {"kz":"брать","es":"llevar","level":1,"transcription":null}
-{"kz":"переводить","es":"transferir","level":3,"transcription":null}
+{"kz":"переводить","es":"traducir","level":3,"transcription":null}
 {"kz":"болеть","es":"enfermarse","level":2,"transcription":null}
-{"kz":"открывать","es":"abierto","level":1,"transcription":null}
+{"kz":"открывать","es":"abrir","level":1,"transcription":null}
 {"kz":"беречь, заботиться","es":"proteger, cuidar","level":3,"transcription":null}
-{"kz":"представлять на весь мир","es":"presente para el mundo entero","level":4,"transcription":null}
+{"kz":"представлять на весь мир","es":"presentar en todo el mundo","level":4,"transcription":null}
 {"kz":"петь","es":"cantar","level":1,"transcription":null}
 {"kz":"увлекаться","es":"entusiasmarse","level":3,"transcription":null}
 {"kz":"подчинять","es":"dominar","level":4,"transcription":null}
-{"kz":"замечать, следить","es":"aviso, sigue","level":3,"transcription":null}
+{"kz":"замечать, следить","es":"observar","level":3,"transcription":null}
 {"kz":"отдавать предпочтение","es":"dar preferencia","level":4,"transcription":null}
 {"kz":"дать","es":"dar","level":1,"transcription":null}
-{"kz":"краситься","es":"pintar","level":3,"transcription":null}
-{"kz":"красить","es":"color","level":2,"transcription":null}
-{"kz":"поделиться","es":"compartir","level":3,"transcription":null}
+{"kz":"краситься","es":"pintarse","level":3,"transcription":null}
+{"kz":"красить","es":"colorir","level":2,"transcription":null}
+{"kz":"поделиться","es":"compartirse","level":3,"transcription":null}
 {"kz":"издать приказ","es":"emitir una orden","level":5,"transcription":null}
 {"kz":"знать","es":"saber","level":1,"transcription":null}
-{"kz":"развиваться","es":"desarrollar","level":3,"transcription":null}
+{"kz":"развиваться","es":"desarrollarse","level":3,"transcription":null}
 {"kz":"ходить по магазинам","es":"hacer compras","level":3,"transcription":null}
-{"kz":"лечить","es":"tratar","level":3,"transcription":null}
+{"kz":"лечить","es":"tratamiento","level":3,"transcription":null}
 {"kz":"слышать","es":"escuchar","level":1,"transcription":null}
-{"kz":"закрывать","es":"cerca","level":1,"transcription":null}
+{"kz":"закрывать","es":"cerrar","level":1,"transcription":null}
 {"kz":"писать","es":"escribir","level":1,"transcription":null}
 {"kz":"улучшать","es":"mejorar","level":3,"transcription":null}
 {"kz":"любить","es":"amar","level":1,"transcription":null}
@@ -2405,7 +2405,7 @@
 {"kz":"делать, изготовлять","es":"hacer, fabricar","level":2,"transcription":null}
 {"kz":"отвечать","es":"responder","level":2,"transcription":null}
 {"kz":"гулять пешком","es":"caminar","level":3,"transcription":null}
-{"kz":"есть, кушать","es":"comer, comer","level":1,"transcription":null}
+{"kz":"есть, кушать","es":"comer","level":1,"transcription":null}
 {"kz":"убираться","es":"limpiar","level":2,"transcription":null}
 {"kz":"кашлять","es":"tos","level":3,"transcription":null}
 {"kz":"мыть","es":"lavar","level":1,"transcription":null}
@@ -2433,7 +2433,7 @@
 {"kz":"радоваться","es":"alegrarse","level":4,"transcription":null}
 {"kz":"поздравлять","es":"felicitar","level":3,"transcription":null}
 {"kz":"придавать значение","es":"dar importancia","level":4,"transcription":null}
-{"kz":"слушать музыку","es":"escuchar musica","level":2,"transcription":null}
+{"kz":"слушать музыку","es":"escuchar música","level":2,"transcription":null}
 {"kz":"намереваться","es":"significar","level":4,"transcription":null}
 {"kz":"думать","es":"pensar","level":2,"transcription":null}
 {"kz":"выполнять","es":"realizar","level":3,"transcription":null}
@@ -2504,9 +2504,9 @@
 {"kz":"прийти","es":"venir","level":1,"transcription":null}
 {"kz":"сушить","es":"seco","level":3,"transcription":null}
 {"kz":"резать","es":"cortar","level":2,"transcription":null}
-{"kz":"уйти, уходить","es":"dejar, dejar","level":1,"transcription":null}
+{"kz":"уйти, уходить","es":"dejar","level":1,"transcription":null}
 {"kz":"опаздывать","es":"llegar tarde","level":3,"transcription":null}
-{"kz":"одеваться","es":"vestido","level":2,"transcription":null}
+{"kz":"одеваться","es":"vestirse","level":2,"transcription":null}
 {"kz":"оказывать помощь","es":"proporcionar asistencia","level":3,"transcription":null}
 {"kz":"поднимать настроение","es":"animar","level":4,"transcription":null}
 {"kz":"видеть, смотреть","es":"ver, mirar","level":1,"transcription":null}
@@ -2517,151 +2517,151 @@
 {"kz":"стирать вещи","es":"lavar cosas","level":3,"transcription":null}
 {"kz":"быть принятым","es":"ser aceptado","level":4,"transcription":null}
 {"kz":"принимать","es":"aceptar","level":2,"transcription":null}
-{"kz":"забивать, вбивать","es":"martillar, conducir","level":3,"transcription":null}
+{"kz":"забивать, вбивать","es":"martillar","level":3,"transcription":null}
 {"kz":"желать, класть, возводить","es":"desear, poner, construir","level":2,"transcription":null}
 {"kz":"оставаться","es":"permanecer","level":1,"transcription":null}
 {"kz":"выделить чёрным, темнеть","es":"resaltar en negro, oscurecer","level":4,"transcription":null}
 {"kz":"осложняться (о деле)","es":"complicarse (sobre un asunto)","level":5,"transcription":null}
 {"kz":"подписывать","es":"firmar","level":3,"transcription":null}
 {"kz":"взять в руки","es":"levantar","level":3,"transcription":null}
-{"kz":"платить наличными","es":"pagar en metálico","level":4,"transcription":null}
-{"kz":"заверять документ","es":"certificar un documento","level":5,"transcription":null}
-{"kz":"составлять","es":"constituir","level":4,"transcription":null}
+{"kz":"платить наличными","es":"pagar en efectivo","level":4,"transcription":null}
+{"kz":"заверять документ","es":"firmar un documento","level":5,"transcription":null}
+{"kz":"составлять","es":"crear","level":4,"transcription":null}
 {"kz":"работать","es":"trabajar","level":3,"transcription":null}
-{"kz":"беспокоить, донимать","es":"molestar, molestar","level":4,"transcription":null}
+{"kz":"беспокоить, донимать","es":"molestar","level":4,"transcription":null}
 {"kz":"решить проблему","es":"resolver el problema","level":4,"transcription":null}
 {"kz":"заканчивать школу","es":"terminar la escuela","level":3,"transcription":null}
 {"kz":"ходить в музей","es":"ir al museo","level":3,"transcription":null}
 {"kz":"брать кредит","es":"sacar un préstamo","level":4,"transcription":null}
 {"kz":"внести изменение","es":"hacer un cambio","level":4,"transcription":null}
-{"kz":"изменяться","es":"cambiar","level":4,"transcription":null}
+{"kz":"изменяться","es":"cambiarse","level":4,"transcription":null}
 {"kz":"умирать","es":"morir","level":2,"transcription":null}
 {"kz":"наслаждаться","es":"disfrutar","level":3,"transcription":null}
 {"kz":"оформлять","es":"redactar","level":4,"transcription":null}
 {"kz":"вести здоровый образ жизни","es":"llevar un estilo de vida saludable","level":4,"transcription":null}
 {"kz":"путешествовать","es":"viajar","level":4,"transcription":null}
 {"kz":"верить","es":"creer","level":2,"transcription":null}
-{"kz":"не терять доверие","es":"no pierdas la confianza","level":5,"transcription":null}
+{"kz":"не терять доверие","es":"no perder la confianza","level":5,"transcription":null}
 {"kz":"ходить бодро","es":"caminar rápidamente","level":3,"transcription":null}
 {"kz":"прогуливаться","es":"paseo","level":3,"transcription":null}
 {"kz":"тянуть, вытягивать","es":"tirar, tirar","level":3,"transcription":null}
-{"kz":"фотографировать","es":"fotografía","level":3,"transcription":null}
-{"kz":"штукатурить, мазать","es":"yeso, frotis","level":4,"transcription":null}
+{"kz":"фотографировать","es":"fotografiarse","level":3,"transcription":null}
+{"kz":"штукатурить, мазать","es":"pintar con yeso","level":4,"transcription":null}
 {"kz":"находить","es":"encontrar","level":1,"transcription":null}
 {"kz":"назначать","es":"asignar","level":4,"transcription":null}
 {"kz":"требовать","es":"demanda","level":3,"transcription":null}
 {"kz":"обсуждать","es":"conversar","level":3,"transcription":null}
-{"kz":"удивлять","es":"sorpresa","level":4,"transcription":null}
+{"kz":"удивлять","es":"sorprender","level":4,"transcription":null}
 {"kz":"удивляться","es":"quedar asombrado","level":3,"transcription":null}
 {"kz":"поручать, сдавать","es":"confiar, entregar","level":3,"transcription":null}
-{"kz":"подниматься в горы","es":"escalar las montañas","level":3,"transcription":null}
-{"kz":"зависеть","es":"depender","level":4,"transcription":null}
+{"kz":"подниматься в горы","es":"subir a las montañas","level":3,"transcription":null}
+{"kz":"зависеть","es":"depende","level":4,"transcription":null}
 {"kz":"дырявить","es":"hacer agujeros","level":4,"transcription":null}
-{"kz":"группировать","es":"grupo","level":4,"transcription":null}
-{"kz":"расстилать","es":"extendido","level":3,"transcription":null}
-{"kz":"воздвигать, ставить","es":"erecto, lugar","level":4,"transcription":null}
-{"kz":"корректировать, исправлять","es":"correcto, correcto","level":3,"transcription":null}
+{"kz":"группировать","es":"grupos","level":4,"transcription":null}
+{"kz":"расстилать","es":"extendiendo","level":3,"transcription":null}
+{"kz":"воздвигать, ставить","es":"erecto, colocar","level":4,"transcription":null}
+{"kz":"корректировать, исправлять","es":"corregir, arreglar","level":3,"transcription":null}
 {"kz":"стараться, стремиться","es":"intentar, esforzarse","level":3,"transcription":null}
 {"kz":"быть вкусным","es":"ser delicioso","level":4,"transcription":null}
-{"kz":"чистить зубы","es":"cepilla tus dientes","level":3,"transcription":null}
+{"kz":"чистить зубы","es":"cepillar los dientes","level":3,"transcription":null}
 {"kz":"назначать время","es":"establecer una hora","level":4,"transcription":null}
 {"kz":"вставать после сна","es":"levantarse después de dormir","level":3,"transcription":null}
 {"kz":"удержать","es":"sostener","level":3,"transcription":null}
-{"kz":"гладить","es":"hierro","level":3,"transcription":null}
+{"kz":"гладить","es":"lavar","level":3,"transcription":null}
 {"kz":"сражаться","es":"luchar","level":4,"transcription":null}
 {"kz":"кататься на лыжах","es":"esquí","level":3,"transcription":null}
-{"kz":"утолять жажду","es":"calma tu sed","level":4,"transcription":null}
+{"kz":"утолять жажду","es":"calmar la sed","level":4,"transcription":null}
 {"kz":"искать","es":"buscar","level":2,"transcription":null}
 {"kz":"вешать","es":"colgar","level":2,"transcription":null}
 {"kz":"быть похожим","es":"parecerse a","level":3,"transcription":null}
 {"kz":"тратить деньги","es":"gastar dinero","level":3,"transcription":null}
 {"kz":"платить за работу","es":"pagar por el trabajo","level":4,"transcription":null}
 {"kz":"выяснять, уточнять","es":"aclarar, aclarar","level":4,"transcription":null}
-{"kz":"не ссориться","es":"no pelees","level":4,"transcription":null}
-{"kz":"перемешивать","es":"mezcla","level":4,"transcription":null}
+{"kz":"не ссориться","es":"no peleas","level":4,"transcription":null}
+{"kz":"перемешивать","es":"mezclar","level":4,"transcription":null}
 {"kz":"чистить (от кожуры)","es":"pelar (pelar)","level":4,"transcription":null}
-{"kz":"спешить","es":"apurarse","level":2,"transcription":null}
+{"kz":"спешить","es":"apurar","level":2,"transcription":null}
 {"kz":"называть","es":"llamar","level":3,"transcription":null}
 {"kz":"делать пересадку","es":"hacer un trasplante","level":4,"transcription":null}
 {"kz":"стеклить","es":"vaso","level":5,"transcription":null}
 {"kz":"быть коллегами","es":"ser colegas","level":4,"transcription":null}
 {"kz":"недооценивать","es":"subestimar","level":4,"transcription":null}
-{"kz":"объединяться, собираться","es":"unir, reunir","level":4,"transcription":null}
+{"kz":"объединяться, собираться","es":"unirse, reunirse","level":4,"transcription":null}
 {"kz":"распечатывать","es":"imprimir","level":3,"transcription":null}
 {"kz":"ломаться, портиться","es":"romperse, deteriorarse","level":3,"transcription":null}
 {"kz":"портиться, разлагаться","es":"deteriorarse, descomponerse","level":3,"transcription":null}
 {"kz":"влюбляться","es":"enamorarse","level":3,"transcription":null}
-{"kz":"не повышать голос","es":"no levantes la voz","level":4,"transcription":null}
+{"kz":"не повышать голос","es":"no levantar la voz","level":4,"transcription":null}
 {"kz":"заваривать (чай)","es":"preparar (té)","level":4,"transcription":null}
 {"kz":"лечиться","es":"recibir tratamiento","level":3,"transcription":null}
-{"kz":"обособляться, выделяться","es":"destacar, destacar","level":5,"transcription":null}
+{"kz":"обособляться, выделяться","es":"destacarse, destacarse","level":5,"transcription":null}
 {"kz":"запомнить","es":"recordar","level":3,"transcription":null}
-{"kz":"нарекать именем","es":"nombre","level":4,"transcription":null}
+{"kz":"нарекать именем","es":"nombrar en nombre","level":4,"transcription":null}
 {"kz":"не одобрять","es":"desaprobar","level":3,"transcription":null}
 {"kz":"арендовать","es":"alquilar","level":4,"transcription":null}
-{"kz":"сдавать в аренду","es":"alquilar","level":4,"transcription":null}
-{"kz":"не скрывать","es":"no te escondas","level":3,"transcription":null}
+{"kz":"сдавать в аренду","es":"rentar","level":4,"transcription":null}
+{"kz":"не скрывать","es":"no ocultar","level":3,"transcription":null}
 {"kz":"учить наизусть","es":"aprender de memoria","level":4,"transcription":null}
-{"kz":"идти (пешком)","es":"continuar yendo)","level":2,"transcription":null}
-{"kz":"помогать","es":"ayuda","level":2,"transcription":null}
+{"kz":"идти (пешком)","es":"caminar","level":2,"transcription":null}
+{"kz":"помогать","es":"ayudar","level":2,"transcription":null}
 {"kz":"ненавидеть","es":"odiar","level":3,"transcription":null}
-{"kz":"пожинать плоды","es":"cosechar los beneficios","level":4,"transcription":null}
+{"kz":"пожинать плоды","es":"recoger los frutos","level":4,"transcription":null}
 {"kz":"выигрывать","es":"ganar","level":2,"transcription":null}
-{"kz":"приземлиться","es":"tierra","level":4,"transcription":null}
+{"kz":"приземлиться","es":"llegar a tierra","level":4,"transcription":null}
 {"kz":"хоронить","es":"enterrar","level":4,"transcription":null}
 {"kz":"путешествовать","es":"viajar","level":4,"transcription":null}
 {"kz":"найти способ","es":"encontrar una manera","level":3,"transcription":null}
 {"kz":"считать правильным","es":"considerar correcto","level":4,"transcription":null}
 {"kz":"ремонтировать","es":"reparar","level":3,"transcription":null}
-{"kz":"причинять вред","es":"dañar","level":4,"transcription":null}
+{"kz":"причинять вред","es":"causar daño","level":4,"transcription":null}
 {"kz":"увеличиваться","es":"aumentar","level":3,"transcription":null}
 {"kz":"складываться, основываться","es":"tomar forma, construir","level":4,"transcription":null}
 {"kz":"опекать","es":"patrocinar","level":4,"transcription":null}
 {"kz":"смотреть","es":"mirar","level":1,"transcription":null}
 {"kz":"ошибаться","es":"equivocarse","level":3,"transcription":null}
 {"kz":"убегать","es":"huir","level":3,"transcription":null}
-{"kz":"пересекаться","es":"cruz","level":4,"transcription":null}
+{"kz":"пересекаться","es":"cruzarse","level":4,"transcription":null}
 {"kz":"выбрасывать мусор","es":"tirar la basura","level":3,"transcription":null}
 {"kz":"питаться","es":"comer","level":4,"transcription":null}
-{"kz":"бояться","es":"asustado","level":2,"transcription":null}
+{"kz":"бояться","es":"asustarse","level":2,"transcription":null}
 {"kz":"падать","es":"caer","level":2,"transcription":null}
 {"kz":"пристраститься, увлекаться","es":"volverse adicto, dejarse llevar","level":4,"transcription":null}
-{"kz":"уважать, чтить","es":"respeto, honor","level":4,"transcription":null}
-{"kz":"уважать, почитать","es":"respeto, honor","level":3,"transcription":null}
-{"kz":"называть в честь кого-то","es":"nombre de alguien","level":4,"transcription":null}
-{"kz":"бриться","es":"afeitar","level":4,"transcription":null}
-{"kz":"оказывать давление, давить","es":"poner presión, presionar","level":5,"transcription":null}
-{"kz":"кидать, бросать","es":"tirar, tirar","level":3,"transcription":null}
+{"kz":"уважать, чтить","es":"respetar","level":4,"transcription":null}
+{"kz":"уважать, почитать","es":"respetar","level":3,"transcription":null}
+{"kz":"называть в честь кого-то","es":"nombrar en honor a alguien","level":4,"transcription":null}
+{"kz":"бриться","es":"afilar","level":4,"transcription":null}
+{"kz":"оказывать давление, давить","es":"poner presión","level":5,"transcription":null}
+{"kz":"кидать, бросать","es":"tirar","level":3,"transcription":null}
 {"kz":"не беспокоить","es":"no molestar","level":3,"transcription":null}
 {"kz":"обитать","es":"habitar","level":4,"transcription":null}
 {"kz":"взять обязательство","es":"hacer un compromiso","level":5,"transcription":null}
-{"kz":"обращать внимание","es":"prestar atención","level":3,"transcription":null}
+{"kz":"обращать внимание","es":"dar atención","level":3,"transcription":null}
 {"kz":"будить","es":"despertar","level":3,"transcription":null}
 {"kz":"изменить","es":"cambiar","level":3,"transcription":null}
-{"kz":"сожалеть, раскаиваться","es":"arrepentirse, arrepentirse","level":4,"transcription":null}
-{"kz":"выращивать, увеличивать","es":"crecer, aumentar","level":3,"transcription":null}
-{"kz":"написать заявление","es":"escribir una declaración","level":4,"transcription":null}
-{"kz":"намыливать","es":"espuma","level":5,"transcription":null}
-{"kz":"сохранять, оберегать","es":"guardar, proteger","level":3,"transcription":null}
+{"kz":"сожалеть, раскаиваться","es":"arrepentirse","level":4,"transcription":null}
+{"kz":"выращивать, увеличивать","es":"crecer","level":3,"transcription":null}
+{"kz":"написать заявление","es":"hacer una declaración","level":4,"transcription":null}
+{"kz":"намыливать","es":"fingir","level":5,"transcription":null}
+{"kz":"сохранять, оберегать","es":"guardar","level":3,"transcription":null}
 {"kz":"путешествовать","es":"viajar","level":4,"transcription":null}
-{"kz":"брать интервью","es":"entrevista","level":4,"transcription":null}
+{"kz":"брать интервью","es":"entrevistar","level":4,"transcription":null}
 {"kz":"вытираться","es":"secarse","level":3,"transcription":null}
-{"kz":"выжимать","es":"estrujar","level":3,"transcription":null}
+{"kz":"выжимать","es":"extraer","level":3,"transcription":null}
 {"kz":"подметать","es":"barrer","level":4,"transcription":null}
 {"kz":"не скрывать, не утаивать","es":"no te escondas, no te escondas","level":5,"transcription":null}
 {"kz":"обнаружиться, найти","es":"aparecer, encontrar","level":4,"transcription":null}
 {"kz":"анализировать","es":"analizar","level":5,"transcription":null}
-{"kz":"маркировать, делать метку","es":"marca, marca","level":5,"transcription":null}
+{"kz":"маркировать, делать метку","es":"marcar","level":5,"transcription":null}
 {"kz":"тянуть","es":"jalar","level":2,"transcription":null}
-{"kz":"завершать, заканчивать","es":"terminar, terminar","level":4,"transcription":null}
+{"kz":"завершать, заканчивать","es":"terminar","level":4,"transcription":null}
 {"kz":"курить","es":"fumar","level":3,"transcription":null}
-{"kz":"потеть","es":"sudor","level":4,"transcription":null}
+{"kz":"потеть","es":"sudorarse","level":4,"transcription":null}
 {"kz":"не останавливать","es":"no te detengas","level":3,"transcription":null}
 {"kz":"выливать","es":"derramar","level":3,"transcription":null}
 {"kz":"кусать","es":"morder","level":3,"transcription":null}
 {"kz":"проводить время","es":"pasar el tiempo","level":3,"transcription":null}
 {"kz":"уснуть","es":"dormirse","level":2,"transcription":null}
-{"kz":"любить, нравиться","es":"amor, como","level":2,"transcription":null}
+{"kz":"любить, нравиться","es":"amar","level":2,"transcription":null}
 {"kz":"добавлять порошок","es":"agregar polvo","level":5,"transcription":null}
 {"kz":"воровать","es":"robar","level":3,"transcription":null}
 {"kz":"не ругать","es":"no regañes","level":3,"transcription":null}
@@ -2671,84 +2671,84 @@
 {"kz":"жевать","es":"masticar","level":2,"transcription":null}
 {"kz":"принять решение","es":"tomar una decisión","level":4,"transcription":null}
 {"kz":"делать обзор","es":"revisar","level":5,"transcription":null}
-{"kz":"тренироваться","es":"tren","level":3,"transcription":null}
-{"kz":"сжимать, уменьшать","es":"comprimir, reducir","level":5,"transcription":null}
+{"kz":"тренироваться","es":"entrenarse","level":3,"transcription":null}
+{"kz":"сжимать, уменьшать","es":"comprimir","level":5,"transcription":null}
 {"kz":"кричать","es":"gritar","level":2,"transcription":null}
 {"kz":"вращаться","es":"girar","level":3,"transcription":null}
 {"kz":"заменить","es":"reemplazar","level":4,"transcription":null}
-{"kz":"вычесть, взять","es":"restar, tomar","level":3,"transcription":null}
-{"kz":"пилить, бродить","es":"vagar, vagar","level":4,"transcription":null}
-{"kz":"влиять","es":"influencia","level":4,"transcription":null}
+{"kz":"вычесть, взять","es":"restar","level":3,"transcription":null}
+{"kz":"пилить, бродить","es":"vagar","level":4,"transcription":null}
+{"kz":"влиять","es":"influir","level":4,"transcription":null}
 {"kz":"перевязать","es":"vendaje","level":3,"transcription":null}
 {"kz":"начинаться","es":"empezar","level":2,"transcription":null}
 {"kz":"тонуть","es":"ahogar","level":3,"transcription":null}
 {"kz":"потерять авторитет","es":"perder autoridad","level":5,"transcription":null}
 {"kz":"делить","es":"dividir","level":2,"transcription":null}
 {"kz":"поворачиваться","es":"doblar","level":3,"transcription":null}
-{"kz":"голосовать, отдавать голос","es":"votar, emitir un voto","level":4,"transcription":null}
+{"kz":"голосовать, отдавать голос","es":"votar","level":4,"transcription":null}
 {"kz":"капать лекарство","es":"medicina por goteo","level":5,"transcription":null}
 {"kz":"принимать лекарство","es":"tomar medicina","level":3,"transcription":null}
-{"kz":"показаться врачу","es":"ver a un medico","level":4,"transcription":null}
+{"kz":"показаться врачу","es":"ver a un médico","level":4,"transcription":null}
 {"kz":"дышать","es":"respirar","level":2,"transcription":null}
 {"kz":"получить отпуск","es":"conseguir unas vacaciones","level":3,"transcription":null}
-{"kz":"останавливать, прекращать","es":"parar, parar","level":4,"transcription":null}
+{"kz":"останавливать, прекращать","es":"parar","level":4,"transcription":null}
 {"kz":"решать задачу","es":"resolver un problema","level":4,"transcription":null}
 {"kz":"вспоминать","es":"recordar","level":3,"transcription":null}
 {"kz":"стереть память","es":"borrar memoria","level":5,"transcription":null}
 {"kz":"нанимать","es":"contratar","level":3,"transcription":null}
-{"kz":"утомиться, заскучать","es":"cansarse, aburrirse","level":4,"transcription":null}
-{"kz":"скандалить, конфликтовать","es":"hacer un escándalo, conflicto","level":5,"transcription":null}
-{"kz":"прятать, скрывать","es":"esconder, esconder","level":3,"transcription":null}
+{"kz":"утомиться, заскучать","es":"cansarse","level":4,"transcription":null}
+{"kz":"скандалить, конфликтовать","es":"hacer un escándalo","level":5,"transcription":null}
+{"kz":"прятать, скрывать","es":"esconder","level":3,"transcription":null}
 {"kz":"привлекать к ответственности","es":"llevar ante la justicia","level":5,"transcription":null}
-{"kz":"кормить, давать есть","es":"alimentar, dar de comer","level":3,"transcription":null}
-{"kz":"накинуть на себя","es":"tirarte a ti mismo","level":5,"transcription":null}
+{"kz":"кормить, давать есть","es":"alimentar","level":3,"transcription":null}
+{"kz":"накинуть на себя","es":"tirarse a uno mismo","level":5,"transcription":null}
 {"kz":"выиграть","es":"ganar","level":3,"transcription":null}
 {"kz":"доставлять","es":"entregar","level":4,"transcription":null}
-{"kz":"открыть дорогу","es":"abre el camino","level":4,"transcription":null}
-{"kz":"смягчаться","es":"ablandar","level":4,"transcription":null}
+{"kz":"открыть дорогу","es":"abrir el camino","level":4,"transcription":null}
+{"kz":"смягчаться","es":"hacerse más suave","level":4,"transcription":null}
 {"kz":"глотать","es":"tragar","level":2,"transcription":null}
-{"kz":"овладевать","es":"maestro","level":5,"transcription":null}
+{"kz":"овладевать","es":"conocer bien","level":5,"transcription":null}
 {"kz":"чувствовать запах","es":"oler","level":4,"transcription":null}
 {"kz":"одеваться по вкусу","es":"vestirse según el gusto","level":4,"transcription":null}
-{"kz":"вернуться обратно","es":"volver","level":3,"transcription":null}
-{"kz":"надеть, заставить надеть","es":"ponerse, ponerse","level":3,"transcription":null}
+{"kz":"вернуться обратно","es":"volver atrás","level":3,"transcription":null}
+{"kz":"надеть, заставить надеть","es":"ponerse","level":3,"transcription":null}
 {"kz":"примерить","es":"probarse","level":3,"transcription":null}
 {"kz":"умножить","es":"multiplicar","level":3,"transcription":null}
-{"kz":"помогать","es":"ayuda","level":2,"transcription":null}
+{"kz":"помогать","es":"ayudar","level":2,"transcription":null}
 {"kz":"поднимать","es":"elevar","level":2,"transcription":null}
 {"kz":"загорать","es":"tomar el sol","level":4,"transcription":null}
-{"kz":"пересмотреть","es":"reconsiderar","level":4,"transcription":null}
-{"kz":"просмотреть","es":"vista","level":3,"transcription":null}
-{"kz":"стареть, стариться","es":"envejecer, envejecer","level":4,"transcription":null}
+{"kz":"пересмотреть","es":"revisar","level":4,"transcription":null}
+{"kz":"просмотреть","es":"ver","level":3,"transcription":null}
+{"kz":"стареть, стариться","es":"envejecer","level":4,"transcription":null}
 {"kz":"брать взаймы","es":"pedir prestado","level":4,"transcription":null}
-{"kz":"затвердевать","es":"endurecer","level":4,"transcription":null}
+{"kz":"затвердевать","es":"hacerse duro","level":4,"transcription":null}
 {"kz":"спастись бегством","es":"escapar","level":5,"transcription":null}
 {"kz":"сложить","es":"doblar","level":2,"transcription":null}
 {"kz":"держать в секрете","es":"mantener en secreto","level":4,"transcription":null}
-{"kz":"оказывать честь","es":"haz el honor","level":5,"transcription":null}
-{"kz":"лить, наливать","es":"verter, verter","level":2,"transcription":null}
-{"kz":"награждать","es":"premio","level":4,"transcription":null}
+{"kz":"оказывать честь","es":"dar el honor","level":5,"transcription":null}
+{"kz":"лить, наливать","es":"vertir","level":2,"transcription":null}
+{"kz":"награждать","es":"premiar","level":4,"transcription":null}
 {"kz":"радоваться","es":"alegrarse","level":4,"transcription":null}
-{"kz":"признавать, осознавать","es":"reconocer, darse cuenta","level":4,"transcription":null}
+{"kz":"признавать, осознавать","es":"reconocer","level":4,"transcription":null}
 {"kz":"придумывать","es":"inventar","level":4,"transcription":null}
 {"kz":"занимать место","es":"ocupar espacio","level":4,"transcription":null}
 {"kz":"внести изменения","es":"hacer cambios","level":5,"transcription":null}
-{"kz":"отключать, выключать","es":"apagar, apagar","level":3,"transcription":null}
+{"kz":"отключать, выключать","es":"apagar","level":3,"transcription":null}
 {"kz":"обмениваться мнениями","es":"intercambiar opiniones","level":4,"transcription":null}
 {"kz":"обижаться друг на друга","es":"ofenderse el uno por el otro","level":4,"transcription":null}
 {"kz":"обижать","es":"ofender","level":3,"transcription":null}
 {"kz":"выздоравливать","es":"recuperar","level":4,"transcription":null}
 {"kz":"украшать","es":"decorar","level":4,"transcription":null}
-{"kz":"чувствовать, почувствовать","es":"sentir, sentir","level":3,"transcription":null}
-{"kz":"оказать доверие","es":"confianza","level":5,"transcription":null}
+{"kz":"чувствовать, почувствовать","es":"sentir","level":3,"transcription":null}
+{"kz":"оказать доверие","es":"dar confianza","level":5,"transcription":null}
 {"kz":"выражать доверие","es":"expresar confianza","level":5,"transcription":null}
-{"kz":"судачить, обсуждать","es":"chismear, discutir","level":5,"transcription":null}
+{"kz":"судачить, обсуждать","es":"chismear","level":5,"transcription":null}
 {"kz":"смачивать","es":"húmedo","level":4,"transcription":null}
 {"kz":"нырять","es":"bucear","level":3,"transcription":null}
-{"kz":"сломать, поломать","es":"romper, romper","level":3,"transcription":null}
-{"kz":"впитываться, всасываться","es":"ser absorbido, ser absorbido","level":5,"transcription":null}
+{"kz":"сломать, поломать","es":"romper","level":3,"transcription":null}
+{"kz":"впитываться, всасываться","es":"ser absorbido","level":5,"transcription":null}
 {"kz":"капать","es":"goteo","level":4,"transcription":null}
-{"kz":"заказать","es":"orden","level":3,"transcription":null}
+{"kz":"заказать","es":"pedir","level":3,"transcription":null}
 {"kz":"бросать","es":"tirar","level":2,"transcription":null}
 {"kz":"проверить","es":"controlar","level":3,"transcription":null}
 {"kz":"наедаться досыта","es":"come hasta saciarte","level":4,"transcription":null}
@@ -2758,17 +2758,17 @@
 {"kz":"поправить","es":"arreglar","level":3,"transcription":null}
 {"kz":"ронять","es":"gota","level":3,"transcription":null}
 {"kz":"шить","es":"coser","level":2,"transcription":null}
-{"kz":"желать, просить","es":"desear, preguntar","level":3,"transcription":null}
-{"kz":"уподоблять, находить сходство","es":"comparar, encontrar similitudes","level":5,"transcription":null}
+{"kz":"желать, просить","es":"desear","level":3,"transcription":null}
+{"kz":"уподоблять, находить сходство","es":"comparar","level":5,"transcription":null}
 {"kz":"не забываться","es":"no lo olvides","level":3,"transcription":null}
-{"kz":"наставлять, поучать","es":"instruir, enseñar","level":5,"transcription":null}
+{"kz":"наставлять, поучать","es":"instruir","level":5,"transcription":null}
 {"kz":"передавать сообщение","es":"transmitir un mensaje","level":5,"transcription":null}
 {"kz":"обратиться с жалобой","es":"presentar una queja","level":5,"transcription":null}
 {"kz":"найти решение","es":"encontrar una solución","level":4,"transcription":null}
-{"kz":"найти","es":"encontrar","level":3,"transcription":null}
+{"kz":"найти","es":"buscar","level":3,"transcription":null}
 {"kz":"честный","es":"honesto","level":2,"transcription":null}
 {"kz":"искренний","es":"sincero","level":3,"transcription":null}
-{"kz":"умный","es":"elegante","level":1,"transcription":null}
+{"kz":"умный","es":"inteligente","level":1,"transcription":null}
 {"kz":"хваткий","es":"tenaz","level":4,"transcription":null}
 {"kz":"коллегиальный","es":"colegiado","level":5,"transcription":null}
 {"kz":"большой, громадный","es":"grande, enorme","level":2,"transcription":null}
@@ -2792,11 +2792,11 @@
 {"kz":"порывистый, сильный","es":"impetuoso, fuerte","level":4,"transcription":null}
 {"kz":"значительный, существенный","es":"significativo, significativo","level":4,"transcription":null}
 {"kz":"трудолюбивый","es":"trabajo duro","level":3,"transcription":null}
-{"kz":"неприятный, противный","es":"desagradable, repugnante","level":3,"transcription":null}
+{"kz":"неприятный, противный","es":"desagradable","level":3,"transcription":null}
 {"kz":"летний","es":"verano","level":2,"transcription":null}
-{"kz":"хороший","es":"bien","level":1,"transcription":null}
+{"kz":"хороший","es":"bueno","level":1,"transcription":null}
 {"kz":"ленивый","es":"perezoso","level":3,"transcription":null}
-{"kz":"подходящий, ладный","es":"adecuado, está bien","level":4,"transcription":null}
+{"kz":"подходящий, ладный","es":"adecuado","level":4,"transcription":null}
 {"kz":"яркий","es":"brillante","level":2,"transcription":null}
 {"kz":"молодой","es":"joven","level":1,"transcription":null}
 {"kz":"частный","es":"privado","level":4,"transcription":null}
@@ -2807,15 +2807,15 @@
 {"kz":"быстрый","es":"rápido","level":3,"transcription":null}
 {"kz":"смышлёный","es":"elegante","level":4,"transcription":null}
 {"kz":"вредный","es":"dañino","level":3,"transcription":null}
-{"kz":"обыкновенный, обычный","es":"ordinario, ordinario","level":2,"transcription":null}
+{"kz":"обыкновенный, обычный","es":"ordinario","level":2,"transcription":null}
 {"kz":"широкий","es":"ancho","level":1,"transcription":null}
 {"kz":"древний","es":"antiguo","level":3,"transcription":null}
 {"kz":"весёлый","es":"divertido","level":2,"transcription":null}
 {"kz":"младший","es":"más joven","level":2,"transcription":null}
 {"kz":"печальный","es":"triste","level":3,"transcription":null}
 {"kz":"добрый","es":"amable","level":2,"transcription":null}
-{"kz":"толстый, густой","es":"espeso, denso","level":2,"transcription":null}
-{"kz":"скромный, простой","es":"modesto, sencillo","level":3,"transcription":null}
+{"kz":"толстый, густой","es":"espeso","level":2,"transcription":null}
+{"kz":"скромный, простой","es":"modesto","level":3,"transcription":null}
 {"kz":"жестокий","es":"cruel","level":4,"transcription":null}
 {"kz":"опасный","es":"peligroso","level":3,"transcription":null}
 {"kz":"общественный","es":"público","level":3,"transcription":null}
@@ -2846,7 +2846,7 @@
 {"kz":"вежливый","es":"educado","level":3,"transcription":null}
 {"kz":"внешний, верхний","es":"exterior, superior","level":3,"transcription":null}
 {"kz":"чистый","es":"limpio","level":1,"transcription":null}
-{"kz":"разборчивый, привередливый","es":"quisquilloso, quisquilloso","level":4,"transcription":null}
+{"kz":"разборчивый, привередливый","es":"claro, exigente","level":4,"transcription":null}
 {"kz":"популярный","es":"popular","level":3,"transcription":null}
 {"kz":"чудесный, удивительный","es":"maravilloso, asombroso","level":4,"transcription":null}
 {"kz":"остроумный","es":"ingenioso","level":4,"transcription":null}
@@ -2855,7 +2855,7 @@
 {"kz":"туманный","es":"niebla","level":3,"transcription":null}
 {"kz":"пасмурный, угрюмый","es":"nublado, sombrío","level":4,"transcription":null}
 {"kz":"тихий","es":"tranquilo","level":2,"transcription":null}
-{"kz":"пессимистичный","es":"pesimista","level":4,"transcription":null}
+{"kz":"пессимистичный","es":"pessimista","level":4,"transcription":null}
 {"kz":"внимательный","es":"atento","level":3,"transcription":null}
 {"kz":"старший","es":"sénior","level":1,"transcription":null}
 {"kz":"небольшой","es":"pequeño","level":2,"transcription":null}
@@ -2882,7 +2882,7 @@
 {"kz":"кудрявый","es":"ondulado","level":3,"transcription":null}
 {"kz":"тусклый, мглистый","es":"oscuro, brumoso","level":4,"transcription":null}
 {"kz":"принципиальный","es":"de principios","level":5,"transcription":null}
-{"kz":"точный","es":"preciso","level":2,"transcription":null}
+{"kz":"точный","es":"exacto","level":2,"transcription":null}
 {"kz":"вкусный","es":"delicioso","level":2,"transcription":null}
 {"kz":"правильный","es":"correcto","level":2,"transcription":null}
 {"kz":"особенный","es":"especial","level":3,"transcription":null}
@@ -2914,7 +2914,7 @@
 {"kz":"смуглый","es":"oscuro","level":4,"transcription":null}
 {"kz":"строгий","es":"estricto","level":3,"transcription":null}
 {"kz":"твёрдый","es":"sólido","level":2,"transcription":null}
-{"kz":"спешный, авральный","es":"apresurado, emergencia","level":5,"transcription":null}
+{"kz":"спешный, авральный","es":"apresurado","level":5,"transcription":null}
 {"kz":"трудный","es":"difícil","level":2,"transcription":null}
 {"kz":"удобный","es":"cómodo","level":3,"transcription":null}
 {"kz":"неудобный","es":"inconveniente","level":3,"transcription":null}
@@ -2927,7 +2927,7 @@
 {"kz":"короткий","es":"corto","level":2,"transcription":null}
 {"kz":"низкого роста","es":"corto","level":3,"transcription":null}
 {"kz":"кислый","es":"agrio","level":3,"transcription":null}
-{"kz":"подходящий, соответствующий","es":"adecuado, apropiado","level":4,"transcription":null}
+{"kz":"подходящий, соответствующий","es":"adecuado","level":4,"transcription":null}
 {"kz":"целеустремленный","es":"útil","level":4,"transcription":null}
 {"kz":"важный","es":"importante","level":2,"transcription":null}
 {"kz":"культурный","es":"cultural","level":3,"transcription":null}
@@ -2936,64 +2936,64 @@
 {"kz":"передовой","es":"avanzado","level":4,"transcription":null}
 {"kz":"единый","es":"soltero","level":3,"transcription":null}
 {"kz":"семейный","es":"familia","level":3,"transcription":null}
-{"kz":"другой, иной, особый","es":"diferente, diferente, especial","level":2,"transcription":null}
+{"kz":"другой, иной, особый","es":"diferente","level":2,"transcription":null}
 {"kz":"уравновешенный","es":"equilibrado","level":4,"transcription":null}
 {"kz":"неряшливый","es":"descuidado","level":4,"transcription":null}
 {"kz":"торжественный","es":"solemne","level":4,"transcription":null}
 {"kz":"качественный","es":"cualitativo","level":3,"transcription":null}
 {"kz":"холодный","es":"frío","level":2,"transcription":null}
 {"kz":"красивый","es":"hermoso","level":2,"transcription":null}
-{"kz":"грозный, суровый","es":"formidable, severo","level":4,"transcription":null}
+{"kz":"грозный, суровый","es":"formidable","level":4,"transcription":null}
 {"kz":"симпатичный","es":"lindo","level":3,"transcription":null}
 {"kz":"неприятный","es":"desagradable","level":4,"transcription":null}
-{"kz":"стойкий, упорный","es":"persistente, tenaz","level":4,"transcription":null}
+{"kz":"стойкий, упорный","es":"persistente","level":4,"transcription":null}
 {"kz":"лысый","es":"calvo","level":4,"transcription":null}
 {"kz":"опытный","es":"experimentado","level":3,"transcription":null}
 {"kz":"сладкий","es":"dulce","level":2,"transcription":null}
 {"kz":"бесплатный","es":"gratis","level":3,"transcription":null}
-{"kz":"основательный, дельный","es":"minucioso, eficiente","level":5,"transcription":null}
-{"kz":"пухленький, упитанный","es":"gordito, bien alimentado","level":4,"transcription":null}
-{"kz":"постоянный, стабильный","es":"permanente, estable","level":3,"transcription":null}
+{"kz":"основательный, дельный","es":"minucioso","level":5,"transcription":null}
+{"kz":"пухленький, упитанный","es":"gordito","level":4,"transcription":null}
+{"kz":"постоянный, стабильный","es":"permanente","level":3,"transcription":null}
 {"kz":"общительный","es":"comunicativo","level":5,"transcription":null}
 {"kz":"длинный","es":"largo","level":2,"transcription":null}
-{"kz":"сонливый, соня","es":"somnoliento, dormilón","level":4,"transcription":null}
+{"kz":"сонливый, соня","es":"somnoliento","level":4,"transcription":null}
 {"kz":"бережливый","es":"ahorrativo","level":4,"transcription":null}
 {"kz":"скандальный","es":"escandaloso","level":4,"transcription":null}
-{"kz":"застенчивый, стеснительный","es":"tímido, tímido","level":4,"transcription":null}
+{"kz":"застенчивый, стеснительный","es":"tímido","level":4,"transcription":null}
 {"kz":"верхний","es":"superior","level":2,"transcription":null}
 {"kz":"безграничный","es":"sin límites","level":4,"transcription":null}
-{"kz":"настоящий, истинный","es":"real, cierto","level":3,"transcription":null}
-{"kz":"влажный, сырой","es":"húmedo, húmedo","level":3,"transcription":null}
+{"kz":"настоящий, истинный","es":"real","level":3,"transcription":null}
+{"kz":"влажный, сырой","es":"húmedo","level":3,"transcription":null}
 {"kz":"горячий","es":"caliente","level":2,"transcription":null}
 {"kz":"белый","es":"blanco","level":1,"transcription":null}
 {"kz":"золотой","es":"oro","level":2,"transcription":null}
-{"kz":"специальный, предназначенный","es":"especial, destinado","level":4,"transcription":null}
+{"kz":"специальный, предназначенный","es":"especial","level":4,"transcription":null}
 {"kz":"худощавый","es":"delgado","level":3,"transcription":null}
 {"kz":"тяжёлый","es":"pesado","level":2,"transcription":null}
-{"kz":"социальный, общественный","es":"social, público","level":3,"transcription":null}
+{"kz":"социальный, общественный","es":"social","level":3,"transcription":null}
 {"kz":"слабый","es":"débil","level":2,"transcription":null}
 {"kz":"ценный","es":"valioso","level":3,"transcription":null}
 {"kz":"богатый","es":"rico","level":2,"transcription":null}
-{"kz":"неофициальный","es":"informal","level":4,"transcription":null}
-{"kz":"известный, определенный","es":"conocido, cierto","level":2,"transcription":null}
+{"kz":"неофициальный","es":"no oficial","level":4,"transcription":null}
+{"kz":"известный, определенный","es":"conocido","level":2,"transcription":null}
 {"kz":"неизвестный","es":"desconocido","level":3,"transcription":null}
 {"kz":"высокий","es":"alto","level":2,"transcription":null}
-{"kz":"брендовый","es":"marca","level":4,"transcription":null}
+{"kz":"брендовый","es":"marcado","level":4,"transcription":null}
 {"kz":"приготовленный на пару","es":"al vapor","level":4,"transcription":null}
 {"kz":"облачный","es":"nublado","level":3,"transcription":null}
-{"kz":"знающий, квалифицированный","es":"conocedor, calificado","level":3,"transcription":null}
-{"kz":"научный, учёный","es":"científico, científico","level":3,"transcription":null}
+{"kz":"знающий, квалифицированный","es":"conocedor","level":3,"transcription":null}
+{"kz":"научный, учёный","es":"científico","level":3,"transcription":null}
 {"kz":"развитый","es":"desarrollado","level":3,"transcription":null}
 {"kz":"мудрый","es":"inteligente","level":3,"transcription":null}
 {"kz":"бездарный","es":"sin talento","level":4,"transcription":null}
-{"kz":"доказательный, обоснованный","es":"probatorio, justificado","level":4,"transcription":null}
-{"kz":"самый тяжелый","es":"el mas pesado","level":3,"transcription":null}
-{"kz":"самый богатый","es":"el mas rico","level":3,"transcription":null}
-{"kz":"самый маленький","es":"el mas pequeño","level":3,"transcription":null}
-{"kz":"самый дорогой","es":"el mas caro","level":3,"transcription":null}
+{"kz":"доказательный, обоснованный","es":"justificado","level":4,"transcription":null}
+{"kz":"самый тяжелый","es":"el más pesado","level":3,"transcription":null}
+{"kz":"самый богатый","es":"el más rico","level":3,"transcription":null}
+{"kz":"самый маленький","es":"el más pequeño","level":3,"transcription":null}
+{"kz":"самый дорогой","es":"el más caro","level":3,"transcription":null}
 {"kz":"самый большой","es":"más grande","level":2,"transcription":null}
 {"kz":"взрослый","es":"adulto","level":2,"transcription":null}
-{"kz":"балованный, баловень","es":"mimado, cariño","level":4,"transcription":null}
+{"kz":"балованный, баловень","es":"mimado","level":4,"transcription":null}
 {"kz":"ленивый","es":"perezoso","level":3,"transcription":null}
 {"kz":"разумный","es":"razonable","level":2,"transcription":null}
 {"kz":"никакой","es":"no","level":3,"transcription":null}
@@ -3003,13 +3003,13 @@
 {"kz":"клеящийся","es":"adhesivo","level":4,"transcription":null}
 {"kz":"искусственный","es":"artificial","level":3,"transcription":null}
 {"kz":"зелёный","es":"verde","level":2,"transcription":null}
-{"kz":"тайный, скрытно","es":"secreto, en secreto","level":3,"transcription":null}
+{"kz":"тайный, скрытно","es":"secreto","level":3,"transcription":null}
 {"kz":"лёгкий","es":"fácil","level":2,"transcription":null}
-{"kz":"достаточный, достаточно","es":"suficiente, suficiente","level":3,"transcription":null}
+{"kz":"достаточный, достаточно","es":"suficiente","level":3,"transcription":null}
 {"kz":"частый","es":"frecuente","level":2,"transcription":null}
 {"kz":"скорый","es":"rápido","level":3,"transcription":null}
 {"kz":"тёплый","es":"cálido","level":1,"transcription":null}
-{"kz":"законный, закономерный","es":"legales, naturales","level":4,"transcription":null}
+{"kz":"законный, закономерный","es":"legales","level":4,"transcription":null}
 {"kz":"огромный","es":"enorme","level":3,"transcription":null}
 {"kz":"бедный","es":"pobre","level":2,"transcription":null}
 {"kz":"случайный","es":"aleatorio","level":3,"transcription":null}
@@ -3024,7 +3024,7 @@
 {"kz":"чёрный-пречёрный","es":"negro-negro","level":3,"transcription":null}
 {"kz":"чёрный","es":"negro","level":1,"transcription":null}
 {"kz":"финансовый","es":"financiero","level":4,"transcription":null}
-{"kz":"безопасный, безопасно","es":"seguro, seguro","level":3,"transcription":null}
+{"kz":"безопасный, безопасно","es":"seguro","level":3,"transcription":null}
 {"kz":"коричневый","es":"marrón","level":3,"transcription":null}
 {"kz":"жареный","es":"frito","level":3,"transcription":null}
 {"kz":"правовой","es":"legal","level":4,"transcription":null}
@@ -3032,32 +3032,32 @@
 {"kz":"служебный","es":"oficial","level":4,"transcription":null}
 {"kz":"красный","es":"rojo","level":1,"transcription":null}
 {"kz":"сезонный","es":"estacional","level":4,"transcription":null}
-{"kz":"праздничный, торжественный","es":"festivo, solemne","level":3,"transcription":null}
-{"kz":"аккуратный, тщательный","es":"limpio, minucioso","level":3,"transcription":null}
-{"kz":"правый","es":"bien","level":1,"transcription":null}
-{"kz":"жизнелюбивый","es":"alegre","level":4,"transcription":null}
-{"kz":"интеллектуально развитый","es":"desarrollado intelectualmente","level":5,"transcription":null}
+{"kz":"праздничный, торжественный","es":"festivo","level":3,"transcription":null}
+{"kz":"аккуратный, тщательный","es":"atento","level":3,"transcription":null}
+{"kz":"правый","es":"derecho","level":1,"transcription":null}
+{"kz":"жизнелюбивый","es":"amante de la vida","level":4,"transcription":null}
+{"kz":"интеллектуально развитый","es":"intelectualmente desarrollado","level":5,"transcription":null}
 {"kz":"спелый","es":"maduro","level":3,"transcription":null}
-{"kz":"согласный, довольный","es":"agradable, satisfecho","level":3,"transcription":null}
+{"kz":"согласный, довольный","es":"agradable","level":3,"transcription":null}
 {"kz":"жёлтый","es":"amarillo","level":2,"transcription":null}
-{"kz":"нарядный, модный","es":"elegante, de moda","level":3,"transcription":null}
-{"kz":"успешный, успешно","es":"exitoso, exitoso","level":3,"transcription":null}
-{"kz":"левый","es":"izquierda","level":1,"transcription":null}
-{"kz":"разговорчивый, красноречивый","es":"hablador, elocuente","level":4,"transcription":null}
+{"kz":"нарядный, модный","es":"elegante","level":3,"transcription":null}
+{"kz":"успешный, успешно","es":"exitoso","level":3,"transcription":null}
+{"kz":"левый","es":"izquierdo","level":1,"transcription":null}
+{"kz":"разговорчивый, красноречивый","es":"hablador","level":4,"transcription":null}
 {"kz":"серый","es":"gris","level":2,"transcription":null}
-{"kz":"любимый, любимец","es":"amado, favorito","level":2,"transcription":null}
+{"kz":"любимый, любимец","es":"amado","level":2,"transcription":null}
 {"kz":"натуральный","es":"natural","level":3,"transcription":null}
 {"kz":"успешный","es":"exitoso","level":3,"transcription":null}
 {"kz":"познавательный","es":"cognitivo","level":4,"transcription":null}
-{"kz":"узкий","es":"angosto","level":2,"transcription":null}
+{"kz":"узкий","es":"estrecho","level":2,"transcription":null}
 {"kz":"исторический","es":"histórico","level":3,"transcription":null}
 {"kz":"выгодный","es":"rentable","level":4,"transcription":null}
 {"kz":"полный","es":"lleno","level":2,"transcription":null}
-{"kz":"низкий","es":"corto","level":2,"transcription":null}
+{"kz":"низкий","es":"bajo","level":2,"transcription":null}
 {"kz":"родной","es":"nativo","level":2,"transcription":null}
-{"kz":"постоянный, коренной","es":"permanente, indígena","level":4,"transcription":null}
-{"kz":"цветной","es":"color","level":3,"transcription":null}
-{"kz":"долгий, долго","es":"largo, largo","level":2,"transcription":null}
+{"kz":"постоянный, коренной","es":"permanente","level":4,"transcription":null}
+{"kz":"цветной","es":"colorado","level":3,"transcription":null}
+{"kz":"долгий, долго","es":"largo","level":2,"transcription":null}
 {"kz":"высокого роста","es":"alto","level":3,"transcription":null}
 {"kz":"схожий","es":"similar","level":3,"transcription":null}
 {"kz":"лучший","es":"mejor","level":2,"transcription":null}
@@ -3093,26 +3093,26 @@
 {"kz":"около ста","es":"alrededor de cien","level":3,"transcription":null}
 {"kz":"сотни","es":"cientos","level":2,"transcription":null}
 {"kz":"сотый","es":"centésimo","level":3,"transcription":null}
-{"kz":"кто?","es":"¿oms?","level":1,"transcription":null}
-{"kz":"чей?","es":"¿cuyo?","level":2,"transcription":null}
+{"kz":"кто?","es":"¿quién?","level":1,"transcription":null}
+{"kz":"чей?","es":"¿de quién?","level":2,"transcription":null}
 {"kz":"где?","es":"¿dónde?","level":1,"transcription":null}
 {"kz":"как?","es":"¿cómo?","level":1,"transcription":null}
-{"kz":"какой?","es":"¿cual?","level":1,"transcription":null}
+{"kz":"какой?","es":"¿cuál?","level":1,"transcription":null}
 {"kz":"сколько?","es":"¿cuántos?","level":1,"transcription":null}
-{"kz":"сороковой","es":"cuadragésimo","level":3,"transcription":null}
+{"kz":"сороковой","es":"cuarenta","level":3,"transcription":null}
 {"kz":"сорок","es":"cuarenta","level":2,"transcription":null}
-{"kz":"я","es":"i","level":1,"transcription":null}
+{"kz":"я","es":"yo","level":1,"transcription":null}
 {"kz":"мой","es":"mi","level":1,"transcription":null}
 {"kz":"тысяча","es":"mil","level":2,"transcription":null}
 {"kz":"тысячи","es":"miles","level":3,"transcription":null}
 {"kz":"тысячный","es":"milésimo","level":4,"transcription":null}
 {"kz":"что?","es":"¿qué?","level":1,"transcription":null}
-{"kz":"какой по порядку?","es":"cual en orden?","level":3,"transcription":null}
+{"kz":"какой по порядку?","es":"cuál en orden?","level":3,"transcription":null}
 {"kz":"ноль","es":"cero","level":2,"transcription":null}
-{"kz":"нолевой","es":"cero","level":4,"transcription":null}
-{"kz":"он, она","es":"el, ella","level":1,"transcription":null}
+{"kz":"нолевой","es":"nulo","level":4,"transcription":null}
+{"kz":"он, она","es":"él, ella","level":1,"transcription":null}
 {"kz":"они","es":"ellos","level":1,"transcription":null}
-{"kz":"их","es":"su","level":2,"transcription":null}
+{"kz":"их","es":"sus","level":2,"transcription":null}
 {"kz":"десять","es":"diez","level":1,"transcription":null}
 {"kz":"шестнадцать","es":"dieciséis","level":2,"transcription":null}
 {"kz":"пятнадцать","es":"quince","level":2,"transcription":null}

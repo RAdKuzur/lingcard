@@ -1,7 +1,7 @@
 {"jp":"人","kr":"사람","level":1,"transcription":"hito"}
 {"jp":"日","kr":"일","level":1,"transcription":"hi"}
 {"jp":"年","kr":"년","level":1,"transcription":"toshi"}
-{"jp":"的","kr":"적","level":3,"transcription":"teki"}
+{"jp":"的","kr":"의","level":3,"transcription":"teki"}
 {"jp":"者","kr":"사람","level":3,"transcription":"mono"}
 {"jp":"月","kr":"달","level":1,"transcription":"tsuki"}
 {"jp":"見る","kr":"보기","level":1,"transcription":"miru"}
@@ -23,7 +23,7 @@
 {"jp":"言う","kr":"말하다","level":1,"transcription":"iu"}
 {"jp":"話","kr":"이야기","level":1,"transcription":"hanashi"}
 {"jp":"事","kr":"일","level":1,"transcription":"koto"}
-{"jp":"出る","kr":"나가다","level":1,"transcription":"deru"}
+{"jp":"出る","kr":"나타나다","level":1,"transcription":"deru"}
 {"jp":"分","kr":"분","level":2,"transcription":"bun"}
 {"jp":"家","kr":"집","level":1,"transcription":"ie"}
 {"jp":"円","kr":"원","level":1,"transcription":"en"}
@@ -32,10 +32,10 @@
 {"jp":"好き","kr":"좋아","level":1,"transcription":"suki"}
 {"jp":"良い","kr":"좋은","level":1,"transcription":"yoi"}
 {"jp":"大","kr":"큰","level":2,"transcription":"dai"}
-{"jp":"上","kr":"상단","level":1,"transcription":"ue"}
-{"jp":"回","kr":"시간","level":2,"transcription":"kai"}
+{"jp":"上","kr":"상","level":1,"transcription":"ue"}
+{"jp":"回","kr":"회","level":2,"transcription":"kai"}
 {"jp":"考え","kr":"생각","level":3,"transcription":"kangae"}
-{"jp":"感じ","kr":"느낌","level":3,"transcription":"kanji"}
+{"jp":"感じ","kr":"감정","level":3,"transcription":"kanji"}
 {"jp":"数","kr":"수","level":2,"transcription":"kazu"}
 {"jp":"必要","kr":"필요","level":3,"transcription":"hitsuyō"}
 {"jp":"行く","kr":"가다","level":1,"transcription":"iku"}
@@ -46,36 +46,36 @@
 {"jp":"本","kr":"책","level":1,"transcription":"hon"}
 {"jp":"誰","kr":"누구","level":1,"transcription":"dare"}
 {"jp":"第","kr":"제","level":3,"transcription":"dai"}
-{"jp":"仕事","kr":"작업","level":1,"transcription":"shigoto"}
+{"jp":"仕事","kr":"직무","level":1,"transcription":"shigoto"}
 {"jp":"市","kr":"시","level":2,"transcription":"shi"}
 {"jp":"県","kr":"현","level":2,"transcription":"ken"}
 {"jp":"同じ","kr":"동일","level":2,"transcription":"onaji"}
 {"jp":"問題","kr":"문제","level":2,"transcription":"mondai"}
-{"jp":"度","kr":"학위","level":2,"transcription":"do"}
+{"jp":"度","kr":"도","level":2,"transcription":"do"}
 {"jp":"手","kr":"손","level":1,"transcription":"te"}
 {"jp":"思い","kr":"생각","level":3,"transcription":"omoi"}
 {"jp":"情報","kr":"정보","level":3,"transcription":"jōhō"}
-{"jp":"三","kr":"세","level":1,"transcription":"san"}
+{"jp":"三","kr":"삼","level":1,"transcription":"san"}
 {"jp":"関係","kr":"관계","level":3,"transcription":"kankei"}
-{"jp":"会","kr":"모임","level":2,"transcription":"kai"}
+{"jp":"会","kr":"회의","level":2,"transcription":"kai"}
 {"jp":"僕","kr":"나","level":1,"transcription":"boku"}
 {"jp":"力","kr":"힘","level":2,"transcription":"chikara"}
 {"jp":"国","kr":"국가","level":1,"transcription":"kuni"}
 {"jp":"今日","kr":"오늘","level":1,"transcription":"kyō"}
-{"jp":"持つ","kr":"갖다","level":1,"transcription":"motsu"}
+{"jp":"持つ","kr":"가지다","level":1,"transcription":"motsu"}
 {"jp":"本当に","kr":"정말","level":2,"transcription":"hontō ni"}
 {"jp":"以上","kr":"이상","level":3,"transcription":"ijō"}
 {"jp":"可能","kr":"가능","level":3,"transcription":"kanō"}
-{"jp":"場合","kr":"경우","level":3,"transcription":"baai"}
+{"jp":"場合","kr":"상황","level":3,"transcription":"baai"}
 {"jp":"多い","kr":"많은","level":2,"transcription":"ōi"}
-{"jp":"子","kr":"아이","level":1,"transcription":"ko"}
-{"jp":"車","kr":"자동차","level":1,"transcription":"kuruma"}
+{"jp":"子","kr":"아들","level":1,"transcription":"ko"}
+{"jp":"車","kr":"차","level":1,"transcription":"kuruma"}
 {"jp":"金","kr":"금","level":1,"transcription":"kane"}
 {"jp":"男","kr":"남자","level":1,"transcription":"otoko"}
-{"jp":"間","kr":"사이","level":2,"transcription":"aida"}
-{"jp":"出来","kr":"완성","level":3,"transcription":"deki"}
-{"jp":"所","kr":"장소","level":1,"transcription":"tokoro"}
-{"jp":"人間","kr":"인간","level":3,"transcription":"ningen"}
+{"jp":"間","kr":"간격","level":2,"transcription":"aida"}
+{"jp":"出来","kr":"끝나다","level":3,"transcription":"deki"}
+{"jp":"所","kr":"곳","level":1,"transcription":"tokoro"}
+{"jp":"人間","kr":"사람","level":3,"transcription":"ningen"}
 {"jp":"名","kr":"이름","level":2,"transcription":"na"}
 {"jp":"女","kr":"여자","level":1,"transcription":"onna"}
 {"jp":"知る","kr":"알다","level":1,"transcription":"shiru"}
@@ -95,7 +95,7 @@
 {"jp":"使用","kr":"사용","level":3,"transcription":"shiyō"}
 {"jp":"店","kr":"상점","level":1,"transcription":"mise"}
 {"jp":"悪い","kr":"나쁜","level":1,"transcription":"warui"}
-{"jp":"生","kr":"원시","level":3,"transcription":"nama"}
+{"jp":"生","kr":"생","level":3,"transcription":"nama"}
 {"jp":"結果","kr":"결과","level":3,"transcription":"kekka"}
 {"jp":"食べる","kr":"먹다","level":1,"transcription":"taberu"}
 {"jp":"先","kr":"앞","level":2,"transcription":"saki"}
@@ -130,19 +130,19 @@
 {"jp":"別","kr":"다른","level":3,"transcription":"betsu"}
 {"jp":"場所","kr":"위치","level":2,"transcription":"basho"}
 {"jp":"最後","kr":"마지막","level":2,"transcription":"saigo"}
-{"jp":"部","kr":"부품","level":3,"transcription":"bu"}
+{"jp":"部","kr":"부","level":3,"transcription":"bu"}
 {"jp":"高い","kr":"높은","level":1,"transcription":"takai"}
 {"jp":"一番","kr":"가장","level":1,"transcription":"ichiban"}
-{"jp":"出す","kr":"꺼내다","level":1,"transcription":"dasu"}
+{"jp":"出す","kr":"내다","level":1,"transcription":"dasu"}
 {"jp":"受ける","kr":"받다","level":2,"transcription":"ukeru"}
 {"jp":"大丈夫","kr":"괜찮아","level":1,"transcription":"daijōbu"}
 {"jp":"町","kr":"마을","level":1,"transcription":"machi"}
-{"jp":"言葉","kr":"단어","level":2,"transcription":"kotoba"}
-{"jp":"奴","kr":"녀석","level":3,"transcription":"yatsu"}
+{"jp":"言葉","kr":"말","level":2,"transcription":"kotoba"}
+{"jp":"奴","kr":"노릇","level":3,"transcription":"yatsu"}
 {"jp":"映画","kr":"영화","level":1,"transcription":"eiga"}
-{"jp":"点","kr":"포인트","level":3,"transcription":"ten"}
+{"jp":"点","kr":"점","level":3,"transcription":"ten"}
 {"jp":"社会","kr":"사회","level":3,"transcription":"shakai"}
-{"jp":"作る","kr":"만들기","level":1,"transcription":"tsukuru"}
+{"jp":"作る","kr":"만들다","level":1,"transcription":"tsukuru"}
 {"jp":"方法","kr":"방법","level":3,"transcription":"hōhō"}
 {"jp":"最初","kr":"처음","level":2,"transcription":"saisho"}
 {"jp":"理由","kr":"이유","level":3,"transcription":"riyū"}
@@ -155,7 +155,7 @@
 {"jp":"彼女","kr":"그녀","level":1,"transcription":"kanojo"}
 {"jp":"頃","kr":"무렵","level":2,"transcription":"koro"}
 {"jp":"駅","kr":"역","level":1,"transcription":"eki"}
-{"jp":"下さい","kr":"제발","level":1,"transcription":"kudasai"}
+{"jp":"下さい","kr":"요청해요","level":1,"transcription":"kudasai"}
 {"jp":"利用","kr":"사용","level":3,"transcription":"riyō"}
 {"jp":"曲","kr":"노래","level":2,"transcription":"kyoku"}
 {"jp":"漫画","kr":"만화","level":2,"transcription":"manga"}
@@ -178,7 +178,7 @@
 {"jp":"中国","kr":"중국","level":2,"transcription":"Chūgoku"}
 {"jp":"側","kr":"측면","level":3,"transcription":"gawa"}
 {"jp":"先生","kr":"선생님","level":1,"transcription":"sensei"}
-{"jp":"気持ち","kr":"기분","level":2,"transcription":"kimochi"}
+{"jp":"気持ち","kr":"감정","level":2,"transcription":"kimochi"}
 {"jp":"確認","kr":"확인","level":3,"transcription":"kakunin"}
 {"jp":"今回","kr":"이번에","level":2,"transcription":"konkai"}
 {"jp":"全部","kr":"모두","level":1,"transcription":"zenbu"}
@@ -199,7 +199,7 @@
 {"jp":"友達","kr":"친구","level":1,"transcription":"tomodachi"}
 {"jp":"場","kr":"장","level":3,"transcription":"ba"}
 {"jp":"生活","kr":"생활","level":2,"transcription":"seikatsu"}
-{"jp":"色","kr":"칼라","level":1,"transcription":"iro"}
+{"jp":"色","kr":"색","level":1,"transcription":"iro"}
 {"jp":"人気","kr":"인기","level":2,"transcription":"ninki"}
 {"jp":"初","kr":"첫","level":3,"transcription":"hatsu"}
 {"jp":"区","kr":"구","level":3,"transcription":"ku"}
@@ -477,7 +477,7 @@
 {"jp":"動物","kr":"동물","level":2,"transcription":"dōbutsu"}
 {"jp":"国内","kr":"국내","level":3,"transcription":"kokunai"}
 {"jp":"大会","kr":"대회","level":3,"transcription":"taikai"}
-{"jp":"大好き","kr":"사랑","level":1,"transcription":"daisuki"}
+{"jp":"大好き","kr":"좋아함","level":1,"transcription":"daisuki"}
 {"jp":"巻く","kr":"감기","level":3,"transcription":"maku"}
 {"jp":"想像","kr":"상상","level":3,"transcription":"sōzō"}
 {"jp":"春","kr":"봄","level":1,"transcription":"haru"}
@@ -510,7 +510,7 @@
 {"jp":"出会い","kr":"만남","level":3,"transcription":"deai"}
 {"jp":"参考","kr":"참고","level":3,"transcription":"sankō"}
 {"jp":"友人","kr":"친구","level":2,"transcription":"yūjin"}
-{"jp":"地球","kr":"지구","level":3,"transcription":"chikyū"}
+{"jp":"地球","kr":"지구의","level":3,"transcription":"chikyū"}
 {"jp":"必ず","kr":"반드시","level":2,"transcription":"kanarazu"}
 {"jp":"更新","kr":"업데이트","level":3,"transcription":"kōshin"}
 {"jp":"皆","kr":"모두","level":1,"transcription":"mina"}
@@ -568,17 +568,17 @@
 {"jp":"生産","kr":"생산","level":3,"transcription":"seisan"}
 {"jp":"石","kr":"돌","level":2,"transcription":"ishi"}
 {"jp":"自己","kr":"자기","level":3,"transcription":"jiko"}
-{"jp":"付く","kr":"부착하다","level":1,"transcription":"tsuku"}
+{"jp":"付く","kr":"붙이다","level":1,"transcription":"tsuku"}
 {"jp":"会議","kr":"회의","level":2,"transcription":"kaigi"}
 {"jp":"健康","kr":"건강","level":2,"transcription":"kenkō"}
 {"jp":"北","kr":"북","level":1,"transcription":"kita"}
-{"jp":"北海道","kr":"홋카이도","level":1,"transcription":"Hokkaidō"}
+{"jp":"北海道","kr":"호키도","level":1,"transcription":"Hokkaidō"}
 {"jp":"半","kr":"반","level":1,"transcription":"han"}
 {"jp":"器","kr":"그릇","level":3,"transcription":"utsuwa"}
 {"jp":"外国","kr":"외국","level":1,"transcription":"gaikoku"}
 {"jp":"委員","kr":"위원","level":3,"transcription":"iin"}
 {"jp":"左","kr":"왼쪽","level":1,"transcription":"hidari"}
-{"jp":"平成","kr":"헤세이","level":3,"transcription":"Heisei"}
+{"jp":"平成","kr":"헤이시","level":3,"transcription":"Heisei"}
 {"jp":"恋","kr":"사랑","level":3,"transcription":"koi"}
 {"jp":"旅","kr":"여행","level":2,"transcription":"tabi"}
 {"jp":"特徴","kr":"특징","level":3,"transcription":"tokuchō"}
@@ -597,7 +597,7 @@
 {"jp":"弁護士","kr":"변호사","level":3,"transcription":"bengoshi"}
 {"jp":"意見","kr":"의견","level":2,"transcription":"iken"}
 {"jp":"成長","kr":"성장","level":3,"transcription":"seichō"}
-{"jp":"指定","kr":"명세","level":3,"transcription":"shitei"}
+{"jp":"指定","kr":"지정","level":3,"transcription":"shitei"}
 {"jp":"無駄","kr":"낭비","level":3,"transcription":"muda"}
 {"jp":"箱","kr":"박스","level":1,"transcription":"hako"}
 {"jp":"若い","kr":"젊은","level":1,"transcription":"wakai"}
@@ -737,7 +737,7 @@
 {"jp":"距離","kr":"거리","level":3,"transcription":"kyori"}
 {"jp":"身体","kr":"몸","level":3,"transcription":"shintai"}
 {"jp":"雑誌","kr":"잡지","level":2,"transcription":"zasshi"}
-{"jp":"青","kr":"블루","level":1,"transcription":"ao"}
+{"jp":"青","kr":"청","level":1,"transcription":"ao"}
 {"jp":"公園","kr":"공원","level":1,"transcription":"kōen"}
 {"jp":"努力","kr":"노력","level":3,"transcription":"doryoku"}
 {"jp":"同時に","kr":"동시에","level":3,"transcription":"dōji ni"}
@@ -770,7 +770,7 @@
 {"jp":"立つ","kr":"서다","level":1,"transcription":"tatsu"}
 {"jp":"続く","kr":"계속","level":2,"transcription":"tsuzuku"}
 {"jp":"逃げる","kr":"도망","level":3,"transcription":"nigeru"}
-{"jp":"間違う","kr":"잘못","level":2,"transcription":"machigau"}
+{"jp":"間違う","kr":"잘못하다","level":2,"transcription":"machigau"}
 {"jp":"雪","kr":"눈","level":1,"transcription":"yuki"}
 {"jp":"不思議","kr":"이상한","level":3,"transcription":"fushigi"}
 {"jp":"中央","kr":"중앙","level":3,"transcription":"chūō"}
@@ -869,10 +869,10 @@
 {"jp":"歩く","kr":"걷다","level":1,"transcription":"aruku"}
 {"jp":"毛","kr":"털","level":2,"transcription":"ke"}
 {"jp":"税","kr":"세금","level":3,"transcription":"zei"}
-{"jp":"腹","kr":"배","level":2,"transcription":"hara"}
+{"jp":"腹","kr":"복부","level":2,"transcription":"hara"}
 {"jp":"許す","kr":"용서하다","level":3,"transcription":"yurusu"}
 {"jp":"詳しい","kr":"상세한","level":3,"transcription":"kuwashii"}
-{"jp":"返す","kr":"반환","level":2,"transcription":"kaesu"}
+{"jp":"返す","kr":"환기","level":2,"transcription":"kaesu"}
 {"jp":"開ける","kr":"열다","level":1,"transcription":"akeru"}
 {"jp":"隣","kr":"이웃","level":2,"transcription":"tonari"}
 {"jp":"集団","kr":"집단","level":3,"transcription":"shūdan"}
@@ -890,14 +890,14 @@
 {"jp":"比較","kr":"비교","level":3,"transcription":"hikaku"}
 {"jp":"演奏","kr":"연주","level":3,"transcription":"ensō"}
 {"jp":"父親","kr":"아버지","level":2,"transcription":"chichioya"}
-{"jp":"玉","kr":"공","level":3,"transcription":"tama"}
+{"jp":"玉","kr":"옥","level":3,"transcription":"tama"}
 {"jp":"病","kr":"병","level":3,"transcription":"yamai"}
 {"jp":"社員","kr":"직원","level":2,"transcription":"shain"}
 {"jp":"調子","kr":"음색","level":3,"transcription":"chōshi"}
 {"jp":"風呂","kr":"목욕","level":2,"transcription":"furo"}
 {"jp":"溶ける","kr":"녹는","level":3,"transcription":"tokeru"}
 {"jp":"と共に","kr":"함께","level":3,"transcription":"to tomo ni"}
-{"jp":"無くなる","kr":"사라진다","level":3,"transcription":"nakunaru"}
+{"jp":"無くなる","kr":"없어진다","level":3,"transcription":"nakunaru"}
 {"jp":"初期","kr":"초기","level":3,"transcription":"shoki"}
 {"jp":"千葉","kr":"지바","level":1,"transcription":"Chiba"}
 {"jp":"年度","kr":"연도","level":3,"transcription":"nendo"}
@@ -912,7 +912,7 @@
 {"jp":"緑","kr":"녹색","level":1,"transcription":"midori"}
 {"jp":"自信","kr":"자신감","level":3,"transcription":"jishin"}
 {"jp":"自動車","kr":"자동차","level":2,"transcription":"jidōsha"}
-{"jp":"迷惑","kr":"성가신","level":3,"transcription":"meiwaku"}
+{"jp":"迷惑","kr":"미수","level":3,"transcription":"meiwaku"}
 {"jp":"運","kr":"운","level":3,"transcription":"un"}
 {"jp":"道路","kr":"도로","level":2,"transcription":"dōro"}
 {"jp":"関西","kr":"간사이","level":2,"transcription":"Kansai"}
@@ -1077,7 +1077,7 @@
 {"jp":"上手","kr":"잘","level":1,"transcription":"jōzu"}
 {"jp":"乳","kr":"우유","level":3,"transcription":"chichi"}
 {"jp":"共通","kr":"공통","level":3,"transcription":"kyōtsū"}
-{"jp":"別れる","kr":"헤어지다","level":2,"transcription":"wakareru"}
+{"jp":"別れる","kr":"별지다","level":2,"transcription":"wakareru"}
 {"jp":"台風","kr":"태풍","level":2,"transcription":"taifū"}
 {"jp":"否定","kr":"부정","level":3,"transcription":"hitei"}
 {"jp":"回転","kr":"회전","level":3,"transcription":"kaiten"}
@@ -1141,30 +1141,30 @@
 {"jp":"決して","kr":"결코","level":3,"transcription":"kesshite"}
 {"jp":"真面目","kr":"진지한","level":3,"transcription":"majime"}
 {"jp":"肩","kr":"어깨","level":2,"transcription":"kata"}
-{"jp":"落ち着く","kr":"진정하다","level":3,"transcription":"ochitsuku"}
-{"jp":"課題","kr":"도전","level":3,"transcription":"kadai"}
-{"jp":"お待ち","kr":"기다리다","level":2,"transcription":"omachi"}
+{"jp":"落ち着く","kr":"안정하다","level":3,"transcription":"ochitsuku"}
+{"jp":"課題","kr":"문제","level":3,"transcription":"kadai"}
+{"jp":"お待ち","kr":"기다리기","level":2,"transcription":"omachi"}
 {"jp":"佐藤","kr":"사토","level":1,"transcription":"Satō"}
 {"jp":"何とか","kr":"어떻게든","level":3,"transcription":"nantoka"}
 {"jp":"勤務","kr":"근무","level":3,"transcription":"kinmu"}
 {"jp":"医","kr":"의사","level":3,"transcription":"i"}
 {"jp":"同意","kr":"동의","level":3,"transcription":"dōi"}
 {"jp":"向こう","kr":"저기","level":2,"transcription":"mukō"}
-{"jp":"地区","kr":"지구","level":3,"transcription":"chiku"}
+{"jp":"地区","kr":"지역","level":3,"transcription":"chiku"}
 {"jp":"売れる","kr":"팔다","level":2,"transcription":"ureru"}
 {"jp":"天才","kr":"천재","level":3,"transcription":"tensai"}
 {"jp":"天気","kr":"날씨","level":1,"transcription":"tenki"}
 {"jp":"寒い","kr":"추운","level":1,"transcription":"samui"}
 {"jp":"展","kr":"전시","level":3,"transcription":"ten"}
 {"jp":"影","kr":"그림자","level":3,"transcription":"kage"}
-{"jp":"彼氏","kr":"남자친구","level":2,"transcription":"kareshi"}
+{"jp":"彼氏","kr":"남친","level":2,"transcription":"kareshi"}
 {"jp":"愛知","kr":"아이치","level":2,"transcription":"Aichi"}
 {"jp":"暇","kr":"여가","level":2,"transcription":"hima"}
 {"jp":"有効","kr":"유효","level":3,"transcription":"yūkō"}
 {"jp":"標準","kr":"표준","level":3,"transcription":"hyōjun"}
-{"jp":"流す","kr":"흘리다","level":3,"transcription":"nagasu"}
+{"jp":"流す","kr":"흐르다","level":3,"transcription":"nagasu"}
 {"jp":"白い","kr":"흰색","level":1,"transcription":"shiroi"}
-{"jp":"育てる","kr":"기르다","level":2,"transcription":"sodateru"}
+{"jp":"育てる","kr":"양육하다","level":2,"transcription":"sodateru"}
 {"jp":"芸術","kr":"예술","level":3,"transcription":"geijutsu"}
 {"jp":"込む","kr":"넣다","level":2,"transcription":"komu"}
 {"jp":"頼む","kr":"부탁하다","level":1,"transcription":"tanomu"}
@@ -1197,9 +1197,9 @@
 {"jp":"上昇","kr":"상승","level":3,"transcription":"jōshō"}
 {"jp":"不満","kr":"불만","level":3,"transcription":"fuman"}
 {"jp":"仲","kr":"사이","level":3,"transcription":"naka"}
-{"jp":"入手","kr":"입수","level":3,"transcription":"nyūshu"}
-{"jp":"分の","kr":"분의","level":2,"transcription":"bun no"}
-{"jp":"列車","kr":"기차","level":2,"transcription":"ressha"}
+{"jp":"入手","kr":"수입","level":3,"transcription":"nyūshu"}
+{"jp":"分の","kr":"분량","level":2,"transcription":"bun no"}
+{"jp":"列車","kr":"차선","level":2,"transcription":"ressha"}
 {"jp":"勝負","kr":"승부","level":3,"transcription":"shōbu"}
 {"jp":"周囲","kr":"주변","level":3,"transcription":"shūi"}
 {"jp":"基礎","kr":"기초","level":3,"transcription":"kiso"}
@@ -1219,10 +1219,10 @@
 {"jp":"進行","kr":"진행","level":3,"transcription":"shinkō"}
 {"jp":"遅い","kr":"느린","level":1,"transcription":"osoi"}
 {"jp":"集まる","kr":"모임","level":2,"transcription":"atsumaru"}
-{"jp":"飯","kr":"쌀","level":2,"transcription":"meshi"}
+{"jp":"飯","kr":"밥","level":2,"transcription":"meshi"}
 {"jp":"駐車","kr":"주차","level":3,"transcription":"chūsha"}
-{"jp":"驚く","kr":"놀라운","level":2,"transcription":"odoroku"}
-{"jp":"お客様","kr":"고객","level":3,"transcription":"okyakusama"}
+{"jp":"驚く","kr":"놀라다","level":2,"transcription":"odoroku"}
+{"jp":"お客様","kr":"고객님","level":3,"transcription":"okyakusama"}
 {"jp":"お気に入り","kr":"즐겨찾기","level":3,"transcription":"okiniiri"}
 {"jp":"信号","kr":"신호","level":2,"transcription":"shingō"}
 {"jp":"傷","kr":"상처","level":3,"transcription":"kizu"}
@@ -1261,7 +1261,7 @@
 {"jp":"背中","kr":"등","level":2,"transcription":"senaka"}
 {"jp":"財布","kr":"지갑","level":2,"transcription":"saifu"}
 {"jp":"越える","kr":"넘다","level":3,"transcription":"koeru"}
-{"jp":"電力","kr":"힘","level":3,"transcription":"denryoku"}
+{"jp":"電力","kr":"전력","level":3,"transcription":"denryoku"}
 {"jp":"一定","kr":"일정","level":3,"transcription":"ittei"}
 {"jp":"中学","kr":"중학교","level":2,"transcription":"chūgaku"}
 {"jp":"共に","kr":"함께","level":3,"transcription":"tomo ni"}
@@ -1287,17 +1287,17 @@
 {"jp":"規則","kr":"규칙","level":3,"transcription":"kisoku"}
 {"jp":"設備","kr":"장비","level":3,"transcription":"setsubi"}
 {"jp":"谷","kr":"계곡","level":2,"transcription":"tani"}
-{"jp":"送り","kr":"이송","level":3,"transcription":"okuri"}
+{"jp":"送り","kr":"송이","level":3,"transcription":"okuri"}
 {"jp":"鈴木","kr":"스즈키","level":1,"transcription":"Suzuki"}
 {"jp":"鉄道","kr":"철도","level":3,"transcription":"tetsudō"}
-{"jp":"高級","kr":"럭셔리","level":3,"transcription":"kōkyū"}
+{"jp":"高級","kr":"고급","level":3,"transcription":"kōkyū"}
 {"jp":"麺","kr":"국수","level":2,"transcription":"men"}
-{"jp":"お知らせ","kr":"공지","level":2,"transcription":"oshirase"}
+{"jp":"お知らせ","kr":"공지사항","level":2,"transcription":"oshirase"}
 {"jp":"お茶","kr":"차","level":1,"transcription":"ocha"}
 {"jp":"乗り","kr":"타기","level":3,"transcription":"nori"}
 {"jp":"九州","kr":"규슈","level":2,"transcription":"Kyūshū"}
-{"jp":"免許","kr":"면허","level":3,"transcription":"menkyo"}
-{"jp":"切り","kr":"자르다","level":3,"transcription":"kiri"}
+{"jp":"免許","kr":"면허증","level":3,"transcription":"menkyo"}
+{"jp":"切り","kr":"자르기","level":3,"transcription":"kiri"}
 {"jp":"同僚","kr":"동료","level":3,"transcription":"dōryō"}
 {"jp":"夫婦","kr":"부부","level":2,"transcription":"fūfu"}
 {"jp":"奥","kr":"안쪽","level":3,"transcription":"oku"}
@@ -1347,7 +1347,7 @@
 {"jp":"意外","kr":"의외","level":3,"transcription":"igai"}
 {"jp":"意外と","kr":"의외로","level":3,"transcription":"igaito"}
 {"jp":"日記","kr":"일기","level":2,"transcription":"nikki"}
-{"jp":"松","kr":"소나무","level":3,"transcription":"matsu"}
+{"jp":"松","kr":"송나무","level":3,"transcription":"matsu"}
 {"jp":"次に","kr":"다음","level":1,"transcription":"tsugi ni"}
 {"jp":"正解","kr":"정답","level":3,"transcription":"seikai"}
 {"jp":"神様","kr":"하나님","level":2,"transcription":"kamisama"}
@@ -1377,7 +1377,7 @@
 {"jp":"歌う","kr":"노래하다","level":1,"transcription":"utau"}
 {"jp":"流行","kr":"유행","level":3,"transcription":"ryūkō"}
 {"jp":"考え方","kr":"사고방식","level":3,"transcription":"kangaekata"}
-{"jp":"貴重","kr":"소중한","level":3,"transcription":"kichō"}
+{"jp":"貴重","kr":"중요한","level":3,"transcription":"kichō"}
 {"jp":"費用","kr":"비용","level":2,"transcription":"hiyō"}
 {"jp":"雇用","kr":"고용","level":3,"transcription":"koyō"}
 {"jp":"項目","kr":"품목","level":3,"transcription":"kōmoku"}
@@ -1408,7 +1408,7 @@
 {"jp":"経つ","kr":"지나가다","level":3,"transcription":"tatsu"}
 {"jp":"路線","kr":"노선","level":3,"transcription":"rosen"}
 {"jp":"黒い","kr":"검은색","level":1,"transcription":"kuroi"}
-{"jp":"丁","kr":"丁","level":3,"transcription":"chou"}
+{"jp":"丁","kr":"","level":3,"transcription":"chou"}
 {"jp":"住所","kr":"주소","level":2,"transcription":"juusho"}
 {"jp":"像","kr":"동상","level":3,"transcription":"zou"}
 {"jp":"出来事","kr":"사건","level":3,"transcription":"dekigoto"}
@@ -1527,19 +1527,19 @@
 {"jp":"朝鮮","kr":"조선","level":3,"transcription":"Chōsen"}
 {"jp":"楽しむ","kr":"즐기다","level":1,"transcription":"tanoshimu"}
 {"jp":"池","kr":"연못","level":2,"transcription":"ike"}
-{"jp":"立派","kr":"좋은","level":3,"transcription":"rippa"}
-{"jp":"競馬","kr":"경마","level":3,"transcription":"keiba"}
+{"jp":"立派","kr":"훌륭하다","level":3,"transcription":"rippa"}
+{"jp":"競馬","kr":"경마장","level":3,"transcription":"keiba"}
 {"jp":"缶","kr":"캔","level":2,"transcription":"kan"}
 {"jp":"舐める","kr":"핥다","level":3,"transcription":"nameru"}
 {"jp":"英雄","kr":"영웅","level":3,"transcription":"eiyū"}
 {"jp":"菜","kr":"유채","level":3,"transcription":"na"}
 {"jp":"釣り","kr":"낚시","level":3,"transcription":"tsuri"}
-{"jp":"下げる","kr":"낮추다","level":2,"transcription":"sageru"}
+{"jp":"下げる","kr":"내리다","level":2,"transcription":"sageru"}
 {"jp":"不良","kr":"불량","level":3,"transcription":"furyō"}
 {"jp":"中古","kr":"중고","level":3,"transcription":"chūko"}
 {"jp":"亡くなる","kr":"죽다","level":3,"transcription":"nakunaru"}
-{"jp":"体調","kr":"컨디션","level":2,"transcription":"taichō"}
-{"jp":"倒す","kr":"쓰러뜨리다","level":3,"transcription":"taosu"}
+{"jp":"体調","kr":"건강","level":2,"transcription":"taichō"}
+{"jp":"倒す","kr":"내리다","level":3,"transcription":"taosu"}
 {"jp":"先週","kr":"지난주","level":1,"transcription":"senshū"}
 {"jp":"化粧","kr":"메이크업","level":3,"transcription":"keshō"}
 {"jp":"婚","kr":"결혼","level":3,"transcription":"kon"}
@@ -1561,9 +1561,9 @@
 {"jp":"受け取る","kr":"받다","level":2,"transcription":"uketoru"}
 {"jp":"古代","kr":"고대","level":3,"transcription":"kodai"}
 {"jp":"届く","kr":"도착하다","level":2,"transcription":"todoku"}
-{"jp":"思える","kr":"보이는","level":3,"transcription":"omoeru"}
-{"jp":"新品","kr":"신품","level":3,"transcription":"shinpin"}
-{"jp":"決勝","kr":"결승","level":3,"transcription":"kesshō"}
+{"jp":"思える","kr":"생각해보기","level":3,"transcription":"omoeru"}
+{"jp":"新品","kr":"신제품","level":3,"transcription":"shinpin"}
+{"jp":"決勝","kr":"결승전","level":3,"transcription":"kesshō"}
 {"jp":"温度","kr":"온도","level":2,"transcription":"ondo"}
 {"jp":"稼ぐ","kr":"벌다","level":3,"transcription":"kasegu"}
 {"jp":"講師","kr":"강사","level":3,"transcription":"kōshi"}
@@ -1584,7 +1584,7 @@
 {"jp":"柄","kr":"무늬","level":3,"transcription":"gara"}
 {"jp":"椅子","kr":"의자","level":1,"transcription":"isu"}
 {"jp":"汚い","kr":"더러운","level":2,"transcription":"kitanai"}
-{"jp":"爪","kr":"못","level":3,"transcription":"tsume"}
+{"jp":"爪","kr":"손톱","level":3,"transcription":"tsume"}
 {"jp":"猿","kr":"원숭이","level":2,"transcription":"saru"}
 {"jp":"真似","kr":"모방","level":3,"transcription":"mane"}
 {"jp":"翼","kr":"날개","level":3,"transcription":"tsubasa"}
@@ -1680,7 +1680,7 @@
 {"jp":"急ぐ","kr":"서두르다","level":2,"transcription":"isogu"}
 {"jp":"残業","kr":"잔업","level":3,"transcription":"zangyō"}
 {"jp":"決まり","kr":"결정","level":3,"transcription":"kimari"}
-{"jp":"組む","kr":"짜다","level":3,"transcription":"kumu"}
+{"jp":"組む","kr":"조립하다","level":3,"transcription":"kumu"}
 {"jp":"課","kr":"과","level":3,"transcription":"ka"}
 {"jp":"返信","kr":"회신","level":3,"transcription":"henshin"}
 {"jp":"青春","kr":"청춘","level":3,"transcription":"seishun"}
@@ -1698,14 +1698,14 @@
 {"jp":"真ん中","kr":"가운데","level":2,"transcription":"mannaka"}
 {"jp":"着く","kr":"도착하다","level":1,"transcription":"tsuku"}
 {"jp":"繋がる","kr":"연결하다","level":3,"transcription":"tsunagaru"}
-{"jp":"薄い","kr":"얇은","level":2,"transcription":"usui"}
+{"jp":"薄い","kr":"얇다","level":2,"transcription":"usui"}
 {"jp":"通勤","kr":"통근","level":2,"transcription":"tsūkin"}
 {"jp":"通報","kr":"신고","level":3,"transcription":"tsūhō"}
 {"jp":"電池","kr":"배터리","level":2,"transcription":"denchi"}
 {"jp":"上下","kr":"상하","level":2,"transcription":"jōge"}
 {"jp":"下記","kr":"아래","level":3,"transcription":"kaki"}
 {"jp":"丼","kr":"덮밥","level":2,"transcription":"donburi"}
-{"jp":"休む","kr":"쉬다","level":1,"transcription":"yasumu"}
+{"jp":"休む","kr":"휴대하다","level":1,"transcription":"yasumu"}
 {"jp":"判定","kr":"판정","level":3,"transcription":"hantei"}
 {"jp":"割合","kr":"비율","level":3,"transcription":"wariai"}
 {"jp":"厚い","kr":"두꺼운","level":2,"transcription":"atsui"}
@@ -1769,11 +1769,11 @@
 {"jp":"班","kr":"반","level":3,"transcription":"han"}
 {"jp":"畑","kr":"밭","level":2,"transcription":"hatake"}
 {"jp":"自治体","kr":"지자체","level":3,"transcription":"jichitai"}
-{"jp":"舞","kr":"마이","level":3,"transcription":"mai"}
+{"jp":"舞","kr":"춤","level":3,"transcription":"mai"}
 {"jp":"貼る","kr":"붙이다","level":2,"transcription":"haru"}
 {"jp":"越す","kr":"넘다","level":3,"transcription":"kosu"}
 {"jp":"農業","kr":"농업","level":3,"transcription":"nōgyō"}
-{"jp":"防ぐ","kr":"예방","level":3,"transcription":"fusegu"}
+{"jp":"防ぐ","kr":"방지하다","level":3,"transcription":"fusegu"}
 {"jp":"降る","kr":"내리다","level":1,"transcription":"furu"}
 {"jp":"駅前","kr":"역 앞","level":1,"transcription":"ekimae"}
 {"jp":"髪の毛","kr":"머리카락","level":2,"transcription":"kaminoke"}
@@ -1788,16 +1788,16 @@
 {"jp":"大人気","kr":"대인기","level":3,"transcription":"daininki"}
 {"jp":"守り","kr":"방어","level":3,"transcription":"mamori"}
 {"jp":"宝石","kr":"보석","level":3,"transcription":"hōseki"}
-{"jp":"履歴","kr":"히스토리","level":3,"transcription":"rireki"}
-{"jp":"帳","kr":"책","level":3,"transcription":"chō"}
+{"jp":"履歴","kr":"기록","level":3,"transcription":"rireki"}
+{"jp":"帳","kr":"장","level":3,"transcription":"chō"}
 {"jp":"手続き","kr":"절차","level":3,"transcription":"tetsuzuki"}
 {"jp":"文庫","kr":"문고","level":3,"transcription":"bunko"}
 {"jp":"日時","kr":"일시","level":3,"transcription":"nichiji"}
 {"jp":"栄養","kr":"영양","level":3,"transcription":"eiyō"}
 {"jp":"狭い","kr":"좁은","level":2,"transcription":"semai"}
-{"jp":"生える","kr":"자란","level":3,"transcription":"haeru"}
+{"jp":"生える","kr":"생기다","level":3,"transcription":"haeru"}
 {"jp":"生放送","kr":"생방송","level":3,"transcription":"namahōsō"}
-{"jp":"痩せる","kr":"마른다","level":2,"transcription":"yaseru"}
+{"jp":"痩せる","kr":"마르다","level":2,"transcription":"yaseru"}
 {"jp":"看板","kr":"간판","level":2,"transcription":"kanban"}
 {"jp":"虎","kr":"호랑이","level":2,"transcription":"tora"}
 {"jp":"親子","kr":"부모와 자식","level":2,"transcription":"oyako"}
@@ -1837,7 +1837,7 @@
 {"jp":"度目","kr":"학위","level":3,"transcription":"dome"}
 {"jp":"指輪","kr":"반지","level":2,"transcription":"yubiwa"}
 {"jp":"早速","kr":"조속히","level":3,"transcription":"sassoku"}
-{"jp":"次々","kr":"차례","level":3,"transcription":"tsugitsugi"}
+{"jp":"次々","kr":"차차","level":3,"transcription":"tsugitsugi"}
 {"jp":"皿","kr":"접시","level":1,"transcription":"sara"}
 {"jp":"糸","kr":"실","level":2,"transcription":"ito"}
 {"jp":"細かい","kr":"미세","level":3,"transcription":"komakai"}
@@ -1857,7 +1857,7 @@
 {"jp":"土曜","kr":"토요일","level":1,"transcription":"doyō"}
 {"jp":"壊す","kr":"깨다","level":2,"transcription":"kowasu"}
 {"jp":"夏休み","kr":"여름방학","level":1,"transcription":"natsuyasumi"}
-{"jp":"居酒屋","kr":"선술집","level":2,"transcription":"izakaya"}
+{"jp":"居酒屋","kr":"술집","level":2,"transcription":"izakaya"}
 {"jp":"工業","kr":"산업","level":3,"transcription":"kōgyō"}
 {"jp":"幸福","kr":"행복","level":3,"transcription":"kōfuku"}
 {"jp":"新鮮","kr":"신선한","level":2,"transcription":"shinsen"}
@@ -1881,13 +1881,13 @@
 {"jp":"中学校","kr":"중학교","level":2,"transcription":"chūgakkō"}
 {"jp":"入荷","kr":"입하","level":3,"transcription":"nyūka"}
 {"jp":"効く","kr":"효과","level":2,"transcription":"kiku"}
-{"jp":"吸う","kr":"빨다","level":2,"transcription":"sū"}
+{"jp":"吸う","kr":"흡하다","level":2,"transcription":"sū"}
 {"jp":"問","kr":"질문","level":3,"transcription":"mon"}
-{"jp":"寄る","kr":"기다리다","level":2,"transcription":"yoru"}
+{"jp":"寄る","kr":"기다리기","level":2,"transcription":"yoru"}
 {"jp":"寄付","kr":"기부","level":3,"transcription":"kifu"}
-{"jp":"広がる","kr":"퍼짐","level":3,"transcription":"hirogaru"}
+{"jp":"広がる","kr":"확대되다","level":3,"transcription":"hirogaru"}
 {"jp":"戸","kr":"문","level":2,"transcription":"to"}
-{"jp":"控える","kr":"삼가하다","level":3,"transcription":"hikaeru"}
+{"jp":"控える","kr":"제어하다","level":3,"transcription":"hikaeru"}
 {"jp":"救急","kr":"응급","level":3,"transcription":"kyūkyū"}
 {"jp":"教科書","kr":"교과서","level":2,"transcription":"kyōkasho"}
 {"jp":"正面","kr":"정면","level":3,"transcription":"shōmen"}
@@ -1958,8 +1958,8 @@
 {"jp":"再度","kr":"다시","level":3,"transcription":"saido"}
 {"jp":"務め","kr":"봉사","level":3,"transcription":"tsutome"}
 {"jp":"国籍","kr":"국적","level":3,"transcription":"kokuseki"}
-{"jp":"地味","kr":"수수한","level":3,"transcription":"jimi"}
-{"jp":"大勢","kr":"많은","level":3,"transcription":"ōzei"}
+{"jp":"地味","kr":"지미","level":3,"transcription":"jimi"}
+{"jp":"大勢","kr":"대세","level":3,"transcription":"ōzei"}
 {"jp":"履く","kr":"착용","level":2,"transcription":"haku"}
 {"jp":"後輩","kr":"후배","level":3,"transcription":"kōhai"}
 {"jp":"得点","kr":"득점","level":3,"transcription":"tokuten"}
@@ -1982,7 +1982,7 @@
 {"jp":"乾燥","kr":"건조","level":3,"transcription":"kansō"}
 {"jp":"仏","kr":"부처","level":3,"transcription":"hotoke \/ futsu"}
 {"jp":"兄ちゃん","kr":"오빠","level":2,"transcription":"nīchan"}
-{"jp":"分間","kr":"분","level":1,"transcription":"funkan \/ punkan"}
+{"jp":"分間","kr":"분간","level":1,"transcription":"funkan \/ punkan"}
 {"jp":"地点","kr":"지점","level":3,"transcription":"chiten"}
 {"jp":"奥様","kr":"부인","level":3,"transcription":"okusama"}
 {"jp":"広げる","kr":"펼치다","level":2,"transcription":"hirogeru"}
@@ -1998,15 +1998,15 @@
 {"jp":"罠","kr":"함정","level":3,"transcription":"wana"}
 {"jp":"読書","kr":"독서","level":2,"transcription":"dokusho"}
 {"jp":"調理","kr":"요리","level":2,"transcription":"chōri"}
-{"jp":"遠慮","kr":"삼가","level":3,"transcription":"enryo"}
+{"jp":"遠慮","kr":"삼가다","level":3,"transcription":"enryo"}
 {"jp":"酔う","kr":"술취하다","level":2,"transcription":"you"}
 {"jp":"鈴","kr":"종","level":3,"transcription":"suzu"}
 {"jp":"面積","kr":"면적","level":3,"transcription":"menseki"}
 {"jp":"食料","kr":"식량","level":2,"transcription":"shokuryō"}
 {"jp":"下ろす","kr":"내리다","level":2,"transcription":"orosu"}
 {"jp":"不快","kr":"불편","level":3,"transcription":"fukai"}
-{"jp":"二度と","kr":"다시","level":3,"transcription":"nido to"}
-{"jp":"伸ばす","kr":"기지개","level":2,"transcription":"nobasu"}
+{"jp":"二度と","kr":"다시도","level":3,"transcription":"nido to"}
+{"jp":"伸ばす","kr":"늘리기","level":2,"transcription":"nobasu"}
 {"jp":"何故か","kr":"왜","level":3,"transcription":"nazeka"}
 {"jp":"占い","kr":"운세","level":3,"transcription":"uranai"}
 {"jp":"叫ぶ","kr":"외치다","level":3,"transcription":"sakebu"}
@@ -2029,7 +2029,7 @@
 {"jp":"罰","kr":"처벌","level":3,"transcription":"batsu"}
 {"jp":"脇","kr":"겨드랑이","level":3,"transcription":"waki"}
 {"jp":"芸","kr":"예술","level":3,"transcription":"gei"}
-{"jp":"被る","kr":"쓰다","level":2,"transcription":"kaburu"}
+{"jp":"被る","kr":"받다","level":2,"transcription":"kaburu"}
 {"jp":"観客","kr":"관객","level":3,"transcription":"kankyaku"}
 {"jp":"詰まる","kr":"포장하다","level":3,"transcription":"tsumaru"}
 {"jp":"通う","kr":"다니다","level":2,"transcription":"kayou"}
@@ -2039,7 +2039,7 @@
 {"jp":"不安定","kr":"불안정","level":3,"transcription":"fuantei"}
 {"jp":"傘","kr":"우산","level":1,"transcription":"kasa"}
 {"jp":"出口","kr":"출구","level":1,"transcription":"deguchi"}
-{"jp":"出番","kr":"차례","level":3,"transcription":"deban"}
+{"jp":"出番","kr":"출장수표","level":3,"transcription":"deban"}
 {"jp":"初日","kr":"첫날","level":3,"transcription":"shonichi"}
 {"jp":"品質","kr":"품질","level":3,"transcription":"hinshitsu"}
 {"jp":"土産","kr":"기념품","level":2,"transcription":"miyage"}
@@ -2069,24 +2069,24 @@
 {"jp":"夢中","kr":"미친","level":3,"transcription":"muchū"}
 {"jp":"幸","kr":"행운","level":3,"transcription":"sachi"}
 {"jp":"手順","kr":"절차","level":3,"transcription":"tejun"}
-{"jp":"拾う","kr":"데리러","level":2,"transcription":"hirou"}
+{"jp":"拾う","kr":"들기다","level":2,"transcription":"hirou"}
 {"jp":"東大","kr":"동대","level":3,"transcription":"Tōdai"}
 {"jp":"歌手","kr":"가수","level":2,"transcription":"kashu"}
 {"jp":"水分","kr":"수분","level":3,"transcription":"suibun"}
 {"jp":"片","kr":"조각","level":3,"transcription":"kata"}
 {"jp":"牛乳","kr":"우유","level":1,"transcription":"gyūnyū"}
-{"jp":"盛り上がる","kr":"흥분하다","level":3,"transcription":"moriagaru"}
+{"jp":"盛り上がる","kr":"흥미롭다","level":3,"transcription":"moriagaru"}
 {"jp":"礼","kr":"예","level":2,"transcription":"rei"}
 {"jp":"福","kr":"복","level":3,"transcription":"fuku"}
 {"jp":"粒","kr":"곡물","level":3,"transcription":"tsubu"}
 {"jp":"興味深い","kr":"흥미로운","level":3,"transcription":"kyōmi-bukai"}
-{"jp":"貯金","kr":"돼지","level":2,"transcription":"chokin"}
+{"jp":"貯金","kr":"돈을 모으다","level":2,"transcription":"chokin"}
 {"jp":"軍人","kr":"군인","level":3,"transcription":"gunjin"}
 {"jp":"配達","kr":"배달","level":3,"transcription":"haitatsu"}
 {"jp":"針","kr":"바늘","level":2,"transcription":"hari"}
 {"jp":"随分","kr":"상당히","level":3,"transcription":"zuibun"}
-{"jp":"頼る","kr":"의지하다","level":3,"transcription":"tayoru"}
-{"jp":"鶴","kr":"학","level":3,"transcription":"tsuru"}
+{"jp":"頼る","kr":"믿다","level":3,"transcription":"tayoru"}
+{"jp":"鶴","kr":"새우","level":3,"transcription":"tsuru"}
 {"jp":"お疲れ様","kr":"수고하셨습니다","level":1,"transcription":"otsukaresama"}
 {"jp":"ヵ月","kr":"달","level":1,"transcription":"kagetsu"}
 {"jp":"世界一","kr":"세계 제일","level":3,"transcription":"sekaiichi"}
@@ -2098,7 +2098,7 @@
 {"jp":"字幕","kr":"자막","level":3,"transcription":"jimaku"}
 {"jp":"将棋","kr":"장기","level":3,"transcription":"shōgi"}
 {"jp":"カ月","kr":"달","level":1,"transcription":"kagetsu"}
-{"jp":"一種","kr":"일종","level":3,"transcription":"isshu"}
+{"jp":"一種","kr":"종","level":3,"transcription":"isshu"}
 {"jp":"三重","kr":"삼루타","level":2,"transcription":"mie"}
 {"jp":"並","kr":"보통","level":3,"transcription":"nami"}
 {"jp":"並み","kr":"보통","level":3,"transcription":"nami"}
@@ -2247,14 +2247,14 @@
 {"jp":"味噌","kr":"된장","level":2,"transcription":"miso"}
 {"jp":"国産","kr":"국산","level":3,"transcription":"kokusan"}
 {"jp":"婚約","kr":"약혼","level":3,"transcription":"konyaku"}
-{"jp":"寮","kr":"기숙사","level":3,"transcription":"ryō"}
+{"jp":"寮","kr":"숙가","level":3,"transcription":"ryō"}
 {"jp":"年末","kr":"연말","level":2,"transcription":"nenmatsu"}
 {"jp":"幼い","kr":"어린","level":3,"transcription":"osanai"}
 {"jp":"恐らく","kr":"아마도","level":3,"transcription":"osoraku"}
 {"jp":"握る","kr":"잡다","level":2,"transcription":"nigiru"}
 {"jp":"棟","kr":"동","level":3,"transcription":"tō"}
 {"jp":"沿い","kr":"따라","level":3,"transcription":"zoi"}
-{"jp":"洋服","kr":"옷","level":1,"transcription":"yōfuku"}
+{"jp":"洋服","kr":"옷장","level":1,"transcription":"yōfuku"}
 {"jp":"済ます","kr":"완료","level":3,"transcription":"sumasu"}
 {"jp":"眠り","kr":"수면","level":2,"transcription":"nemuri"}
 {"jp":"確かめる","kr":"확인하다","level":2,"transcription":"tashikameru"}
@@ -2307,8 +2307,8 @@
 {"jp":"平野","kr":"평야","level":3,"transcription":"hirano"}
 {"jp":"年上","kr":"노인","level":2,"transcription":"toshiue"}
 {"jp":"承知","kr":"인지","level":3,"transcription":"shōchi"}
-{"jp":"指す","kr":"가리키다","level":2,"transcription":"sasu"}
-{"jp":"映る","kr":"비치다","level":3,"transcription":"Utsuru"}
+{"jp":"指す","kr":"가리다","level":2,"transcription":"sasu"}
+{"jp":"映る","kr":"보임","level":3,"transcription":"Utsuru"}
 {"jp":"暖かい","kr":"따뜻한","level":2,"transcription":"Atatakai"}
 {"jp":"歩行","kr":"보행","level":3,"transcription":"Hokō"}
 {"jp":"泥棒","kr":"도둑","level":3,"transcription":"Dorobō"}
@@ -2319,10 +2319,10 @@
 {"jp":"瓶","kr":"병","level":2,"transcription":"Bin"}
 {"jp":"生き方","kr":"삶의 방식","level":3,"transcription":"Ikikata"}
 {"jp":"社内","kr":"사내","level":3,"transcription":"Shanai"}
-{"jp":"空き","kr":"무료","level":3,"transcription":"Aki"}
+{"jp":"空き","kr":"공기","level":3,"transcription":"Aki"}
 {"jp":"節約","kr":"절약","level":3,"transcription":"Setsuyaku"}
 {"jp":"紅茶","kr":"홍차","level":2,"transcription":"Kōcha"}
-{"jp":"締める","kr":"죄다","level":3,"transcription":"Shimeru"}
+{"jp":"締める","kr":"결함","level":3,"transcription":"Shimeru"}
 {"jp":"育ち","kr":"자라다","level":3,"transcription":"Sodachi"}
 {"jp":"蛇","kr":"뱀","level":3,"transcription":"Hebi"}
 {"jp":"見学","kr":"견학","level":3,"transcription":"Kengaku"}
@@ -2370,11 +2370,11 @@
 {"jp":"フランス語","kr":"프랑스어","level":1,"transcription":"Furansugo"}
 {"jp":"似合う","kr":"어울리다","level":2,"transcription":"niau"}
 {"jp":"先頭","kr":"선두","level":3,"transcription":"sentō"}
-{"jp":"内緒","kr":"비밀","level":3,"transcription":"naisho"}
-{"jp":"刺さる","kr":"찌르다","level":3,"transcription":"sasarū"}
-{"jp":"刺す","kr":"찌르다","level":2,"transcription":"sasu"}
+{"jp":"内緒","kr":"내과","level":3,"transcription":"naisho"}
+{"jp":"刺さる","kr":"날아오르다","level":3,"transcription":"sasarū"}
+{"jp":"刺す","kr":"들이다","level":2,"transcription":"sasu"}
 {"jp":"又","kr":"또","level":2,"transcription":"mata"}
-{"jp":"右側","kr":"오른쪽","level":1,"transcription":"migigawa"}
+{"jp":"右側","kr":"우측","level":1,"transcription":"migigawa"}
 {"jp":"工夫","kr":"고안","level":3,"transcription":"kufū"}
 {"jp":"幾つ","kr":"여러","level":1,"transcription":"ikutsu"}
 {"jp":"忍者","kr":"닌자","level":2,"transcription":"ninja"}
@@ -2465,7 +2465,7 @@
 {"jp":"手伝う","kr":"도움","level":1,"transcription":"tetsudau"}
 {"jp":"抱き","kr":"포옹","level":3,"transcription":"daki"}
 {"jp":"押さえ","kr":"누름","level":3,"transcription":"osae"}
-{"jp":"推し","kr":"추측","level":3,"transcription":"oshi"}
+{"jp":"推し","kr":"추리","level":3,"transcription":"oshi"}
 {"jp":"新曲","kr":"신곡","level":2,"transcription":"shinkyoku"}
 {"jp":"旬","kr":"제철","level":3,"transcription":"shun"}
 {"jp":"来日","kr":"일본","level":3,"transcription":"rainichi"}
@@ -2487,7 +2487,7 @@
 {"jp":"いい加減","kr":"좋은 가감","level":3,"transcription":"iikagen"}
 {"jp":"上海","kr":"상하이","level":1,"transcription":"Shanhai"}
 {"jp":"下半身","kr":"하반신","level":3,"transcription":"kahanshin"}
-{"jp":"中東","kr":"중동","level":3,"transcription":"Chūtō"}
+{"jp":"中東","kr":"동아래","level":3,"transcription":"Chūtō"}
 {"jp":"人前","kr":"사람 앞","level":3,"transcription":"hitomae"}
 {"jp":"任天堂","kr":"닌텐도","level":1,"transcription":"Nintendō"}
 {"jp":"作り方","kr":"만드는 방법","level":2,"transcription":"tsukurikata"}
@@ -2639,32 +2639,32 @@
 {"jp":"人体","kr":"인체","level":3,"transcription":"Jintai"}
 {"jp":"他者","kr":"타인","level":3,"transcription":"Tasha"}
 {"jp":"停電","kr":"정전","level":2,"transcription":"Teiden"}
-{"jp":"先端","kr":"팁","level":3,"transcription":"Sentan"}
+{"jp":"先端","kr":"끝나다","level":3,"transcription":"Sentan"}
 {"jp":"入れ替え","kr":"교체","level":3,"transcription":"Irekae"}
 {"jp":"公衆","kr":"공중","level":3,"transcription":"Kōshū"}
 {"jp":"冷却","kr":"냉각","level":3,"transcription":"Reikyaku"}
 {"jp":"叔父","kr":"삼촌","level":2,"transcription":"Oji"}
-{"jp":"各社","kr":"각 회사","level":3,"transcription":"Kakusha"}
+{"jp":"各社","kr":"각사","level":3,"transcription":"Kakusha"}
 {"jp":"図鑑","kr":"도감","level":3,"transcription":"Zukan"}
-{"jp":"夢見","kr":"유메미","level":3,"transcription":"Yumemi"}
+{"jp":"夢見","kr":"꿈꾸다","level":3,"transcription":"Yumemi"}
 {"jp":"太鼓","kr":"북","level":2,"transcription":"Taiko"}
 {"jp":"失点","kr":"실점","level":3,"transcription":"Shitten"}
 {"jp":"定時","kr":"정시","level":3,"transcription":"Teiji"}
 {"jp":"愚か","kr":"어리석은","level":3,"transcription":"oroka"}
 {"jp":"接する","kr":"접하다","level":3,"transcription":"sessuru"}
-{"jp":"日焼け","kr":"무두질","level":2,"transcription":"hiyake"}
+{"jp":"日焼け","kr":"피부염","level":2,"transcription":"hiyake"}
 {"jp":"未成年","kr":"미성년","level":3,"transcription":"miseinen"}
 {"jp":"染める","kr":"염색하다","level":3,"transcription":"someru"}
 {"jp":"欠ける","kr":"부족하다","level":3,"transcription":"kakeru"}
 {"jp":"沼","kr":"늪","level":3,"transcription":"numa"}
-{"jp":"満たす","kr":"만나다","level":3,"transcription":"mitasu"}
+{"jp":"満たす","kr":"만다","level":3,"transcription":"mitasu"}
 {"jp":"火事","kr":"화재","level":2,"transcription":"kaji"}
-{"jp":"爺","kr":"爺","level":3,"transcription":"jijii"}
-{"jp":"甘える","kr":"달콤한","level":3,"transcription":"amaeru"}
+{"jp":"爺","kr":"삼촌","level":3,"transcription":"jijii"}
+{"jp":"甘える","kr":"달콤하다","level":3,"transcription":"amaeru"}
 {"jp":"翌","kr":"다음","level":3,"transcription":"yoku"}
 {"jp":"芋","kr":"고구마","level":2,"transcription":"imo"}
 {"jp":"貯める","kr":"모으다","level":2,"transcription":"tameru"}
-{"jp":"返る","kr":"반환","level":2,"transcription":"kaeru"}
+{"jp":"返る","kr":"환기","level":2,"transcription":"kaeru"}
 {"jp":"退治","kr":"퇴치","level":3,"transcription":"taiji"}
 {"jp":"適する","kr":"적합하다","level":3,"transcription":"tekisuru"}
 {"jp":"野外","kr":"야외","level":3,"transcription":"yagai"}
@@ -2757,26 +2757,26 @@
 {"jp":"担任","kr":"담임","level":3,"transcription":"tannin"}
 {"jp":"数量","kr":"수량","level":3,"transcription":"sūryō"}
 {"jp":"歯医者","kr":"치과 의사","level":2,"transcription":"haisha"}
-{"jp":"水平","kr":"수평","level":3,"transcription":"suihei"}
-{"jp":"直ぐ","kr":"즉시","level":1,"transcription":"sugu"}
+{"jp":"水平","kr":"평평","level":3,"transcription":"suihei"}
+{"jp":"直ぐ","kr":"직접","level":1,"transcription":"sugu"}
 {"jp":"真夏","kr":"한여름","level":3,"transcription":"manatsu"}
 {"jp":"移る","kr":"이동","level":2,"transcription":"utsuru"}
 {"jp":"筒","kr":"원통","level":3,"transcription":"tsutsu"}
-{"jp":"納豆","kr":"낫토","level":2,"transcription":"nattō"}
+{"jp":"納豆","kr":"나도","level":2,"transcription":"nattō"}
 {"jp":"終","kr":"끝","level":3,"transcription":"owari"}
 {"jp":"肝","kr":"간","level":3,"transcription":"kimo"}
-{"jp":"袖","kr":"소매","level":3,"transcription":"sode"}
-{"jp":"謝る","kr":"사과하다","level":2,"transcription":"ayamaru"}
+{"jp":"袖","kr":"팔","level":3,"transcription":"sode"}
+{"jp":"謝る","kr":"감사하다","level":2,"transcription":"ayamaru"}
 {"jp":"錠","kr":"자물쇠","level":3,"transcription":"jō"}
 {"jp":"青空","kr":"푸른 하늘","level":2,"transcription":"aozora"}
 {"jp":"預ける","kr":"맡기다","level":2,"transcription":"azukeru"}
 {"jp":"あっという間に","kr":"순식간에","level":3,"transcription":"attoiumani"}
 {"jp":"お家","kr":"집","level":1,"transcription":"ouchi"}
-{"jp":"休める","kr":"쉬다","level":2,"transcription":"yasumeru"}
-{"jp":"冷める","kr":"식히다","level":3,"transcription":"sameru"}
+{"jp":"休める","kr":"휴대하다","level":2,"transcription":"yasumeru"}
+{"jp":"冷める","kr":"얼어다","level":3,"transcription":"sameru"}
 {"jp":"合唱","kr":"합창","level":3,"transcription":"gasshō"}
 {"jp":"多め","kr":"많다","level":3,"transcription":"ōme"}
-{"jp":"導く","kr":"지도","level":3,"transcription":"michibiku"}
+{"jp":"導く","kr":"지도하다","level":3,"transcription":"michibiku"}
 {"jp":"常連","kr":"단골","level":3,"transcription":"jōren"}
 {"jp":"悲鳴","kr":"비명","level":3,"transcription":"himei"}
 {"jp":"意欲","kr":"의욕","level":3,"transcription":"iyoku"}
@@ -2784,24 +2784,24 @@
 {"jp":"横断","kr":"횡단","level":3,"transcription":"ōdan"}
 {"jp":"毎朝","kr":"매일 아침","level":1,"transcription":"maiasa"}
 {"jp":"狐","kr":"여우","level":2,"transcription":"kitsune"}
-{"jp":"甥","kr":"조카","level":3,"transcription":"oi"}
+{"jp":"甥","kr":"외동","level":3,"transcription":"oi"}
 {"jp":"直線","kr":"직선","level":3,"transcription":"chokusen"}
 {"jp":"経費","kr":"경비","level":3,"transcription":"keihi"}
 {"jp":"結び","kr":"매듭","level":3,"transcription":"musubi"}
-{"jp":"繋ぐ","kr":"연결하다","level":3,"transcription":"tsunagu"}
+{"jp":"繋ぐ","kr":"결합하다","level":3,"transcription":"tsunagu"}
 {"jp":"群れ","kr":"무리","level":3,"transcription":"mure"}
-{"jp":"藍","kr":"남","level":3,"transcription":"ai"}
+{"jp":"藍","kr":"아름다움","level":3,"transcription":"ai"}
 {"jp":"講習","kr":"강습","level":3,"transcription":"kōshū"}
-{"jp":"足す","kr":"더하다","level":2,"transcription":"tasu"}
+{"jp":"足す","kr":"더하기","level":2,"transcription":"tasu"}
 {"jp":"返金","kr":"환불","level":3,"transcription":"henkin"}
 {"jp":"間もなく","kr":"곧","level":2,"transcription":"mamonaku"}
 {"jp":"院長","kr":"원장","level":3,"transcription":"inchō"}
 {"jp":"預金","kr":"예금","level":3,"transcription":"yokin"}
 {"jp":"食物","kr":"음식","level":3,"transcription":"shokumotsu"}
 {"jp":"香水","kr":"향수","level":3,"transcription":"kōsui"}
-{"jp":"騒ぐ","kr":"시끄러운","level":2,"transcription":"sawagu"}
+{"jp":"騒ぐ","kr":"시끄러울 때","level":2,"transcription":"sawagu"}
 {"jp":"下旬","kr":"하순","level":3,"transcription":"gejun"}
-{"jp":"伺う","kr":"묻다","level":3,"transcription":"ukagau"}
+{"jp":"伺う","kr":"보다","level":3,"transcription":"ukagau"}
 {"jp":"何だ","kr":"뭐야","level":1,"transcription":"nanda"}
 {"jp":"国道","kr":"국도","level":3,"transcription":"kokudō"}
 {"jp":"実物","kr":"실물","level":3,"transcription":"jitsubutsu"}
@@ -2824,13 +2824,13 @@
 {"jp":"象","kr":"코끼리","level":2,"transcription":"zō"}
 {"jp":"部員","kr":"부원","level":3,"transcription":"buin"}
 {"jp":"黄色い","kr":"노란색","level":1,"transcription":"kiiroi"}
-{"jp":"下さる","kr":"내리다","level":3,"transcription":"kudasaru"}
+{"jp":"下さる","kr":"내려다","level":3,"transcription":"kudasaru"}
 {"jp":"会館","kr":"회관","level":3,"transcription":"kaikan"}
 {"jp":"入試","kr":"입시","level":3,"transcription":"nyūshi"}
 {"jp":"団長","kr":"단장","level":3,"transcription":"danchō"}
 {"jp":"大人しい","kr":"성인","level":2,"transcription":"otonashii"}
 {"jp":"太もも","kr":"허벅지","level":2,"transcription":"futomomo"}
-{"jp":"好く","kr":"선호","level":3,"transcription":"suku"}
+{"jp":"好く","kr":"좋다","level":3,"transcription":"suku"}
 {"jp":"尋ねる","kr":"묻다","level":2,"transcription":"tazuneru"}
 {"jp":"小島","kr":"코지마","level":3,"transcription":"kojima"}
 {"jp":"手首","kr":"손목","level":2,"transcription":"tekubi"}
@@ -2907,8 +2907,8 @@
 {"jp":"留学生","kr":"유학생","level":2,"transcription":"ryūgakusei"}
 {"jp":"登校","kr":"등교","level":2,"transcription":"tōkō"}
 {"jp":"知らせる","kr":"알리다","level":1,"transcription":"shiraseru"}
-{"jp":"苦情","kr":"불만","level":3,"transcription":"kujō"}
-{"jp":"落ち着き","kr":"진정","level":3,"transcription":"ochitsuki"}
+{"jp":"苦情","kr":"불만족하다","level":3,"transcription":"kujō"}
+{"jp":"落ち着き","kr":"안정성","level":3,"transcription":"ochitsuki"}
 {"jp":"診る","kr":"진찰","level":3,"transcription":"miru"}
 {"jp":"譲る","kr":"양보하다","level":3,"transcription":"yuzuru"}
 {"jp":"遭う","kr":"만나다","level":3,"transcription":"au"}
@@ -2940,7 +2940,7 @@
 {"jp":"頬","kr":"뺨","level":2,"transcription":"hoho"}
 {"jp":"お祈り","kr":"기도","level":2,"transcription":"oinori"}
 {"jp":"ゴミ箱","kr":"쓰레기통","level":1,"transcription":"gomibako"}
-{"jp":"上空","kr":"상공","level":3,"transcription":"jōkū"}
+{"jp":"上空","kr":"공상","level":3,"transcription":"jōkū"}
 {"jp":"冠","kr":"왕관","level":3,"transcription":"kanmuri"}
 {"jp":"判る","kr":"알다","level":1,"transcription":"wakaru"}
 {"jp":"前期","kr":"전기","level":3,"transcription":"zenki"}
@@ -2998,8 +2998,8 @@
 {"jp":"次郎","kr":"지로","level":1,"transcription":"Jirō"}
 {"jp":"水中","kr":"수중","level":3,"transcription":"suichū"}
 {"jp":"水族館","kr":"수족관","level":2,"transcription":"suizokukan"}
-{"jp":"浮く","kr":"뜨다","level":2,"transcription":"uku"}
-{"jp":"満員","kr":"만원","level":3,"transcription":"man'in"}
+{"jp":"浮く","kr":"타다","level":2,"transcription":"uku"}
+{"jp":"満員","kr":"모이게 된 상태","level":3,"transcription":"man'in"}
 {"jp":"画家","kr":"화가","level":3,"transcription":"gaka"}
 {"jp":"硬い","kr":"딱딱한","level":2,"transcription":"katai"}
 {"jp":"絞る","kr":"짜다","level":3,"transcription":"shiboru"}
@@ -3008,7 +3008,7 @@
 {"jp":"覆う","kr":"덮다","level":3,"transcription":"ōu"}
 {"jp":"調節","kr":"조정","level":3,"transcription":"chōsetsu"}
 {"jp":"貧しい","kr":"가난한","level":3,"transcription":"mazushii"}
-{"jp":"貧乏","kr":"가난","level":3,"transcription":"binbō"}
+{"jp":"貧乏","kr":"가난한","level":3,"transcription":"binbō"}
 {"jp":"雇う","kr":"고용하다","level":3,"transcription":"yatou"}
 {"jp":"風船","kr":"풍선","level":2,"transcription":"fūsen"}
 {"jp":"ヶ所","kr":"곳","level":3,"transcription":"kasho"}
@@ -3019,14 +3019,14 @@
 {"jp":"喫茶","kr":"카페","level":3,"transcription":"kissa"}
 {"jp":"夜明け","kr":"새벽","level":3,"transcription":"yoake"}
 {"jp":"大根","kr":"무","level":2,"transcription":"daikon"}
-{"jp":"大騒ぎ","kr":"소란","level":3,"transcription":"ōsawagi"}
+{"jp":"大騒ぎ","kr":"소란한 상태","level":3,"transcription":"ōsawagi"}
 {"jp":"姪","kr":"조카","level":3,"transcription":"mei"}
 {"jp":"屋台","kr":"포장마차","level":3,"transcription":"yatai"}
 {"jp":"峰","kr":"미네","level":3,"transcription":"mine"}
 {"jp":"年下","kr":"연하","level":3,"transcription":"toshishita"}
 {"jp":"引越し","kr":"이사","level":2,"transcription":"hikkoshi"}
 {"jp":"愚痴","kr":"어리석은","level":3,"transcription":"guchi"}
-{"jp":"懐","kr":"회의","level":3,"transcription":"futokoro"}
+{"jp":"懐","kr":"회상","level":3,"transcription":"futokoro"}
 {"jp":"探検","kr":"탐험","level":3,"transcription":"tanken"}
 {"jp":"日数","kr":"일수","level":3,"transcription":"nissū"}
 {"jp":"東南アジア","kr":"동남아시아","level":3,"transcription":"Tōnan Ajia"}
@@ -3064,7 +3064,7 @@
 {"jp":"裏側","kr":"뒷면","level":3,"transcription":"uragawa"}
 {"jp":"赤色","kr":"빨간색","level":1,"transcription":"sekishoku"}
 {"jp":"運賃","kr":"운임","level":3,"transcription":"unchin"}
-{"jp":"お迎え","kr":"픽업","level":3,"transcription":"omukae"}
+{"jp":"お迎え","kr":"오래차","level":3,"transcription":"omukae"}
 {"jp":"中年","kr":"중년","level":3,"transcription":"chūnen"}
 {"jp":"別荘","kr":"펜션","level":3,"transcription":"bessō"}
 {"jp":"原宿","kr":"하라주쿠","level":2,"transcription":"Harajuku"}
@@ -3243,14 +3243,14 @@
 {"jp":"年中","kr":"연중","level":3,"transcription":"nenjū"}
 {"jp":"手のひら","kr":"손바닥","level":3,"transcription":"tenohira"}
 {"jp":"打ち合わせ","kr":"회의","level":3,"transcription":"uchiawase"}
-{"jp":"支度","kr":"지도","level":3,"transcription":"shitaku"}
+{"jp":"支度","kr":"준비","level":3,"transcription":"shitaku"}
 {"jp":"暦","kr":"달력","level":3,"transcription":"koyomi"}
 {"jp":"最短","kr":"최단","level":3,"transcription":"saitan"}
 {"jp":"月間","kr":"월간","level":3,"transcription":"gekkan"}
 {"jp":"枯れる","kr":"시들다","level":3,"transcription":"kareru"}
-{"jp":"泊まる","kr":"묵다","level":2,"transcription":"tomaru"}
+{"jp":"泊まる","kr":"숙면","level":2,"transcription":"tomaru"}
 {"jp":"消毒","kr":"소독","level":3,"transcription":"shōdoku"}
-{"jp":"清潔","kr":"깨끗한","level":3,"transcription":"seiketsu"}
+{"jp":"清潔","kr":"청결","level":3,"transcription":"seiketsu"}
 {"jp":"漁師","kr":"어부","level":3,"transcription":"ryōshi"}
 {"jp":"球場","kr":"야구장","level":3,"transcription":"kyūjō"}
 {"jp":"眉","kr":"눈썹","level":2,"transcription":"mayu"}
@@ -3261,7 +3261,7 @@
 {"jp":"語彙","kr":"어휘","level":3,"transcription":"goi"}
 {"jp":"退場","kr":"퇴장","level":3,"transcription":"taijō"}
 {"jp":"運送","kr":"운송","level":3,"transcription":"unsō"}
-{"jp":"飛び込む","kr":"다이빙","level":2,"transcription":"tobikomu"}
+{"jp":"飛び込む","kr":"잠들다","level":2,"transcription":"tobikomu"}
 {"jp":"お嬢さん","kr":"아가씨","level":3,"transcription":"ojōsan"}
 {"jp":"乗り物","kr":"차량","level":1,"transcription":"norimono"}
 {"jp":"傷つく","kr":"다치다","level":3,"transcription":"kizutsuku"}
@@ -3294,7 +3294,7 @@
 {"jp":"今晩","kr":"오늘밤","level":1,"transcription":"konban"}
 {"jp":"住まい","kr":"거주","level":3,"transcription":"sumai"}
 {"jp":"南米","kr":"남미","level":2,"transcription":"Nanbei"}
-{"jp":"只","kr":"只","level":3,"transcription":"tada"}
+{"jp":"只","kr":"그만","level":3,"transcription":"tada"}
 {"jp":"同窓会","kr":"동창회","level":3,"transcription":"dōsōkai"}
 {"jp":"向ける","kr":"조준하다","level":2,"transcription":"mukeru"}
 {"jp":"咳","kr":"기침","level":2,"transcription":"seki"}
@@ -3330,7 +3330,7 @@
 {"jp":"値上げ","kr":"가격 인상","level":3,"transcription":"Neage"}
 {"jp":"卒業生","kr":"졸업생","level":3,"transcription":"Sotsugyōsei"}
 {"jp":"南北","kr":"남북","level":3,"transcription":"Nanboku"}
-{"jp":"台無し","kr":"망치다","level":3,"transcription":"dainashi"}
+{"jp":"台無し","kr":"말이 안 되다","level":3,"transcription":"dainashi"}
 {"jp":"和風","kr":"일본식","level":3,"transcription":"wafū"}
 {"jp":"境","kr":"경계","level":3,"transcription":"sakai"}
 {"jp":"封筒","kr":"봉투","level":2,"transcription":"fūtō"}
@@ -3342,7 +3342,7 @@
 {"jp":"敗れる","kr":"패배하다","level":3,"transcription":"yabureru"}
 {"jp":"旨い","kr":"맛있는","level":2,"transcription":"umai"}
 {"jp":"柿","kr":"감","level":2,"transcription":"kaki"}
-{"jp":"深める","kr":"깊은","level":3,"transcription":"fukameru"}
+{"jp":"深める","kr":"깊게 하다","level":3,"transcription":"fukameru"}
 {"jp":"無難","kr":"무난","level":3,"transcription":"bunan"}
 {"jp":"牛肉","kr":"쇠고기","level":2,"transcription":"gyūniku"}
 {"jp":"獲る","kr":"잡다","level":3,"transcription":"eru"}
@@ -3419,20 +3419,20 @@
 {"jp":"山中","kr":"야마나카","level":3,"transcription":"yamanaka"}
 {"jp":"平凡","kr":"평범한","level":3,"transcription":"heibon"}
 {"jp":"引っかかる","kr":"잡아당기다","level":3,"transcription":"hikkakaru"}
-{"jp":"快速","kr":"쾌속","level":2,"transcription":"kaisoku"}
+{"jp":"快速","kr":"빠른","level":2,"transcription":"kaisoku"}
 {"jp":"悪人","kr":"악인","level":3,"transcription":"akunin"}
 {"jp":"手助け","kr":"도움","level":3,"transcription":"tedasuke"}
-{"jp":"教科","kr":"교과","level":2,"transcription":"kyōka"}
-{"jp":"早起き","kr":"일찍 일어나","level":2,"transcription":"hayaoki"}
+{"jp":"教科","kr":"교과서","level":2,"transcription":"kyōka"}
+{"jp":"早起き","kr":"일찍 일어나다","level":2,"transcription":"hayaoki"}
 {"jp":"星座","kr":"별자리","level":3,"transcription":"seiza"}
 {"jp":"曲がる","kr":"구부리다","level":1,"transcription":"magaru"}
-{"jp":"有給","kr":"유급","level":3,"transcription":"yūkyū"}
+{"jp":"有給","kr":"유급제","level":3,"transcription":"yūkyū"}
 {"jp":"本場","kr":"본고장","level":3,"transcription":"honba"}
-{"jp":"氏名","kr":"성명","level":2,"transcription":"shimei"}
+{"jp":"氏名","kr":"성명서","level":2,"transcription":"shimei"}
 {"jp":"泳ぐ","kr":"수영","level":1,"transcription":"oyogu"}
-{"jp":"渚","kr":"渚","level":3,"transcription":"nagisa"}
+{"jp":"渚","kr":"돌","level":3,"transcription":"nagisa"}
 {"jp":"溜める","kr":"모으다","level":3,"transcription":"tameru"}
-{"jp":"滑る","kr":"미끄러짐","level":2,"transcription":"suberu"}
+{"jp":"滑る","kr":"미끄러지다","level":2,"transcription":"suberu"}
 {"jp":"瀧","kr":"타키","level":3,"transcription":"taki"}
 {"jp":"男児","kr":"남아","level":3,"transcription":"danji"}
 {"jp":"盗難","kr":"도난","level":3,"transcription":"tōnan"}
@@ -3440,10 +3440,10 @@
 {"jp":"福袋","kr":"복주머니","level":3,"transcription":"fukubukuro"}
 {"jp":"空ける","kr":"비우다","level":2,"transcription":"akeru"}
 {"jp":"翌年","kr":"다음해","level":3,"transcription":"yokunen"}
-{"jp":"衣服","kr":"옷","level":3,"transcription":"ifuku"}
+{"jp":"衣服","kr":"옷차림","level":3,"transcription":"ifuku"}
 {"jp":"貸切","kr":"전세","level":3,"transcription":"kashikiri"}
 {"jp":"鉛筆","kr":"연필","level":1,"transcription":"enpitsu"}
-{"jp":"震える","kr":"떨림","level":3,"transcription":"furueru"}
+{"jp":"震える","kr":"떨어지다","level":3,"transcription":"furueru"}
 {"jp":"三振","kr":"삼진","level":3,"transcription":"sanshin"}
 {"jp":"乗り込む","kr":"타다","level":3,"transcription":"norikomu"}
 {"jp":"今期","kr":"금기","level":3,"transcription":"konki"}
@@ -3524,7 +3524,7 @@
 {"jp":"学級","kr":"학급","level":2,"transcription":"gakkyū"}
 {"jp":"学長","kr":"학장","level":3,"transcription":"gakuchō"}
 {"jp":"家屋","kr":"주택","level":3,"transcription":"kaoku"}
-{"jp":"屁","kr":"屁","level":3,"transcription":"he"}
+{"jp":"屁","kr":"배설물","level":3,"transcription":"he"}
 {"jp":"幼馴染","kr":"소꿉친구","level":3,"transcription":"osananajimi"}
 {"jp":"幾ら","kr":"얼마","level":1,"transcription":"ikura"}
 {"jp":"成る","kr":"구성하다","level":1,"transcription":"naru"}
@@ -3544,7 +3544,7 @@
 {"jp":"列島","kr":"열도","level":3,"transcription":"rettō"}
 {"jp":"名人","kr":"명인","level":3,"transcription":"meijin"}
 {"jp":"名字","kr":"이름","level":2,"transcription":"myōji"}
-{"jp":"和菓子","kr":"일본식 과자","level":2,"transcription":"wagashi"}
+{"jp":"和菓子","kr":"과자","level":2,"transcription":"wagashi"}
 {"jp":"売り場","kr":"판매장","level":2,"transcription":"uriba"}
 {"jp":"帰省","kr":"귀성","level":3,"transcription":"kisei"}
 {"jp":"度々","kr":"종종","level":3,"transcription":"tabitabi"}
@@ -3600,10 +3600,10 @@
 {"jp":"隣人","kr":"이웃","level":3,"transcription":"rinjin"}
 {"jp":"音質","kr":"음질","level":3,"transcription":"onshitsu"}
 {"jp":"鶏肉","kr":"닭고기","level":2,"transcription":"toriniku"}
-{"jp":"お答え","kr":"대답","level":3,"transcription":"okotae"}
+{"jp":"お答え","kr":"답변","level":3,"transcription":"okotae"}
 {"jp":"ご存じ","kr":"알다시피","level":3,"transcription":"gozonji"}
-{"jp":"不定期","kr":"부정기","level":3,"transcription":"futeiki"}
-{"jp":"交わす","kr":"소통하다","level":3,"transcription":"kawasu"}
+{"jp":"不定期","kr":"불규칙한","level":3,"transcription":"futeiki"}
+{"jp":"交わす","kr":"교수하다","level":3,"transcription":"kawasu"}
 {"jp":"人魚","kr":"인어","level":3,"transcription":"ningyo"}
 {"jp":"作文","kr":"작문","level":2,"transcription":"sakubun"}
 {"jp":"作物","kr":"작물","level":3,"transcription":"sakumotsu"}
@@ -3612,7 +3612,7 @@
 {"jp":"大工","kr":"목수","level":2,"transcription":"daiku"}
 {"jp":"実名","kr":"실명","level":3,"transcription":"jitsumei"}
 {"jp":"恵み","kr":"은혜","level":3,"transcription":"megumi"}
-{"jp":"掲示","kr":"게시","level":3,"transcription":"keiji"}
+{"jp":"掲示","kr":"게시판","level":3,"transcription":"keiji"}
 {"jp":"支払","kr":"지불","level":2,"transcription":"shiharai"}
 {"jp":"明後日","kr":"내일","level":1,"transcription":"asatte"}
 {"jp":"服用","kr":"복용","level":3,"transcription":"fukuyō"}
@@ -3636,19 +3636,19 @@
 {"jp":"離陸","kr":"이륙","level":2,"transcription":"ririku"}
 {"jp":"食い物","kr":"음식","level":3,"transcription":"kuimono"}
 {"jp":"首輪","kr":"목걸이","level":2,"transcription":"kubiwa"}
-{"jp":"お過ごし","kr":"보내는","level":3,"transcription":"osugoshi"}
-{"jp":"テレ朝","kr":"텔레 아침","level":3,"transcription":"Tere Asa"}
+{"jp":"お過ごし","kr":"보내다","level":3,"transcription":"osugoshi"}
+{"jp":"テレ朝","kr":"텔레비전","level":3,"transcription":"Tere Asa"}
 {"jp":"一昨日","kr":"어제","level":1,"transcription":"ototoi"}
 {"jp":"中期","kr":"중기","level":3,"transcription":"chūki"}
 {"jp":"串","kr":"꼬치","level":2,"transcription":"kushi"}
-{"jp":"丸見え","kr":"둥근 모양","level":3,"transcription":"marumie"}
+{"jp":"丸見え","kr":"모양이 보이지 않음","level":3,"transcription":"marumie"}
 {"jp":"代用","kr":"대용","level":3,"transcription":"daiyō"}
 {"jp":"使い道","kr":"용도","level":3,"transcription":"tsukaimichi"}
 {"jp":"値引き","kr":"할인","level":2,"transcription":"nebiki"}
-{"jp":"全文","kr":"전문","level":3,"transcription":"zenbun"}
+{"jp":"全文","kr":"전체","level":3,"transcription":"zenbun"}
 {"jp":"分担","kr":"분담","level":3,"transcription":"buntan"}
 {"jp":"剣道","kr":"검도","level":2,"transcription":"kendō"}
-{"jp":"励ます","kr":"격려하다","level":3,"transcription":"hagemasu"}
+{"jp":"励ます","kr":"부려다","level":3,"transcription":"hagemasu"}
 {"jp":"収まる","kr":"맞다","level":3,"transcription":"osamaru"}
 {"jp":"囲碁","kr":"바둑","level":2,"transcription":"igo"}
 {"jp":"大げさ","kr":"엄청난","level":3,"transcription":"ōgesa"}
@@ -3717,22 +3717,22 @@
 {"jp":"胴","kr":"몸통","level":3,"transcription":"dō"}
 {"jp":"自販機","kr":"자판기","level":2,"transcription":"jihanki"}
 {"jp":"苦しめる","kr":"괴롭히다","level":3,"transcription":"kurushimeru"}
-{"jp":"落ち着ける","kr":"진정하다","level":3,"transcription":"ochitsukeru"}
-{"jp":"蒸す","kr":"찐","level":3,"transcription":"musu"}
-{"jp":"跳ねる","kr":"튀는","level":3,"transcription":"haneru"}
+{"jp":"落ち着ける","kr":"안정하다","level":3,"transcription":"ochitsukeru"}
+{"jp":"蒸す","kr":"끓이다","level":3,"transcription":"musu"}
+{"jp":"跳ねる","kr":"뛰다","level":3,"transcription":"haneru"}
 {"jp":"返品","kr":"반품","level":3,"transcription":"henpin"}
-{"jp":"過ごせる","kr":"보낼 수 있다","level":2,"transcription":"sugoseru"}
-{"jp":"釣れる","kr":"낚시","level":3,"transcription":"tsureru"}
+{"jp":"過ごせる","kr":"가져갈 수 있다","level":2,"transcription":"sugoseru"}
+{"jp":"釣れる","kr":"낚시하다","level":3,"transcription":"tsureru"}
 {"jp":"長所","kr":"장점","level":3,"transcription":"chōsho"}
 {"jp":"預かる","kr":"맡기다","level":3,"transcription":"azukaru"}
 {"jp":"一同","kr":"일동","level":3,"transcription":"ichidō"}
 {"jp":"中でも","kr":"그 중에서도","level":3,"transcription":"nakademo"}
 {"jp":"儲かる","kr":"돈을 벌다","level":3,"transcription":"mōkaru"}
-{"jp":"光線","kr":"광선","level":3,"transcription":"kōsen"}
+{"jp":"光線","kr":"빛","level":3,"transcription":"kōsen"}
 {"jp":"包み","kr":"포장","level":2,"transcription":"tsutsumi"}
-{"jp":"医院","kr":"진료소","level":3,"transcription":"iin"}
+{"jp":"医院","kr":"병원","level":3,"transcription":"iin"}
 {"jp":"吹雪","kr":"눈보라","level":3,"transcription":"fubuki"}
-{"jp":"国々","kr":"국가","level":3,"transcription":"kuniguni"}
+{"jp":"国々","kr":"국가들","level":3,"transcription":"kuniguni"}
 {"jp":"打者","kr":"타자","level":3,"transcription":"dasha"}
 {"jp":"抱っこ","kr":"포옹","level":2,"transcription":"dakko"}
 {"jp":"新居","kr":"신주","level":3,"transcription":"shinkyo"}
@@ -3743,7 +3743,7 @@
 {"jp":"東口","kr":"동쪽 출구","level":1,"transcription":"Higashiguchi"}
 {"jp":"泊まり","kr":"숙박","level":2,"transcription":"Tomari"}
 {"jp":"海老","kr":"새우","level":1,"transcription":"Ebi"}
-{"jp":"海苔","kr":"김","level":1,"transcription":"Nori"}
+{"jp":"海苔","kr":"김치","level":1,"transcription":"Nori"}
 {"jp":"滴","kr":"방울","level":3,"transcription":"Shizuku"}
 {"jp":"片付ける","kr":"정리하다","level":1,"transcription":"Katazukeru"}
 {"jp":"片隅","kr":"한쪽 구석","level":3,"transcription":"Katasumi"}
@@ -3778,33 +3778,33 @@
 {"jp":"時代遅れ","kr":"시대 지연","level":3,"transcription":"jidaiokure"}
 {"jp":"校舎","kr":"학교 건물","level":2,"transcription":"kōsha"}
 {"jp":"泣ける","kr":"울다","level":3,"transcription":"nakeru"}
-{"jp":"洋楽","kr":"서양","level":3,"transcription":"yōgaku"}
-{"jp":"滅茶苦茶","kr":"멸차 고차","level":3,"transcription":"mechakucha"}
+{"jp":"洋楽","kr":"서양음악","level":3,"transcription":"yōgaku"}
+{"jp":"滅茶苦茶","kr":"무가미치","level":3,"transcription":"mechakucha"}
 {"jp":"牡蠣","kr":"굴","level":3,"transcription":"kaki"}
 {"jp":"特大","kr":"특대","level":3,"transcription":"tokudai"}
 {"jp":"生意気","kr":"건방진","level":3,"transcription":"namaiki"}
-{"jp":"社名","kr":"회 사 명","level":3,"transcription":"shamei"}
+{"jp":"社名","kr":"회사명","level":3,"transcription":"shamei"}
 {"jp":"童話","kr":"동화","level":3,"transcription":"dōwa"}
 {"jp":"蛍","kr":"반딧불","level":3,"transcription":"hotaru"}
-{"jp":"話し方","kr":"말하는 법","level":3,"transcription":"hanashikata"}
+{"jp":"話し方","kr":"말하는법","level":3,"transcription":"hanashikata"}
 {"jp":"路地","kr":"골목","level":3,"transcription":"roji"}
 {"jp":"開会","kr":"개회","level":3,"transcription":"kaikai"}
 {"jp":"一式","kr":"일식","level":3,"transcription":"isshiki"}
 {"jp":"下車","kr":"하차","level":2,"transcription":"gesha"}
 {"jp":"人参","kr":"인삼","level":2,"transcription":"ninjin"}
 {"jp":"例える","kr":"비유하다","level":3,"transcription":"tatoeru"}
-{"jp":"価","kr":"가격","level":3,"transcription":"ka"}
-{"jp":"俳句","kr":"하이쿠","level":3,"transcription":"haiku"}
-{"jp":"凍る","kr":"얼음","level":2,"transcription":"kōru"}
+{"jp":"価","kr":"가치","level":3,"transcription":"ka"}
+{"jp":"俳句","kr":"хай쿠","level":3,"transcription":"haiku"}
+{"jp":"凍る","kr":"얼어다","level":2,"transcription":"kōru"}
 {"jp":"出題","kr":"출제","level":3,"transcription":"shutsudai"}
 {"jp":"同点","kr":"동점","level":3,"transcription":"dōten"}
 {"jp":"土台","kr":"토대","level":3,"transcription":"dodai"}
 {"jp":"塀","kr":"담","level":2,"transcription":"hei"}
-{"jp":"夏場","kr":"여름","level":3,"transcription":"natsuba"}
+{"jp":"夏場","kr":"여름장","level":3,"transcription":"natsuba"}
 {"jp":"女房","kr":"여방","level":3,"transcription":"nyōbō"}
 {"jp":"寝かせる","kr":"잠을 자다","level":2,"transcription":"nekaseru"}
 {"jp":"少量","kr":"소량","level":3,"transcription":"shōryō"}
-{"jp":"市街","kr":"도시","level":3,"transcription":"shigai"}
+{"jp":"市街","kr":"도시부근","level":3,"transcription":"shigai"}
 {"jp":"思いつき","kr":"추억","level":3,"transcription":"omoitsuki"}
 {"jp":"愛しい","kr":"사랑스러운","level":3,"transcription":"itoshī"}
 {"jp":"愛称","kr":"애칭","level":3,"transcription":"aishō"}
@@ -3836,9 +3836,9 @@
 {"jp":"会計士","kr":"회계사","level":3,"transcription":"kaikeishi"}
 {"jp":"南極","kr":"남극","level":3,"transcription":"nankyoku"}
 {"jp":"取り扱う","kr":"취급하다","level":3,"transcription":"toriatsukau"}
-{"jp":"取り込む","kr":"캡처","level":3,"transcription":"torikomu"}
+{"jp":"取り込む","kr":"포기하다","level":3,"transcription":"torikomu"}
 {"jp":"客席","kr":"객석","level":3,"transcription":"kyakuseki"}
-{"jp":"小麦","kr":"밀","level":3,"transcription":"komugi"}
+{"jp":"小麦","kr":"밀가루","level":3,"transcription":"komugi"}
 {"jp":"小麦粉","kr":"밀가루","level":3,"transcription":"komugiko"}
 {"jp":"幼なじみ","kr":"소꿉친구","level":3,"transcription":"osananajimi"}
 {"jp":"早稲田","kr":"와세다","level":3,"transcription":"Waseda"}
@@ -3869,7 +3869,7 @@
 {"jp":"一帯","kr":"일대","level":3,"transcription":"ittai"}
 {"jp":"円形","kr":"원형","level":3,"transcription":"enkei"}
 {"jp":"出費","kr":"지출","level":3,"transcription":"shuppi"}
-{"jp":"利く","kr":"편하다","level":3,"transcription":"kiku"}
+{"jp":"利く","kr":"익다","level":3,"transcription":"kiku"}
 {"jp":"勘定","kr":"계정","level":3,"transcription":"kanjō"}
 {"jp":"四つ","kr":"네","level":1,"transcription":"yottsu"}
 {"jp":"失恋","kr":"실연","level":3,"transcription":"shitsuren"}
@@ -3877,7 +3877,7 @@
 {"jp":"敬語","kr":"존경","level":3,"transcription":"keigo"}
 {"jp":"方程式","kr":"방정식","level":3,"transcription":"hōteishiki"}
 {"jp":"昼休み","kr":"점심시간","level":2,"transcription":"hiruyasumi"}
-{"jp":"暇つぶし","kr":"여가 부수다","level":3,"transcription":"himatsubushi"}
+{"jp":"暇つぶし","kr":"여가부수다","level":3,"transcription":"himatsubushi"}
 {"jp":"杜","kr":"모리","level":3,"transcription":"mori"}
 {"jp":"模範","kr":"모범","level":3,"transcription":"mohan"}
 {"jp":"漁","kr":"낚시","level":3,"transcription":"ryō"}
@@ -3898,7 +3898,7 @@
 {"jp":"音色","kr":"음색","level":3,"transcription":"neiro"}
 {"jp":"食卓","kr":"식탁","level":2,"transcription":"shokutaku"}
 {"jp":"食生活","kr":"식생활","level":3,"transcription":"shokuseikatsu"}
-{"jp":"鴨","kr":"오리","level":3,"transcription":"kamo"}
+{"jp":"鴨","kr":"닭","level":3,"transcription":"kamo"}
 {"jp":"お仕置き","kr":"처벌","level":3,"transcription":"oshioki"}
 {"jp":"たどり着く","kr":"도착하다","level":3,"transcription":"tadoritsuku"}
 {"jp":"下町","kr":"시모마치","level":3,"transcription":"shitamachi"}
@@ -3919,7 +3919,7 @@
 {"jp":"腹部","kr":"복부","level":3,"transcription":"fukubu"}
 {"jp":"茎","kr":"줄기","level":3,"transcription":"kuki"}
 {"jp":"見慣れ","kr":"익숙한","level":3,"transcription":"minare"}
-{"jp":"見送り","kr":"배송","level":3,"transcription":"miokuri"}
+{"jp":"見送り","kr":"보내다","level":3,"transcription":"miokuri"}
 {"jp":"軍艦","kr":"군함","level":3,"transcription":"gunkan"}
 {"jp":"農地","kr":"농지","level":3,"transcription":"nōchi"}
 {"jp":"重み","kr":"무게","level":3,"transcription":"omomi"}
@@ -3988,7 +3988,7 @@
 {"jp":"現す","kr":"표현하다","level":3,"transcription":"Arawasu"}
 {"jp":"白紙","kr":"빈 종이","level":3,"transcription":"Hakushi"}
 {"jp":"目印","kr":"장소표시","level":2,"transcription":"Mejirushi"}
-{"jp":"矢印","kr":"화살","level":2,"transcription":"Yajirushi"}
+{"jp":"矢印","kr":"화살표","level":2,"transcription":"Yajirushi"}
 {"jp":"私生活","kr":"사생활","level":3,"transcription":"Shiseikatsu"}
 {"jp":"編む","kr":"뜨개질","level":3,"transcription":"Amu"}
 {"jp":"蓄え","kr":"저장","level":3,"transcription":"Takakuwa"}
@@ -3999,7 +3999,7 @@
 {"jp":"鷲","kr":"독수리","level":3,"transcription":"Washi"}
 {"jp":"下地","kr":"기초","level":3,"transcription":"shitaji"}
 {"jp":"中級","kr":"중급","level":2,"transcription":"chūkyū"}
-{"jp":"人目","kr":"눈","level":3,"transcription":"hitome"}
+{"jp":"人目","kr":"눈사람","level":3,"transcription":"hitome"}
 {"jp":"休養","kr":"휴식","level":3,"transcription":"kyūyō"}
 {"jp":"冷凍庫","kr":"냉동고","level":2,"transcription":"reitōko"}
 {"jp":"厨房","kr":"주방","level":3,"transcription":"chūbō"}
@@ -4010,14 +4010,14 @@
 {"jp":"婆ちゃん","kr":"할머니","level":2,"transcription":"bāchan"}
 {"jp":"寅","kr":"寅","level":3,"transcription":"tora"}
 {"jp":"忘れ物","kr":"분실물","level":2,"transcription":"wasuremono"}
-{"jp":"応える","kr":"응하다","level":3,"transcription":"kotaeru"}
+{"jp":"応える","kr":"응답하다","level":3,"transcription":"kotaeru"}
 {"jp":"愛犬","kr":"애견","level":2,"transcription":"aiken"}
 {"jp":"技師","kr":"기술자","level":3,"transcription":"gishi"}
 {"jp":"描ける","kr":"그릴 수","level":3,"transcription":"egakeru"}
 {"jp":"教習所","kr":"교습소","level":3,"transcription":"kyōshūjo"}
 {"jp":"散る","kr":"흩어지는","level":2,"transcription":"chiru"}
-{"jp":"散らす","kr":"흩어지다","level":3,"transcription":"chirasu"}
-{"jp":"文字数","kr":"문자 수","level":3,"transcription":"mojisū"}
+{"jp":"散らす","kr":" 흩어다","level":3,"transcription":"chirasu"}
+{"jp":"文字数","kr":"글자 수","level":3,"transcription":"mojisū"}
 {"jp":"段ボール","kr":"골판지","level":3,"transcription":"danbōru"}
 {"jp":"片づける","kr":"정리하다","level":2,"transcription":"katazukeru"}
 {"jp":"空っぽ","kr":"빈","level":3,"transcription":"karappo"}
@@ -4049,7 +4049,7 @@
 {"jp":"市営","kr":"시영","level":3,"transcription":"shiei"}
 {"jp":"年数","kr":"연수","level":3,"transcription":"nensū"}
 {"jp":"復習","kr":"복습","level":2,"transcription":"fukushū"}
-{"jp":"撫でる","kr":"쓰다듬다","level":3,"transcription":"naderu"}
+{"jp":"撫でる","kr":"터질다듬다","level":3,"transcription":"naderu"}
 {"jp":"新米","kr":"신쌀","level":3,"transcription":"shinmai"}
 {"jp":"月給","kr":"월급","level":2,"transcription":"gekkyū"}
 {"jp":"海水浴","kr":"해수욕","level":2,"transcription":"kaisuiyoku"}
@@ -4073,7 +4073,7 @@
 {"jp":"一息","kr":"한숨","level":3,"transcription":"hitoiki"}
 {"jp":"全巻","kr":"전권","level":3,"transcription":"zenkan"}
 {"jp":"同名","kr":"같은 이름","level":3,"transcription":"dōmei"}
-{"jp":"呼び出す","kr":"전화","level":2,"transcription":"yobidasu"}
+{"jp":"呼び出す","kr":"발라다","level":2,"transcription":"yobidasu"}
 {"jp":"哺乳類","kr":"포유류","level":3,"transcription":"honyūrui"}
 {"jp":"国歌","kr":"국가","level":3,"transcription":"kokka"}
 {"jp":"多量","kr":"다량","level":3,"transcription":"taryō"}
@@ -4107,7 +4107,7 @@
 {"jp":"弾ける","kr":"연주하다","level":3,"transcription":"hajikeru"}
 {"jp":"持ち歩く","kr":"가지고 다니다","level":3,"transcription":"mochiaruku"}
 {"jp":"換気","kr":"환기","level":3,"transcription":"kanki"}
-{"jp":"教え子","kr":"가르침","level":3,"transcription":"oshiego"}
+{"jp":"教え子","kr":"학생","level":3,"transcription":"oshiego"}
 {"jp":"月頃","kr":"월경","level":3,"transcription":"tsukigoro"}
 {"jp":"構内","kr":"구내","level":3,"transcription":"kōnai"}
 {"jp":"歯車","kr":"기어","level":3,"transcription":"haguruma"}
@@ -4168,7 +4168,7 @@
 {"jp":"出航","kr":"출항","level":3,"transcription":"shukkō"}
 {"jp":"勇敢","kr":"용감한","level":3,"transcription":"yūkan"}
 {"jp":"原文","kr":"원문","level":3,"transcription":"genbun"}
-{"jp":"叱る","kr":"꾸짖다","level":2,"transcription":"shikaru"}
+{"jp":"叱る","kr":"叱르다","level":2,"transcription":"shikaru"}
 {"jp":"右足","kr":"오른발","level":2,"transcription":"migiashi"}
 {"jp":"唐辛子","kr":"고추","level":3,"transcription":"tōgarashi"}
 {"jp":"囲い","kr":"주변","level":3,"transcription":"kakoi"}
@@ -4191,9 +4191,9 @@
 {"jp":"用心","kr":"조심","level":3,"transcription":"yōjin"}
 {"jp":"直る","kr":"고치다","level":2,"transcription":"naoru"}
 {"jp":"砂浜","kr":"모래사장","level":3,"transcription":"sunahama"}
-{"jp":"纏め","kr":"纏め","level":3,"transcription":"matome"}
+{"jp":"纏め","kr":"纏임","level":3,"transcription":"matome"}
 {"jp":"薦める","kr":"추천하다","level":3,"transcription":"susumeru"}
-{"jp":"蛙","kr":"蛙","level":2,"transcription":"kaeru"}
+{"jp":"蛙","kr":"개구리","level":2,"transcription":"kaeru"}
 {"jp":"褐色","kr":"갈색","level":3,"transcription":"kasshoku"}
 {"jp":"訳す","kr":"번역","level":3,"transcription":"yakusu"}
 {"jp":"賑やか","kr":"활기찬","level":3,"transcription":"nigiyaka"}
@@ -4287,14 +4287,14 @@
 {"jp":"洗面","kr":"세면","level":3,"transcription":"senmen"}
 {"jp":"浴場","kr":"목욕탕","level":3,"transcription":"yokujō"}
 {"jp":"焦げる","kr":"태우다","level":3,"transcription":"kogeru"}
-{"jp":"用具","kr":"공구","level":3,"transcription":"yōgu"}
-{"jp":"留守番","kr":"자동 응답기","level":3,"transcription":"rusuban"}
+{"jp":"用具","kr":"장비","level":3,"transcription":"yōgu"}
+{"jp":"留守番","kr":"留守전달","level":3,"transcription":"rusuban"}
 {"jp":"禅","kr":"선","level":3,"transcription":"Zen"}
-{"jp":"税別","kr":"세금 별도","level":3,"transcription":"zeibetsu"}
+{"jp":"税別","kr":"세금별","level":3,"transcription":"zeibetsu"}
 {"jp":"競う","kr":"경쟁하다","level":3,"transcription":"kisou"}
-{"jp":"絶品","kr":"일품","level":3,"transcription":"zeppin"}
-{"jp":"英訳","kr":"영어 번역","level":3,"transcription":"eiyaku"}
-{"jp":"茶屋","kr":"찻집","level":3,"transcription":"chaya"}
+{"jp":"絶品","kr":"절품","level":3,"transcription":"zeppin"}
+{"jp":"英訳","kr":"영어역사","level":3,"transcription":"eiyaku"}
+{"jp":"茶屋","kr":"차집","level":3,"transcription":"chaya"}
 {"jp":"蟻","kr":"개미","level":2,"transcription":"ari"}
 {"jp":"読み上げる","kr":"읽다","level":3,"transcription":"yomiageru"}
 {"jp":"車検","kr":"차량검사","level":3,"transcription":"shaken"}
@@ -4307,7 +4307,7 @@
 {"jp":"中庭","kr":"안뜰","level":3,"transcription":"nakaniwa"}
 {"jp":"乗馬","kr":"승마","level":3,"transcription":"jōba"}
 {"jp":"倒せる","kr":"쓰러뜨리다","level":3,"transcription":"taoseru"}
-{"jp":"原付","kr":"원 첨부","level":3,"transcription":"gentsuki"}
+{"jp":"原付","kr":"원부","level":3,"transcription":"gentsuki"}
 {"jp":"四月","kr":"4월","level":1,"transcription":"shigatsu"}
 {"jp":"園長","kr":"원장","level":3,"transcription":"enchō"}
 {"jp":"夏季","kr":"여름","level":3,"transcription":"kaki"}
@@ -4341,7 +4341,7 @@
 {"jp":"鳥居","kr":"토리이","level":3,"transcription":"torii"}
 {"jp":"黒色","kr":"검은색","level":2,"transcription":"kokushoku"}
 {"jp":"かき氷","kr":"빙수","level":2,"transcription":"kakigōri"}
-{"jp":"ご馳走","kr":"치료","level":2,"transcription":"gochisō"}
+{"jp":"ご馳走","kr":"치르다","level":2,"transcription":"gochisō"}
 {"jp":"七夕","kr":"칠석","level":3,"transcription":"Tanabata"}
 {"jp":"不味い","kr":"맛없다","level":2,"transcription":"mazui"}
 {"jp":"伝言","kr":"전언","level":3,"transcription":"dengon"}
@@ -4377,7 +4377,7 @@
 {"jp":"魚介","kr":"해산물","level":3,"transcription":"gyokai"}
 {"jp":"鳴く","kr":"울다","level":2,"transcription":"naku"}
 {"jp":"上質","kr":"고급","level":3,"transcription":"jōshitsu"}
-{"jp":"下駄","kr":"나막신","level":2,"transcription":"geta"}
+{"jp":"下駄","kr":"신발","level":2,"transcription":"geta"}
 {"jp":"不運","kr":"불운","level":3,"transcription":"fuun"}
 {"jp":"作り直し","kr":"재작성","level":3,"transcription":"tsukurinaoshi"}
 {"jp":"優等生","kr":"우등생","level":3,"transcription":"yūtōsei"}
@@ -4407,55 +4407,55 @@
 {"jp":"終点","kr":"종점","level":2,"transcription":"shūten"}
 {"jp":"織り","kr":"짜다","level":3,"transcription":"ori"}
 {"jp":"美少年","kr":"미소년","level":3,"transcription":"bishōnen"}
-{"jp":"至急","kr":"시급한","level":3,"transcription":"shikyū"}
+{"jp":"至急","kr":"급한","level":3,"transcription":"shikyū"}
 {"jp":"谷川","kr":"타니가와","level":3,"transcription":"tanigawa"}
-{"jp":"通院","kr":"통원","level":3,"transcription":"tsūin"}
+{"jp":"通院","kr":"병원 방문","level":3,"transcription":"tsūin"}
 {"jp":"運輸","kr":"운송","level":3,"transcription":"unyu"}
 {"jp":"遠方","kr":"멀리","level":3,"transcription":"enpō"}
-{"jp":"頼れる","kr":"의지할 수 있는","level":3,"transcription":"tayoreru"}
-{"jp":"鼠","kr":"사타구니","level":2,"transcription":"nezumi"}
+{"jp":"頼れる","kr":"믿을 수 있는","level":3,"transcription":"tayoreru"}
+{"jp":"鼠","kr":"쥐","level":2,"transcription":"nezumi"}
 {"jp":"お先に","kr":"앞으로","level":2,"transcription":"osaki ni"}
 {"jp":"つま先","kr":"발가락","level":3,"transcription":"tsumasaki"}
 {"jp":"三日月","kr":"초승달","level":3,"transcription":"mikazuki"}
-{"jp":"下手くそ","kr":"나쁜 씨발","level":3,"transcription":"hetakuso"}
+{"jp":"下手くそ","kr":"나쁜 사람","level":3,"transcription":"hetakuso"}
 {"jp":"並木","kr":"가로수","level":3,"transcription":"namiki"}
-{"jp":"中途","kr":"중도","level":3,"transcription":"chūto"}
+{"jp":"中途","kr":"중간","level":3,"transcription":"chūto"}
 {"jp":"入部","kr":"입부","level":3,"transcription":"nyūbu"}
-{"jp":"八つ","kr":"여덟","level":1,"transcription":"yattsu"}
+{"jp":"八つ","kr":"여덟 개","level":1,"transcription":"yattsu"}
 {"jp":"割れる","kr":"깨지는","level":2,"transcription":"wareru"}
 {"jp":"取り寄せる","kr":"주문하다","level":3,"transcription":"toriyoseru"}
 {"jp":"右折","kr":"우회전","level":2,"transcription":"usetu"}
 {"jp":"安物","kr":"싼 물건","level":3,"transcription":"yasumono"}
 {"jp":"年配","kr":"노인","level":3,"transcription":"nempai"}
-{"jp":"年長","kr":"고위","level":3,"transcription":"nenchō"}
+{"jp":"年長","kr":"고령자","level":3,"transcription":"nenchō"}
 {"jp":"引っ越す","kr":"이사하다","level":2,"transcription":"hikkosu"}
-{"jp":"御免","kr":"어면","level":1,"transcription":"gomen"}
+{"jp":"御免","kr":"어떤 경우에도","level":1,"transcription":"gomen"}
 {"jp":"御礼","kr":"감사","level":2,"transcription":"orei"}
 {"jp":"惣菜","kr":"반찬","level":3,"transcription":"sōzai"}
 {"jp":"手本","kr":"모범","level":3,"transcription":"tehon"}
 {"jp":"持ち出す","kr":"꺼내다","level":3,"transcription":"mochidasu"}
 {"jp":"検診","kr":"검진","level":3,"transcription":"kenshin"}
 {"jp":"漬物","kr":"절임","level":2,"transcription":"tsukemono"}
-{"jp":"点滅","kr":"깜박임","level":3,"transcription":"tenmetsu"}
+{"jp":"点滅","kr":"점멸","level":3,"transcription":"tenmetsu"}
 {"jp":"片側","kr":"한쪽","level":3,"transcription":"katagawa"}
 {"jp":"玄米","kr":"현미","level":3,"transcription":"genmai"}
 {"jp":"異国","kr":"이국","level":3,"transcription":"ikoku"}
 {"jp":"目次","kr":"목차","level":3,"transcription":"mokuji"}
-{"jp":"砕ける","kr":"부서지다","level":3,"transcription":"kudakeru"}
-{"jp":"笠","kr":"카사","level":3,"transcription":"kasa"}
+{"jp":"砕ける","kr":"부러지다","level":3,"transcription":"kudakeru"}
+{"jp":"笠","kr":"카시","level":3,"transcription":"kasa"}
 {"jp":"練り","kr":"반죽","level":3,"transcription":"neri"}
 {"jp":"肉屋","kr":"정육점","level":2,"transcription":"nikuya"}
 {"jp":"胡椒","kr":"후추","level":2,"transcription":"koshō"}
 {"jp":"自炊","kr":"취사","level":3,"transcription":"jisui"}
 {"jp":"良品","kr":"양품","level":3,"transcription":"ryōhin"}
-{"jp":"被せる","kr":"씌우다","level":3,"transcription":"kabuseru"}
+{"jp":"被せる","kr":"바라다","level":3,"transcription":"kabuseru"}
 {"jp":"覚ます","kr":"깨우다","level":2,"transcription":"samasu"}
 {"jp":"誉める","kr":"칭찬하다","level":2,"transcription":"homeru"}
 {"jp":"貸出","kr":"대출","level":3,"transcription":"kashidashi"}
-{"jp":"賑わう","kr":"활기찬","level":3,"transcription":"nigiwau"}
+{"jp":"賑わう","kr":"활기차다","level":3,"transcription":"nigiwau"}
 {"jp":"転校","kr":"전학","level":3,"transcription":"tenkō"}
 {"jp":"退会","kr":"탈퇴","level":3,"transcription":"taikai"}
-{"jp":"都営","kr":"도에이","level":3,"transcription":"toei"}
+{"jp":"都営","kr":"도이","level":3,"transcription":"toei"}
 {"jp":"長袖","kr":"긴팔","level":2,"transcription":"nagasode"}
 {"jp":"頭上","kr":"머리 위","level":3,"transcription":"zujō"}
 {"jp":"飲み屋","kr":"술집","level":2,"transcription":"nomiya"}
@@ -4469,7 +4469,7 @@
 {"jp":"低速","kr":"저속","level":3,"transcription":"teisoku"}
 {"jp":"個数","kr":"개수","level":2,"transcription":"kosū"}
 {"jp":"公民館","kr":"공민관","level":3,"transcription":"kōminkan"}
-{"jp":"其の","kr":"그","level":1,"transcription":"sono"}
+{"jp":"其の","kr":"그의","level":1,"transcription":"sono"}
 {"jp":"励み","kr":"격려","level":3,"transcription":"hagemi"}
 {"jp":"南口","kr":"남쪽 출구","level":2,"transcription":"minamiguchi"}
 {"jp":"呟く","kr":"중얼거리다","level":3,"transcription":"tsubuyaku"}
@@ -4498,30 +4498,30 @@
 {"jp":"行き先","kr":"목적지","level":2,"transcription":"ikisaki"}
 {"jp":"踏み込む","kr":"밟다","level":3,"transcription":"fumikomu"}
 {"jp":"遠出","kr":"외출","level":3,"transcription":"tōde"}
-{"jp":"遠足","kr":"소풍","level":2,"transcription":"ensoku"}
-{"jp":"鍵盤","kr":"건반","level":3,"transcription":"kenban"}
-{"jp":"院内","kr":"원내","level":3,"transcription":"innai"}
+{"jp":"遠足","kr":"산책","level":2,"transcription":"ensoku"}
+{"jp":"鍵盤","kr":"키보드","level":3,"transcription":"kenban"}
+{"jp":"院内","kr":"내원","level":3,"transcription":"innai"}
 {"jp":"風力","kr":"풍력","level":3,"transcription":"fūryoku"}
-{"jp":"飛び出す","kr":"뛰다","level":2,"transcription":"tobidasu"}
+{"jp":"飛び出す","kr":"날아오다","level":2,"transcription":"tobidasu"}
 {"jp":"駄菓子","kr":"과자","level":3,"transcription":"dagashi"}
-{"jp":"たった今","kr":"그냥 지금","level":2,"transcription":"tatta ima"}
-{"jp":"仰る","kr":"말하다","level":3,"transcription":"ossharu"}
-{"jp":"何時","kr":"몇시","level":1,"transcription":"itsu"}
+{"jp":"たった今","kr":"지금","level":2,"transcription":"tatta ima"}
+{"jp":"仰る","kr":"받다","level":3,"transcription":"ossharu"}
+{"jp":"何時","kr":"시간","level":1,"transcription":"itsu"}
 {"jp":"余りに","kr":"너무","level":3,"transcription":"amarini"}
 {"jp":"公害","kr":"공해","level":3,"transcription":"kōgai"}
 {"jp":"刈る","kr":"깎다","level":2,"transcription":"karu"}
 {"jp":"前もって","kr":"미리","level":3,"transcription":"maemotte"}
 {"jp":"厚み","kr":"두께","level":3,"transcription":"atsumi"}
-{"jp":"喜劇","kr":"희극","level":3,"transcription":"kigeki"}
-{"jp":"売店","kr":"매점","level":2,"transcription":"baiten"}
+{"jp":"喜劇","kr":"극장","level":3,"transcription":"kigeki"}
+{"jp":"売店","kr":"점포","level":2,"transcription":"baiten"}
 {"jp":"家中","kr":"집안","level":3,"transcription":"kachū"}
-{"jp":"寄り道","kr":"가는 길","level":3,"transcription":"yorimichi"}
+{"jp":"寄り道","kr":"가다","level":3,"transcription":"yorimichi"}
 {"jp":"小中","kr":"초중","level":3,"transcription":"shōchū"}
-{"jp":"平ら","kr":"편평한","level":2,"transcription":"taira"}
+{"jp":"平ら","kr":"평탄한","level":2,"transcription":"taira"}
 {"jp":"拭く","kr":"닦다","level":2,"transcription":"fuku"}
-{"jp":"晴れる","kr":"맑음","level":1,"transcription":"hareru"}
+{"jp":"晴れる","kr":"맑다","level":1,"transcription":"hareru"}
 {"jp":"有り難い","kr":"고맙다","level":2,"transcription":"arigatai"}
-{"jp":"朝飯","kr":"조반","level":2,"transcription":"asameshi"}
+{"jp":"朝飯","kr":"조밥","level":2,"transcription":"asameshi"}
 {"jp":"木々","kr":"나무","level":3,"transcription":"kigi"}
 {"jp":"来客","kr":"방문객","level":3,"transcription":"raikyaku"}
 {"jp":"水彩","kr":"수채화","level":3,"transcription":"suisai"}
@@ -4558,7 +4558,7 @@
 {"jp":"明かり","kr":"불빛","level":2,"transcription":"akari"}
 {"jp":"替える","kr":"바꾸다","level":2,"transcription":"kaeru"}
 {"jp":"月日","kr":"월일","level":3,"transcription":"tsukihi"}
-{"jp":"朝ドラ","kr":"아침 도라","level":3,"transcription":"asadora"}
+{"jp":"朝ドラ","kr":"오래된 드라마","level":3,"transcription":"asadora"}
 {"jp":"此","kr":"이치","level":1,"transcription":"kore"}
 {"jp":"気まま","kr":"마음대로","level":3,"transcription":"kimama"}
 {"jp":"汽車","kr":"기차","level":2,"transcription":"kisha"}
@@ -4569,17 +4569,17 @@
 {"jp":"立ち上がり","kr":"상승","level":3,"transcription":"tachiagari"}
 {"jp":"紀元前","kr":"기원전","level":3,"transcription":"kigenzen"}
 {"jp":"締切","kr":"마감","level":3,"transcription":"shimekiri"}
-{"jp":"色白","kr":"컬러 화이트","level":3,"transcription":"irojiro"}
+{"jp":"色白","kr":"흰색","level":3,"transcription":"irojiro"}
 {"jp":"英単語","kr":"영어 단어","level":3,"transcription":"eitan'go"}
 {"jp":"衣類","kr":"의류","level":2,"transcription":"irui"}
-{"jp":"裏返し","kr":"뒤집다","level":3,"transcription":"uragaeshi"}
+{"jp":"裏返し","kr":"뒤집기","level":3,"transcription":"uragaeshi"}
 {"jp":"裸足","kr":"맨발","level":3,"transcription":"hadashi"}
 {"jp":"貧乏人","kr":"가난한 사람","level":3,"transcription":"binbōnin"}
-{"jp":"起床","kr":"기상","level":2,"transcription":"kishō"}
+{"jp":"起床","kr":"부엌에서 일어나다","level":2,"transcription":"kishō"}
 {"jp":"身動き","kr":"움직임","level":3,"transcription":"miugoki"}
 {"jp":"酸味","kr":"신맛","level":3,"transcription":"sanmi"}
 {"jp":"鎌","kr":"낫","level":3,"transcription":"kama"}
-{"jp":"青梅","kr":"오메","level":3,"transcription":"ōme"}
+{"jp":"青梅","kr":"오메가","level":3,"transcription":"ōme"}
 {"jp":"驚かす","kr":"놀라다","level":2,"transcription":"odorokasu"}
 {"jp":"高卒","kr":"고졸","level":3,"transcription":"kōsotsu"}
 {"jp":"お正月","kr":"새해","level":1,"transcription":"oshōgatsu"}
@@ -4587,8 +4587,8 @@
 {"jp":"三角形","kr":"삼각형","level":2,"transcription":"sankakkei"}
 {"jp":"下宿","kr":"시모주쿠","level":3,"transcription":"geshuku"}
 {"jp":"下方","kr":"아래로","level":3,"transcription":"kahō"}
-{"jp":"仕上がる","kr":"마무리","level":3,"transcription":"shiagaru"}
-{"jp":"値上がり","kr":"가격 상승","level":3,"transcription":"neagari"}
+{"jp":"仕上がる","kr":"마무리하다","level":3,"transcription":"shiagaru"}
+{"jp":"値上がり","kr":"가치 상승","level":3,"transcription":"neagari"}
 {"jp":"出だし","kr":"출발","level":3,"transcription":"dedashi"}
 {"jp":"半月","kr":"반월","level":2,"transcription":"hangetsu"}
 {"jp":"原産","kr":"원산","level":3,"transcription":"gensan"}
@@ -4609,7 +4609,7 @@
 {"jp":"校内","kr":"교내","level":3,"transcription":"kōnai"}
 {"jp":"歌える","kr":"노래할 수 있는","level":1,"transcription":"utaeru"}
 {"jp":"気が付く","kr":"깨달음","level":2,"transcription":"kigatsuku"}
-{"jp":"気持ち良い","kr":"기분좋은","level":2,"transcription":"kimochiii"}
+{"jp":"気持ち良い","kr":"기분 좋은","level":2,"transcription":"kimochiii"}
 {"jp":"水樹","kr":"미즈키","level":1,"transcription":"Mizuki"}
 {"jp":"湿る","kr":"습기","level":3,"transcription":"shimeru"}
 {"jp":"煙突","kr":"굴뚝","level":3,"transcription":"entotsu"}
@@ -4647,11 +4647,11 @@
 {"jp":"包帯","kr":"붕대","level":3,"transcription":"hōtai"}
 {"jp":"受かる","kr":"받다","level":2,"transcription":"ukaru"}
 {"jp":"口元","kr":"입가","level":3,"transcription":"kuchimoto"}
-{"jp":"和服","kr":"일본옷","level":2,"transcription":"wafuku"}
+{"jp":"和服","kr":"복장","level":2,"transcription":"wafuku"}
 {"jp":"嗅ぐ","kr":"냄새","level":3,"transcription":"kagu"}
 {"jp":"国技","kr":"국기","level":3,"transcription":"kokugi"}
-{"jp":"大福","kr":"오후쿠","level":2,"transcription":"daifuku"}
-{"jp":"宜しい","kr":"좋은","level":1,"transcription":"yoroshii"}
+{"jp":"大福","kr":"대부","level":2,"transcription":"daifuku"}
+{"jp":"宜しい","kr":"좋다","level":1,"transcription":"yoroshii"}
 {"jp":"床下","kr":"바닥","level":3,"transcription":"yukashita"}
 {"jp":"廻り","kr":"돌다","level":2,"transcription":"mawari"}
 {"jp":"強まる","kr":"강화","level":3,"transcription":"tsuyomaru"}
@@ -4671,7 +4671,7 @@
 {"jp":"緩い","kr":"느슨한","level":3,"transcription":"yurui"}
 {"jp":"茄子","kr":"가지","level":2,"transcription":"nasu"}
 {"jp":"蝉","kr":"매미","level":3,"transcription":"semi"}
-{"jp":"袴","kr":"하카","level":3,"transcription":"hakama"}
+{"jp":"袴","kr":"하마","level":3,"transcription":"hakama"}
 {"jp":"西欧","kr":"서구","level":3,"transcription":"Seiou"}
 {"jp":"読み書き","kr":"읽기\/쓰기","level":2,"transcription":"yomikaki"}
 {"jp":"貸し出し","kr":"대출","level":3,"transcription":"kashidashi"}
@@ -4707,8 +4707,8 @@
 {"jp":"段差","kr":"단차","level":3,"transcription":"dansa"}
 {"jp":"河原","kr":"가와라","level":3,"transcription":"kawara"}
 {"jp":"災難","kr":"재난","level":3,"transcription":"saian"}
-{"jp":"燕","kr":"삼기","level":3,"transcription":"Tsubame"}
-{"jp":"着衣","kr":"옷","level":3,"transcription":"Chakui"}
+{"jp":"燕","kr":"새","level":3,"transcription":"Tsubame"}
+{"jp":"着衣","kr":"옷을 입다","level":3,"transcription":"Chakui"}
 {"jp":"空席","kr":"공석","level":2,"transcription":"Kūseki"}
 {"jp":"聞き取り","kr":"듣기","level":3,"transcription":"Kikitori"}
 {"jp":"聞き取る","kr":"듣기","level":3,"transcription":"Kikitoru"}
@@ -4767,7 +4767,7 @@
 {"jp":"店名","kr":"가게 이름","level":3,"transcription":"tenmei"}
 {"jp":"悪天候","kr":"악천후","level":3,"transcription":"akutenkō"}
 {"jp":"折り紙","kr":"종이 접기","level":2,"transcription":"origami"}
-{"jp":"押し付ける","kr":"누르기","level":3,"transcription":"Oshitsukeru"}
+{"jp":"押し付ける","kr":"압박하다","level":3,"transcription":"Oshitsukeru"}
 {"jp":"捜し","kr":"찾다","level":2,"transcription":"Sagashi"}
 {"jp":"採集","kr":"채집","level":3,"transcription":"Saishū"}
 {"jp":"教職員","kr":"교직원","level":3,"transcription":"Kyōshokuin"}
@@ -4796,7 +4796,7 @@
 {"jp":"やり直す","kr":"다시 시도","level":3,"transcription":"yarinaosu"}
 {"jp":"丸々","kr":"둥근","level":3,"transcription":"marumaru"}
 {"jp":"乳児","kr":"유아","level":3,"transcription":"nyūji"}
-{"jp":"人差し指","kr":"집게 손가락","level":2,"transcription":"hitosashiyubi"}
+{"jp":"人差し指","kr":"손가락 잡기","level":2,"transcription":"hitosashiyubi"}
 {"jp":"人見知り","kr":"낯가림","level":3,"transcription":"hitomishiri"}
 {"jp":"付け根","kr":"뿌리","level":3,"transcription":"tsukene"}
 {"jp":"入園","kr":"입장","level":2,"transcription":"nyūen"}
@@ -4856,7 +4856,7 @@
 {"jp":"徐","kr":"서","level":3,"transcription":"jo"}
 {"jp":"悪気","kr":"나쁜","level":3,"transcription":"warugi"}
 {"jp":"成田空港","kr":"나리타 공항","level":1,"transcription":"Narita Kūkō"}
-{"jp":"手取り","kr":"손잡이","level":3,"transcription":"tedori"}
+{"jp":"手取り","kr":"손대리","level":3,"transcription":"tedori"}
 {"jp":"持病","kr":"지병","level":3,"transcription":"jibyō"}
 {"jp":"提灯","kr":"등불","level":3,"transcription":"chōchin"}
 {"jp":"数式","kr":"수식","level":3,"transcription":"sūshiki"}
@@ -4878,9 +4878,9 @@
 {"jp":"ただ今","kr":"그냥 지금","level":2,"transcription":"tadaima"}
 {"jp":"丸太","kr":"통나무","level":3,"transcription":"maruta"}
 {"jp":"儲ける","kr":"벌다","level":3,"transcription":"mōkeru"}
-{"jp":"其","kr":"其","level":1,"transcription":"sore"}
+{"jp":"其","kr":"그","level":1,"transcription":"sore"}
 {"jp":"初夏","kr":"초여름","level":3,"transcription":"shoka"}
-{"jp":"区長","kr":"구장","level":3,"transcription":"kuchō"}
+{"jp":"区長","kr":"구청장","level":3,"transcription":"kuchō"}
 {"jp":"大吉","kr":"대길","level":3,"transcription":"daikichi"}
 {"jp":"山道","kr":"산길","level":3,"transcription":"yamamichi"}
 {"jp":"怖がる","kr":"두려워하다","level":3,"transcription":"kowagaru"}
@@ -4925,7 +4925,7 @@
 {"jp":"熟語","kr":"숙어","level":3,"transcription":"jukugo"}
 {"jp":"町中","kr":"동네","level":3,"transcription":"machijū"}
 {"jp":"県道","kr":"현도","level":3,"transcription":"kendō"}
-{"jp":"短パン","kr":"짧은 빵","level":2,"transcription":"tanpan"}
+{"jp":"短パン","kr":"짧은 바지","level":2,"transcription":"tanpan"}
 {"jp":"綴る","kr":"철자하다","level":3,"transcription":"tsuzuru"}
 {"jp":"義兄","kr":"형제","level":3,"transcription":"gikei"}
 {"jp":"落とせる","kr":"떨어뜨리다","level":2,"transcription":"otoseru"}
@@ -4935,11 +4935,11 @@
 {"jp":"語れる","kr":"말할 수 있는","level":3,"transcription":"katareru"}
 {"jp":"読解","kr":"독해","level":3,"transcription":"dokkai"}
 {"jp":"貝殻","kr":"조개","level":2,"transcription":"kaigara"}
-{"jp":"買い出し","kr":"구매","level":3,"transcription":"kaidashi"}
+{"jp":"買い出し","kr":"구매하기","level":3,"transcription":"kaidashi"}
 {"jp":"農作物","kr":"농작물","level":3,"transcription":"nōsaku-butsu"}
 {"jp":"通帳","kr":"통장","level":2,"transcription":"tsūchō"}
-{"jp":"運休","kr":"휴가","level":3,"transcription":"unkyū"}
-{"jp":"遠回り","kr":"원거리","level":2,"transcription":"tōmawari"}
+{"jp":"運休","kr":"운휴","level":3,"transcription":"unkyū"}
+{"jp":"遠回り","kr":"원거리로 가는 것","level":2,"transcription":"tōmawari"}
 {"jp":"陳列","kr":"진열","level":3,"transcription":"chinretsu"}
 {"jp":"頭髪","kr":"머리카락","level":3,"transcription":"tōhatsu"}
 {"jp":"駅弁","kr":"역변","level":2,"transcription":"ekiben"}
@@ -5008,7 +5008,7 @@
 {"jp":"安っぽい","kr":"싸다","level":3,"transcription":"yasuppoi"}
 {"jp":"手荷物","kr":"수하물","level":2,"transcription":"tenimotsu"}
 {"jp":"教習","kr":"교습","level":3,"transcription":"kyōshū"}
-{"jp":"日本円","kr":"일본 엔","level":1,"transcription":"Nihon-en"}
+{"jp":"日本円","kr":"일본 원","level":1,"transcription":"Nihon-en"}
 {"jp":"曲がり","kr":"굴곡","level":3,"transcription":"magari"}
 {"jp":"本館","kr":"본관","level":3,"transcription":"honkan"}
 {"jp":"気長","kr":"기장","level":3,"transcription":"kinaga"}
@@ -5136,12 +5136,12 @@
 {"jp":"主語","kr":"주어","level":3,"transcription":"shugo"}
 {"jp":"休校","kr":"휴교","level":3,"transcription":"kyūkō"}
 {"jp":"初歩","kr":"초보","level":3,"transcription":"shoho"}
-{"jp":"初詣","kr":"하츠미","level":2,"transcription":"hatsumōde"}
+{"jp":"初詣","kr":"초계","level":2,"transcription":"hatsumōde"}
 {"jp":"努める","kr":"노력하다","level":3,"transcription":"tsutomeru"}
 {"jp":"医大","kr":"의대","level":3,"transcription":"idai"}
 {"jp":"古本","kr":"고책","level":2,"transcription":"furuhon"}
 {"jp":"右目","kr":"오른쪽 눈","level":2,"transcription":"migime"}
-{"jp":"味見","kr":"맛","level":3,"transcription":"ajimi"}
+{"jp":"味見","kr":"맛집","level":3,"transcription":"ajimi"}
 {"jp":"大蛇","kr":"큰 뱀","level":3,"transcription":"orochi"}
 {"jp":"安売り","kr":"저렴한 판매","level":2,"transcription":"yasūri"}
 {"jp":"定量","kr":"정량","level":3,"transcription":"teiryō"}
@@ -5157,21 +5157,21 @@
 {"jp":"期限切れ","kr":"만료됨","level":3,"transcription":"kigen-gire"}
 {"jp":"植木","kr":"식물","level":3,"transcription":"ueki"}
 {"jp":"水蒸気","kr":"수증기","level":3,"transcription":"suijōki"}
-{"jp":"泣かせる","kr":"울다","level":3,"transcription":"nakaseru"}
+{"jp":"泣かせる","kr":"울게 하다","level":3,"transcription":"nakaseru"}
 {"jp":"洋菓子","kr":"양과자","level":3,"transcription":"yōgashi"}
 {"jp":"熱湯","kr":"온수","level":2,"transcription":"nettō"}
 {"jp":"生ビール","kr":"생맥주","level":2,"transcription":"nama-bīru"}
-{"jp":"田畑","kr":"타바타","level":3,"transcription":"tahata"}
-{"jp":"甲羅","kr":"카라","level":3,"transcription":"kōra"}
+{"jp":"田畑","kr":"밭","level":3,"transcription":"tahata"}
+{"jp":"甲羅","kr":"갑골","level":3,"transcription":"kōra"}
 {"jp":"空き地","kr":"빈 땅","level":2,"transcription":"akichi"}
 {"jp":"空振り","kr":"빈 흔들림","level":3,"transcription":"karaburi"}
 {"jp":"立たす","kr":"서다","level":3,"transcription":"tatasu"}
-{"jp":"緩む","kr":"느슨한","level":3,"transcription":"yurumu"}
+{"jp":"緩む","kr":"느슨하다","level":3,"transcription":"yurumu"}
 {"jp":"縮む","kr":"수축하다","level":3,"transcription":"chijimu"}
 {"jp":"耳元","kr":"귓가","level":3,"transcription":"mimimoto"}
-{"jp":"茶の間","kr":"차 사이","level":3,"transcription":"chanoma"}
+{"jp":"茶の間","kr":"차간","level":3,"transcription":"chanoma"}
 {"jp":"追い越す","kr":"추월하다","level":3,"transcription":"oikosu"}
-{"jp":"遅らせる","kr":"늦추다","level":3,"transcription":"okuraseru"}
+{"jp":"遅らせる","kr":"늦게 하다","level":3,"transcription":"okuraseru"}
 {"jp":"適量","kr":"적당량","level":3,"transcription":"tekiryō"}
 {"jp":"野鳥","kr":"들새","level":3,"transcription":"yachō"}
 {"jp":"隔てる","kr":"분리하다","level":3,"transcription":"hederu"}
@@ -5181,7 +5181,7 @@
 {"jp":"飲ます","kr":"마시다","level":3,"transcription":"nomasu"}
 {"jp":"お薦め","kr":"추천","level":2,"transcription":"osusume"}
 {"jp":"人びと","kr":"사람들","level":3,"transcription":"hitobito"}
-{"jp":"何時も","kr":"몇시라도","level":1,"transcription":"itsumo"}
+{"jp":"何時も","kr":"몇 시라도","level":1,"transcription":"itsumo"}
 {"jp":"入れ替える","kr":"교체","level":3,"transcription":"irekaeru"}
 {"jp":"号館","kr":"호관","level":3,"transcription":"gōkan"}
 {"jp":"大学院生","kr":"대학원생","level":3,"transcription":"daigakuinsei"}
@@ -5191,7 +5191,7 @@
 {"jp":"廻る","kr":"돌다","level":1,"transcription":"mawaru"}
 {"jp":"往来","kr":"왕래","level":3,"transcription":"ōrai"}
 {"jp":"怒鳴る","kr":"분노하다","level":3,"transcription":"donaru"}
-{"jp":"恰好","kr":"희망","level":3,"transcription":"kakkō"}
+{"jp":"恰好","kr":"恰好","level":3,"transcription":"kakkō"}
 {"jp":"懸ける","kr":"걸다","level":2,"transcription":"kakeru"}
 {"jp":"持ち運び","kr":"운반","level":3,"transcription":"mochihakobi"}
 {"jp":"揺らす","kr":"흔들다","level":3,"transcription":"yurasu"}
@@ -5218,11 +5218,11 @@
 {"jp":"返せる","kr":"돌려줄 수 있다","level":2,"transcription":"kaeseru"}
 {"jp":"逆戻り","kr":"뒤로","level":3,"transcription":"sakamodori"}
 {"jp":"鈍い","kr":"둔한","level":2,"transcription":"nibui"}
-{"jp":"阿呆","kr":"阿呆","level":3,"transcription":"aho"}
+{"jp":"阿呆","kr":"아대","level":3,"transcription":"aho"}
 {"jp":"餡","kr":"떡","level":3,"transcription":"an"}
 {"jp":"館長","kr":"관장","level":3,"transcription":"kanchou"}
 {"jp":"たんぱく質","kr":"단백질","level":3,"transcription":"tanpakushitsu"}
-{"jp":"まとめ買い","kr":"정리 구매","level":3,"transcription":"matomega-i"}
+{"jp":"まとめ買い","kr":"정리구매","level":3,"transcription":"matomega-i"}
 {"jp":"下見","kr":"시모미","level":3,"transcription":"shitami"}
 {"jp":"丸み","kr":"둥근","level":3,"transcription":"marumi"}
 {"jp":"交替","kr":"교체","level":3,"transcription":"koutai"}
@@ -5230,7 +5230,7 @@
 {"jp":"共働き","kr":"공동작업","level":3,"transcription":"tomobataraki"}
 {"jp":"切替","kr":"전환","level":3,"transcription":"kirikae"}
 {"jp":"名高い","kr":"유명한","level":3,"transcription":"nadakai"}
-{"jp":"向日葵","kr":"향일 아오이","level":2,"transcription":"himawari"}
+{"jp":"向日葵","kr":"향일아오이","level":2,"transcription":"himawari"}
 {"jp":"囁き","kr":"속삭이는","level":3,"transcription":"sasayaki"}
 {"jp":"四角い","kr":"사각형","level":2,"transcription":"shikakui"}
 {"jp":"夕陽","kr":"석양","level":2,"transcription":"yūhi"}
@@ -5248,7 +5248,7 @@
 {"jp":"期末","kr":"기말","level":3,"transcription":"kimatsu"}
 {"jp":"木の実","kr":"나무 열매","level":2,"transcription":"konomi"}
 {"jp":"水温","kr":"수온","level":2,"transcription":"suion"}
-{"jp":"汐","kr":"시오","level":3,"transcription":"shio"}
+{"jp":"汐","kr":"시","level":3,"transcription":"shio"}
 {"jp":"湯船","kr":"유선","level":3,"transcription":"yubune"}
 {"jp":"演目","kr":"공연","level":3,"transcription":"enmoku"}
 {"jp":"無地","kr":"무지","level":2,"transcription":"muji"}
@@ -5267,10 +5267,10 @@
 {"jp":"雨水","kr":"빗물","level":3,"transcription":"usui"}
 {"jp":"駐輪場","kr":"주륜장","level":3,"transcription":"chūrinjō"}
 {"jp":"一段","kr":"한 단계","level":3,"transcription":"ichidan"}
-{"jp":"三味線","kr":"샤미센","level":3,"transcription":"shamisen"}
+{"jp":"三味線","kr":"삼위선","level":3,"transcription":"shamisen"}
 {"jp":"二の腕","kr":"두 팔","level":3,"transcription":"ninoude"}
 {"jp":"人名","kr":"사람 이름","level":3,"transcription":"jinmei"}
-{"jp":"伝記","kr":"전기","level":3,"transcription":"denki"}
+{"jp":"伝記","kr":"전지","level":3,"transcription":"denki"}
 {"jp":"元旦","kr":"설날","level":3,"transcription":"gantan"}
 {"jp":"全校","kr":"전교","level":3,"transcription":"zenkou"}
 {"jp":"咲かせる","kr":"피우다","level":3,"transcription":"sakaseru"}
@@ -5279,7 +5279,7 @@
 {"jp":"夏期","kr":"여름","level":3,"transcription":"kaki"}
 {"jp":"屋根裏","kr":"다락방","level":3,"transcription":"yaneura"}
 {"jp":"年始","kr":"연시","level":3,"transcription":"nenshi"}
-{"jp":"当り","kr":"히트","level":3,"transcription":"atari"}
+{"jp":"当り","kr":"맞다","level":3,"transcription":"atari"}
 {"jp":"手作業","kr":"수작업","level":3,"transcription":"tesagyō"}
 {"jp":"挟み","kr":"끼움","level":3,"transcription":"hasami"}
 {"jp":"文中","kr":"문장","level":3,"transcription":"bunchū"}
@@ -5287,10 +5287,10 @@
 {"jp":"新聞紙","kr":"신문지","level":2,"transcription":"shinbunshi"}
 {"jp":"日照","kr":"햇빛","level":3,"transcription":"nisshō"}
 {"jp":"映し出す","kr":"비추다","level":3,"transcription":"utsushidasu"}
-{"jp":"暖める","kr":"데우다","level":2,"transcription":"atatameru"}
-{"jp":"曇","kr":"흐림","level":1,"transcription":"kumori"}
+{"jp":"暖める","kr":"따뜻하게 하다","level":2,"transcription":"atatameru"}
+{"jp":"曇","kr":"흐름이 오다","level":1,"transcription":"kumori"}
 {"jp":"正す","kr":"맞다","level":3,"transcription":"tadasu"}
-{"jp":"汲む","kr":"먹다","level":3,"transcription":"kumu"}
+{"jp":"汲む","kr":"들기다","level":3,"transcription":"kumu"}
 {"jp":"海中","kr":"해중","level":3,"transcription":"kaichū"}
 {"jp":"減点","kr":"감점","level":3,"transcription":"genten"}
 {"jp":"特売","kr":"특별 판매","level":2,"transcription":"tokubai"}
@@ -5306,14 +5306,14 @@
 {"jp":"総計","kr":"총계","level":3,"transcription":"Sōkei"}
 {"jp":"義姉","kr":"이누나","level":3,"transcription":"Gishi"}
 {"jp":"腿","kr":"허벅지","level":2,"transcription":"Momo"}
-{"jp":"薄毛","kr":"얇은 머리","level":3,"transcription":"Usuge"}
+{"jp":"薄毛","kr":"머리털이 얇다","level":3,"transcription":"Usuge"}
 {"jp":"近距離","kr":"근거리","level":3,"transcription":"kinkyori"}
 {"jp":"通年","kr":"연중","level":3,"transcription":"tsūnen"}
 {"jp":"遊び場","kr":"놀이터","level":2,"transcription":"asobiba"}
 {"jp":"除雪","kr":"제설","level":3,"transcription":"josetsu"}
 {"jp":"顔つき","kr":"얼굴","level":3,"transcription":"kaotsuki"}
-{"jp":"顔見知り","kr":"얼굴 모습","level":3,"transcription":"kaomishiri"}
-{"jp":"高音","kr":"고음","level":3,"transcription":"kōon"}
+{"jp":"顔見知り","kr":"얼굴을 만났던 사람","level":3,"transcription":"kaomishiri"}
+{"jp":"高音","kr":"높은 음","level":3,"transcription":"kōon"}
 {"jp":"お力","kr":"힘","level":3,"transcription":"ochikara"}
 {"jp":"まつ毛","kr":"속눈썹","level":2,"transcription":"matsuge"}
 {"jp":"わが家","kr":"우리집","level":3,"transcription":"wagaya"}
@@ -5341,7 +5341,7 @@
 {"jp":"木馬","kr":"목마","level":3,"transcription":"mokuba"}
 {"jp":"本戦","kr":"본전","level":3,"transcription":"honsen"}
 {"jp":"横丁","kr":"요코초","level":3,"transcription":"yokochō"}
-{"jp":"氣","kr":"氣","level":2,"transcription":"ki"}
+{"jp":"氣","kr":"기","level":2,"transcription":"ki"}
 {"jp":"海藻","kr":"해초","level":3,"transcription":"kaisō"}
 {"jp":"無色","kr":"무색","level":3,"transcription":"mushoku"}
 {"jp":"現われる","kr":"나타나는","level":3,"transcription":"arawareru"}
@@ -5367,9 +5367,9 @@
 {"jp":"千本","kr":"센본","level":2,"transcription":"senbon"}
 {"jp":"口笛","kr":"휘파람","level":3,"transcription":"kuchibue"}
 {"jp":"司書","kr":"사서","level":3,"transcription":"shisho"}
-{"jp":"和室","kr":"일본식 방","level":2,"transcription":"washitsu"}
+{"jp":"和室","kr":"합실","level":2,"transcription":"washitsu"}
 {"jp":"回せる","kr":"돌리다","level":3,"transcription":"mawaseru"}
-{"jp":"変わり目","kr":"이상한","level":3,"transcription":"kawarime"}
+{"jp":"変わり目","kr":"변화목","level":3,"transcription":"kawarime"}
 {"jp":"年初","kr":"연초","level":3,"transcription":"nensho"}
 {"jp":"扇子","kr":"부채","level":3,"transcription":"sensu"}
 {"jp":"月夜","kr":"달밤","level":3,"transcription":"tsukiyo"}
@@ -5378,7 +5378,7 @@
 {"jp":"模試","kr":"모시","level":3,"transcription":"moshi"}
 {"jp":"毎秒","kr":"초당","level":3,"transcription":"maibyō"}
 {"jp":"水辺","kr":"물가","level":3,"transcription":"mizube"}
-{"jp":"狗","kr":"狗","level":1,"transcription":"inu"}
+{"jp":"狗","kr":"개","level":1,"transcription":"inu"}
 {"jp":"真っ青","kr":"밝은 파란색","level":3,"transcription":"massao"}
 {"jp":"税込み","kr":"세금 포함","level":2,"transcription":"zeikomi"}
 {"jp":"組み立てる","kr":"조립","level":3,"transcription":"kumitateru"}
@@ -5388,7 +5388,7 @@
 {"jp":"金具","kr":"쇠장식","level":3,"transcription":"kanagu"}
 {"jp":"銀メダル","kr":"은메달","level":2,"transcription":"gin medaru"}
 {"jp":"錆","kr":"녹","level":3,"transcription":"sabi"}
-{"jp":"関空","kr":"칸쿠","level":2,"transcription":"Kankū"}
+{"jp":"関空","kr":"관공역","level":2,"transcription":"Kankū"}
 {"jp":"風車","kr":"풍차","level":3,"transcription":"kazaguruma \/ fūsha"}
 {"jp":"おとぎ話","kr":"동화","level":2,"transcription":"otogibanashi"}
 {"jp":"お巡りさん","kr":"둘러보기","level":2,"transcription":"omawari-san"}
@@ -5403,11 +5403,11 @@
 {"jp":"例文","kr":"예문","level":3,"transcription":"reibun"}
 {"jp":"前払い","kr":"선불","level":3,"transcription":"maebarai"}
 {"jp":"動植物","kr":"동식물","level":3,"transcription":"dōshokubutsu"}
-{"jp":"哀しい","kr":"불쌍한","level":3,"transcription":"kanashii"}
+{"jp":"哀しい","kr":"아름답다","level":3,"transcription":"kanashii"}
 {"jp":"四角","kr":"사각형","level":2,"transcription":"shikaku"}
 {"jp":"国名","kr":"국가명","level":2,"transcription":"kokumei"}
 {"jp":"学区","kr":"학구","level":3,"transcription":"gakku"}
-{"jp":"定規","kr":"눈금자","level":2,"transcription":"jougi"}
+{"jp":"定規","kr":"규칙","level":2,"transcription":"jougi"}
 {"jp":"家業","kr":"가업","level":3,"transcription":"kagyou"}
 {"jp":"巻末","kr":"권말","level":3,"transcription":"kanmatsu"}
 {"jp":"平仮名","kr":"히라가나","level":1,"transcription":"hiragana"}
@@ -5426,33 +5426,33 @@
 {"jp":"荷台","kr":"짐받이","level":3,"transcription":"nidai"}
 {"jp":"遣る","kr":"보내다","level":1,"transcription":"yaru"}
 {"jp":"部室","kr":"부실","level":3,"transcription":"bushitsu"}
-{"jp":"隈","kr":"隈","level":3,"transcription":"kuma"}
+{"jp":"隈","kr":"","level":3,"transcription":"kuma"}
 {"jp":"電話機","kr":"전화기","level":2,"transcription":"denwaki"}
 {"jp":"ごま油","kr":"참기름","level":2,"transcription":"gomaabura"}
 {"jp":"不潔","kr":"불결","level":3,"transcription":"fuketsu"}
 {"jp":"今夏","kr":"올여름","level":3,"transcription":"konka"}
-{"jp":"余震","kr":"여진","level":3,"transcription":"yoshin"}
+{"jp":"余震","kr":"","level":3,"transcription":"yoshin"}
 {"jp":"全品","kr":"전품","level":3,"transcription":"zenpin"}
 {"jp":"前歯","kr":"전치","level":2,"transcription":"maeba"}
 {"jp":"叔父さん","kr":"삼촌","level":2,"transcription":"Ojisan"}
 {"jp":"口数","kr":"구수","level":3,"transcription":"Kuchikazu"}
 {"jp":"口臭","kr":"구취","level":3,"transcription":"Kōshū"}
 {"jp":"合気道","kr":"합기도","level":3,"transcription":"Aikidō"}
-{"jp":"嗚呼","kr":"嗚呼","level":3,"transcription":"Aa"}
+{"jp":"嗚呼","kr":"","level":3,"transcription":"Aa"}
 {"jp":"団員","kr":"단원","level":3,"transcription":"Dan'in"}
-{"jp":"垣","kr":"울타리","level":3,"transcription":"Kaki"}
+{"jp":"垣","kr":"","level":3,"transcription":"Kaki"}
 {"jp":"夢みる","kr":"꿈꾸다","level":2,"transcription":"Yumemiru"}
 {"jp":"定まる","kr":"정하다","level":3,"transcription":"Sadamaru"}
 {"jp":"山の上","kr":"산 위","level":2,"transcription":"Yama no ue"}
 {"jp":"山地","kr":"산지","level":3,"transcription":"Sanchi"}
 {"jp":"形容詞","kr":"형용사","level":3,"transcription":"Keiyōshi"}
 {"jp":"後始末","kr":"후시말","level":3,"transcription":"atoshimatsu"}
-{"jp":"後戻り","kr":"뒤로","level":3,"transcription":"atomodori"}
+{"jp":"後戻り","kr":"","level":3,"transcription":"atomodori"}
 {"jp":"微笑み","kr":"미소","level":3,"transcription":"hohoemi"}
 {"jp":"手ぶら","kr":"빈손","level":3,"transcription":"tebura"}
 {"jp":"数カ月","kr":"몇 개월","level":3,"transcription":"sūkagetsu"}
 {"jp":"旅先","kr":"여행지","level":3,"transcription":"tabisaki"}
-{"jp":"時間切れ","kr":"시간이 다","level":3,"transcription":"jikangire"}
+{"jp":"時間切れ","kr":"","level":3,"transcription":"jikangire"}
 {"jp":"校庭","kr":"교정","level":2,"transcription":"kōtei"}
 {"jp":"町並み","kr":"거리","level":3,"transcription":"machinami"}
 {"jp":"秋季","kr":"추계","level":3,"transcription":"shūki"}
@@ -5460,7 +5460,7 @@
 {"jp":"親類","kr":"친척","level":3,"transcription":"shinrui"}
 {"jp":"釣","kr":"어업","level":2,"transcription":"tsuri"}
 {"jp":"長髪","kr":"긴 머리","level":3,"transcription":"chouhatsu"}
-{"jp":"雨上がり","kr":"비가 오르다","level":3,"transcription":"ameagari"}
+{"jp":"雨上がり","kr":"비가 오다","level":3,"transcription":"ameagari"}
 {"jp":"面倒く","kr":"번거로움","level":2,"transcription":"mendouku"}
 {"jp":"頑張れる","kr":"열심히","level":2,"transcription":"ganbareru"}
 {"jp":"香菜","kr":"향채","level":3,"transcription":"kousai"}
@@ -5471,7 +5471,7 @@
 {"jp":"九月","kr":"구월","level":1,"transcription":"kugatsu"}
 {"jp":"乱れる","kr":"혼란","level":3,"transcription":"midareru"}
 {"jp":"乾電池","kr":"건전지","level":3,"transcription":"kandenchi"}
-{"jp":"作り話","kr":"제작 이야기","level":3,"transcription":"tsukuribanashi"}
+{"jp":"作り話","kr":"작은 이야기","level":3,"transcription":"tsukuribanashi"}
 {"jp":"冷蔵","kr":"냉장","level":3,"transcription":"reizou"}
 {"jp":"前輪","kr":"앞바퀴","level":3,"transcription":"zenrin"}
 {"jp":"和紙","kr":"일본 종이","level":3,"transcription":"washi"}
@@ -5486,7 +5486,7 @@
 {"jp":"春風","kr":"봄바람","level":2,"transcription":"harukaze"}
 {"jp":"淡","kr":"담","level":3,"transcription":"awai"}
 {"jp":"激辛","kr":"매운","level":3,"transcription":"gekikara"}
-{"jp":"煮込む","kr":"끓인다","level":3,"transcription":"nikomu"}
+{"jp":"煮込む","kr":"끓이다","level":3,"transcription":"nikomu"}
 {"jp":"甘酒","kr":"감주","level":3,"transcription":"amazake"}
 {"jp":"田園","kr":"시골","level":3,"transcription":"den'en"}
 {"jp":"納車","kr":"배달","level":3,"transcription":"nōsha"}
@@ -5494,7 +5494,7 @@
 {"jp":"置物","kr":"입상","level":3,"transcription":"okimono"}
 {"jp":"葉巻","kr":"시가","level":3,"transcription":"hamaki"}
 {"jp":"蝶々","kr":"나비","level":2,"transcription":"chōchō"}
-{"jp":"行ない","kr":"행위","level":3,"transcription":"okonai"}
+{"jp":"行ない","kr":"행동","level":3,"transcription":"okonai"}
 {"jp":"行先","kr":"목적지","level":2,"transcription":"yukisaki"}
 {"jp":"補習","kr":"보습","level":3,"transcription":"hoshū"}
 {"jp":"西方","kr":"서방","level":2,"transcription":"seihō"}
@@ -5576,19 +5576,19 @@
 {"jp":"鮮魚","kr":"생선","level":3,"transcription":"sengyo"}
 {"jp":"鼻毛","kr":"코털","level":3,"transcription":"hanage"}
 {"jp":"お先","kr":"선물","level":2,"transcription":"osaki"}
-{"jp":"お構い","kr":"어려움","level":3,"transcription":"okamai"}
-{"jp":"一室","kr":"한 방","level":3,"transcription":"isshitsu"}
-{"jp":"一軒家","kr":"한 집","level":2,"transcription":"ikken'ya"}
+{"jp":"お構い","kr":"불필요한 일","level":3,"transcription":"okamai"}
+{"jp":"一室","kr":"방 하나","level":3,"transcription":"isshitsu"}
+{"jp":"一軒家","kr":"집 한 채","level":2,"transcription":"ikken'ya"}
 {"jp":"両目","kr":"두 눈","level":2,"transcription":"ryōme"}
-{"jp":"両社","kr":"양사","level":3,"transcription":"ryōsha"}
-{"jp":"中等","kr":"중등","level":3,"transcription":"chūtō"}
+{"jp":"両社","kr":"두 회사","level":3,"transcription":"ryōsha"}
+{"jp":"中等","kr":"중급","level":3,"transcription":"chūtō"}
 {"jp":"乗換","kr":"환승","level":2,"transcription":"norikae"}
-{"jp":"乱す","kr":"방해하다","level":3,"transcription":"midasu"}
-{"jp":"住処","kr":"거주지","level":3,"transcription":"sumika"}
-{"jp":"六つ","kr":"여섯","level":1,"transcription":"muttsu"}
-{"jp":"六月","kr":"6월","level":1,"transcription":"rokugatsu"}
+{"jp":"乱す","kr":"방해","level":3,"transcription":"midasu"}
+{"jp":"住処","kr":"거주처","level":3,"transcription":"sumika"}
+{"jp":"六つ","kr":"여섯 개","level":1,"transcription":"muttsu"}
+{"jp":"六月","kr":"6 월","level":1,"transcription":"rokugatsu"}
 {"jp":"剥がす","kr":"벗기다","level":3,"transcription":"hagasu"}
-{"jp":"勝ち負け","kr":"이기다","level":3,"transcription":"Kachimake"}
+{"jp":"勝ち負け","kr":"승패","level":3,"transcription":"Kachimake"}
 {"jp":"匂う","kr":"냄새","level":2,"transcription":"Niou"}
 {"jp":"半角","kr":"반각","level":3,"transcription":"Hankaku"}
 {"jp":"古本屋","kr":"옛 서점","level":2,"transcription":"Furuhon'ya"}
@@ -5604,14 +5604,14 @@
 {"jp":"新任","kr":"신임","level":3,"transcription":"shinnin"}
 {"jp":"暮","kr":"생활","level":2,"transcription":"kure"}
 {"jp":"歌い手","kr":"노래자","level":3,"transcription":"utaite"}
-{"jp":"注意深い","kr":"조심","level":3,"transcription":"chūibukai"}
+{"jp":"注意深い","kr":"조심한","level":3,"transcription":"chūibukai"}
 {"jp":"淋しい","kr":"어리석은","level":2,"transcription":"sabishii"}
-{"jp":"県境","kr":"현 경계","level":3,"transcription":"kenkyō"}
-{"jp":"習い事","kr":"학습","level":2,"transcription":"naraigoto"}
+{"jp":"県境","kr":"경계","level":3,"transcription":"kenkyō"}
+{"jp":"習い事","kr":"습관","level":2,"transcription":"naraigoto"}
 {"jp":"茸","kr":"버섯","level":3,"transcription":"kinoko"}
 {"jp":"菜の花","kr":"유채꽃","level":3,"transcription":"nanohana"}
 {"jp":"見つけ出す","kr":"찾아내다","level":3,"transcription":"mitsukedasu"}
-{"jp":"言い換える","kr":"즉","level":3,"transcription":"iikaeru"}
+{"jp":"言い換える","kr":"말 바꾸다","level":3,"transcription":"iikaeru"}
 {"jp":"豊作","kr":"풍작","level":3,"transcription":"hōsaku"}
 {"jp":"踊り子","kr":"댄서","level":3,"transcription":"odoriko"}
 {"jp":"踏み台","kr":"발판","level":3,"transcription":"fumidai"}
@@ -5639,7 +5639,7 @@
 {"jp":"島民","kr":"섬민","level":3,"transcription":"tōmin"}
 {"jp":"川原","kr":"가와하라","level":3,"transcription":"kawara"}
 {"jp":"幼馴染み","kr":"소꿉친구","level":3,"transcription":"osananajimi"}
-{"jp":"息切れ","kr":"호흡 곤란","level":3,"transcription":"ikigire"}
+{"jp":"息切れ","kr":"호흡곤란","level":3,"transcription":"ikigire"}
 {"jp":"払い戻し","kr":"환불","level":3,"transcription":"haraimodoshi"}
 {"jp":"春雨","kr":"봄비","level":3,"transcription":"harusame"}
 {"jp":"最年長","kr":"최연장","level":3,"transcription":"sainenchō"}
@@ -5669,23 +5669,23 @@
 {"jp":"過ぎ去る","kr":"지나가다","level":3,"transcription":"sugisaru"}
 {"jp":"陸地","kr":"육지","level":3,"transcription":"rikuchi"}
 {"jp":"飛び越える","kr":"뛰어넘다","level":3,"transcription":"tobikoeru"}
-{"jp":"飯店","kr":"반점","level":3,"transcription":"hanten"}
-{"jp":"佛","kr":"부처","level":3,"transcription":"Hotoke"}
-{"jp":"便り","kr":"소식","level":3,"transcription":"Tayori"}
-{"jp":"卵焼き","kr":"계란구이","level":2,"transcription":"Tamagoyaki"}
+{"jp":"飯店","kr":"식당","level":3,"transcription":"hanten"}
+{"jp":"佛","kr":"불","level":3,"transcription":"Hotoke"}
+{"jp":"便り","kr":"편의점","level":3,"transcription":"Tayori"}
+{"jp":"卵焼き","kr":"계란찜","level":2,"transcription":"Tamagoyaki"}
 {"jp":"参道","kr":"참배길","level":3,"transcription":"Sandō"}
-{"jp":"取りあえず","kr":"우선","level":3,"transcription":"Toriaezu"}
+{"jp":"取りあえず","kr":"우선으로","level":3,"transcription":"Toriaezu"}
 {"jp":"古風","kr":"고풍","level":3,"transcription":"Kofū"}
 {"jp":"右端","kr":"오른쪽 끝","level":2,"transcription":"Migihashi"}
-{"jp":"吐息","kr":"한숨","level":3,"transcription":"Toiki"}
+{"jp":"吐息","kr":"숨","level":3,"transcription":"Toiki"}
 {"jp":"増築","kr":"증축","level":3,"transcription":"Zōchiku"}
-{"jp":"大忙し","kr":"큰 바쁜","level":2,"transcription":"Ōisogashi"}
-{"jp":"大群","kr":"큰 무리","level":3,"transcription":"Taigun"}
+{"jp":"大忙し","kr":"큰 바쁜 일","level":2,"transcription":"Ōisogashi"}
+{"jp":"大群","kr":"많은 무리","level":3,"transcription":"Taigun"}
 {"jp":"天災","kr":"천재","level":3,"transcription":"Tensai"}
 {"jp":"害する","kr":"해치다","level":3,"transcription":"Gaisu"}
 {"jp":"弱める","kr":"약하다","level":3,"transcription":"yowameru"}
 {"jp":"捻挫","kr":"염좌","level":3,"transcription":"nenza"}
-{"jp":"握力","kr":"악력","level":3,"transcription":"akuryoku"}
+{"jp":"握力","kr":"힘","level":3,"transcription":"akuryoku"}
 {"jp":"春夏秋冬","kr":"봄여름가을겨울","level":2,"transcription":"shunkashūtō"}
 {"jp":"昼前","kr":"낮전","level":2,"transcription":"hirumae"}
 {"jp":"横顔","kr":"옆모습","level":3,"transcription":"yokogao"}
@@ -5727,12 +5727,12 @@
 {"jp":"球児","kr":"구아","level":3,"transcription":"kyūji"}
 {"jp":"生き返る","kr":"살아남다","level":3,"transcription":"ikikaeru"}
 {"jp":"等分","kr":"등분","level":3,"transcription":"tōbun"}
-{"jp":"肉まん","kr":"고기 만","level":2,"transcription":"nikuman"}
+{"jp":"肉まん","kr":"만두","level":2,"transcription":"nikuman"}
 {"jp":"胃袋","kr":"위장","level":3,"transcription":"ibukuro"}
-{"jp":"自家用車","kr":"자가용차","level":3,"transcription":"jikayōsha"}
+{"jp":"自家用車","kr":"자용차","level":3,"transcription":"jikayōsha"}
 {"jp":"花壇","kr":"화단","level":2,"transcription":"kadan"}
 {"jp":"芸名","kr":"예명","level":3,"transcription":"geimei"}
-{"jp":"芸者","kr":"게이샤","level":3,"transcription":"geisha"}
+{"jp":"芸者","kr":"예사","level":3,"transcription":"geisha"}
 {"jp":"英字","kr":"영문","level":2,"transcription":"eiji"}
 {"jp":"荷造り","kr":"수하물","level":3,"transcription":"nizukuri"}
 {"jp":"赤身","kr":"붉은","level":3,"transcription":"akami"}
@@ -5741,7 +5741,7 @@
 {"jp":"除草","kr":"제초","level":3,"transcription":"josou"}
 {"jp":"隅っこ","kr":"구석","level":2,"transcription":"sumikko"}
 {"jp":"駆けつける","kr":"달리다","level":3,"transcription":"kaketsukeru"}
-{"jp":"ひと言","kr":"한마디","level":3,"transcription":"Hitokoto"}
+{"jp":"ひと言","kr":"한말","level":3,"transcription":"Hitokoto"}
 {"jp":"交ぜる","kr":"교차하다","level":3,"transcription":"Mazeru"}
 {"jp":"傷付ける","kr":"긁다","level":3,"transcription":"Kizutsukeru"}
 {"jp":"全店","kr":"전점","level":3,"transcription":"Zenten"}
@@ -5757,7 +5757,7 @@
 {"jp":"市外","kr":"시외","level":3,"transcription":"shigai"}
 {"jp":"式場","kr":"식장","level":3,"transcription":"shikijō"}
 {"jp":"怠け者","kr":"게으름","level":2,"transcription":"namakemono"}
-{"jp":"揉め事","kr":"망설임","level":3,"transcription":"momegato"}
+{"jp":"揉め事","kr":"혼란","level":3,"transcription":"momegato"}
 {"jp":"擦る","kr":"문지르다","level":3,"transcription":"kosuru"}
 {"jp":"整数","kr":"정수","level":3,"transcription":"seisu"}
 {"jp":"日傘","kr":"양산","level":3,"transcription":"higasa"}
@@ -5786,7 +5786,7 @@
 {"jp":"合わさる","kr":"합치다","level":3,"transcription":"awasaru"}
 {"jp":"囲う","kr":"둘러싸다","level":3,"transcription":"kakou"}
 {"jp":"固まり","kr":"덩어리","level":3,"transcription":"katamari"}
-{"jp":"増やせる","kr":"늘릴 수 있다","level":3,"transcription":"fuyaseru"}
+{"jp":"増やせる","kr":"늘일 수 있다","level":3,"transcription":"fuyaseru"}
 {"jp":"奥歯","kr":"어금니","level":3,"transcription":"okuba"}
 {"jp":"姓名","kr":"성명","level":3,"transcription":"seimei"}
 {"jp":"寝込む","kr":"잠들다","level":3,"transcription":"nekomu"}
@@ -5802,7 +5802,7 @@
 {"jp":"淡水","kr":"담수","level":3,"transcription":"tansui"}
 {"jp":"火山灰","kr":"화산재","level":3,"transcription":"kazanbai"}
 {"jp":"照り","kr":"빛나는","level":3,"transcription":"teri"}
-{"jp":"照れる","kr":"빛나는","level":2,"transcription":"tereru"}
+{"jp":"照れる","kr":"빛나다","level":2,"transcription":"tereru"}
 {"jp":"直売","kr":"직매","level":3,"transcription":"Chokubai"}
 {"jp":"瞬き","kr":"깜박임","level":3,"transcription":"Mabataki"}
 {"jp":"私鉄","kr":"사철","level":3,"transcription":"Shitetsu"}
@@ -5876,7 +5876,7 @@
 {"jp":"堀内","kr":"호리우치","level":1,"transcription":"Horiuchi"}
 {"jp":"多人数","kr":"다수","level":3,"transcription":"taninzū"}
 {"jp":"奥さま","kr":"부인","level":2,"transcription":"okusama"}
-{"jp":"安上がり","kr":"저렴","level":3,"transcription":"yasuagari"}
+{"jp":"安上がり","kr":"저렴하다","level":3,"transcription":"yasuagari"}
 {"jp":"安曇","kr":"아즈미","level":1,"transcription":"Azumi"}
 {"jp":"宛先","kr":"받는 사람","level":2,"transcription":"atesaki"}
 {"jp":"宮原","kr":"미야하라","level":1,"transcription":"Miyahara"}
@@ -5891,7 +5891,7 @@
 {"jp":"湖畔","kr":"호반","level":3,"transcription":"Kohan"}
 {"jp":"点ける","kr":"켜다","level":1,"transcription":"Tsukeru"}
 {"jp":"理工","kr":"이공","level":3,"transcription":"Rikō"}
-{"jp":"瓜","kr":"瓜","level":3,"transcription":"Uri"}
+{"jp":"瓜","kr":"과","level":3,"transcription":"Uri"}
 {"jp":"略語","kr":"약어","level":3,"transcription":"Ryakugo"}
 {"jp":"竹林","kr":"대나무 숲","level":3,"transcription":"Chikurin"}
 {"jp":"紙切れ","kr":"종이 조각","level":3,"transcription":"Kamikire"}
@@ -5966,7 +5966,7 @@
 {"jp":"旧型","kr":"구형","level":3,"transcription":"kyūgata"}
 {"jp":"春先","kr":"초봄","level":2,"transcription":"harusaki"}
 {"jp":"檜","kr":"히메","level":3,"transcription":"hinoki"}
-{"jp":"櫂","kr":"櫂","level":3,"transcription":"kai"}
+{"jp":"櫂","kr":"바람","level":3,"transcription":"kai"}
 {"jp":"気泡","kr":"기포","level":3,"transcription":"kihō"}
 {"jp":"水滴","kr":"물방울","level":3,"transcription":"suiteki"}
 {"jp":"氷点下","kr":"빙점 아래","level":3,"transcription":"hyōtenka"}
@@ -6062,8 +6062,8 @@
 {"jp":"立ち直る","kr":"되돌아가다","level":3,"transcription":"tachinaoru"}
 {"jp":"継母","kr":"계모","level":3,"transcription":"keibo"}
 {"jp":"聞き手","kr":"청취자","level":3,"transcription":"kikite"}
-{"jp":"胡桃","kr":"후 복숭아","level":3,"transcription":"kurumi"}
-{"jp":"英和","kr":"영화","level":3,"transcription":"eiwa"}
+{"jp":"胡桃","kr":"후박","level":3,"transcription":"kurumi"}
+{"jp":"英和","kr":"영어","level":3,"transcription":"eiwa"}
 {"jp":"草刈","kr":"잔디깎기","level":3,"transcription":"kusakari"}
 {"jp":"菫","kr":"스미레","level":3,"transcription":"sumire"}
 {"jp":"薬指","kr":"약지","level":2,"transcription":"kusuriyubi"}
@@ -6197,7 +6197,7 @@
 {"jp":"駄々","kr":"쓸데없는","level":3,"transcription":"dada"}
 {"jp":"駆け込む","kr":"달리다","level":3,"transcription":"kakekomu"}
 {"jp":"鶯","kr":"鶯","level":3,"transcription":"uguisu"}
-{"jp":"ラー油","kr":"라 오일","level":2,"transcription":"rāyu"}
+{"jp":"ラー油","kr":"라오일","level":2,"transcription":"rāyu"}
 {"jp":"不人気","kr":"비인기","level":3,"transcription":"funinki"}
 {"jp":"主夫","kr":"주남편","level":3,"transcription":"shufu"}
 {"jp":"二塁打","kr":"2루타","level":3,"transcription":"niruida"}
@@ -6207,7 +6207,7 @@
 {"jp":"働き者","kr":"일하는 사람","level":3,"transcription":"Hatarakimono"}
 {"jp":"元日","kr":"설날","level":2,"transcription":"Ganjitsu"}
 {"jp":"共学","kr":"공학","level":3,"transcription":"Kyōgaku"}
-{"jp":"其処","kr":"그 처","level":1,"transcription":"Soko"}
+{"jp":"其処","kr":"그곳","level":1,"transcription":"Soko"}
 {"jp":"切り抜く","kr":"자르다","level":3,"transcription":"Kirinuku"}
 {"jp":"塾生","kr":"학원","level":3,"transcription":"Jukusei"}
 {"jp":"対義語","kr":"대의어","level":3,"transcription":"Taigigo"}
@@ -6226,7 +6226,7 @@
 {"jp":"民宿","kr":"민박","level":3,"transcription":"minshuku"}
 {"jp":"沸かす","kr":"끓다","level":2,"transcription":"wakasu"}
 {"jp":"港町","kr":"미나토마치","level":3,"transcription":"minatomachi"}
-{"jp":"湯気","kr":"김","level":3,"transcription":"yuge"}
+{"jp":"湯気","kr":"김기","level":3,"transcription":"yuge"}
 {"jp":"漁村","kr":"어촌","level":3,"transcription":"gyoson"}
 {"jp":"熱帯魚","kr":"열대어","level":3,"transcription":"nettaigyo"}
 {"jp":"白桃","kr":"흰 복숭아","level":3,"transcription":"hakutō"}
@@ -6244,13 +6244,13 @@
 {"jp":"お参り","kr":"참배","level":2,"transcription":"omairi"}
 {"jp":"お粗末","kr":"어리석은","level":3,"transcription":"osomatsu"}
 {"jp":"ひき肉","kr":"갈고리","level":2,"transcription":"hikiniku"}
-{"jp":"ひな祭り","kr":"히나 축제","level":3,"transcription":"Hina Matsuri"}
+{"jp":"ひな祭り","kr":"히나축제","level":3,"transcription":"Hina Matsuri"}
 {"jp":"下巻","kr":"하권","level":3,"transcription":"gekan"}
 {"jp":"中西部","kr":"중서부","level":3,"transcription":"chūseibu"}
 {"jp":"備え付け","kr":"준비","level":3,"transcription":"sonae-tsuke"}
 {"jp":"働かせる","kr":"일하다","level":3,"transcription":"hatarakaseru"}
 {"jp":"光熱","kr":"광열","level":3,"transcription":"kōnetsu"}
-{"jp":"別売り","kr":"별도 판매","level":3,"transcription":"betsuuri"}
+{"jp":"別売り","kr":"별도판매","level":3,"transcription":"betsuuri"}
 {"jp":"割安","kr":"할인","level":3,"transcription":"wariyasu"}
 {"jp":"土産物","kr":"기념품","level":2,"transcription":"miyagemono"}
 {"jp":"大麦","kr":"보리","level":3,"transcription":"ōmugi"}
@@ -6258,7 +6258,7 @@
 {"jp":"幅広","kr":"폭넓은","level":3,"transcription":"habahiro"}
 {"jp":"年月日","kr":"연월일","level":2,"transcription":"nengappi"}
 {"jp":"微熱","kr":"미열","level":3,"transcription":"binetsu"}
-{"jp":"手料理","kr":"손 요리","level":3,"transcription":"teryōri"}
+{"jp":"手料理","kr":"손요리","level":3,"transcription":"teryōri"}
 {"jp":"挙手","kr":"거수","level":3,"transcription":"kyoshu"}
 {"jp":"新入り","kr":"신입","level":3,"transcription":"shin'iri"}
 {"jp":"櫛","kr":"빗","level":2,"transcription":"kushi"}
@@ -6266,21 +6266,21 @@
 {"jp":"洋書","kr":"서양","level":3,"transcription":"yōsho"}
 {"jp":"涙する","kr":"눈물","level":3,"transcription":"namidasuru"}
 {"jp":"清流","kr":"청류","level":3,"transcription":"seiryū"}
-{"jp":"烏龍茶","kr":"우룡차","level":2,"transcription":"ūroncha"}
-{"jp":"生やす","kr":"살기","level":3,"transcription":"hayasu"}
+{"jp":"烏龍茶","kr":"우롱차","level":2,"transcription":"ūroncha"}
+{"jp":"生やす","kr":"생여다","level":3,"transcription":"hayasu"}
 {"jp":"番犬","kr":"번견","level":3,"transcription":"banken"}
-{"jp":"砂時計","kr":"모래 시계","level":3,"transcription":"sunadokei"}
+{"jp":"砂時計","kr":"모래시계","level":3,"transcription":"sunadokei"}
 {"jp":"窓辺","kr":"창가","level":3,"transcription":"madobe"}
 {"jp":"粗い","kr":"거친","level":3,"transcription":"arai"}
-{"jp":"翌週","kr":"다음 주","level":2,"transcription":"yokushū"}
+{"jp":"翌週","kr":"다음주","level":2,"transcription":"yokushū"}
 {"jp":"色鉛筆","kr":"색연필","level":2,"transcription":"iroenpitsu"}
 {"jp":"風鈴","kr":"풍령","level":3,"transcription":"fūrin"}
 {"jp":"飛び跳ねる","kr":"뛰다","level":3,"transcription":"tobihaneru"}
 {"jp":"黄身","kr":"황신","level":2,"transcription":"kimi"}
 {"jp":"けが人","kr":"부상","level":3,"transcription":"keganin"}
 {"jp":"交じり","kr":"교제","level":3,"transcription":"Majiri"}
-{"jp":"値下がり","kr":"가격 인하","level":3,"transcription":"Nesagari"}
-{"jp":"写す","kr":"사진","level":2,"transcription":"Utsusu"}
+{"jp":"値下がり","kr":"가치감소","level":3,"transcription":"Nesagari"}
+{"jp":"写す","kr":"그리다","level":2,"transcription":"Utsusu"}
 {"jp":"別館","kr":"별관","level":3,"transcription":"Bekkan"}
 {"jp":"勇ましい","kr":"용감한","level":3,"transcription":"Isamashii"}
 {"jp":"千切り","kr":"썰매","level":3,"transcription":"Sengiri"}
@@ -6289,7 +6289,7 @@
 {"jp":"宝島","kr":"다카시마","level":3,"transcription":"Takarajima"}
 {"jp":"山吹","kr":"야마부키","level":3,"transcription":"yamabuki"}
 {"jp":"弦楽器","kr":"현악기","level":3,"transcription":"gengakki"}
-{"jp":"弱火","kr":"약한 불","level":2,"transcription":"yowabi"}
+{"jp":"弱火","kr":"약한불","level":2,"transcription":"yowabi"}
 {"jp":"愛し合う","kr":"사랑하다","level":3,"transcription":"aishiau"}
 {"jp":"手の甲","kr":"손등","level":2,"transcription":"tenokō"}
 {"jp":"手早い","kr":"빠르다","level":3,"transcription":"tebayai"}
@@ -6298,7 +6298,7 @@
 {"jp":"柑橘","kr":"감귤","level":3,"transcription":"kankitsu"}
 {"jp":"槌","kr":"망치","level":3,"transcription":"tsuchi"}
 {"jp":"油揚げ","kr":"튀김","level":2,"transcription":"aburaage"}
-{"jp":"流し込む","kr":"흘리다","level":3,"transcription":"nagashikomu"}
+{"jp":"流し込む","kr":"흐르다","level":3,"transcription":"nagashikomu"}
 {"jp":"熱風","kr":"열풍","level":3,"transcription":"neppū"}
 {"jp":"片栗粉","kr":"가문 가루","level":3,"transcription":"katakuriko"}
 {"jp":"生きもの","kr":"살아있는","level":2,"transcription":"ikimono"}
@@ -6314,7 +6314,7 @@
 {"jp":"脳味噌","kr":"뇌 된장","level":3,"transcription":"noumiso"}
 {"jp":"腕立て伏せ","kr":"팔굽혀펴기","level":3,"transcription":"udetatefuse"}
 {"jp":"菖蒲","kr":"창포","level":3,"transcription":"shōbu"}
-{"jp":"蔓","kr":"蔓","level":3,"transcription":"tsuru"}
+{"jp":"蔓","kr":"망","level":3,"transcription":"tsuru"}
 {"jp":"薄暗い","kr":"희미한","level":3,"transcription":"usugurai"}
 {"jp":"見渡せる","kr":"볼 수 있다","level":3,"transcription":"miwataseru"}
 {"jp":"足袋","kr":"버선","level":3,"transcription":"tabi"}
@@ -6416,10 +6416,10 @@
 {"jp":"無臭","kr":"무취","level":3,"transcription":"mushū"}
 {"jp":"素足","kr":"맨발","level":3,"transcription":"suashi"}
 {"jp":"絵具","kr":"페인트","level":3,"transcription":"enogu"}
-{"jp":"蠅","kr":"젓가락","level":3,"transcription":"hae"}
-{"jp":"襖","kr":"襖","level":3,"transcription":"fusuma"}
-{"jp":"許可ない","kr":"허용하지 않음","level":3,"transcription":"kyoka nai"}
-{"jp":"超す","kr":"슈퍼","level":3,"transcription":"kosu"}
+{"jp":"蠅","kr":"벌레","level":3,"transcription":"hae"}
+{"jp":"襖","kr":"벽","level":3,"transcription":"fusuma"}
+{"jp":"許可ない","kr":"허용받지 못함","level":3,"transcription":"kyoka nai"}
+{"jp":"超す","kr":"초월하다","level":3,"transcription":"kosu"}
 {"jp":"身だしなみ","kr":"몸짓","level":3,"transcription":"midashinami"}
 {"jp":"身なり","kr":"옷차림","level":3,"transcription":"minari"}
 {"jp":"適う","kr":"적합하다","level":3,"transcription":"kanau"}
@@ -6436,7 +6436,7 @@
 {"jp":"凹み","kr":"오목","level":3,"transcription":"Hekomi"}
 {"jp":"剃刀","kr":"면도","level":3,"transcription":"Kamisori"}
 {"jp":"剥ける","kr":"벗기다","level":3,"transcription":"Mukeru"}
-{"jp":"割り箸","kr":"젓가락 젓가락","level":2,"transcription":"Waribashi"}
+{"jp":"割り箸","kr":"젓가락","level":2,"transcription":"Waribashi"}
 {"jp":"北国","kr":"북국","level":3,"transcription":"Kitaguni"}
 {"jp":"午","kr":"오","level":3,"transcription":"Uma"}
 {"jp":"向かい合う","kr":"마주하다","level":3,"transcription":"Mukaiau"}
@@ -6506,10 +6506,10 @@
 {"jp":"粉ミルク","kr":"분말 우유","level":3,"transcription":"konamiruku"}
 {"jp":"置場","kr":"위치","level":3,"transcription":"okiba"}
 {"jp":"舞妓","kr":"마이코","level":3,"transcription":"maiko"}
-{"jp":"船首","kr":"선수","level":3,"transcription":"senshu"}
+{"jp":"船首","kr":"선두","level":3,"transcription":"senshu"}
 {"jp":"若返る","kr":"젊어지다","level":3,"transcription":"wakagaeru"}
-{"jp":"茶会","kr":"다회","level":3,"transcription":"chakai"}
-{"jp":"葱","kr":"葱","level":2,"transcription":"negi"}
+{"jp":"茶会","kr":"차회","level":3,"transcription":"chakai"}
+{"jp":"葱","kr":"무","level":2,"transcription":"negi"}
 {"jp":"薄々","kr":"얇은","level":3,"transcription":"usūsu"}
 {"jp":"蜂の巣","kr":"벌집","level":3,"transcription":"hachinosu"}
 {"jp":"言い表す","kr":"말하는","level":3,"transcription":"ii-arawasu"}
@@ -6533,31 +6533,31 @@
 {"jp":"手洗","kr":"화장실","level":2,"transcription":"tearai"}
 {"jp":"打合せ","kr":"회의","level":3,"transcription":"uchiawase"}
 {"jp":"押し入れ","kr":"밀어넣다","level":2,"transcription":"oshiire"}
-{"jp":"拾える","kr":"데리러","level":2,"transcription":"hiroeru"}
+{"jp":"拾える","kr":"들어가다","level":2,"transcription":"hiroeru"}
 {"jp":"指図","kr":"오더","level":3,"transcription":"sashizu"}
 {"jp":"柔術","kr":"jiu jitsu","level":3,"transcription":"jūjutsu"}
-{"jp":"残り物","kr":"남은","level":2,"transcription":"nokorimono"}
+{"jp":"残り物","kr":"남은 것","level":2,"transcription":"nokorimono"}
 {"jp":"毎時","kr":"매시간","level":3,"transcription":"maiji"}
 {"jp":"水牛","kr":"물소","level":3,"transcription":"suigyū"}
 {"jp":"水産物","kr":"수산물","level":3,"transcription":"suisanbutsu"}
 {"jp":"氷菓","kr":"빙과","level":3,"transcription":"hyōka"}
-{"jp":"泳げる","kr":"수영하다","level":1,"transcription":"oyogeru"}
+{"jp":"泳げる","kr":" 수영하다","level":1,"transcription":"oyogeru"}
 {"jp":"溜息","kr":"한숨","level":3,"transcription":"tameiki"}
 {"jp":"物静か","kr":"조용한","level":3,"transcription":"monoshizuka"}
-{"jp":"石ころ","kr":"돌 롤러","level":2,"transcription":"ishikoro"}
+{"jp":"石ころ","kr":"돌","level":2,"transcription":"ishikoro"}
 {"jp":"筍","kr":"순","level":2,"transcription":"takenoko"}
 {"jp":"管楽器","kr":"관악기","level":3,"transcription":"kangakki"}
 {"jp":"給湯","kr":"온수","level":3,"transcription":"kyūtō"}
-{"jp":"置き忘れる","kr":"두고 잊어버리다","level":2,"transcription":"okiwasureru"}
+{"jp":"置き忘れる","kr":"잊어버리다","level":2,"transcription":"okiwasureru"}
 {"jp":"背広","kr":"배광","level":2,"transcription":"sebiro"}
 {"jp":"落ち葉","kr":"낙엽","level":3,"transcription":"ochiba"}
 {"jp":"見積り","kr":"견적","level":3,"transcription":"mitsumori"}
 {"jp":"野山","kr":"야산","level":3,"transcription":"noyama"}
 {"jp":"露店","kr":"노점","level":3,"transcription":"roten"}
-{"jp":"顏","kr":"턱","level":1,"transcription":"kao"}
+{"jp":"顏","kr":"얼굴","level":1,"transcription":"kao"}
 {"jp":"飛行船","kr":"비행선","level":3,"transcription":"hikousen"}
 {"jp":"かき混ぜる","kr":"약동하다","level":2,"transcription":"kakimazeru"}
-{"jp":"よそ見","kr":"요소 봐","level":3,"transcription":"yosomi"}
+{"jp":"よそ見","kr":"외로이 보기","level":3,"transcription":"yosomi"}
 {"jp":"一人娘","kr":"혼자 딸","level":3,"transcription":"hitorimusume"}
 {"jp":"上巻","kr":"상권","level":3,"transcription":"joukan"}
 {"jp":"入れ物","kr":"입상","level":2,"transcription":"iremono"}
@@ -6596,9 +6596,9 @@
 {"jp":"飲用","kr":"음용","level":3,"transcription":"inyō"}
 {"jp":"首飾り","kr":"목 장식","level":2,"transcription":"kubikazari"}
 {"jp":"魚肉","kr":"생선","level":2,"transcription":"gyoniku"}
-{"jp":"鰐","kr":"鰐","level":3,"transcription":"wani"}
-{"jp":"鰹","kr":"가다랭이","level":3,"transcription":"katsuo"}
-{"jp":"鵜","kr":"가마","level":3,"transcription":"u"}
+{"jp":"鰐","kr":"어깨","level":3,"transcription":"wani"}
+{"jp":"鰹","kr":"갈치","level":3,"transcription":"katsuo"}
+{"jp":"鵜","kr":"새우","level":3,"transcription":"u"}
 {"jp":"麦わら","kr":"밀짚","level":2,"transcription":"mugiwara"}
 {"jp":"ついて行く","kr":"따라가다","level":1,"transcription":"tsuite iku"}
 {"jp":"下剤","kr":"완하제","level":3,"transcription":"gezai"}
@@ -6657,26 +6657,26 @@
 {"jp":"蓮華","kr":"연꽃","level":3,"transcription":"Renge"}
 {"jp":"薄切り","kr":"얇게 썬다","level":3,"transcription":"Usugiri"}
 {"jp":"蝋","kr":"왁스","level":3,"transcription":"Rō"}
-{"jp":"衣食住","kr":"의식주","level":3,"transcription":"Ishokujū"}
+{"jp":"衣食住","kr":"식과거","level":3,"transcription":"Ishokujū"}
 {"jp":"訳者","kr":"역자","level":3,"transcription":"Yakusha"}
-{"jp":"赤み","kr":"붉은","level":3,"transcription":"Akami"}
+{"jp":"赤み","kr":"붉은색","level":3,"transcription":"Akami"}
 {"jp":"鋸","kr":"톱","level":2,"transcription":"nokogiri"}
 {"jp":"陸運","kr":"육운","level":3,"transcription":"rikuun"}
 {"jp":"鮨","kr":"스시","level":1,"transcription":"sushi"}
-{"jp":"お作り","kr":"제작","level":3,"transcription":"otsukuri"}
+{"jp":"お作り","kr":"조리","level":3,"transcription":"otsukuri"}
 {"jp":"お鍋","kr":"냄비","level":2,"transcription":"onabe"}
-{"jp":"下手だ","kr":"나쁘다.","level":1,"transcription":"heta da"}
+{"jp":"下手だ","kr":"나쁘다","level":1,"transcription":"heta da"}
 {"jp":"ウーロン茶","kr":"우롱차","level":1,"transcription":"ūroncha"}
 {"jp":"サラダ油","kr":"샐러드 오일","level":2,"transcription":"saradayu"}
 {"jp":"ライ麦","kr":"호밀","level":3,"transcription":"raimugi"}
 {"jp":"一寸","kr":"한 치수","level":1,"transcription":"chotto"}
-{"jp":"上期","kr":"상반기","level":3,"transcription":"kamiki"}
+{"jp":"上期","kr":"상기","level":3,"transcription":"kamiki"}
 {"jp":"乗降","kr":"승강","level":3,"transcription":"jōkō"}
 {"jp":"人懐っこい","kr":"어리석은","level":3,"transcription":"hitonatsukkoi"}
 {"jp":"刷る","kr":"인쇄하다","level":2,"transcription":"suru"}
 {"jp":"前頭","kr":"앞머리","level":3,"transcription":"zentō"}
 {"jp":"南風","kr":"남풍","level":2,"transcription":"minamikaze"}
-{"jp":"口づけ","kr":"입","level":3,"transcription":"kuchizuke"}
+{"jp":"口づけ","kr":"입술","level":3,"transcription":"kuchizuke"}
 {"jp":"同封","kr":"동봉","level":3,"transcription":"dōfū"}
 {"jp":"国保","kr":"국보","level":3,"transcription":"kokuho"}
 {"jp":"売り払う","kr":"판매하다","level":3,"transcription":"uriharau"}
@@ -6687,8 +6687,8 @@
 {"jp":"密封","kr":"밀폐","level":3,"transcription":"mīfu"}
 {"jp":"小売り","kr":"소매","level":3,"transcription":"kouri"}
 {"jp":"小腹","kr":"아랫배","level":3,"transcription":"kobara"}
-{"jp":"差出人","kr":"보낸 사람","level":3,"transcription":"sashidashinin"}
-{"jp":"強火","kr":"화재","level":3,"transcription":"tsuyobi"}
+{"jp":"差出人","kr":"차이 사람","level":3,"transcription":"sashidashinin"}
+{"jp":"強火","kr":"강화","level":3,"transcription":"tsuyobi"}
 {"jp":"捜す","kr":"찾다","level":2,"transcription":"sagasu"}
 {"jp":"日勤","kr":"일근","level":3,"transcription":"nikkin"}
 {"jp":"板前","kr":"판 앞","level":3,"transcription":"itamae"}
@@ -6698,8 +6698,8 @@
 {"jp":"残飯","kr":"잔반","level":3,"transcription":"zanpan"}
 {"jp":"水星","kr":"수성","level":3,"transcription":"suisei"}
 {"jp":"治まる","kr":"치료하다","level":3,"transcription":"osamaru"}
-{"jp":"焚く","kr":"바보","level":3,"transcription":"taku"}
-{"jp":"煎茶","kr":"煎茶","level":3,"transcription":"sencha"}
+{"jp":"焚く","kr":"불지르다","level":3,"transcription":"taku"}
+{"jp":"煎茶","kr":"간차","level":3,"transcription":"sencha"}
 {"jp":"盛り合わせ","kr":"모듬","level":3,"transcription":"moriawase"}
 {"jp":"綱引き","kr":"줄다리기","level":3,"transcription":"tsunahiki"}
 {"jp":"考え出す","kr":"생각하다","level":3,"transcription":"kangaedasu"}
@@ -6738,9 +6738,9 @@
 {"jp":"早める","kr":"일찍","level":3,"transcription":"hayameru"}
 {"jp":"束ねる","kr":"묶다","level":3,"transcription":"tabaneru"}
 {"jp":"梟","kr":"梟","level":3,"transcription":"fukurō"}
-{"jp":"泪","kr":"泪","level":3,"transcription":"namida"}
-{"jp":"浜風","kr":"하마 바람","level":3,"transcription":"hamakaze"}
-{"jp":"海道","kr":"해도","level":3,"transcription":"kaidō"}
+{"jp":"泪","kr":"눈물","level":3,"transcription":"namida"}
+{"jp":"浜風","kr":"바람","level":3,"transcription":"hamakaze"}
+{"jp":"海道","kr":"해로","level":3,"transcription":"kaidō"}
 {"jp":"炊事","kr":"취사","level":2,"transcription":"suiji"}
 {"jp":"生花","kr":"생화","level":3,"transcription":"seika"}
 {"jp":"祭日","kr":"휴일","level":2,"transcription":"saijitsu"}
@@ -6749,7 +6749,7 @@
 {"jp":"考え直す","kr":"다시 생각하다","level":3,"transcription":"kangaenaosu"}
 {"jp":"読み応え","kr":"읽기","level":3,"transcription":"yomigotae"}
 {"jp":"軽症","kr":"경증","level":3,"transcription":"keishō"}
-{"jp":"輪ゴム","kr":"고무 고무","level":2,"transcription":"wagomu"}
+{"jp":"輪ゴム","kr":"고무줄","level":2,"transcription":"wagomu"}
 {"jp":"遊覧","kr":"유람","level":3,"transcription":"yūran"}
 {"jp":"達磨","kr":"달마","level":3,"transcription":"daruma"}
 {"jp":"鉄製","kr":"철제","level":3,"transcription":"tetsusei"}
@@ -6758,7 +6758,7 @@
 {"jp":"青果","kr":"청과","level":3,"transcription":"seika"}
 {"jp":"頼める","kr":"부탁하다","level":2,"transcription":"tanomeru"}
 {"jp":"ごみ箱","kr":"쓰레기통","level":1,"transcription":"gomibako"}
-{"jp":"ガラス張り","kr":"유리","level":3,"transcription":"garasubari"}
+{"jp":"ガラス張り","kr":"유리장면","level":3,"transcription":"garasubari"}
 {"jp":"付け足し","kr":"추가","level":3,"transcription":"tsuketashi"}
 {"jp":"印刷所","kr":"인쇄소","level":3,"transcription":"insatsujo"}
 {"jp":"取り外す","kr":"제거하다","level":3,"transcription":"torihazusu"}
@@ -6771,12 +6771,12 @@
 {"jp":"家々","kr":"집","level":3,"transcription":"ieie"}
 {"jp":"小径","kr":"소경","level":3,"transcription":"komichi"}
 {"jp":"山車","kr":"산차","level":3,"transcription":"dashi"}
-{"jp":"我儘","kr":"我儘","level":3,"transcription":"wagamama"}
+{"jp":"我儘","kr":"이게","level":3,"transcription":"wagamama"}
 {"jp":"戸棚","kr":"옷장","level":2,"transcription":"todana"}
 {"jp":"押し上げる","kr":"밀어 올리다","level":3,"transcription":"oshiageru"}
 {"jp":"持ち家","kr":"소유자","level":3,"transcription":"mochiie"}
 {"jp":"春菊","kr":"봄 국화","level":3,"transcription":"shungiku"}
-{"jp":"時間割","kr":"시간할당","level":2,"transcription":"jikanwari"}
+{"jp":"時間割","kr":"시간표","level":2,"transcription":"jikanwari"}
 {"jp":"次週","kr":"다음주","level":2,"transcription":"jishū"}
 {"jp":"正答","kr":"정답","level":3,"transcription":"seitō"}
 {"jp":"此方","kr":"여기","level":1,"transcription":"kochira"}
@@ -6806,12 +6806,12 @@
 {"jp":"仔猫","kr":"새 고양이","level":2,"transcription":"koneko"}
 {"jp":"係わる","kr":"관련","level":3,"transcription":"kakawaru"}
 {"jp":"全館","kr":"전관","level":3,"transcription":"zenkan"}
-{"jp":"割り勘","kr":"나누는 감","level":2,"transcription":"warikan"}
-{"jp":"叔母さん","kr":"이모","level":2,"transcription":"obasan"}
-{"jp":"取り掛かる","kr":"다루다","level":3,"transcription":"torikakaru"}
+{"jp":"割り勘","kr":"나누기","level":2,"transcription":"warikan"}
+{"jp":"叔母さん","kr":"이모님","level":2,"transcription":"obasan"}
+{"jp":"取り掛かる","kr":"맡다","level":3,"transcription":"torikakaru"}
 {"jp":"夏至","kr":"여름","level":3,"transcription":"geshi"}
-{"jp":"奇麗","kr":"깨끗한","level":1,"transcription":"kirei"}
-{"jp":"室外","kr":"실외","level":3,"transcription":"shitsugai"}
+{"jp":"奇麗","kr":"아름답다","level":1,"transcription":"kirei"}
+{"jp":"室外","kr":"외부","level":3,"transcription":"shitsugai"}
 {"jp":"寝顔","kr":"수면","level":3,"transcription":"negao"}
 {"jp":"小夏","kr":"코나츠","level":3,"transcription":"konatsu"}
 {"jp":"幾らか","kr":"약간","level":3,"transcription":"ikuraka"}
@@ -6820,7 +6820,7 @@
 {"jp":"曇り空","kr":"흐린 하늘","level":2,"transcription":"kumorizora"}
 {"jp":"枯葉","kr":"고엽","level":3,"transcription":"kareha"}
 {"jp":"水遊び","kr":"물놀이","level":3,"transcription":"mizu asobi"}
-{"jp":"水飲み","kr":"물 마시는","level":3,"transcription":"mizunomi"}
+{"jp":"水飲み","kr":"물을 마시는","level":3,"transcription":"mizunomi"}
 {"jp":"波乗り","kr":"파도 타기","level":3,"transcription":"naminori"}
 {"jp":"泣かす","kr":"울다","level":3,"transcription":"nakasu"}
 {"jp":"燃え上がる","kr":"불타는","level":3,"transcription":"moeagaru"}
@@ -6837,15 +6837,15 @@
 {"jp":"竹刀","kr":"대나무 검","level":3,"transcription":"shinai"}
 {"jp":"結び方","kr":"묶는 방법","level":2,"transcription":"musubikata"}
 {"jp":"腕立て","kr":"팔굽혀펴기","level":2,"transcription":"udetate"}
-{"jp":"花木","kr":"꽃 나무","level":3,"transcription":"kaboku"}
-{"jp":"草履","kr":"초신","level":2,"transcription":"zōri"}
+{"jp":"花木","kr":"꽃나무","level":3,"transcription":"kaboku"}
+{"jp":"草履","kr":"초화","level":2,"transcription":"zōri"}
 {"jp":"薬師","kr":"약사","level":3,"transcription":"yakushi"}
 {"jp":"規則正しい","kr":"규칙적","level":3,"transcription":"kisokutadashii"}
 {"jp":"語り手","kr":"말하는 사람","level":3,"transcription":"katarite"}
 {"jp":"賽銭","kr":"뱃전","level":3,"transcription":"saisen"}
 {"jp":"透き通る","kr":"투명하다","level":3,"transcription":"sukitōru"}
 {"jp":"鉢植え","kr":"화분","level":3,"transcription":"hachiue"}
-{"jp":"雑煮","kr":"볶음","level":3,"transcription":"zōni"}
+{"jp":"雑煮","kr":"볶음밥","level":3,"transcription":"zōni"}
 {"jp":"雛人形","kr":"병아리 인형","level":3,"transcription":"hinaningyō"}
 {"jp":"高菜","kr":"타카나","level":3,"transcription":"takana"}
 {"jp":"きな粉","kr":"가루","level":3,"transcription":"kinako"}
@@ -6866,12 +6866,12 @@
 {"jp":"大粒","kr":"큰 곡물","level":3,"transcription":"ootsubu"}
 {"jp":"女のコ","kr":"여자의 코","level":2,"transcription":"onnanoko"}
 {"jp":"姿見","kr":"모습","level":3,"transcription":"sugatami"}
-{"jp":"宛名","kr":"주소","level":3,"transcription":"atena"}
-{"jp":"家路","kr":"가로","level":3,"transcription":"ieji"}
+{"jp":"宛名","kr":"이름","level":3,"transcription":"atena"}
+{"jp":"家路","kr":"집길","level":3,"transcription":"ieji"}
 {"jp":"小包","kr":"소포","level":2,"transcription":"kozutsumi"}
 {"jp":"平たい","kr":"평평한","level":3,"transcription":"hiratai"}
 {"jp":"引き下げる","kr":"낮추다","level":3,"transcription":"hikisageru"}
-{"jp":"押","kr":"푸시","level":2,"transcription":"oshi"}
+{"jp":"押","kr":"압","level":2,"transcription":"oshi"}
 {"jp":"日出","kr":"일출","level":2,"transcription":"hinode"}
 {"jp":"日日","kr":"일일","level":3,"transcription":"hibi"}
 {"jp":"次号","kr":"다음호","level":3,"transcription":"jigō"}
@@ -6899,14 +6899,14 @@
 {"jp":"鈴蘭","kr":"스즈란","level":3,"transcription":"suzuran"}
 {"jp":"隠し事","kr":"숨겨진 것","level":3,"transcription":"kakushigoto"}
 {"jp":"雇い主","kr":"고용주","level":3,"transcription":"yatoinushi"}
-{"jp":"雉","kr":"雉","level":3,"transcription":"kiji"}
+{"jp":"雉","kr":"비늘","level":3,"transcription":"kiji"}
 {"jp":"霞む","kr":"서리","level":3,"transcription":"kasumu"}
 {"jp":"馴れ","kr":"익숙한","level":3,"transcription":"nare"}
 {"jp":"鱈","kr":"비늘","level":3,"transcription":"tara"}
-{"jp":"お蔭","kr":"蔭","level":3,"transcription":"okage"}
+{"jp":"お蔭","kr":"이유","level":3,"transcription":"okage"}
 {"jp":"かき揚げ","kr":"튀김","level":3,"transcription":"kakiage"}
 {"jp":"ひと目","kr":"첫눈","level":2,"transcription":"hitome"}
-{"jp":"よそ者","kr":"요소자","level":3,"transcription":"yosomono"}
+{"jp":"よそ者","kr":"외인자","level":3,"transcription":"yosomono"}
 {"jp":"イタリア製","kr":"이탈리아제","level":2,"transcription":"Itaria-sei"}
 {"jp":"七面鳥","kr":"칠면조","level":3,"transcription":"shichimenchō"}
 {"jp":"三輪車","kr":"삼륜차","level":2,"transcription":"sanrinsha"}
@@ -6929,7 +6929,7 @@
 {"jp":"書留","kr":"등기","level":3,"transcription":"kakitome"}
 {"jp":"月食","kr":"월식","level":3,"transcription":"gesshoku"}
 {"jp":"東南","kr":"동남","level":2,"transcription":"tōnan"}
-{"jp":"歩数","kr":"걸음 수","level":3,"transcription":"hosū"}
+{"jp":"歩数","kr":"걸음수","level":3,"transcription":"hosū"}
 {"jp":"水虫","kr":"무좀","level":3,"transcription":"mizumushi"}
 {"jp":"水鉄砲","kr":"수철포","level":2,"transcription":"mizudeppō"}
 {"jp":"汁物","kr":"국물","level":2,"transcription":"shirumono"}
@@ -6938,8 +6938,8 @@
 {"jp":"溜まり場","kr":"웅덩이","level":3,"transcription":"tamariba"}
 {"jp":"煉瓦","kr":"벽돌","level":3,"transcription":"renga"}
 {"jp":"甲虫","kr":"갑충","level":3,"transcription":"kōchū"}
-{"jp":"瞑る","kr":"명확하다","level":3,"transcription":"tsuburu"}
-{"jp":"綴","kr":"철","level":3,"transcription":"tsuzuri"}
+{"jp":"瞑る","kr":"눈을 감다","level":3,"transcription":"tsuburu"}
+{"jp":"綴","kr":"글치다","level":3,"transcription":"tsuzuri"}
 {"jp":"聖夜","kr":"성야","level":3,"transcription":"seiya"}
 {"jp":"背もたれ","kr":"등받이","level":2,"transcription":"semotare"}
 {"jp":"臼","kr":"우스운","level":3,"transcription":"usu"}
@@ -6951,7 +6951,7 @@
 {"jp":"黒豆","kr":"검은콩","level":3,"transcription":"kuromame"}
 {"jp":"ちゃぶ台","kr":"샤브다이","level":3,"transcription":"chabudai"}
 {"jp":"パン粉","kr":"부스러기","level":2,"transcription":"panko"}
-{"jp":"丑","kr":"丑","level":3,"transcription":"ushi"}
+{"jp":"丑","kr":"아름답지 않은","level":3,"transcription":"ushi"}
 {"jp":"人通り","kr":"사람 거리","level":3,"transcription":"hitodōri"}
 {"jp":"倍速","kr":"배속","level":3,"transcription":"baisoku"}
 {"jp":"冷え込み","kr":"차가운","level":3,"transcription":"hiekomi"}
@@ -6986,18 +6986,18 @@
 {"jp":"茂み","kr":"덤불","level":3,"transcription":"shigemi"}
 {"jp":"茶漬け","kr":"차 절임","level":3,"transcription":"chazuke"}
 {"jp":"行く先","kr":"가는 곳","level":3,"transcription":"yukusaki"}
-{"jp":"越冬","kr":"월동","level":3,"transcription":"ettō"}
+{"jp":"越冬","kr":"겨울철","level":3,"transcription":"ettō"}
 {"jp":"退室","kr":"퇴실","level":2,"transcription":"taishitsu"}
 {"jp":"部首","kr":"부수","level":3,"transcription":"bushu"}
-{"jp":"酎","kr":"酎","level":3,"transcription":"chū"}
+{"jp":"酎","kr":"","level":3,"transcription":"chū"}
 {"jp":"鉄棒","kr":"철봉","level":2,"transcription":"tetsubō"}
-{"jp":"銘菓","kr":"명과","level":3,"transcription":"meika"}
-{"jp":"障る","kr":"장애","level":3,"transcription":"sawaru"}
-{"jp":"離乳食","kr":"이유식","level":3,"transcription":"rinyūshoku"}
+{"jp":"銘菓","kr":"명가","level":3,"transcription":"meika"}
+{"jp":"障る","kr":"막히다","level":3,"transcription":"sawaru"}
+{"jp":"離乳食","kr":"유아식","level":3,"transcription":"rinyūshoku"}
 {"jp":"音読み","kr":"소리 읽기","level":3,"transcription":"on'yomi"}
-{"jp":"鰤","kr":"鰤","level":3,"transcription":"buri"}
+{"jp":"鰤","kr":"","level":3,"transcription":"buri"}
 {"jp":"お裾分け","kr":"옷자락","level":3,"transcription":"osusowake"}
-{"jp":"个","kr":"个","level":1,"transcription":"ko"}
+{"jp":"个","kr":"","level":1,"transcription":"ko"}
 {"jp":"乗り降り","kr":"승하차","level":2,"transcription":"nori-ori"}
 {"jp":"傷み","kr":"상처","level":3,"transcription":"itami"}
 {"jp":"合わす","kr":"합치다","level":3,"transcription":"awasu"}
@@ -7005,26 +7005,26 @@
 {"jp":"好条件","kr":"좋은 조건","level":3,"transcription":"kōjōken"}
 {"jp":"定刻","kr":"정각","level":3,"transcription":"teikoku"}
 {"jp":"寝過ごし","kr":"수면","level":2,"transcription":"nesugoshi"}
-{"jp":"工員","kr":"공원","level":3,"transcription":"kōin"}
-{"jp":"布地","kr":"직물","level":3,"transcription":"nunoji"}
-{"jp":"広間","kr":"히로마","level":3,"transcription":"hiroma"}
+{"jp":"工員","kr":"","level":3,"transcription":"kōin"}
+{"jp":"布地","kr":"","level":3,"transcription":"nunoji"}
+{"jp":"広間","kr":"","level":3,"transcription":"hiroma"}
 {"jp":"情況","kr":"상황","level":3,"transcription":"jōkyō"}
-{"jp":"戴く","kr":"잡다","level":3,"transcription":"itadaku"}
+{"jp":"戴く","kr":"","level":3,"transcription":"itadaku"}
 {"jp":"手触り","kr":"감촉","level":3,"transcription":"tezawari"}
 {"jp":"控え室","kr":"대기실","level":3,"transcription":"hikaeshitsu"}
 {"jp":"控室","kr":"대기실","level":3,"transcription":"Hikaeshitsu"}
-{"jp":"断水","kr":"단수","level":3,"transcription":"Dansui"}
-{"jp":"日暮","kr":"닛포","level":3,"transcription":"Higurashi"}
-{"jp":"沁み","kr":"沁み","level":3,"transcription":"Shimi"}
-{"jp":"真後ろ","kr":"바로 뒤","level":2,"transcription":"mauro"}
-{"jp":"祀り","kr":"모셔","level":3,"transcription":"matsuri"}
-{"jp":"美声","kr":"아름다움","level":3,"transcription":"bisei"}
+{"jp":"断水","kr":"","level":3,"transcription":"Dansui"}
+{"jp":"日暮","kr":"","level":3,"transcription":"Higurashi"}
+{"jp":"沁み","kr":"침","level":3,"transcription":"Shimi"}
+{"jp":"真後ろ","kr":"뒤쪽","level":2,"transcription":"mauro"}
+{"jp":"祀り","kr":"묘지","level":3,"transcription":"matsuri"}
+{"jp":"美声","kr":"아름답음","level":3,"transcription":"bisei"}
 {"jp":"薮","kr":"수풀","level":3,"transcription":"yabu"}
 {"jp":"詰め替え","kr":"리필","level":3,"transcription":"tsumekae"}
-{"jp":"買わす","kr":"사다","level":3,"transcription":"kawasu"}
-{"jp":"通える","kr":"통과하다","level":2,"transcription":"kayoeru"}
+{"jp":"買わす","kr":"구매하다","level":3,"transcription":"kawasu"}
+{"jp":"通える","kr":"통과할 수 있다","level":2,"transcription":"kayoeru"}
 {"jp":"造花","kr":"조화","level":3,"transcription":"zōka"}
-{"jp":"運べる","kr":"운반하다","level":2,"transcription":"hakoberu"}
+{"jp":"運べる","kr":"운반할 수 있다","level":2,"transcription":"hakoberu"}
 {"jp":"鉤","kr":"그릇","level":3,"transcription":"kagi"}
 {"jp":"飛び出る","kr":"뛰다","level":3,"transcription":"tobideru"}
 {"jp":"食べもの","kr":"음식","level":1,"transcription":"tabemono"}
@@ -7043,19 +7043,19 @@
 {"jp":"寝転がる","kr":"잠들다","level":3,"transcription":"nekorogaru"}
 {"jp":"廃品","kr":"폐품","level":3,"transcription":"haihin"}
 {"jp":"持たす","kr":"갖다","level":3,"transcription":"motasu"}
-{"jp":"昔ばなし","kr":"옛날 바 없음","level":2,"transcription":"mukashibanashi"}
+{"jp":"昔ばなし","kr":"옛날 이야기","level":2,"transcription":"mukashibanashi"}
 {"jp":"波風","kr":"물결","level":3,"transcription":"namikaze"}
 {"jp":"燭台","kr":"촛대","level":3,"transcription":"shokudai"}
 {"jp":"発泡スチロール","kr":"발포 스티롤","level":3,"transcription":"happō suchirōru"}
 {"jp":"睡蓮","kr":"수련","level":3,"transcription":"suiren"}
 {"jp":"積み込み","kr":"적재","level":3,"transcription":"tsumikomi"}
-{"jp":"立入禁止","kr":"출입금지","level":2,"transcription":"tachiiri kinshi"}
+{"jp":"立入禁止","kr":"입장금지","level":2,"transcription":"tachiiri kinshi"}
 {"jp":"節句","kr":"절구","level":3,"transcription":"sekku"}
 {"jp":"粟","kr":"粟","level":3,"transcription":"awa"}
 {"jp":"絵日記","kr":"그림 일기","level":3,"transcription":"enikki"}
 {"jp":"絵葉書","kr":"그림 엽서","level":3,"transcription":"ehagaki"}
 {"jp":"縮み","kr":"수축","level":3,"transcription":"chijimi"}
-{"jp":"行き止まり","kr":"막다른","level":3,"transcription":"ikidomari"}
+{"jp":"行き止まり","kr":"막다른 길","level":3,"transcription":"ikidomari"}
 {"jp":"話し掛ける","kr":"말을 걸다","level":2,"transcription":"hanashikakeru"}
 {"jp":"身振り","kr":"몸짓","level":3,"transcription":"miburi"}
 {"jp":"選書","kr":"선서","level":3,"transcription":"sensho"}
@@ -7106,8 +7106,8 @@
 {"jp":"台形","kr":"사다리꼴","level":3,"transcription":"daikei"}
 {"jp":"唸る","kr":"씹다","level":3,"transcription":"unaru"}
 {"jp":"夜ふかし","kr":"밤 흐림","level":2,"transcription":"yofukashi"}
-{"jp":"寮生","kr":"기숙사","level":3,"transcription":"ryōsei"}
-{"jp":"小村","kr":"고무라","level":3,"transcription":"komura"}
+{"jp":"寮生","kr":"숙가","level":3,"transcription":"ryōsei"}
+{"jp":"小村","kr":"소촌","level":3,"transcription":"komura"}
 {"jp":"川岸","kr":"강변","level":3,"transcription":"kawagishi"}
 {"jp":"数個","kr":"몇 개","level":2,"transcription":"sūko"}
 {"jp":"植木鉢","kr":"화분","level":3,"transcription":"Uekibachi"}
@@ -7136,20 +7136,20 @@
 {"jp":"仲居","kr":"나카이","level":3,"transcription":"nakai"}
 {"jp":"再戦","kr":"재전","level":3,"transcription":"saisen"}
 {"jp":"再来週","kr":"다시 다음 주","level":2,"transcription":"saraishū"}
-{"jp":"冷え込む","kr":"식히다","level":3,"transcription":"hiekomu"}
+{"jp":"冷え込む","kr":"추운다","level":3,"transcription":"hiekomu"}
 {"jp":"切り株","kr":"그루터기","level":3,"transcription":"kirikabu"}
 {"jp":"名城","kr":"명성","level":3,"transcription":"meijō"}
-{"jp":"呼び戻す","kr":"되부르다","level":3,"transcription":"yobimodosu"}
+{"jp":"呼び戻す","kr":"되찾다","level":3,"transcription":"yobimodosu"}
 {"jp":"売り買い","kr":"판매","level":3,"transcription":"urikai"}
-{"jp":"定職","kr":"정직","level":3,"transcription":"teishoku"}
-{"jp":"引き付ける","kr":"끌다","level":3,"transcription":"hikitsukeru"}
+{"jp":"定職","kr":"직업","level":3,"transcription":"teishoku"}
+{"jp":"引き付ける","kr":"끌어모으다","level":3,"transcription":"hikitsukeru"}
 {"jp":"当校","kr":"본교","level":3,"transcription":"tōkō"}
 {"jp":"後ろ髪","kr":"뒷머리","level":3,"transcription":"ushirogami"}
 {"jp":"打ち上げ花火","kr":"발사 불꽃놀이","level":2,"transcription":"uchiagehanabi"}
 {"jp":"持ち歩き","kr":"휴대하기","level":3,"transcription":"mochiaruki"}
 {"jp":"掛け算","kr":"곱셈","level":2,"transcription":"kakezan"}
 {"jp":"暇潰し","kr":"여가","level":3,"transcription":"himatsubushi"}
-{"jp":"杵","kr":"杵","level":3,"transcription":"kine"}
+{"jp":"杵","kr":"추","level":3,"transcription":"kine"}
 {"jp":"水割り","kr":"물 분할","level":3,"transcription":"mizuwari"}
 {"jp":"泡立てる","kr":"털다","level":3,"transcription":"awadateru"}
 {"jp":"湖水","kr":"호수","level":3,"transcription":"kosui"}
@@ -7167,16 +7167,16 @@
 {"jp":"雨傘","kr":"우산","level":2,"transcription":"amagasa"}
 {"jp":"音大","kr":"음대","level":3,"transcription":"Ondai"}
 {"jp":"頭金","kr":"두금","level":3,"transcription":"atamakin"}
-{"jp":"鼻先","kr":"코 끝","level":3,"transcription":"hanasaki"}
+{"jp":"鼻先","kr":"코끝","level":3,"transcription":"hanasaki"}
 {"jp":"お袋","kr":"가방","level":3,"transcription":"ofukuro"}
 {"jp":"万札","kr":"만찰","level":3,"transcription":"mansatsu"}
-{"jp":"仲よく","kr":"잘 지내다","level":2,"transcription":"nakayoku"}
-{"jp":"冬物","kr":"겨울 물","level":2,"transcription":"fuyumono"}
+{"jp":"仲よく","kr":"잘지내다","level":2,"transcription":"nakayoku"}
+{"jp":"冬物","kr":"겨울물","level":2,"transcription":"fuyumono"}
 {"jp":"助け合う","kr":"돕는","level":3,"transcription":"tasukeau"}
 {"jp":"取りあげる","kr":"잡다","level":3,"transcription":"toriageru"}
 {"jp":"受け持つ","kr":"받다","level":3,"transcription":"ukemotsu"}
 {"jp":"呉れる","kr":"우울하다","level":1,"transcription":"kureru"}
-{"jp":"探し回る","kr":"돌아다니다","level":3,"transcription":"Sagashimawaru"}
+{"jp":"探し回る","kr":"돌아니다","level":3,"transcription":"Sagashimawaru"}
 {"jp":"早番","kr":"조기","level":3,"transcription":"hayaban"}
 {"jp":"昨年度","kr":"작년도","level":3,"transcription":"sakunendo"}
 {"jp":"榎木","kr":"에노키","level":3,"transcription":"enoki"}
@@ -7301,7 +7301,7 @@
 {"jp":"眩暈","kr":"현기","level":3,"transcription":"memai"}
 {"jp":"移り住む","kr":"옮기다","level":3,"transcription":"utsurisumu"}
 {"jp":"蒔く","kr":"뿌리다","level":3,"transcription":"maku"}
-{"jp":"蒟蒻","kr":"蒟蒻","level":2,"transcription":"konnyaku"}
+{"jp":"蒟蒻","kr":"아카마루","level":2,"transcription":"konnyaku"}
 {"jp":"赤丸","kr":"아카마루","level":3,"transcription":"akamaru"}
 {"jp":"躰","kr":"躰","level":1,"transcription":"karada"}
 {"jp":"雨降り","kr":"비가 내리다","level":2,"transcription":"amefuri"}
@@ -7381,16 +7381,16 @@
 {"jp":"道順","kr":"길순","level":2,"transcription":"michijun"}
 {"jp":"重り","kr":"무게","level":3,"transcription":"omori"}
 {"jp":"雑務","kr":"잡무","level":3,"transcription":"zatsumu"}
-{"jp":"雨宿り","kr":"비가입","level":2,"transcription":"amayadori"}
+{"jp":"雨宿り","kr":"비거주","level":2,"transcription":"amayadori"}
 {"jp":"青ざめる","kr":"푸르다","level":3,"transcription":"aozameru"}
-{"jp":"青白い","kr":"블루 화이트","level":3,"transcription":"aojiroi"}
-{"jp":"鰯","kr":"鰯","level":3,"transcription":"iwashi"}
+{"jp":"青白い","kr":"청백색","level":3,"transcription":"aojiroi"}
+{"jp":"鰯","kr":"어묵","level":3,"transcription":"iwashi"}
 {"jp":"乳業","kr":"유업","level":3,"transcription":"nyūgyō"}
 {"jp":"二輪車","kr":"이륜차","level":2,"transcription":"nirinsha"}
 {"jp":"今冬","kr":"이번 겨울","level":3,"transcription":"kontō"}
-{"jp":"何方","kr":"어떤 사람","level":3,"transcription":"dochira"}
+{"jp":"何方","kr":"어디서","level":3,"transcription":"dochira"}
 {"jp":"厚着","kr":"두꺼운 옷","level":2,"transcription":"atsugi"}
-{"jp":"器械","kr":"계기","level":3,"transcription":"kikai"}
+{"jp":"器械","kr":"기구","level":3,"transcription":"kikai"}
 {"jp":"壁際","kr":"벽면","level":3,"transcription":"kabe-giwa"}
 {"jp":"大急ぎ","kr":"급한","level":3,"transcription":"ōisogi"}
 {"jp":"寝かす","kr":"자다","level":3,"transcription":"nekasu"}
@@ -7407,30 +7407,30 @@
 {"jp":"羨む","kr":"부러움","level":3,"transcription":"urayamu"}
 {"jp":"耳たぶ","kr":"귓불","level":2,"transcription":"mimitabu"}
 {"jp":"肌着","kr":"속옷","level":3,"transcription":"hadagi"}
-{"jp":"蒲鉾","kr":"蒲鉾","level":2,"transcription":"kamaboko"}
+{"jp":"蒲鉾","kr":"","level":2,"transcription":"kamaboko"}
 {"jp":"貸本","kr":"대본","level":3,"transcription":"kashihon"}
 {"jp":"陸橋","kr":"육교","level":3,"transcription":"rikkyō"}
 {"jp":"飛び乗る","kr":"뛰다","level":3,"transcription":"tobinoru"}
 {"jp":"食わせる","kr":"먹다","level":3,"transcription":"kuwaseru"}
-{"jp":"鯉のぼり","kr":"잉어 보리","level":2,"transcription":"koinobori"}
+{"jp":"鯉のぼり","kr":"","level":2,"transcription":"koinobori"}
 {"jp":"〆切","kr":"〆절","level":2,"transcription":"shimekiri"}
-{"jp":"おすそ分け","kr":"몫","level":3,"transcription":"osusowake"}
+{"jp":"おすそ分け","kr":"","level":3,"transcription":"osusowake"}
 {"jp":"お上手","kr":"좋은","level":2,"transcription":"ojōzu"}
-{"jp":"お玉","kr":"공","level":2,"transcription":"otama"}
+{"jp":"お玉","kr":"","level":2,"transcription":"otama"}
 {"jp":"ひと息","kr":"한숨","level":3,"transcription":"hitoiki"}
 {"jp":"下手糞","kr":"나쁜 똥","level":3,"transcription":"heta kuso"}
 {"jp":"一輪車","kr":"일륜차","level":3,"transcription":"ichirinsha"}
-{"jp":"低地","kr":"저지","level":3,"transcription":"teichi"}
+{"jp":"低地","kr":"","level":3,"transcription":"teichi"}
 {"jp":"受取り","kr":"수령","level":3,"transcription":"uketori"}
-{"jp":"土足","kr":"토족","level":3,"transcription":"dosoku"}
+{"jp":"土足","kr":"","level":3,"transcription":"dosoku"}
 {"jp":"多湿","kr":"다습","level":3,"transcription":"tashitsu"}
 {"jp":"奈々美","kr":"나나미","level":1,"transcription":"Nanami"}
 {"jp":"姫野","kr":"히메노","level":1,"transcription":"Himeno"}
-{"jp":"宇崎","kr":"우사키","level":1,"transcription":"Uzaki"}
+{"jp":"宇崎","kr":"","level":1,"transcription":"Uzaki"}
 {"jp":"安里","kr":"아사리","level":1,"transcription":"Asato"}
 {"jp":"宝塚歌劇団","kr":"다카라즈카 가극단","level":3,"transcription":"Takarazuka Kagekidan"}
 {"jp":"実里","kr":"실리","level":1,"transcription":"Minori"}
-{"jp":"家の子","kr":"집의 아이","level":3,"transcription":"uchi no ko"}
+{"jp":"家の子","kr":"","level":3,"transcription":"uchi no ko"}
 {"jp":"小向","kr":"소향","level":1,"transcription":"Komukai"}
 {"jp":"小暮","kr":"고구라","level":1,"transcription":"Kogure"}
 {"jp":"小瓶","kr":"작은 병","level":3,"transcription":"kobin"}
@@ -7468,12 +7468,12 @@
 {"jp":"蓮根","kr":"연근","level":2,"transcription":"renkon"}
 {"jp":"蛹","kr":"번데기","level":3,"transcription":"sanagi"}
 {"jp":"表側","kr":"앞면","level":2,"transcription":"omotegawa"}
-{"jp":"西瓜","kr":"西瓜","level":1,"transcription":"suika"}
+{"jp":"西瓜","kr":"배","level":1,"transcription":"suika"}
 {"jp":"言い争い","kr":"싸움","level":3,"transcription":"ii-arasoi"}
 {"jp":"試験場","kr":"시험장","level":3,"transcription":"shikenjō"}
 {"jp":"走り抜ける","kr":"달리다","level":3,"transcription":"hashirinukeru"}
 {"jp":"軍手","kr":"군수","level":2,"transcription":"gun-te"}
-{"jp":"鉈","kr":"쉈","level":3,"transcription":"nata"}
+{"jp":"鉈","kr":"칼","level":3,"transcription":"nata"}
 {"jp":"降り出し","kr":"내리다","level":3,"transcription":"furidashi"}
 {"jp":"雑木林","kr":"잡목림","level":3,"transcription":"zōkibayashi"}
 {"jp":"非常口","kr":"비상구","level":2,"transcription":"hijōguchi"}

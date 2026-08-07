@@ -1,23 +1,23 @@
-{"pt":"ser","kz":"болу","level":1,"transcription":null}
-{"pt":"não","kz":"жоқ","level":1,"transcription":null}
-{"pt":"como","kz":"ретінде","level":1,"transcription":null}
-{"pt":"mais","kz":"көбірек","level":1,"transcription":null}
-{"pt":"ter","kz":"ие болу","level":1,"transcription":null}
-{"pt":"muito","kz":"өте","level":1,"transcription":null}
-{"pt":"já","kz":"қазірдің өзінде","level":1,"transcription":null}
-{"pt":"também","kz":"сондай-ақ","level":1,"transcription":null}
-{"pt":"quando","kz":"қашан","level":1,"transcription":null}
-{"pt":"estar","kz":"болу","level":1,"transcription":null}
-{"pt":"ir","kz":"бару","level":1,"transcription":null}
-{"pt":"só","kz":"тек","level":1,"transcription":null}
-{"pt":"apenas","kz":"жай","level":3,"transcription":null}
-{"pt":"coisa","kz":"нәрсе","level":1,"transcription":null}
-{"pt":"nunca","kz":"ешқашан","level":2,"transcription":null}
-{"pt":"querer","kz":"қалау","level":1,"transcription":null}
-{"pt":"parte","kz":"бөлігі","level":2,"transcription":null}
-{"pt":"hoje","kz":"бүгін","level":1,"transcription":null}
-{"pt":"saber","kz":"білу","level":1,"transcription":null}
-{"pt":"tão","kz":"солай","level":2,"transcription":null}
+{"pt":"ser","kz":"быть","level":1,"transcription":null}
+{"pt":"não","kz":"нет","level":1,"transcription":null}
+{"pt":"como","kz":"как","level":1,"transcription":null}
+{"pt":"mais","kz":"больше","level":1,"transcription":null}
+{"pt":"ter","kz":"иметь","level":1,"transcription":null}
+{"pt":"muito","kz":"много","level":1,"transcription":null}
+{"pt":"já","kz":"сейчас","level":1,"transcription":null}
+{"pt":"também","kz":"также","level":1,"transcription":null}
+{"pt":"quando","kz":"когда","level":1,"transcription":null}
+{"pt":"estar","kz":"быть","level":1,"transcription":null}
+{"pt":"ir","kz":"идти","level":1,"transcription":null}
+{"pt":"só","kz":"только","level":1,"transcription":null}
+{"pt":"apenas","kz":"только","level":3,"transcription":null}
+{"pt":"coisa","kz":"что-нибудь","level":1,"transcription":null}
+{"pt":"nunca","kz":"никогда","level":2,"transcription":null}
+{"pt":"querer","kz":"хотеть","level":1,"transcription":null}
+{"pt":"parte","kz":"часть","level":2,"transcription":null}
+{"pt":"hoje","kz":"сегодня","level":1,"transcription":null}
+{"pt":"saber","kz":"знать","level":1,"transcription":null}
+{"pt":"tão","kz":"так","level":2,"transcription":null}
 {"pt":"achar","kz":"ойлау","level":2,"transcription":null}
 {"pt":"menos","kz":"Аздау","level":2,"transcription":null}
 {"pt":"antes","kz":"бұрын","level":2,"transcription":null}
@@ -79,7 +79,7 @@
 {"pt":"atenção","kz":"назар аудару","level":2,"transcription":null}
 {"pt":"chegar","kz":"келу","level":1,"transcription":null}
 {"pt":"informação","kz":"ақпарат","level":2,"transcription":null}
-{"pt":"norte","kz":"солтүстік","level":2,"transcription":null}
+{"pt":"norte","kz":"север","level":2,"transcription":null}
 {"pt":"política","kz":"саясат","level":3,"transcription":null}
 {"pt":"ponto","kz":"нүкте","level":2,"transcription":null}
 {"pt":"possível","kz":"мүмкін","level":2,"transcription":null}
@@ -294,10 +294,10 @@
 {"pt":"rico","kz":"бай","level":2,"transcription":null}
 {"pt":"sentimento","kz":"сезім","level":3,"transcription":null}
 {"pt":"veículo","kz":"көлік","level":3,"transcription":null}
-{"pt":"cozinha","kz":"ас үй","level":1,"transcription":null}
+{"pt":"cozinha","kz":"көлік","level":1,"transcription":null}
 {"pt":"flor","kz":"гүл","level":1,"transcription":null}
 {"pt":"floresta","kz":"орман","level":2,"transcription":null}
-{"pt":"gol","kz":"мақсат","level":2,"transcription":null}
+{"pt":"gol","kz":"маңғыз","level":2,"transcription":null}
 {"pt":"golpe","kz":"соққы","level":4,"transcription":null}
 {"pt":"gás","kz":"газ","level":2,"transcription":null}
 {"pt":"impacto","kz":"әсер ету","level":4,"transcription":null}
@@ -305,7 +305,7 @@
 {"pt":"ligar","kz":"қосылу үшін","level":1,"transcription":null}
 {"pt":"lutar","kz":"күресу","level":3,"transcription":null}
 {"pt":"mandar","kz":"жіберу","level":2,"transcription":null}
-{"pt":"marco","kz":"наурыз","level":4,"transcription":null}
+{"pt":"marco","kz":"көлік","level":4,"transcription":null}
 {"pt":"moral","kz":"моральдық","level":4,"transcription":null}
 {"pt":"servir","kz":"қызмет ету","level":2,"transcription":null}
 {"pt":"venda","kz":"сату","level":3,"transcription":null}
@@ -317,20 +317,20 @@
 {"pt":"distrito","kz":"аудан","level":3,"transcription":null}
 {"pt":"década","kz":"онжылдық","level":3,"transcription":null}
 {"pt":"máquina","kz":"машина","level":2,"transcription":null}
-{"pt":"namorado","kz":"жігіт","level":1,"transcription":null}
-{"pt":"palco","kz":"кезең","level":3,"transcription":null}
-{"pt":"prazo","kz":"мерзімі","level":3,"transcription":null}
-{"pt":"princesa","kz":"ханшайым","level":2,"transcription":null}
-{"pt":"sensação","kz":"сезім","level":3,"transcription":null}
-{"pt":"assassinato","kz":"кісі өлтіру","level":4,"transcription":null}
-{"pt":"assembleia","kz":"құрастыру","level":4,"transcription":null}
-{"pt":"bater","kz":"қағу","level":2,"transcription":null}
-{"pt":"depender","kz":"тәуелді","level":3,"transcription":null}
+{"pt":"namorado","kz":"мужчина","level":1,"transcription":null}
+{"pt":"palco","kz":"сцена","level":3,"transcription":null}
+{"pt":"prazo","kz":"время","level":3,"transcription":null}
+{"pt":"princesa","kz":"королева","level":2,"transcription":null}
+{"pt":"sensação","kz":"ощущение","level":3,"transcription":null}
+{"pt":"assassinato","kz":"убийство","level":4,"transcription":null}
+{"pt":"assembleia","kz":"собрание","level":4,"transcription":null}
+{"pt":"bater","kz":"бить","level":2,"transcription":null}
+{"pt":"depender","kz":"зависеть","level":3,"transcription":null}
 {"pt":"domínio","kz":"домен","level":4,"transcription":null}
-{"pt":"estrela","kz":"жұлдыз","level":2,"transcription":null}
+{"pt":"estrela","kz":"звезда","level":2,"transcription":null}
 {"pt":"humor","kz":"юмор","level":3,"transcription":null}
-{"pt":"iniciativa","kz":"бастама","level":4,"transcription":null}
-{"pt":"limite","kz":"шектеу","level":3,"transcription":null}
+{"pt":"iniciativa","kz":"начать","level":4,"transcription":null}
+{"pt":"limite","kz":"предел","level":3,"transcription":null}
 {"pt":"cenário","kz":"сценарий","level":3,"transcription":null}
 {"pt":"cliente","kz":"тұтынушы","level":2,"transcription":null}
 {"pt":"complexo","kz":"кешен","level":4,"transcription":null}
@@ -750,8 +750,8 @@
 {"pt":"facilitar","kz":"жеңілдету","level":3,"transcription":null}
 {"pt":"fechamento","kz":"жабу","level":4,"transcription":null}
 {"pt":"plástico","kz":"пластик","level":2,"transcription":null}
-{"pt":"pouquinho","kz":"азғана","level":1,"transcription":null}
-{"pt":"protocolo","kz":"хаттама","level":4,"transcription":null}
+{"pt":"pouquinho","kz":"немного","level":1,"transcription":null}
+{"pt":"protocolo","kz":"документ","level":4,"transcription":null}
 {"pt":"percepção","kz":"қабылдау","level":4,"transcription":null}
 {"pt":"pesca","kz":"балық аулау","level":3,"transcription":null}
 {"pt":"popularidade","kz":"танымалдылық","level":4,"transcription":null}
@@ -933,11 +933,11 @@
 {"pt":"tender","kz":"бейім","level":4,"transcription":null}
 {"pt":"terminal","kz":"терминал","level":3,"transcription":null}
 {"pt":"tinta","kz":"сия","level":2,"transcription":null}
-{"pt":"tomado","kz":"алынды","level":3,"transcription":null}
-{"pt":"vadio","kz":"адасу","level":4,"transcription":null}
-{"pt":"verdadeiramente","kz":"шынымен","level":4,"transcription":null}
-{"pt":"litoral","kz":"жағалау сызығы","level":3,"transcription":null}
-{"pt":"livrar","kz":"құтылу","level":3,"transcription":null}
+{"pt":"tomado","kz":"ақылды","level":3,"transcription":null}
+{"pt":"vadio","kz":"жүйе","level":4,"transcription":null}
+{"pt":"verdadeiramente","kz":"қиылыс","level":4,"transcription":null}
+{"pt":"litoral","kz":"береже","level":3,"transcription":null}
+{"pt":"livrar","kz":"перевозить","level":3,"transcription":null}
 {"pt":"essência","kz":"мәні","level":4,"transcription":null}
 {"pt":"gado","kz":"мал","level":3,"transcription":null}
 {"pt":"girar","kz":"айналдыру","level":2,"transcription":null}
@@ -1219,7 +1219,7 @@
 {"pt":"recompensa","kz":"сыйақы","level":3,"transcription":null}
 {"pt":"recorrer","kz":"курорт","level":4,"transcription":null}
 {"pt":"safado","kz":"ақымақ","level":4,"transcription":null}
-{"pt":"temporário","kz":"уақытша","level":3,"transcription":null}
+{"pt":"temporário","kz":"күнінен кейін","level":3,"transcription":null}
 {"pt":"sustentabilidade","kz":"тұрақтылық","level":4,"transcription":null}
 {"pt":"temporariamente","kz":"уақытша","level":3,"transcription":null}
 {"pt":"tutorial","kz":"оқу құралы","level":3,"transcription":null}
@@ -1254,7 +1254,7 @@
 {"pt":"nogueira","kz":"жаңғақ","level":4,"transcription":null}
 {"pt":"noroeste","kz":"солтүстік-батыс","level":3,"transcription":null}
 {"pt":"pensão","kz":"зейнетақы","level":3,"transcription":null}
-{"pt":"pistola","kz":"тапанша","level":3,"transcription":null}
+{"pt":"pistola","kz":"пистол","level":3,"transcription":null}
 {"pt":"pneu","kz":"шина","level":2,"transcription":null}
 {"pt":"proporcionar","kz":"қамтамасыз ету","level":4,"transcription":null}
 {"pt":"quadrilha","kz":"банда","level":4,"transcription":null}
@@ -1326,8 +1326,8 @@
 {"pt":"arranjo","kz":"реттеу","level":4,"transcription":null}
 {"pt":"atletismo","kz":"жеңіл атлетика","level":3,"transcription":null}
 {"pt":"beneficiar","kz":"пайда","level":3,"transcription":null}
-{"pt":"calado","kz":"үнсіз","level":3,"transcription":null}
-{"pt":"carácter","kz":"кейіпкер","level":4,"transcription":null}
+{"pt":"calado","kz":"көлеу","level":3,"transcription":null}
+{"pt":"carácter","kz":"көзге","level":4,"transcription":null}
 {"pt":"caído","kz":"құлаған","level":3,"transcription":null}
 {"pt":"chuveiro","kz":"душ","level":2,"transcription":null}
 {"pt":"complementar","kz":"толықтырушы","level":4,"transcription":null}
@@ -1339,9 +1339,9 @@
 {"pt":"mergulho","kz":"сүңгу","level":3,"transcription":null}
 {"pt":"modificação","kz":"модификация","level":4,"transcription":null}
 {"pt":"percorrer","kz":"өту","level":4,"transcription":null}
-{"pt":"quebrado","kz":"сынған","level":2,"transcription":null}
+{"pt":"quebrado","kz":"бұзылған","level":2,"transcription":null}
 {"pt":"recordar","kz":"есте сақтаңыз","level":3,"transcription":null}
-{"pt":"retomar","kz":"түйіндеме","level":4,"transcription":null}
+{"pt":"retomar","kz":"көтеру","level":4,"transcription":null}
 {"pt":"ronda","kz":"дөңгелек","level":4,"transcription":null}
 {"pt":"ruína","kz":"қирау","level":3,"transcription":null}
 {"pt":"stress","kz":"стресс","level":3,"transcription":null}
@@ -1358,7 +1358,7 @@
 {"pt":"analista","kz":"талдаушы","level":3,"transcription":null}
 {"pt":"antena","kz":"антенна","level":2,"transcription":null}
 {"pt":"arrancar","kz":"жұлып алу","level":3,"transcription":null}
-{"pt":"baleado","kz":"ату","level":4,"transcription":null}
+{"pt":"baleado","kz":"бөлісу","level":4,"transcription":null}
 {"pt":"barão","kz":"барон","level":4,"transcription":null}
 {"pt":"berço","kz":"бесік","level":2,"transcription":null}
 {"pt":"bruxa","kz":"бақсы","level":2,"transcription":null}
@@ -1368,14 +1368,14 @@
 {"pt":"correspondência","kz":"хат алмасу","level":3,"transcription":null}
 {"pt":"numeroso","kz":"көп","level":3,"transcription":null}
 {"pt":"partícula","kz":"бөлшек","level":4,"transcription":null}
-{"pt":"porcentagem","kz":"пайыз","level":3,"transcription":null}
-{"pt":"preferido","kz":"артықшылықты","level":2,"transcription":null}
-{"pt":"prosperidade","kz":"өркендеу","level":4,"transcription":null}
-{"pt":"protetor","kz":"қорғаушы","level":3,"transcription":null}
-{"pt":"recorrente","kz":"шағымданушы","level":4,"transcription":null}
-{"pt":"regressar","kz":"қайтару","level":3,"transcription":null}
+{"pt":"porcentagem","kz":"процент","level":3,"transcription":null}
+{"pt":"preferido","kz":"выбранное","level":2,"transcription":null}
+{"pt":"prosperidade","kz":"богатство","level":4,"transcription":null}
+{"pt":"protetor","kz":"защитник","level":3,"transcription":null}
+{"pt":"recorrente","kz":"повторяющийся","level":4,"transcription":null}
+{"pt":"regressar","kz":"возвращаться","level":3,"transcription":null}
 {"pt":"repertório","kz":"репертуар","level":4,"transcription":null}
-{"pt":"setenta","kz":"жетпіс","level":1,"transcription":null}
+{"pt":"setenta","kz":"шестьдесят","level":1,"transcription":null}
 {"pt":"perseguir","kz":"қуу","level":4,"transcription":null}
 {"pt":"preliminar","kz":"алдын ала","level":4,"transcription":null}
 {"pt":"promocional","kz":"жарнамалық","level":3,"transcription":null}
@@ -1676,35 +1676,35 @@
 {"pt":"dublado","kz":"дубляждалған","level":3,"transcription":null}
 {"pt":"dó","kz":"кешіріңіз","level":3,"transcription":null}
 {"pt":"enterro","kz":"жерлеу","level":4,"transcription":null}
-{"pt":"equipado","kz":"жабдықталған","level":3,"transcription":null}
-{"pt":"era","kz":"болды","level":3,"transcription":null}
+{"pt":"equipado","kz":"запущенный","level":3,"transcription":null}
+{"pt":"era","kz":"было","level":3,"transcription":null}
 {"pt":"escalão","kz":"эшелон","level":4,"transcription":null}
-{"pt":"evacuação","kz":"эвакуациялау","level":4,"transcription":null}
-{"pt":"exactamente","kz":"дәл","level":3,"transcription":null}
-{"pt":"explosivo","kz":"жарылғыш","level":4,"transcription":null}
-{"pt":"fa","kz":"желдеткіш","level":2,"transcription":null}
-{"pt":"formiga","kz":"құмырсқа","level":2,"transcription":null}
-{"pt":"frustração","kz":"көңілсіздік","level":3,"transcription":null}
-{"pt":"fêmea","kz":"әйел","level":2,"transcription":null}
-{"pt":"gravemente","kz":"шындап","level":4,"transcription":null}
-{"pt":"homenagear","kz":"құрмет","level":4,"transcription":null}
+{"pt":"evacuação","kz":"эвакуация","level":4,"transcription":null}
+{"pt":"exactamente","kz":"точно","level":3,"transcription":null}
+{"pt":"explosivo","kz":"взрывчатый","level":4,"transcription":null}
+{"pt":"fa","kz":"факс","level":2,"transcription":null}
+{"pt":"formiga","kz":"муравник","level":2,"transcription":null}
+{"pt":"frustração","kz":"разочарование","level":3,"transcription":null}
+{"pt":"fêmea","kz":"женщина","level":2,"transcription":null}
+{"pt":"gravemente","kz":"тяжело","level":4,"transcription":null}
+{"pt":"homenagear","kz":"поздравить","level":4,"transcription":null}
 {"pt":"pódio","kz":"подиум","level":3,"transcription":null}
-{"pt":"restrito","kz":"шектелген","level":4,"transcription":null}
-{"pt":"retirado","kz":"алынып тасталды","level":4,"transcription":null}
-{"pt":"rodoviário","kz":"жол","level":4,"transcription":null}
-{"pt":"sobrar","kz":"артық","level":3,"transcription":null}
-{"pt":"socialmente","kz":"әлеуметтік","level":4,"transcription":null}
-{"pt":"suor","kz":"тер","level":3,"transcription":null}
-{"pt":"teor","kz":"мазмұны","level":4,"transcription":null}
-{"pt":"tira","kz":"жолақ","level":3,"transcription":null}
+{"pt":"restrito","kz":"закрытый","level":4,"transcription":null}
+{"pt":"retirado","kz":"выдеренный","level":4,"transcription":null}
+{"pt":"rodoviário","kz":"дорога","level":4,"transcription":null}
+{"pt":"sobrar","kz":"остаться","level":3,"transcription":null}
+{"pt":"socialmente","kz":"социально","level":4,"transcription":null}
+{"pt":"suor","kz":"сестра","level":3,"transcription":null}
+{"pt":"teor","kz":"теория","level":4,"transcription":null}
+{"pt":"tira","kz":"ручка","level":3,"transcription":null}
 {"pt":"transcrição","kz":"транскрипция","level":4,"transcription":null}
-{"pt":"zoológico","kz":"хайуанаттар бағы","level":2,"transcription":null}
-{"pt":"abelha","kz":"ара","level":2,"transcription":null}
-{"pt":"abismo","kz":"шыңырау","level":4,"transcription":null}
+{"pt":"zoológico","kz":"зоологический","level":2,"transcription":null}
+{"pt":"abelha","kz":"мура","level":2,"transcription":null}
+{"pt":"abismo","kz":"высоко","level":4,"transcription":null}
 {"pt":"achado","kz":"табу","level":3,"transcription":null}
-{"pt":"afim","kz":"байланысты","level":4,"transcription":null}
-{"pt":"agulha","kz":"ине","level":2,"transcription":null}
-{"pt":"aparição","kz":"елес","level":4,"transcription":null}
+{"pt":"afim","kz":"близкий","level":4,"transcription":null}
+{"pt":"agulha","kz":"ручка","level":2,"transcription":null}
+{"pt":"aparição","kz":"визитка","level":4,"transcription":null}
 {"pt":"cimento","kz":"цемент","level":3,"transcription":null}
 {"pt":"coletar","kz":"жинау","level":3,"transcription":null}
 {"pt":"combatente","kz":"жауынгер","level":4,"transcription":null}
@@ -1945,7 +1945,7 @@
 {"pt":"imposição","kz":"таңу","level":4,"transcription":null}
 {"pt":"inspirado","kz":"шабыттандырды","level":3,"transcription":null}
 {"pt":"intermediário","kz":"делдал","level":4,"transcription":null}
-{"pt":"internado","kz":"ауруханаға жатқызылды","level":3,"transcription":null}
+{"pt":"internado","kz":"отельге жатқызылды","level":3,"transcription":null}
 {"pt":"invasor","kz":"басқыншы","level":4,"transcription":null}
 {"pt":"iris","kz":"ирис","level":3,"transcription":null}
 {"pt":"superação","kz":"төзімділік","level":4,"transcription":null}
@@ -2128,12 +2128,12 @@
 {"pt":"madrinha","kz":"бәйбішесі","level":3,"transcription":null}
 {"pt":"magnético","kz":"магниттік","level":4,"transcription":null}
 {"pt":"mentalmente","kz":"психикалық","level":3,"transcription":null}
-{"pt":"molde","kz":"көгеру","level":3,"transcription":null}
-{"pt":"mordida","kz":"тістеу","level":2,"transcription":null}
-{"pt":"nazi","kz":"Нацистік","level":4,"transcription":null}
-{"pt":"negligência","kz":"немқұрайлылық","level":4,"transcription":null}
-{"pt":"padrasto","kz":"өгей әке","level":2,"transcription":null}
-{"pt":"passarinho","kz":"кішкентай құс","level":2,"transcription":null}
+{"pt":"molde","kz":"модель","level":3,"transcription":null}
+{"pt":"mordida","kz":"тестирование","level":2,"transcription":null}
+{"pt":"nazi","kz":"нацистский","level":4,"transcription":null}
+{"pt":"negligência","kz":"незаконность","level":4,"transcription":null}
+{"pt":"padrasto","kz":"бақытты ата","level":2,"transcription":null}
+{"pt":"passarinho","kz":"красивый птичка","level":2,"transcription":null}
 {"pt":"paragem","kz":"тоқта","level":3,"transcription":null}
 {"pt":"penteado","kz":"шаш үлгісі","level":3,"transcription":null}
 {"pt":"pintado","kz":"боялған","level":2,"transcription":null}
@@ -2292,22 +2292,22 @@
 {"pt":"virgindade","kz":"қыздық","level":4,"transcription":null}
 {"pt":"acidental","kz":"кездейсоқ","level":3,"transcription":null}
 {"pt":"actuação","kz":"өнімділік","level":4,"transcription":null}
-{"pt":"afastado","kz":"алыс","level":3,"transcription":null}
-{"pt":"afundar","kz":"раковина","level":3,"transcription":null}
-{"pt":"assado","kz":"қуыру","level":2,"transcription":null}
+{"pt":"afastado","kz":"дала","level":3,"transcription":null}
+{"pt":"afundar","kz":"погрузиться","level":3,"transcription":null}
+{"pt":"assado","kz":"запекшийся","level":2,"transcription":null}
 {"pt":"bailarina","kz":"балерина","level":3,"transcription":null}
-{"pt":"balneário","kz":"монша","level":4,"transcription":null}
+{"pt":"balneário","kz":"бассейн","level":4,"transcription":null}
 {"pt":"boicote","kz":"бойкот","level":4,"transcription":null}
-{"pt":"bíblico","kz":"библиялық","level":4,"transcription":null}
-{"pt":"caneca","kz":"шыныаяқ","level":2,"transcription":null}
+{"pt":"bíblico","kz":"Библиялық","level":4,"transcription":null}
+{"pt":"caneca","kz":"чаш","level":2,"transcription":null}
 {"pt":"casco","kz":"корпус","level":3,"transcription":null}
-{"pt":"comprimido","kz":"таблетка","level":2,"transcription":null}
-{"pt":"desvendar","kz":"ашу","level":4,"transcription":null}
-{"pt":"electricidade","kz":"электр энергиясы","level":3,"transcription":null}
-{"pt":"embarcação","kz":"кеме","level":4,"transcription":null}
-{"pt":"enfatizar","kz":"атап көрсету","level":4,"transcription":null}
-{"pt":"especiaria","kz":"дәмдеуіш","level":3,"transcription":null}
-{"pt":"extinto","kz":"жойылып кеткен","level":4,"transcription":null}
+{"pt":"comprimido","kz":"сжатие","level":2,"transcription":null}
+{"pt":"desvendar","kz":"открыть","level":4,"transcription":null}
+{"pt":"electricidade","kz":"электричество","level":3,"transcription":null}
+{"pt":"embarcação","kz":"корабль","level":4,"transcription":null}
+{"pt":"enfatizar","kz":"подчеркнуть","level":4,"transcription":null}
+{"pt":"especiaria","kz":"специя","level":3,"transcription":null}
+{"pt":"extinto","kz":"исчезнувший","level":4,"transcription":null}
 {"pt":"irrigação","kz":"суару","level":4,"transcription":null}
 {"pt":"leitão","kz":"торай","level":3,"transcription":null}
 {"pt":"marítimo","kz":"теңіз","level":4,"transcription":null}
@@ -2460,7 +2460,7 @@
 {"pt":"tédio","kz":"зерігу","level":3,"transcription":null}
 {"pt":"térreo","kz":"бірінші қабат","level":2,"transcription":null}
 {"pt":"vacinação","kz":"вакцинация","level":4,"transcription":null}
-{"pt":"vassoura","kz":"сыпырғыш","level":2,"transcription":null}
+{"pt":"vassoura","kz":"сабырлы","level":2,"transcription":null}
 {"pt":"vitorioso","kz":"жеңген","level":3,"transcription":null}
 {"pt":"óbito","kz":"өлім","level":4,"transcription":null}
 {"pt":"aceso","kz":"жанды","level":2,"transcription":null}
@@ -2520,19 +2520,19 @@
 {"pt":"passarela","kz":"подиум","level":3,"transcription":null}
 {"pt":"pedacinho","kz":"кішкене бөлік","level":2,"transcription":null}
 {"pt":"peão","kz":"пешка","level":3,"transcription":null}
-{"pt":"recordação","kz":"кәдесый","level":3,"transcription":null}
+{"pt":"recordação","kz":"запись","level":3,"transcription":null}
 {"pt":"restringir","kz":"шектеу","level":4,"transcription":null}
 {"pt":"revólver","kz":"револьвер","level":4,"transcription":null}
 {"pt":"rum","kz":"ром","level":3,"transcription":null}
-{"pt":"salsa","kz":"ақжелкен","level":3,"transcription":null}
-{"pt":"sedução","kz":"арбау","level":4,"transcription":null}
-{"pt":"shot","kz":"ату","level":3,"transcription":null}
+{"pt":"salsa","kz":"сальса","level":3,"transcription":null}
+{"pt":"sedução","kz":"септ","level":4,"transcription":null}
+{"pt":"shot","kz":"шот","level":3,"transcription":null}
 {"pt":"infectar","kz":"жұқтыру","level":4,"transcription":null}
-{"pt":"instantâneo","kz":"сурет","level":3,"transcription":null}
+{"pt":"instantâneo","kz":"фотография","level":3,"transcription":null}
 {"pt":"karma","kz":"карма","level":4,"transcription":null}
-{"pt":"legislador","kz":"заң шығарушы","level":4,"transcription":null}
+{"pt":"legislador","kz":"законоотвечательный","level":4,"transcription":null}
 {"pt":"legume","kz":"көкөніс","level":2,"transcription":null}
-{"pt":"matrimônio","kz":"неке","level":4,"transcription":null}
+{"pt":"matrimônio","kz":"матримоний","level":4,"transcription":null}
 {"pt":"presunto","kz":"ветчина","level":2,"transcription":null}
 {"pt":"punhado","kz":"уыс","level":3,"transcription":null}
 {"pt":"queimadura","kz":"күйдіру","level":3,"transcription":null}
@@ -2623,7 +2623,7 @@
 {"pt":"especificar","kz":"көрсетіңіз","level":4,"transcription":null}
 {"pt":"esquentar","kz":"жылыту","level":2,"transcription":null}
 {"pt":"estendido","kz":"ұзартылған","level":3,"transcription":null}
-{"pt":"exigente","kz":"талапшыл","level":4,"transcription":null}
+{"pt":"exigente","kz":"талапшы","level":4,"transcription":null}
 {"pt":"faraó","kz":"Перғауын","level":4,"transcription":null}
 {"pt":"fugitivo","kz":"қашқын","level":4,"transcription":null}
 {"pt":"genérico","kz":"жалпы","level":4,"transcription":null}
@@ -2679,7 +2679,7 @@
 {"pt":"argumentação","kz":"аргументация","level":4,"transcription":null}
 {"pt":"arquivar","kz":"мұрағат","level":3,"transcription":null}
 {"pt":"articular","kz":"айту","level":4,"transcription":null}
-{"pt":"atrito","kz":"үйкеліс","level":4,"transcription":null}
+{"pt":"atrito","kz":"түсік","level":4,"transcription":null}
 {"pt":"atum","kz":"тунец","level":2,"transcription":null}
 {"pt":"aval","kz":"мақұлдау","level":4,"transcription":null}
 {"pt":"domicílio","kz":"тұрғылықты жері","level":4,"transcription":null}
@@ -2953,11 +2953,11 @@
 {"pt":"industrialização","kz":"индустрияландыру","level":4,"transcription":null}
 {"pt":"inflamação","kz":"қабыну","level":3,"transcription":null}
 {"pt":"inércia","kz":"инерция","level":4,"transcription":null}
-{"pt":"limiar","kz":"табалдырық","level":4,"transcription":null}
-{"pt":"lixeira","kz":"бин","level":2,"transcription":null}
+{"pt":"limiar","kz":"күштілік","level":4,"transcription":null}
+{"pt":"lixeira","kz":"жұмыртқа","level":2,"transcription":null}
 {"pt":"login","kz":"кіру","level":3,"transcription":null}
-{"pt":"manta","kz":"көрпе","level":2,"transcription":null}
-{"pt":"mirante","kz":"абайлау","level":3,"transcription":null}
+{"pt":"manta","kz":"қолып","level":2,"transcription":null}
+{"pt":"mirante","kz":"бөліну","level":3,"transcription":null}
 {"pt":"bambu","kz":"бамбук","level":3,"transcription":null}
 {"pt":"blindado","kz":"брондалған","level":4,"transcription":null}
 {"pt":"cantina","kz":"асхана","level":3,"transcription":null}
@@ -3169,10 +3169,10 @@
 {"pt":"geologia","kz":"геология","level":4,"transcription":null}
 {"pt":"globalmente","kz":"жаһандық деңгейде","level":3,"transcription":null}
 {"pt":"gíria","kz":"жаргон","level":3,"transcription":null}
-{"pt":"holofote","kz":"назар аударарлық","level":4,"transcription":null}
+{"pt":"holofote","kz":"фотоаппарат","level":4,"transcription":null}
 {"pt":"ilimitado","kz":"шексіз","level":4,"transcription":null}
-{"pt":"incorporado","kz":"ендірілген","level":4,"transcription":null}
-{"pt":"infectado","kz":"инфекцияланған","level":3,"transcription":null}
+{"pt":"incorporado","kz":"бөлінді","level":4,"transcription":null}
+{"pt":"infectado","kz":"инфекциялы","level":3,"transcription":null}
 {"pt":"ingenuidade","kz":"аңғалдық","level":4,"transcription":null}
 {"pt":"invocar","kz":"шақыру","level":4,"transcription":null}
 {"pt":"leveza","kz":"жеңілдік","level":4,"transcription":null}
@@ -3239,16 +3239,16 @@
 {"pt":"picante","kz":"ащы","level":3,"transcription":null}
 {"pt":"playlist","kz":"ойнату тізімі","level":3,"transcription":null}
 {"pt":"popa","kz":"қатты","level":4,"transcription":null}
-{"pt":"presenciar","kz":"куә","level":4,"transcription":null}
-{"pt":"priorizar","kz":"басымдық беру","level":3,"transcription":null}
-{"pt":"privação","kz":"айыру","level":4,"transcription":null}
-{"pt":"professora","kz":"мұғалім","level":1,"transcription":null}
-{"pt":"rechear","kz":"заттар","level":3,"transcription":null}
+{"pt":"presenciar","kz":"представление","level":4,"transcription":null}
+{"pt":"priorizar","kz":"выделять приоритет","level":3,"transcription":null}
+{"pt":"privação","kz":"приватность","level":4,"transcription":null}
+{"pt":"professora","kz":"учительница","level":1,"transcription":null}
+{"pt":"rechear","kz":"перечитать","level":3,"transcription":null}
 {"pt":"scooter","kz":"скутер","level":3,"transcription":null}
-{"pt":"sintético","kz":"синтетикалық","level":4,"transcription":null}
-{"pt":"soneca","kz":"ұйықтау","level":2,"transcription":null}
-{"pt":"subordinar","kz":"бағынышты","level":4,"transcription":null}
-{"pt":"suposição","kz":"болжам","level":4,"transcription":null}
+{"pt":"sintético","kz":"синтетика","level":4,"transcription":null}
+{"pt":"soneca","kz":"сонливость","level":2,"transcription":null}
+{"pt":"subordinar","kz":"подчиняться","level":4,"transcription":null}
+{"pt":"suposição","kz":"предположение","level":4,"transcription":null}
 {"pt":"tcheco","kz":"чех","level":3,"transcription":null}
 {"pt":"dramaturgo","kz":"драматург","level":4,"transcription":null}
 {"pt":"drogar","kz":"есірткі","level":3,"transcription":null}
@@ -3498,7 +3498,7 @@
 {"pt":"saguão","kz":"лобби","level":3,"transcription":null}
 {"pt":"sauna","kz":"сауна","level":3,"transcription":null}
 {"pt":"seguradora","kz":"сақтандыру компаниясы","level":4,"transcription":null}
-{"pt":"silenciosamente","kz":"үнсіз","level":3,"transcription":null}
+{"pt":"silenciosamente","kz":"ауырластырған","level":3,"transcription":null}
 {"pt":"soltura","kz":"босату","level":4,"transcription":null}
 {"pt":"soprar","kz":"соққы","level":2,"transcription":null}
 {"pt":"subordinado","kz":"бағынышты","level":4,"transcription":null}
@@ -4062,24 +4062,24 @@
 {"pt":"proporcionado","kz":"пропорционалды","level":4,"transcription":null}
 {"pt":"rachadura","kz":"жарықшақ","level":3,"transcription":null}
 {"pt":"rasteira","kz":"төмен","level":4,"transcription":null}
-{"pt":"recreativo","kz":"рекреациялық","level":4,"transcription":null}
-{"pt":"referencia","kz":"анықтама","level":3,"transcription":null}
-{"pt":"refrescante","kz":"сергіту","level":3,"transcription":null}
+{"pt":"recreativo","kz":"рекреативный","level":4,"transcription":null}
+{"pt":"referencia","kz":"аннотация","level":3,"transcription":null}
+{"pt":"refrescante","kz":"активный","level":3,"transcription":null}
 {"pt":"retrô","kz":"ретро","level":3,"transcription":null}
-{"pt":"rosado","kz":"қызғылт","level":3,"transcription":null}
-{"pt":"ruga","kz":"әжім","level":3,"transcription":null}
-{"pt":"seiscentos","kz":"алты жүз","level":2,"transcription":null}
-{"pt":"simbolicamente","kz":"символдық түрде","level":4,"transcription":null}
-{"pt":"singelo","kz":"қарапайым","level":4,"transcription":null}
-{"pt":"slam","kz":"соғу","level":4,"transcription":null}
-{"pt":"socar","kz":"соққы","level":3,"transcription":null}
-{"pt":"straight","kz":"түзу","level":4,"transcription":null}
-{"pt":"suscetível","kz":"сезімтал","level":4,"transcription":null}
+{"pt":"rosado","kz":"красный","level":3,"transcription":null}
+{"pt":"ruga","kz":"дорога","level":3,"transcription":null}
+{"pt":"seiscentos","kz":"шестьсот","level":2,"transcription":null}
+{"pt":"simbolicamente","kz":"символически","level":4,"transcription":null}
+{"pt":"singelo","kz":"простой","level":4,"transcription":null}
+{"pt":"slam","kz":"слам","level":4,"transcription":null}
+{"pt":"socar","kz":"сокар","level":3,"transcription":null}
+{"pt":"straight","kz":"прямой","level":4,"transcription":null}
+{"pt":"suscetível","kz":"чувствительный","level":4,"transcription":null}
 {"pt":"teorema","kz":"теорема","level":4,"transcription":null}
-{"pt":"titulação","kz":"титрлеу","level":4,"transcription":null}
-{"pt":"torturado","kz":"азаптады","level":4,"transcription":null}
+{"pt":"titulação","kz":"написание","level":4,"transcription":null}
+{"pt":"torturado","kz":"заплатить","level":4,"transcription":null}
 {"pt":"trupe","kz":"труппа","level":3,"transcription":null}
-{"pt":"truta","kz":"бахтах","level":2,"transcription":null}
+{"pt":"truta","kz":"башка","level":2,"transcription":null}
 {"pt":"arquivamento","kz":"мұрағаттау","level":4,"transcription":null}
 {"pt":"assombrado","kz":"аңдыған","level":3,"transcription":null}
 {"pt":"atenuar","kz":"әлсірету","level":4,"transcription":null}
@@ -4230,16 +4230,16 @@
 {"pt":"aderência","kz":"ұстау","level":4,"transcription":null}
 {"pt":"aldeão","kz":"ауыл тұрғыны","level":3,"transcription":null}
 {"pt":"alertado","kz":"ескертілді","level":3,"transcription":null}
-{"pt":"alongamento","kz":"созылу","level":3,"transcription":null}
+{"pt":"alongamento","kz":"длительность","level":3,"transcription":null}
 {"pt":"antagonista","kz":"антагонист","level":4,"transcription":null}
-{"pt":"aperitivo","kz":"тәбет","level":3,"transcription":null}
+{"pt":"aperitivo","kz":"аперитив","level":3,"transcription":null}
 {"pt":"aritmética","kz":"арифметика","level":4,"transcription":null}
-{"pt":"bacteriano","kz":"бактериялық","level":4,"transcription":null}
-{"pt":"banhar","kz":"шомылу","level":3,"transcription":null}
+{"pt":"bacteriano","kz":"бактериолог","level":4,"transcription":null}
+{"pt":"banhar","kz":"бани","level":3,"transcription":null}
 {"pt":"bobina","kz":"катушка","level":4,"transcription":null}
-{"pt":"calypso","kz":"калипсо","level":4,"transcription":null}
-{"pt":"coliseu","kz":"Колизей","level":3,"transcription":null}
-{"pt":"irónico","kz":"ирониялық","level":4,"transcription":null}
+{"pt":"calypso","kz":"кальпсо","level":4,"transcription":null}
+{"pt":"coliseu","kz":"колизей","level":3,"transcription":null}
+{"pt":"irónico","kz":"ироничный","level":4,"transcription":null}
 {"pt":"retrovisor","kz":"артқы көрініс","level":3,"transcription":null}
 {"pt":"revelador","kz":"ашу","level":4,"transcription":null}
 {"pt":"rixa","kz":"жанжал","level":4,"transcription":null}
@@ -4270,22 +4270,22 @@
 {"pt":"ajudinha","kz":"аз көмек","level":2,"transcription":null}
 {"pt":"amamentação","kz":"емшек емізу","level":3,"transcription":null}
 {"pt":"arvore","kz":"ағаш","level":1,"transcription":null}
-{"pt":"aspirador","kz":"шаңсорғыш","level":2,"transcription":null}
+{"pt":"aspirador","kz":"аспиратор","level":2,"transcription":null}
 {"pt":"asteróide","kz":"астероид","level":3,"transcription":null}
-{"pt":"autódromo","kz":"ипподром","level":3,"transcription":null}
-{"pt":"bacano","kz":"салқын","level":4,"transcription":null}
-{"pt":"bombardeiro","kz":"бомбалаушы","level":4,"transcription":null}
-{"pt":"bronzeado","kz":"күйген","level":3,"transcription":null}
-{"pt":"campi","kz":"кампустар","level":4,"transcription":null}
-{"pt":"carbônico","kz":"көміртекті","level":4,"transcription":null}
-{"pt":"cassado","kz":"күші жойылды","level":4,"transcription":null}
-{"pt":"coação","kz":"мәжбүрлеу","level":4,"transcription":null}
+{"pt":"autódromo","kz":"автодром","level":3,"transcription":null}
+{"pt":"bacano","kz":"бакано","level":4,"transcription":null}
+{"pt":"bombardeiro","kz":"бомбарадер","level":4,"transcription":null}
+{"pt":"bronzeado","kz":"бронзовый","level":3,"transcription":null}
+{"pt":"campi","kz":"поля","level":4,"transcription":null}
+{"pt":"carbônico","kz":"кислотный","level":4,"transcription":null}
+{"pt":"cassado","kz":"сломанный","level":4,"transcription":null}
+{"pt":"coação","kz":"обязанность","level":4,"transcription":null}
 {"pt":"colagem","kz":"коллаж","level":3,"transcription":null}
-{"pt":"colecionar","kz":"жинау","level":3,"transcription":null}
-{"pt":"comissariado","kz":"комиссариат","level":4,"transcription":null}
-{"pt":"comissionado","kz":"пайдалануға берілді","level":4,"transcription":null}
+{"pt":"colecionar","kz":"коллекционер","level":3,"transcription":null}
+{"pt":"comissariado","kz":"комиссарият","level":4,"transcription":null}
+{"pt":"comissionado","kz":"комиссариат","level":4,"transcription":null}
 {"pt":"aniquilar","kz":"жою","level":4,"transcription":null}
-{"pt":"arcade","kz":"Аркадиялық","level":3,"transcription":null}
+{"pt":"arcade","kz":"аркада","level":3,"transcription":null}
 {"pt":"autobiografia","kz":"өмірбаян","level":4,"transcription":null}
 {"pt":"incitar","kz":"итермелеу","level":4,"transcription":null}
 {"pt":"incubadora","kz":"инкубатор","level":3,"transcription":null}
@@ -4377,14 +4377,14 @@
 {"pt":"aterrorizante","kz":"қорқынышты","level":4,"transcription":null}
 {"pt":"bebido","kz":"мас","level":3,"transcription":null}
 {"pt":"bica","kz":"шүмек","level":3,"transcription":null}
-{"pt":"bicudo","kz":"бізтұмсық","level":4,"transcription":null}
-{"pt":"blasfêmia","kz":"күпірлік","level":4,"transcription":null}
+{"pt":"bicudo","kz":"біздік","level":4,"transcription":null}
+{"pt":"blasfêmia","kz":"басқа","level":4,"transcription":null}
 {"pt":"blogar","kz":"блог","level":3,"transcription":null}
 {"pt":"bonus","kz":"бонус","level":3,"transcription":null}
-{"pt":"canalizar","kz":"арна","level":4,"transcription":null}
+{"pt":"canalizar","kz":"кабель","level":4,"transcription":null}
 {"pt":"canguru","kz":"кенгуру","level":2,"transcription":null}
 {"pt":"catedrático","kz":"профессор","level":4,"transcription":null}
-{"pt":"cesariana","kz":"кесар тілігі","level":3,"transcription":null}
+{"pt":"cesariana","kz":"кесер","level":3,"transcription":null}
 {"pt":"mascarado","kz":"маскаланған","level":3,"transcription":null}
 {"pt":"mastigar","kz":"шайнау","level":2,"transcription":null}
 {"pt":"maturação","kz":"жетілу","level":4,"transcription":null}
@@ -4415,7 +4415,7 @@
 {"pt":"triangular","kz":"үшбұрышты","level":2,"transcription":null}
 {"pt":"tricampeão","kz":"үш дүркін чемпионы","level":3,"transcription":null}
 {"pt":"trunfo","kz":"Трамп","level":4,"transcription":null}
-{"pt":"acasalamento","kz":"жұптау","level":4,"transcription":null}
+{"pt":"acasalamento","kz":"жұпталып тұрған","level":4,"transcription":null}
 {"pt":"adiantamento","kz":"алдын ала","level":3,"transcription":null}
 {"pt":"aguardado","kz":"күтті","level":4,"transcription":null}
 {"pt":"alternativamente","kz":"балама","level":4,"transcription":null}
@@ -4783,25 +4783,25 @@
 {"pt":"cheddar","kz":"чеддар","level":2,"transcription":null}
 {"pt":"cisterna","kz":"цистерна","level":3,"transcription":null}
 {"pt":"comporta","kz":"ұстайды","level":4,"transcription":null}
-{"pt":"confiscado","kz":"тәркіленді","level":4,"transcription":null}
+{"pt":"confiscado","kz":"отмаша","level":4,"transcription":null}
 {"pt":"contabilizar","kz":"санау","level":4,"transcription":null}
 {"pt":"contraído","kz":"келісім-шарт жасалды","level":4,"transcription":null}
 {"pt":"cosplay","kz":"косплей","level":3,"transcription":null}
-{"pt":"default","kz":"әдепкі","level":4,"transcription":null}
+{"pt":"default","kz":"по умолчанию","level":4,"transcription":null}
 {"pt":"dimensional","kz":"өлшемді","level":4,"transcription":null}
 {"pt":"diácono","kz":"диакон","level":4,"transcription":null}
-{"pt":"duplicar","kz":"көшірме","level":3,"transcription":null}
+{"pt":"duplicar","kz":"копирайт","level":3,"transcription":null}
 {"pt":"edil","kz":"мэр","level":4,"transcription":null}
 {"pt":"efetivação","kz":"жүзеге асыру","level":4,"transcription":null}
-{"pt":"enganoso","kz":"жаңылыстыру","level":4,"transcription":null}
+{"pt":"enganoso","kz":"подозрительный","level":4,"transcription":null}
 {"pt":"epoca","kz":"дәуір","level":2,"transcription":null}
-{"pt":"estalar","kz":"қысу","level":3,"transcription":null}
+{"pt":"estalar","kz":"стол","level":3,"transcription":null}
 {"pt":"estipular","kz":"шарт қою","level":4,"transcription":null}
 {"pt":"evitado","kz":"болдырмау","level":3,"transcription":null}
 {"pt":"exacto","kz":"дәл","level":2,"transcription":null}
 {"pt":"externamente","kz":"сырттан","level":4,"transcription":null}
-{"pt":"fascinação","kz":"қызығу","level":4,"transcription":null}
-{"pt":"ferrão","kz":"шаншу","level":3,"transcription":null}
+{"pt":"fascinação","kz":"вдохновение","level":4,"transcription":null}
+{"pt":"ferrão","kz":"фальш","level":3,"transcription":null}
 {"pt":"inibição","kz":"тежелу","level":4,"transcription":null}
 {"pt":"interacção","kz":"өзара әрекеттесу","level":3,"transcription":null}
 {"pt":"judo","kz":"дзюдо","level":2,"transcription":null}
@@ -4832,10 +4832,10 @@
 {"pt":"bengali","kz":"бенгал","level":3,"transcription":null}
 {"pt":"brownie","kz":"брауни","level":2,"transcription":null}
 {"pt":"camomila","kz":"түймедақ","level":3,"transcription":null}
-{"pt":"canivete","kz":"қалта пышақ","level":3,"transcription":null}
+{"pt":"canivete","kz":"қаңырау","level":3,"transcription":null}
 {"pt":"capô","kz":"капюшон","level":3,"transcription":null}
 {"pt":"cata","kz":"ката","level":4,"transcription":null}
-{"pt":"centeio","kz":"қара бидай","level":4,"transcription":null}
+{"pt":"centeio","kz":"қара қуыс","level":4,"transcription":null}
 {"pt":"centelha","kz":"ұшқын","level":4,"transcription":null}
 {"pt":"charuto","kz":"сигара","level":3,"transcription":null}
 {"pt":"colhido","kz":"жиналды","level":4,"transcription":null}
@@ -4933,8 +4933,8 @@
 {"pt":"pontaria","kz":"мақсат","level":4,"transcription":null}
 {"pt":"precedido","kz":"алдында","level":4,"transcription":null}
 {"pt":"pretérito","kz":"өткен шақ","level":3,"transcription":null}
-{"pt":"acne","kz":"безеу","level":3,"transcription":null}
-{"pt":"activista","kz":"белсенді","level":4,"transcription":null}
+{"pt":"acne","kz":"бұзылған","level":3,"transcription":null}
+{"pt":"activista","kz":"әлеуметтік","level":4,"transcription":null}
 {"pt":"requisitado","kz":"сұралды","level":4,"transcription":null}
 {"pt":"restinga","kz":"демалу","level":4,"transcription":null}
 {"pt":"retardado","kz":"артта қалған","level":4,"transcription":null}
@@ -4965,12 +4965,12 @@
 {"pt":"autoconfiança","kz":"өзіне деген сенімділік","level":4,"transcription":null}
 {"pt":"aviador","kz":"ұшқыш","level":3,"transcription":null}
 {"pt":"birra","kz":"ашушаңдық","level":3,"transcription":null}
-{"pt":"boêmio","kz":"Богемиялық","level":4,"transcription":null}
+{"pt":"boêmio","kz":"бодом","level":4,"transcription":null}
 {"pt":"broche","kz":"брошь","level":4,"transcription":null}
-{"pt":"bruscamente","kz":"күрт","level":4,"transcription":null}
-{"pt":"bule","kz":"шәйнек","level":2,"transcription":null}
+{"pt":"bruscamente","kz":"быстро","level":4,"transcription":null}
+{"pt":"bule","kz":"бұлақ","level":2,"transcription":null}
 {"pt":"buscador","kz":"іздеу жүйесі","level":4,"transcription":null}
-{"pt":"campestre","kz":"ел","level":4,"transcription":null}
+{"pt":"campestre","kz":"жарық","level":4,"transcription":null}
 {"pt":"emissário","kz":"эмиссар","level":4,"transcription":null}
 {"pt":"idolatria","kz":"пұтқа табынушылық","level":4,"transcription":null}
 {"pt":"inflamável","kz":"жанғыш","level":3,"transcription":null}
@@ -5065,25 +5065,25 @@
 {"pt":"fotossíntese","kz":"фотосинтез","level":4,"transcription":null}
 {"pt":"fragmentado","kz":"бөлшектенген","level":4,"transcription":null}
 {"pt":"fragmentar","kz":"фрагмент","level":4,"transcription":null}
-{"pt":"ganga","kz":"джинсы","level":3,"transcription":null}
+{"pt":"ganga","kz":"күні","level":3,"transcription":null}
 {"pt":"garça","kz":"құтан","level":3,"transcription":null}
 {"pt":"gastrite","kz":"гастрит","level":4,"transcription":null}
-{"pt":"hornet","kz":"мүйізі","level":4,"transcription":null}
-{"pt":"inconcebível","kz":"елестету мүмкін емес","level":4,"transcription":null}
+{"pt":"hornet","kz":"мүйізді","level":4,"transcription":null}
+{"pt":"inconcebível","kz":"белгісіз","level":4,"transcription":null}
 {"pt":"inconsistente","kz":"сәйкес емес","level":4,"transcription":null}
-{"pt":"vulgarmente","kz":"өрескел","level":4,"transcription":null}
+{"pt":"vulgarmente","kz":"сочиво","level":4,"transcription":null}
 {"pt":"vértice","kz":"шыңы","level":4,"transcription":null}
 {"pt":"zoologia","kz":"зоология","level":4,"transcription":null}
 {"pt":"aerodinâmico","kz":"аэродинамикалық","level":4,"transcription":null}
-{"pt":"amabilidade","kz":"мейірімділік","level":3,"transcription":null}
+{"pt":"amabilidade","kz":"мягкость","level":3,"transcription":null}
 {"pt":"arrefecimento","kz":"салқындату","level":4,"transcription":null}
-{"pt":"arrombado","kz":"бөлінген","level":4,"transcription":null}
-{"pt":"arruinado","kz":"қираған","level":3,"transcription":null}
+{"pt":"arrombado","kz":"разделенный","level":4,"transcription":null}
+{"pt":"arruinado","kz":"разрушенный","level":3,"transcription":null}
 {"pt":"automotivo","kz":"автомобиль","level":4,"transcription":null}
 {"pt":"açafrão","kz":"шафран","level":3,"transcription":null}
 {"pt":"banjo","kz":"банджо","level":2,"transcription":null}
-{"pt":"benfeitoria","kz":"жақсарту","level":4,"transcription":null}
-{"pt":"búfalo","kz":"буйвол","level":3,"transcription":null}
+{"pt":"benfeitoria","kz":"улучшение","level":4,"transcription":null}
+{"pt":"búfalo","kz":"буевол","level":3,"transcription":null}
 {"pt":"ensaísta","kz":"эссеист","level":4,"transcription":null}
 {"pt":"enérgico","kz":"жігерлі","level":3,"transcription":null}
 {"pt":"escarlate","kz":"қызыл","level":4,"transcription":null}
@@ -5115,18 +5115,18 @@
 {"pt":"trigésimo","kz":"отызыншы","level":4,"transcription":null}
 {"pt":"trombeta","kz":"керней","level":3,"transcription":null}
 {"pt":"urdu","kz":"урду","level":3,"transcription":null}
-{"pt":"utente","kz":"пайдаланушы","level":4,"transcription":null}
-{"pt":"ócio","kz":"демалыс","level":4,"transcription":null}
-{"pt":"acrobacia","kz":"трюк","level":3,"transcription":null}
-{"pt":"actualizar","kz":"жаңарту","level":3,"transcription":null}
-{"pt":"alternância","kz":"кезектесу","level":4,"transcription":null}
-{"pt":"amassado","kz":"иленген","level":3,"transcription":null}
-{"pt":"amassar","kz":"илеу","level":3,"transcription":null}
-{"pt":"anexado","kz":"тіркелген","level":4,"transcription":null}
+{"pt":"utente","kz":"пользователь","level":4,"transcription":null}
+{"pt":"ócio","kz":"офис","level":4,"transcription":null}
+{"pt":"acrobacia","kz":"акробатика","level":3,"transcription":null}
+{"pt":"actualizar","kz":"обновить","level":3,"transcription":null}
+{"pt":"alternância","kz":"чередность","level":4,"transcription":null}
+{"pt":"amassado","kz":"накопленный","level":3,"transcription":null}
+{"pt":"amassar","kz":"мешать","level":3,"transcription":null}
+{"pt":"anexado","kz":"прикреплен","level":4,"transcription":null}
 {"pt":"antivírus","kz":"антивирус","level":4,"transcription":null}
-{"pt":"apostador","kz":"құмар ойыншы","level":4,"transcription":null}
-{"pt":"aresta","kz":"жиегі","level":4,"transcription":null}
-{"pt":"arrepiado","kz":"қаздың ісігі","level":3,"transcription":null}
+{"pt":"apostador","kz":"красавчик","level":4,"transcription":null}
+{"pt":"aresta","kz":"край","level":4,"transcription":null}
+{"pt":"arrepiado","kz":"забавный","level":3,"transcription":null}
 {"pt":"engate","kz":"ілмек","level":4,"transcription":null}
 {"pt":"entrelaçado","kz":"өзара тоғысқан","level":4,"transcription":null}
 {"pt":"entrevistador","kz":"сұхбат беруші","level":3,"transcription":null}
@@ -5284,10 +5284,10 @@
 {"pt":"freak","kz":"ақымақ","level":4,"transcription":null}
 {"pt":"indoor","kz":"жабық","level":3,"transcription":null}
 {"pt":"logar","kz":"кіру","level":3,"transcription":null}
-{"pt":"marioneta","kz":"қуыршақ","level":3,"transcription":null}
+{"pt":"marioneta","kz":"мәңгілік","level":3,"transcription":null}
 {"pt":"musgo","kz":"мүк","level":4,"transcription":null}
 {"pt":"negligenciar","kz":"немқұрайлылық","level":4,"transcription":null}
-{"pt":"ninar","kz":"бесік жыры","level":3,"transcription":null}
+{"pt":"ninar","kz":"сәулет","level":3,"transcription":null}
 {"pt":"cilíndrico","kz":"цилиндрлік","level":3,"transcription":null}
 {"pt":"circundante","kz":"айнала","level":4,"transcription":null}
 {"pt":"cobiçar","kz":"құштарлық","level":4,"transcription":null}
@@ -5349,25 +5349,25 @@
 {"pt":"terrivel","kz":"қорқынышты","level":2,"transcription":null}
 {"pt":"transcrever","kz":"транскрипциялау","level":4,"transcription":null}
 {"pt":"troiano","kz":"Троян","level":4,"transcription":null}
-{"pt":"vão","kz":"олар кетеді","level":3,"transcription":null}
-{"pt":"zeta","kz":"zeta","level":4,"transcription":null}
-{"pt":"acariciar","kz":"сипау","level":3,"transcription":null}
+{"pt":"vão","kz":"открыть","level":3,"transcription":null}
+{"pt":"zeta","kz":"зета","level":4,"transcription":null}
+{"pt":"acariciar","kz":"смихити","level":3,"transcription":null}
 {"pt":"acrescido","kz":"қосылды","level":4,"transcription":null}
 {"pt":"ananás","kz":"ананас","level":2,"transcription":null}
 {"pt":"antidrogas","kz":"есірткіге қарсы","level":4,"transcription":null}
-{"pt":"apostado","kz":"бәс тігу","level":4,"transcription":null}
-{"pt":"ofendido","kz":"ренжіткен","level":3,"transcription":null}
-{"pt":"otimizar","kz":"оңтайландыру","level":4,"transcription":null}
-{"pt":"pacificador","kz":"бітімгер","level":4,"transcription":null}
-{"pt":"palhoça","kz":"palhoça","level":4,"transcription":null}
-{"pt":"precipitar","kz":"тұнба","level":4,"transcription":null}
-{"pt":"procedente","kz":"табиғи","level":4,"transcription":null}
-{"pt":"profissionalizar","kz":"кәсібилендіру","level":4,"transcription":null}
+{"pt":"apostado","kz":"басып","level":4,"transcription":null}
+{"pt":"ofendido","kz":"оффендидо","level":3,"transcription":null}
+{"pt":"otimizar","kz":"оптимизировать","level":4,"transcription":null}
+{"pt":"pacificador","kz":"мирный","level":4,"transcription":null}
+{"pt":"palhoça","kz":"палочка","level":4,"transcription":null}
+{"pt":"precipitar","kz":"осадить","level":4,"transcription":null}
+{"pt":"procedente","kz":"предстоящий","level":4,"transcription":null}
+{"pt":"profissionalizar","kz":"профессионализировать","level":4,"transcription":null}
 {"pt":"pulsação","kz":"пульсация","level":4,"transcription":null}
-{"pt":"pônei","kz":"пони","level":2,"transcription":null}
-{"pt":"receção","kz":"қабылдау","level":3,"transcription":null}
-{"pt":"remodelar","kz":"қайта құру","level":4,"transcription":null}
-{"pt":"ridicularizar","kz":"мазақ ету","level":4,"transcription":null}
+{"pt":"pônei","kz":"понизь","level":2,"transcription":null}
+{"pt":"receção","kz":"приемка","level":3,"transcription":null}
+{"pt":"remodelar","kz":"обновление","level":4,"transcription":null}
+{"pt":"ridicularizar","kz":"малык ету","level":4,"transcription":null}
 {"pt":"dublar","kz":"дубляж","level":3,"transcription":null}
 {"pt":"epílogo","kz":"эпилог","level":4,"transcription":null}
 {"pt":"escancarado","kz":"саңылау","level":4,"transcription":null}
@@ -5398,8 +5398,8 @@
 {"pt":"penicilina","kz":"пенициллин","level":3,"transcription":null}
 {"pt":"picareta","kz":"таңдау","level":3,"transcription":null}
 {"pt":"playback","kz":"ойнату","level":3,"transcription":null}
-{"pt":"poda","kz":"кесу","level":3,"transcription":null}
-{"pt":"provocador","kz":"арандатушы","level":4,"transcription":null}
+{"pt":"poda","kz":"көзге қарау","level":3,"transcription":null}
+{"pt":"provocador","kz":"көзге қарау","level":4,"transcription":null}
 {"pt":"quinzenal","kz":"екі апта сайын","level":4,"transcription":null}
 {"pt":"reconhecível","kz":"танылатын","level":4,"transcription":null}
 {"pt":"reinício","kz":"қайтадан қосу","level":3,"transcription":null}
@@ -5686,24 +5686,24 @@
 {"pt":"gratuidade","kz":"тегін","level":4,"transcription":null}
 {"pt":"groselha","kz":"қарақат","level":3,"transcription":null}
 {"pt":"hacking","kz":"бұзу","level":4,"transcription":null}
-{"pt":"heliporto","kz":"тікұшақ айлағы","level":4,"transcription":null}
-{"pt":"heterogêneo","kz":"гетерогенді","level":4,"transcription":null}
+{"pt":"heliporto","kz":"хеликоптер","level":4,"transcription":null}
+{"pt":"heterogêneo","kz":"гетерогенный","level":4,"transcription":null}
 {"pt":"hipopótamo","kz":"бегемот","level":3,"transcription":null}
-{"pt":"inflamar","kz":"жану","level":4,"transcription":null}
-{"pt":"inflexível","kz":"икемсіз","level":4,"transcription":null}
-{"pt":"invasivo","kz":"инвазивті","level":4,"transcription":null}
-{"pt":"invejável","kz":"қызғаныш","level":4,"transcription":null}
-{"pt":"jarro","kz":"құмыра","level":2,"transcription":null}
-{"pt":"lastimável","kz":"аянышты","level":4,"transcription":null}
-{"pt":"linguajar","kz":"тіл","level":4,"transcription":null}
-{"pt":"lícito","kz":"заңды","level":4,"transcription":null}
+{"pt":"inflamar","kz":"гореть","level":4,"transcription":null}
+{"pt":"inflexível","kz":"мягкий","level":4,"transcription":null}
+{"pt":"invasivo","kz":"инвазивный","level":4,"transcription":null}
+{"pt":"invejável","kz":"недоступен","level":4,"transcription":null}
+{"pt":"jarro","kz":"коробка","level":2,"transcription":null}
+{"pt":"lastimável","kz":"повредить","level":4,"transcription":null}
+{"pt":"linguajar","kz":"язык","level":4,"transcription":null}
+{"pt":"lícito","kz":"разрешенный","level":4,"transcription":null}
 {"pt":"magnólia","kz":"магнолия","level":3,"transcription":null}
-{"pt":"manobrar","kz":"маневр","level":3,"transcription":null}
-{"pt":"melódico","kz":"әуезді","level":3,"transcription":null}
-{"pt":"napalm","kz":"напальма","level":4,"transcription":null}
-{"pt":"neozelandês","kz":"Жаңа Зеландиялық","level":3,"transcription":null}
-{"pt":"nevasca","kz":"боран","level":3,"transcription":null}
-{"pt":"obstetra","kz":"акушер","level":4,"transcription":null}
+{"pt":"manobrar","kz":"перевозить","level":3,"transcription":null}
+{"pt":"melódico","kz":"музыкальный","level":3,"transcription":null}
+{"pt":"napalm","kz":"напальм","level":4,"transcription":null}
+{"pt":"neozelandês","kz":"нео-Зеландия","level":3,"transcription":null}
+{"pt":"nevasca","kz":"неваза","level":3,"transcription":null}
+{"pt":"obstetra","kz":"акушерка","level":4,"transcription":null}
 {"pt":"subtil","kz":"нәзік","level":4,"transcription":null}
 {"pt":"sulfúrico","kz":"күкірт","level":4,"transcription":null}
 {"pt":"surdez","kz":"кереңдік","level":3,"transcription":null}
@@ -6064,10 +6064,10 @@
 {"pt":"verticalmente","kz":"тігінен","level":3,"transcription":null}
 {"pt":"vidraça","kz":"терезе әйнегі","level":3,"transcription":null}
 {"pt":"viela","kz":"аллея","level":4,"transcription":null}
-{"pt":"álamo","kz":"терек","level":4,"transcription":null}
+{"pt":"álamo","kz":"алмақ","level":4,"transcription":null}
 {"pt":"ótico","kz":"оптикалық","level":4,"transcription":null}
 {"pt":"afinar","kz":"күйге келтіру","level":3,"transcription":null}
-{"pt":"alpino","kz":"альпі","level":3,"transcription":null}
+{"pt":"alpino","kz":"альпіно","level":3,"transcription":null}
 {"pt":"anil","kz":"индиго","level":3,"transcription":null}
 {"pt":"assumpção","kz":"болжам","level":4,"transcription":null}
 {"pt":"asterisco","kz":"жұлдызша","level":4,"transcription":null}
@@ -6077,7 +6077,7 @@
 {"pt":"bifurcação","kz":"бифуркация","level":4,"transcription":null}
 {"pt":"bock","kz":"бок","level":4,"transcription":null}
 {"pt":"cabível","kz":"қолайлы","level":4,"transcription":null}
-{"pt":"desinteressante","kz":"қызықсыз","level":3,"transcription":null}
+{"pt":"desinteressante","kz":"қайырлы","level":3,"transcription":null}
 {"pt":"desobedecer","kz":"бағынбау","level":3,"transcription":null}
 {"pt":"rumar","kz":"бас","level":4,"transcription":null}
 {"pt":"saliência","kz":"бастық","level":4,"transcription":null}
@@ -6139,30 +6139,30 @@
 {"pt":"facultativo","kz":"міндетті емес","level":4,"transcription":null}
 {"pt":"feirante","kz":"маркетолог","level":3,"transcription":null}
 {"pt":"felizardo","kz":"бақытты","level":4,"transcription":null}
-{"pt":"folgado","kz":"бос","level":4,"transcription":null}
-{"pt":"fracção","kz":"бөлшек","level":3,"transcription":null}
-{"pt":"frequentado","kz":"жиі келетін","level":3,"transcription":null}
-{"pt":"gerido","kz":"басқарған","level":4,"transcription":null}
-{"pt":"gorduroso","kz":"майлы","level":3,"transcription":null}
+{"pt":"folgado","kz":"мягкий","level":4,"transcription":null}
+{"pt":"fracção","kz":"часть","level":3,"transcription":null}
+{"pt":"frequentado","kz":"часто посещать","level":3,"transcription":null}
+{"pt":"gerido","kz":"управлять","level":4,"transcription":null}
+{"pt":"gorduroso","kz":"жирный","level":3,"transcription":null}
 {"pt":"gude","kz":"бағыттаушы","level":4,"transcription":null}
-{"pt":"habito","kz":"әдет","level":3,"transcription":null}
+{"pt":"habito","kz":"обыча","level":3,"transcription":null}
 {"pt":"pupilo","kz":"оқушы","level":4,"transcription":null}
 {"pt":"pórtico","kz":"портик","level":4,"transcription":null}
-{"pt":"qualitativo","kz":"сапалы","level":4,"transcription":null}
-{"pt":"queimação","kz":"жану","level":3,"transcription":null}
-{"pt":"quociente","kz":"үлес","level":4,"transcription":null}
-{"pt":"racionalmente","kz":"ұтымды","level":4,"transcription":null}
-{"pt":"reacender","kz":"қайта жандыру","level":4,"transcription":null}
-{"pt":"reclamo","kz":"Мен шағымданамын","level":4,"transcription":null}
-{"pt":"regionalmente","kz":"аймақтық","level":4,"transcription":null}
-{"pt":"remunerar","kz":"төлеу","level":4,"transcription":null}
-{"pt":"shabat","kz":"Демалыс","level":4,"transcription":null}
-{"pt":"somali","kz":"Сомали","level":3,"transcription":null}
-{"pt":"sopé","kz":"аяқ","level":4,"transcription":null}
-{"pt":"suportável","kz":"төзімді","level":3,"transcription":null}
+{"pt":"qualitativo","kz":"качественный","level":4,"transcription":null}
+{"pt":"queimação","kz":"огонь","level":3,"transcription":null}
+{"pt":"quociente","kz":"коэффициент","level":4,"transcription":null}
+{"pt":"racionalmente","kz":"логически","level":4,"transcription":null}
+{"pt":"reacender","kz":"зажигать заново","level":4,"transcription":null}
+{"pt":"reclamo","kz":"жалоба","level":4,"transcription":null}
+{"pt":"regionalmente","kz":"регионально","level":4,"transcription":null}
+{"pt":"remunerar","kz":"вознаграждать","level":4,"transcription":null}
+{"pt":"shabat","kz":"шабат","level":4,"transcription":null}
+{"pt":"somali","kz":"сомали","level":3,"transcription":null}
+{"pt":"sopé","kz":"соп","level":4,"transcription":null}
+{"pt":"suportável","kz":"поддерживаемый","level":3,"transcription":null}
 {"pt":"tandem","kz":"тандем","level":4,"transcription":null}
-{"pt":"temeroso","kz":"қорқынышты","level":4,"transcription":null}
-{"pt":"timidamente","kz":"ұялшақ","level":4,"transcription":null}
+{"pt":"temeroso","kz":"тревожный","level":4,"transcription":null}
+{"pt":"timidamente","kz":"тихонько","level":4,"transcription":null}
 {"pt":"cânion","kz":"каньон","level":3,"transcription":null}
 {"pt":"debutante","kz":"дебютант","level":3,"transcription":null}
 {"pt":"decisivamente","kz":"шешуші түрде","level":4,"transcription":null}
@@ -6194,15 +6194,15 @@
 {"pt":"pentagrama","kz":"пентаграмма","level":4,"transcription":null}
 {"pt":"pezinho","kz":"кішкентай аяқ","level":2,"transcription":null}
 {"pt":"pinball","kz":"пинбол","level":3,"transcription":null}
-{"pt":"portagem","kz":"Жол салығы","level":3,"transcription":null}
-{"pt":"protestantismo","kz":"Протестантизм","level":4,"transcription":null}
+{"pt":"portagem","kz":"жол салығы","level":3,"transcription":null}
+{"pt":"protestantismo","kz":"протестантизм","level":4,"transcription":null}
 {"pt":"rabbi","kz":"раввин","level":3,"transcription":null}
-{"pt":"alucinado","kz":"галлюцинацияланған","level":4,"transcription":null}
+{"pt":"alucinado","kz":"галлюцинация","level":4,"transcription":null}
 {"pt":"amortecedor","kz":"амортизатор","level":3,"transcription":null}
 {"pt":"anis","kz":"анис","level":3,"transcription":null}
-{"pt":"apreciador","kz":"білгір","level":4,"transcription":null}
-{"pt":"assimilado","kz":"ассимиляцияланған","level":4,"transcription":null}
-{"pt":"banhista","kz":"шомылу","level":3,"transcription":null}
+{"pt":"apreciador","kz":"аппарат","level":4,"transcription":null}
+{"pt":"assimilado","kz":"ассимилирован","level":4,"transcription":null}
+{"pt":"banhista","kz":"шумелер","level":3,"transcription":null}
 {"pt":"escaravelho","kz":"скараб","level":4,"transcription":null}
 {"pt":"excetuar","kz":"қоспағанда","level":4,"transcription":null}
 {"pt":"facho","kz":"сәуле","level":4,"transcription":null}

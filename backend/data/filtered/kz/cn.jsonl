@@ -17,7 +17,7 @@
 {"kz":"бажа","cn":"姐妹的丈夫彼此","level":5,"transcription":null}
 {"kz":"бала","cn":"孩子，男孩","level":1,"transcription":null}
 {"kz":"балдыз","cn":"妻弟","level":5,"transcription":null}
-{"kz":"бауыр","cn":"肝","level":3,"transcription":null}
+{"kz":"бауыр","cn":"血亲","level":3,"transcription":null}
 {"kz":"бәсекелес","cn":"竞争者，竞争对手","level":4,"transcription":null}
 {"kz":"бозбала","cn":"年轻人","level":3,"transcription":null}
 {"kz":"бойжеткен","cn":"年轻女子","level":3,"transcription":null}
@@ -59,7 +59,7 @@
 {"kz":"қиялшыл","cn":"梦想家","level":4,"transcription":null}
 {"kz":"құрбы","cn":"女朋友","level":2,"transcription":null}
 {"kz":"құрдас","cn":"同行","level":3,"transcription":null}
-{"kz":"қыз","cn":"女孩，女儿","level":1,"transcription":null}
+{"kz":"қыз","cn":"女孩","level":1,"transcription":null}
 {"kz":"нағашы","cn":"母系亲属","level":4,"transcription":null}
 {"kz":"нәресте","cn":"婴儿","level":3,"transcription":null}
 {"kz":"негізін салушы","cn":"创始人","level":5,"transcription":null}
@@ -88,7 +88,7 @@
 {"kz":"ауылдық жер","cn":"农村","level":3,"transcription":null}
 {"kz":"аяқ киім жөндеу","cn":"修鞋","level":3,"transcription":null}
 {"kz":"аялдама","cn":"停止","level":2,"transcription":null}
-{"kz":"әкімдік","cn":"阿基马特","level":4,"transcription":null}
+{"kz":"әкімдік","cn":"行政","level":4,"transcription":null}
 {"kz":"бағдаршам","cn":"红绿灯","level":3,"transcription":null}
 {"kz":"бақ","cn":"花园","level":1,"transcription":null}
 {"kz":"бақша","cn":"花园","level":2,"transcription":null}
@@ -114,7 +114,7 @@
 {"kz":"көшірме орталығы","cn":"复印中心","level":4,"transcription":null}
 {"kz":"кітап дүкені","cn":"书店","level":3,"transcription":null}
 {"kz":"кітапхана","cn":"图书馆","level":3,"transcription":null}
-{"kz":"қақпа","cn":"盖茨","level":3,"transcription":null}
+{"kz":"қақпа","cn":"广场","level":3,"transcription":null}
 {"kz":"қала","cn":"城市","level":1,"transcription":null}
 {"kz":"қиылыс","cn":"十字路口","level":3,"transcription":null}
 {"kz":"қоғамдық көлік","cn":"公共交通","level":4,"transcription":null}
@@ -123,31 +123,31 @@
 {"kz":"мәдениет орталығы","cn":"文化中心","level":4,"transcription":null}
 {"kz":"мейрамхана","cn":"餐厅","level":2,"transcription":null}
 {"kz":"мекеме","cn":"机构","level":3,"transcription":null}
-{"kz":"мекенжай","cn":"居住地","level":4,"transcription":null}
+{"kz":"мекенжай","cn":"地址","level":4,"transcription":null}
 {"kz":"мектеп","cn":"学校","level":1,"transcription":null}
 {"kz":"метро","cn":"地铁","level":1,"transcription":null}
 {"kz":"мешіт","cn":"清真寺","level":3,"transcription":null}
 {"kz":"монша","cn":"澡堂","level":3,"transcription":null}
 {"kz":"мұражай","cn":"博物馆","level":2,"transcription":null}
-{"kz":"ойын-сауық орталығы","cn":"购物和娱乐中心","level":4,"transcription":null}
+{"kz":"ойын-сауық орталығы","cn":"娱乐中心","level":4,"transcription":null}
 {"kz":"орталық","cn":"中心","level":2,"transcription":null}
-{"kz":"орын","cn":"地方","level":1,"transcription":null}
+{"kz":"орын","cn":"地点","level":1,"transcription":null}
 {"kz":"пошта","cn":"邮件","level":2,"transcription":null}
-{"kz":"сағат жөндеу","cn":"手表维修","level":3,"transcription":null}
+{"kz":"сағат жөндеу","cn":"钟表维修","level":3,"transcription":null}
 {"kz":"сауда орталығы","cn":"购物中心","level":3,"transcription":null}
-{"kz":"сауда үйі","cn":"贸易公司","level":3,"transcription":null}
+{"kz":"сауда үйі","cn":"商店","level":3,"transcription":null}
 {"kz":"саябақ","cn":"公园","level":2,"transcription":null}
 {"kz":"спорт кешені","cn":"体育中心","level":4,"transcription":null}
 {"kz":"станция, бекет","cn":"车站","level":2,"transcription":null}
 {"kz":"сұлулық салоны","cn":"美容院","level":3,"transcription":null}
-{"kz":"сырты","cn":"外侧","level":3,"transcription":null}
+{"kz":"сырты","cn":"外面","level":3,"transcription":null}
 {"kz":"такси","cn":"出租车","level":1,"transcription":null}
 {"kz":"троллейбус","cn":"电车","level":2,"transcription":null}
 {"kz":"университет","cn":"大学","level":2,"transcription":null}
-{"kz":"үй","cn":"房子","level":1,"transcription":null}
-{"kz":"шаштараз","cn":"沙龙","level":3,"transcription":null}
+{"kz":"үй","cn":"家","level":1,"transcription":null}
+{"kz":"шаштараз","cn":"理发店","level":3,"transcription":null}
 {"kz":"шеберхана","cn":"车间","level":3,"transcription":null}
-{"kz":"шеті","cn":"（其）边缘","level":3,"transcription":null}
+{"kz":"шеті","cn":"边界","level":3,"transcription":null}
 {"kz":"шипажай","cn":"疗养院","level":4,"transcription":null}
 {"kz":"шіркеу","cn":"教会","level":3,"transcription":null}
 {"kz":"ықшамаудан","cn":"微区","level":4,"transcription":null}
@@ -162,7 +162,7 @@
 {"kz":"бесік","cn":"摇篮","level":4,"transcription":null}
 {"kz":"бөлме","cn":"房间","level":2,"transcription":null}
 {"kz":"бөшке","cn":"桶","level":3,"transcription":null}
-{"kz":"бұрыш","cn":"胡椒","level":2,"transcription":null}
+{"kz":"бұрыш","cn":"角落","level":2,"transcription":null}
 {"kz":"газ баллоны","cn":"气瓶","level":4,"transcription":null}
 {"kz":"газ плитасы","cn":"煤气灶","level":3,"transcription":null}
 {"kz":"дәліз","cn":"走廊","level":3,"transcription":null}
@@ -215,7 +215,7 @@
 {"kz":"пәтер","cn":"公寓","level":2,"transcription":null}
 {"kz":"пышақ","cn":"刀","level":2,"transcription":null}
 {"kz":"сандық","cn":"盒子","level":4,"transcription":null}
-{"kz":"сауыт","cn":"容器，容器","level":4,"transcription":null}
+{"kz":"сауыт","cn":"容器","level":4,"transcription":null}
 {"kz":"сөре","cn":"架子","level":3,"transcription":null}
 {"kz":"сурет","cn":"绘画","level":2,"transcription":null}
 {"kz":"сыпырғыш","cn":"扫帚","level":3,"transcription":null}
@@ -261,22 +261,22 @@
 {"kz":"ес, жады","cn":"记忆","level":3,"transcription":null}
 {"kz":"жақ","cn":"脸颊","level":2,"transcription":null}
 {"kz":"желке","cn":"后脑勺","level":4,"transcription":null}
-{"kz":"жүз","cn":"一百","level":1,"transcription":null}
+{"kz":"жүз","cn":"脸、外貌","level":1,"transcription":null}
 {"kz":"жүрек","cn":"心","level":2,"transcription":null}
 {"kz":"иек","cn":"下巴","level":3,"transcription":null}
 {"kz":"иық","cn":"肩膀","level":2,"transcription":null}
 {"kz":"кекіл","cn":"砰","level":4,"transcription":null}
 {"kz":"кеуде","cn":"胸部","level":3,"transcription":null}
 {"kz":"көз","cn":"眼睛","level":1,"transcription":null}
-{"kz":"көзқарас","cn":"看看，意见","level":4,"transcription":null}
+{"kz":"көзқарас","cn":"看法","level":4,"transcription":null}
 {"kz":"көкірек","cn":"肋骨","level":4,"transcription":null}
-{"kz":"көңіл күй","cn":"情绪","level":3,"transcription":null}
+{"kz":"көңіл күй","cn":"心情","level":3,"transcription":null}
 {"kz":"кірпік","cn":"睫毛","level":4,"transcription":null}
 {"kz":"қабақ","cn":"眼皮","level":4,"transcription":null}
 {"kz":"қарақат көз","cn":"黑眼睛","level":3,"transcription":null}
 {"kz":"қарашық","cn":"瞳孔","level":4,"transcription":null}
 {"kz":"қарын","cn":"胃","level":3,"transcription":null}
-{"kz":"қас","cn":"眉","level":2,"transcription":null}
+{"kz":"қас","cn":"眉毛","level":2,"transcription":null}
 {"kz":"қиғаш қас","cn":"拱形眉毛","level":5,"transcription":null}
 {"kz":"қол","cn":"手","level":1,"transcription":null}
 {"kz":"құлақ","cn":"耳朵","level":2,"transcription":null}
@@ -288,12 +288,12 @@
 {"kz":"мұрт","cn":"胡子","level":2,"transcription":null}
 {"kz":"мұрын","cn":"鼻子","level":1,"transcription":null}
 {"kz":"мінез","cn":"特点","level":3,"transcription":null}
-{"kz":"назар","cn":"注意力","level":2,"transcription":null}
+{"kz":"назар","cn":"目光","level":2,"transcription":null}
 {"kz":"несеп жолы","cn":"输尿管","level":6,"transcription":null}
-{"kz":"өкпе","cn":"怨恨","level":3,"transcription":null}
+{"kz":"өкпе","cn":"肺","level":3,"transcription":null}
 {"kz":"өкше","cn":"脚跟","level":3,"transcription":null}
 {"kz":"парасат, интеллект","cn":"智力","level":4,"transcription":null}
-{"kz":"пікір","cn":"观点","level":3,"transcription":null}
+{"kz":"пікір","cn":"意见","level":3,"transcription":null}
 {"kz":"сақал","cn":"胡须","level":2,"transcription":null}
 {"kz":"самай","cn":"寺庙","level":4,"transcription":null}
 {"kz":"саусақ","cn":"手指","level":2,"transcription":null}
@@ -301,7 +301,7 @@
 {"kz":"соқырішек","cn":"阑尾炎","level":5,"transcription":null}
 {"kz":"сүйек","cn":"骨","level":2,"transcription":null}
 {"kz":"тамақ","cn":"喉","level":2,"transcription":null}
-{"kz":"тамыр","cn":"根（植物）","level":3,"transcription":null}
+{"kz":"тамыр","cn":"静脉","level":3,"transcription":null}
 {"kz":"түсінік","cn":"理解","level":3,"transcription":null}
 {"kz":"тырнақ","cn":"指甲","level":2,"transcription":null}
 {"kz":"тізе","cn":"膝盖","level":2,"transcription":null}
@@ -312,14 +312,14 @@
 {"kz":"іш","cn":"胃","level":2,"transcription":null}
 {"kz":"ішек","cn":"肠子","level":4,"transcription":null}
 {"kz":"әліпби","cn":"字母","level":3,"transcription":null}
-{"kz":"әліппе","cn":"abc","level":3,"transcription":null}
-{"kz":"әріп","cn":"信","level":2,"transcription":null}
+{"kz":"әліппе","cn":"alphabet","level":3,"transcription":null}
+{"kz":"әріп","cn":"letter","level":2,"transcription":null}
 {"kz":"бaстауыш мектеп","cn":"小学","level":3,"transcription":null}
-{"kz":"баға","cn":"价格","level":2,"transcription":null}
+{"kz":"баға","cn":"年级","level":2,"transcription":null}
 {"kz":"белгі","cn":"符号","level":2,"transcription":null}
 {"kz":"бестік","cn":"五","level":3,"transcription":null}
 {"kz":"биіктік","cn":"高度","level":3,"transcription":null}
-{"kz":"бояу","cn":"颜色","level":2,"transcription":null}
+{"kz":"бояу","cn":"染料","level":2,"transcription":null}
 {"kz":"бөлшек","cn":"部分，分数","level":3,"transcription":null}
 {"kz":"білім","cn":"知识","level":2,"transcription":null}
 {"kz":"білім ордасы","cn":"教育机构","level":4,"transcription":null}
@@ -329,7 +329,7 @@
 {"kz":"ғылым негіздері","cn":"科学基础","level":4,"transcription":null}
 {"kz":"ғылыми мақала","cn":"科学文章","level":4,"transcription":null}
 {"kz":"дауыс ырғағы","cn":"语调","level":5,"transcription":null}
-{"kz":"дәйекше, апостроф","cn":"撇号","level":5,"transcription":null}
+{"kz":"дәйекше, апостроф","cn":"引号","level":5,"transcription":null}
 {"kz":"дәптер","cn":"笔记本","level":2,"transcription":null}
 {"kz":"дәріс","cn":"演讲","level":3,"transcription":null}
 {"kz":"дене шынықтыру","cn":"体育","level":3,"transcription":null}
@@ -347,13 +347,13 @@
 {"kz":"желім","cn":"胶水","level":2,"transcription":null}
 {"kz":"жұп","cn":"一对","level":2,"transcription":null}
 {"kz":"иероглиф","cn":"象形文字","level":5,"transcription":null}
-{"kz":"инициал","cn":"最初的","level":4,"transcription":null}
+{"kz":"инициал","cn":"初始字母","level":4,"transcription":null}
 {"kz":"кәмелеттік аттестат","cn":"入学证明","level":5,"transcription":null}
 {"kz":"келі","cn":"公斤","level":2,"transcription":null}
-{"kz":"кесте","cn":"刺绣","level":4,"transcription":null}
-{"kz":"килограмм","cn":"公斤","level":2,"transcription":null}
+{"kz":"кесте","cn":"图表、表格","level":4,"transcription":null}
+{"kz":"килограмм","cn":"千克","level":2,"transcription":null}
 {"kz":"компьютер","cn":"电脑","level":2,"transcription":null}
-{"kz":"күнделік","cn":"日记","level":3,"transcription":null}
+{"kz":"күнделік","cn":"日记本","level":3,"transcription":null}
 {"kz":"кірме сөз","cn":"外来词","level":5,"transcription":null}
 {"kz":"кітап","cn":"书","level":1,"transcription":null}
 {"kz":"қазақ жазуы","cn":"哈萨克文书写","level":4,"transcription":null}
@@ -370,42 +370,42 @@
 {"kz":"оқу құралдары","cn":"教具","level":4,"transcription":null}
 {"kz":"оқу мерзімі","cn":"学习期限","level":4,"transcription":null}
 {"kz":"оқулық","cn":"教科书","level":3,"transcription":null}
-{"kz":"оқушы","cn":"学生）","level":2,"transcription":null}
+{"kz":"оқушы","cn":"学生","level":2,"transcription":null}
 {"kz":"орта білім","cn":"中等教育","level":3,"transcription":null}
 {"kz":"орта мектеп","cn":"中学","level":3,"transcription":null}
 {"kz":"өлшеуіш","cn":"卷尺，测量","level":3,"transcription":null}
 {"kz":"өшіргіш","cn":"橡皮","level":3,"transcription":null}
 {"kz":"парта","cn":"桌子","level":3,"transcription":null}
-{"kz":"пән","cn":"物品","level":2,"transcription":null}
+{"kz":"пән","cn":"科目","level":2,"transcription":null}
 {"kz":"практика","cn":"实践","level":3,"transcription":null}
-{"kz":"сабақ","cn":"干","level":3,"transcription":null}
+{"kz":"сабақ","cn":"课程","level":3,"transcription":null}
 {"kz":"сабақ кестесі","cn":"课程安排","level":3,"transcription":null}
 {"kz":"сан","cn":"数字","level":2,"transcription":null}
 {"kz":"сандар","cn":"数字","level":2,"transcription":null}
 {"kz":"сөз","cn":"单词","level":1,"transcription":null}
 {"kz":"сөздік","cn":"字典","level":2,"transcription":null}
-{"kz":"сөйлем","cn":"提供","level":3,"transcription":null}
+{"kz":"сөйлем","cn":"句子","level":3,"transcription":null}
 {"kz":"сөйленіс","cn":"讲话","level":4,"transcription":null}
 {"kz":"сурет салу","cn":"绘画","level":3,"transcription":null}
 {"kz":"сұхбат, диалог","cn":"对话","level":3,"transcription":null}
 {"kz":"сызғыш","cn":"统治者","level":3,"transcription":null}
-{"kz":"сызу","cn":"画","level":3,"transcription":null}
+{"kz":"сызу","cn":"绘画","level":3,"transcription":null}
 {"kz":"сызық","cn":"线","level":2,"transcription":null}
 {"kz":"сынақ","cn":"测试","level":3,"transcription":null}
 {"kz":"сынып","cn":"班级","level":2,"transcription":null}
 {"kz":"табысты тапсыру","cn":"成功完成","level":4,"transcription":null}
 {"kz":"тақта","cn":"木板","level":2,"transcription":null}
 {"kz":"тақырып","cn":"话题","level":2,"transcription":null}
-{"kz":"таңба","cn":"指纹, 标记, 记号","level":4,"transcription":null}
-{"kz":"тапсырма","cn":"锻炼","level":3,"transcription":null}
-{"kz":"тарих","cn":"故事","level":2,"transcription":null}
-{"kz":"тәрбие","cn":"教养","level":3,"transcription":null}
+{"kz":"таңба","cn":"标记","level":4,"transcription":null}
+{"kz":"тапсырма","cn":"练习","level":3,"transcription":null}
+{"kz":"тарих","cn":"历史","level":2,"transcription":null}
+{"kz":"тәрбие","cn":"教育","level":3,"transcription":null}
 {"kz":"тереңдік","cn":"深度","level":3,"transcription":null}
 {"kz":"төртбұрыш","cn":"四边形","level":4,"transcription":null}
 {"kz":"төрттік","cn":"四","level":3,"transcription":null}
 {"kz":"тұрмыстық тіл","cn":"白话","level":5,"transcription":null}
 {"kz":"ұзындық","cn":"长度","level":2,"transcription":null}
-{"kz":"үзіліс","cn":"休息","level":3,"transcription":null}
+{"kz":"үзіліс","cn":"中断","level":3,"transcription":null}
 {"kz":"үй тапсырмасы","cn":"家庭作业","level":3,"transcription":null}
 {"kz":"үйірме","cn":"圆圈","level":3,"transcription":null}
 {"kz":"үлгермеушілік","cn":"成绩不佳","level":5,"transcription":null}
@@ -416,17 +416,17 @@
 {"kz":"цифр","cn":"数字","level":2,"transcription":null}
 {"kz":"шақырым","cn":"公里","level":3,"transcription":null}
 {"kz":"шаршы","cn":"正方形","level":3,"transcription":null}
-{"kz":"шәкірт","cn":"追随者","level":4,"transcription":null}
+{"kz":"шәкірт","cn":"学生","level":4,"transcription":null}
 {"kz":"шеңбер","cn":"圆圈","level":2,"transcription":null}
 {"kz":"шет тілі","cn":"外语","level":3,"transcription":null}
 {"kz":"азық-түлік","cn":"食物","level":3,"transcription":null}
-{"kz":"айран","cn":"开菲尔","level":2,"transcription":null}
+{"kz":"айран","cn":"酸奶","level":2,"transcription":null}
 {"kz":"алма","cn":"苹果","level":1,"transcription":null}
 {"kz":"алмұрт","cn":"梨","level":2,"transcription":null}
 {"kz":"алхоры, қараөрік","cn":"李子","level":3,"transcription":null}
 {"kz":"арпа","cn":"大麦","level":4,"transcription":null}
 {"kz":"асқабақ","cn":"南瓜","level":3,"transcription":null}
-{"kz":"ащы тұздық","cn":"肉汁，酱汁","level":4,"transcription":null}
+{"kz":"ащы тұздық","cn":"肉汁","level":4,"transcription":null}
 {"kz":"бал","cn":"蜂蜜","level":1,"transcription":null}
 {"kz":"балғындық","cn":"新鲜度、多汁度","level":4,"transcription":null}
 {"kz":"балмұздақ","cn":"冰淇淋","level":2,"transcription":null}
@@ -436,7 +436,7 @@
 {"kz":"бәліш","cn":"馅饼","level":3,"transcription":null}
 {"kz":"бидай","cn":"小麦","level":3,"transcription":null}
 {"kz":"ботқа","cn":"稀饭","level":2,"transcription":null}
-{"kz":"бұршақ","cn":"冰雹","level":3,"transcription":null}
+{"kz":"бұршақ","cn":"豌豆","level":3,"transcription":null}
 {"kz":"бұрыш","cn":"胡椒","level":2,"transcription":null}
 {"kz":"бүлдірген","cn":"草莓","level":4,"transcription":null}
 {"kz":"бір қайнатым","cn":"焊接","level":4,"transcription":null}
@@ -448,7 +448,7 @@
 {"kz":"жеміс","cn":"水果","level":2,"transcription":null}
 {"kz":"жержаңғақ","cn":"花生","level":4,"transcription":null}
 {"kz":"жидек","cn":"浆果","level":2,"transcription":null}
-{"kz":"жұмыртқа","cn":"蛋","level":2,"transcription":null}
+{"kz":"жұмыртқа","cn":"鸡蛋","level":2,"transcription":null}
 {"kz":"жүгері","cn":"玉米","level":3,"transcription":null}
 {"kz":"жүзім","cn":"葡萄","level":2,"transcription":null}
 {"kz":"картоп","cn":"土豆","level":2,"transcription":null}
@@ -472,18 +472,18 @@
 {"kz":"қатық, ұйыған сүт","cn":"凝乳","level":5,"transcription":null}
 {"kz":"қауын","cn":"瓜","level":2,"transcription":null}
 {"kz":"қуырдақ","cn":"烤","level":4,"transcription":null}
-{"kz":"құймақ","cn":"煎饼，煎饼","level":4,"transcription":null}
+{"kz":"құймақ","cn":"煎饼","level":4,"transcription":null}
 {"kz":"құлпынай","cn":"草莓","level":3,"transcription":null}
 {"kz":"қызылша","cn":"甜菜","level":3,"transcription":null}
 {"kz":"қымыз","cn":"马奶酒","level":4,"transcription":null}
 {"kz":"қырыққабат","cn":"卷心菜","level":3,"transcription":null}
 {"kz":"қыша","cn":"芥末","level":4,"transcription":null}
 {"kz":"май","cn":"油","level":1,"transcription":null}
-{"kz":"майлы айран","cn":"里亚任卡","level":4,"transcription":null}
+{"kz":"майлы айран","cn":"酸奶","level":4,"transcription":null}
 {"kz":"минералды су","cn":"矿泉水","level":3,"transcription":null}
 {"kz":"мұздатылған жеміс","cn":"冷冻水果","level":4,"transcription":null}
 {"kz":"нан","cn":"面包","level":1,"transcription":null}
-{"kz":"өрік","cn":"杏子，杏子","level":3,"transcription":null}
+{"kz":"өрік","cn":"杏子","level":3,"transcription":null}
 {"kz":"өсімдік майы","cn":"植物油","level":3,"transcription":null}
 {"kz":"палау","cn":"抓饭","level":3,"transcription":null}
 {"kz":"печенье","cn":"曲奇饼","level":2,"transcription":null}
@@ -524,9 +524,9 @@
 {"kz":"шұжық","cn":"香肠","level":3,"transcription":null}
 {"kz":"шырын","cn":"汁","level":2,"transcription":null}
 {"kz":"ірімшік","cn":"奶酪","level":3,"transcription":null}
-{"kz":"ағаш","cn":"木头","level":3,"transcription":null}
+{"kz":"ағаш","cn":"树","level":3,"transcription":null}
 {"kz":"ағыс","cn":"流动","level":3,"transcription":null}
-{"kz":"ай","cn":"月","level":1,"transcription":null}
+{"kz":"ай","cn":"月亮","level":1,"transcription":null}
 {"kz":"айдың тұтылуы","cn":"月食","level":5,"transcription":null}
 {"kz":"айлақ","cn":"港口","level":4,"transcription":null}
 {"kz":"ақ жауын","cn":"小雨","level":3,"transcription":null}
@@ -539,42 +539,42 @@
 {"kz":"ауа","cn":"空气","level":1,"transcription":null}
 {"kz":"ауа райы","cn":"天气","level":2,"transcription":null}
 {"kz":"ашық күн","cn":"晴天","level":2,"transcription":null}
-{"kz":"балды өсімдіктер","cn":"蜂蜜植物","level":5,"transcription":null}
-{"kz":"барқан, шағыл","cn":"巴尔坎","level":5,"transcription":null}
-{"kz":"бастау","cn":"来源","level":3,"transcription":null}
+{"kz":"балды өсімдіктер","cn":"植物","level":5,"transcription":null}
+{"kz":"барқан, шағыл","cn":"巴尔干","level":5,"transcription":null}
+{"kz":"бастау","cn":"开始","level":3,"transcription":null}
 {"kz":"батпақ","cn":"沼泽","level":4,"transcription":null}
-{"kz":"баяу жел, самал","cn":"微风，微风","level":4,"transcription":null}
+{"kz":"баяу жел, самал","cn":"微风","level":4,"transcription":null}
 {"kz":"боран","cn":"暴风雪","level":4,"transcription":null}
-{"kz":"бұлақ","cn":"钥匙","level":3,"transcription":null}
+{"kz":"бұлақ","cn":"井","level":3,"transcription":null}
 {"kz":"бұлт","cn":"云","level":2,"transcription":null}
 {"kz":"бұршақ","cn":"冰雹","level":3,"transcription":null}
 {"kz":"біржылдық өсімдіктер","cn":"一年生植物","level":5,"transcription":null}
-{"kz":"градус","cn":"程度","level":2,"transcription":null}
+{"kz":"градус","cn":"温度","level":2,"transcription":null}
 {"kz":"гүл","cn":"花","level":2,"transcription":null}
-{"kz":"ғаламшар","cn":"行星","level":3,"transcription":null}
-{"kz":"ғарыш","cn":"空间","level":3,"transcription":null}
+{"kz":"ғаламшар","cn":"星球","level":3,"transcription":null}
+{"kz":"ғарыш","cn":"太空","level":3,"transcription":null}
 {"kz":"дала","cn":"草原","level":3,"transcription":null}
 {"kz":"дауыл","cn":"风暴","level":3,"transcription":null}
 {"kz":"жаға, жағалау","cn":"海岸","level":3,"transcription":null}
-{"kz":"жағажай","cn":"海滩","level":2,"transcription":null}
+{"kz":"жағажай","cn":"沙滩","level":2,"transcription":null}
 {"kz":"жазық","cn":"谷","level":3,"transcription":null}
 {"kz":"жайылым","cn":"草地","level":4,"transcription":null}
 {"kz":"жанартау","cn":"火山","level":4,"transcription":null}
 {"kz":"жаңбыр","cn":"雨","level":1,"transcription":null}
 {"kz":"жаңбыр тамшысы","cn":"雨滴","level":3,"transcription":null}
 {"kz":"жартас","cn":"岩石","level":3,"transcription":null}
-{"kz":"жауын-шашын","cn":"沉淀","level":4,"transcription":null}
+{"kz":"жауын-шашын","cn":"降水","level":4,"transcription":null}
 {"kz":"жел","cn":"风","level":1,"transcription":null}
 {"kz":"жер","cn":"地球","level":1,"transcription":null}
 {"kz":"жер сілкінісі","cn":"地震","level":4,"transcription":null}
-{"kz":"жер үсті","cn":"地球表面","level":4,"transcription":null}
+{"kz":"жер үсті","cn":"地表","level":4,"transcription":null}
 {"kz":"жерасты үңгірі","cn":"洞穴，地下石窟","level":5,"transcription":null}
 {"kz":"жұлдыз","cn":"星星","level":2,"transcription":null}
 {"kz":"көл","cn":"湖","level":2,"transcription":null}
-{"kz":"көлдің бетін тұман басты","cn":"湖面上有雾","level":4,"transcription":null}
+{"kz":"көлдің бетін тұман басты","cn":"湖面有雾","level":4,"transcription":null}
 {"kz":"көлеңке","cn":"阴影","level":3,"transcription":null}
 {"kz":"көпжылдық өсімдіктер","cn":"多年生植物","level":5,"transcription":null}
-{"kz":"күн","cn":"天","level":1,"transcription":null}
+{"kz":"күн","cn":"太阳","level":1,"transcription":null}
 {"kz":"күннің батуы","cn":"日落","level":3,"transcription":null}
 {"kz":"күннің тұтылуы","cn":"日食","level":5,"transcription":null}
 {"kz":"күннің шығуы","cn":"日出","level":3,"transcription":null}
@@ -585,10 +585,10 @@
 {"kz":"қарлы боран","cn":"暴风雪","level":4,"transcription":null}
 {"kz":"қоршаған орта","cn":"环境","level":4,"transcription":null}
 {"kz":"қуаңшылық","cn":"干旱","level":4,"transcription":null}
-{"kz":"қуаңшылықпен күресу","cn":"干旱控制","level":5,"transcription":null}
+{"kz":"қуаңшылықпен күресу","cn":"抗旱","level":5,"transcription":null}
 {"kz":"құз, шыңырау","cn":"深渊","level":4,"transcription":null}
 {"kz":"құйын","cn":"涡流","level":4,"transcription":null}
-{"kz":"құрғақшылық","cn":"干燥，干旱，干旱","level":4,"transcription":null}
+{"kz":"құрғақшылық","cn":"干燥，干旱","level":4,"transcription":null}
 {"kz":"құрлық","cn":"大陆","level":4,"transcription":null}
 {"kz":"ластану","cn":"污染","level":3,"transcription":null}
 {"kz":"мұхит","cn":"海洋","level":3,"transcription":null}
@@ -626,10 +626,10 @@
 {"kz":"теңіз жағалауы","cn":"海岸","level":4,"transcription":null}
 {"kz":"термометр","cn":"温度计","level":3,"transcription":null}
 {"kz":"толқын","cn":"海浪","level":2,"transcription":null}
-{"kz":"төбе","cn":"爬坡道","level":3,"transcription":null}
+{"kz":"төбе","cn":"坡道","level":3,"transcription":null}
 {"kz":"тұман","cn":"多雾路段","level":2,"transcription":null}
 {"kz":"тұман түсті","cn":"雾已经降下来","level":3,"transcription":null}
-{"kz":"тұтылу","cn":"蚀","level":5,"transcription":null}
+{"kz":"тұтылу","cn":"腐蚀","level":5,"transcription":null}
 {"kz":"түбек","cn":"半岛","level":4,"transcription":null}
 {"kz":"түпсіз шыңырау","cn":"无底深渊","level":5,"transcription":null}
 {"kz":"ұя","cn":"巢","level":3,"transcription":null}
@@ -637,9 +637,9 @@
 {"kz":"хош иіс","cn":"香气","level":3,"transcription":null}
 {"kz":"шатқал","cn":"峡谷","level":5,"transcription":null}
 {"kz":"шөл","cn":"沙漠","level":3,"transcription":null}
-{"kz":"шұңқыр","cn":"抑郁、休息","level":4,"transcription":null}
+{"kz":"шұңқыр","cn":"坑洼、休息","level":4,"transcription":null}
 {"kz":"шың","cn":"顶点","level":3,"transcription":null}
-{"kz":"ақбалық","cn":"asp","level":5,"transcription":null}
+{"kz":"ақбалық","cn":"鲑鱼","level":5,"transcription":null}
 {"kz":"аққу","cn":"天鹅","level":3,"transcription":null}
 {"kz":"ақсерке","cn":"白鲸","level":5,"transcription":null}
 {"kz":"ақтабан","cn":"鲂","level":5,"transcription":null}
@@ -694,7 +694,7 @@
 {"kz":"қаз","cn":"鹅","level":3,"transcription":null}
 {"kz":"қанат","cn":"翼","level":3,"transcription":null}
 {"kz":"қара қабылан","cn":"豹","level":5,"transcription":null}
-{"kz":"қарақұйрық","cn":"甲状腺肿瞪羚","level":6,"transcription":null}
+{"kz":"қарақұйрық","cn":"瞪羚","level":6,"transcription":null}
 {"kz":"қараторғай","cn":"椋鸟","level":4,"transcription":null}
 {"kz":"қарға","cn":"乌鸦","level":3,"transcription":null}
 {"kz":"қаршыға","cn":"鹰","level":4,"transcription":null}
@@ -738,7 +738,7 @@
 {"kz":"тырна","cn":"起重机","level":4,"transcription":null}
 {"kz":"тышқан","cn":"老鼠","level":2,"transcription":null}
 {"kz":"ұлу","cn":"蜗牛","level":3,"transcription":null}
-{"kz":"үй жануарлары","cn":"宠物","level":3,"transcription":null}
+{"kz":"үй жануарлары","cn":"动物","level":3,"transcription":null}
 {"kz":"үйрек","cn":"鸭子","level":2,"transcription":null}
 {"kz":"ханбалық","cn":"鳟鱼","level":5,"transcription":null}
 {"kz":"шабақ","cn":"蟑螂","level":5,"transcription":null}
@@ -752,7 +752,7 @@
 {"kz":"алға басу","cn":"进步","level":4,"transcription":null}
 {"kz":"алғышарт","cn":"前提","level":5,"transcription":null}
 {"kz":"амал, тәсіл","cn":"方式","level":3,"transcription":null}
-{"kz":"анықтау, нақтылау","cn":"澄清，澄清","level":4,"transcription":null}
+{"kz":"анықтау, нақтылау","cn":"澄清","level":4,"transcription":null}
 {"kz":"аспаз","cn":"厨师","level":3,"transcription":null}
 {"kz":"аудармашы","cn":"翻译者","level":3,"transcription":null}
 {"kz":"бағалау","cn":"年级","level":3,"transcription":null}
@@ -773,24 +773,24 @@
 {"kz":"ғарышкер","cn":"宇航员","level":4,"transcription":null}
 {"kz":"ғылым","cn":"科学","level":3,"transcription":null}
 {"kz":"даяшы","cn":"服务员","level":3,"transcription":null}
-{"kz":"дәлел","cn":"争论","level":4,"transcription":null}
+{"kz":"дәлел","cn":"证据","level":4,"transcription":null}
 {"kz":"демалыс","cn":"休息","level":2,"transcription":null}
-{"kz":"демеуші","cn":"赞助","level":4,"transcription":null}
+{"kz":"демеуші","cn":"赞助人","level":4,"transcription":null}
 {"kz":"еңбегіне қарай","cn":"按功绩","level":4,"transcription":null}
-{"kz":"еңбек","cn":"工作","level":3,"transcription":null}
-{"kz":"еңбек демалысы","cn":"劳动假","level":4,"transcription":null}
+{"kz":"еңбек","cn":"劳动","level":3,"transcription":null}
+{"kz":"еңбек демалысы","cn":"休假","level":4,"transcription":null}
 {"kz":"еңбек келісімшарты","cn":"雇佣合同","level":5,"transcription":null}
 {"kz":"есеп","cn":"报告","level":3,"transcription":null}
 {"kz":"жаңашыл педагог","cn":"创新型教师","level":5,"transcription":null}
-{"kz":"жаратылу","cn":"创建","level":4,"transcription":null}
+{"kz":"жаратылу","cn":"创造","level":4,"transcription":null}
 {"kz":"жетіспеушілік","cn":"缺陷","level":4,"transcription":null}
-{"kz":"жиналыс","cn":"会议，会议","level":3,"transcription":null}
+{"kz":"жиналыс","cn":"会议","level":3,"transcription":null}
 {"kz":"жоба","cn":"项目","level":3,"transcription":null}
 {"kz":"жоғары көрсеткіш","cn":"高比率","level":4,"transcription":null}
 {"kz":"жұмыс","cn":"工作","level":1,"transcription":null}
 {"kz":"жұмыс кестесі","cn":"工作安排","level":4,"transcription":null}
 {"kz":"жұмыс күні","cn":"工作日","level":3,"transcription":null}
-{"kz":"жұмыс орны","cn":"工作场所","level":3,"transcription":null}
+{"kz":"жұмыс орны","cn":"工作地点","level":3,"transcription":null}
 {"kz":"жұмыс өтілі","cn":"工作经验","level":4,"transcription":null}
 {"kz":"жұмысбастылық","cn":"就业","level":5,"transcription":null}
 {"kz":"жұмыссыздық","cn":"失业","level":4,"transcription":null}
@@ -800,20 +800,20 @@
 {"kz":"заңтану","cn":"法理","level":5,"transcription":null}
 {"kz":"зерттеуші","cn":"研究员","level":4,"transcription":null}
 {"kz":"иелену","cn":"拥有","level":4,"transcription":null}
-{"kz":"кәсіп","cn":"职业、职业","level":3,"transcription":null}
+{"kz":"кәсіп","cn":"职业","level":3,"transcription":null}
 {"kz":"кәсіпкер","cn":"企业家","level":4,"transcription":null}
 {"kz":"кәсіпорын","cn":"企业","level":4,"transcription":null}
-{"kz":"кедергі","cn":"障碍物，屏障","level":4,"transcription":null}
-{"kz":"кездесу","cn":"见面","level":2,"transcription":null}
+{"kz":"кедергі","cn":"障碍物","level":4,"transcription":null}
+{"kz":"кездесу","cn":"会议","level":2,"transcription":null}
 {"kz":"келіссөз","cn":"谈判","level":4,"transcription":null}
 {"kz":"кепілдік","cn":"保证","level":4,"transcription":null}
 {"kz":"көмекші","cn":"助手","level":3,"transcription":null}
 {"kz":"көп тіл білуші","cn":"多语言","level":5,"transcription":null}
 {"kz":"күнтізбе","cn":"日历","level":3,"transcription":null}
-{"kz":"қабылдау","cn":"接受","level":2,"transcription":null}
+{"kz":"қабылдау","cn":"接待","level":2,"transcription":null}
 {"kz":"қаржыгер","cn":"金融家","level":5,"transcription":null}
 {"kz":"қиындық","cn":"困难","level":3,"transcription":null}
-{"kz":"қорытынды","cn":"结论，结论","level":4,"transcription":null}
+{"kz":"қорытынды","cn":"结论","level":4,"transcription":null}
 {"kz":"құжат","cn":"文档","level":3,"transcription":null}
 {"kz":"құзырет","cn":"权限","level":5,"transcription":null}
 {"kz":"құрылым","cn":"结构","level":4,"transcription":null}
@@ -822,15 +822,15 @@
 {"kz":"маман","cn":"专家","level":3,"transcription":null}
 {"kz":"мамандық","cn":"专业","level":4,"transcription":null}
 {"kz":"мекеме","cn":"机构","level":3,"transcription":null}
-{"kz":"мектеп директоры","cn":"班主任","level":4,"transcription":null}
+{"kz":"мектеп директоры","cn":"校长","level":4,"transcription":null}
 {"kz":"мұғалім","cn":"老师","level":2,"transcription":null}
 {"kz":"мұнайшы","cn":"石油工人","level":4,"transcription":null}
 {"kz":"нәтиже","cn":"结果","level":3,"transcription":null}
-{"kz":"негіз","cn":"基础，基础","level":3,"transcription":null}
-{"kz":"негіздеме","cn":"理由","level":5,"transcription":null}
-{"kz":"нышан","cn":"标志，标志","level":4,"transcription":null}
-{"kz":"оқу орны","cn":"教育机构","level":3,"transcription":null}
-{"kz":"орынбасар","cn":"副","level":4,"transcription":null}
+{"kz":"негіз","cn":"基础","level":3,"transcription":null}
+{"kz":"негіздеме","cn":"依据","level":5,"transcription":null}
+{"kz":"нышан","cn":"标志","level":4,"transcription":null}
+{"kz":"оқу орны","cn":"学校","level":3,"transcription":null}
+{"kz":"орынбасар","cn":"副职","level":4,"transcription":null}
 {"kz":"өмірбаян","cn":"自传","level":4,"transcription":null}
 {"kz":"өтіл","cn":"经验","level":4,"transcription":null}
 {"kz":"өтініш","cn":"陈述","level":3,"transcription":null}
@@ -852,12 +852,12 @@
 {"kz":"талдау","cn":"分析","level":4,"transcription":null}
 {"kz":"тапсырыс","cn":"命令","level":3,"transcription":null}
 {"kz":"тәрбиеші","cn":"老师","level":3,"transcription":null}
-{"kz":"тәртіп","cn":"秩序，例行公事","level":3,"transcription":null}
+{"kz":"тәртіп","cn":"秩序","level":3,"transcription":null}
 {"kz":"теріс ықпал ету","cn":"负面影响","level":5,"transcription":null}
 {"kz":"тұжырымдама","cn":"概念","level":5,"transcription":null}
-{"kz":"түйіндеме","cn":"恢复","level":4,"transcription":null}
+{"kz":"түйіндеме","cn":"总结","level":4,"transcription":null}
 {"kz":"түскі үзіліс","cn":"午休","level":3,"transcription":null}
-{"kz":"тігінші","cn":"裁缝，裁缝","level":3,"transcription":null}
+{"kz":"тігінші","cn":"裁缝","level":3,"transcription":null}
 {"kz":"тіл үйренуші","cn":"语言学习者","level":4,"transcription":null}
 {"kz":"тілші","cn":"记者","level":3,"transcription":null}
 {"kz":"ұғым","cn":"概念","level":4,"transcription":null}
@@ -887,8 +887,8 @@
 {"kz":"бортсерік","cn":"空姐","level":4,"transcription":null}
 {"kz":"бос уақыт","cn":"空闲时间","level":2,"transcription":null}
 {"kz":"біркісілік бөлме","cn":"单人间","level":4,"transcription":null}
-{"kz":"біріншілік","cn":"冠军，冠军","level":4,"transcription":null}
-{"kz":"вагон","cn":"运输","level":2,"transcription":null}
+{"kz":"біріншілік","cn":"冠军","level":4,"transcription":null}
+{"kz":"вагон","cn":"车厢","level":2,"transcription":null}
 {"kz":"велосипед","cn":"自行车","level":2,"transcription":null}
 {"kz":"виза","cn":"签证","level":3,"transcription":null}
 {"kz":"волейбол","cn":"排球","level":2,"transcription":null}
@@ -942,7 +942,7 @@
 {"kz":"орын","cn":"地方","level":1,"transcription":null}
 {"kz":"өзгешелік","cn":"特征、差异","level":4,"transcription":null}
 {"kz":"рейс, сапар","cn":"航班","level":3,"transcription":null}
-{"kz":"сапарға шығу","cn":"去旅行","level":3,"transcription":null}
+{"kz":"сапарға шығу","cn":"旅游","level":3,"transcription":null}
 {"kz":"саяхат","cn":"旅行","level":3,"transcription":null}
 {"kz":"саяхатшы","cn":"游客","level":3,"transcription":null}
 {"kz":"спортшы","cn":"运动员","level":3,"transcription":null}
@@ -962,10 +962,10 @@
 {"kz":"тіркелу","cn":"登记","level":3,"transcription":null}
 {"kz":"тіркеуші","cn":"登记员","level":4,"transcription":null}
 {"kz":"ұлттық құрама","cn":"国家队","level":4,"transcription":null}
-{"kz":"ұпай","cn":"点，点","level":3,"transcription":null}
+{"kz":"ұпай","cn":"分数","level":3,"transcription":null}
 {"kz":"ұстаным","cn":"位置","level":4,"transcription":null}
 {"kz":"ұшақ","cn":"飞机","level":2,"transcription":null}
-{"kz":"ұшу","cn":"飞","level":2,"transcription":null}
+{"kz":"ұшу","cn":"离开","level":2,"transcription":null}
 {"kz":"футбол","cn":"足球","level":1,"transcription":null}
 {"kz":"хабарлама","cn":"公告","level":3,"transcription":null}
 {"kz":"халықаралық ұшу","cn":"国际航班","level":4,"transcription":null}
@@ -975,20 +975,20 @@
 {"kz":"шахматшы","cn":"棋手","level":3,"transcription":null}
 {"kz":"шашылу","cn":"散射","level":5,"transcription":null}
 {"kz":"іздеу","cn":"搜索","level":2,"transcription":null}
-{"kz":"электр қуаты","cn":"电","level":4,"transcription":null}
+{"kz":"электр қуаты","cn":"电力","level":4,"transcription":null}
 {"kz":"айтыс","cn":"艺术、诗歌比赛","level":5,"transcription":null}
-{"kz":"айтыскер","cn":"艾蒂斯的阿金即兴演奏者","level":5,"transcription":null}
-{"kz":"айырмашылық","cn":"差异，差异","level":4,"transcription":null}
+{"kz":"айтыскер","cn":"即兴演奏者","level":5,"transcription":null}
+{"kz":"айырмашылық","cn":"差异","level":4,"transcription":null}
 {"kz":"ақын","cn":"诗人","level":3,"transcription":null}
 {"kz":"аспап","cn":"工具","level":3,"transcription":null}
 {"kz":"әдебиет","cn":"文学","level":3,"transcription":null}
 {"kz":"әнші","cn":"歌手","level":2,"transcription":null}
-{"kz":"әңгіме","cn":"对话","level":3,"transcription":null}
+{"kz":"әңгіме","cn":"故事","level":3,"transcription":null}
 {"kz":"әртіс","cn":"艺术家","level":3,"transcription":null}
 {"kz":"әсемдік, көркемдік, сұлулық","cn":"美丽","level":3,"transcription":null}
 {"kz":"әуен","cn":"旋律","level":4,"transcription":null}
 {"kz":"бағдарлама","cn":"程序","level":3,"transcription":null}
-{"kz":"байқау","cn":"注意，遵循","level":3,"transcription":null}
+{"kz":"байқау","cn":"竞赛","level":3,"transcription":null}
 {"kz":"басты рөл","cn":"主要角色","level":4,"transcription":null}
 {"kz":"басылым","cn":"版","level":4,"transcription":null}
 {"kz":"бейне","cn":"图像","level":3,"transcription":null}
@@ -1015,41 +1015,41 @@
 {"kz":"көрермен","cn":"观众","level":3,"transcription":null}
 {"kz":"көркем фильм","cn":"故事片","level":4,"transcription":null}
 {"kz":"көрме","cn":"展览","level":3,"transcription":null}
-{"kz":"күй","cn":"奎","level":4,"transcription":null}
+{"kz":"күй","cn":"曲调","level":4,"transcription":null}
 {"kz":"күйсандық","cn":"钢琴","level":5,"transcription":null}
 {"kz":"қабілет","cn":"能力","level":4,"transcription":null}
-{"kz":"қайраткер","cn":"数字","level":4,"transcription":null}
+{"kz":"қайраткер","cn":"英雄","level":4,"transcription":null}
 {"kz":"қатар","cn":"排","level":2,"transcription":null}
-{"kz":"қобыз","cn":"科比兹","level":5,"transcription":null}
-{"kz":"қолөнер","cn":"针线活","level":4,"transcription":null}
-{"kz":"құпия","cn":"秘密，秘密","level":3,"transcription":null}
-{"kz":"құрастырушы","cn":"编译器","level":5,"transcription":null}
+{"kz":"қобыз","cn":"琴","level":5,"transcription":null}
+{"kz":"қолөнер","cn":"手工艺","level":4,"transcription":null}
+{"kz":"құпия","cn":"秘密","level":3,"transcription":null}
+{"kz":"құрастырушы","cn":"编纂者","level":5,"transcription":null}
 {"kz":"музыка","cn":"音乐","level":1,"transcription":null}
 {"kz":"музыкант","cn":"音乐家","level":3,"transcription":null}
-{"kz":"мультфильм","cn":"卡通片","level":2,"transcription":null}
-{"kz":"мүсін","cn":"雕塑","level":4,"transcription":null}
-{"kz":"ойлау қабілеті","cn":"思考能力","level":5,"transcription":null}
+{"kz":"мультфильм","cn":"动画片","level":2,"transcription":null}
+{"kz":"мүсін","cn":"雕像","level":4,"transcription":null}
+{"kz":"ойлау қабілеті","cn":"思维能力","level":5,"transcription":null}
 {"kz":"оқиға","cn":"事件","level":3,"transcription":null}
 {"kz":"оқырман","cn":"读者","level":3,"transcription":null}
 {"kz":"оператор","cn":"操作员","level":3,"transcription":null}
-{"kz":"ою-өрнек","cn":"装饰品","level":5,"transcription":null}
+{"kz":"ою-өрнек","cn":"花纹","level":5,"transcription":null}
 {"kz":"өлең","cn":"诗","level":3,"transcription":null}
 {"kz":"өлшем","cn":"尺寸","level":3,"transcription":null}
 {"kz":"өнер","cn":"艺术","level":3,"transcription":null}
-{"kz":"өнер түрлері","cn":"艺术","level":4,"transcription":null}
-{"kz":"өнерсүйгіш","cn":"艺术爱好者","level":5,"transcription":null}
-{"kz":"өнертапқыш","cn":"发明者","level":5,"transcription":null}
+{"kz":"өнер түрлері","cn":"艺术形式","level":4,"transcription":null}
+{"kz":"өнерсүйгіш","cn":"艺术家","level":5,"transcription":null}
+{"kz":"өнертапқыш","cn":"发明家","level":5,"transcription":null}
 {"kz":"пайдалануға болады","cn":"可以使用","level":4,"transcription":null}
 {"kz":"патша","cn":"沙皇","level":3,"transcription":null}
 {"kz":"періште","cn":"天使","level":3,"transcription":null}
 {"kz":"сазгер","cn":"作曲家","level":4,"transcription":null}
 {"kz":"саты","cn":"步","level":3,"transcription":null}
-{"kz":"сахна","cn":"场景","level":3,"transcription":null}
+{"kz":"сахна","cn":"舞台","level":3,"transcription":null}
 {"kz":"сән","cn":"时尚","level":3,"transcription":null}
-{"kz":"сыйлық","cn":"奖金","level":4,"transcription":null}
+{"kz":"сыйлық","cn":"礼物","level":4,"transcription":null}
 {"kz":"сыйлық иегері","cn":"获奖者","level":5,"transcription":null}
 {"kz":"талғам","cn":"品尝","level":3,"transcription":null}
-{"kz":"тәрбиеленуші","cn":"瞳孔","level":4,"transcription":null}
+{"kz":"тәрбиеленуші","cn":"被教育者","level":4,"transcription":null}
 {"kz":"театр","cn":"剧院","level":2,"transcription":null}
 {"kz":"түс","cn":"颜色","level":1,"transcription":null}
 {"kz":"тіл мәдениеті","cn":"语言文化","level":5,"transcription":null}
@@ -1057,11 +1057,11 @@
 {"kz":"фестиваль","cn":"节日","level":3,"transcription":null}
 {"kz":"фильм","cn":"电影","level":2,"transcription":null}
 {"kz":"хобби","cn":"爱好","level":2,"transcription":null}
-{"kz":"шебер","cn":"掌握","level":3,"transcription":null}
-{"kz":"шеберлік","cn":"技能","level":4,"transcription":null}
-{"kz":"шешендік өнер","cn":"演讲","level":5,"transcription":null}
-{"kz":"шығарма","cn":"工作","level":3,"transcription":null}
-{"kz":"шығармашылық","cn":"创建","level":4,"transcription":null}
+{"kz":"шебер","cn":"工匠","level":3,"transcription":null}
+{"kz":"шеберлік","cn":"技艺","level":4,"transcription":null}
+{"kz":"шешендік өнер","cn":"演讲艺术","level":5,"transcription":null}
+{"kz":"шығарма","cn":"作品","level":3,"transcription":null}
+{"kz":"шығармашылық","cn":"创作","level":4,"transcription":null}
 {"kz":"шымылдық","cn":"窗帘","level":4,"transcription":null}
 {"kz":"алқа","cn":"项链","level":4,"transcription":null}
 {"kz":"арзан киім","cn":"便宜的衣服","level":3,"transcription":null}
@@ -1127,7 +1127,7 @@
 {"kz":"қымбат киім","cn":"昂贵的衣服","level":3,"transcription":null}
 {"kz":"қыстық киім","cn":"冬天的衣服","level":3,"transcription":null}
 {"kz":"қыстық пальто","cn":"冬衣","level":3,"transcription":null}
-{"kz":"малақай","cn":"帽子, 马拉凯","level":4,"transcription":null}
+{"kz":"малақай","cn":"帽子","level":4,"transcription":null}
 {"kz":"мәсі","cn":"无跟软靴","level":5,"transcription":null}
 {"kz":"мерекелік киім","cn":"派对服装","level":3,"transcription":null}
 {"kz":"мойыналқа","cn":"吊坠","level":4,"transcription":null}
@@ -1139,7 +1139,7 @@
 {"kz":"сақина","cn":"戒指","level":3,"transcription":null}
 {"kz":"сәлде","cn":"头巾","level":5,"transcription":null}
 {"kz":"сәнді түйреуіш","cn":"胸针","level":5,"transcription":null}
-{"kz":"сәндік","cn":"装备、装饰","level":4,"transcription":null}
+{"kz":"сәндік","cn":"装饰","level":4,"transcription":null}
 {"kz":"сәукеле","cn":"新娘头饰","level":5,"transcription":null}
 {"kz":"синтетикалық киім","cn":"化纤服装","level":5,"transcription":null}
 {"kz":"сөмке","cn":"包","level":2,"transcription":null}
@@ -1153,13 +1153,13 @@
 {"kz":"туфли","cn":"鞋","level":2,"transcription":null}
 {"kz":"түйме","cn":"按钮","level":3,"transcription":null}
 {"kz":"түймелі","cn":"带按钮","level":3,"transcription":null}
-{"kz":"ұйықтауға арналған киім","cn":"睡衣、睡衣","level":4,"transcription":null}
+{"kz":"ұйықтауға арналған киім","cn":"睡衣","level":4,"transcription":null}
 {"kz":"ұлттық киім","cn":"民族服装","level":4,"transcription":null}
 {"kz":"үшкіл орамал","cn":"头巾","level":4,"transcription":null}
-{"kz":"футболка","cn":"t恤","level":2,"transcription":null}
+{"kz":"футболка","cn":"T恤","level":2,"transcription":null}
 {"kz":"шалбар","cn":"裤子","level":2,"transcription":null}
-{"kz":"шаңғы костюмі","cn":"滑雪工作服","level":4,"transcription":null}
-{"kz":"шапан","cn":"长袍、长袍","level":4,"transcription":null}
+{"kz":"шаңғы костюмі","cn":"滑雪服","level":4,"transcription":null}
+{"kz":"шапан","cn":"长袍","level":4,"transcription":null}
 {"kz":"шашақ","cn":"边缘","level":5,"transcription":null}
 {"kz":"шәлі","cn":"披肩","level":4,"transcription":null}
 {"kz":"шомылу киімі","cn":"沙滩装","level":4,"transcription":null}
@@ -1167,14 +1167,14 @@
 {"kz":"шілтер","cn":"蕾丝","level":5,"transcription":null}
 {"kz":"ішкиім","cn":"内衣","level":3,"transcription":null}
 {"kz":"ағылшын","cn":"英国人","level":3,"transcription":null}
-{"kz":"ағылшынша","cn":"用英语","level":3,"transcription":null}
+{"kz":"ағылшынша","cn":"英语","level":3,"transcription":null}
 {"kz":"азаматтық","cn":"国籍","level":4,"transcription":null}
 {"kz":"американдық","cn":"美国人","level":3,"transcription":null}
 {"kz":"ардагер","cn":"老将","level":4,"transcription":null}
 {"kz":"атақ","cn":"名气，名声","level":4,"transcription":null}
-{"kz":"аты, есімі","cn":"（他的）名字","level":2,"transcription":null}
+{"kz":"аты, есімі","cn":"名字","level":2,"transcription":null}
 {"kz":"аты-жөні","cn":"姓、名、父名","level":3,"transcription":null}
-{"kz":"әлеумет","cn":"人民、公众","level":4,"transcription":null}
+{"kz":"әлеумет","cn":"人民","level":4,"transcription":null}
 {"kz":"әлеуметтік көмек","cn":"社会救助","level":4,"transcription":null}
 {"kz":"байлық","cn":"财富","level":3,"transcription":null}
 {"kz":"балалық шақ","cn":"童年","level":3,"transcription":null}
@@ -1184,8 +1184,8 @@
 {"kz":"бейімдеу орталығы","cn":"适应中心","level":5,"transcription":null}
 {"kz":"білімі терең адам","cn":"受过教育的人","level":4,"transcription":null}
 {"kz":"гимн","cn":"圣歌","level":4,"transcription":null}
-{"kz":"ғұлама","cn":"博学者，伟大的鉴赏家","level":5,"transcription":null}
-{"kz":"ғылымның ғұламалары","cn":"科学泰坦","level":5,"transcription":null}
+{"kz":"ғұлама","cn":"博学者","level":5,"transcription":null}
+{"kz":"ғылымның ғұламалары","cn":"科学泰斗","level":5,"transcription":null}
 {"kz":"дегдар, таңдаулы","cn":"顶尖精英","level":5,"transcription":null}
 {"kz":"ел","cn":"国家","level":1,"transcription":null}
 {"kz":"елтаңба","cn":"徽章","level":4,"transcription":null}
@@ -1196,7 +1196,7 @@
 {"kz":"жаза","cn":"惩罚","level":3,"transcription":null}
 {"kz":"Жаңа жыл","cn":"新年","level":2,"transcription":null}
 {"kz":"жарқын болашақ","cn":"光明的未来","level":4,"transcription":null}
-{"kz":"жас","cn":"年轻的","level":1,"transcription":null}
+{"kz":"жас","cn":"年龄","level":1,"transcription":null}
 {"kz":"жастық шақ","cn":"青年","level":3,"transcription":null}
 {"kz":"жауынгер","cn":"战士","level":4,"transcription":null}
 {"kz":"жеңіс","cn":"胜利","level":3,"transcription":null}
@@ -1214,30 +1214,30 @@
 {"kz":"қазақша","cn":"哈萨克语","level":2,"transcription":null}
 {"kz":"қамқорлық","cn":"监护","level":4,"transcription":null}
 {"kz":"қара шаңырақ","cn":"父母的房子","level":4,"transcription":null}
-{"kz":"қарыз","cn":"责任","level":3,"transcription":null}
-{"kz":"қатысу","cn":"参与","level":3,"transcription":null}
-{"kz":"Қиыр Шығыс","cn":"远东","level":4,"transcription":null}
-{"kz":"қоғамдағы бедел","cn":"社会权威","level":5,"transcription":null}
+{"kz":"қарыз","cn":"债务","level":3,"transcription":null}
+{"kz":"қатысу","cn":"参加","level":3,"transcription":null}
+{"kz":"Қиыр Шығыс","cn":"中亚","level":4,"transcription":null}
+{"kz":"қоғамдағы бедел","cn":"社会地位","level":5,"transcription":null}
 {"kz":"қор","cn":"基金","level":3,"transcription":null}
-{"kz":"қошемет","cn":"尊重、荣誉","level":4,"transcription":null}
-{"kz":"Құрбан айт","cn":"穆斯林宗教节日","level":5,"transcription":null}
+{"kz":"қошемет","cn":"尊重","level":4,"transcription":null}
+{"kz":"Құрбан айт","cn":"宰杀","level":5,"transcription":null}
 {"kz":"құрметті жан","cn":"受人尊敬的人","level":3,"transcription":null}
-{"kz":"құрылтай","cn":"国会，国会","level":5,"transcription":null}
+{"kz":"құрылтай","cn":"议会","level":5,"transcription":null}
 {"kz":"қылмыс","cn":"犯罪","level":4,"transcription":null}
 {"kz":"қытай","cn":"中国人","level":3,"transcription":null}
-{"kz":"мемлекет","cn":"状态","level":3,"transcription":null}
+{"kz":"мемлекет","cn":"国家","level":3,"transcription":null}
 {"kz":"Мемлекеттік рәміздер күні","cn":"国家符号日","level":5,"transcription":null}
 {"kz":"мерейтой","cn":"周年纪念日","level":4,"transcription":null}
 {"kz":"мереке","cn":"假期","level":2,"transcription":null}
 {"kz":"мырза","cn":"先生","level":4,"transcription":null}
-{"kz":"Наурыз мейрамы","cn":"诺鲁孜假期","level":4,"transcription":null}
+{"kz":"Наурыз мейрамы","cn":"诺鲁孜节","level":4,"transcription":null}
 {"kz":"неміс","cn":"德语","level":3,"transcription":null}
 {"kz":"немісше","cn":"德语","level":3,"transcription":null}
-{"kz":"оқымысты","cn":"科学家","level":3,"transcription":null}
-{"kz":"оңтүстік","cn":"南","level":3,"transcription":null}
+{"kz":"оқымысты","cn":"学者","level":3,"transcription":null}
+{"kz":"оңтүстік","cn":"南部","level":3,"transcription":null}
 {"kz":"орыс","cn":"俄语","level":2,"transcription":null}
 {"kz":"орысша","cn":"俄语","level":2,"transcription":null}
-{"kz":"отан","cn":"家园","level":2,"transcription":null}
+{"kz":"отан","cn":"祖国","level":2,"transcription":null}
 {"kz":"отау иесі","cn":"一个年轻家庭的主人","level":5,"transcription":null}
 {"kz":"президент","cn":"总统","level":3,"transcription":null}
 {"kz":"рәміз","cn":"象征","level":3,"transcription":null}
@@ -1271,7 +1271,7 @@
 {"kz":"ханым","cn":"女士","level":4,"transcription":null}
 {"kz":"шекара","cn":"边界","level":4,"transcription":null}
 {"kz":"шенеунік","cn":"官方的","level":4,"transcription":null}
-{"kz":"шетелдік","cn":"外国的","level":3,"transcription":null}
+{"kz":"шетелдік","cn":"外国人","level":3,"transcription":null}
 {"kz":"шығыс, күншығыс","cn":"东方","level":3,"transcription":null}
 {"kz":"шілдехана","cn":"纪念新生儿的假期","level":5,"transcription":null}
 {"kz":"абыр-сабыр","cn":"动乱，混乱","level":5,"transcription":null}
@@ -1304,7 +1304,7 @@
 {"kz":"жігерлендіруші күш","cn":"励志力量","level":5,"transcription":null}
 {"kz":"игі тілек","cn":"良好的祝愿","level":4,"transcription":null}
 {"kz":"интуиция арқылы","cn":"凭直觉","level":5,"transcription":null}
-{"kz":"келіспеушілік","cn":"分歧，分歧","level":5,"transcription":null}
+{"kz":"келіспеушілік","cn":"分歧","level":5,"transcription":null}
 {"kz":"кеңес","cn":"建议","level":3,"transcription":null}
 {"kz":"кері әсерін тигізу","cn":"反弹","level":5,"transcription":null}
 {"kz":"кері кету","cn":"降解","level":5,"transcription":null}
@@ -1325,7 +1325,7 @@
 {"kz":"қауіп","cn":"危险","level":3,"transcription":null}
 {"kz":"қауіпсіздік","cn":"安全","level":4,"transcription":null}
 {"kz":"қиял","cn":"幻想","level":3,"transcription":null}
-{"kz":"қоштасу","cn":"告别","level":2,"transcription":null}
+{"kz":"қоштасу","cn":"离别","level":2,"transcription":null}
 {"kz":"қуаныш","cn":"喜悦","level":2,"transcription":null}
 {"kz":"құлшыныс","cn":"热情","level":5,"transcription":null}
 {"kz":"қызығушылық","cn":"兴趣","level":3,"transcription":null}
@@ -1335,10 +1335,10 @@
 {"kz":"махаббат","cn":"爱","level":3,"transcription":null}
 {"kz":"мүмкіндік","cn":"机会","level":3,"transcription":null}
 {"kz":"мысал","cn":"例子","level":2,"transcription":null}
-{"kz":"несібе","cn":"好，缘分，缘分","level":5,"transcription":null}
-{"kz":"ниет","cn":"真诚的意图","level":4,"transcription":null}
-{"kz":"нұсқа","cn":"版本、选项","level":4,"transcription":null}
-{"kz":"нығаю","cn":"强化，强化","level":4,"transcription":null}
+{"kz":"несібе","cn":"好","level":5,"transcription":null}
+{"kz":"ниет","cn":"意图","level":4,"transcription":null}
+{"kz":"нұсқа","cn":"版本","level":4,"transcription":null}
+{"kz":"нығаю","cn":"强化","level":4,"transcription":null}
 {"kz":"ой тұжырымы","cn":"推理","level":5,"transcription":null}
 {"kz":"ойдан шығарылған","cn":"小说","level":4,"transcription":null}
 {"kz":"ой-өріс","cn":"地平线","level":4,"transcription":null}
@@ -1357,13 +1357,13 @@
 {"kz":"себеп","cn":"原因","level":3,"transcription":null}
 {"kz":"сенім","cn":"信仰","level":3,"transcription":null}
 {"kz":"тағдыр","cn":"命运","level":3,"transcription":null}
-{"kz":"тазалық","cn":"清洁度，清洁度","level":4,"transcription":null}
+{"kz":"тазалық","cn":"清洁度","level":4,"transcription":null}
 {"kz":"таным","cn":"认识","level":4,"transcription":null}
 {"kz":"танымдылық","cn":"认识","level":5,"transcription":null}
 {"kz":"танысу","cn":"熟人","level":3,"transcription":null}
 {"kz":"тапқырлық","cn":"机智","level":5,"transcription":null}
-{"kz":"татулық","cn":"友谊、和谐","level":4,"transcription":null}
-{"kz":"тосқауыл","cn":"障碍物，障碍物","level":4,"transcription":null}
+{"kz":"татулық","cn":"友谊","level":4,"transcription":null}
+{"kz":"тосқауыл","cn":"障碍物","level":4,"transcription":null}
 {"kz":"төзімділік","cn":"耐心","level":4,"transcription":null}
 {"kz":"төңкеріс","cn":"政变","level":5,"transcription":null}
 {"kz":"тұрмыс","cn":"日常生活","level":3,"transcription":null}
@@ -1390,7 +1390,7 @@
 {"kz":"апта соңы","cn":"周末","level":3,"transcription":null}
 {"kz":"аяғында","cn":"在最后","level":3,"transcription":null}
 {"kz":"әдетте","cn":"通常","level":2,"transcription":null}
-{"kz":"әлдеқашан","cn":"很久以前，很久以前","level":3,"transcription":null}
+{"kz":"әлдеқашан","cn":"很久以前","level":3,"transcription":null}
 {"kz":"әрдайым","cn":"总是","level":1,"transcription":null}
 {"kz":"басында","cn":"起初","level":2,"transcription":null}
 {"kz":"баяғыда","cn":"许久","level":3,"transcription":null}
@@ -1425,7 +1425,7 @@
 {"kz":"жыл мезгілдері","cn":"季节","level":2,"transcription":null}
 {"kz":"жыл сайын","cn":"每年","level":3,"transcription":null}
 {"kz":"жыл соңында","cn":"年底","level":3,"transcription":null}
-{"kz":"заман ағымы","cn":"时间的流动","level":4,"transcription":null}
+{"kz":"заман ағымы","cn":"时代的潮流","level":4,"transcription":null}
 {"kz":"кейде, анда-санда","cn":"有时","level":2,"transcription":null}
 {"kz":"кейін","cn":"后","level":2,"transcription":null}
 {"kz":"кейінгі кезде","cn":"上次","level":3,"transcription":null}
@@ -1442,7 +1442,7 @@
 {"kz":"күн батарда","cn":"在日落时，在一天结束时","level":3,"transcription":null}
 {"kz":"күнде","cn":"每天","level":2,"transcription":null}
 {"kz":"күнде, күн сайын","cn":"日常的","level":3,"transcription":null}
-{"kz":"күнделікті","cn":"每天","level":3,"transcription":null}
+{"kz":"күнделікті","cn":"每天的","level":3,"transcription":null}
 {"kz":"күндіз","cn":"白天","level":2,"transcription":null}
 {"kz":"күндіз-түні","cn":"日夜","level":3,"transcription":null}
 {"kz":"күннің ортасы","cn":"正午","level":3,"transcription":null}
@@ -1455,15 +1455,15 @@
 {"kz":"қас қағым","cn":"立即的","level":4,"transcription":null}
 {"kz":"қыркүйек","cn":"九月","level":3,"transcription":null}
 {"kz":"қыс","cn":"冬天","level":1,"transcription":null}
-{"kz":"мамыр","cn":"可能","level":2,"transcription":null}
-{"kz":"маусым","cn":"六月，季节","level":3,"transcription":null}
+{"kz":"мамыр","cn":"五月","level":2,"transcription":null}
+{"kz":"маусым","cn":"六月","level":3,"transcription":null}
 {"kz":"мәңгілік","cn":"永恒","level":4,"transcription":null}
 {"kz":"мейрам қарсаңында","cn":"假期前夕","level":4,"transcription":null}
 {"kz":"минут","cn":"分钟","level":1,"transcription":null}
 {"kz":"мыңжылдық","cn":"千年","level":4,"transcription":null}
-{"kz":"наурыз","cn":"行进","level":3,"transcription":null}
-{"kz":"одан кейін","cn":"然后，在那之后","level":2,"transcription":null}
-{"kz":"онға жуық","cn":"大约十","level":3,"transcription":null}
+{"kz":"наурыз","cn":"新年","level":3,"transcription":null}
+{"kz":"одан кейін","cn":"然后","level":2,"transcription":null}
+{"kz":"онға жуық","cn":"大约","level":3,"transcription":null}
 {"kz":"онкүндік","cn":"十年","level":4,"transcription":null}
 {"kz":"өліара","cn":"淡季","level":5,"transcription":null}
 {"kz":"өткен шақ","cn":"过去时态","level":3,"transcription":null}
@@ -1471,7 +1471,7 @@
 {"kz":"сәрсенбі","cn":"周三","level":2,"transcription":null}
 {"kz":"сәуір","cn":"四月","level":3,"transcription":null}
 {"kz":"сейсенбі","cn":"周二","level":2,"transcription":null}
-{"kz":"секунд","cn":"第二","level":2,"transcription":null}
+{"kz":"секунд","cn":"秒","level":2,"transcription":null}
 {"kz":"сенбі","cn":"周六","level":2,"transcription":null}
 {"kz":"сирек","cn":"很少","level":2,"transcription":null}
 {"kz":"соңғы кездері","cn":"上次","level":3,"transcription":null}
@@ -1479,7 +1479,7 @@
 {"kz":"таңертең","cn":"在早晨","level":2,"transcription":null}
 {"kz":"тәулік","cn":"天","level":3,"transcription":null}
 {"kz":"тәулік бойы","cn":"全天候","level":3,"transcription":null}
-{"kz":"тоқсан","cn":"九十","level":2,"transcription":null}
+{"kz":"тоқсан","cn":"季度","level":2,"transcription":null}
 {"kz":"түн","cn":"夜晚","level":1,"transcription":null}
 {"kz":"түнде","cn":"晚上","level":2,"transcription":null}
 {"kz":"түске дейін","cn":"午餐前","level":2,"transcription":null}
@@ -1491,10 +1491,10 @@
 {"kz":"үнемі, ылғи","cn":"不断地，定期地","level":2,"transcription":null}
 {"kz":"шілде","cn":"七月","level":3,"transcription":null}
 {"kz":"абзац","cn":"段落","level":4,"transcription":null}
-{"kz":"автотұрақ","cn":"停車處","level":4,"transcription":null}
+{"kz":"автотұрақ","cn":"停车处","level":4,"transcription":null}
 {"kz":"арнаулы тілші","cn":"特约记者","level":5,"transcription":null}
 {"kz":"атақты әртіс","cn":"著名艺术家","level":4,"transcription":null}
-{"kz":"атау","cn":"称呼","level":3,"transcription":null}
+{"kz":"атау","cn":"姓名","level":3,"transcription":null}
 {"kz":"аяқталу","cn":"结束、完成","level":3,"transcription":null}
 {"kz":"әңгіме","cn":"对话","level":3,"transcription":null}
 {"kz":"БАҚ (бұқаралық ақпарат құралдары)","cn":"媒体","level":4,"transcription":null}
@@ -1508,7 +1508,7 @@
 {"kz":"газет","cn":"报纸","level":2,"transcription":null}
 {"kz":"газет тілшісі","cn":"记者","level":4,"transcription":null}
 {"kz":"Гиннес рекордтар кітабы","cn":"吉尼斯纪录","level":5,"transcription":null}
-{"kz":"ғұмырнама, биография","cn":"传","level":4,"transcription":null}
+{"kz":"ғұмырнама, биография","cn":"传、传记","level":4,"transcription":null}
 {"kz":"дерек","cn":"数据","level":3,"transcription":null}
 {"kz":"есептеудегі қате","cn":"计算错误","level":5,"transcription":null}
 {"kz":"естелік","cn":"记忆","level":4,"transcription":null}
@@ -1529,11 +1529,11 @@
 {"kz":"корректура","cn":"校对","level":5,"transcription":null}
 {"kz":"көңілді кино","cn":"有趣的电影","level":3,"transcription":null}
 {"kz":"көпшілік","cn":"社会、公众","level":3,"transcription":null}
-{"kz":"көрсетілім","cn":"广播、表演","level":4,"transcription":null}
+{"kz":"көрсетілім","cn":"展示","level":4,"transcription":null}
 {"kz":"күлкілі әңгіме","cn":"开玩笑","level":4,"transcription":null}
 {"kz":"күтпеген оқиға","cn":"意外事件","level":4,"transcription":null}
 {"kz":"кіріспе","cn":"介绍","level":3,"transcription":null}
-{"kz":"кітап бастыру","cn":"图书出版, 图书出版","level":5,"transcription":null}
+{"kz":"кітап бастыру","cn":"图书出版","level":5,"transcription":null}
 {"kz":"кітапқа енген","cn":"包含在书中","level":4,"transcription":null}
 {"kz":"қанатты сөз","cn":"格言","level":5,"transcription":null}
 {"kz":"қателік","cn":"错误","level":3,"transcription":null}
@@ -1541,12 +1541,12 @@
 {"kz":"құрал","cn":"方法","level":3,"transcription":null}
 {"kz":"қызық бағдарлама","cn":"有趣的节目","level":3,"transcription":null}
 {"kz":"қызық телешоу","cn":"有趣的电视节目","level":3,"transcription":null}
-{"kz":"қызықты мәліметтер","cn":"有趣的事实","level":3,"transcription":null}
+{"kz":"қызықты мәліметтер","cn":"有趣的信息","level":3,"transcription":null}
 {"kz":"қызықты оқиға","cn":"有趣的事件","level":3,"transcription":null}
-{"kz":"мазмұны","cn":"（其）内容","level":3,"transcription":null}
+{"kz":"мазмұны","cn":"内容","level":3,"transcription":null}
 {"kz":"мақала","cn":"文章","level":3,"transcription":null}
 {"kz":"мәтін","cn":"文本","level":3,"transcription":null}
-{"kz":"меншікті тілші","cn":"自己的通讯员","level":5,"transcription":null}
+{"kz":"меншікті тілші","cn":"通讯员","level":5,"transcription":null}
 {"kz":"мерзімді баспасөз","cn":"期刊、出版物","level":5,"transcription":null}
 {"kz":"мысал әңгіме","cn":"寓言","level":4,"transcription":null}
 {"kz":"нұсқаулық","cn":"指示","level":4,"transcription":null}
@@ -1555,7 +1555,7 @@
 {"kz":"өнер қайраткері","cn":"艺术家","level":5,"transcription":null}
 {"kz":"пайдасы жоқ","cn":"无用","level":3,"transcription":null}
 {"kz":"пьеса кейіпкері","cn":"剧中的英雄","level":5,"transcription":null}
-{"kz":"сауалнама","cn":"调查问卷，调查问卷","level":4,"transcription":null}
+{"kz":"сауалнама","cn":"调查问卷","level":4,"transcription":null}
 {"kz":"сөзсіз қате","cn":"绝对错误","level":5,"transcription":null}
 {"kz":"тақырыпат","cn":"标题","level":4,"transcription":null}
 {"kz":"танымал әнші","cn":"流行歌手","level":3,"transcription":null}
@@ -1569,16 +1569,16 @@
 {"kz":"телехабар","cn":"电视广播","level":4,"transcription":null}
 {"kz":"телехикая","cn":"电视剧","level":4,"transcription":null}
 {"kz":"техникалық қиындықтар","cn":"技术困难","level":5,"transcription":null}
-{"kz":"тұсаукесер","cn":"首演、演示","level":5,"transcription":null}
+{"kz":"тұсаукесер","cn":"首演","level":5,"transcription":null}
 {"kz":"түйін","cn":"结论","level":4,"transcription":null}
-{"kz":"түсіндірме","cn":"评论、解释","level":4,"transcription":null}
+{"kz":"түсіндірме","cn":"解释","level":4,"transcription":null}
 {"kz":"түсінік беруші","cn":"评论员","level":4,"transcription":null}
 {"kz":"тікелей эфир","cn":"直播","level":4,"transcription":null}
 {"kz":"тіркеу қатесі","cn":"注册错误","level":5,"transcription":null}
 {"kz":"ұсыныс","cn":"提供","level":3,"transcription":null}
 {"kz":"фильм түсіру","cn":"拍摄","level":4,"transcription":null}
 {"kz":"фотосурет","cn":"照片","level":3,"transcription":null}
-{"kz":"хабар","cn":"新闻，新闻","level":3,"transcription":null}
+{"kz":"хабар","cn":"新闻","level":3,"transcription":null}
 {"kz":"шебер","cn":"掌握","level":3,"transcription":null}
 {"kz":"шолушы","cn":"审稿人","level":5,"transcription":null}
 {"kz":"шығу мерзімі","cn":"发布日期","level":4,"transcription":null}
@@ -1588,7 +1588,7 @@
 {"kz":"апиын","cn":"鸦片","level":5,"transcription":null}
 {"kz":"артериялық қан қысымы","cn":"血压","level":5,"transcription":null}
 {"kz":"асқазан ауруы","cn":"胃炎","level":4,"transcription":null}
-{"kz":"ауру","cn":"生病，有病","level":2,"transcription":null}
+{"kz":"ауру","cn":"生病","level":2,"transcription":null}
 {"kz":"аурудың алдын алу","cn":"预防","level":5,"transcription":null}
 {"kz":"аштық","cn":"饥饿","level":3,"transcription":null}
 {"kz":"бас ауру","cn":"头痛","level":3,"transcription":null}
@@ -1605,7 +1605,7 @@
 {"kz":"дәрігерлер кеңесі","cn":"医务委员会","level":6,"transcription":null}
 {"kz":"дәрі-дәрмектер","cn":"药物","level":4,"transcription":null}
 {"kz":"дәрілік қырмызыгүл","cn":"金盏花","level":6,"transcription":null}
-{"kz":"дем алу","cn":"呼吸","level":2,"transcription":null}
+{"kz":"дем алу","cn":"吸入","level":2,"transcription":null}
 {"kz":"дем шығару","cn":"呼气","level":3,"transcription":null}
 {"kz":"денсаулық, саулық","cn":"健康","level":2,"transcription":null}
 {"kz":"дұрыс тамақтану","cn":"适当的营养","level":4,"transcription":null}
@@ -1631,20 +1631,20 @@
 {"kz":"қалғу","cn":"打盹","level":4,"transcription":null}
 {"kz":"қан аздық, анемия","cn":"贫血","level":5,"transcription":null}
 {"kz":"қандауыр","cn":"解剖刀","level":6,"transcription":null}
-{"kz":"құлақ ауру","cn":"耳朵痛","level":3,"transcription":null}
-{"kz":"қызу көтерілу","cn":"温升","level":4,"transcription":null}
+{"kz":"құлақ ауру","cn":"耳痛","level":3,"transcription":null}
+{"kz":"қызу көтерілу","cn":"体温升高","level":4,"transcription":null}
 {"kz":"қырмызыгүл","cn":"金盏花","level":5,"transcription":null}
 {"kz":"қышақағаз","cn":"芥末膏药","level":5,"transcription":null}
 {"kz":"майсана","cn":"蓖麻油","level":5,"transcription":null}
 {"kz":"медицина қызметкерлері","cn":"医务人员","level":5,"transcription":null}
 {"kz":"медициналық көрсеткіштер","cn":"医疗指标","level":5,"transcription":null}
-{"kz":"мейіргер","cn":"护士，护士","level":3,"transcription":null}
+{"kz":"мейіргер","cn":"护士","level":3,"transcription":null}
 {"kz":"минералды дәрі","cn":"矿物药","level":5,"transcription":null}
 {"kz":"нәтижені құптау\/растау","cn":"结果确认","level":5,"transcription":null}
 {"kz":"ота","cn":"手术","level":3,"transcription":null}
 {"kz":"салмақ","cn":"重量","level":2,"transcription":null}
 {"kz":"сары ауру","cn":"肝炎","level":5,"transcription":null}
-{"kz":"сергектік","cn":"开朗","level":4,"transcription":null}
+{"kz":"сергектік","cn":"活跃","level":4,"transcription":null}
 {"kz":"сұйық дәрі, микстура","cn":"药水","level":5,"transcription":null}
 {"kz":"сынықшы","cn":"骨科医生、脊椎按摩师","level":5,"transcription":null}
 {"kz":"тамақтану режимі","cn":"饮食","level":4,"transcription":null}
@@ -1653,15 +1653,15 @@
 {"kz":"тері ауруының дәрігері","cn":"皮肤科医生","level":5,"transcription":null}
 {"kz":"тұмау","cn":"流感","level":3,"transcription":null}
 {"kz":"тұнба","cn":"输液","level":4,"transcription":null}
-{"kz":"тыныс","cn":"气息","level":3,"transcription":null}
-{"kz":"тіс ауру","cn":"牙疼","level":3,"transcription":null}
+{"kz":"тыныс","cn":"呼吸","level":3,"transcription":null}
+{"kz":"тіс ауру","cn":"牙痛","level":3,"transcription":null}
 {"kz":"тіс дәрігері","cn":"牙医","level":4,"transcription":null}
 {"kz":"уға қарсы дәрі","cn":"解毒剂","level":5,"transcription":null}
 {"kz":"ұзақ өмір сүру үшін","cn":"活得长久","level":3,"transcription":null}
 {"kz":"ұйқы бұзылу","cn":"睡眠障碍","level":4,"transcription":null}
 {"kz":"ұмытшақтық","cn":"健忘症","level":5,"transcription":null}
 {"kz":"шаншу","cn":"绞痛","level":5,"transcription":null}
-{"kz":"шипа","cn":"治愈，治愈","level":4,"transcription":null}
+{"kz":"шипа","cn":"刺伤","level":4,"transcription":null}
 {"kz":"шипалы батпақ","cn":"愈合泥","level":5,"transcription":null}
 {"kz":"шөл, шөлдеу","cn":"口渴","level":3,"transcription":null}
 {"kz":"шөппен емдеуші","cn":"草药师","level":5,"transcription":null}
@@ -1683,12 +1683,12 @@
 {"kz":"баршын","cn":"锦缎","level":5,"transcription":null}
 {"kz":"бәйшешек","cn":"雪花莲","level":4,"transcription":null}
 {"kz":"бәтес","cn":"巴蒂斯特","level":5,"transcription":null}
-{"kz":"бетон","cn":"具体的","level":3,"transcription":null}
+{"kz":"бетон","cn":"混凝土","level":3,"transcription":null}
 {"kz":"бор","cn":"粉笔","level":2,"transcription":null}
 {"kz":"бөз","cn":"印花布","level":5,"transcription":null}
 {"kz":"бу","cn":"蒸汽","level":2,"transcription":null}
-{"kz":"бұтақ","cn":"分行，分行","level":4,"transcription":null}
-{"kz":"бұтақ","cn":"分行，分行","level":4,"transcription":null}
+{"kz":"бұтақ","cn":"分支","level":4,"transcription":null}
+{"kz":"бұтақ","cn":"分行","level":4,"transcription":null}
 {"kz":"бүртік","cn":"毛圈花呢","level":6,"transcription":null}
 {"kz":"бүршік","cn":"芽","level":3,"transcription":null}
 {"kz":"былғары","cn":"皮革","level":3,"transcription":null}
@@ -1734,7 +1734,7 @@
 {"kz":"қыжым","cn":"豪华的","level":5,"transcription":null}
 {"kz":"қызғалдақ, жауқазын","cn":"郁金香","level":4,"transcription":null}
 {"kz":"қымыздық","cn":"酢浆草","level":5,"transcription":null}
-{"kz":"қышқыл","cn":"酸的","level":3,"transcription":null}
+{"kz":"қышқыл","cn":"酸","level":3,"transcription":null}
 {"kz":"лавсан","cn":"拉夫桑","level":5,"transcription":null}
 {"kz":"лалагүл","cn":"百合","level":4,"transcription":null}
 {"kz":"майлы заттар","cn":"油性物质","level":5,"transcription":null}
@@ -1751,9 +1751,9 @@
 {"kz":"өртелген кірпіш","cn":"烧砖","level":5,"transcription":null}
 {"kz":"өсімдік","cn":"植物","level":2,"transcription":null}
 {"kz":"пластмасса","cn":"塑料","level":4,"transcription":null}
-{"kz":"помази","cn":"布马塞亚","level":6,"transcription":null}
+{"kz":"помази","cn":"油","level":6,"transcription":null}
 {"kz":"раушан гүлі","cn":"玫瑰","level":3,"transcription":null}
-{"kz":"сабақ","cn":"干","level":3,"transcription":null}
+{"kz":"сабақ","cn":"课","level":3,"transcription":null}
 {"kz":"саз, балшық","cn":"黏土","level":3,"transcription":null}
 {"kz":"сәтен","cn":"缎","level":4,"transcription":null}
 {"kz":"сия","cn":"墨水","level":3,"transcription":null}
@@ -1763,7 +1763,7 @@
 {"kz":"сұйық зат","cn":"液体物质","level":4,"transcription":null}
 {"kz":"сұйықтық","cn":"液体","level":4,"transcription":null}
 {"kz":"табиғи силикаттар","cn":"天然硅酸盐","level":6,"transcription":null}
-{"kz":"тал","cn":"柳树，柳树","level":4,"transcription":null}
+{"kz":"тал","cn":"柳树","level":4,"transcription":null}
 {"kz":"тамыр","cn":"根（植物）","level":3,"transcription":null}
 {"kz":"тас","cn":"石头","level":2,"transcription":null}
 {"kz":"темір","cn":"铁","level":2,"transcription":null}
@@ -1773,7 +1773,7 @@
 {"kz":"тұқым","cn":"种子","level":3,"transcription":null}
 {"kz":"түбір","cn":"（树的）根，树桩","level":3,"transcription":null}
 {"kz":"түймедақ","cn":"洋甘菊","level":4,"transcription":null}
-{"kz":"түтін","cn":"抽烟","level":3,"transcription":null}
+{"kz":"түтін","cn":"烟","level":3,"transcription":null}
 {"kz":"тыңайтқыш","cn":"肥料","level":4,"transcription":null}
 {"kz":"үйеңкі","cn":"枫","level":4,"transcription":null}
 {"kz":"химиялық қоспа","cn":"化学添加剂","level":5,"transcription":null}
@@ -1783,7 +1783,7 @@
 {"kz":"шырша","cn":"云杉","level":3,"transcription":null}
 {"kz":"шыт","cn":"印花布","level":5,"transcription":null}
 {"kz":"ыстық бу","cn":"热蒸汽","level":3,"transcription":null}
-{"kz":"ағаш дайындау","cn":"记录","level":5,"transcription":null}
+{"kz":"ағаш дайындау","cn":"木材加工","level":5,"transcription":null}
 {"kz":"ағаш құлату","cn":"砍伐","level":5,"transcription":null}
 {"kz":"ағаш өнеркәсібі","cn":"木材工业","level":5,"transcription":null}
 {"kz":"аралық","cn":"间隔","level":4,"transcription":null}
@@ -1793,7 +1793,7 @@
 {"kz":"басы, басталуы, бастамасы","cn":"开始","level":2,"transcription":null}
 {"kz":"басымдық","cn":"优先事项","level":4,"transcription":null}
 {"kz":"болашақ","cn":"未来","level":2,"transcription":null}
-{"kz":"вагон жасау","cn":"马车大楼","level":5,"transcription":null}
+{"kz":"вагон жасау","cn":"马车制造","level":5,"transcription":null}
 {"kz":"ғимараттар құрылысы","cn":"建筑施工","level":5,"transcription":null}
 {"kz":"ғылыми негіз","cn":"科学依据","level":5,"transcription":null}
 {"kz":"дайын өнім","cn":"制成品","level":4,"transcription":null}
@@ -1802,15 +1802,15 @@
 {"kz":"ең басында","cn":"一开始","level":2,"transcription":null}
 {"kz":"ең соңында","cn":"在最后","level":2,"transcription":null}
 {"kz":"есеп қағазы","cn":"纸质报告","level":4,"transcription":null}
-{"kz":"жарамдылық","cn":"适合性，适合性","level":4,"transcription":null}
+{"kz":"жарамдылық","cn":"适合性","level":4,"transcription":null}
 {"kz":"жарамдылық мерзімі","cn":"最佳食用日期","level":4,"transcription":null}
 {"kz":"жеңіл индустрия","cn":"轻工业","level":4,"transcription":null}
-{"kz":"жеткізу мерзімі","cn":"交货时间","level":4,"transcription":null}
+{"kz":"жеткізу мерзімі","cn":"交货期限","level":4,"transcription":null}
 {"kz":"жоғары дәреже","cn":"地位高","level":4,"transcription":null}
 {"kz":"жол салу","cn":"道路建设","level":4,"transcription":null}
-{"kz":"жұмыспен қамту","cn":"提供工作","level":5,"transcription":null}
+{"kz":"жұмыспен қамту","cn":"就业安置","level":5,"transcription":null}
 {"kz":"жұмыстағы үзіліс","cn":"工作休息","level":4,"transcription":null}
-{"kz":"жүлде","cn":"奖","level":3,"transcription":null}
+{"kz":"жүлде","cn":"奖金","level":3,"transcription":null}
 {"kz":"жүн иіру","cn":"毛纺","level":5,"transcription":null}
 {"kz":"жібек иіру","cn":"缫丝","level":5,"transcription":null}
 {"kz":"иіру","cn":"纺纱、针线活","level":4,"transcription":null}
@@ -1867,7 +1867,7 @@
 {"kz":"ұқсастық","cn":"相似","level":4,"transcription":null}
 {"kz":"ұлттық байқау","cn":"全国比赛","level":4,"transcription":null}
 {"kz":"ұлттық нақыш","cn":"民族色彩","level":5,"transcription":null}
-{"kz":"ұрлық","cn":"盗窃，盗窃","level":4,"transcription":null}
+{"kz":"ұрлық","cn":"盗窃","level":4,"transcription":null}
 {"kz":"ұсталу","cn":"拘留","level":4,"transcription":null}
 {"kz":"үзіліссіз","cn":"不间断","level":3,"transcription":null}
 {"kz":"үлес","cn":"分享","level":3,"transcription":null}
@@ -1879,7 +1879,7 @@
 {"kz":"іс","cn":"案件","level":2,"transcription":null}
 {"kz":"істің сәтті аяқталуы","cn":"案件圆满结果","level":5,"transcription":null}
 {"kz":"айналым","cn":"周转","level":4,"transcription":null}
-{"kz":"айыппұл","cn":"美好的","level":4,"transcription":null}
+{"kz":"айыппұл","cn":"罚款","level":4,"transcription":null}
 {"kz":"ақша","cn":"钱","level":1,"transcription":null}
 {"kz":"ақша жіберу, аударым","cn":"汇款","level":4,"transcription":null}
 {"kz":"алғы төлем","cn":"进步","level":4,"transcription":null}
@@ -1887,14 +1887,14 @@
 {"kz":"асыраудағы, қараудағы адам","cn":"依赖的","level":5,"transcription":null}
 {"kz":"баға","cn":"价格","level":2,"transcription":null}
 {"kz":"бағам","cn":"出色地","level":4,"transcription":null}
-{"kz":"баж салығы","cn":"责任","level":5,"transcription":null}
+{"kz":"баж салығы","cn":"税","level":5,"transcription":null}
 {"kz":"бақылаушы, ревизор","cn":"审计员","level":5,"transcription":null}
 {"kz":"балама, эквивалент","cn":"相等的","level":5,"transcription":null}
 {"kz":"біркелкілік, біртүрлілік","cn":"均匀性","level":5,"transcription":null}
 {"kz":"делдал","cn":"经纪人，中间人","level":5,"transcription":null}
 {"kz":"депозит салушы","cn":"储户","level":6,"transcription":null}
 {"kz":"ереуілші","cn":"前锋","level":5,"transcription":null}
-{"kz":"жалдаушы","cn":"租客，租客","level":4,"transcription":null}
+{"kz":"жалдаушы","cn":"租客","level":4,"transcription":null}
 {"kz":"жалпы саны","cn":"总量","level":3,"transcription":null}
 {"kz":"жанама салық, акциз","cn":"消费税","level":5,"transcription":null}
 {"kz":"жарна","cn":"贡献","level":4,"transcription":null}
@@ -1904,18 +1904,18 @@
 {"kz":"жекешелендіру","cn":"私有化","level":5,"transcription":null}
 {"kz":"жеңілдік","cn":"折扣","level":3,"transcription":null}
 {"kz":"жеткізуші","cn":"供应商","level":4,"transcription":null}
-{"kz":"жинақ ақша","cn":"保存","level":4,"transcription":null}
+{"kz":"жинақ ақша","cn":"存款","level":4,"transcription":null}
 {"kz":"инвестор","cn":"投资者","level":4,"transcription":null}
 {"kz":"кепіл","cn":"保证","level":4,"transcription":null}
 {"kz":"кепілгер","cn":"担保人","level":5,"transcription":null}
-{"kz":"кепілдеме, кепілақы","cn":"订金","level":5,"transcription":null}
+{"kz":"кепілдеме, кепілақы","cn":"押金","level":5,"transcription":null}
 {"kz":"көмек, көмек қарыз","cn":"贷款","level":5,"transcription":null}
 {"kz":"көмекқаржы","cn":"补贴","level":5,"transcription":null}
 {"kz":"көтерме саудагер","cn":"批发商","level":4,"transcription":null}
 {"kz":"қазына","cn":"金库","level":4,"transcription":null}
-{"kz":"қайырым жасаушы","cn":"慈善家，慈善家","level":5,"transcription":null}
+{"kz":"қайырым жасаушы","cn":"慈善家","level":5,"transcription":null}
 {"kz":"қайырымдылық","cn":"慈善事业","level":5,"transcription":null}
-{"kz":"қамтамасыз ету, қамсыздандыру","cn":"安全","level":4,"transcription":null}
+{"kz":"қамтамасыз ету, қамсыздандыру","cn":"保障","level":4,"transcription":null}
 {"kz":"қаржы","cn":"金融","level":4,"transcription":null}
 {"kz":"қаржыландыру","cn":"融资","level":5,"transcription":null}
 {"kz":"қаржылық салымдар","cn":"投资","level":5,"transcription":null}
@@ -1924,7 +1924,7 @@
 {"kz":"қойма, көмбе","cn":"仓库、场所","level":4,"transcription":null}
 {"kz":"қолма-қол ақша","cn":"现金","level":4,"transcription":null}
 {"kz":"қор, жинақ, қорлану","cn":"积累","level":4,"transcription":null}
-{"kz":"қосымша шығындар","cn":"额外费用、开支","level":5,"transcription":null}
+{"kz":"қосымша шығындар","cn":"额外费用","level":5,"transcription":null}
 {"kz":"құн","cn":"价格","level":3,"transcription":null}
 {"kz":"құрылыстағы мердігер","cn":"建筑承包商","level":5,"transcription":null}
 {"kz":"мемлекеттік көмекқаржы","cn":"政府补贴","level":5,"transcription":null}
@@ -1960,25 +1960,25 @@
 {"kz":"шығын","cn":"消耗","level":3,"transcription":null}
 {"kz":"іріктеу негізі","cn":"抽样框","level":6,"transcription":null}
 {"kz":"айлық, жалақы","cn":"工资","level":3,"transcription":null}
-{"kz":"айыппұл","cn":"美好的","level":4,"transcription":null}
+{"kz":"айыппұл","cn":"罚款","level":4,"transcription":null}
 {"kz":"ақша аудару","cn":"汇款","level":4,"transcription":null}
 {"kz":"ақысыз еңбек демалысы","cn":"无薪休假","level":5,"transcription":null}
-{"kz":"алғыс хат","cn":"谢谢你的信","level":4,"transcription":null}
-{"kz":"анықтама","cn":"参考","level":3,"transcription":null}
-{"kz":"арыз","cn":"抱怨","level":4,"transcription":null}
+{"kz":"алғыс хат","cn":"感谢信","level":4,"transcription":null}
+{"kz":"анықтама","cn":"参考书","level":3,"transcription":null}
+{"kz":"арыз","cn":"投诉","level":4,"transcription":null}
 {"kz":"атқара алмау","cn":"不遵守","level":4,"transcription":null}
-{"kz":"әрекет","cn":"试图","level":3,"transcription":null}
+{"kz":"әрекет","cn":"行动","level":3,"transcription":null}
 {"kz":"әскери міндет","cn":"军事职责","level":5,"transcription":null}
 {"kz":"бала күтімі","cn":"儿童保育","level":4,"transcription":null}
 {"kz":"бас тарту","cn":"拒绝","level":3,"transcription":null}
 {"kz":"безендіру жұмысы","cn":"收尾工作","level":5,"transcription":null}
 {"kz":"берілген күні","cn":"签发日期","level":4,"transcription":null}
 {"kz":"біліктілік","cn":"资质","level":4,"transcription":null}
-{"kz":"біліктілік дәреже","cn":"合格学位","level":5,"transcription":null}
+{"kz":"біліктілік дәреже","cn":"资格等级","level":5,"transcription":null}
 {"kz":"бюджеттен тыс","cn":"预算外","level":5,"transcription":null}
-{"kz":"ғылыми дәреже","cn":"学位","level":5,"transcription":null}
-{"kz":"ғылыми еңбек","cn":"科学工作","level":5,"transcription":null}
-{"kz":"дана","cn":"明智的","level":3,"transcription":null}
+{"kz":"ғылыми дәреже","cn":"学位等级","level":5,"transcription":null}
+{"kz":"ғылыми еңбек","cn":"科研工作","level":5,"transcription":null}
+{"kz":"дана","cn":"复印","level":3,"transcription":null}
 {"kz":"дәлелді себеп","cn":"充分的理由","level":4,"transcription":null}
 {"kz":"еңбек дауы","cn":"劳动争议","level":5,"transcription":null}
 {"kz":"еңбек келісімі","cn":"劳动协议","level":5,"transcription":null}
@@ -1986,20 +1986,20 @@
 {"kz":"еңбек қауіпсіздігі","cn":"劳动安全","level":5,"transcription":null}
 {"kz":"еңбек тәртібі","cn":"劳动纪律","level":5,"transcription":null}
 {"kz":"еңбекақы","cn":"工资","level":4,"transcription":null}
-{"kz":"ереже","cn":"立场、规则","level":3,"transcription":null}
+{"kz":"ереже","cn":"规则","level":3,"transcription":null}
 {"kz":"ерекше жағдай","cn":"特例","level":4,"transcription":null}
 {"kz":"еркін форма","cn":"自由形式","level":4,"transcription":null}
 {"kz":"есепшот","cn":"查看","level":4,"transcription":null}
-{"kz":"ескерту","cn":"评论","level":3,"transcription":null}
+{"kz":"ескерту","cn":"提示","level":3,"transcription":null}
 {"kz":"жазбаша түрде","cn":"以书面形式","level":4,"transcription":null}
-{"kz":"жалдау","cn":"聘请","level":3,"transcription":null}
+{"kz":"жалдау","cn":"租金","level":3,"transcription":null}
 {"kz":"жарғы","cn":"法令","level":4,"transcription":null}
-{"kz":"жарияланған күн","cn":"出版日期","level":4,"transcription":null}
+{"kz":"жарияланған күн","cn":"发布日期","level":4,"transcription":null}
 {"kz":"жауапкершілігі шектеулі","cn":"有限责任","level":5,"transcription":null}
-{"kz":"жеке еңбек шарты","cn":"雇佣合同","level":5,"transcription":null}
+{"kz":"жеке еңбек шарты","cn":"劳动合同","level":5,"transcription":null}
 {"kz":"жеке куәлік","cn":"身份证","level":4,"transcription":null}
 {"kz":"жеке тұлға","cn":"个人","level":4,"transcription":null}
-{"kz":"жеке іс парағы","cn":"个人表","level":5,"transcription":null}
+{"kz":"жеке іс парағы","cn":"个人执照","level":5,"transcription":null}
 {"kz":"жоғары білім","cn":"高等教育","level":3,"transcription":null}
 {"kz":"жоспар","cn":"计划","level":2,"transcription":null}
 {"kz":"жұмыс беруші","cn":"雇主","level":4,"transcription":null}
@@ -2012,7 +2012,7 @@
 {"kz":"кезектен тыс демалыс","cn":"特别休假","level":5,"transcription":null}
 {"kz":"кезінде","cn":"期间","level":2,"transcription":null}
 {"kz":"келісім","cn":"协议","level":3,"transcription":null}
-{"kz":"келісімшарт","cn":"协议","level":4,"transcription":null}
+{"kz":"келісімшарт","cn":"合同","level":4,"transcription":null}
 {"kz":"қаржылық құжат","cn":"财务文件","level":5,"transcription":null}
 {"kz":"қатысушы","cn":"参与者","level":3,"transcription":null}
 {"kz":"қаулы","cn":"解决","level":4,"transcription":null}
@@ -2025,7 +2025,7 @@
 {"kz":"лауазымдық нұсқаулық","cn":"职位描述","level":6,"transcription":null}
 {"kz":"мағлұмат","cn":"信息","level":3,"transcription":null}
 {"kz":"материалдық көтермелеу","cn":"经济激励","level":5,"transcription":null}
-{"kz":"мәміле","cn":"协议，协议","level":5,"transcription":null}
+{"kz":"мәміле","cn":"协议","level":5,"transcription":null}
 {"kz":"мөр","cn":"海豹","level":3,"transcription":null}
 {"kz":"мүлік","cn":"财产","level":4,"transcription":null}
 {"kz":"мінездеме","cn":"特征","level":4,"transcription":null}
@@ -2045,10 +2045,10 @@
 {"kz":"сипат","cn":"财产","level":4,"transcription":null}
 {"kz":"сөгіс","cn":"训斥","level":4,"transcription":null}
 {"kz":"сыйақы","cn":"奖金","level":4,"transcription":null}
-{"kz":"сынақ мерзімі","cn":"缓刑","level":5,"transcription":null}
+{"kz":"сынақ мерзімі","cn":"缓刑期限","level":5,"transcription":null}
 {"kz":"тармақ","cn":"段落","level":4,"transcription":null}
 {"kz":"тәжірибе","cn":"经验、实践","level":3,"transcription":null}
-{"kz":"тексеру","cn":"查看","level":2,"transcription":null}
+{"kz":"тексеру","cn":"检查","level":2,"transcription":null}
 {"kz":"тоқтату","cn":"终止","level":4,"transcription":null}
 {"kz":"толық мәлімет","cn":"完整信息","level":3,"transcription":null}
 {"kz":"төлқұжат","cn":"护照","level":3,"transcription":null}
@@ -2060,15 +2060,15 @@
 {"kz":"үй ауыстыру","cn":"房屋置换","level":4,"transcription":null}
 {"kz":"үстемеақы","cn":"津贴","level":4,"transcription":null}
 {"kz":"хаттама","cn":"协议","level":4,"transcription":null}
-{"kz":"шарт","cn":"协议","level":3,"transcription":null}
+{"kz":"шарт","cn":"合同","level":3,"transcription":null}
 {"kz":"шартты атау","cn":"代号","level":4,"transcription":null}
-{"kz":"шартты бұзу","cn":"合同终止","level":5,"transcription":null}
+{"kz":"шартты бұзу","cn":"违约","level":5,"transcription":null}
 {"kz":"шығарушы","cn":"制造商","level":4,"transcription":null}
-{"kz":"іс қағаздары","cn":"文档","level":4,"transcription":null}
+{"kz":"іс қағаздары","cn":"文件","level":4,"transcription":null}
 {"kz":"іссапар","cn":"商务旅行","level":4,"transcription":null}
-{"kz":"айтқаның келсін","cn":"祝你愿望成真","level":4,"transcription":null}
+{"kz":"айтқаның келсін","cn":"愿您心想事成","level":4,"transcription":null}
 {"kz":"айтыңызшы","cn":"请告诉我","level":2,"transcription":null}
-{"kz":"Айып етпеңіз.","cn":"对不起。","level":2,"transcription":null}
+{"kz":"Айып етпеңіз.","cn":"勿要伤害自己。","level":2,"transcription":null}
 {"kz":"Ал сіздің тегіңіз?","cn":"你姓什么？","level":2,"transcription":null}
 {"kz":"Алаңдама, түк те емес.","cn":"别担心，这不是问题。","level":2,"transcription":null}
 {"kz":"Алаңдамай-ақ қойсын.","cn":"让他不用担心。","level":2,"transcription":null}
@@ -2085,7 +2085,7 @@
 {"kz":"Бәрі ойдағыдай.","cn":"一切都按计划进行。","level":3,"transcription":null}
 {"kz":"Бәрі сәтті болсын!","cn":"最好的祝愿！","level":2,"transcription":null}
 {"kz":"бұрынғыға қарағанда","cn":"与过去相比","level":4,"transcription":null}
-{"kz":"Бұрынғыдай.","cn":"和以前一样。 \/ 按照老办法。","level":2,"transcription":null}
+{"kz":"Бұрынғыдай.","cn":"和以前一样。","level":2,"transcription":null}
 {"kz":"Бүгін бос емеспін.","cn":"我今天很忙。","level":2,"transcription":null}
 {"kz":"Бүгін кешке хабарласыңызшы.","cn":"今天晚上打电话。","level":3,"transcription":null}
 {"kz":"Біз әлі кездесеміз!","cn":"我们还会再见面的！","level":2,"transcription":null}
@@ -2096,7 +2096,7 @@
 {"kz":"біріншіден","cn":"首先","level":2,"transcription":null}
 {"kz":"дегенмен","cn":"仍然，尽管","level":3,"transcription":null}
 {"kz":"екіншіден","cn":"第二","level":2,"transcription":null}
-{"kz":"Ештеңе етпейді.","cn":"没关系。 \/ 我的荣幸。","level":2,"transcription":null}
+{"kz":"Ештеңе етпейді.","cn":"没关系。","level":2,"transcription":null}
 {"kz":"Жақсы, хабарласамын.","cn":"好的，我会联系你。","level":2,"transcription":null}
 {"kz":"жалпы айтқанда","cn":"一般来说","level":3,"transcription":null}
 {"kz":"Жаман емес.","cn":"不错。","level":2,"transcription":null}
@@ -2152,7 +2152,7 @@
 {"kz":"таныс болайық","cn":"让我们认识一下","level":2,"transcription":null}
 {"kz":"Танысуға рұқсат етіңізші.","cn":"让我来认识一下你。","level":2,"transcription":null}
 {"kz":"Телефон шалуға рұқсат етіңізші.","cn":"让我打电话。","level":3,"transcription":null}
-{"kz":"Түк те емес.","cn":"没有什么。 \/ 没问题。","level":2,"transcription":null}
+{"kz":"Түк те емес.","cn":"没有什么。","level":2,"transcription":null}
 {"kz":"Уақытым болмай тұр.","cn":"我没有时间。","level":2,"transcription":null}
 {"kz":"Ұмытпаңыздар!","cn":"别忘了！","level":2,"transcription":null}
 {"kz":"Үйде бәрі жақсы ма?","cn":"家里一切都好吗？","level":2,"transcription":null}
@@ -2170,13 +2170,13 @@
 {"kz":"анағұрлым","cn":"很多，显着地","level":4,"transcription":null}
 {"kz":"анау, ана","cn":"那个","level":2,"transcription":null}
 {"kz":"артында","cn":"在后面","level":2,"transcription":null}
-{"kz":"ауызша","cn":"口头的，口头的","level":3,"transcription":null}
+{"kz":"ауызша","cn":"口头的","level":3,"transcription":null}
 {"kz":"әлде","cn":"或者","level":1,"transcription":null}
 {"kz":"әрине","cn":"当然","level":1,"transcription":null}
 {"kz":"бар","cn":"有","level":1,"transcription":null}
 {"kz":"барынша","cn":"最大限度","level":4,"transcription":null}
 {"kz":"басқаша","cn":"否则，不同","level":2,"transcription":null}
-{"kz":"бәрекелді!","cn":"太棒了！伟大的！","level":3,"transcription":null}
+{"kz":"бәрекелді!","cn":"太棒了！","level":3,"transcription":null}
 {"kz":"бұл, осы, мынау, мына","cn":"这，这，这","level":1,"transcription":null}
 {"kz":"біздіңше","cn":"我们认为","level":2,"transcription":null}
 {"kz":"бір, біреу","cn":"某人","level":2,"transcription":null}
@@ -2192,37 +2192,37 @@
 {"kz":"дейін, шейін","cn":"到","level":1,"transcription":null}
 {"kz":"дер кезінде","cn":"及时","level":3,"transcription":null}
 {"kz":"дұрыс пікір","cn":"正确的意见","level":3,"transcription":null}
-{"kz":"емес","cn":"not（名义否定）","level":1,"transcription":null}
+{"kz":"емес","cn":"不是","level":1,"transcription":null}
 {"kz":"ендеше","cn":"在那种情况下，所以","level":3,"transcription":null}
 {"kz":"ешбір кем емес","cn":"不少于","level":4,"transcription":null}
 {"kz":"ешкім","cn":"没有人","level":2,"transcription":null}
-{"kz":"жазбаша","cn":"以书面形式，以书面形式","level":3,"transcription":null}
-{"kz":"жақсы","cn":"好的","level":1,"transcription":null}
-{"kz":"жақын","cn":"关闭","level":2,"transcription":null}
+{"kz":"жазбаша","cn":"以书面形式","level":3,"transcription":null}
+{"kz":"жақсы","cn":"美好的","level":1,"transcription":null}
+{"kz":"жақын","cn":"靠近的","level":2,"transcription":null}
 {"kz":"жаман","cn":"糟糕地","level":1,"transcription":null}
-{"kz":"жанында","cn":"附近，附近","level":2,"transcription":null}
+{"kz":"жанында","cn":"附近","level":2,"transcription":null}
 {"kz":"жарайсың","cn":"干得好","level":2,"transcription":null}
 {"kz":"жартысы","cn":"（他的）一半","level":3,"transcription":null}
 {"kz":"жарым","cn":"一半","level":2,"transcription":null}
 {"kz":"және","cn":"和","level":1,"transcription":null}
 {"kz":"жоқ","cn":"不","level":1,"transcription":null}
-{"kz":"жөн","cn":"对，对","level":2,"transcription":null}
+{"kz":"жөн","cn":"对","level":2,"transcription":null}
 {"kz":"зерттеу жүргізген","cn":"进行的研究","level":4,"transcription":null}
 {"kz":"иә","cn":"是的","level":1,"transcription":null}
 {"kz":"керек, қажет","cn":"必要的","level":1,"transcription":null}
 {"kz":"керісінше","cn":"反之亦然","level":3,"transcription":null}
 {"kz":"көп","cn":"许多","level":1,"transcription":null}
 {"kz":"қайсыбір","cn":"一些，其他","level":3,"transcription":null}
-{"kz":"қайтадан","cn":"再次，再次","level":2,"transcription":null}
+{"kz":"қайтадан","cn":"再次","level":2,"transcription":null}
 {"kz":"қатысы бар","cn":"相关的","level":3,"transcription":null}
-{"kz":"қысқаша","cn":"简要地，简要地","level":2,"transcription":null}
-{"kz":"лезде","cn":"很快地，立刻","level":3,"transcription":null}
-{"kz":"мәселен","cn":"例如，例如","level":3,"transcription":null}
+{"kz":"қысқаша","cn":"简要地","level":2,"transcription":null}
+{"kz":"лезде","cn":"很快地","level":3,"transcription":null}
+{"kz":"мәселен","cn":"例如","level":3,"transcription":null}
 {"kz":"мезгілінен бұрын","cn":"过早地","level":4,"transcription":null}
 {"kz":"меніңше","cn":"在我看来","level":2,"transcription":null}
 {"kz":"мол, көп","cn":"许多","level":2,"transcription":null}
-{"kz":"мұқият","cn":"整齐、彻底","level":3,"transcription":null}
-{"kz":"мүлде","cn":"完全, 完全","level":3,"transcription":null}
+{"kz":"мұқият","cn":"彻底地","level":3,"transcription":null}
+{"kz":"мүлде","cn":"完全","level":3,"transcription":null}
 {"kz":"мүмкін","cn":"或许","level":2,"transcription":null}
 {"kz":"мүмкін емес","cn":"不可能","level":3,"transcription":null}
 {"kz":"одан басқа","cn":"除了","level":3,"transcription":null}
@@ -2230,30 +2230,30 @@
 {"kz":"онша емес","cn":"不是很多","level":3,"transcription":null}
 {"kz":"оң жақ","cn":"右侧","level":2,"transcription":null}
 {"kz":"өз бетімен","cn":"独自一人","level":3,"transcription":null}
-{"kz":"өзара","cn":"彼此，相互","level":3,"transcription":null}
-{"kz":"пайдасы бар","cn":"有用的，有用的","level":3,"transcription":null}
+{"kz":"өзара","cn":"彼此","level":3,"transcription":null}
+{"kz":"пайдасы бар","cn":"有用的","level":3,"transcription":null}
 {"kz":"рақмет","cn":"谢谢","level":1,"transcription":null}
 {"kz":"салқын","cn":"寒冷","level":2,"transcription":null}
 {"kz":"себебі, өйткені","cn":"因为","level":2,"transcription":null}
 {"kz":"сенуі қиын","cn":"很难相信","level":3,"transcription":null}
 {"kz":"сияқты, секілді","cn":"例如","level":2,"transcription":null}
 {"kz":"сол жақ","cn":"左侧","level":2,"transcription":null}
-{"kz":"сондай-ақ","cn":"还有","level":2,"transcription":null}
-{"kz":"сондықтан, сол себепті","cn":"这就是为什么","level":2,"transcription":null}
-{"kz":"сонымен қатар","cn":"除此之外，还有","level":3,"transcription":null}
+{"kz":"сондай-ақ","cn":"此外","level":2,"transcription":null}
+{"kz":"сондықтан, сол себепті","cn":"因此","level":2,"transcription":null}
+{"kz":"сонымен қатар","cn":"另外","level":3,"transcription":null}
 {"kz":"талдай келе","cn":"分析过","level":4,"transcription":null}
 {"kz":"тамаша","cn":"伟大的","level":2,"transcription":null}
 {"kz":"тезірек","cn":"快点","level":2,"transcription":null}
 {"kz":"тек қана","cn":"仅仅只是","level":2,"transcription":null}
 {"kz":"тиіс","cn":"必须","level":3,"transcription":null}
 {"kz":"тура","cn":"直的、均匀的","level":2,"transcription":null}
-{"kz":"туралы","cn":"哦关于","level":2,"transcription":null}
+{"kz":"туралы","cn":"关于","level":2,"transcription":null}
 {"kz":"турасына көшсек","cn":"实际上","level":4,"transcription":null}
 {"kz":"түк, ешбір","cn":"什么都没有，一点也不","level":3,"transcription":null}
 {"kz":"шапшаң, тез, жылдам","cn":"快速地","level":2,"transcription":null}
 {"kz":"шынымен","cn":"实际上","level":3,"transcription":null}
 {"kz":"шынын айтқанда","cn":"事实上","level":3,"transcription":null}
-{"kz":"шіркін!","cn":"哦！呃！","level":3,"transcription":null}
+{"kz":"шіркін!","cn":"哦！","level":3,"transcription":null}
 {"kz":"ыстық","cn":"热的","level":2,"transcription":null}
 {"kz":"айту, сөйлеу","cn":"说话","level":1,"transcription":null}
 {"kz":"алғыс айту","cn":"感谢","level":2,"transcription":null}
@@ -2267,7 +2267,7 @@
 {"kz":"дәрігерді шақыру","cn":"打电话叫医生","level":3,"transcription":null}
 {"kz":"достасу","cn":"交朋友","level":3,"transcription":null}
 {"kz":"еліктеу","cn":"模拟","level":4,"transcription":null}
-{"kz":"еңбектену","cn":"工作，劳苦","level":3,"transcription":null}
+{"kz":"еңбектену","cn":"工作","level":3,"transcription":null}
 {"kz":"жамылу","cn":"掩护","level":4,"transcription":null}
 {"kz":"жарысу","cn":"竞争","level":3,"transcription":null}
 {"kz":"жату","cn":"睡觉","level":2,"transcription":null}
@@ -2276,7 +2276,7 @@
 {"kz":"жуыну","cn":"洗","level":2,"transcription":null}
 {"kz":"жіберу","cn":"发送","level":2,"transcription":null}
 {"kz":"зейнетақы тағайындау","cn":"分配养老金","level":5,"transcription":null}
-{"kz":"игеру","cn":"大师，大师","level":4,"transcription":null}
+{"kz":"игеру","cn":"学习","level":4,"transcription":null}
 {"kz":"кездестіру","cn":"安排会议","level":3,"transcription":null}
 {"kz":"кездесу","cn":"见面","level":2,"transcription":null}
 {"kz":"келісу","cn":"达成协议","level":4,"transcription":null}
@@ -2284,7 +2284,7 @@
 {"kz":"кию","cn":"穿","level":2,"transcription":null}
 {"kz":"көңілде кірбің қалу","cn":"在我的灵魂中留下不好的感觉","level":5,"transcription":null}
 {"kz":"көрсету","cn":"展示","level":2,"transcription":null}
-{"kz":"көшу","cn":"移动，移动","level":3,"transcription":null}
+{"kz":"көшу","cn":"移动","level":3,"transcription":null}
 {"kz":"күресу","cn":"斗争","level":3,"transcription":null}
 {"kz":"күш-қуат жұмсау","cn":"浪费能源","level":4,"transcription":null}
 {"kz":"кіру","cn":"进入","level":1,"transcription":null}
@@ -2296,9 +2296,9 @@
 {"kz":"қолдану","cn":"享受","level":2,"transcription":null}
 {"kz":"қоштасу","cn":"告别","level":2,"transcription":null}
 {"kz":"қою","cn":"放","level":1,"transcription":null}
-{"kz":"қуанышын білдіру","cn":"怿","level":4,"transcription":null}
+{"kz":"қуанышын білдіру","cn":"高兴","level":4,"transcription":null}
 {"kz":"қуыру","cn":"炒","level":3,"transcription":null}
-{"kz":"қызықтыру","cn":"兴趣","level":4,"transcription":null}
+{"kz":"қызықтыру","cn":"引起兴趣","level":4,"transcription":null}
 {"kz":"мақтан ету","cn":"感到自豪","level":3,"transcription":null}
 {"kz":"микрофонды өшіру","cn":"关闭麦克风","level":4,"transcription":null}
 {"kz":"негізін қалау","cn":"奠定基础","level":5,"transcription":null}
@@ -2312,7 +2312,7 @@
 {"kz":"өту","cn":"经过","level":2,"transcription":null}
 {"kz":"өтініш айту","cn":"提出请求","level":4,"transcription":null}
 {"kz":"өшіру","cn":"擦除、关闭","level":2,"transcription":null}
-{"kz":"пісіру","cn":"厨师","level":2,"transcription":null}
+{"kz":"пісіру","cn":"烹饪","level":2,"transcription":null}
 {"kz":"салу","cn":"放","level":2,"transcription":null}
 {"kz":"санау","cn":"数数","level":2,"transcription":null}
 {"kz":"сапарға шығу","cn":"去旅行","level":3,"transcription":null}
@@ -2326,20 +2326,20 @@
 {"kz":"сызу","cn":"画","level":3,"transcription":null}
 {"kz":"сыйлау","cn":"尊重","level":3,"transcription":null}
 {"kz":"табысқа жету","cn":"取得成功","level":4,"transcription":null}
-{"kz":"тазалау","cn":"干净的","level":2,"transcription":null}
+{"kz":"тазалау","cn":"清洁","level":2,"transcription":null}
 {"kz":"таңдау","cn":"选择","level":2,"transcription":null}
 {"kz":"тарату","cn":"分发","level":3,"transcription":null}
 {"kz":"татуласу","cn":"建造","level":4,"transcription":null}
-{"kz":"тексеру","cn":"查看","level":2,"transcription":null}
-{"kz":"телесериал көру","cn":"看电视剧","level":3,"transcription":null}
+{"kz":"тексеру","cn":"检查","level":2,"transcription":null}
+{"kz":"телесериал көру","cn":"观看电视剧","level":3,"transcription":null}
 {"kz":"тоқтау","cn":"停留","level":2,"transcription":null}
 {"kz":"толқу","cn":"担心","level":3,"transcription":null}
-{"kz":"туу","cn":"生","level":2,"transcription":null}
-{"kz":"тұру","cn":"活着，成为","level":1,"transcription":null}
+{"kz":"туу","cn":"出生","level":2,"transcription":null}
+{"kz":"тұру","cn":"居住","level":1,"transcription":null}
 {"kz":"түсіндіру","cn":"解释","level":3,"transcription":null}
 {"kz":"түсіну","cn":"理解","level":2,"transcription":null}
 {"kz":"ұйықтау","cn":"睡觉","level":1,"transcription":null}
-{"kz":"ұмыту","cn":"忘记","level":2,"transcription":null}
+{"kz":"ұмыту","cn":"遗忘","level":2,"transcription":null}
 {"kz":"ұшу","cn":"飞","level":2,"transcription":null}
 {"kz":"үйлену","cn":"结婚","level":3,"transcription":null}
 {"kz":"үйрену","cn":"学习","level":2,"transcription":null}
@@ -2347,22 +2347,22 @@
 {"kz":"хабарласу","cn":"保持联系","level":4,"transcription":null}
 {"kz":"шаң сору","cn":"真空","level":3,"transcription":null}
 {"kz":"шаршағанын ұмыту","cn":"忘记疲劳","level":4,"transcription":null}
-{"kz":"шаршау","cn":"累了","level":2,"transcription":null}
-{"kz":"шұғылдану","cn":"学习","level":4,"transcription":null}
+{"kz":"шаршау","cn":"疲惫","level":2,"transcription":null}
+{"kz":"шұғылдану","cn":"忙碌","level":4,"transcription":null}
 {"kz":"шығару","cn":"执行","level":2,"transcription":null}
-{"kz":"шығу","cn":"出去","level":1,"transcription":null}
+{"kz":"шығу","cn":"离开","level":1,"transcription":null}
 {"kz":"іске қосылу","cn":"生效","level":4,"transcription":null}
 {"kz":"істеу","cn":"做","level":1,"transcription":null}
 {"kz":"ішу","cn":"喝","level":1,"transcription":null}
 {"kz":"эфирге шығу","cn":"播出","level":4,"transcription":null}
-{"kz":"ағаш отырғызу","cn":"植树","level":3,"transcription":null}
-{"kz":"айналысу","cn":"参与，参与","level":3,"transcription":null}
-{"kz":"алу","cn":"减去，取","level":3,"transcription":null}
+{"kz":"ағаш отырғызу","cn":"种树","level":3,"transcription":null}
+{"kz":"айналысу","cn":"参与","level":3,"transcription":null}
+{"kz":"алу","cn":"拿","level":3,"transcription":null}
 {"kz":"аудару","cn":"转移","level":3,"transcription":null}
 {"kz":"ауыру","cn":"生病","level":2,"transcription":null}
 {"kz":"ашу","cn":"打开","level":1,"transcription":null}
 {"kz":"аялау","cn":"保护、照顾","level":3,"transcription":null}
-{"kz":"әлемге таныту","cn":"呈现给全世界","level":4,"transcription":null}
+{"kz":"әлемге таныту","cn":"向全世界介绍","level":4,"transcription":null}
 {"kz":"ән айту","cn":"唱歌","level":1,"transcription":null}
 {"kz":"әуестену","cn":"得意忘形","level":3,"transcription":null}
 {"kz":"бағындыру","cn":"征服","level":4,"transcription":null}
@@ -2387,7 +2387,7 @@
 {"kz":"жасау","cn":"做、制造","level":2,"transcription":null}
 {"kz":"жауап беру","cn":"回复","level":2,"transcription":null}
 {"kz":"жаяу қыдыру","cn":"走","level":3,"transcription":null}
-{"kz":"жеу","cn":"吃，吃","level":1,"transcription":null}
+{"kz":"жеу","cn":"吃","level":1,"transcription":null}
 {"kz":"жинау","cn":"清理","level":2,"transcription":null}
 {"kz":"жөтелу","cn":"咳嗽","level":3,"transcription":null}
 {"kz":"жуу","cn":"洗","level":1,"transcription":null}
@@ -2416,41 +2416,41 @@
 {"kz":"құттықтау","cn":"祝贺","level":3,"transcription":null}
 {"kz":"мән беру","cn":"重视","level":4,"transcription":null}
 {"kz":"музыка тыңдау","cn":"听音乐","level":2,"transcription":null}
-{"kz":"ниеттену","cn":"意思是","level":4,"transcription":null}
+{"kz":"ниеттену","cn":"没有","level":4,"transcription":null}
 {"kz":"ойлану","cn":"思考","level":2,"transcription":null}
 {"kz":"орындау","cn":"实现","level":3,"transcription":null}
 {"kz":"өз-өзіңді алдау","cn":"欺骗自己","level":5,"transcription":null}
 {"kz":"өлең жазу","cn":"写诗","level":3,"transcription":null}
-{"kz":"өмір сүру","cn":"居住","level":2,"transcription":null}
-{"kz":"өнер көрсету","cn":"履行","level":4,"transcription":null}
+{"kz":"өмір сүру","cn":"生活","level":2,"transcription":null}
+{"kz":"өнер көрсету","cn":"表演","level":4,"transcription":null}
 {"kz":"өткізу","cn":"执行","level":2,"transcription":null}
-{"kz":"пайдалану","cn":"申请","level":3,"transcription":null}
-{"kz":"сараптау","cn":"进行检查","level":5,"transcription":null}
-{"kz":"сәнді киіну","cn":"穿着时尚","level":3,"transcription":null}
+{"kz":"пайдалану","cn":"使用","level":3,"transcription":null}
+{"kz":"сараптау","cn":"检查","level":5,"transcription":null}
+{"kz":"сәнді киіну","cn":"穿时尚衣服","level":3,"transcription":null}
 {"kz":"сәті түсу","cn":"成功","level":4,"transcription":null}
 {"kz":"секіру","cn":"跳","level":2,"transcription":null}
-{"kz":"сенімін ақтау","cn":"证明信任合理","level":5,"transcription":null}
+{"kz":"сенімін ақтау","cn":"证明合理","level":5,"transcription":null}
 {"kz":"созылу","cn":"继续","level":4,"transcription":null}
 {"kz":"сырғанау","cn":"骑","level":3,"transcription":null}
 {"kz":"сырқаттану","cn":"生病","level":4,"transcription":null}
 {"kz":"талдау","cn":"分析","level":4,"transcription":null}
-{"kz":"тамақ ішу","cn":"吃","level":3,"transcription":null}
+{"kz":"тамақ ішу","cn":"吃饭","level":3,"transcription":null}
 {"kz":"таң-тамаша болу","cn":"感到惊讶","level":3,"transcription":null}
-{"kz":"телефон соғу","cn":"称呼","level":2,"transcription":null}
+{"kz":"телефон соғу","cn":"打电话","level":2,"transcription":null}
 {"kz":"тойлау","cn":"庆祝","level":3,"transcription":null}
 {"kz":"төлену","cn":"得到报酬","level":4,"transcription":null}
-{"kz":"түшкіру","cn":"喷嚏","level":3,"transcription":null}
+{"kz":"түшкіру","cn":"打喷嚏","level":3,"transcription":null}
 {"kz":"тынбай еңбек ету","cn":"不休息地工作","level":4,"transcription":null}
-{"kz":"тілек айту","cn":"希望","level":3,"transcription":null}
+{"kz":"тілек айту","cn":"许愿","level":3,"transcription":null}
 {"kz":"уақыт өлтіру","cn":"消磨时间","level":4,"transcription":null}
-{"kz":"ұзарту","cn":"延长，延长","level":4,"transcription":null}
+{"kz":"ұзарту","cn":"延长","level":4,"transcription":null}
 {"kz":"ұйымдастыру","cn":"组织","level":4,"transcription":null}
 {"kz":"ұнау","cn":"喜欢","level":2,"transcription":null}
 {"kz":"ұсыну","cn":"建议","level":3,"transcription":null}
 {"kz":"ұшырау","cn":"受到","level":4,"transcription":null}
 {"kz":"ұятқа қалдыру","cn":"耻辱，不辜负希望","level":5,"transcription":null}
-{"kz":"үлес қосу","cn":"贡献，贡献","level":4,"transcription":null}
-{"kz":"үнемдеу","cn":"保存，照顾","level":3,"transcription":null}
+{"kz":"үлес қосу","cn":"贡献","level":4,"transcription":null}
+{"kz":"үнемдеу","cn":"保存","level":3,"transcription":null}
 {"kz":"хабар алу","cn":"获取新闻","level":3,"transcription":null}
 {"kz":"шақыру","cn":"邀请","level":2,"transcription":null}
 {"kz":"шығарып салу","cn":"送行","level":3,"transcription":null}
@@ -2468,12 +2468,12 @@
 {"kz":"босатылу","cn":"被解雇","level":4,"transcription":null}
 {"kz":"бұзу, қирату","cn":"破坏，破坏","level":3,"transcription":null}
 {"kz":"домбыра тарту","cn":"演奏冬不拉","level":4,"transcription":null}
-{"kz":"жадында ұстау","cn":"记住，记住","level":4,"transcription":null}
+{"kz":"жадында ұстау","cn":"记住","level":4,"transcription":null}
 {"kz":"жалғасын табу","cn":"找到延续","level":4,"transcription":null}
-{"kz":"жапсыру","cn":"胶水","level":3,"transcription":null}
+{"kz":"жапсыру","cn":"拒绝","level":3,"transcription":null}
 {"kz":"жарасу","cn":"适应，协调","level":4,"transcription":null}
 {"kz":"жарнамалау","cn":"广告","level":4,"transcription":null}
-{"kz":"жасалу","cn":"要做的，要做的","level":3,"transcription":null}
+{"kz":"жасалу","cn":"要做的","level":3,"transcription":null}
 {"kz":"жету","cn":"到达那里","level":2,"transcription":null}
 {"kz":"жоғалту","cn":"失去","level":3,"transcription":null}
 {"kz":"жолға шығу","cn":"离开","level":3,"transcription":null}
@@ -2486,12 +2486,12 @@
 {"kz":"келу","cn":"来","level":1,"transcription":null}
 {"kz":"кептіру","cn":"干燥","level":3,"transcription":null}
 {"kz":"кесу, турау","cn":"切","level":2,"transcription":null}
-{"kz":"кету","cn":"离开，离开","level":1,"transcription":null}
+{"kz":"кету","cn":"离开","level":1,"transcription":null}
 {"kz":"кешігу","cn":"迟到","level":3,"transcription":null}
-{"kz":"киіну","cn":"裙子","level":2,"transcription":null}
+{"kz":"киіну","cn":"穿","level":2,"transcription":null}
 {"kz":"көмек беру","cn":"提供帮助","level":3,"transcription":null}
 {"kz":"көңіл көтеру","cn":"开心点","level":4,"transcription":null}
-{"kz":"көру","cn":"看，看","level":1,"transcription":null}
+{"kz":"көру","cn":"看","level":1,"transcription":null}
 {"kz":"көшіру","cn":"复制","level":3,"transcription":null}
 {"kz":"күлу","cn":"笑","level":2,"transcription":null}
 {"kz":"күмбірлеу","cn":"声音低沉","level":5,"transcription":null}
@@ -2506,8 +2506,8 @@
 {"kz":"қол қою","cn":"符号","level":3,"transcription":null}
 {"kz":"қолға алу","cn":"捡起","level":3,"transcription":null}
 {"kz":"қолма-қол төлеу","cn":"以现金支付","level":4,"transcription":null}
-{"kz":"құжатты куәландыру","cn":"证明文件","level":5,"transcription":null}
-{"kz":"құрастыру","cn":"化妆品","level":4,"transcription":null}
+{"kz":"құжатты куәландыру","cn":"签署文件","level":5,"transcription":null}
+{"kz":"құрастыру","cn":"制作","level":4,"transcription":null}
 {"kz":"қызмет істеу","cn":"工作","level":3,"transcription":null}
 {"kz":"мазаны алу","cn":"打扰, 纠缠","level":4,"transcription":null}
 {"kz":"мәселені шешу","cn":"解决问题","level":4,"transcription":null}
@@ -2541,14 +2541,14 @@
 {"kz":"топтастыру","cn":"团体","level":4,"transcription":null}
 {"kz":"төсеу","cn":"展开","level":3,"transcription":null}
 {"kz":"тұрғызу","cn":"竖立，放置","level":4,"transcription":null}
-{"kz":"түзету","cn":"正确，正确","level":3,"transcription":null}
-{"kz":"тырысу","cn":"尝试，努力","level":3,"transcription":null}
-{"kz":"тіл үйіру","cn":"好吃","level":4,"transcription":null}
+{"kz":"түзету","cn":"纠正","level":3,"transcription":null}
+{"kz":"тырысу","cn":"尝试","level":3,"transcription":null}
+{"kz":"тіл үйіру","cn":"学习语言","level":4,"transcription":null}
 {"kz":"тіс тазалау","cn":"刷牙","level":3,"transcription":null}
 {"kz":"уақыт белгілеу","cn":"设定时间","level":4,"transcription":null}
 {"kz":"ұйқыдан тұру","cn":"睡后起床","level":3,"transcription":null}
 {"kz":"ұстап қалу","cn":"抓住","level":3,"transcription":null}
-{"kz":"үтіктеу","cn":"铁","level":3,"transcription":null}
+{"kz":"үтіктеу","cn":"警告","level":3,"transcription":null}
 {"kz":"шайқасу","cn":"斗争","level":4,"transcription":null}
 {"kz":"шаңғы тебу","cn":"滑雪","level":3,"transcription":null}
 {"kz":"шөлін қандыру","cn":"解渴","level":4,"transcription":null}
@@ -2556,11 +2556,11 @@
 {"kz":"ілу","cn":"悬挂","level":2,"transcription":null}
 {"kz":"айнымау","cn":"像","level":3,"transcription":null}
 {"kz":"ақша жұмсау","cn":"破费","level":3,"transcription":null}
-{"kz":"ақы төлеу","cn":"支付工作报酬","level":4,"transcription":null}
-{"kz":"анықтау, нақтылау","cn":"澄清，澄清","level":4,"transcription":null}
+{"kz":"ақы төлеу","cn":"支付","level":4,"transcription":null}
+{"kz":"анықтау, нақтылау","cn":"澄清，明确","level":4,"transcription":null}
 {"kz":"араздаспау","cn":"别吵架","level":4,"transcription":null}
 {"kz":"араластыру","cn":"混合","level":4,"transcription":null}
-{"kz":"аршу","cn":"剥皮（剥皮）","level":4,"transcription":null}
+{"kz":"аршу","cn":"剥皮","level":4,"transcription":null}
 {"kz":"асығу","cn":"匆忙","level":2,"transcription":null}
 {"kz":"атау","cn":"称呼","level":3,"transcription":null}
 {"kz":"ауысып отыру","cn":"进行移植","level":4,"transcription":null}
@@ -2569,7 +2569,7 @@
 {"kz":"бағаламау","cn":"低估","level":4,"transcription":null}
 {"kz":"бас қосу","cn":"团结，聚集","level":4,"transcription":null}
 {"kz":"басып шығару","cn":"打印","level":3,"transcription":null}
-{"kz":"бұзылу","cn":"恶化、分解","level":3,"transcription":null}
+{"kz":"бұзылу","cn":"破坏、恶化","level":3,"transcription":null}
 {"kz":"ғашық болу","cn":"爱上","level":3,"transcription":null}
 {"kz":"дауыс көтермеу","cn":"不要提高你的声音","level":4,"transcription":null}
 {"kz":"демдеу","cn":"泡（茶）","level":4,"transcription":null}
@@ -2596,7 +2596,7 @@
 {"kz":"зиян келтіру","cn":"伤害","level":4,"transcription":null}
 {"kz":"көбею","cn":"增加","level":3,"transcription":null}
 {"kz":"қалану","cn":"形成，建立","level":4,"transcription":null}
-{"kz":"қамқор болу","cn":"光顾","level":4,"transcription":null}
+{"kz":"қамқор болу","cn":"爱护","level":4,"transcription":null}
 {"kz":"қарау","cn":"看","level":1,"transcription":null}
 {"kz":"қателесу","cn":"犯错误","level":3,"transcription":null}
 {"kz":"қашу","cn":"逃跑","level":3,"transcription":null}
@@ -2625,7 +2625,7 @@
 {"kz":"сақтау","cn":"保存、保护","level":3,"transcription":null}
 {"kz":"сапар шегу","cn":"旅行","level":4,"transcription":null}
 {"kz":"сұхбат алу","cn":"面试","level":4,"transcription":null}
-{"kz":"сүртіну","cn":"擦干","level":3,"transcription":null}
+{"kz":"сүртіну","cn":"","level":3,"transcription":null}
 {"kz":"сығу","cn":"挤","level":3,"transcription":null}
 {"kz":"сыпыру","cn":"扫","level":4,"transcription":null}
 {"kz":"сыр жасырмау","cn":"不要隐藏，不要隐瞒","level":5,"transcription":null}
@@ -2657,7 +2657,7 @@
 {"kz":"айналу","cn":"旋转","level":3,"transcription":null}
 {"kz":"алмастыру","cn":"代替","level":4,"transcription":null}
 {"kz":"алу","cn":"减去，取","level":3,"transcription":null}
-{"kz":"аралау","cn":"徘徊，徘徊","level":4,"transcription":null}
+{"kz":"аралау","cn":"徘徊","level":4,"transcription":null}
 {"kz":"ауыстыру","cn":"代替","level":4,"transcription":null}
 {"kz":"әсер ету","cn":"影响","level":4,"transcription":null}
 {"kz":"байлау","cn":"绷带","level":3,"transcription":null}
@@ -2666,20 +2666,20 @@
 {"kz":"беделден айырылу","cn":"失去权威","level":5,"transcription":null}
 {"kz":"бөлу","cn":"划分","level":2,"transcription":null}
 {"kz":"бұрылу","cn":"转动","level":3,"transcription":null}
-{"kz":"дауыс беру","cn":"投票，投票","level":4,"transcription":null}
+{"kz":"дауыс беру","cn":"投票","level":4,"transcription":null}
 {"kz":"дәрі тамызу","cn":"点滴药","level":5,"transcription":null}
 {"kz":"дәрі ішу","cn":"吃药","level":3,"transcription":null}
 {"kz":"дәрігерге қаралу","cn":"看病","level":4,"transcription":null}
 {"kz":"дем алу","cn":"呼吸","level":2,"transcription":null}
 {"kz":"демалыс алу","cn":"去度假","level":3,"transcription":null}
-{"kz":"доғару","cn":"停止，停止","level":4,"transcription":null}
+{"kz":"доғару","cn":"停止","level":4,"transcription":null}
 {"kz":"есеп шығару","cn":"解决一个问题","level":4,"transcription":null}
 {"kz":"еске түсіру","cn":"记起","level":3,"transcription":null}
 {"kz":"жадыны өшіру","cn":"擦除记忆","level":5,"transcription":null}
 {"kz":"жалдау","cn":"聘请","level":3,"transcription":null}
 {"kz":"жалығып кету","cn":"感到疲倦、感到无聊","level":4,"transcription":null}
 {"kz":"жанжалдасу","cn":"制造丑闻、冲突","level":5,"transcription":null}
-{"kz":"жасыру","cn":"隐藏，隐藏","level":3,"transcription":null}
+{"kz":"жасыру","cn":"隐藏","level":3,"transcription":null}
 {"kz":"жауапқа тарту","cn":"将其绳之以法","level":5,"transcription":null}
 {"kz":"жегізу","cn":"喂，给吃","level":3,"transcription":null}
 {"kz":"желбегей жамылу","cn":"扔到自己身上","level":5,"transcription":null}
@@ -2714,20 +2714,20 @@
 {"kz":"ойлап табу","cn":"发明","level":4,"transcription":null}
 {"kz":"орын алу","cn":"占用空间","level":4,"transcription":null}
 {"kz":"өзгеріс енгізу","cn":"做出改变","level":5,"transcription":null}
-{"kz":"өшіп қалу","cn":"关掉，关掉","level":3,"transcription":null}
+{"kz":"өшіп қалу","cn":"消失","level":3,"transcription":null}
 {"kz":"пікірлесу","cn":"交换意见","level":4,"transcription":null}
 {"kz":"ренжісу","cn":"互相冒犯","level":4,"transcription":null}
 {"kz":"ренжіту","cn":"得罪","level":3,"transcription":null}
 {"kz":"сауығу, жазылу","cn":"恢复","level":4,"transcription":null}
 {"kz":"сәндеу","cn":"装饰","level":4,"transcription":null}
-{"kz":"сезіну","cn":"感觉，感觉","level":3,"transcription":null}
+{"kz":"сезіну","cn":"感觉","level":3,"transcription":null}
 {"kz":"сенім арту","cn":"相信","level":5,"transcription":null}
 {"kz":"сенім білдіру","cn":"表达信心","level":5,"transcription":null}
 {"kz":"сөз қылу","cn":"八卦、讨论","level":5,"transcription":null}
 {"kz":"сулау","cn":"潮湿","level":4,"transcription":null}
 {"kz":"сүңгу","cn":"潜水","level":3,"transcription":null}
-{"kz":"сындыру","cn":"打破，打破","level":3,"transcription":null}
-{"kz":"сіңу","cn":"被吸收，被吸收","level":5,"transcription":null}
+{"kz":"сындыру","cn":"打破","level":3,"transcription":null}
+{"kz":"сіңу","cn":"被吸收","level":5,"transcription":null}
 {"kz":"тамызу","cn":"滴","level":4,"transcription":null}
 {"kz":"тапсырыс беру","cn":"命令","level":3,"transcription":null}
 {"kz":"тастау","cn":"扔","level":2,"transcription":null}
@@ -2750,7 +2750,7 @@
 {"kz":"адал","cn":"诚实的","level":2,"transcription":null}
 {"kz":"ақкөңіл","cn":"真诚","level":3,"transcription":null}
 {"kz":"ақылды","cn":"聪明的","level":1,"transcription":null}
-{"kz":"алғыр","cn":"顽强","level":4,"transcription":null}
+{"kz":"алғыр","cn":"顽强的","level":4,"transcription":null}
 {"kz":"алқалық","cn":"合议的","level":5,"transcription":null}
 {"kz":"алып","cn":"大的，巨大的","level":2,"transcription":null}
 {"kz":"аңқау","cn":"幼稚的","level":3,"transcription":null}
@@ -2761,11 +2761,11 @@
 {"kz":"әділ","cn":"公平的","level":3,"transcription":null}
 {"kz":"әйгілі","cn":"著名的","level":3,"transcription":null}
 {"kz":"бақытты","cn":"快乐的","level":2,"transcription":null}
-{"kz":"белгілі","cn":"已知的，确定的","level":2,"transcription":null}
+{"kz":"белгілі","cn":"著名的","level":2,"transcription":null}
 {"kz":"белсенді","cn":"积极的","level":3,"transcription":null}
-{"kz":"бөлек","cn":"分开，分开","level":3,"transcription":null}
+{"kz":"бөлек","cn":"分开","level":3,"transcription":null}
 {"kz":"бұлтсыз","cn":"无云的","level":3,"transcription":null}
-{"kz":"бұлтты","cn":"多云","level":3,"transcription":null}
+{"kz":"бұлтты","cn":"多云的，被云覆盖的","level":3,"transcription":null}
 {"kz":"білімді","cn":"受过教育的","level":3,"transcription":null}
 {"kz":"дарынды","cn":"有才华的","level":3,"transcription":null}
 {"kz":"дөңгелек","cn":"圆形的","level":2,"transcription":null}
@@ -2774,36 +2774,36 @@
 {"kz":"екпінді","cn":"浮躁、坚强","level":4,"transcription":null}
 {"kz":"елеулі","cn":"重要的，重要的","level":4,"transcription":null}
 {"kz":"еңбекқор","cn":"任劳任怨","level":3,"transcription":null}
-{"kz":"жағымсыз","cn":"不愉快的, 令人厌恶的","level":3,"transcription":null}
+{"kz":"жағымсыз","cn":"不愉快的","level":3,"transcription":null}
 {"kz":"жазғы","cn":"夏天","level":2,"transcription":null}
 {"kz":"жақсы","cn":"好的","level":1,"transcription":null}
 {"kz":"жалқау","cn":"懒惰的","level":2,"transcription":null}
-{"kz":"жарасымды","cn":"合适，可以","level":4,"transcription":null}
+{"kz":"жарасымды","cn":"合适的","level":4,"transcription":null}
 {"kz":"жарқын","cn":"明亮的","level":2,"transcription":null}
 {"kz":"жас","cn":"年轻的","level":1,"transcription":null}
 {"kz":"жекеменшік","cn":"私人的","level":4,"transcription":null}
 {"kz":"жергілікті","cn":"当地的","level":3,"transcription":null}
-{"kz":"жеткіліксіз","cn":"不足","level":4,"transcription":null}
-{"kz":"жоспарлы","cn":"计划","level":4,"transcription":null}
+{"kz":"жеткіліксіз","cn":"不足的","level":4,"transcription":null}
+{"kz":"жоспарлы","cn":"计划的","level":4,"transcription":null}
 {"kz":"жұқа","cn":"薄的","level":2,"transcription":null}
-{"kz":"жүйрік","cn":"快速地","level":3,"transcription":null}
-{"kz":"зерек","cn":"聪明的","level":4,"transcription":null}
-{"kz":"зиян","cn":"有害","level":3,"transcription":null}
-{"kz":"кәдімгі","cn":"普通的，普通的","level":2,"transcription":null}
+{"kz":"жүйрік","cn":"快速的","level":3,"transcription":null}
+{"kz":"зерек","cn":"稀有的","level":4,"transcription":null}
+{"kz":"зиян","cn":"有害的","level":3,"transcription":null}
+{"kz":"кәдімгі","cn":"普通的","level":2,"transcription":null}
 {"kz":"кең","cn":"宽的","level":1,"transcription":null}
 {"kz":"көне","cn":"古老的","level":3,"transcription":null}
 {"kz":"көңілді","cn":"有趣的","level":2,"transcription":null}
-{"kz":"кіші","cn":"年轻的","level":2,"transcription":null}
-{"kz":"қайғылы","cn":"伤心","level":3,"transcription":null}
-{"kz":"қайырымды","cn":"种类","level":2,"transcription":null}
+{"kz":"кіші","cn":"小的","level":2,"transcription":null}
+{"kz":"қайғылы","cn":"伤心的","level":3,"transcription":null}
+{"kz":"қайырымды","cn":"慈善的","level":2,"transcription":null}
 {"kz":"қалың","cn":"厚的","level":2,"transcription":null}
-{"kz":"қарапайым","cn":"谦虚、简单","level":3,"transcription":null}
+{"kz":"қарапайым","cn":"朴素的","level":3,"transcription":null}
 {"kz":"қатыгез","cn":"残忍的","level":4,"transcription":null}
 {"kz":"қауіпті","cn":"危险的","level":3,"transcription":null}
-{"kz":"қоғамдық","cn":"民众","level":3,"transcription":null}
-{"kz":"қолданбалы","cn":"应用","level":4,"transcription":null}
-{"kz":"құқылы","cn":"法律行为能力","level":5,"transcription":null}
-{"kz":"құрметті","cn":"亲爱的","level":3,"transcription":null}
+{"kz":"қоғамдық","cn":"社会的","level":3,"transcription":null}
+{"kz":"қолданбалы","cn":"实用的","level":4,"transcription":null}
+{"kz":"құқылы","cn":"合法的","level":5,"transcription":null}
+{"kz":"құрметті","cn":"尊敬的","level":3,"transcription":null}
 {"kz":"қызықты","cn":"有趣的","level":2,"transcription":null}
 {"kz":"қымбат","cn":"昂贵的","level":2,"transcription":null}
 {"kz":"қысқы","cn":"冬天","level":2,"transcription":null}
@@ -2811,7 +2811,7 @@
 {"kz":"мазасыз","cn":"令人震惊的","level":4,"transcription":null}
 {"kz":"майлы","cn":"脂肪","level":2,"transcription":null}
 {"kz":"мейірімді","cn":"人道","level":4,"transcription":null}
-{"kz":"мемлекеттік","cn":"状态","level":3,"transcription":null}
+{"kz":"мемлекеттік","cn":"国家的","level":3,"transcription":null}
 {"kz":"мылжың","cn":"健谈的, 话匣子","level":4,"transcription":null}
 {"kz":"міндетті","cn":"有义务","level":3,"transcription":null}
 {"kz":"нағыз","cn":"真实的","level":3,"transcription":null}
@@ -2819,74 +2819,74 @@
 {"kz":"негізгі","cn":"基本的","level":2,"transcription":null}
 {"kz":"отандық","cn":"国内的","level":3,"transcription":null}
 {"kz":"өзекті","cn":"当前的","level":4,"transcription":null}
-{"kz":"пайдалы","cn":"有用","level":2,"transcription":null}
+{"kz":"пайдалы","cn":"有用的","level":2,"transcription":null}
 {"kz":"пәнаралық","cn":"跨学科的","level":5,"transcription":null}
 {"kz":"салмақты","cn":"冷静的","level":3,"transcription":null}
 {"kz":"сараң","cn":"贪婪的","level":3,"transcription":null}
-{"kz":"сенімді","cn":"忠诚","level":3,"transcription":null}
-{"kz":"сөзге шешен","cn":"雄辩","level":5,"transcription":null}
+{"kz":"сенімді","cn":"忠诚的","level":3,"transcription":null}
+{"kz":"сөзге шешен","cn":"雄辩的","level":5,"transcription":null}
 {"kz":"сыпайы","cn":"有礼貌的","level":3,"transcription":null}
 {"kz":"сыртқы","cn":"外部、上部","level":3,"transcription":null}
 {"kz":"таза","cn":"干净的","level":1,"transcription":null}
-{"kz":"талғампаз","cn":"挑剔的，挑剔的","level":4,"transcription":null}
+{"kz":"талғампаз","cn":"挑剔的, 苛刻的","level":4,"transcription":null}
 {"kz":"танымал","cn":"受欢迎的","level":3,"transcription":null}
 {"kz":"таңғажайып, ғажап","cn":"美妙的，惊人的","level":4,"transcription":null}
-{"kz":"тапқыр","cn":"机智","level":4,"transcription":null}
+{"kz":"тапқыр","cn":"机智的","level":4,"transcription":null}
 {"kz":"тап-таза","cn":"完全干净","level":3,"transcription":null}
 {"kz":"тұйық","cn":"封闭的、沉默的","level":4,"transcription":null}
 {"kz":"тұманды","cn":"多雾路段","level":3,"transcription":null}
 {"kz":"түнерген","cn":"阴天，阴沉","level":4,"transcription":null}
 {"kz":"тыныш","cn":"安静的","level":2,"transcription":null}
-{"kz":"уайымшыл","cn":"悲观","level":4,"transcription":null}
-{"kz":"ұқыпты","cn":"细心","level":3,"transcription":null}
-{"kz":"үлкен","cn":"高级的","level":1,"transcription":null}
+{"kz":"уайымшыл","cn":"悲观的","level":4,"transcription":null}
+{"kz":"ұқыпты","cn":"有原则的","level":3,"transcription":null}
+{"kz":"үлкен","cn":"大的","level":1,"transcription":null}
 {"kz":"шағын","cn":"小的","level":2,"transcription":null}
 {"kz":"шектеулі","cn":"有限的","level":4,"transcription":null}
 {"kz":"шетел","cn":"外国的","level":3,"transcription":null}
 {"kz":"шетелдік","cn":"外国的","level":3,"transcription":null}
-{"kz":"шулы","cn":"嘈杂","level":2,"transcription":null}
+{"kz":"шулы","cn":"嘈杂的","level":2,"transcription":null}
 {"kz":"шыдамды","cn":"病人","level":3,"transcription":null}
 {"kz":"іргелі","cn":"基本的","level":5,"transcription":null}
 {"kz":"aқкөңіл","cn":"脾气好","level":3,"transcription":null}
-{"kz":"абыройлы","cn":"权威性","level":4,"transcription":null}
+{"kz":"абыройлы","cn":"有威望的","level":4,"transcription":null}
 {"kz":"аққұба","cn":"光","level":3,"transcription":null}
-{"kz":"алаңғасар","cn":"恍惚","level":4,"transcription":null}
+{"kz":"алаңғасар","cn":"恍惚的","level":4,"transcription":null}
 {"kz":"алыс","cn":"远的","level":2,"transcription":null}
 {"kz":"арнайы","cn":"特别的","level":3,"transcription":null}
 {"kz":"ашулы","cn":"生气的","level":3,"transcription":null}
 {"kz":"ащы","cn":"苦的","level":2,"transcription":null}
 {"kz":"әмбебап","cn":"普遍的","level":4,"transcription":null}
 {"kz":"әсерлі","cn":"感人的","level":4,"transcription":null}
-{"kz":"бақытсыз","cn":"不高兴","level":3,"transcription":null}
-{"kz":"батыл","cn":"决定性","level":4,"transcription":null}
-{"kz":"беделді","cn":"权威性","level":4,"transcription":null}
-{"kz":"бойдақ","cn":"未婚","level":3,"transcription":null}
-{"kz":"бұйра","cn":"卷曲","level":3,"transcription":null}
-{"kz":"бұлыңғыр","cn":"昏暗，朦胧","level":4,"transcription":null}
+{"kz":"бақытсыз","cn":"不快乐的","level":3,"transcription":null}
+{"kz":"батыл","cn":"决定性的","level":4,"transcription":null}
+{"kz":"беделді","cn":"有地位的","level":4,"transcription":null}
+{"kz":"бойдақ","cn":"未婚的","level":3,"transcription":null}
+{"kz":"бұйра","cn":"卷曲的","level":3,"transcription":null}
+{"kz":"бұлыңғыр","cn":"昏暗，朦胧的","level":4,"transcription":null}
 {"kz":"бірбеткей","cn":"有原则的","level":5,"transcription":null}
 {"kz":"дәл","cn":"准确的","level":2,"transcription":null}
 {"kz":"дәмді","cn":"可口的","level":2,"transcription":null}
 {"kz":"дұрыс","cn":"正确的","level":2,"transcription":null}
 {"kz":"ерекше","cn":"特别的","level":3,"transcription":null}
 {"kz":"ескі","cn":"老的","level":1,"transcription":null}
-{"kz":"жабайы","cn":"荒野","level":3,"transcription":null}
+{"kz":"жабайы","cn":"荒凉的","level":3,"transcription":null}
 {"kz":"жағымды","cn":"积极的","level":3,"transcription":null}
-{"kz":"жақын","cn":"关闭","level":2,"transcription":null}
+{"kz":"жақын","cn":"接近的","level":2,"transcription":null}
 {"kz":"жаңа","cn":"新的","level":1,"transcription":null}
 {"kz":"жауапты","cn":"负责任的","level":3,"transcription":null}
 {"kz":"жұмсақ","cn":"柔软的","level":2,"transcription":null}
 {"kz":"жүзі жылы","cn":"漂亮的","level":4,"transcription":null}
 {"kz":"жігерлі","cn":"精力充沛、积极主动","level":4,"transcription":null}
-{"kz":"келесі","cn":"下一个","level":1,"transcription":null}
+{"kz":"келесі","cn":"下一个的","level":1,"transcription":null}
 {"kz":"көк көзді","cn":"蓝眼睛的","level":3,"transcription":null}
-{"kz":"көңілсіз","cn":"悁","level":3,"transcription":null}
-{"kz":"көпқабатты","cn":"多层","level":3,"transcription":null}
+{"kz":"көңілсіз","cn":"无精打采的","level":3,"transcription":null}
+{"kz":"көпқабатты","cn":"多层级的","level":3,"transcription":null}
 {"kz":"көпшіл","cn":"交际的","level":3,"transcription":null}
 {"kz":"көреген","cn":"有远见的, 目光敏锐的","level":4,"transcription":null}
 {"kz":"көрікті","cn":"著名的","level":3,"transcription":null}
-{"kz":"күрделі","cn":"难的","level":3,"transcription":null}
+{"kz":"күрделі","cn":"复杂的","level":3,"transcription":null}
 {"kz":"кінәлі","cn":"有罪的","level":3,"transcription":null}
-{"kz":"кір","cn":"污秽","level":2,"transcription":null}
+{"kz":"кір","cn":"污秽的","level":2,"transcription":null}
 {"kz":"қабілетті","cn":"有能力的","level":3,"transcription":null}
 {"kz":"қайратты","cn":"强壮、精力充沛","level":3,"transcription":null}
 {"kz":"қайсар","cn":"执着的","level":4,"transcription":null}
@@ -2909,19 +2909,19 @@
 {"kz":"қысқа","cn":"短的","level":2,"transcription":null}
 {"kz":"қысқа бойлы","cn":"短的","level":3,"transcription":null}
 {"kz":"қышқыл","cn":"酸的","level":3,"transcription":null}
-{"kz":"лайықты","cn":"合适的，合适的","level":4,"transcription":null}
+{"kz":"лайықты","cn":"合适的","level":4,"transcription":null}
 {"kz":"мақсатшыл","cn":"有目的的","level":4,"transcription":null}
 {"kz":"маңызды","cn":"重要的","level":2,"transcription":null}
-{"kz":"мәдениетті","cn":"文化","level":3,"transcription":null}
+{"kz":"мәдениетті","cn":"文化的","level":3,"transcription":null}
 {"kz":"мықты","cn":"强的","level":2,"transcription":null}
 {"kz":"нақты","cn":"具体的","level":3,"transcription":null}
 {"kz":"озық","cn":"先进的","level":4,"transcription":null}
 {"kz":"ортақ","cn":"单身的","level":3,"transcription":null}
-{"kz":"отбасылы","cn":"家庭","level":3,"transcription":null}
-{"kz":"өзге","cn":"不同的，不同的，特殊的","level":2,"transcription":null}
-{"kz":"сабырлы","cn":"均衡","level":4,"transcription":null}
+{"kz":"отбасылы","cn":"家庭的","level":3,"transcription":null}
+{"kz":"өзге","cn":"不同的","level":2,"transcription":null}
+{"kz":"сабырлы","cn":"均衡的","level":4,"transcription":null}
 {"kz":"салақ","cn":"马虎的","level":4,"transcription":null}
-{"kz":"салтанатты","cn":"庄严","level":4,"transcription":null}
+{"kz":"салтанатты","cn":"庄严的","level":4,"transcription":null}
 {"kz":"сапалы","cn":"定性的","level":3,"transcription":null}
 {"kz":"суық","cn":"寒冷的","level":2,"transcription":null}
 {"kz":"сұлу","cn":"美丽的","level":2,"transcription":null}
@@ -2929,44 +2929,44 @@
 {"kz":"сүйкімді","cn":"可爱的","level":3,"transcription":null}
 {"kz":"сүйкімсіз","cn":"不愉快的","level":4,"transcription":null}
 {"kz":"табанды","cn":"执着的，顽强的","level":4,"transcription":null}
-{"kz":"тақырбас","cn":"秃","level":4,"transcription":null}
+{"kz":"тақырбас","cn":"秃的","level":4,"transcription":null}
 {"kz":"тәжірибелі","cn":"有经验的","level":3,"transcription":null}
 {"kz":"тәтті","cn":"甜的","level":2,"transcription":null}
 {"kz":"тегін","cn":"自由的","level":3,"transcription":null}
-{"kz":"тиянақты","cn":"彻底、高效","level":5,"transcription":null}
+{"kz":"тиянақты","cn":"彻底的，高效的","level":5,"transcription":null}
 {"kz":"томпақ","cn":"丰满的，吃饱的","level":4,"transcription":null}
-{"kz":"тұрақты","cn":"永久的、稳定的","level":3,"transcription":null}
+{"kz":"тұрақты","cn":"永久的，稳定的","level":3,"transcription":null}
 {"kz":"тілтабысқыш","cn":"交际的","level":5,"transcription":null}
 {"kz":"ұзын","cn":"长的","level":2,"transcription":null}
-{"kz":"ұйқышыл","cn":"瞌睡，瞌睡","level":4,"transcription":null}
-{"kz":"ұқыпты, құнтты","cn":"节俭","level":4,"transcription":null}
+{"kz":"ұйқышыл","cn":"瞌睡","level":4,"transcription":null}
+{"kz":"ұқыпты, құнтты","cn":"节俭的","level":4,"transcription":null}
 {"kz":"ұрысқақ","cn":"可耻的","level":4,"transcription":null}
-{"kz":"ұялшақ","cn":"害羞，害羞","level":4,"transcription":null}
+{"kz":"ұялшақ","cn":"害羞的","level":4,"transcription":null}
 {"kz":"үстіңгі","cn":"上","level":2,"transcription":null}
-{"kz":"шексіз","cn":"无限","level":4,"transcription":null}
-{"kz":"шынайы","cn":"真实的，真实的","level":3,"transcription":null}
-{"kz":"ылғалды","cn":"潮湿，潮湿","level":3,"transcription":null}
+{"kz":"шексіз","cn":"无限的","level":4,"transcription":null}
+{"kz":"шынайы","cn":"真实的","level":3,"transcription":null}
+{"kz":"ылғалды","cn":"潮湿的","level":3,"transcription":null}
 {"kz":"ыстық","cn":"热的","level":2,"transcription":null}
 {"kz":"ақ","cn":"白色的","level":1,"transcription":null}
-{"kz":"ақысыз","cn":"免费的，免费的","level":3,"transcription":null}
+{"kz":"ақысыз","cn":"免费的","level":3,"transcription":null}
 {"kz":"алтын","cn":"金子","level":2,"transcription":null}
 {"kz":"арнаулы","cn":"特别的，有意的","level":4,"transcription":null}
 {"kz":"арық","cn":"薄的","level":3,"transcription":null}
 {"kz":"ауыр","cn":"重的","level":2,"transcription":null}
-{"kz":"әлеуметтік","cn":"社会的、公共的","level":3,"transcription":null}
+{"kz":"әлеуметтік","cn":"社会的","level":3,"transcription":null}
 {"kz":"әлсіз","cn":"虚弱的","level":2,"transcription":null}
 {"kz":"бағалы","cn":"有价值的","level":3,"transcription":null}
 {"kz":"бай","cn":"富有的","level":2,"transcription":null}
 {"kz":"бейресми","cn":"非正式的","level":4,"transcription":null}
 {"kz":"белгілі","cn":"已知的，确定的","level":2,"transcription":null}
-{"kz":"белгісіз","cn":"未知","level":3,"transcription":null}
+{"kz":"белгісіз","cn":"未知的","level":3,"transcription":null}
 {"kz":"биік","cn":"高的","level":2,"transcription":null}
 {"kz":"брендті","cn":"品牌化的","level":4,"transcription":null}
 {"kz":"буға піскен","cn":"蒸的","level":4,"transcription":null}
 {"kz":"бұлтты","cn":"多云","level":3,"transcription":null}
 {"kz":"білікті","cn":"有知识的、有资格的","level":3,"transcription":null}
 {"kz":"ғылыми","cn":"科学的，科学家的","level":3,"transcription":null}
-{"kz":"дамыған","cn":"发达","level":3,"transcription":null}
+{"kz":"дамыған","cn":"发达的","level":3,"transcription":null}
 {"kz":"дана","cn":"明智的","level":3,"transcription":null}
 {"kz":"дарынсыз","cn":"无才的","level":4,"transcription":null}
 {"kz":"дәлелді","cn":"有证据的，有道理的","level":4,"transcription":null}
@@ -2974,25 +2974,25 @@
 {"kz":"ең бай","cn":"最富有的","level":3,"transcription":null}
 {"kz":"ең кішкентай","cn":"最小的","level":3,"transcription":null}
 {"kz":"ең қымбат","cn":"最贵的","level":3,"transcription":null}
-{"kz":"ең үлкен","cn":"最大","level":2,"transcription":null}
-{"kz":"ересек","cn":"成人","level":2,"transcription":null}
-{"kz":"ерке","cn":"被宠坏了，亲爱的","level":4,"transcription":null}
+{"kz":"ең үлкен","cn":"最大的","level":2,"transcription":null}
+{"kz":"ересек","cn":"成人的","level":2,"transcription":null}
+{"kz":"ерке","cn":"亲爱的","level":4,"transcription":null}
 {"kz":"еріншек","cn":"懒惰的","level":3,"transcription":null}
 {"kz":"есті","cn":"合理的","level":2,"transcription":null}
-{"kz":"ешқандай","cn":"不","level":3,"transcription":null}
+{"kz":"ешқандай","cn":"任何","level":3,"transcription":null}
 {"kz":"жайлы, ыңғайлы","cn":"舒服的","level":3,"transcription":null}
 {"kz":"жалған","cn":"错误的","level":3,"transcription":null}
-{"kz":"жалғыз","cn":"唯一的一个","level":2,"transcription":null}
+{"kz":"жалғыз","cn":"孤独的","level":2,"transcription":null}
 {"kz":"жапсырмалы","cn":"粘合剂","level":4,"transcription":null}
 {"kz":"жасанды","cn":"人造的","level":3,"transcription":null}
 {"kz":"жасыл","cn":"绿色的","level":2,"transcription":null}
-{"kz":"жасырын","cn":"秘密的，秘密的","level":3,"transcription":null}
+{"kz":"жасырын","cn":"秘密的","level":3,"transcription":null}
 {"kz":"жеңіл","cn":"简单的","level":2,"transcription":null}
-{"kz":"жеткілікті, жетерлік","cn":"足够的，足够的","level":3,"transcription":null}
+{"kz":"жеткілікті, жетерлік","cn":"足够的","level":3,"transcription":null}
 {"kz":"жиі","cn":"经常","level":2,"transcription":null}
 {"kz":"жүрдек","cn":"快速地","level":3,"transcription":null}
 {"kz":"жылы","cn":"温暖的","level":1,"transcription":null}
-{"kz":"заңды","cn":"合法的、自然的","level":4,"transcription":null}
+{"kz":"заңды","cn":"合法的","level":4,"transcription":null}
 {"kz":"зор","cn":"巨大的","level":3,"transcription":null}
 {"kz":"кедей","cn":"贫穷的","level":2,"transcription":null}
 {"kz":"кездейсоқ","cn":"随机的","level":3,"transcription":null}
@@ -3004,44 +3004,44 @@
 {"kz":"қажымас","cn":"不知疲倦的","level":5,"transcription":null}
 {"kz":"қазақы","cn":"哈萨克族的特点","level":4,"transcription":null}
 {"kz":"қайнатылған","cn":"煮沸","level":4,"transcription":null}
-{"kz":"қап-қара","cn":"黑黑","level":3,"transcription":null}
+{"kz":"қап-қара","cn":"黑黑的","level":3,"transcription":null}
 {"kz":"қара","cn":"黑色的","level":1,"transcription":null}
 {"kz":"қаржылық","cn":"金融的","level":4,"transcription":null}
-{"kz":"қауіпсіз","cn":"安全，安全","level":3,"transcription":null}
+{"kz":"қауіпсіз","cn":"安全的","level":3,"transcription":null}
 {"kz":"қоңыр","cn":"棕色的","level":3,"transcription":null}
-{"kz":"қуырылған","cn":"油煎","level":3,"transcription":null}
+{"kz":"қуырылған","cn":"油煎的","level":3,"transcription":null}
 {"kz":"құқықтық","cn":"合法的","level":4,"transcription":null}
 {"kz":"құрылған","cn":"编译的","level":4,"transcription":null}
 {"kz":"қызметтік","cn":"官方的","level":4,"transcription":null}
 {"kz":"қызыл","cn":"红色的","level":1,"transcription":null}
 {"kz":"маусымдық","cn":"季节性的","level":4,"transcription":null}
 {"kz":"мерекелік","cn":"喜庆、庄严","level":3,"transcription":null}
-{"kz":"мұқият","cn":"整齐、彻底","level":3,"transcription":null}
+{"kz":"мұқият","cn":"仔细、彻底","level":3,"transcription":null}
 {"kz":"оң","cn":"正确的","level":1,"transcription":null}
-{"kz":"өмірге құштар","cn":"快乐","level":4,"transcription":null}
-{"kz":"парасатты","cn":"智力发达","level":5,"transcription":null}
-{"kz":"піскен","cn":"成熟","level":3,"transcription":null}
+{"kz":"өмірге құштар","cn":"快乐的","level":4,"transcription":null}
+{"kz":"парасатты","cn":"智力发达的","level":5,"transcription":null}
+{"kz":"піскен","cn":"成熟的","level":3,"transcription":null}
 {"kz":"риза","cn":"令人愉快的，满意的","level":3,"transcription":null}
 {"kz":"сары","cn":"黄色的","level":2,"transcription":null}
-{"kz":"сәнді","cn":"优雅、时尚","level":3,"transcription":null}
-{"kz":"сәтті","cn":"成功的，成功的","level":3,"transcription":null}
+{"kz":"сәнді","cn":"优雅的、时尚的","level":3,"transcription":null}
+{"kz":"сәтті","cn":"成功的","level":3,"transcription":null}
 {"kz":"сол","cn":"左边","level":1,"transcription":null}
 {"kz":"сөзшең","cn":"健谈的，雄辩的","level":4,"transcription":null}
 {"kz":"сұр","cn":"灰色的","level":2,"transcription":null}
-{"kz":"сүйікті","cn":"心爱的，最爱的","level":2,"transcription":null}
+{"kz":"сүйікті","cn":"心爱的、最爱的","level":2,"transcription":null}
 {"kz":"табиғи","cn":"自然的","level":3,"transcription":null}
 {"kz":"табысты","cn":"成功的","level":3,"transcription":null}
 {"kz":"танымдық","cn":"认知的","level":4,"transcription":null}
 {"kz":"тар","cn":"狭窄的","level":2,"transcription":null}
 {"kz":"тарихи","cn":"历史的","level":3,"transcription":null}
-{"kz":"тиімді","cn":"有利可图","level":4,"transcription":null}
+{"kz":"тиімді","cn":"有利可图的","level":4,"transcription":null}
 {"kz":"толық","cn":"满的","level":2,"transcription":null}
 {"kz":"төмен","cn":"短的","level":2,"transcription":null}
 {"kz":"туған","cn":"本国的","level":2,"transcription":null}
 {"kz":"тұрғылықты","cn":"永久的、本土的","level":4,"transcription":null}
 {"kz":"түрлі түсті","cn":"颜色","level":3,"transcription":null}
-{"kz":"ұзақ","cn":"长，长","level":2,"transcription":null}
-{"kz":"ұзын бойлы","cn":"高的","level":3,"transcription":null}
+{"kz":"ұзақ","cn":"长的","level":2,"transcription":null}
+{"kz":"ұзын бойлы","cn":"高大的","level":3,"transcription":null}
 {"kz":"ұқсас","cn":"相似的","level":3,"transcription":null}
 {"kz":"үздік","cn":"最好的","level":2,"transcription":null}
 {"kz":"халықаралық","cn":"国际的","level":4,"transcription":null}
@@ -3076,7 +3076,7 @@
 {"kz":"жүз шақты","cn":"大约一百个","level":3,"transcription":null}
 {"kz":"жүздеген","cn":"数百","level":2,"transcription":null}
 {"kz":"жүзінші","cn":"第一百","level":3,"transcription":null}
-{"kz":"кім?","cn":"who？","level":1,"transcription":null}
+{"kz":"кім?","cn":"谁？","level":1,"transcription":null}
 {"kz":"кімдікі?","cn":"谁？","level":2,"transcription":null}
 {"kz":"қайда?","cn":"在哪里？","level":1,"transcription":null}
 {"kz":"қалай?","cn":"如何？","level":1,"transcription":null}
@@ -3090,7 +3090,7 @@
 {"kz":"мыңдаған","cn":"数千","level":3,"transcription":null}
 {"kz":"мыңыншы","cn":"千分之一","level":4,"transcription":null}
 {"kz":"не?","cn":"什么？","level":1,"transcription":null}
-{"kz":"нешінші?","cn":"按顺序是哪一个？","level":3,"transcription":null}
+{"kz":"нешінші?","cn":"第一百零几","level":3,"transcription":null}
 {"kz":"нөл","cn":"零","level":2,"transcription":null}
 {"kz":"нөлінші","cn":"零","level":4,"transcription":null}
 {"kz":"ол","cn":"他、她","level":1,"transcription":null}
@@ -3135,4 +3135,4 @@
 {"kz":"төртеу","cn":"四","level":3,"transcription":null}
 {"kz":"төртінші","cn":"第四","level":2,"transcription":null}
 {"kz":"үш","cn":"三","level":1,"transcription":null}
-{"kz":"үшеу","cn":"三","level":3,"transcription":null}
+{"kz":"үшеу","cn":"三个","level":3,"transcription":null}

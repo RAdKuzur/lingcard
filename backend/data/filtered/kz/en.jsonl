@@ -17,7 +17,7 @@
 {"kz":"бажа","en":"co-brothers-in-law (husbands of sisters)","level":5,"transcription":null}
 {"kz":"бала","en":"child, boy","level":1,"transcription":null}
 {"kz":"балдыз","en":"younger siblings of wife","level":5,"transcription":null}
-{"kz":"бауыр","en":"liver","level":3,"transcription":null}
+{"kz":"бауыр","en":"blood relative","level":3,"transcription":null}
 {"kz":"бәсекелес","en":"competitor, rival","level":4,"transcription":null}
 {"kz":"бозбала","en":"young man, youth","level":3,"transcription":null}
 {"kz":"бойжеткен","en":"girl, young woman","level":3,"transcription":null}
@@ -33,7 +33,7 @@
 {"kz":"ер азамат, еркек","en":"man, male","level":2,"transcription":null}
 {"kz":"ерлі-зайыптылар","en":"spouses, married couple","level":4,"transcription":null}
 {"kz":"жағымпаз","en":"flatterer, sycophant","level":5,"transcription":null}
-{"kz":"жалқау","en":"lazy","level":2,"transcription":null}
+{"kz":"жалқау","en":"lazy person","level":2,"transcription":null}
 {"kz":"жасөспірім","en":"teenager","level":3,"transcription":null}
 {"kz":"жастар","en":"youth, young people","level":2,"transcription":null}
 {"kz":"жау","en":"enemy","level":2,"transcription":null}
@@ -57,38 +57,38 @@
 {"kz":"қарт әйел","en":"elderly woman","level":3,"transcription":null}
 {"kz":"қарындас","en":"younger sister (for brother)","level":3,"transcription":null}
 {"kz":"қиялшыл","en":"fantasizer, daydreamer","level":4,"transcription":null}
-{"kz":"құрбы","en":"girlfriend (female friend)","level":2,"transcription":null}
-{"kz":"құрдас","en":"peer, same age","level":3,"transcription":null}
-{"kz":"қыз","en":"girl, daughter","level":1,"transcription":null}
+{"kz":"құрбы","en":"girlfriend","level":2,"transcription":null}
+{"kz":"құрдас","en":"peer","level":3,"transcription":null}
+{"kz":"қыз","en":"girl","level":1,"transcription":null}
 {"kz":"нағашы","en":"maternal relative","level":4,"transcription":null}
-{"kz":"нәресте","en":"infant, baby","level":3,"transcription":null}
-{"kz":"негізін салушы","en":"founder, originator","level":5,"transcription":null}
+{"kz":"нәресте","en":"infant","level":3,"transcription":null}
+{"kz":"негізін салушы","en":"founder","level":5,"transcription":null}
 {"kz":"немере","en":"grandchild","level":2,"transcription":null}
 {"kz":"ойшыл","en":"thinker","level":4,"transcription":null}
 {"kz":"ойы бір","en":"like-minded people","level":4,"transcription":null}
 {"kz":"отбасы","en":"family","level":1,"transcription":null}
-{"kz":"сәби","en":"toddler, baby","level":2,"transcription":null}
-{"kz":"серіктес","en":"ally, partner","level":4,"transcription":null}
+{"kz":"сәби","en":"toddler","level":2,"transcription":null}
+{"kz":"серіктес","en":"ally","level":4,"transcription":null}
 {"kz":"скептик","en":"skeptic","level":5,"transcription":null}
 {"kz":"сыншы","en":"critic","level":4,"transcription":null}
-{"kz":"сіңлі","en":"younger sister (for sister)","level":3,"transcription":null}
-{"kz":"түлек","en":"graduate","level":3,"transcription":null}
+{"kz":"сіңлі","en":"younger sister","level":3,"transcription":null}
+{"kz":"түлек","en":"graduation","level":3,"transcription":null}
 {"kz":"тілектес","en":"well-wisher","level":4,"transcription":null}
 {"kz":"ұл","en":"son","level":1,"transcription":null}
-{"kz":"ұсынушы","en":"presenter, submitter","level":5,"transcription":null}
+{"kz":"ұсынушы","en":"presenter","level":5,"transcription":null}
 {"kz":"шал","en":"old man","level":2,"transcription":null}
 {"kz":"іні","en":"younger brother","level":2,"transcription":null}
 {"kz":"автобус","en":"bus","level":1,"transcription":null}
-{"kz":"алаң","en":"square, plaza","level":2,"transcription":null}
+{"kz":"алаң","en":"square","level":2,"transcription":null}
 {"kz":"астана, елорда","en":"capital city","level":3,"transcription":null}
-{"kz":"асхана","en":"canteen, dining hall","level":2,"transcription":null}
-{"kz":"аудан","en":"district, region","level":2,"transcription":null}
-{"kz":"аула","en":"courtyard, yard","level":2,"transcription":null}
+{"kz":"асхана","en":"canteen","level":2,"transcription":null}
+{"kz":"аудан","en":"district","level":2,"transcription":null}
+{"kz":"аула","en":"courtyard","level":2,"transcription":null}
 {"kz":"аурухана","en":"hospital","level":2,"transcription":null}
-{"kz":"ауылдық жер","en":"rural area, countryside","level":3,"transcription":null}
+{"kz":"ауылдық жер","en":"rural area","level":3,"transcription":null}
 {"kz":"аяқ киім жөндеу","en":"shoe repair","level":3,"transcription":null}
 {"kz":"аялдама","en":"bus stop","level":2,"transcription":null}
-{"kz":"әкімдік","en":"city administration (akimat)","level":4,"transcription":null}
+{"kz":"әкімдік","en":"city administration","level":4,"transcription":null}
 {"kz":"бағдаршам","en":"traffic light","level":3,"transcription":null}
 {"kz":"бақ","en":"garden, orchard","level":1,"transcription":null}
 {"kz":"бақша","en":"vegetable garden","level":2,"transcription":null}
@@ -122,7 +122,7 @@
 {"kz":"қызмет","en":"service","level":3,"transcription":null}
 {"kz":"мәдениет орталығы","en":"cultural center","level":4,"transcription":null}
 {"kz":"мейрамхана","en":"restaurant","level":2,"transcription":null}
-{"kz":"мекеме","en":"institution","level":3,"transcription":null}
+{"kz":"мекеме","en":"institution, establishment","level":3,"transcription":null}
 {"kz":"мекенжай","en":"address, residence","level":4,"transcription":null}
 {"kz":"мектеп","en":"school","level":1,"transcription":null}
 {"kz":"метро","en":"metro, subway","level":1,"transcription":null}
@@ -131,7 +131,7 @@
 {"kz":"мұражай","en":"museum","level":2,"transcription":null}
 {"kz":"ойын-сауық орталығы","en":"shopping and entertainment center","level":4,"transcription":null}
 {"kz":"орталық","en":"center","level":2,"transcription":null}
-{"kz":"орын","en":"place","level":1,"transcription":null}
+{"kz":"орын","en":"place, spot","level":1,"transcription":null}
 {"kz":"пошта","en":"post office","level":2,"transcription":null}
 {"kz":"сағат жөндеу","en":"watch repair","level":3,"transcription":null}
 {"kz":"сауда орталығы","en":"shopping center, mall","level":3,"transcription":null}
@@ -162,7 +162,7 @@
 {"kz":"бесік","en":"cradle","level":4,"transcription":null}
 {"kz":"бөлме","en":"room","level":2,"transcription":null}
 {"kz":"бөшке","en":"barrel","level":3,"transcription":null}
-{"kz":"бұрыш","en":"pepper","level":2,"transcription":null}
+{"kz":"бұрыш","en":"corner","level":2,"transcription":null}
 {"kz":"газ баллоны","en":"gas cylinder","level":4,"transcription":null}
 {"kz":"газ плитасы","en":"gas stove","level":3,"transcription":null}
 {"kz":"дәліз","en":"corridor, hallway","level":3,"transcription":null}
@@ -179,7 +179,7 @@
 {"kz":"жорық құтысы","en":"canteen, flask","level":5,"transcription":null}
 {"kz":"жуынатын бөлме","en":"bathroom","level":3,"transcription":null}
 {"kz":"жіп","en":"thread","level":2,"transcription":null}
-{"kz":"зат","en":"object, item","level":2,"transcription":null}
+{"kz":"зат","en":"object","level":2,"transcription":null}
 {"kz":"ине","en":"needle","level":2,"transcription":null}
 {"kz":"картон жәшік","en":"cardboard box","level":4,"transcription":null}
 {"kz":"кәрзеңке","en":"basket","level":3,"transcription":null}
@@ -240,8 +240,8 @@
 {"kz":"шыны сауыт, колба","en":"flask, retort","level":5,"transcription":null}
 {"kz":"шыны, әйнек","en":"glass, pane","level":2,"transcription":null}
 {"kz":"шыныаяқ","en":"cup","level":2,"transcription":null}
-{"kz":"ыдыс","en":"dishes, tableware","level":2,"transcription":null}
-{"kz":"ақыл","en":"intelligence, mind","level":2,"transcription":null}
+{"kz":"ыдыс","en":"dishes","level":2,"transcription":null}
+{"kz":"ақыл","en":"intelligence","level":2,"transcription":null}
 {"kz":"ақыл-парасат, сана","en":"intellect, reason","level":4,"transcription":null}
 {"kz":"арқа","en":"back","level":2,"transcription":null}
 {"kz":"асқазан","en":"stomach","level":3,"transcription":null}
@@ -249,7 +249,7 @@
 {"kz":"аяқ","en":"leg, foot","level":1,"transcription":null}
 {"kz":"бас","en":"head","level":1,"transcription":null}
 {"kz":"бауыр","en":"liver","level":3,"transcription":null}
-{"kz":"бел","en":"lower back, waist","level":3,"transcription":null}
+{"kz":"бел","en":"waist","level":3,"transcription":null}
 {"kz":"бет","en":"face","level":1,"transcription":null}
 {"kz":"бұйра шаш","en":"curly hair","level":3,"transcription":null}
 {"kz":"бұлшық ет","en":"muscle","level":4,"transcription":null}
@@ -261,66 +261,66 @@
 {"kz":"ес, жады","en":"memory","level":3,"transcription":null}
 {"kz":"жақ","en":"cheek","level":2,"transcription":null}
 {"kz":"желке","en":"back of the head","level":4,"transcription":null}
-{"kz":"жүз","en":"hundred","level":1,"transcription":null}
+{"kz":"жүз","en":"face","level":1,"transcription":null}
 {"kz":"жүрек","en":"heart","level":2,"transcription":null}
 {"kz":"иек","en":"chin","level":3,"transcription":null}
 {"kz":"иық","en":"shoulder","level":2,"transcription":null}
 {"kz":"кекіл","en":"fringe, bangs","level":4,"transcription":null}
 {"kz":"кеуде","en":"chest, breast","level":3,"transcription":null}
 {"kz":"көз","en":"eye","level":1,"transcription":null}
-{"kz":"көзқарас","en":"view, perspective","level":4,"transcription":null}
-{"kz":"көкірек","en":"thorax, chest","level":4,"transcription":null}
+{"kz":"көзқарас","en":"view","level":4,"transcription":null}
+{"kz":"көкірек","en":"chest","level":4,"transcription":null}
 {"kz":"көңіл күй","en":"mood","level":3,"transcription":null}
 {"kz":"кірпік","en":"eyelashes","level":4,"transcription":null}
 {"kz":"қабақ","en":"eyelid","level":4,"transcription":null}
 {"kz":"қарақат көз","en":"dark eyes","level":3,"transcription":null}
-{"kz":"қарашық","en":"pupil (of eye)","level":4,"transcription":null}
-{"kz":"қарын","en":"belly, abdomen","level":3,"transcription":null}
+{"kz":"қарашық","en":"pupil","level":4,"transcription":null}
+{"kz":"қарын","en":"belly","level":3,"transcription":null}
 {"kz":"қас","en":"eyebrow","level":2,"transcription":null}
 {"kz":"қиғаш қас","en":"arched eyebrows","level":5,"transcription":null}
-{"kz":"қол","en":"hand, arm","level":1,"transcription":null}
+{"kz":"қол","en":"hand","level":1,"transcription":null}
 {"kz":"құлақ","en":"ear","level":2,"transcription":null}
 {"kz":"қыр мұрын","en":"straight nose","level":3,"transcription":null}
 {"kz":"маңдай","en":"forehead","level":3,"transcription":null}
-{"kz":"мең","en":"mole (on skin)","level":3,"transcription":null}
+{"kz":"мең","en":"mole","level":3,"transcription":null}
 {"kz":"ми","en":"brain","level":2,"transcription":null}
 {"kz":"мойын","en":"neck","level":2,"transcription":null}
 {"kz":"мұрт","en":"mustache","level":2,"transcription":null}
 {"kz":"мұрын","en":"nose","level":1,"transcription":null}
-{"kz":"мінез","en":"character, temperament","level":3,"transcription":null}
+{"kz":"мінез","en":"character","level":3,"transcription":null}
 {"kz":"назар","en":"attention","level":2,"transcription":null}
 {"kz":"несеп жолы","en":"ureter","level":6,"transcription":null}
-{"kz":"өкпе","en":"resentment, offense","level":3,"transcription":null}
+{"kz":"өкпе","en":"lungs","level":3,"transcription":null}
 {"kz":"өкше","en":"heel","level":3,"transcription":null}
 {"kz":"парасат, интеллект","en":"intellect","level":4,"transcription":null}
 {"kz":"пікір","en":"opinion","level":3,"transcription":null}
 {"kz":"сақал","en":"beard","level":2,"transcription":null}
-{"kz":"самай","en":"temple (side of head)","level":4,"transcription":null}
-{"kz":"саусақ","en":"finger, toe","level":2,"transcription":null}
-{"kz":"сезім","en":"feeling, emotion","level":3,"transcription":null}
+{"kz":"самай","en":"temple","level":4,"transcription":null}
+{"kz":"саусақ","en":"finger","level":2,"transcription":null}
+{"kz":"сезім","en":"feeling","level":3,"transcription":null}
 {"kz":"соқырішек","en":"appendicitis","level":5,"transcription":null}
 {"kz":"сүйек","en":"bone","level":2,"transcription":null}
-{"kz":"тамақ","en":"throat","level":2,"transcription":null}
-{"kz":"тамыр","en":"root","level":3,"transcription":null}
-{"kz":"түсінік","en":"understanding, comprehension","level":3,"transcription":null}
+{"kz":"тамақ","en":"food","level":2,"transcription":null}
+{"kz":"тамыр","en":"vein","level":3,"transcription":null}
+{"kz":"түсінік","en":"understanding","level":3,"transcription":null}
 {"kz":"тырнақ","en":"nail","level":2,"transcription":null}
 {"kz":"тізе","en":"knee","level":2,"transcription":null}
 {"kz":"тіл","en":"tongue","level":1,"transcription":null}
 {"kz":"тіс","en":"tooth","level":1,"transcription":null}
 {"kz":"ұйқы безі","en":"pancreas","level":6,"transcription":null}
 {"kz":"шаш","en":"hair","level":1,"transcription":null}
-{"kz":"іш","en":"belly, abdomen","level":2,"transcription":null}
-{"kz":"ішек","en":"intestine, bowel","level":4,"transcription":null}
+{"kz":"іш","en":"belly","level":2,"transcription":null}
+{"kz":"ішек","en":"intestine","level":4,"transcription":null}
 {"kz":"әліпби","en":"alphabet","level":3,"transcription":null}
-{"kz":"әліппе","en":"ABC, primer","level":3,"transcription":null}
-{"kz":"әріп","en":"letter (of alphabet)","level":2,"transcription":null}
+{"kz":"әліппе","en":"alphabet","level":3,"transcription":null}
+{"kz":"әріп","en":"letter","level":2,"transcription":null}
 {"kz":"бaстауыш мектеп","en":"primary school","level":3,"transcription":null}
-{"kz":"баға","en":"price","level":2,"transcription":null}
-{"kz":"белгі","en":"sign, mark","level":2,"transcription":null}
-{"kz":"бестік","en":"A (grade), five","level":3,"transcription":null}
-{"kz":"биіктік","en":"height, altitude","level":3,"transcription":null}
-{"kz":"бояу","en":"to paint, dye","level":2,"transcription":null}
-{"kz":"бөлшек","en":"part, fraction","level":3,"transcription":null}
+{"kz":"баға","en":"grade","level":2,"transcription":null}
+{"kz":"белгі","en":"sign","level":2,"transcription":null}
+{"kz":"бестік","en":"five","level":3,"transcription":null}
+{"kz":"биіктік","en":"height","level":3,"transcription":null}
+{"kz":"бояу","en":"color","level":2,"transcription":null}
+{"kz":"бөлшек","en":"part","level":3,"transcription":null}
 {"kz":"білім","en":"knowledge","level":2,"transcription":null}
 {"kz":"білім ордасы","en":"educational institution","level":4,"transcription":null}
 {"kz":"білім ісі","en":"education system","level":4,"transcription":null}
@@ -337,7 +337,7 @@
 {"kz":"доп","en":"ball","level":1,"transcription":null}
 {"kz":"дұрыс жазу ережесі","en":"spelling rules","level":4,"transcription":null}
 {"kz":"дыбыс","en":"sound","level":2,"transcription":null}
-{"kz":"екілік","en":"D (grade), two","level":3,"transcription":null}
+{"kz":"екілік","en":"grade two","level":3,"transcription":null}
 {"kz":"емтихан","en":"exam","level":3,"transcription":null}
 {"kz":"ен","en":"width","level":2,"transcription":null}
 {"kz":"есім","en":"name","level":1,"transcription":null}
@@ -350,7 +350,7 @@
 {"kz":"инициал","en":"initial","level":4,"transcription":null}
 {"kz":"кәмелеттік аттестат","en":"maturity certificate","level":5,"transcription":null}
 {"kz":"келі","en":"kilogram","level":2,"transcription":null}
-{"kz":"кесте","en":"embroidery","level":4,"transcription":null}
+{"kz":"кесте","en":"schedule, timetable","level":4,"transcription":null}
 {"kz":"килограмм","en":"kilogram","level":2,"transcription":null}
 {"kz":"компьютер","en":"computer","level":2,"transcription":null}
 {"kz":"күнделік","en":"diary","level":3,"transcription":null}
@@ -360,62 +360,62 @@
 {"kz":"қаламсап","en":"pen","level":2,"transcription":null}
 {"kz":"қанат белгісі","en":"tick mark","level":4,"transcription":null}
 {"kz":"қарындаш","en":"pencil","level":2,"transcription":null}
-{"kz":"қате","en":"mistake, error","level":2,"transcription":null}
-{"kz":"мақам, дикция","en":"diction","level":4,"transcription":null}
+{"kz":"қате","en":"mistake","level":2,"transcription":null}
+{"kz":"мақам, дикция","en":"rank, vocabulary","level":4,"transcription":null}
 {"kz":"метр","en":"meter","level":2,"transcription":null}
 {"kz":"нөмір","en":"number","level":2,"transcription":null}
-{"kz":"нүкте","en":"period, dot","level":2,"transcription":null}
-{"kz":"ойын","en":"game, play","level":1,"transcription":null}
+{"kz":"нүкте","en":"period","level":2,"transcription":null}
+{"kz":"ойын","en":"game","level":1,"transcription":null}
 {"kz":"оқу жылы","en":"academic year","level":3,"transcription":null}
 {"kz":"оқу құралдары","en":"teaching aids","level":4,"transcription":null}
 {"kz":"оқу мерзімі","en":"duration of study","level":4,"transcription":null}
 {"kz":"оқулық","en":"textbook","level":3,"transcription":null}
-{"kz":"оқушы","en":"student, pupil","level":2,"transcription":null}
+{"kz":"оқушы","en":"student","level":2,"transcription":null}
 {"kz":"орта білім","en":"secondary education","level":3,"transcription":null}
 {"kz":"орта мектеп","en":"secondary school","level":3,"transcription":null}
-{"kz":"өлшеуіш","en":"tape measure, ruler","level":3,"transcription":null}
-{"kz":"өшіргіш","en":"eraser, rubber","level":3,"transcription":null}
-{"kz":"парта","en":"school desk","level":3,"transcription":null}
-{"kz":"пән","en":"subject (academic)","level":2,"transcription":null}
+{"kz":"өлшеуіш","en":"tape measure","level":3,"transcription":null}
+{"kz":"өшіргіш","en":"eraser","level":3,"transcription":null}
+{"kz":"парта","en":"desk","level":3,"transcription":null}
+{"kz":"пән","en":"subject","level":2,"transcription":null}
 {"kz":"практика","en":"practice","level":3,"transcription":null}
-{"kz":"сабақ","en":"stem, stalk","level":3,"transcription":null}
+{"kz":"сабақ","en":"lesson","level":3,"transcription":null}
 {"kz":"сабақ кестесі","en":"timetable","level":3,"transcription":null}
-{"kz":"сан","en":"number (quantity)","level":2,"transcription":null}
-{"kz":"сандар","en":"digits, numerals","level":2,"transcription":null}
+{"kz":"сан","en":"number","level":2,"transcription":null}
+{"kz":"сандар","en":"digits","level":2,"transcription":null}
 {"kz":"сөз","en":"word","level":1,"transcription":null}
 {"kz":"сөздік","en":"dictionary","level":2,"transcription":null}
 {"kz":"сөйлем","en":"sentence","level":3,"transcription":null}
-{"kz":"сөйленіс","en":"dialect, speech","level":4,"transcription":null}
+{"kz":"сөйленіс","en":"dialect","level":4,"transcription":null}
 {"kz":"сурет салу","en":"drawing","level":3,"transcription":null}
-{"kz":"сызғыш","en":"ruler (measuring)","level":3,"transcription":null}
-{"kz":"сызу","en":"to draw","level":3,"transcription":null}
+{"kz":"сызғыш","en":"ruler","level":3,"transcription":null}
+{"kz":"сызу","en":"drafting","level":3,"transcription":null}
 {"kz":"сызық","en":"line","level":2,"transcription":null}
-{"kz":"сынақ","en":"test, exam","level":3,"transcription":null}
-{"kz":"сынып","en":"class, grade","level":2,"transcription":null}
+{"kz":"сынақ","en":"test","level":3,"transcription":null}
+{"kz":"сынып","en":"class","level":2,"transcription":null}
 {"kz":"табысты тапсыру","en":"successful completion","level":4,"transcription":null}
-{"kz":"тақта","en":"board, blackboard","level":2,"transcription":null}
-{"kz":"тақырып","en":"topic, subject","level":2,"transcription":null}
-{"kz":"таңба","en":"mark, sign, trace","level":4,"transcription":null}
-{"kz":"тапсырма","en":"task, assignment","level":3,"transcription":null}
+{"kz":"тақта","en":"board","level":2,"transcription":null}
+{"kz":"тақырып","en":"topic","level":2,"transcription":null}
+{"kz":"таңба","en":"mark","level":4,"transcription":null}
+{"kz":"тапсырма","en":"task","level":3,"transcription":null}
 {"kz":"тарих","en":"history","level":2,"transcription":null}
-{"kz":"тәрбие","en":"upbringing, education","level":3,"transcription":null}
+{"kz":"тәрбие","en":"upbringing","level":3,"transcription":null}
 {"kz":"тереңдік","en":"depth","level":3,"transcription":null}
 {"kz":"төртбұрыш","en":"quadrilateral","level":4,"transcription":null}
-{"kz":"төрттік","en":"C (grade), four","level":3,"transcription":null}
+{"kz":"төрттік","en":"fourth","level":3,"transcription":null}
 {"kz":"тұрмыстық тіл","en":"colloquial speech","level":5,"transcription":null}
 {"kz":"ұзындық","en":"length","level":2,"transcription":null}
-{"kz":"үзіліс","en":"break, recess","level":3,"transcription":null}
+{"kz":"үзіліс","en":"break","level":3,"transcription":null}
 {"kz":"үй тапсырмасы","en":"homework","level":3,"transcription":null}
-{"kz":"үйірме","en":"club, circle","level":3,"transcription":null}
+{"kz":"үйірме","en":"club","level":3,"transcription":null}
 {"kz":"үлгермеушілік","en":"academic failure","level":5,"transcription":null}
-{"kz":"үлгерім","en":"progress, achievement","level":4,"transcription":null}
+{"kz":"үлгерім","en":"progress","level":4,"transcription":null}
 {"kz":"үтір","en":"comma","level":3,"transcription":null}
 {"kz":"үшбұрыш","en":"triangle","level":3,"transcription":null}
-{"kz":"үштік","en":"C (grade), three","level":3,"transcription":null}
-{"kz":"цифр","en":"digit, numeral","level":2,"transcription":null}
+{"kz":"үштік","en":"third","level":3,"transcription":null}
+{"kz":"цифр","en":"digit","level":2,"transcription":null}
 {"kz":"шақырым","en":"kilometer","level":3,"transcription":null}
 {"kz":"шаршы","en":"square","level":3,"transcription":null}
-{"kz":"шәкірт","en":"follower, disciple","level":4,"transcription":null}
+{"kz":"шәкірт","en":"student","level":4,"transcription":null}
 {"kz":"шеңбер","en":"circle","level":2,"transcription":null}
 {"kz":"шет тілі","en":"foreign language","level":3,"transcription":null}
 {"kz":"азық-түлік","en":"food products, groceries","level":3,"transcription":null}
@@ -435,8 +435,8 @@
 {"kz":"бәліш","en":"pie, pastry","level":3,"transcription":null}
 {"kz":"бидай","en":"wheat","level":3,"transcription":null}
 {"kz":"ботқа","en":"porridge","level":2,"transcription":null}
-{"kz":"бұршақ","en":"hail","level":3,"transcription":null}
-{"kz":"бұрыш","en":"pepper","level":2,"transcription":null}
+{"kz":"бұршақ","en":"pea","level":3,"transcription":null}
+{"kz":"бұрыш","en":"corner","level":2,"transcription":null}
 {"kz":"бүлдірген","en":"wild strawberry","level":4,"transcription":null}
 {"kz":"бір қайнатым","en":"tea brew","level":4,"transcription":null}
 {"kz":"газдалған су","en":"carbonated water","level":3,"transcription":null}
@@ -474,10 +474,10 @@
 {"kz":"құймақ","en":"pancakes, fritters","level":4,"transcription":null}
 {"kz":"құлпынай","en":"strawberry","level":3,"transcription":null}
 {"kz":"қызылша","en":"beetroot","level":3,"transcription":null}
-{"kz":"қымыз","en":"kumis (mare's milk)","level":4,"transcription":null}
+{"kz":"қымыз","en":"kumis","level":4,"transcription":null}
 {"kz":"қырыққабат","en":"cabbage","level":3,"transcription":null}
 {"kz":"қыша","en":"mustard","level":4,"transcription":null}
-{"kz":"майлы айран","en":"ryazhenka (fermented milk)","level":4,"transcription":null}
+{"kz":"майлы айран","en":"ryazhenka","level":4,"transcription":null}
 {"kz":"минералды су","en":"mineral water","level":3,"transcription":null}
 {"kz":"мұздатылған жеміс","en":"frozen fruit","level":4,"transcription":null}
 {"kz":"нан","en":"bread","level":1,"transcription":null}
@@ -492,7 +492,7 @@
 {"kz":"сәбіз","en":"carrot","level":2,"transcription":null}
 {"kz":"семіздік","en":"fatness, obesity","level":4,"transcription":null}
 {"kz":"сорпа","en":"broth","level":3,"transcription":null}
-{"kz":"сусын","en":"beverage, drink","level":2,"transcription":null}
+{"kz":"сусын","en":"beverage","level":2,"transcription":null}
 {"kz":"сұлы","en":"oats","level":3,"transcription":null}
 {"kz":"сүзбе","en":"cottage cheese","level":3,"transcription":null}
 {"kz":"сүт","en":"milk","level":1,"transcription":null}
@@ -501,7 +501,7 @@
 {"kz":"сыра","en":"beer","level":2,"transcription":null}
 {"kz":"таба нан","en":"flatbread","level":3,"transcription":null}
 {"kz":"табиғи өнім","en":"natural product","level":4,"transcription":null}
-{"kz":"тағам","en":"dish (food)","level":3,"transcription":null}
+{"kz":"тағам","en":"dish","level":3,"transcription":null}
 {"kz":"таңғы ас","en":"breakfast","level":2,"transcription":null}
 {"kz":"таңқурай","en":"raspberry","level":3,"transcription":null}
 {"kz":"тары","en":"millet","level":4,"transcription":null}
@@ -523,9 +523,9 @@
 {"kz":"шұжық","en":"sausage","level":3,"transcription":null}
 {"kz":"шырын","en":"juice","level":2,"transcription":null}
 {"kz":"ірімшік","en":"cheese","level":3,"transcription":null}
-{"kz":"ағаш","en":"wood, timber","level":3,"transcription":null}
+{"kz":"ағаш","en":"tree, wood","level":3,"transcription":null}
 {"kz":"ағыс","en":"current, flow","level":3,"transcription":null}
-{"kz":"ай","en":"month","level":1,"transcription":null}
+{"kz":"ай","en":"moon","level":1,"transcription":null}
 {"kz":"айдың тұтылуы","en":"lunar eclipse","level":5,"transcription":null}
 {"kz":"айлақ","en":"harbor, bay","level":4,"transcription":null}
 {"kz":"ақ жауын","en":"light rain, drizzle","level":3,"transcription":null}
@@ -540,10 +540,10 @@
 {"kz":"ашық күн","en":"clear day","level":2,"transcription":null}
 {"kz":"балды өсімдіктер","en":"honey plants","level":5,"transcription":null}
 {"kz":"барқан, шағыл","en":"sand dune","level":5,"transcription":null}
-{"kz":"бастау","en":"source, spring","level":3,"transcription":null}
-{"kz":"батпақ","en":"swamp, bog","level":4,"transcription":null}
+{"kz":"бастау","en":"source","level":3,"transcription":null}
+{"kz":"батпақ","en":"swamp","level":4,"transcription":null}
 {"kz":"баяу жел, самал","en":"breeze","level":4,"transcription":null}
-{"kz":"боран","en":"snowstorm, blizzard","level":4,"transcription":null}
+{"kz":"боран","en":"snowstorm","level":4,"transcription":null}
 {"kz":"бұлақ","en":"spring (water)","level":3,"transcription":null}
 {"kz":"бұлт","en":"cloud","level":2,"transcription":null}
 {"kz":"бұршақ","en":"hail","level":3,"transcription":null}
@@ -551,17 +551,17 @@
 {"kz":"градус","en":"degree","level":2,"transcription":null}
 {"kz":"гүл","en":"flower","level":2,"transcription":null}
 {"kz":"ғаламшар","en":"planet","level":3,"transcription":null}
-{"kz":"ғарыш","en":"space, cosmos","level":3,"transcription":null}
+{"kz":"ғарыш","en":"space","level":3,"transcription":null}
 {"kz":"дала","en":"steppe","level":3,"transcription":null}
 {"kz":"дауыл","en":"thunderstorm","level":3,"transcription":null}
-{"kz":"жаға, жағалау","en":"shore, coast","level":3,"transcription":null}
+{"kz":"жаға, жағалау","en":"shore","level":3,"transcription":null}
 {"kz":"жағажай","en":"beach","level":2,"transcription":null}
 {"kz":"жазық","en":"valley","level":3,"transcription":null}
-{"kz":"жайылым","en":"meadow, pasture","level":4,"transcription":null}
+{"kz":"жайылым","en":"meadow","level":4,"transcription":null}
 {"kz":"жанартау","en":"volcano","level":4,"transcription":null}
 {"kz":"жаңбыр","en":"rain","level":1,"transcription":null}
 {"kz":"жаңбыр тамшысы","en":"raindrop","level":3,"transcription":null}
-{"kz":"жартас","en":"cliff, rock","level":3,"transcription":null}
+{"kz":"жартас","en":"cliff","level":3,"transcription":null}
 {"kz":"жауын-шашын","en":"precipitation","level":4,"transcription":null}
 {"kz":"жел","en":"wind","level":1,"transcription":null}
 {"kz":"жер","en":"earth, land","level":1,"transcription":null}
@@ -573,7 +573,7 @@
 {"kz":"көлдің бетін тұман басты","en":"fog over the lake","level":4,"transcription":null}
 {"kz":"көлеңке","en":"shadow","level":3,"transcription":null}
 {"kz":"көпжылдық өсімдіктер","en":"perennial plants","level":5,"transcription":null}
-{"kz":"күн","en":"day","level":1,"transcription":null}
+{"kz":"күн","en":"sun","level":1,"transcription":null}
 {"kz":"күннің батуы","en":"sunset","level":3,"transcription":null}
 {"kz":"күннің тұтылуы","en":"solar eclipse","level":5,"transcription":null}
 {"kz":"күннің шығуы","en":"sunrise","level":3,"transcription":null}
@@ -751,7 +751,7 @@
 {"kz":"алға басу","en":"progress","level":4,"transcription":null}
 {"kz":"алғышарт","en":"prerequisite","level":5,"transcription":null}
 {"kz":"амал, тәсіл","en":"method, way","level":3,"transcription":null}
-{"kz":"анықтау, нақтылау","en":"to clarify, specify","level":4,"transcription":null}
+{"kz":"анықтау, нақтылау","en":"clarification","level":4,"transcription":null}
 {"kz":"аспаз","en":"cook, chef","level":3,"transcription":null}
 {"kz":"аудармашы","en":"translator","level":3,"transcription":null}
 {"kz":"бағалау","en":"assessment, evaluation","level":3,"transcription":null}
@@ -772,47 +772,47 @@
 {"kz":"ғарышкер","en":"cosmonaut, astronaut","level":4,"transcription":null}
 {"kz":"ғылым","en":"science","level":3,"transcription":null}
 {"kz":"даяшы","en":"waiter","level":3,"transcription":null}
-{"kz":"дәлел","en":"argument","level":4,"transcription":null}
-{"kz":"демалыс","en":"rest, vacation","level":2,"transcription":null}
+{"kz":"дәлел","en":"evidence","level":4,"transcription":null}
+{"kz":"демалыс","en":"breakfast, lunch","level":2,"transcription":null}
 {"kz":"демеуші","en":"sponsor","level":4,"transcription":null}
 {"kz":"еңбегіне қарай","en":"according to merit","level":4,"transcription":null}
-{"kz":"еңбек","en":"labor, work","level":3,"transcription":null}
-{"kz":"еңбек демалысы","en":"labor leave","level":4,"transcription":null}
+{"kz":"еңбек","en":"labor","level":3,"transcription":null}
+{"kz":"еңбек демалысы","en":"vacation leave","level":4,"transcription":null}
 {"kz":"еңбек келісімшарты","en":"employment contract","level":5,"transcription":null}
-{"kz":"есеп","en":"report, account","level":3,"transcription":null}
+{"kz":"есеп","en":"account, report","level":3,"transcription":null}
 {"kz":"жаңашыл педагог","en":"innovative teacher","level":5,"transcription":null}
-{"kz":"жаратылу","en":"creation, origin","level":4,"transcription":null}
-{"kz":"жетіспеушілік","en":"shortage, deficiency","level":4,"transcription":null}
-{"kz":"жиналыс","en":"meeting, session","level":3,"transcription":null}
+{"kz":"жаратылу","en":"creation","level":4,"transcription":null}
+{"kz":"жетіспеушілік","en":"deficiency","level":4,"transcription":null}
+{"kz":"жиналыс","en":"meeting","level":3,"transcription":null}
 {"kz":"жоба","en":"project","level":3,"transcription":null}
 {"kz":"жоғары көрсеткіш","en":"high indicator","level":4,"transcription":null}
-{"kz":"жұмыс","en":"work, job","level":1,"transcription":null}
+{"kz":"жұмыс","en":"work","level":1,"transcription":null}
 {"kz":"жұмыс кестесі","en":"work schedule","level":4,"transcription":null}
 {"kz":"жұмыс күні","en":"working day","level":3,"transcription":null}
-{"kz":"жұмыс орны","en":"workplace","level":3,"transcription":null}
+{"kz":"жұмыс орны","en":"place of work","level":3,"transcription":null}
 {"kz":"жұмыс өтілі","en":"work experience","level":4,"transcription":null}
 {"kz":"жұмысбастылық","en":"employment","level":5,"transcription":null}
 {"kz":"жұмыссыздық","en":"unemployment","level":4,"transcription":null}
 {"kz":"жұмысшы","en":"worker","level":3,"transcription":null}
 {"kz":"жүргізуші","en":"driver","level":3,"transcription":null}
-{"kz":"заңгер","en":"lawyer, jurist","level":4,"transcription":null}
+{"kz":"заңгер","en":"lawyer","level":4,"transcription":null}
 {"kz":"заңтану","en":"jurisprudence","level":5,"transcription":null}
 {"kz":"зерттеуші","en":"researcher","level":4,"transcription":null}
-{"kz":"иелену","en":"possession, ownership","level":4,"transcription":null}
-{"kz":"кәсіп","en":"profession, occupation","level":3,"transcription":null}
+{"kz":"иелену","en":"possession","level":4,"transcription":null}
+{"kz":"кәсіп","en":"profession","level":3,"transcription":null}
 {"kz":"кәсіпкер","en":"entrepreneur","level":4,"transcription":null}
 {"kz":"кәсіпорын","en":"enterprise","level":4,"transcription":null}
-{"kz":"кедергі","en":"obstacle, barrier","level":4,"transcription":null}
-{"kz":"кездесу","en":"to meet","level":2,"transcription":null}
+{"kz":"кедергі","en":"obstacle","level":4,"transcription":null}
+{"kz":"кездесу","en":"meeting","level":2,"transcription":null}
 {"kz":"келіссөз","en":"negotiations","level":4,"transcription":null}
 {"kz":"кепілдік","en":"guarantee","level":4,"transcription":null}
 {"kz":"көмекші","en":"assistant","level":3,"transcription":null}
 {"kz":"көп тіл білуші","en":"polyglot","level":5,"transcription":null}
 {"kz":"күнтізбе","en":"calendar","level":3,"transcription":null}
-{"kz":"қабылдау","en":"to accept","level":2,"transcription":null}
+{"kz":"қабылдау","en":"reception","level":2,"transcription":null}
 {"kz":"қаржыгер","en":"financier","level":5,"transcription":null}
 {"kz":"қиындық","en":"difficulty","level":3,"transcription":null}
-{"kz":"қорытынды","en":"conclusion, deduction","level":4,"transcription":null}
+{"kz":"қорытынды","en":"conclusion","level":4,"transcription":null}
 {"kz":"құжат","en":"document","level":3,"transcription":null}
 {"kz":"құзырет","en":"competence","level":5,"transcription":null}
 {"kz":"құрылым","en":"structure","level":4,"transcription":null}
@@ -825,44 +825,44 @@
 {"kz":"мұғалім","en":"teacher","level":2,"transcription":null}
 {"kz":"мұнайшы","en":"oil worker","level":4,"transcription":null}
 {"kz":"нәтиже","en":"result","level":3,"transcription":null}
-{"kz":"негіз","en":"basis, foundation","level":3,"transcription":null}
+{"kz":"негіз","en":"basis","level":3,"transcription":null}
 {"kz":"негіздеме","en":"justification","level":5,"transcription":null}
-{"kz":"нышан","en":"emblem, sign","level":4,"transcription":null}
+{"kz":"нышан","en":"emblem","level":4,"transcription":null}
 {"kz":"оқу орны","en":"educational institution","level":3,"transcription":null}
 {"kz":"орынбасар","en":"deputy","level":4,"transcription":null}
 {"kz":"өмірбаян","en":"biography","level":4,"transcription":null}
-{"kz":"өтіл","en":"experience, tenure","level":4,"transcription":null}
-{"kz":"өтініш","en":"application, request","level":3,"transcription":null}
+{"kz":"өтіл","en":"experience","level":4,"transcription":null}
+{"kz":"өтініш","en":"application","level":3,"transcription":null}
 {"kz":"профессор","en":"professor","level":4,"transcription":null}
 {"kz":"ректор","en":"rector","level":4,"transcription":null}
 {"kz":"сарапшы","en":"expert","level":4,"transcription":null}
-{"kz":"сатушы","en":"seller, salesperson","level":2,"transcription":null}
-{"kz":"саудагер","en":"merchant, trader","level":3,"transcription":null}
+{"kz":"сатушы","en":"seller","level":2,"transcription":null}
+{"kz":"саудагер","en":"merchant","level":3,"transcription":null}
 {"kz":"сәнгер","en":"fashion designer","level":4,"transcription":null}
 {"kz":"сәулет","en":"architecture","level":4,"transcription":null}
 {"kz":"сәулетші","en":"architect","level":4,"transcription":null}
-{"kz":"сенімділік","en":"confidence, reliability","level":4,"transcription":null}
+{"kz":"сенімділік","en":"reliability","level":4,"transcription":null}
 {"kz":"сипаттау","en":"description","level":3,"transcription":null}
 {"kz":"студент","en":"student","level":2,"transcription":null}
-{"kz":"суретші","en":"artist, painter","level":3,"transcription":null}
-{"kz":"табандылық","en":"persistence, perseverance","level":4,"transcription":null}
-{"kz":"табыс","en":"income, profit","level":3,"transcription":null}
+{"kz":"суретші","en":"artist","level":3,"transcription":null}
+{"kz":"табандылық","en":"persistence","level":4,"transcription":null}
+{"kz":"табыс","en":"income","level":3,"transcription":null}
 {"kz":"талдамашы","en":"analyst","level":5,"transcription":null}
-{"kz":"талдау","en":"to analyze","level":4,"transcription":null}
-{"kz":"тапсырыс","en":"order, commission","level":3,"transcription":null}
-{"kz":"тәрбиеші","en":"educator, tutor","level":3,"transcription":null}
-{"kz":"тәртіп","en":"order, discipline","level":3,"transcription":null}
+{"kz":"талдау","en":"analysis","level":4,"transcription":null}
+{"kz":"тапсырыс","en":"order","level":3,"transcription":null}
+{"kz":"тәрбиеші","en":"educator","level":3,"transcription":null}
+{"kz":"тәртіп","en":"discipline","level":3,"transcription":null}
 {"kz":"теріс ықпал ету","en":"negative impact","level":5,"transcription":null}
 {"kz":"тұжырымдама","en":"concept","level":5,"transcription":null}
-{"kz":"түйіндеме","en":"resume, CV","level":4,"transcription":null}
+{"kz":"түйіндеме","en":"resume","level":4,"transcription":null}
 {"kz":"түскі үзіліс","en":"lunch break","level":3,"transcription":null}
-{"kz":"тігінші","en":"tailor, seamstress","level":3,"transcription":null}
+{"kz":"тігінші","en":"tailor","level":3,"transcription":null}
 {"kz":"тіл үйренуші","en":"language learner","level":4,"transcription":null}
-{"kz":"тілші","en":"journalist, correspondent","level":3,"transcription":null}
-{"kz":"ұғым","en":"concept, notion","level":4,"transcription":null}
-{"kz":"ұжым","en":"team, collective","level":3,"transcription":null}
+{"kz":"тілші","en":"journalist","level":3,"transcription":null}
+{"kz":"ұғым","en":"notion","level":4,"transcription":null}
+{"kz":"ұжым","en":"team","level":3,"transcription":null}
 {"kz":"ұйым","en":"organization","level":3,"transcription":null}
-{"kz":"факультет деканы","en":"dean of faculty","level":5,"transcription":null}
+{"kz":"факультет деканы","en":"faculty dean","level":5,"transcription":null}
 {"kz":"хат","en":"letter","level":2,"transcription":null}
 {"kz":"хатшы","en":"secretary","level":3,"transcription":null}
 {"kz":"анықтама бюросы","en":"information desk","level":5,"transcription":null}
@@ -870,15 +870,15 @@
 {"kz":"атлет","en":"athlete","level":3,"transcription":null}
 {"kz":"ауыр атлетика","en":"weightlifting","level":4,"transcription":null}
 {"kz":"әл-ауқат","en":"well-being","level":4,"transcription":null}
-{"kz":"әлем бойынша","en":"around the world","level":3,"transcription":null}
+{"kz":"әлем бойынша","en":"worldwide","level":3,"transcription":null}
 {"kz":"әлеуметтік желі","en":"social network","level":3,"transcription":null}
 {"kz":"әсем жер","en":"beautiful place","level":3,"transcription":null}
 {"kz":"әуе көлігі","en":"air transport","level":4,"transcription":null}
 {"kz":"әуежай","en":"airport","level":3,"transcription":null}
 {"kz":"әуесқойлық, қызығушылық","en":"hobby","level":3,"transcription":null}
-{"kz":"бағдар","en":"direction, route","level":3,"transcription":null}
-{"kz":"байланыс","en":"connection, communication","level":3,"transcription":null}
-{"kz":"бақылаушы","en":"inspector, controller","level":4,"transcription":null}
+{"kz":"бағдар","en":"direction","level":3,"transcription":null}
+{"kz":"байланыс","en":"communication","level":3,"transcription":null}
+{"kz":"бақылаушы","en":"inspector","level":4,"transcription":null}
 {"kz":"баскетбол","en":"basketball","level":2,"transcription":null}
 {"kz":"бәссауда","en":"auction","level":5,"transcription":null}
 {"kz":"бейнематериал","en":"video material","level":4,"transcription":null}
@@ -887,7 +887,7 @@
 {"kz":"бос уақыт","en":"free time","level":2,"transcription":null}
 {"kz":"біркісілік бөлме","en":"single room","level":4,"transcription":null}
 {"kz":"біріншілік","en":"championship","level":4,"transcription":null}
-{"kz":"вагон","en":"railway carriage","level":2,"transcription":null}
+{"kz":"вагон","en":"carriage","level":2,"transcription":null}
 {"kz":"велосипед","en":"bicycle","level":2,"transcription":null}
 {"kz":"виза","en":"visa","level":3,"transcription":null}
 {"kz":"волейбол","en":"volleyball","level":2,"transcription":null}
@@ -906,7 +906,7 @@
 {"kz":"жолақы","en":"fare","level":4,"transcription":null}
 {"kz":"жолаушы","en":"passenger","level":3,"transcription":null}
 {"kz":"жолсерік","en":"conductor, guide","level":4,"transcription":null}
-{"kz":"жүгіру","en":"to run","level":2,"transcription":null}
+{"kz":"жүгіру","en":"running","level":2,"transcription":null}
 {"kz":"жүзу бассейні","en":"swimming pool","level":4,"transcription":null}
 {"kz":"жүк","en":"cargo, load","level":3,"transcription":null}
 {"kz":"залал, зиян","en":"harm, damage","level":3,"transcription":null}
@@ -941,7 +941,7 @@
 {"kz":"орын","en":"place","level":1,"transcription":null}
 {"kz":"өзгешелік","en":"peculiarity, distinction","level":4,"transcription":null}
 {"kz":"рейс, сапар","en":"flight, trip","level":3,"transcription":null}
-{"kz":"сапарға шығу","en":"to go on a trip","level":3,"transcription":null}
+{"kz":"сапарға шығу","en":"travel, tourism","level":3,"transcription":null}
 {"kz":"саяхат","en":"journey, travel","level":3,"transcription":null}
 {"kz":"саяхатшы","en":"traveler","level":3,"transcription":null}
 {"kz":"спортшы","en":"sportsman, athlete","level":3,"transcription":null}
@@ -961,10 +961,10 @@
 {"kz":"тіркелу","en":"registration","level":3,"transcription":null}
 {"kz":"тіркеуші","en":"registrar","level":4,"transcription":null}
 {"kz":"ұлттық құрама","en":"national team","level":4,"transcription":null}
-{"kz":"ұпай","en":"point, score","level":3,"transcription":null}
-{"kz":"ұстаным","en":"position, stance","level":4,"transcription":null}
+{"kz":"ұпай","en":"score","level":3,"transcription":null}
+{"kz":"ұстаным","en":"position","level":4,"transcription":null}
 {"kz":"ұшақ","en":"airplane","level":2,"transcription":null}
-{"kz":"ұшу","en":"to fly","level":2,"transcription":null}
+{"kz":"ұшу","en":"flight","level":2,"transcription":null}
 {"kz":"футбол","en":"football","level":1,"transcription":null}
 {"kz":"хабарлама","en":"announcement","level":3,"transcription":null}
 {"kz":"халықаралық ұшу","en":"international flight","level":4,"transcription":null}
@@ -972,26 +972,26 @@
 {"kz":"хоккейші","en":"hockey player","level":3,"transcription":null}
 {"kz":"шаңғы","en":"skis","level":2,"transcription":null}
 {"kz":"шахматшы","en":"chess player","level":3,"transcription":null}
-{"kz":"шашылу","en":"scattering, dispersal","level":5,"transcription":null}
-{"kz":"іздеу","en":"to seek, search","level":2,"transcription":null}
+{"kz":"шашылу","en":"dispersal","level":5,"transcription":null}
+{"kz":"іздеу","en":"search","level":2,"transcription":null}
 {"kz":"электр қуаты","en":"electricity","level":4,"transcription":null}
-{"kz":"айтыс","en":"aitys (poetic duel)","level":5,"transcription":null}
-{"kz":"айтыскер","en":"aitys participant","level":5,"transcription":null}
-{"kz":"айырмашылық","en":"difference, distinction","level":4,"transcription":null}
+{"kz":"айтыс","en":"duel","level":5,"transcription":null}
+{"kz":"айтыскер","en":"duelist","level":5,"transcription":null}
+{"kz":"айырмашылық","en":"difference","level":4,"transcription":null}
 {"kz":"ақын","en":"poet","level":3,"transcription":null}
-{"kz":"аспап","en":"instrument, tool","level":3,"transcription":null}
+{"kz":"аспап","en":"instrument","level":3,"transcription":null}
 {"kz":"әдебиет","en":"literature","level":3,"transcription":null}
 {"kz":"әнші","en":"singer","level":2,"transcription":null}
-{"kz":"әңгіме","en":"conversation","level":3,"transcription":null}
-{"kz":"әртіс","en":"artist, performer","level":3,"transcription":null}
+{"kz":"әңгіме","en":"story","level":3,"transcription":null}
+{"kz":"әртіс","en":"artist","level":3,"transcription":null}
 {"kz":"әсемдік, көркемдік, сұлулық","en":"beauty","level":3,"transcription":null}
 {"kz":"әуен","en":"melody","level":4,"transcription":null}
 {"kz":"бағдарлама","en":"program","level":3,"transcription":null}
-{"kz":"байқау","en":"to notice, observe","level":3,"transcription":null}
+{"kz":"байқау","en":"contest","level":3,"transcription":null}
 {"kz":"басты рөл","en":"leading role","level":4,"transcription":null}
-{"kz":"басылым","en":"edition, publication","level":4,"transcription":null}
+{"kz":"басылым","en":"publication","level":4,"transcription":null}
 {"kz":"бейне","en":"image","level":3,"transcription":null}
-{"kz":"бейнелеу өнері","en":"painting, fine art","level":4,"transcription":null}
+{"kz":"бейнелеу өнері","en":"painting","level":4,"transcription":null}
 {"kz":"білік-дағды","en":"skill","level":4,"transcription":null}
 {"kz":"бір-біріне ұқсас","en":"similar to each other","level":4,"transcription":null}
 {"kz":"дарындылық","en":"talent","level":5,"transcription":null}
@@ -1004,14 +1004,14 @@
 {"kz":"жеңімпаз","en":"winner","level":4,"transcription":null}
 {"kz":"зал","en":"hall","level":2,"transcription":null}
 {"kz":"иіссу, әтір","en":"perfume","level":4,"transcription":null}
-{"kz":"касса","en":"cash desk, box office","level":3,"transcription":null}
-{"kz":"кейіпкер","en":"character, hero","level":4,"transcription":null}
+{"kz":"касса","en":"cash desk","level":3,"transcription":null}
+{"kz":"кейіпкер","en":"character","level":4,"transcription":null}
 {"kz":"кербездік","en":"elegance","level":5,"transcription":null}
-{"kz":"кино","en":"cinema, film","level":1,"transcription":null}
+{"kz":"кино","en":"cinema","level":1,"transcription":null}
 {"kz":"композитор","en":"composer","level":4,"transcription":null}
 {"kz":"концерт","en":"concert","level":2,"transcription":null}
 {"kz":"концерт залы","en":"concert hall","level":4,"transcription":null}
-{"kz":"көрермен","en":"spectator, viewer","level":3,"transcription":null}
+{"kz":"көрермен","en":"spectator","level":3,"transcription":null}
 {"kz":"көркем фильм","en":"feature film","level":4,"transcription":null}
 {"kz":"көрме","en":"exhibition","level":3,"transcription":null}
 {"kz":"күй","en":"kui (instrumental composition)","level":4,"transcription":null}
@@ -1039,13 +1039,13 @@
 {"kz":"өнерсүйгіш","en":"art lover","level":5,"transcription":null}
 {"kz":"өнертапқыш","en":"inventor","level":5,"transcription":null}
 {"kz":"пайдалануға болады","en":"can be used","level":4,"transcription":null}
-{"kz":"патша","en":"king, tsar","level":3,"transcription":null}
+{"kz":"патша","en":"tsar","level":3,"transcription":null}
 {"kz":"періште","en":"angel","level":3,"transcription":null}
 {"kz":"сазгер","en":"composer","level":4,"transcription":null}
-{"kz":"саты","en":"step, level","level":3,"transcription":null}
-{"kz":"сахна","en":"stage, scene","level":3,"transcription":null}
+{"kz":"саты","en":"step","level":3,"transcription":null}
+{"kz":"сахна","en":"stage","level":3,"transcription":null}
 {"kz":"сән","en":"fashion","level":3,"transcription":null}
-{"kz":"сыйлық","en":"award, prize","level":4,"transcription":null}
+{"kz":"сыйлық","en":"prize","level":4,"transcription":null}
 {"kz":"сыйлық иегері","en":"awardee","level":5,"transcription":null}
 {"kz":"талғам","en":"taste","level":3,"transcription":null}
 {"kz":"тәрбиеленуші","en":"pupil, student","level":4,"transcription":null}
@@ -1056,7 +1056,7 @@
 {"kz":"фестиваль","en":"festival","level":3,"transcription":null}
 {"kz":"фильм","en":"film","level":2,"transcription":null}
 {"kz":"хобби","en":"hobby","level":2,"transcription":null}
-{"kz":"шебер","en":"master, expert","level":3,"transcription":null}
+{"kz":"шебер","en":"master, craftsman","level":3,"transcription":null}
 {"kz":"шеберлік","en":"skill, mastery","level":4,"transcription":null}
 {"kz":"шешендік өнер","en":"oratory","level":5,"transcription":null}
 {"kz":"шығарма","en":"work, composition","level":3,"transcription":null}
@@ -1096,7 +1096,7 @@
 {"kz":"жапсырма","en":"sticker, patch","level":4,"transcription":null}
 {"kz":"жейде","en":"shirt","level":2,"transcription":null}
 {"kz":"желпуіш, веер","en":"fan","level":5,"transcription":null}
-{"kz":"жемпір","en":"sweater, pullover","level":3,"transcription":null}
+{"kz":"жемпір","en":"sweater","level":3,"transcription":null}
 {"kz":"жең","en":"sleeve","level":3,"transcription":null}
 {"kz":"жең бүкпесі","en":"cuff","level":5,"transcription":null}
 {"kz":"жеңілгек","en":"cufflink","level":5,"transcription":null}
@@ -1183,21 +1183,21 @@
 {"kz":"бейімдеу орталығы","en":"adaptation center","level":5,"transcription":null}
 {"kz":"білімі терең адам","en":"educated person","level":4,"transcription":null}
 {"kz":"гимн","en":"anthem","level":4,"transcription":null}
-{"kz":"ғұлама","en":"erudite, scholar","level":5,"transcription":null}
-{"kz":"ғылымның ғұламалары","en":"titans of science","level":5,"transcription":null}
+{"kz":"ғұлама","en":"scholar","level":5,"transcription":null}
+{"kz":"ғылымның ғұламалары","en":"scientists","level":5,"transcription":null}
 {"kz":"дегдар, таңдаулы","en":"elite","level":5,"transcription":null}
 {"kz":"ел","en":"country","level":1,"transcription":null}
 {"kz":"елтаңба","en":"coat of arms","level":4,"transcription":null}
 {"kz":"елші","en":"ambassador","level":4,"transcription":null}
 {"kz":"елшілік","en":"embassy","level":4,"transcription":null}
-{"kz":"еңбек ері","en":"hero of labor","level":4,"transcription":null}
-{"kz":"ерлік","en":"heroic deed, feat","level":4,"transcription":null}
+{"kz":"еңбек ері","en":"labor hero","level":4,"transcription":null}
+{"kz":"ерлік","en":"heroic deed","level":4,"transcription":null}
 {"kz":"жаза","en":"punishment","level":3,"transcription":null}
 {"kz":"Жаңа жыл","en":"New Year","level":2,"transcription":null}
 {"kz":"жарқын болашақ","en":"bright future","level":4,"transcription":null}
-{"kz":"жас","en":"young","level":1,"transcription":null}
+{"kz":"жас","en":"age","level":1,"transcription":null}
 {"kz":"жастық шақ","en":"youth","level":3,"transcription":null}
-{"kz":"жауынгер","en":"warrior, soldier","level":4,"transcription":null}
+{"kz":"жауынгер","en":"warrior","level":4,"transcription":null}
 {"kz":"жеңіс","en":"victory","level":3,"transcription":null}
 {"kz":"Жеңіс күні","en":"Victory Day","level":4,"transcription":null}
 {"kz":"заң","en":"law","level":3,"transcription":null}
@@ -1247,7 +1247,7 @@
 {"kz":"тарихи тұлға","en":"historical figure","level":4,"transcription":null}
 {"kz":"Таяу Шығыс","en":"Middle East","level":4,"transcription":null}
 {"kz":"Тәуелсіздік күні","en":"Independence Day","level":5,"transcription":null}
-{"kz":"тегі","en":"his last name, surname","level":3,"transcription":null}
+{"kz":"тегі","en":"surname","level":3,"transcription":null}
 {"kz":"тергеу","en":"investigation","level":4,"transcription":null}
 {"kz":"төреші","en":"judge","level":4,"transcription":null}
 {"kz":"ту","en":"flag","level":2,"transcription":null}
@@ -1269,16 +1269,16 @@
 {"kz":"ханым","en":"lady, madam","level":4,"transcription":null}
 {"kz":"шекара","en":"border","level":4,"transcription":null}
 {"kz":"шенеунік","en":"official","level":4,"transcription":null}
-{"kz":"шетелдік","en":"foreign","level":3,"transcription":null}
+{"kz":"шетелдік","en":"foreigner","level":3,"transcription":null}
 {"kz":"шығыс, күншығыс","en":"east","level":3,"transcription":null}
-{"kz":"шілдехана","en":"holiday for a newborn","level":5,"transcription":null}
+{"kz":"шілдехана","en":"birthplace","level":5,"transcription":null}
 {"kz":"абыр-сабыр","en":"commotion, chaos","level":5,"transcription":null}
 {"kz":"ақиқат, шындық","en":"truth, reality","level":4,"transcription":null}
-{"kz":"алмасу","en":"change, exchange","level":3,"transcription":null}
+{"kz":"алмасу","en":"exchange","level":3,"transcription":null}
 {"kz":"амандық, аман-есендік","en":"well-being","level":4,"transcription":null}
 {"kz":"аңдау, пайымдау","en":"contemplation","level":5,"transcription":null}
 {"kz":"арман","en":"dream","level":2,"transcription":null}
-{"kz":"асығыстық","en":"hurry, haste","level":4,"transcription":null}
+{"kz":"асығыстық","en":"haste","level":4,"transcription":null}
 {"kz":"әділдік","en":"justice, fairness","level":4,"transcription":null}
 {"kz":"әсер","en":"impression","level":3,"transcription":null}
 {"kz":"бейбітшілік","en":"peace","level":4,"transcription":null}
@@ -1286,31 +1286,31 @@
 {"kz":"болжал","en":"forecast","level":4,"transcription":null}
 {"kz":"бостандық","en":"freedom","level":3,"transcription":null}
 {"kz":"дағдарыс","en":"crisis, depression","level":4,"transcription":null}
-{"kz":"дүниежүзі","en":"world, universe","level":4,"transcription":null}
-{"kz":"дүниені сезіну","en":"world perception","level":5,"transcription":null}
+{"kz":"дүниежүзі","en":"world","level":4,"transcription":null}
+{"kz":"дүниені сезіну","en":"perceiving the world","level":5,"transcription":null}
 {"kz":"дүниетаным","en":"worldview","level":5,"transcription":null}
 {"kz":"енжарлық","en":"indifference","level":5,"transcription":null}
 {"kz":"ерекше құбылыс, феномен","en":"phenomenon","level":5,"transcription":null}
-{"kz":"ерекшелік","en":"feature, peculiarity","level":4,"transcription":null}
+{"kz":"ерекшелік","en":"feature","level":4,"transcription":null}
 {"kz":"жағдаят","en":"situation","level":4,"transcription":null}
 {"kz":"жағымсыз қасиет","en":"negative trait","level":5,"transcription":null}
-{"kz":"жандану","en":"revival, renaissance","level":4,"transcription":null}
+{"kz":"жандану","en":"revival","level":4,"transcription":null}
 {"kz":"жетістік","en":"achievement","level":3,"transcription":null}
 {"kz":"жолы болу","en":"luck, fortune","level":4,"transcription":null}
-{"kz":"жұмбақ","en":"riddle, mystery","level":3,"transcription":null}
+{"kz":"жұмбақ","en":"riddle","level":3,"transcription":null}
 {"kz":"жүріс-тұрыс","en":"behavior","level":4,"transcription":null}
 {"kz":"жігерлендіруші күш","en":"inspiring force","level":5,"transcription":null}
 {"kz":"игі тілек","en":"good wish","level":4,"transcription":null}
 {"kz":"интуиция арқылы","en":"by intuition","level":5,"transcription":null}
 {"kz":"келіспеушілік","en":"disagreement","level":5,"transcription":null}
-{"kz":"кеңес","en":"advice, council","level":3,"transcription":null}
+{"kz":"кеңес","en":"advice","level":3,"transcription":null}
 {"kz":"кері әсерін тигізу","en":"reverse effect","level":5,"transcription":null}
-{"kz":"кері кету","en":"degradation","level":5,"transcription":null}
-{"kz":"көмекке зәру","en":"needy","level":4,"transcription":null}
+{"kz":"кері кету","en":"return","level":5,"transcription":null}
+{"kz":"көмекке зәру","en":"helpful","level":4,"transcription":null}
 {"kz":"көрсеткіш","en":"indicator","level":4,"transcription":null}
-{"kz":"күйзеліс","en":"crisis, depression","level":5,"transcription":null}
+{"kz":"күйзеліс","en":"crisis","level":5,"transcription":null}
 {"kz":"күлкі","en":"laughter","level":2,"transcription":null}
-{"kz":"күмән","en":"doubt, suspicion","level":4,"transcription":null}
+{"kz":"күмән","en":"doubt","level":4,"transcription":null}
 {"kz":"күш-жігер","en":"all forces, effort","level":4,"transcription":null}
 {"kz":"қағида","en":"principle","level":4,"transcription":null}
 {"kz":"қажымас қайрат","en":"inexhaustible energy","level":5,"transcription":null}
@@ -1323,7 +1323,7 @@
 {"kz":"қауіп","en":"danger","level":3,"transcription":null}
 {"kz":"қауіпсіздік","en":"safety, security","level":4,"transcription":null}
 {"kz":"қиял","en":"fantasy, imagination","level":3,"transcription":null}
-{"kz":"қоштасу","en":"to say goodbye","level":2,"transcription":null}
+{"kz":"қоштасу","en":"farewell","level":2,"transcription":null}
 {"kz":"қуаныш","en":"joy, happiness","level":2,"transcription":null}
 {"kz":"құлшыныс","en":"zeal, passion","level":5,"transcription":null}
 {"kz":"қызығушылық","en":"interest, curiosity","level":3,"transcription":null}
@@ -1331,23 +1331,23 @@
 {"kz":"мазасыздық","en":"anxiety, worry","level":4,"transcription":null}
 {"kz":"мақсат","en":"goal, purpose","level":2,"transcription":null}
 {"kz":"махаббат","en":"love","level":3,"transcription":null}
-{"kz":"мүмкіндік","en":"opportunity, possibility","level":3,"transcription":null}
+{"kz":"мүмкіндік","en":"opportunity","level":3,"transcription":null}
 {"kz":"мысал","en":"example","level":2,"transcription":null}
 {"kz":"несібе","en":"fortune, destiny","level":5,"transcription":null}
 {"kz":"ниет","en":"intention","level":4,"transcription":null}
-{"kz":"нұсқа","en":"version, variant","level":4,"transcription":null}
-{"kz":"нығаю","en":"strengthening, reinforcement","level":4,"transcription":null}
-{"kz":"ой тұжырымы","en":"conclusion, inference","level":5,"transcription":null}
+{"kz":"нұсқа","en":"version","level":4,"transcription":null}
+{"kz":"нығаю","en":"strengthening","level":4,"transcription":null}
+{"kz":"ой тұжырымы","en":"conclusion","level":5,"transcription":null}
 {"kz":"ойдан шығарылған","en":"fiction, fabrication","level":4,"transcription":null}
-{"kz":"ой-өріс","en":"horizon, outlook","level":4,"transcription":null}
+{"kz":"ой-өріс","en":"horizon","level":4,"transcription":null}
 {"kz":"өзін өзі тану","en":"self-knowledge","level":5,"transcription":null}
 {"kz":"өзін-өзі бағалау","en":"self-esteem","level":5,"transcription":null}
 {"kz":"өкпе","en":"resentment, offense","level":3,"transcription":null}
 {"kz":"өмірдің мәні","en":"meaning of life","level":5,"transcription":null}
 {"kz":"өтірік","en":"lie, falsehood","level":3,"transcription":null}
 {"kz":"рас","en":"truth","level":2,"transcription":null}
-{"kz":"реніш","en":"grief, chagrin","level":4,"transcription":null}
-{"kz":"реттеу","en":"regulation, adjustment","level":4,"transcription":null}
+{"kz":"реніш","en":"grief","level":4,"transcription":null}
+{"kz":"реттеу","en":"regulation","level":4,"transcription":null}
 {"kz":"салыстыру","en":"comparison","level":4,"transcription":null}
 {"kz":"сана-сезім","en":"consciousness, reason","level":4,"transcription":null}
 {"kz":"сәлемдесу","en":"greeting","level":3,"transcription":null}
@@ -1361,23 +1361,23 @@
 {"kz":"танысу","en":"acquaintance","level":3,"transcription":null}
 {"kz":"тапқырлық","en":"wit, cleverness","level":5,"transcription":null}
 {"kz":"татулық","en":"friendship, harmony","level":4,"transcription":null}
-{"kz":"тосқауыл","en":"obstacle, barrier","level":4,"transcription":null}
-{"kz":"төзімділік","en":"patience, tolerance","level":4,"transcription":null}
-{"kz":"төңкеріс","en":"revolution, upheaval","level":5,"transcription":null}
-{"kz":"тұрмыс","en":"everyday life","level":3,"transcription":null}
-{"kz":"тыныштық","en":"peace, quiet","level":3,"transcription":null}
-{"kz":"тіршілік","en":"existence, life","level":4,"transcription":null}
-{"kz":"үлгі","en":"sample, model","level":3,"transcription":null}
+{"kz":"тосқауыл","en":"obstacle","level":4,"transcription":null}
+{"kz":"төзімділік","en":"patience","level":4,"transcription":null}
+{"kz":"төңкеріс","en":"revolution","level":5,"transcription":null}
+{"kz":"тұрмыс","en":"life","level":3,"transcription":null}
+{"kz":"тыныштық","en":"peace","level":3,"transcription":null}
+{"kz":"тіршілік","en":"existence","level":4,"transcription":null}
+{"kz":"үлгі","en":"sample","level":3,"transcription":null}
 {"kz":"үміт","en":"hope","level":2,"transcription":null}
 {"kz":"хабардарлық, білгендік","en":"awareness","level":5,"transcription":null}
-{"kz":"шапшаңдық","en":"speed, quickness","level":4,"transcription":null}
-{"kz":"шешу, жауабын табу","en":"solution, answer","level":4,"transcription":null}
-{"kz":"шығу тегі","en":"origin, descent","level":4,"transcription":null}
+{"kz":"шапшаңдық","en":"speed","level":4,"transcription":null}
+{"kz":"шешу, жауабын табу","en":"solution","level":4,"transcription":null}
+{"kz":"шығу тегі","en":"origin","level":4,"transcription":null}
 {"kz":"шыдамдылық","en":"patience","level":4,"transcription":null}
 {"kz":"шыдамсыздық","en":"impatience","level":5,"transcription":null}
-{"kz":"шынайылық","en":"reality, authenticity","level":4,"transcription":null}
+{"kz":"шынайылық","en":"reality","level":4,"transcription":null}
 {"kz":"ықпал ету","en":"influence","level":4,"transcription":null}
-{"kz":"ырым","en":"omen, superstition","level":4,"transcription":null}
+{"kz":"ырым","en":"omen","level":4,"transcription":null}
 {"kz":"ішкі түйсік, интуиция","en":"intuition","level":5,"transcription":null}
 {"kz":"ай","en":"month","level":1,"transcription":null}
 {"kz":"айдың соңы","en":"end of the month","level":3,"transcription":null}
@@ -1390,7 +1390,7 @@
 {"kz":"әдетте","en":"usually","level":2,"transcription":null}
 {"kz":"әлдеқашан","en":"long ago","level":3,"transcription":null}
 {"kz":"әрдайым","en":"always","level":1,"transcription":null}
-{"kz":"басында","en":"at first, initially","level":2,"transcription":null}
+{"kz":"басында","en":"at first","level":2,"transcription":null}
 {"kz":"баяғыда","en":"long ago, once","level":3,"transcription":null}
 {"kz":"бейсенбі","en":"Thursday","level":2,"transcription":null}
 {"kz":"беске қарай","en":"towards five","level":3,"transcription":null}
@@ -1416,7 +1416,7 @@
 {"kz":"жартыжылдық","en":"half-year","level":4,"transcription":null}
 {"kz":"жексенбі","en":"Sunday","level":2,"transcription":null}
 {"kz":"желтоқсан","en":"December","level":3,"transcription":null}
-{"kz":"жиі","en":"frequent","level":2,"transcription":null}
+{"kz":"жиі","en":"often","level":2,"transcription":null}
 {"kz":"жұма","en":"Friday","level":2,"transcription":null}
 {"kz":"жыл","en":"year","level":1,"transcription":null}
 {"kz":"жыл басы","en":"beginning of the year","level":3,"transcription":null}
@@ -1454,7 +1454,7 @@
 {"kz":"қыркүйек","en":"September","level":3,"transcription":null}
 {"kz":"қыс","en":"winter","level":1,"transcription":null}
 {"kz":"мамыр","en":"May","level":2,"transcription":null}
-{"kz":"маусым","en":"June, season","level":3,"transcription":null}
+{"kz":"маусым","en":"June","level":3,"transcription":null}
 {"kz":"мәңгілік","en":"eternity","level":4,"transcription":null}
 {"kz":"мейрам қарсаңында","en":"eve of the holiday","level":4,"transcription":null}
 {"kz":"минут","en":"minute","level":1,"transcription":null}
@@ -1477,7 +1477,7 @@
 {"kz":"таңертең","en":"in the morning","level":2,"transcription":null}
 {"kz":"тәулік","en":"day (24 hours)","level":3,"transcription":null}
 {"kz":"тәулік бойы","en":"around the clock","level":3,"transcription":null}
-{"kz":"тоқсан","en":"ninety","level":2,"transcription":null}
+{"kz":"тоқсан","en":"quarter (of a year)","level":2,"transcription":null}
 {"kz":"түн","en":"night","level":1,"transcription":null}
 {"kz":"түнде","en":"at night","level":2,"transcription":null}
 {"kz":"түске дейін","en":"before lunch","level":2,"transcription":null}
@@ -1492,7 +1492,7 @@
 {"kz":"автотұрақ","en":"parking lot","level":4,"transcription":null}
 {"kz":"арнаулы тілші","en":"special correspondent","level":5,"transcription":null}
 {"kz":"атақты әртіс","en":"famous artist","level":4,"transcription":null}
-{"kz":"атау","en":"to name, call","level":3,"transcription":null}
+{"kz":"атау","en":"name, denomination","level":3,"transcription":null}
 {"kz":"аяқталу","en":"completion, ending","level":3,"transcription":null}
 {"kz":"әңгіме","en":"conversation","level":3,"transcription":null}
 {"kz":"БАҚ (бұқаралық ақпарат құралдары)","en":"mass media","level":4,"transcription":null}
@@ -1510,14 +1510,14 @@
 {"kz":"дерек","en":"data","level":3,"transcription":null}
 {"kz":"есептеудегі қате","en":"calculation error","level":5,"transcription":null}
 {"kz":"естелік","en":"memory, remembrance","level":4,"transcription":null}
-{"kz":"естелікнама","en":"memoirs","level":5,"transcription":null}
+{"kz":"естелікнама","en":"memories","level":5,"transcription":null}
 {"kz":"жағымды ақпарат","en":"positive information","level":4,"transcription":null}
 {"kz":"жақсы жаңалық","en":"good news","level":3,"transcription":null}
 {"kz":"жалған мәлімет","en":"false information","level":5,"transcription":null}
 {"kz":"жаңа бағдарлама","en":"new program","level":3,"transcription":null}
 {"kz":"жаңа тілші","en":"new reporter","level":4,"transcription":null}
 {"kz":"жаңалық","en":"news","level":2,"transcription":null}
-{"kz":"жаңалықтар дайындау","en":"news preparation","level":5,"transcription":null}
+{"kz":"жаңалықтар дайындау","en":"preparing news","level":5,"transcription":null}
 {"kz":"жарнама","en":"advertisement","level":3,"transcription":null}
 {"kz":"журнал","en":"magazine","level":2,"transcription":null}
 {"kz":"кездейсоқ қате","en":"random error","level":4,"transcription":null}
@@ -1526,8 +1526,8 @@
 {"kz":"кинофильм өндірісі","en":"film production","level":5,"transcription":null}
 {"kz":"корректура","en":"proofreading","level":5,"transcription":null}
 {"kz":"көңілді кино","en":"funny film","level":3,"transcription":null}
-{"kz":"көпшілік","en":"public, audience","level":3,"transcription":null}
-{"kz":"көрсетілім","en":"broadcast, show","level":4,"transcription":null}
+{"kz":"көпшілік","en":"public audience","level":3,"transcription":null}
+{"kz":"көрсетілім","en":"screening, show","level":4,"transcription":null}
 {"kz":"күлкілі әңгіме","en":"anecdote, joke","level":4,"transcription":null}
 {"kz":"күтпеген оқиға","en":"unexpected event","level":4,"transcription":null}
 {"kz":"кіріспе","en":"introduction","level":3,"transcription":null}
@@ -1539,23 +1539,23 @@
 {"kz":"құрал","en":"tool, means","level":3,"transcription":null}
 {"kz":"қызық бағдарлама","en":"interesting program","level":3,"transcription":null}
 {"kz":"қызық телешоу","en":"interesting TV show","level":3,"transcription":null}
-{"kz":"қызықты мәліметтер","en":"interesting facts","level":3,"transcription":null}
+{"kz":"қызықты мәліметтер","en":"interesting information","level":3,"transcription":null}
 {"kz":"қызықты оқиға","en":"interesting event","level":3,"transcription":null}
-{"kz":"мазмұны","en":"its content","level":3,"transcription":null}
+{"kz":"мазмұны","en":"content","level":3,"transcription":null}
 {"kz":"мақала","en":"article","level":3,"transcription":null}
 {"kz":"мәтін","en":"text","level":3,"transcription":null}
-{"kz":"меншікті тілші","en":"own correspondent","level":5,"transcription":null}
+{"kz":"меншікті тілші","en":"personal correspondent","level":5,"transcription":null}
 {"kz":"мерзімді баспасөз","en":"periodical press","level":5,"transcription":null}
 {"kz":"мысал әңгіме","en":"fable","level":4,"transcription":null}
-{"kz":"нұсқаулық","en":"instruction, manual","level":4,"transcription":null}
+{"kz":"нұсқаулық","en":"instruction manual","level":4,"transcription":null}
 {"kz":"отандық телеарна","en":"domestic TV channel","level":4,"transcription":null}
-{"kz":"өнер жұлдыздары","en":"stars of art","level":4,"transcription":null}
-{"kz":"өнер қайраткері","en":"artist, cultural figure","level":5,"transcription":null}
+{"kz":"өнер жұлдыздары","en":"art stars","level":4,"transcription":null}
+{"kz":"өнер қайраткері","en":"artist figure","level":5,"transcription":null}
 {"kz":"пайдасы жоқ","en":"useless","level":3,"transcription":null}
 {"kz":"пьеса кейіпкері","en":"protagonist of a play","level":5,"transcription":null}
 {"kz":"сауалнама","en":"questionnaire","level":4,"transcription":null}
 {"kz":"сөзсіз қате","en":"absolute error","level":5,"transcription":null}
-{"kz":"тақырыпат","en":"headline, title","level":4,"transcription":null}
+{"kz":"тақырыпат","en":"headline title","level":4,"transcription":null}
 {"kz":"танымал әнші","en":"popular singer","level":3,"transcription":null}
 {"kz":"танымал кинофильм","en":"popular film","level":3,"transcription":null}
 {"kz":"танымдық мәліметтер","en":"cognitive information","level":4,"transcription":null}
@@ -1568,28 +1568,28 @@
 {"kz":"телехабар","en":"television broadcast","level":4,"transcription":null}
 {"kz":"телехикая","en":"TV series","level":4,"transcription":null}
 {"kz":"техникалық қиындықтар","en":"technical difficulties","level":5,"transcription":null}
-{"kz":"тұсаукесер","en":"premiere, presentation","level":5,"transcription":null}
-{"kz":"түйін","en":"conclusion, inference","level":4,"transcription":null}
-{"kz":"түсіндірме","en":"commentary, explanation","level":4,"transcription":null}
+{"kz":"тұсаукесер","en":"premiere","level":5,"transcription":null}
+{"kz":"түйін","en":"conclusion","level":4,"transcription":null}
+{"kz":"түсіндірме","en":"explanation","level":4,"transcription":null}
 {"kz":"түсінік беруші","en":"commentator","level":4,"transcription":null}
 {"kz":"тікелей эфир","en":"live broadcast","level":4,"transcription":null}
 {"kz":"тіркеу қатесі","en":"registration error","level":5,"transcription":null}
-{"kz":"ұсыныс","en":"offer, suggestion","level":3,"transcription":null}
+{"kz":"ұсыныс","en":"offer","level":3,"transcription":null}
 {"kz":"фильм түсіру","en":"filming","level":4,"transcription":null}
 {"kz":"фотосурет","en":"photograph","level":3,"transcription":null}
 {"kz":"хабар","en":"news","level":3,"transcription":null}
-{"kz":"шебер","en":"master, expert","level":3,"transcription":null}
+{"kz":"шебер","en":"master","level":3,"transcription":null}
 {"kz":"шолушы","en":"observer","level":5,"transcription":null}
 {"kz":"шығу мерзімі","en":"date of issue","level":4,"transcription":null}
-{"kz":"ағза","en":"organism, body","level":4,"transcription":null}
+{"kz":"ағза","en":"organism","level":4,"transcription":null}
 {"kz":"ағзаның тітіркенуі","en":"allergy","level":5,"transcription":null}
 {"kz":"аққандылық","en":"leukemia","level":6,"transcription":null}
 {"kz":"апиын","en":"opium","level":5,"transcription":null}
 {"kz":"артериялық қан қысымы","en":"blood pressure","level":5,"transcription":null}
 {"kz":"асқазан ауруы","en":"gastritis","level":4,"transcription":null}
-{"kz":"ауру","en":"illness, patient","level":2,"transcription":null}
+{"kz":"ауру","en":"illness","level":2,"transcription":null}
 {"kz":"аурудың алдын алу","en":"prevention","level":5,"transcription":null}
-{"kz":"аштық","en":"hunger, famine","level":3,"transcription":null}
+{"kz":"аштық","en":"hunger","level":3,"transcription":null}
 {"kz":"бас ауру","en":"headache","level":3,"transcription":null}
 {"kz":"буындардың ауыруы","en":"joint pain","level":4,"transcription":null}
 {"kz":"буыны таю\/шығу","en":"dislocation","level":4,"transcription":null}
@@ -1598,31 +1598,31 @@
 {"kz":"дәрумен","en":"vitamin","level":4,"transcription":null}
 {"kz":"дәрумендер","en":"vitamins","level":4,"transcription":null}
 {"kz":"дәруменсіздік","en":"avitaminosis","level":5,"transcription":null}
-{"kz":"дәрі","en":"medicine, drug","level":2,"transcription":null}
-{"kz":"дәрі тамызғыш","en":"drip, IV","level":5,"transcription":null}
+{"kz":"дәрі","en":"medicine","level":2,"transcription":null}
+{"kz":"дәрі тамызғыш","en":"IV drip","level":5,"transcription":null}
 {"kz":"дәрігер","en":"doctor","level":2,"transcription":null}
 {"kz":"дәрігерлер кеңесі","en":"medical consultation","level":6,"transcription":null}
-{"kz":"дәрі-дәрмектер","en":"medications","level":4,"transcription":null}
+{"kz":"дәрі-дәрмектер","en":"medicines","level":4,"transcription":null}
 {"kz":"дәрілік қырмызыгүл","en":"medicinal marigold","level":6,"transcription":null}
-{"kz":"дем алу","en":"to breathe","level":2,"transcription":null}
-{"kz":"дем шығару","en":"exhalation, breath out","level":3,"transcription":null}
+{"kz":"дем алу","en":"breathing in","level":2,"transcription":null}
+{"kz":"дем шығару","en":"breathing out","level":3,"transcription":null}
 {"kz":"денсаулық, саулық","en":"health","level":2,"transcription":null}
 {"kz":"дұрыс тамақтану","en":"proper nutrition","level":4,"transcription":null}
 {"kz":"емші","en":"healer","level":4,"transcription":null}
 {"kz":"жақпа май","en":"ointment","level":4,"transcription":null}
-{"kz":"жарақат","en":"wound, injury","level":3,"transcription":null}
+{"kz":"жарақат","en":"wound","level":3,"transcription":null}
 {"kz":"жөтел","en":"cough","level":3,"transcription":null}
 {"kz":"жүйке жүйесі","en":"nervous system","level":5,"transcription":null}
 {"kz":"жүрек ауруының дәрігері","en":"cardiologist","level":5,"transcription":null}
 {"kz":"жылытқы","en":"heating pad","level":4,"transcription":null}
 {"kz":"жындану","en":"rabies","level":5,"transcription":null}
-{"kz":"зақымдану","en":"damage, injury","level":4,"transcription":null}
+{"kz":"зақымдану","en":"damage","level":4,"transcription":null}
 {"kz":"зерттеу нәтижесі","en":"research result","level":5,"transcription":null}
 {"kz":"зерттеу негізі","en":"basis of research","level":5,"transcription":null}
 {"kz":"зертхана","en":"laboratory","level":4,"transcription":null}
 {"kz":"ингалятор","en":"inhaler","level":5,"transcription":null}
 {"kz":"иісмай","en":"cream","level":4,"transcription":null}
-{"kz":"кабинет","en":"office, room","level":3,"transcription":null}
+{"kz":"кабинет","en":"office","level":3,"transcription":null}
 {"kz":"келбет","en":"appearance","level":4,"transcription":null}
 {"kz":"компресс","en":"compress","level":5,"transcription":null}
 {"kz":"көмірсу","en":"carbohydrate","level":5,"transcription":null}
@@ -1668,7 +1668,7 @@
 {"kz":"ағаш спирті","en":"wood alcohol","level":5,"transcription":null}
 {"kz":"ағаштың діңі","en":"tree trunk","level":4,"transcription":null}
 {"kz":"алма ағашы","en":"apple tree","level":3,"transcription":null}
-{"kz":"алтын","en":"golden","level":2,"transcription":null}
+{"kz":"алтын","en":"gold","level":2,"transcription":null}
 {"kz":"алюминий","en":"aluminium","level":4,"transcription":null}
 {"kz":"анартас, гранит","en":"granite","level":4,"transcription":null}
 {"kz":"асфальт","en":"asphalt","level":3,"transcription":null}
@@ -1684,15 +1684,15 @@
 {"kz":"бетон","en":"concrete","level":3,"transcription":null}
 {"kz":"бор","en":"chalk","level":2,"transcription":null}
 {"kz":"бөз","en":"calico (fabric)","level":5,"transcription":null}
-{"kz":"бұтақ","en":"knot, branch","level":4,"transcription":null}
-{"kz":"бүртік","en":"boucle (fabric)","level":6,"transcription":null}
+{"kz":"бұтақ","en":"bark","level":4,"transcription":null}
+{"kz":"бүртік","en":"loop","level":6,"transcription":null}
 {"kz":"бүршік","en":"bud","level":3,"transcription":null}
 {"kz":"былғары","en":"leather","level":3,"transcription":null}
 {"kz":"ватин","en":"wadding, batting","level":5,"transcription":null}
-{"kz":"газ","en":"gases","level":3,"transcription":null}
-{"kz":"гауһар","en":"diamond","level":4,"transcription":null}
-{"kz":"гипс","en":"plaster, gypsum","level":4,"transcription":null}
-{"kz":"гүлшоқ","en":"bouquet of flowers","level":4,"transcription":null}
+{"kz":"газ","en":"gas","level":3,"transcription":null}
+{"kz":"гауһар","en":"gemstone","level":4,"transcription":null}
+{"kz":"гипс","en":"plaster","level":4,"transcription":null}
+{"kz":"гүлшоқ","en":"bouquet","level":4,"transcription":null}
 {"kz":"дәке","en":"gauze","level":4,"transcription":null}
 {"kz":"дің","en":"trunk","level":3,"transcription":null}
 {"kz":"емен","en":"oak","level":3,"transcription":null}
@@ -1730,7 +1730,7 @@
 {"kz":"қыжым","en":"plush","level":5,"transcription":null}
 {"kz":"қызғалдақ, жауқазын","en":"tulip","level":4,"transcription":null}
 {"kz":"қымыздық","en":"sorrel","level":5,"transcription":null}
-{"kz":"қышқыл","en":"sour","level":3,"transcription":null}
+{"kz":"қышқыл","en":"acid","level":3,"transcription":null}
 {"kz":"лавсан","en":"lavsan (polyester)","level":5,"transcription":null}
 {"kz":"лалагүл","en":"lily","level":4,"transcription":null}
 {"kz":"майлы заттар","en":"oily substances","level":5,"transcription":null}
@@ -1747,7 +1747,7 @@
 {"kz":"өртелген кірпіш","en":"baked brick","level":5,"transcription":null}
 {"kz":"өсімдік","en":"plant","level":2,"transcription":null}
 {"kz":"пластмасса","en":"plastic","level":4,"transcription":null}
-{"kz":"помази","en":"bombazine (fabric)","level":6,"transcription":null}
+{"kz":"помази","en":"oil","level":6,"transcription":null}
 {"kz":"раушан гүлі","en":"rose","level":3,"transcription":null}
 {"kz":"сабақ","en":"stem, stalk","level":3,"transcription":null}
 {"kz":"саз, балшық","en":"clay","level":3,"transcription":null}
@@ -1809,7 +1809,7 @@
 {"kz":"жүлде","en":"prize, award","level":3,"transcription":null}
 {"kz":"жүн иіру","en":"wool spinning","level":5,"transcription":null}
 {"kz":"жібек иіру","en":"silk spinning","level":5,"transcription":null}
-{"kz":"иіру","en":"spinning, handicraft","level":4,"transcription":null}
+{"kz":"иіру","en":"spinning","level":4,"transcription":null}
 {"kz":"келісуші","en":"negotiator","level":5,"transcription":null}
 {"kz":"кеме жасау","en":"shipbuilding","level":5,"transcription":null}
 {"kz":"көлем","en":"volume","level":3,"transcription":null}
@@ -1835,7 +1835,7 @@
 {"kz":"орманшаруашылығы","en":"forestry","level":5,"transcription":null}
 {"kz":"орындалу мерзімі","en":"deadline for execution","level":4,"transcription":null}
 {"kz":"отандық өндіруші","en":"domestic producer","level":5,"transcription":null}
-{"kz":"өндіруші","en":"manufacturer, producer","level":4,"transcription":null}
+{"kz":"өндіруші","en":"producer","level":4,"transcription":null}
 {"kz":"өндіріс","en":"production","level":3,"transcription":null}
 {"kz":"өнертабыс","en":"invention","level":5,"transcription":null}
 {"kz":"өнім","en":"product","level":3,"transcription":null}
@@ -1921,13 +1921,13 @@
 {"kz":"қолма-қол ақша","en":"cash","level":4,"transcription":null}
 {"kz":"қор, жинақ, қорлану","en":"accumulation","level":4,"transcription":null}
 {"kz":"қосымша шығындар","en":"additional costs","level":5,"transcription":null}
-{"kz":"құн","en":"cost, value","level":3,"transcription":null}
+{"kz":"құн","en":"price","level":3,"transcription":null}
 {"kz":"құрылыстағы мердігер","en":"construction contractor","level":5,"transcription":null}
 {"kz":"мемлекеттік көмекқаржы","en":"state subsidy","level":5,"transcription":null}
 {"kz":"мемлекеттік қазына","en":"state treasury","level":5,"transcription":null}
 {"kz":"мердігер","en":"contractor","level":4,"transcription":null}
 {"kz":"мұнай магнаты","en":"oil magnate","level":5,"transcription":null}
-{"kz":"мұра қалдырушы","en":"testator","level":5,"transcription":null}
+{"kz":"мұра қалдырушы","en":"bequest giver","level":5,"transcription":null}
 {"kz":"мұрагер","en":"heir","level":4,"transcription":null}
 {"kz":"мүлікті сақтандыру","en":"property insurance","level":5,"transcription":null}
 {"kz":"несие","en":"credit, loan","level":3,"transcription":null}
@@ -1948,22 +1948,22 @@
 {"kz":"ұсталған шығын","en":"costs","level":5,"transcription":null}
 {"kz":"үлгі, эталон","en":"standard, model","level":5,"transcription":null}
 {"kz":"үлескер","en":"shareholder","level":5,"transcription":null}
-{"kz":"үстеме","en":"allowance, surcharge","level":4,"transcription":null}
+{"kz":"үстеме","en":"allowance","level":4,"transcription":null}
 {"kz":"үстеме баға","en":"markup","level":5,"transcription":null}
 {"kz":"шегеру","en":"deduction","level":5,"transcription":null}
-{"kz":"шек, шекара","en":"limit, border","level":3,"transcription":null}
+{"kz":"шек, шекара","en":"border","level":3,"transcription":null}
 {"kz":"шеттен әкелу, импорт","en":"import","level":4,"transcription":null}
 {"kz":"шығын","en":"expense","level":3,"transcription":null}
 {"kz":"іріктеу негізі","en":"sampling basis","level":6,"transcription":null}
-{"kz":"айлық, жалақы","en":"salary, wages","level":3,"transcription":null}
-{"kz":"айыппұл","en":"fine, penalty","level":4,"transcription":null}
+{"kz":"айлық, жалақы","en":"salary","level":3,"transcription":null}
+{"kz":"айыппұл","en":"fine","level":4,"transcription":null}
 {"kz":"ақша аудару","en":"money transfer","level":4,"transcription":null}
 {"kz":"ақысыз еңбек демалысы","en":"unpaid leave","level":5,"transcription":null}
 {"kz":"алғыс хат","en":"thank-you letter","level":4,"transcription":null}
-{"kz":"анықтама","en":"certificate, reference","level":3,"transcription":null}
+{"kz":"анықтама","en":"certificate","level":3,"transcription":null}
 {"kz":"арыз","en":"complaint","level":4,"transcription":null}
 {"kz":"атқара алмау","en":"failure to perform","level":4,"transcription":null}
-{"kz":"әрекет","en":"attempt, action","level":3,"transcription":null}
+{"kz":"әрекет","en":"action","level":3,"transcription":null}
 {"kz":"әскери міндет","en":"military duty","level":5,"transcription":null}
 {"kz":"бала күтімі","en":"child care","level":4,"transcription":null}
 {"kz":"бас тарту","en":"refusal","level":3,"transcription":null}
@@ -1974,23 +1974,23 @@
 {"kz":"бюджеттен тыс","en":"off-budget","level":5,"transcription":null}
 {"kz":"ғылыми дәреже","en":"academic degree","level":5,"transcription":null}
 {"kz":"ғылыми еңбек","en":"scientific work","level":5,"transcription":null}
-{"kz":"дана","en":"wise","level":3,"transcription":null}
+{"kz":"дана","en":"copy","level":3,"transcription":null}
 {"kz":"дәлелді себеп","en":"valid reason","level":4,"transcription":null}
 {"kz":"еңбек дауы","en":"labor dispute","level":5,"transcription":null}
 {"kz":"еңбек келісімі","en":"labor agreement","level":5,"transcription":null}
 {"kz":"еңбек кітапшасы","en":"work record book","level":5,"transcription":null}
 {"kz":"еңбек қауіпсіздігі","en":"labor safety","level":5,"transcription":null}
 {"kz":"еңбек тәртібі","en":"labor discipline","level":5,"transcription":null}
-{"kz":"еңбекақы","en":"salary, wages","level":4,"transcription":null}
-{"kz":"ереже","en":"rule, regulation","level":3,"transcription":null}
+{"kz":"еңбекақы","en":"salary","level":4,"transcription":null}
+{"kz":"ереже","en":"rule","level":3,"transcription":null}
 {"kz":"ерекше жағдай","en":"special case","level":4,"transcription":null}
 {"kz":"еркін форма","en":"free form","level":4,"transcription":null}
 {"kz":"есепшот","en":"account","level":4,"transcription":null}
-{"kz":"ескерту","en":"remark, comment","level":3,"transcription":null}
+{"kz":"ескерту","en":"remark","level":3,"transcription":null}
 {"kz":"жазбаша түрде","en":"in writing","level":4,"transcription":null}
-{"kz":"жалдау","en":"to hire","level":3,"transcription":null}
+{"kz":"жалдау","en":"rental","level":3,"transcription":null}
 {"kz":"жарғы","en":"decree","level":4,"transcription":null}
-{"kz":"жарияланған күн","en":"date of publication","level":4,"transcription":null}
+{"kz":"жарияланған күн","en":"publication date","level":4,"transcription":null}
 {"kz":"жауапкершілігі шектеулі","en":"limited liability","level":5,"transcription":null}
 {"kz":"жеке еңбек шарты","en":"employment contract","level":5,"transcription":null}
 {"kz":"жеке куәлік","en":"identity card","level":4,"transcription":null}
@@ -1999,30 +1999,30 @@
 {"kz":"жоғары білім","en":"higher education","level":3,"transcription":null}
 {"kz":"жоспар","en":"plan","level":2,"transcription":null}
 {"kz":"жұмыс беруші","en":"employer","level":4,"transcription":null}
-{"kz":"жүгіну","en":"appeal, application","level":4,"transcription":null}
+{"kz":"жүгіну","en":"appeal","level":4,"transcription":null}
 {"kz":"заңды күші бар","en":"has legal force","level":5,"transcription":null}
 {"kz":"заңды тұлға","en":"legal entity","level":5,"transcription":null}
 {"kz":"иегер, ие","en":"owner","level":3,"transcription":null}
 {"kz":"кадрлық қызмет","en":"personnel service","level":5,"transcription":null}
 {"kz":"кәсіпкерлік","en":"entrepreneurship","level":5,"transcription":null}
 {"kz":"кезектен тыс демалыс","en":"extraordinary leave","level":5,"transcription":null}
-{"kz":"кезінде","en":"during, at the time of","level":2,"transcription":null}
+{"kz":"кезінде","en":"at the time of","level":2,"transcription":null}
 {"kz":"келісім","en":"agreement","level":3,"transcription":null}
 {"kz":"келісімшарт","en":"contract","level":4,"transcription":null}
 {"kz":"қаржылық құжат","en":"financial document","level":5,"transcription":null}
 {"kz":"қатысушы","en":"participant","level":3,"transcription":null}
-{"kz":"қаулы","en":"resolution, decision","level":4,"transcription":null}
+{"kz":"қаулы","en":"resolution","level":4,"transcription":null}
 {"kz":"қолтаңба, жеке қолы","en":"signature","level":4,"transcription":null}
 {"kz":"құжат айналымы","en":"document flow","level":5,"transcription":null}
 {"kz":"қызмет түрі","en":"type of activity","level":4,"transcription":null}
 {"kz":"қызметтік міндет","en":"official duty","level":5,"transcription":null}
 {"kz":"қызметтік хат","en":"official letter","level":4,"transcription":null}
-{"kz":"лауазым","en":"position, post","level":4,"transcription":null}
+{"kz":"лауазым","en":"position","level":4,"transcription":null}
 {"kz":"лауазымдық нұсқаулық","en":"job description","level":6,"transcription":null}
 {"kz":"мағлұмат","en":"information","level":3,"transcription":null}
 {"kz":"материалдық көтермелеу","en":"material incentive","level":5,"transcription":null}
-{"kz":"мәміле","en":"deal, agreement","level":5,"transcription":null}
-{"kz":"мөр","en":"stamp, seal","level":3,"transcription":null}
+{"kz":"мәміле","en":"deal","level":5,"transcription":null}
+{"kz":"мөр","en":"stamp","level":3,"transcription":null}
 {"kz":"мүлік","en":"property","level":4,"transcription":null}
 {"kz":"мінездеме","en":"character reference","level":4,"transcription":null}
 {"kz":"нотариалды расталған","en":"notarized","level":5,"transcription":null}
@@ -2032,20 +2032,20 @@
 {"kz":"өзгеріс","en":"change","level":3,"transcription":null}
 {"kz":"өкілдік ету","en":"representation","level":5,"transcription":null}
 {"kz":"өкілетті орган","en":"authorized body","level":5,"transcription":null}
-{"kz":"өкім","en":"sentence, verdict","level":4,"transcription":null}
+{"kz":"өкім","en":"sentence","level":4,"transcription":null}
 {"kz":"растау","en":"confirmation","level":4,"transcription":null}
 {"kz":"ресми құжат","en":"official document","level":4,"transcription":null}
 {"kz":"сақталу мерзімі","en":"shelf life","level":4,"transcription":null}
-{"kz":"сенім білдіруші","en":"principal, trustor","level":5,"transcription":null}
+{"kz":"сенім білдіруші","en":"trustor","level":5,"transcription":null}
 {"kz":"сенімді өкіл","en":"trusted representative","level":4,"transcription":null}
 {"kz":"сенімхат","en":"power of attorney","level":4,"transcription":null}
-{"kz":"сипат","en":"property, characteristic","level":4,"transcription":null}
+{"kz":"сипат","en":"property","level":4,"transcription":null}
 {"kz":"сөгіс","en":"reprimand","level":4,"transcription":null}
-{"kz":"сыйақы","en":"reward, bonus","level":4,"transcription":null}
+{"kz":"сыйақы","en":"reward","level":4,"transcription":null}
 {"kz":"сынақ мерзімі","en":"probation period","level":5,"transcription":null}
-{"kz":"тармақ","en":"point, item","level":4,"transcription":null}
+{"kz":"тармақ","en":"point","level":4,"transcription":null}
 {"kz":"тәжірибе","en":"experience","level":3,"transcription":null}
-{"kz":"тексеру","en":"to check, inspect","level":2,"transcription":null}
+{"kz":"тексеру","en":"inspection","level":2,"transcription":null}
 {"kz":"тоқтату","en":"termination","level":4,"transcription":null}
 {"kz":"толық мәлімет","en":"full information","level":3,"transcription":null}
 {"kz":"төлқұжат","en":"passport","level":3,"transcription":null}
@@ -2055,8 +2055,8 @@
 {"kz":"тіркеу","en":"registration","level":3,"transcription":null}
 {"kz":"ұйым жетекшісі","en":"head of organization","level":5,"transcription":null}
 {"kz":"үй ауыстыру","en":"moving house","level":4,"transcription":null}
-{"kz":"үстемеақы","en":"bonus, allowance","level":4,"transcription":null}
-{"kz":"хаттама","en":"minutes, protocol","level":4,"transcription":null}
+{"kz":"үстемеақы","en":"allowance","level":4,"transcription":null}
+{"kz":"хаттама","en":"minutes","level":4,"transcription":null}
 {"kz":"шарт","en":"contract","level":3,"transcription":null}
 {"kz":"шартты атау","en":"conditional name","level":4,"transcription":null}
 {"kz":"шартты бұзу","en":"termination of contract","level":5,"transcription":null}
@@ -2068,7 +2068,7 @@
 {"kz":"Айып етпеңіз.","en":"Sorry.","level":2,"transcription":null}
 {"kz":"Ал сіздің тегіңіз?","en":"And what is your surname?","level":2,"transcription":null}
 {"kz":"Алаңдама, түк те емес.","en":"Don't worry, it's nothing.","level":2,"transcription":null}
-{"kz":"Алаңдамай-ақ қойсын.","en":"Let him\/her not worry.","level":2,"transcription":null}
+{"kz":"Алаңдамай-ақ қойсын.","en":"Let him not worry.","level":2,"transcription":null}
 {"kz":"Алғысымды білдіремін.","en":"Thank you.","level":2,"transcription":null}
 {"kz":"Алыңыз, алыңыз.","en":"Take it, take it.","level":1,"transcription":null}
 {"kz":"Әрине, көмектесе аламын.","en":"Of course, I can help.","level":2,"transcription":null}
@@ -2093,7 +2093,7 @@
 {"kz":"біріншіден","en":"firstly","level":2,"transcription":null}
 {"kz":"дегенмен","en":"nevertheless, however","level":3,"transcription":null}
 {"kz":"екіншіден","en":"secondly","level":2,"transcription":null}
-{"kz":"Ештеңе етпейді.","en":"It's nothing. \/ Not at all.","level":2,"transcription":null}
+{"kz":"Ештеңе етпейді.","en":"It's nothing.","level":2,"transcription":null}
 {"kz":"Жақсы, хабарласамын.","en":"Okay, I will contact you.","level":2,"transcription":null}
 {"kz":"жалпы айтқанда","en":"in general","level":3,"transcription":null}
 {"kz":"Жаман емес.","en":"Not bad.","level":2,"transcription":null}
@@ -2128,7 +2128,7 @@
 {"kz":"қысқасын айтқанда","en":"in short","level":3,"transcription":null}
 {"kz":"Маған журнал беріңізші.","en":"Give me the magazine, please.","level":2,"transcription":null}
 {"kz":"Маған ренжімеңіз.","en":"Don't be offended by me.","level":3,"transcription":null}
-{"kz":"Мазалағаныма кешірім өтінемін.","en":"Sorry for the bother.","level":3,"transcription":null}
+{"kz":"Мазалағаныма кешірім өтінемін.","en":"I apologize for the trouble.","level":3,"transcription":null}
 {"kz":"мақұл, жарайды","en":"okay, alright","level":2,"transcription":null}
 {"kz":"Мен бәрін реттеп қоямын.","en":"I will do everything.","level":2,"transcription":null}
 {"kz":"Мен сізге өте ризамын.","en":"I am very grateful to you.","level":2,"transcription":null}
@@ -2139,7 +2139,7 @@
 {"kz":"Менің сізбен танысқым келеді.","en":"I want to get to know you.","level":2,"transcription":null}
 {"kz":"Менің сізге бір өтінішім бар.","en":"I have a request for you.","level":3,"transcription":null}
 {"kz":"Менің сізді ренжіткім келген жоқ.","en":"I didn't mean to offend you.","level":3,"transcription":null}
-{"kz":"назарларыңызға ұсынамыз","en":"we present to your attention","level":3,"transcription":null}
+{"kz":"назарларыңызға ұсынамыз","en":"we present our attention to you","level":3,"transcription":null}
 {"kz":"Не жаңалық бар?","en":"What's new?","level":2,"transcription":null}
 {"kz":"Өзімді таныстырайын.","en":"Allow me to introduce myself.","level":2,"transcription":null}
 {"kz":"өйткені","en":"because","level":3,"transcription":null}
@@ -2161,7 +2161,7 @@
 {"kz":"таныс болайық","en":"let's get acquainted","level":2,"transcription":null}
 {"kz":"Танысуға рұқсат етіңізші.","en":"Allow me to get acquainted with you.","level":2,"transcription":null}
 {"kz":"Телефон шалуға рұқсат етіңізші.","en":"Allow me to call.","level":3,"transcription":null}
-{"kz":"Түк те емес.","en":"It's nothing. \/ No problem.","level":2,"transcription":null}
+{"kz":"Түк те емес.","en":"It's nothing. No problem.","level":2,"transcription":null}
 {"kz":"Уақытым болмай тұр.","en":"I don't have time.","level":2,"transcription":null}
 {"kz":"Ұмытпаңыздар!","en":"Don't forget!","level":2,"transcription":null}
 {"kz":"Үйде бәрі жақсы ма?","en":"Is everything okay at home?","level":2,"transcription":null}
@@ -2175,7 +2175,7 @@
 {"kz":"алайда","en":"but, however","level":2,"transcription":null}
 {"kz":"алдын ала","en":"in advance, beforehand","level":3,"transcription":null}
 {"kz":"алдында","en":"ahead, in front","level":2,"transcription":null}
-{"kz":"алыс","en":"distant","level":2,"transcription":null}
+{"kz":"алыс","en":"far","level":2,"transcription":null}
 {"kz":"анағұрлым","en":"much, considerably","level":4,"transcription":null}
 {"kz":"анау, ана","en":"that","level":2,"transcription":null}
 {"kz":"артында","en":"behind","level":2,"transcription":null}
@@ -2185,7 +2185,7 @@
 {"kz":"бар","en":"there is","level":1,"transcription":null}
 {"kz":"барынша","en":"maximally","level":4,"transcription":null}
 {"kz":"басқаша","en":"otherwise, differently","level":2,"transcription":null}
-{"kz":"бәрекелді!","en":"bravo! great!","level":3,"transcription":null}
+{"kz":"бәрекелді!","en":"bravo!","level":3,"transcription":null}
 {"kz":"бұл, осы, мынау, мына","en":"this, these","level":1,"transcription":null}
 {"kz":"біздіңше","en":"in our opinion","level":2,"transcription":null}
 {"kz":"бір, біреу","en":"someone","level":2,"transcription":null}
@@ -2206,7 +2206,7 @@
 {"kz":"ешбір кем емес","en":"no less","level":4,"transcription":null}
 {"kz":"ешкім","en":"nobody","level":2,"transcription":null}
 {"kz":"жазбаша","en":"in writing","level":3,"transcription":null}
-{"kz":"жақсы","en":"good","level":1,"transcription":null}
+{"kz":"жақсы","en":"well, good","level":1,"transcription":null}
 {"kz":"жақын","en":"close, near","level":2,"transcription":null}
 {"kz":"жаман","en":"bad, poorly","level":1,"transcription":null}
 {"kz":"жанында","en":"next to, near","level":2,"transcription":null}
@@ -2230,7 +2230,7 @@
 {"kz":"мезгілінен бұрын","en":"prematurely","level":4,"transcription":null}
 {"kz":"меніңше","en":"in my opinion","level":2,"transcription":null}
 {"kz":"мол, көп","en":"much, many","level":2,"transcription":null}
-{"kz":"мұқият","en":"accurate, thorough","level":3,"transcription":null}
+{"kz":"мұқият","en":"thoroughly","level":3,"transcription":null}
 {"kz":"мүлде","en":"completely, absolutely","level":3,"transcription":null}
 {"kz":"мүмкін","en":"maybe, possibly","level":2,"transcription":null}
 {"kz":"мүмкін емес","en":"cannot be","level":3,"transcription":null}
@@ -2245,7 +2245,7 @@
 {"kz":"салқын","en":"cool, chilly","level":2,"transcription":null}
 {"kz":"себебі, өйткені","en":"because","level":2,"transcription":null}
 {"kz":"сенуі қиын","en":"hard to believe","level":3,"transcription":null}
-{"kz":"сияқты, секілді","en":"like, such as","level":2,"transcription":null}
+{"kz":"сияқты, секілді","en":"like","level":2,"transcription":null}
 {"kz":"сол жақ","en":"left side","level":2,"transcription":null}
 {"kz":"сондай-ақ","en":"as well as","level":2,"transcription":null}
 {"kz":"сондықтан, сол себепті","en":"therefore","level":2,"transcription":null}
@@ -2275,66 +2275,66 @@
 {"kz":"дәлелдеу","en":"to prove","level":4,"transcription":null}
 {"kz":"дәрігерді шақыру","en":"to call a doctor","level":3,"transcription":null}
 {"kz":"достасу","en":"to make friends","level":3,"transcription":null}
-{"kz":"еліктеу","en":"to imitate","level":4,"transcription":null}
-{"kz":"еңбектену","en":"to work, labor","level":3,"transcription":null}
-{"kz":"жамылу","en":"to cover oneself","level":4,"transcription":null}
-{"kz":"жарысу","en":"to compete","level":3,"transcription":null}
-{"kz":"жату","en":"to lie down","level":2,"transcription":null}
-{"kz":"жинақтау","en":"to collect, accumulate","level":3,"transcription":null}
-{"kz":"жиналу","en":"to gather, prepare","level":2,"transcription":null}
-{"kz":"жуыну","en":"to wash oneself","level":2,"transcription":null}
-{"kz":"жіберу","en":"to send","level":2,"transcription":null}
-{"kz":"зейнетақы тағайындау","en":"to assign a pension","level":5,"transcription":null}
-{"kz":"игеру","en":"to master, acquire","level":4,"transcription":null}
-{"kz":"кездестіру","en":"to arrange a meeting","level":3,"transcription":null}
-{"kz":"кездесу","en":"to meet","level":2,"transcription":null}
-{"kz":"келісу","en":"to agree","level":4,"transcription":null}
-{"kz":"кемшілігін кешіру","en":"to forgive shortcomings","level":5,"transcription":null}
-{"kz":"кию","en":"to put on","level":2,"transcription":null}
-{"kz":"көңілде кірбің қалу","en":"to leave a residue in the soul","level":5,"transcription":null}
-{"kz":"көрсету","en":"to show","level":2,"transcription":null}
-{"kz":"көшу","en":"to move","level":3,"transcription":null}
-{"kz":"күресу","en":"to fight, struggle","level":3,"transcription":null}
-{"kz":"күш-қуат жұмсау","en":"to spend energy","level":4,"transcription":null}
-{"kz":"кіру","en":"to enter","level":1,"transcription":null}
-{"kz":"қадірін білу","en":"to know the value of","level":4,"transcription":null}
-{"kz":"қайнату","en":"to boil","level":3,"transcription":null}
-{"kz":"қайталау","en":"to repeat","level":2,"transcription":null}
-{"kz":"қайтыс болу","en":"to die","level":3,"transcription":null}
-{"kz":"қал-жағдай сұрау","en":"to ask about affairs","level":4,"transcription":null}
-{"kz":"қолдану","en":"to use","level":2,"transcription":null}
-{"kz":"қоштасу","en":"to say goodbye","level":2,"transcription":null}
-{"kz":"қою","en":"to put, place","level":1,"transcription":null}
-{"kz":"қуанышын білдіру","en":"to express joy","level":4,"transcription":null}
+{"kz":"еліктеу","en":"imitate","level":4,"transcription":null}
+{"kz":"еңбектену","en":"labor","level":3,"transcription":null}
+{"kz":"жамылу","en":"cover oneself","level":4,"transcription":null}
+{"kz":"жарысу","en":"compete","level":3,"transcription":null}
+{"kz":"жату","en":"lie down","level":2,"transcription":null}
+{"kz":"жинақтау","en":"accumulate","level":3,"transcription":null}
+{"kz":"жиналу","en":"gather","level":2,"transcription":null}
+{"kz":"жуыну","en":"wash oneself","level":2,"transcription":null}
+{"kz":"жіберу","en":"send","level":2,"transcription":null}
+{"kz":"зейнетақы тағайындау","en":"assign a pension","level":5,"transcription":null}
+{"kz":"игеру","en":"master","level":4,"transcription":null}
+{"kz":"кездестіру","en":"arrange a meeting","level":3,"transcription":null}
+{"kz":"кездесу","en":"meet","level":2,"transcription":null}
+{"kz":"келісу","en":"agree","level":4,"transcription":null}
+{"kz":"кемшілігін кешіру","en":"forgive shortcomings","level":5,"transcription":null}
+{"kz":"кию","en":"put on","level":2,"transcription":null}
+{"kz":"көңілде кірбің қалу","en":"leave a residue in the soul","level":5,"transcription":null}
+{"kz":"көрсету","en":"show","level":2,"transcription":null}
+{"kz":"көшу","en":"move","level":3,"transcription":null}
+{"kz":"күресу","en":"fight, struggle","level":3,"transcription":null}
+{"kz":"күш-қуат жұмсау","en":"spend energy","level":4,"transcription":null}
+{"kz":"кіру","en":"enter","level":1,"transcription":null}
+{"kz":"қадірін білу","en":"know the value of","level":4,"transcription":null}
+{"kz":"қайнату","en":"boil","level":3,"transcription":null}
+{"kz":"қайталау","en":"repeat","level":2,"transcription":null}
+{"kz":"қайтыс болу","en":"die","level":3,"transcription":null}
+{"kz":"қал-жағдай сұрау","en":"ask about affairs","level":4,"transcription":null}
+{"kz":"қолдану","en":"use","level":2,"transcription":null}
+{"kz":"қоштасу","en":"say goodbye","level":2,"transcription":null}
+{"kz":"қою","en":"put, place","level":1,"transcription":null}
+{"kz":"қуанышын білдіру","en":"express joy","level":4,"transcription":null}
 {"kz":"қуыру","en":"to fry","level":3,"transcription":null}
 {"kz":"қызықтыру","en":"to interest","level":4,"transcription":null}
 {"kz":"мақтан ету","en":"to be proud","level":3,"transcription":null}
-{"kz":"микрофонды өшіру","en":"to turn off the microphone","level":4,"transcription":null}
-{"kz":"негізін қалау","en":"to lay the foundation","level":5,"transcription":null}
-{"kz":"ойлау","en":"to think","level":1,"transcription":null}
-{"kz":"ойнау","en":"to play","level":1,"transcription":null}
-{"kz":"оқу","en":"to study, read","level":1,"transcription":null}
-{"kz":"оқыту, үйрету","en":"to teach","level":3,"transcription":null}
-{"kz":"отыру","en":"to sit down","level":1,"transcription":null}
-{"kz":"ояну","en":"to wake up","level":2,"transcription":null}
-{"kz":"өзгеру","en":"to change","level":3,"transcription":null}
-{"kz":"өту","en":"to pass through","level":2,"transcription":null}
-{"kz":"өтініш айту","en":"to express a request","level":4,"transcription":null}
-{"kz":"өшіру","en":"to erase, turn off","level":2,"transcription":null}
-{"kz":"пісіру","en":"to cook, boil","level":2,"transcription":null}
-{"kz":"салу","en":"to put, place","level":2,"transcription":null}
-{"kz":"санау","en":"to count, think","level":2,"transcription":null}
-{"kz":"сапарға шығу","en":"to go on a trip","level":3,"transcription":null}
-{"kz":"сендіру","en":"to convince","level":3,"transcription":null}
-{"kz":"сөзін ұмытып қалу","en":"to forget words","level":4,"transcription":null}
-{"kz":"спортпен айналысу","en":"to do sports","level":3,"transcription":null}
-{"kz":"суық тию","en":"to catch a cold","level":3,"transcription":null}
-{"kz":"сұраққа жауап беру","en":"to answer questions","level":3,"transcription":null}
-{"kz":"сұрау","en":"to ask","level":1,"transcription":null}
-{"kz":"сүрту","en":"to wipe","level":2,"transcription":null}
-{"kz":"сызу","en":"to draw","level":3,"transcription":null}
-{"kz":"сыйлау","en":"to respect","level":3,"transcription":null}
-{"kz":"табысқа жету","en":"to achieve success","level":4,"transcription":null}
+{"kz":"микрофонды өшіру","en":"turn off the microphone","level":4,"transcription":null}
+{"kz":"негізін қалау","en":"lay the foundation","level":5,"transcription":null}
+{"kz":"ойлау","en":"think","level":1,"transcription":null}
+{"kz":"ойнау","en":"play","level":1,"transcription":null}
+{"kz":"оқу","en":"study, read","level":1,"transcription":null}
+{"kz":"оқыту, үйрету","en":"teach","level":3,"transcription":null}
+{"kz":"отыру","en":"sit down","level":1,"transcription":null}
+{"kz":"ояну","en":"wake up","level":2,"transcription":null}
+{"kz":"өзгеру","en":"change","level":3,"transcription":null}
+{"kz":"өту","en":"pass through","level":2,"transcription":null}
+{"kz":"өтініш айту","en":"express a request","level":4,"transcription":null}
+{"kz":"өшіру","en":"turn off","level":2,"transcription":null}
+{"kz":"пісіру","en":"cook, boil","level":2,"transcription":null}
+{"kz":"салу","en":"put, place","level":2,"transcription":null}
+{"kz":"санау","en":"count, think","level":2,"transcription":null}
+{"kz":"сапарға шығу","en":"go on a trip","level":3,"transcription":null}
+{"kz":"сендіру","en":"convince","level":3,"transcription":null}
+{"kz":"сөзін ұмытып қалу","en":"forget words","level":4,"transcription":null}
+{"kz":"спортпен айналысу","en":"do sports","level":3,"transcription":null}
+{"kz":"суық тию","en":"catch a cold","level":3,"transcription":null}
+{"kz":"сұраққа жауап беру","en":"answer questions","level":3,"transcription":null}
+{"kz":"сұрау","en":"ask","level":1,"transcription":null}
+{"kz":"сүрту","en":"wipe","level":2,"transcription":null}
+{"kz":"сызу","en":"draw","level":3,"transcription":null}
+{"kz":"сыйлау","en":"respect","level":3,"transcription":null}
+{"kz":"табысқа жету","en":"achieve success","level":4,"transcription":null}
 {"kz":"тазалау","en":"to clean","level":2,"transcription":null}
 {"kz":"таңдау","en":"to choose","level":2,"transcription":null}
 {"kz":"тарату","en":"to distribute, spread","level":3,"transcription":null}
@@ -2365,36 +2365,36 @@
 {"kz":"ішу","en":"to drink","level":1,"transcription":null}
 {"kz":"эфирге шығу","en":"to go on air","level":4,"transcription":null}
 {"kz":"ағаш отырғызу","en":"to plant trees","level":3,"transcription":null}
-{"kz":"айналысу","en":"to engage in, be fond of","level":3,"transcription":null}
-{"kz":"алу","en":"to subtract, take","level":3,"transcription":null}
-{"kz":"аудару","en":"to translate","level":3,"transcription":null}
-{"kz":"ауыру","en":"to be ill","level":2,"transcription":null}
-{"kz":"ашу","en":"to open","level":1,"transcription":null}
-{"kz":"аялау","en":"to cherish, take care of","level":3,"transcription":null}
-{"kz":"әлемге таныту","en":"to present to the world","level":4,"transcription":null}
-{"kz":"ән айту","en":"to sing","level":1,"transcription":null}
-{"kz":"әуестену","en":"to be keen on","level":3,"transcription":null}
-{"kz":"бағындыру","en":"to subjugate","level":4,"transcription":null}
-{"kz":"байқау","en":"to notice, observe","level":3,"transcription":null}
-{"kz":"басымдық беру","en":"to give priority","level":4,"transcription":null}
-{"kz":"беру","en":"to give","level":1,"transcription":null}
-{"kz":"бояну","en":"to paint oneself","level":3,"transcription":null}
-{"kz":"бояу","en":"to paint, dye","level":2,"transcription":null}
-{"kz":"бөлісу","en":"to share","level":3,"transcription":null}
-{"kz":"бұйрық шығару","en":"to issue an order","level":5,"transcription":null}
-{"kz":"білу","en":"to know","level":1,"transcription":null}
-{"kz":"даму","en":"to develop","level":3,"transcription":null}
-{"kz":"дүкен аралау","en":"to go shopping","level":3,"transcription":null}
-{"kz":"емдеу","en":"to treat, heal","level":3,"transcription":null}
-{"kz":"есту","en":"to hear","level":1,"transcription":null}
-{"kz":"жабу","en":"to close","level":1,"transcription":null}
-{"kz":"жазу","en":"to write","level":1,"transcription":null}
-{"kz":"жақсарту","en":"to improve","level":3,"transcription":null}
-{"kz":"жақсы көру","en":"to love","level":1,"transcription":null}
-{"kz":"жалықтыру","en":"to bore, tire","level":4,"transcription":null}
-{"kz":"жариялау","en":"to publish","level":4,"transcription":null}
-{"kz":"жасау","en":"to do, make","level":2,"transcription":null}
-{"kz":"жауап беру","en":"to answer","level":2,"transcription":null}
+{"kz":"айналысу","en":"engage in","level":3,"transcription":null}
+{"kz":"алу","en":"take","level":3,"transcription":null}
+{"kz":"аудару","en":"translate","level":3,"transcription":null}
+{"kz":"ауыру","en":"be ill","level":2,"transcription":null}
+{"kz":"ашу","en":"open","level":1,"transcription":null}
+{"kz":"аялау","en":"cherish, take care of","level":3,"transcription":null}
+{"kz":"әлемге таныту","en":"present to the world","level":4,"transcription":null}
+{"kz":"ән айту","en":"sing","level":1,"transcription":null}
+{"kz":"әуестену","en":"be ill","level":3,"transcription":null}
+{"kz":"бағындыру","en":"subjugate","level":4,"transcription":null}
+{"kz":"байқау","en":"notice, observe","level":3,"transcription":null}
+{"kz":"басымдық беру","en":"give priority","level":4,"transcription":null}
+{"kz":"беру","en":"give","level":1,"transcription":null}
+{"kz":"бояну","en":"paint oneself","level":3,"transcription":null}
+{"kz":"бояу","en":"paint, dye","level":2,"transcription":null}
+{"kz":"бөлісу","en":"share","level":3,"transcription":null}
+{"kz":"бұйрық шығару","en":"issue an order","level":5,"transcription":null}
+{"kz":"білу","en":"know","level":1,"transcription":null}
+{"kz":"даму","en":"develop","level":3,"transcription":null}
+{"kz":"дүкен аралау","en":"go shopping","level":3,"transcription":null}
+{"kz":"емдеу","en":"treat, heal","level":3,"transcription":null}
+{"kz":"есту","en":"hear","level":1,"transcription":null}
+{"kz":"жабу","en":"close","level":1,"transcription":null}
+{"kz":"жазу","en":"write","level":1,"transcription":null}
+{"kz":"жақсарту","en":"improve","level":3,"transcription":null}
+{"kz":"жақсы көру","en":"love","level":1,"transcription":null}
+{"kz":"жалықтыру","en":"bore, tire","level":4,"transcription":null}
+{"kz":"жариялау","en":"publish","level":4,"transcription":null}
+{"kz":"жасау","en":"do, make","level":2,"transcription":null}
+{"kz":"жауап беру","en":"answer","level":2,"transcription":null}
 {"kz":"жаяу қыдыру","en":"to walk on foot","level":3,"transcription":null}
 {"kz":"жеу","en":"to eat","level":1,"transcription":null}
 {"kz":"жинау","en":"to clean up","level":2,"transcription":null}
@@ -2434,7 +2434,7 @@
 {"kz":"өнер көрсету","en":"to perform","level":4,"transcription":null}
 {"kz":"өткізу","en":"to conduct, hold","level":2,"transcription":null}
 {"kz":"пайдалану","en":"to use, apply","level":3,"transcription":null}
-{"kz":"сараптау","en":"to conduct expertise","level":5,"transcription":null}
+{"kz":"сараптау","en":"to examine","level":5,"transcription":null}
 {"kz":"сәнді киіну","en":"to dress fashionably","level":3,"transcription":null}
 {"kz":"сәті түсу","en":"to be successful","level":4,"transcription":null}
 {"kz":"секіру","en":"to jump","level":2,"transcription":null}
@@ -2455,42 +2455,42 @@
 {"kz":"ұзарту","en":"to prolong, extend","level":4,"transcription":null}
 {"kz":"ұйымдастыру","en":"to organize","level":4,"transcription":null}
 {"kz":"ұнау","en":"to like","level":2,"transcription":null}
-{"kz":"ұсыну","en":"to offer, suggest","level":3,"transcription":null}
-{"kz":"ұшырау","en":"to be exposed to","level":4,"transcription":null}
-{"kz":"ұятқа қалдыру","en":"to disgrace, let down","level":5,"transcription":null}
-{"kz":"үлес қосу","en":"to contribute","level":4,"transcription":null}
-{"kz":"үнемдеу","en":"to save, economize","level":3,"transcription":null}
-{"kz":"хабар алу","en":"to receive news","level":3,"transcription":null}
-{"kz":"шақыру","en":"to invite","level":2,"transcription":null}
-{"kz":"шығарып салу","en":"to see off","level":3,"transcription":null}
-{"kz":"шіру","en":"to rot","level":4,"transcription":null}
-{"kz":"айырбастау","en":"to exchange","level":4,"transcription":null}
-{"kz":"алаңдату","en":"to disturb, distract","level":3,"transcription":null}
-{"kz":"алаңдаушылық білдіру","en":"to express concern","level":5,"transcription":null}
-{"kz":"артық көру","en":"to consider superfluous\/better","level":4,"transcription":null}
-{"kz":"арылу","en":"to get rid of, cleanse","level":4,"transcription":null}
-{"kz":"атану","en":"to be called","level":3,"transcription":null}
-{"kz":"әлемді дүр сілкіндіру","en":"to shock the world","level":5,"transcription":null}
-{"kz":"баяу жүру","en":"to walk slowly","level":3,"transcription":null}
-{"kz":"бекіту","en":"to approve, establish","level":4,"transcription":null}
-{"kz":"билет алу","en":"to buy a ticket","level":3,"transcription":null}
-{"kz":"босатылу","en":"to be dismissed","level":4,"transcription":null}
-{"kz":"бұзу, қирату","en":"to break, spoil","level":3,"transcription":null}
-{"kz":"домбыра тарту","en":"to play the dombra","level":4,"transcription":null}
-{"kz":"жадында ұстау","en":"to remember, keep in memory","level":4,"transcription":null}
-{"kz":"жалғасын табу","en":"to find continuation","level":4,"transcription":null}
-{"kz":"жапсыру","en":"to glue, stick","level":3,"transcription":null}
-{"kz":"жарасу","en":"to suit, match","level":4,"transcription":null}
-{"kz":"жарнамалау","en":"to advertise","level":4,"transcription":null}
-{"kz":"жасалу","en":"to be made, produced","level":3,"transcription":null}
-{"kz":"жету","en":"to reach, arrive","level":2,"transcription":null}
-{"kz":"жоғалту","en":"to lose","level":3,"transcription":null}
+{"kz":"ұсыну","en":"offer","level":3,"transcription":null}
+{"kz":"ұшырау","en":"expose","level":4,"transcription":null}
+{"kz":"ұятқа қалдыру","en":"disgrace","level":5,"transcription":null}
+{"kz":"үлес қосу","en":"contribute","level":4,"transcription":null}
+{"kz":"үнемдеу","en":"save","level":3,"transcription":null}
+{"kz":"хабар алу","en":"receive news","level":3,"transcription":null}
+{"kz":"шақыру","en":"invite","level":2,"transcription":null}
+{"kz":"шығарып салу","en":"see off","level":3,"transcription":null}
+{"kz":"шіру","en":"rot","level":4,"transcription":null}
+{"kz":"айырбастау","en":"exchange","level":4,"transcription":null}
+{"kz":"алаңдату","en":"disturb","level":3,"transcription":null}
+{"kz":"алаңдаушылық білдіру","en":"express concern","level":5,"transcription":null}
+{"kz":"артық көру","en":"consider superfluous","level":4,"transcription":null}
+{"kz":"арылу","en":"get rid of","level":4,"transcription":null}
+{"kz":"атану","en":"be called","level":3,"transcription":null}
+{"kz":"әлемді дүр сілкіндіру","en":"shock the world","level":5,"transcription":null}
+{"kz":"баяу жүру","en":"walk slowly","level":3,"transcription":null}
+{"kz":"бекіту","en":"approve","level":4,"transcription":null}
+{"kz":"билет алу","en":"buy a ticket","level":3,"transcription":null}
+{"kz":"босатылу","en":"be dismissed","level":4,"transcription":null}
+{"kz":"бұзу, қирату","en":"break, spoil","level":3,"transcription":null}
+{"kz":"домбыра тарту","en":"play the dombra","level":4,"transcription":null}
+{"kz":"жадында ұстау","en":"keep in memory","level":4,"transcription":null}
+{"kz":"жалғасын табу","en":"find continuation","level":4,"transcription":null}
+{"kz":"жапсыру","en":"glue, stick","level":3,"transcription":null}
+{"kz":"жарасу","en":"suit, match","level":4,"transcription":null}
+{"kz":"жарнамалау","en":"advertise","level":4,"transcription":null}
+{"kz":"жасалу","en":"be made, produced","level":3,"transcription":null}
+{"kz":"жету","en":"reach, arrive","level":2,"transcription":null}
+{"kz":"жоғалту","en":"lose","level":3,"transcription":null}
 {"kz":"жолға шығу","en":"to set off","level":3,"transcription":null}
 {"kz":"жолықтыру","en":"to meet, encounter","level":3,"transcription":null}
 {"kz":"жою","en":"to cancel, destroy","level":4,"transcription":null}
 {"kz":"жөнелту","en":"to send","level":3,"transcription":null}
 {"kz":"жұмысқа кірісу","en":"to start work","level":4,"transcription":null}
-{"kz":"жүктеу","en":"to download, upload","level":3,"transcription":null}
+{"kz":"жүктеу","en":"to download","level":3,"transcription":null}
 {"kz":"жылдам жүру","en":"to walk fast","level":2,"transcription":null}
 {"kz":"келу","en":"to come","level":1,"transcription":null}
 {"kz":"кептіру","en":"to dry","level":3,"transcription":null}
@@ -2518,7 +2518,7 @@
 {"kz":"құжатты куәландыру","en":"to certify a document","level":5,"transcription":null}
 {"kz":"құрастыру","en":"to compose","level":4,"transcription":null}
 {"kz":"қызмет істеу","en":"to work","level":3,"transcription":null}
-{"kz":"мазаны алу","en":"to disturb, annoy","level":4,"transcription":null}
+{"kz":"мазаны алу","en":"to take a loan","level":4,"transcription":null}
 {"kz":"мәселені шешу","en":"to solve a problem","level":4,"transcription":null}
 {"kz":"мектеп бітіру","en":"to finish school","level":3,"transcription":null}
 {"kz":"мұражайға бару","en":"to go to a museum","level":3,"transcription":null}
@@ -2552,7 +2552,7 @@
 {"kz":"тұрғызу","en":"to erect, place","level":4,"transcription":null}
 {"kz":"түзету","en":"to correct, adjust","level":3,"transcription":null}
 {"kz":"тырысу","en":"to try, strive","level":3,"transcription":null}
-{"kz":"тіл үйіру","en":"to be tasty","level":4,"transcription":null}
+{"kz":"тіл үйіру","en":"to learn a language","level":4,"transcription":null}
 {"kz":"тіс тазалау","en":"to brush teeth","level":3,"transcription":null}
 {"kz":"уақыт белгілеу","en":"to set a time","level":4,"transcription":null}
 {"kz":"ұйқыдан тұру","en":"to get up from sleep","level":3,"transcription":null}
@@ -2563,7 +2563,7 @@
 {"kz":"шөлін қандыру","en":"to quench thirst","level":4,"transcription":null}
 {"kz":"іздеу","en":"to seek, search","level":2,"transcription":null}
 {"kz":"ілу","en":"to hang","level":2,"transcription":null}
-{"kz":"айнымау","en":"to resemble","level":3,"transcription":null}
+{"kz":"айнымау","en":"not to resemble","level":3,"transcription":null}
 {"kz":"ақша жұмсау","en":"to spend money","level":3,"transcription":null}
 {"kz":"ақы төлеу","en":"to pay for work","level":4,"transcription":null}
 {"kz":"анықтау, нақтылау","en":"to clarify, specify","level":4,"transcription":null}
@@ -2575,10 +2575,10 @@
 {"kz":"ауысып отыру","en":"to change, transfer","level":4,"transcription":null}
 {"kz":"әйнектеу","en":"to glaze","level":5,"transcription":null}
 {"kz":"әріптес болу","en":"to be colleagues","level":4,"transcription":null}
-{"kz":"бағаламау","en":"to underestimate","level":4,"transcription":null}
+{"kz":"бағаламау","en":"not to underestimate","level":4,"transcription":null}
 {"kz":"бас қосу","en":"to gather, meet","level":4,"transcription":null}
 {"kz":"басып шығару","en":"to print","level":3,"transcription":null}
-{"kz":"бұзылу","en":"to spoil, rot","level":3,"transcription":null}
+{"kz":"бұзылу","en":"to break, get spoiled","level":3,"transcription":null}
 {"kz":"ғашық болу","en":"to fall in love","level":3,"transcription":null}
 {"kz":"дауыс көтермеу","en":"not to raise one's voice","level":4,"transcription":null}
 {"kz":"демдеу","en":"to brew (tea)","level":4,"transcription":null}
@@ -2603,36 +2603,36 @@
 {"kz":"жөн санау","en":"to consider right","level":4,"transcription":null}
 {"kz":"жөндеу","en":"to repair, fix","level":3,"transcription":null}
 {"kz":"зиян келтіру","en":"to cause harm","level":4,"transcription":null}
-{"kz":"көбею","en":"to increase","level":3,"transcription":null}
-{"kz":"қалану","en":"to be founded, based","level":4,"transcription":null}
-{"kz":"қамқор болу","en":"to take care of","level":4,"transcription":null}
-{"kz":"қарау","en":"to look at","level":1,"transcription":null}
-{"kz":"қателесу","en":"to make a mistake","level":3,"transcription":null}
-{"kz":"қашу","en":"to run away","level":3,"transcription":null}
-{"kz":"қиылысу","en":"to intersect","level":4,"transcription":null}
-{"kz":"қоқыс тастау","en":"to throw out garbage","level":3,"transcription":null}
-{"kz":"қоректену","en":"to feed, nourish","level":4,"transcription":null}
-{"kz":"қорқу","en":"to fear","level":2,"transcription":null}
-{"kz":"құлау","en":"to fall","level":2,"transcription":null}
-{"kz":"құмарту","en":"to become addicted, fond of","level":4,"transcription":null}
-{"kz":"құрмет тұту","en":"to respect, honor","level":4,"transcription":null}
-{"kz":"құрметтеу","en":"to respect","level":3,"transcription":null}
-{"kz":"құрметіне қойылу","en":"to name after someone","level":4,"transcription":null}
-{"kz":"қырыну","en":"to shave","level":4,"transcription":null}
-{"kz":"қысым көрсету","en":"to exert pressure","level":5,"transcription":null}
-{"kz":"лақтыру","en":"to throw","level":3,"transcription":null}
-{"kz":"мазаламау","en":"not to disturb","level":3,"transcription":null}
-{"kz":"мекендеу","en":"to inhabit","level":4,"transcription":null}
-{"kz":"міндеттену","en":"to undertake an obligation","level":5,"transcription":null}
-{"kz":"назар аудару\/салу","en":"to pay attention","level":3,"transcription":null}
-{"kz":"ояту","en":"to wake someone","level":3,"transcription":null}
-{"kz":"өзгерту","en":"to change","level":3,"transcription":null}
-{"kz":"өкіну","en":"to regret, repent","level":4,"transcription":null}
-{"kz":"өсіру","en":"to grow, increase","level":3,"transcription":null}
-{"kz":"өтініш жазу","en":"to write an application","level":4,"transcription":null}
-{"kz":"сабындау","en":"to lather with soap","level":5,"transcription":null}
-{"kz":"сақтау","en":"to preserve, protect","level":3,"transcription":null}
-{"kz":"сапар шегу","en":"to travel","level":4,"transcription":null}
+{"kz":"көбею","en":"increase","level":3,"transcription":null}
+{"kz":"қалану","en":"establish","level":4,"transcription":null}
+{"kz":"қамқор болу","en":"take care of","level":4,"transcription":null}
+{"kz":"қарау","en":"look at","level":1,"transcription":null}
+{"kz":"қателесу","en":"make a mistake","level":3,"transcription":null}
+{"kz":"қашу","en":"run away","level":3,"transcription":null}
+{"kz":"қиылысу","en":"intersect","level":4,"transcription":null}
+{"kz":"қоқыс тастау","en":"throw out garbage","level":3,"transcription":null}
+{"kz":"қоректену","en":"feed, nourish","level":4,"transcription":null}
+{"kz":"қорқу","en":"fear","level":2,"transcription":null}
+{"kz":"құлау","en":"fall","level":2,"transcription":null}
+{"kz":"құмарту","en":"become addicted to","level":4,"transcription":null}
+{"kz":"құрмет тұту","en":"respect, honor","level":4,"transcription":null}
+{"kz":"құрметтеу","en":"show respect","level":3,"transcription":null}
+{"kz":"құрметіне қойылу","en":"be named after someone","level":4,"transcription":null}
+{"kz":"қырыну","en":"shave","level":4,"transcription":null}
+{"kz":"қысым көрсету","en":"exert pressure","level":5,"transcription":null}
+{"kz":"лақтыру","en":"throw","level":3,"transcription":null}
+{"kz":"мазаламау","en":"not disturb","level":3,"transcription":null}
+{"kz":"мекендеу","en":"inhabit","level":4,"transcription":null}
+{"kz":"міндеттену","en":"undertake an obligation","level":5,"transcription":null}
+{"kz":"назар аудару\/салу","en":"pay attention to","level":3,"transcription":null}
+{"kz":"ояту","en":"wake someone up","level":3,"transcription":null}
+{"kz":"өзгерту","en":"change","level":3,"transcription":null}
+{"kz":"өкіну","en":"regret, repent","level":4,"transcription":null}
+{"kz":"өсіру","en":"grow, increase","level":3,"transcription":null}
+{"kz":"өтініш жазу","en":"write an application","level":4,"transcription":null}
+{"kz":"сабындау","en":"lather with soap","level":5,"transcription":null}
+{"kz":"сақтау","en":"preserve, protect","level":3,"transcription":null}
+{"kz":"сапар шегу","en":"travel","level":4,"transcription":null}
 {"kz":"сұхбат алу","en":"to interview","level":4,"transcription":null}
 {"kz":"сүртіну","en":"to wipe oneself","level":3,"transcription":null}
 {"kz":"сығу","en":"to squeeze","level":3,"transcription":null}
@@ -2666,7 +2666,7 @@
 {"kz":"айналу","en":"to rotate","level":3,"transcription":null}
 {"kz":"алмастыру","en":"to replace, substitute","level":4,"transcription":null}
 {"kz":"алу","en":"to subtract, take","level":3,"transcription":null}
-{"kz":"аралау","en":"to saw, wander","level":4,"transcription":null}
+{"kz":"аралау","en":"to wander","level":4,"transcription":null}
 {"kz":"ауыстыру","en":"to change, replace","level":4,"transcription":null}
 {"kz":"әсер ету","en":"to influence","level":4,"transcription":null}
 {"kz":"байлау","en":"to bandage, tie","level":3,"transcription":null}
@@ -2755,7 +2755,7 @@
 {"kz":"хабар тарату","en":"to broadcast a message","level":5,"transcription":null}
 {"kz":"шағымдану","en":"to complain","level":5,"transcription":null}
 {"kz":"шешімін табу","en":"to find a solution","level":4,"transcription":null}
-{"kz":"іздеп табу","en":"to find","level":3,"transcription":null}
+{"kz":"іздеп табу","en":"to search for something","level":3,"transcription":null}
 {"kz":"адал","en":"honest","level":2,"transcription":null}
 {"kz":"ақкөңіл","en":"sincere","level":3,"transcription":null}
 {"kz":"ақылды","en":"smart, wise","level":1,"transcription":null}
@@ -2770,7 +2770,7 @@
 {"kz":"әділ","en":"fair, just","level":3,"transcription":null}
 {"kz":"әйгілі","en":"famous, well-known","level":3,"transcription":null}
 {"kz":"бақытты","en":"happy, fortunate","level":2,"transcription":null}
-{"kz":"белгілі","en":"known, definite","level":2,"transcription":null}
+{"kz":"белгілі","en":"known, certain","level":2,"transcription":null}
 {"kz":"белсенді","en":"active","level":3,"transcription":null}
 {"kz":"бөлек","en":"separate, distinct","level":3,"transcription":null}
 {"kz":"бұлтсыз","en":"cloudless","level":3,"transcription":null}
@@ -2784,7 +2784,7 @@
 {"kz":"елеулі","en":"considerable, significant","level":4,"transcription":null}
 {"kz":"еңбекқор","en":"hardworking","level":3,"transcription":null}
 {"kz":"жағымсыз","en":"unpleasant","level":3,"transcription":null}
-{"kz":"жазғы","en":"summer (adj)","level":2,"transcription":null}
+{"kz":"жазғы","en":"summer","level":2,"transcription":null}
 {"kz":"жақсы","en":"good","level":1,"transcription":null}
 {"kz":"жалқау","en":"lazy","level":2,"transcription":null}
 {"kz":"жарасымды","en":"harmonious, fitting","level":4,"transcription":null}
@@ -2819,23 +2819,23 @@
 {"kz":"лас","en":"dirty","level":2,"transcription":null}
 {"kz":"мазасыз","en":"restless, anxious","level":4,"transcription":null}
 {"kz":"майлы","en":"fat, greasy","level":2,"transcription":null}
-{"kz":"мейірімді","en":"humane, kind","level":4,"transcription":null}
-{"kz":"мемлекеттік","en":"state, public","level":3,"transcription":null}
+{"kz":"мейірімді","en":"kind","level":4,"transcription":null}
+{"kz":"мемлекеттік","en":"state","level":3,"transcription":null}
 {"kz":"мылжың","en":"talkative, chatterbox","level":4,"transcription":null}
-{"kz":"міндетті","en":"obligated, duty-bound","level":3,"transcription":null}
-{"kz":"нағыз","en":"real, true","level":3,"transcription":null}
-{"kz":"нәтижелі","en":"fruitful, effective","level":4,"transcription":null}
-{"kz":"негізгі","en":"main, basic","level":2,"transcription":null}
+{"kz":"міндетті","en":"obligated","level":3,"transcription":null}
+{"kz":"нағыз","en":"real","level":3,"transcription":null}
+{"kz":"нәтижелі","en":"fruitful","level":4,"transcription":null}
+{"kz":"негізгі","en":"main","level":2,"transcription":null}
 {"kz":"отандық","en":"domestic","level":3,"transcription":null}
-{"kz":"өзекті","en":"actual, topical","level":4,"transcription":null}
+{"kz":"өзекті","en":"topical","level":4,"transcription":null}
 {"kz":"пайдалы","en":"useful","level":2,"transcription":null}
 {"kz":"пәнаралық","en":"interdisciplinary","level":5,"transcription":null}
 {"kz":"салмақты","en":"calm, composed","level":3,"transcription":null}
 {"kz":"сараң","en":"greedy","level":3,"transcription":null}
-{"kz":"сенімді","en":"reliable, faithful","level":3,"transcription":null}
+{"kz":"сенімді","en":"reliable","level":3,"transcription":null}
 {"kz":"сөзге шешен","en":"eloquent","level":5,"transcription":null}
 {"kz":"сыпайы","en":"polite, courteous","level":3,"transcription":null}
-{"kz":"сыртқы","en":"external, outer","level":3,"transcription":null}
+{"kz":"сыртқы","en":"external","level":3,"transcription":null}
 {"kz":"таза","en":"clean, pure","level":1,"transcription":null}
 {"kz":"талғампаз","en":"discriminating, fastidious","level":4,"transcription":null}
 {"kz":"танымал","en":"popular","level":3,"transcription":null}
@@ -2873,96 +2873,96 @@
 {"kz":"бұйра","en":"curly","level":3,"transcription":null}
 {"kz":"бұлыңғыр","en":"dim, hazy","level":4,"transcription":null}
 {"kz":"бірбеткей","en":"principled","level":5,"transcription":null}
-{"kz":"дәл","en":"exact, accurate","level":2,"transcription":null}
-{"kz":"дәмді","en":"tasty, delicious","level":2,"transcription":null}
-{"kz":"дұрыс","en":"correct, right","level":2,"transcription":null}
-{"kz":"ерекше","en":"special, particular","level":3,"transcription":null}
-{"kz":"ескі","en":"old, ancient","level":1,"transcription":null}
+{"kz":"дәл","en":"exact","level":2,"transcription":null}
+{"kz":"дәмді","en":"tasty","level":2,"transcription":null}
+{"kz":"дұрыс","en":"correct","level":2,"transcription":null}
+{"kz":"ерекше","en":"special","level":3,"transcription":null}
+{"kz":"ескі","en":"old","level":1,"transcription":null}
 {"kz":"жабайы","en":"wild","level":3,"transcription":null}
 {"kz":"жағымды","en":"positive","level":3,"transcription":null}
-{"kz":"жақын","en":"close, near","level":2,"transcription":null}
+{"kz":"жақын","en":"close","level":2,"transcription":null}
 {"kz":"жаңа","en":"new","level":1,"transcription":null}
 {"kz":"жауапты","en":"responsible","level":3,"transcription":null}
 {"kz":"жұмсақ","en":"soft","level":2,"transcription":null}
 {"kz":"жүзі жылы","en":"pleasant-looking","level":4,"transcription":null}
-{"kz":"жігерлі","en":"energetic, proactive","level":4,"transcription":null}
-{"kz":"келесі","en":"next, following","level":1,"transcription":null}
+{"kz":"жігерлі","en":"energetic","level":4,"transcription":null}
+{"kz":"келесі","en":"next","level":1,"transcription":null}
 {"kz":"көк көзді","en":"blue-eyed","level":3,"transcription":null}
-{"kz":"көңілсіз","en":"joyless, sad","level":3,"transcription":null}
+{"kz":"көңілсіз","en":"sad","level":3,"transcription":null}
 {"kz":"көпқабатты","en":"multi-story","level":3,"transcription":null}
 {"kz":"көпшіл","en":"sociable","level":3,"transcription":null}
-{"kz":"көреген","en":"far-sighted, sharp-eyed","level":4,"transcription":null}
-{"kz":"көрікті","en":"handsome, scenic","level":3,"transcription":null}
-{"kz":"күрделі","en":"complex, complicated","level":3,"transcription":null}
+{"kz":"көреген","en":"far-sighted","level":4,"transcription":null}
+{"kz":"көрікті","en":"handsome","level":3,"transcription":null}
+{"kz":"күрделі","en":"complex","level":3,"transcription":null}
 {"kz":"кінәлі","en":"guilty","level":3,"transcription":null}
-{"kz":"кір","en":"dirty, soiled","level":2,"transcription":null}
-{"kz":"қабілетті","en":"capable, able","level":3,"transcription":null}
-{"kz":"қайратты","en":"strong, energetic","level":3,"transcription":null}
-{"kz":"қайсар","en":"persistent, stubborn","level":4,"transcription":null}
-{"kz":"қалаулы, таңдаулы","en":"chosen, selected","level":4,"transcription":null}
-{"kz":"қалың","en":"thick, dense","level":2,"transcription":null}
+{"kz":"кір","en":"dirty","level":2,"transcription":null}
+{"kz":"қабілетті","en":"capable","level":3,"transcription":null}
+{"kz":"қайратты","en":"strong","level":3,"transcription":null}
+{"kz":"қайсар","en":"persistent","level":4,"transcription":null}
+{"kz":"қалаулы, таңдаулы","en":"chosen","level":4,"transcription":null}
+{"kz":"қалың","en":"thick","level":2,"transcription":null}
 {"kz":"қара шашты","en":"black-haired","level":3,"transcription":null}
-{"kz":"қараторы","en":"dark-skinned, swarthy","level":4,"transcription":null}
-{"kz":"қатаң","en":"strict, severe","level":3,"transcription":null}
-{"kz":"қатты","en":"hard, solid","level":2,"transcription":null}
-{"kz":"қауырт","en":"urgent, rushed","level":5,"transcription":null}
-{"kz":"қиын","en":"difficult, hard","level":2,"transcription":null}
+{"kz":"қараторы","en":"dark-skinned","level":4,"transcription":null}
+{"kz":"қатаң","en":"strict","level":3,"transcription":null}
+{"kz":"қатты","en":"hard","level":2,"transcription":null}
+{"kz":"қауырт","en":"urgent","level":5,"transcription":null}
+{"kz":"қиын","en":"difficult","level":2,"transcription":null}
 {"kz":"қолайлы","en":"convenient","level":3,"transcription":null}
 {"kz":"қолайсыз","en":"inconvenient","level":3,"transcription":null}
 {"kz":"қолжетімді","en":"accessible","level":3,"transcription":null}
 {"kz":"қонақжай","en":"hospitable","level":4,"transcription":null}
 {"kz":"қорқақ","en":"cowardly","level":3,"transcription":null}
-{"kz":"қорқынышты","en":"scary, terrible","level":3,"transcription":null}
+{"kz":"қорқынышты","en":"scary","level":3,"transcription":null}
 {"kz":"қосымша","en":"additional","level":3,"transcription":null}
 {"kz":"құнды","en":"valuable","level":3,"transcription":null}
-{"kz":"қысқа","en":"short, brief","level":2,"transcription":null}
+{"kz":"қысқа","en":"short","level":2,"transcription":null}
 {"kz":"қысқа бойлы","en":"short (height)","level":3,"transcription":null}
 {"kz":"қышқыл","en":"sour","level":3,"transcription":null}
-{"kz":"лайықты","en":"appropriate, suitable","level":4,"transcription":null}
+{"kz":"лайықты","en":"appropriate","level":4,"transcription":null}
 {"kz":"мақсатшыл","en":"purposeful","level":4,"transcription":null}
 {"kz":"маңызды","en":"important","level":2,"transcription":null}
 {"kz":"мәдениетті","en":"cultured","level":3,"transcription":null}
 {"kz":"мықты","en":"strong","level":2,"transcription":null}
-{"kz":"нақты","en":"concrete, specific","level":3,"transcription":null}
-{"kz":"озық","en":"advanced, progressive","level":4,"transcription":null}
-{"kz":"ортақ","en":"common, shared","level":3,"transcription":null}
-{"kz":"отбасылы","en":"family (adj)","level":3,"transcription":null}
-{"kz":"өзге","en":"other, different","level":2,"transcription":null}
-{"kz":"сабырлы","en":"balanced","level":4,"transcription":null}
-{"kz":"салақ","en":"untidy, sloppy","level":4,"transcription":null}
-{"kz":"салтанатты","en":"ceremonial, solemn","level":4,"transcription":null}
+{"kz":"нақты","en":"concrete","level":3,"transcription":null}
+{"kz":"озық","en":"advanced","level":4,"transcription":null}
+{"kz":"ортақ","en":"common","level":3,"transcription":null}
+{"kz":"отбасылы","en":"family","level":3,"transcription":null}
+{"kz":"өзге","en":"other","level":2,"transcription":null}
+{"kz":"сабырлы","en":"patient","level":4,"transcription":null}
+{"kz":"салақ","en":"untidy","level":4,"transcription":null}
+{"kz":"салтанатты","en":"ceremonial","level":4,"transcription":null}
 {"kz":"сапалы","en":"high-quality","level":3,"transcription":null}
 {"kz":"суық","en":"cold","level":2,"transcription":null}
 {"kz":"сұлу","en":"beautiful","level":2,"transcription":null}
-{"kz":"сұсты","en":"formidable, stern","level":4,"transcription":null}
-{"kz":"сүйкімді","en":"attractive, nice","level":3,"transcription":null}
+{"kz":"сұсты","en":"formidable","level":4,"transcription":null}
+{"kz":"сүйкімді","en":"attractive","level":3,"transcription":null}
 {"kz":"сүйкімсіз","en":"unpleasant","level":4,"transcription":null}
-{"kz":"табанды","en":"persistent, tenacious","level":4,"transcription":null}
+{"kz":"табанды","en":"persistent","level":4,"transcription":null}
 {"kz":"тақырбас","en":"bald","level":4,"transcription":null}
 {"kz":"тәжірибелі","en":"experienced","level":3,"transcription":null}
 {"kz":"тәтті","en":"sweet","level":2,"transcription":null}
 {"kz":"тегін","en":"free","level":3,"transcription":null}
-{"kz":"тиянақты","en":"thorough, solid","level":5,"transcription":null}
-{"kz":"томпақ","en":"plump, chubby","level":4,"transcription":null}
-{"kz":"тұрақты","en":"stable, constant","level":3,"transcription":null}
-{"kz":"тілтабысқыш","en":"sociable, communicative","level":5,"transcription":null}
+{"kz":"тиянақты","en":"thorough","level":5,"transcription":null}
+{"kz":"томпақ","en":"plump","level":4,"transcription":null}
+{"kz":"тұрақты","en":"stable","level":3,"transcription":null}
+{"kz":"тілтабысқыш","en":"sociable","level":5,"transcription":null}
 {"kz":"ұзын","en":"long","level":2,"transcription":null}
-{"kz":"ұйқышыл","en":"sleepy, drowsy","level":4,"transcription":null}
-{"kz":"ұқыпты, құнтты","en":"careful, thrifty","level":4,"transcription":null}
+{"kz":"ұйқышыл","en":"sleepy","level":4,"transcription":null}
+{"kz":"ұқыпты, құнтты","en":"careful","level":4,"transcription":null}
 {"kz":"ұрысқақ","en":"quarrelsome","level":4,"transcription":null}
-{"kz":"ұялшақ","en":"shy, timid","level":4,"transcription":null}
+{"kz":"ұялшақ","en":"shy","level":4,"transcription":null}
 {"kz":"үстіңгі","en":"upper","level":2,"transcription":null}
-{"kz":"шексіз","en":"limitless, boundless","level":4,"transcription":null}
-{"kz":"шынайы","en":"real, genuine","level":3,"transcription":null}
-{"kz":"ылғалды","en":"wet, moist","level":3,"transcription":null}
+{"kz":"шексіз","en":"limitless","level":4,"transcription":null}
+{"kz":"шынайы","en":"real","level":3,"transcription":null}
+{"kz":"ылғалды","en":"wet","level":3,"transcription":null}
 {"kz":"ыстық","en":"hot","level":2,"transcription":null}
 {"kz":"ақ","en":"white","level":1,"transcription":null}
 {"kz":"ақысыз","en":"free","level":3,"transcription":null}
 {"kz":"алтын","en":"golden","level":2,"transcription":null}
-{"kz":"арнаулы","en":"special, designated","level":4,"transcription":null}
-{"kz":"арық","en":"thin, lean","level":3,"transcription":null}
+{"kz":"арнаулы","en":"special","level":4,"transcription":null}
+{"kz":"арық","en":"thin","level":3,"transcription":null}
 {"kz":"ауыр","en":"heavy","level":2,"transcription":null}
-{"kz":"әлеуметтік","en":"social, public","level":3,"transcription":null}
+{"kz":"әлеуметтік","en":"social","level":3,"transcription":null}
 {"kz":"әлсіз","en":"weak","level":2,"transcription":null}
 {"kz":"бағалы","en":"valuable","level":3,"transcription":null}
 {"kz":"бай","en":"rich","level":2,"transcription":null}
@@ -3033,7 +3033,7 @@
 {"kz":"риза","en":"agreeable, satisfied","level":3,"transcription":null}
 {"kz":"сары","en":"yellow","level":2,"transcription":null}
 {"kz":"сәнді","en":"fashionable, elegant","level":3,"transcription":null}
-{"kz":"сәтті","en":"successful, successful","level":3,"transcription":null}
+{"kz":"сәтті","en":"successful","level":3,"transcription":null}
 {"kz":"сол","en":"left","level":1,"transcription":null}
 {"kz":"сөзшең","en":"talkative, eloquent","level":4,"transcription":null}
 {"kz":"сұр","en":"grey","level":2,"transcription":null}
@@ -3144,5 +3144,5 @@
 {"kz":"төртеу","en":"four (people)","level":3,"transcription":null}
 {"kz":"төртінші","en":"fourth","level":2,"transcription":null}
 {"kz":"үш","en":"three","level":1,"transcription":null}
-{"kz":"үшеу","en":"three (people)","level":3,"transcription":null}
+{"kz":"үшеу","en":"three people","level":3,"transcription":null}
 {"kz":"үшінші","en":"third","level":2,"transcription":null}

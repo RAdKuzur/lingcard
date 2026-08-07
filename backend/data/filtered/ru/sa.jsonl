@@ -30,11 +30,11 @@
 {"ru":"у","sa":"في","level":1,"transcription":null}
 {"ru":"мочь","sa":"تكون قادرة","level":1,"transcription":null}
 {"ru":"один","sa":"واحد","level":1,"transcription":null}
-{"ru":"до","sa":"ل","level":1,"transcription":null}
+{"ru":"до","sa":"قبل","level":1,"transcription":null}
 {"ru":"только","sa":"فقط","level":1,"transcription":null}
 {"ru":"же","sa":"أو","level":2,"transcription":null}
 {"ru":"время","sa":"وقت","level":1,"transcription":null}
-{"ru":"все","sa":"الجميع","level":1,"transcription":null}
+{"ru":"все","sa":"جميع","level":1,"transcription":null}
 {"ru":"другой","sa":"آخر","level":1,"transcription":null}
 {"ru":"уже","sa":"بالفعل","level":1,"transcription":null}
 {"ru":"его","sa":"له","level":1,"transcription":null}
@@ -48,7 +48,7 @@
 {"ru":"стать","sa":"يصبح","level":2,"transcription":null}
 {"ru":"новый","sa":"جديد","level":1,"transcription":null}
 {"ru":"сам","sa":"نفسي","level":1,"transcription":null}
-{"ru":"себя","sa":"نفسي","level":2,"transcription":null}
+{"ru":"себя","sa":"نفسه","level":2,"transcription":null}
 {"ru":"человек","sa":"بشر","level":1,"transcription":null}
 {"ru":"два","sa":"اثنين","level":1,"transcription":null}
 {"ru":"можно","sa":"يستطيع","level":1,"transcription":null}
@@ -56,10 +56,10 @@
 {"ru":"наш","sa":"ملكنا","level":1,"transcription":null}
 {"ru":"чтобы","sa":"ل","level":2,"transcription":null}
 {"ru":"бы","sa":"كان","level":2,"transcription":null}
-{"ru":"их","sa":"هُم","level":1,"transcription":null}
+{"ru":"их","sa":"هم","level":1,"transcription":null}
 {"ru":"когда","sa":"متى","level":1,"transcription":null}
 {"ru":"со","sa":"مع","level":1,"transcription":null}
-{"ru":"самый","sa":"معظم","level":2,"transcription":null}
+{"ru":"самый","sa":"أكثر","level":2,"transcription":null}
 {"ru":"после","sa":"بعد","level":1,"transcription":null}
 {"ru":"дело","sa":"قضية","level":2,"transcription":null}
 {"ru":"работа","sa":"وظيفة","level":1,"transcription":null}
@@ -205,13 +205,13 @@
 {"ru":"развитие","sa":"تطوير","level":3,"transcription":null}
 {"ru":"тут","sa":"هنا","level":1,"transcription":null}
 {"ru":"сразу","sa":"حالا","level":2,"transcription":null}
-{"ru":"мера","sa":"يقيس","level":3,"transcription":null}
+{"ru":"мера","sa":"قياس","level":3,"transcription":null}
 {"ru":"особенно","sa":"خصوصاً","level":2,"transcription":null}
 {"ru":"история","sa":"قصة","level":2,"transcription":null}
 {"ru":"процесс","sa":"عملية","level":3,"transcription":null}
 {"ru":"смотреть","sa":"ينظر","level":1,"transcription":null}
 {"ru":"путь","sa":"طريق","level":2,"transcription":null}
-{"ru":"оно","sa":"هو - هي","level":1,"transcription":null}
+{"ru":"оно","sa":"هو","level":1,"transcription":null}
 {"ru":"центр","sa":"مركز","level":2,"transcription":null}
 {"ru":"право","sa":"يمين","level":2,"transcription":null}
 {"ru":"группа","sa":"مجموعة","level":2,"transcription":null}
@@ -252,15 +252,15 @@
 {"ru":"около","sa":"قريب","level":2,"transcription":null}
 {"ru":"начинать","sa":"ابدأ","level":2,"transcription":null}
 {"ru":"понимать","sa":"يفهم","level":2,"transcription":null}
-{"ru":"состояние","sa":"ولاية","level":3,"transcription":null}
+{"ru":"состояние","sa":"موقف","level":3,"transcription":null}
 {"ru":"форма","sa":"استمارة","level":2,"transcription":null}
 {"ru":"закон","sa":"قانون","level":2,"transcription":null}
 {"ru":"порядок","sa":"طلب","level":2,"transcription":null}
 {"ru":"программа","sa":"برنامج","level":2,"transcription":null}
 {"ru":"задача","sa":"مهمة","level":3,"transcription":null}
 {"ru":"необходимый","sa":"ضروري","level":3,"transcription":null}
-{"ru":"что-то","sa":"شئ ما","level":1,"transcription":null}
-{"ru":"причина","sa":"سبب","level":2,"transcription":null}
+{"ru":"что-то","sa":"شيء","level":1,"transcription":null}
+{"ru":"причина","sa":"السبب","level":2,"transcription":null}
 {"ru":"показать","sa":"يعرض","level":2,"transcription":null}
 {"ru":"количество","sa":"كمية","level":3,"transcription":null}
 {"ru":"современный","sa":"حديث","level":3,"transcription":null}
@@ -295,7 +295,7 @@
 {"ru":"пример","sa":"مثال","level":2,"transcription":null}
 {"ru":"участие","sa":"مشاركة","level":3,"transcription":null}
 {"ru":"правда","sa":"حقيقة","level":2,"transcription":null}
-{"ru":"основа","sa":"انفتل","level":3,"transcription":null}
+{"ru":"основа","sa":"أساس","level":3,"transcription":null}
 {"ru":"русский","sa":"الروسية","level":1,"transcription":null}
 {"ru":"президент","sa":"رئيس","level":2,"transcription":null}
 {"ru":"казаться","sa":"يبدو","level":3,"transcription":null}
@@ -303,20 +303,20 @@
 {"ru":"крупный","sa":"كبير","level":2,"transcription":null}
 {"ru":"особый","sa":"خاص","level":3,"transcription":null}
 {"ru":"действительно","sa":"حقًا","level":2,"transcription":null}
-{"ru":"государство","sa":"ولاية","level":2,"transcription":null}
+{"ru":"государство","sa":"دولة","level":2,"transcription":null}
 {"ru":"большинство","sa":"غالبية","level":3,"transcription":null}
 {"ru":"пять","sa":"خمسة","level":1,"transcription":null}
-{"ru":"составлять","sa":"ماكياج","level":3,"transcription":null}
+{"ru":"составлять","sa":"يكتب","level":3,"transcription":null}
 {"ru":"представитель","sa":"ممثل","level":3,"transcription":null}
 {"ru":"получать","sa":"يستلم","level":2,"transcription":null}
 {"ru":"молодой","sa":"شاب","level":1,"transcription":null}
-{"ru":"часто","sa":"غالباً","level":1,"transcription":null}
+{"ru":"часто","sa":"غالبًا","level":1,"transcription":null}
 {"ru":"роль","sa":"دور","level":2,"transcription":null}
 {"ru":"план","sa":"يخطط","level":2,"transcription":null}
 {"ru":"принимать","sa":"يقبل","level":3,"transcription":null}
 {"ru":"создание","sa":"الخلق","level":3,"transcription":null}
 {"ru":"давно","sa":"لفترة طويلة","level":2,"transcription":null}
-{"ru":"практически","sa":"عمليا","level":3,"transcription":null}
+{"ru":"практически","sa":"عمليًا","level":3,"transcription":null}
 {"ru":"информация","sa":"معلومة","level":3,"transcription":null}
 {"ru":"причем","sa":"و","level":3,"transcription":null}
 {"ru":"четыре","sa":"أربعة","level":1,"transcription":null}
@@ -344,7 +344,7 @@
 {"ru":"труд","sa":"عمل","level":2,"transcription":null}
 {"ru":"рубль","sa":"روبل","level":1,"transcription":null}
 {"ru":"куда","sa":"أين","level":1,"transcription":null}
-{"ru":"ждать","sa":"انتظر","level":1,"transcription":null}
+{"ru":"ждать","sa":"انتظار","level":1,"transcription":null}
 {"ru":"увидеть","sa":"يرى","level":1,"transcription":null}
 {"ru":"проект","sa":"مشروع","level":2,"transcription":null}
 {"ru":"рынок","sa":"سوق","level":2,"transcription":null}
@@ -354,9 +354,9 @@
 {"ru":"далекий","sa":"بعيد","level":2,"transcription":null}
 {"ru":"кстати","sa":"بالمناسبة","level":2,"transcription":null}
 {"ru":"глава","sa":"الفصل","level":3,"transcription":null}
-{"ru":"проводить","sa":"سلوك","level":3,"transcription":null}
+{"ru":"проводить","sa":"تصرف","level":3,"transcription":null}
 {"ru":"писать","sa":"يكتب","level":1,"transcription":null}
-{"ru":"наиболее","sa":"معظم","level":2,"transcription":null}
+{"ru":"наиболее","sa":"الأكثر أهمية","level":2,"transcription":null}
 {"ru":"любить","sa":"حب","level":1,"transcription":null}
 {"ru":"цена","sa":"سعر","level":2,"transcription":null}
 {"ru":"совет","sa":"نصيحة","level":2,"transcription":null}
@@ -366,13 +366,13 @@
 {"ru":"пытаться","sa":"يحاول","level":2,"transcription":null}
 {"ru":"совершенно","sa":"قطعاً","level":3,"transcription":null}
 {"ru":"против","sa":"ضد","level":2,"transcription":null}
-{"ru":"предложить","sa":"يعرض","level":3,"transcription":null}
+{"ru":"предложить","sa":"يقترح","level":3,"transcription":null}
 {"ru":"огромный","sa":"ضخم","level":2,"transcription":null}
 {"ru":"специалист","sa":"متخصص","level":2,"transcription":null}
 {"ru":"скорый","sa":"سريع","level":2,"transcription":null}
 {"ru":"взгляд","sa":"رؤية","level":2,"transcription":null}
 {"ru":"речь","sa":"خطاب","level":3,"transcription":null}
-{"ru":"состав","sa":"مُجَمَّع","level":3,"transcription":null}
+{"ru":"состав","sa":"مجموعة","level":3,"transcription":null}
 {"ru":"относиться","sa":"يعامل","level":3,"transcription":null}
 {"ru":"серьезный","sa":"جاد","level":2,"transcription":null}
 {"ru":"срок","sa":"شرط","level":3,"transcription":null}
@@ -408,7 +408,7 @@
 {"ru":"направление","sa":"اتجاه","level":3,"transcription":null}
 {"ru":"борьба","sa":"كفاح","level":3,"transcription":null}
 {"ru":"машина","sa":"سيارة","level":1,"transcription":null}
-{"ru":"связать","sa":"رَابِطَة","level":3,"transcription":null}
+{"ru":"связать","sa":"يترابط","level":3,"transcription":null}
 {"ru":"входить","sa":"يدخل","level":2,"transcription":null}
 {"ru":"хотеться","sa":"يريد","level":3,"transcription":null}
 {"ru":"итог","sa":"نتيجة","level":3,"transcription":null}
@@ -435,11 +435,11 @@
 {"ru":"слишком","sa":"أكثر مما ينبغي","level":2,"transcription":null}
 {"ru":"семья","sa":"عائلة","level":1,"transcription":null}
 {"ru":"война","sa":"حرب","level":2,"transcription":null}
-{"ru":"изменение","sa":"يتغير","level":3,"transcription":null}
+{"ru":"изменение","sa":"تغيير","level":3,"transcription":null}
 {"ru":"интересный","sa":"مثير للاهتمام","level":2,"transcription":null}
 {"ru":"известно","sa":"معروف","level":2,"transcription":null}
-{"ru":"действовать","sa":"يمثل","level":3,"transcription":null}
-{"ru":"установить","sa":"ثَبَّتَ","level":4,"transcription":null}
+{"ru":"действовать","sa":"يعمل","level":3,"transcription":null}
+{"ru":"установить","sa":"يُرسخ","level":4,"transcription":null}
 {"ru":"прежде","sa":"قبل","level":2,"transcription":null}
 {"ru":"структура","sa":"بناء","level":4,"transcription":null}
 {"ru":"низкий","sa":"قصير","level":2,"transcription":null}
@@ -454,7 +454,7 @@
 {"ru":"женщина","sa":"امرأة","level":1,"transcription":null}
 {"ru":"орган","sa":"الجهاز","level":3,"transcription":null}
 {"ru":"советский","sa":"السوفييتي","level":2,"transcription":null}
-{"ru":"территория","sa":"إِقلِيم","level":3,"transcription":null}
+{"ru":"территория","sa":"إقليم","level":3,"transcription":null}
 {"ru":"определенный","sa":"محدد","level":3,"transcription":null}
 {"ru":"характер","sa":"شخصية","level":3,"transcription":null}
 {"ru":"возможно","sa":"ربما","level":2,"transcription":null}
@@ -494,13 +494,13 @@
 {"ru":"помнить","sa":"يتذكر","level":1,"transcription":null}
 {"ru":"половина","sa":"نصف","level":2,"transcription":null}
 {"ru":"белый","sa":"أبيض","level":1,"transcription":null}
-{"ru":"значит","sa":"وسائل","level":2,"transcription":null}
+{"ru":"значит","sa":"يترجى","level":2,"transcription":null}
 {"ru":"довольно","sa":"كافٍ","level":2,"transcription":null}
 {"ru":"руководство","sa":"إدارة","level":4,"transcription":null}
 {"ru":"больший","sa":"أكثر","level":2,"transcription":null}
 {"ru":"иногда","sa":"أحيانا","level":1,"transcription":null}
 {"ru":"бывший","sa":"سابق","level":2,"transcription":null}
-{"ru":"тип","sa":"يكتب","level":2,"transcription":null}
+{"ru":"тип","sa":"موضوع","level":2,"transcription":null}
 {"ru":"ответить","sa":"إجابة","level":2,"transcription":null}
 {"ru":"вариант","sa":"خيار","level":3,"transcription":null}
 {"ru":"книга","sa":"كتاب","level":1,"transcription":null}
@@ -519,14 +519,14 @@
 {"ru":"показывать","sa":"يعرض","level":2,"transcription":null}
 {"ru":"выходить","sa":"الخروج","level":2,"transcription":null}
 {"ru":"успех","sa":"نجاح","level":2,"transcription":null}
-{"ru":"попасть","sa":"أدخل","level":2,"transcription":null}
+{"ru":"попасть","sa":"يُدخل","level":2,"transcription":null}
 {"ru":"трудно","sa":"صعب","level":1,"transcription":null}
-{"ru":"образование","sa":"تعليم","level":3,"transcription":null}
+{"ru":"образование","sa":"التعليم","level":3,"transcription":null}
 {"ru":"рядом","sa":"قريب","level":2,"transcription":null}
 {"ru":"десять","sa":"عشرة","level":1,"transcription":null}
 {"ru":"легкий","sa":"سهل","level":1,"transcription":null}
 {"ru":"культура","sa":"ثقافة","level":2,"transcription":null}
-{"ru":"состоять","sa":"تتكون","level":3,"transcription":null}
+{"ru":"состоять","sa":"يُتكون","level":3,"transcription":null}
 {"ru":"вдруг","sa":"فجأة","level":2,"transcription":null}
 {"ru":"черный","sa":"أسود","level":1,"transcription":null}
 {"ru":"обычно","sa":"عادة","level":1,"transcription":null}
@@ -541,16 +541,16 @@
 {"ru":"рассказывать","sa":"يخبر","level":2,"transcription":null}
 {"ru":"обычный","sa":"عادي","level":2,"transcription":null}
 {"ru":"судьба","sa":"قدر","level":2,"transcription":null}
-{"ru":"частность","sa":"خاص","level":3,"transcription":null}
-{"ru":"долго","sa":"لفترة طويلة","level":1,"transcription":null}
+{"ru":"частность","sa":"خاصة","level":3,"transcription":null}
+{"ru":"долго","sa":"لفترة الطويلة","level":1,"transcription":null}
 {"ru":"газета","sa":"صحيفة","level":1,"transcription":null}
 {"ru":"ночь","sa":"ليلة","level":1,"transcription":null}
 {"ru":"мысль","sa":"معتقد","level":2,"transcription":null}
 {"ru":"посмотреть","sa":"ينظر","level":1,"transcription":null}
-{"ru":"определить","sa":"يُعرِّف","level":3,"transcription":null}
+{"ru":"определить","sa":"يُعرّف","level":3,"transcription":null}
 {"ru":"ближайший","sa":"الأقرب","level":3,"transcription":null}
 {"ru":"вместо","sa":"بدلاً من","level":2,"transcription":null}
-{"ru":"значительный","sa":"بارِز","level":3,"transcription":null}
+{"ru":"значительный","sa":"بارز","level":3,"transcription":null}
 {"ru":"регион","sa":"منطقة","level":3,"transcription":null}
 {"ru":"зависеть","sa":"تعتمد","level":3,"transcription":null}
 {"ru":"зрение","sa":"رؤية","level":2,"transcription":null}
@@ -571,7 +571,7 @@
 {"ru":"읽다","sa":"نعم","level":1,"transcription":null}
 {"ru":"общественный","sa":"عام","level":3,"transcription":null}
 {"ru":"как-то","sa":"بطريقة أو بأخرى","level":2,"transcription":null}
-{"ru":"легко","sa":"بسهولة","level":1,"transcription":null}
+{"ru":"легко","sa":"ب سهولة","level":1,"transcription":null}
 {"ru":"наука","sa":"علوم","level":2,"transcription":null}
 {"ru":"национальный","sa":"وطني","level":3,"transcription":null}
 {"ru":"очередной","sa":"آخر","level":3,"transcription":null}
@@ -672,15 +672,15 @@
 {"ru":"будущий","sa":"مستقبل","level":2,"transcription":null}
 {"ru":"дополнительный","sa":"إضافي","level":4,"transcription":null}
 {"ru":"поле","sa":"مجال","level":2,"transcription":null}
-{"ru":"технический","sa":"اِصطِلاحِيّ","level":3,"transcription":null}
-{"ru":"называться","sa":"يمكن استدعاؤه","level":3,"transcription":null}
+{"ru":"технический","sa":"تقني","level":3,"transcription":null}
+{"ru":"называться","sa":"يتسم بـ","level":3,"transcription":null}
 {"ru":"вспомнить","sa":"يتذكر","level":2,"transcription":null}
 {"ru":"похожий","sa":"مشابه","level":2,"transcription":null}
 {"ru":"чувство","sa":"إحساس","level":2,"transcription":null}
 {"ru":"правый","sa":"يمين","level":1,"transcription":null}
 {"ru":"долгий","sa":"طويل","level":2,"transcription":null}
-{"ru":"спросить","sa":"بسأل","level":1,"transcription":null}
-{"ru":"уходить","sa":"يترك","level":2,"transcription":null}
+{"ru":"спросить","sa":"يطلب","level":1,"transcription":null}
+{"ru":"уходить","sa":"يتغيب","level":2,"transcription":null}
 {"ru":"остальной","sa":"البقية","level":3,"transcription":null}
 {"ru":"технология","sa":"تكنولوجيا","level":4,"transcription":null}
 {"ru":"хоть","sa":"على الأقل","level":2,"transcription":null}
@@ -695,9 +695,9 @@
 {"ru":"журнал","sa":"مجلة","level":2,"transcription":null}
 {"ru":"объект","sa":"هدف","level":3,"transcription":null}
 {"ru":"отличие","sa":"اختلاف","level":3,"transcription":null}
-{"ru":"обеспечить","sa":"يمد","level":4,"transcription":null}
+{"ru":"обеспечить","sa":"يتمكّن من","level":4,"transcription":null}
 {"ru":"достигнуть","sa":"يحقق","level":4,"transcription":null}
-{"ru":"приехать","sa":"يأتي","level":2,"transcription":null}
+{"ru":"приехать","sa":"يتقدم","level":2,"transcription":null}
 {"ru":"отличаться","sa":"تختلف","level":3,"transcription":null}
 {"ru":"решать","sa":"يقرر","level":2,"transcription":null}
 {"ru":"человеческий","sa":"بشر","level":3,"transcription":null}
@@ -717,7 +717,7 @@
 {"ru":"обладать","sa":"يملك","level":4,"transcription":null}
 {"ru":"вывод","sa":"خاتمة","level":3,"transcription":null}
 {"ru":"успеть","sa":"كن في الوقت المحدد","level":2,"transcription":null}
-{"ru":"получаться","sa":"تحول","level":3,"transcription":null}
+{"ru":"получаться","sa":"يحدث","level":3,"transcription":null}
 {"ru":"смерть","sa":"موت","level":2,"transcription":null}
 {"ru":"зачем","sa":"لماذا","level":2,"transcription":null}
 {"ru":"партия","sa":"حزب","level":2,"transcription":null}
@@ -751,7 +751,7 @@
 {"ru":"возраст","sa":"عمر","level":2,"transcription":null}
 {"ru":"шесть","sa":"ستة","level":1,"transcription":null}
 {"ru":"утверждать","sa":"يعتمد","level":4,"transcription":null}
-{"ru":"начинаться","sa":"ابدأ","level":2,"transcription":null}
+{"ru":"начинаться","sa":"يبدأ","level":2,"transcription":null}
 {"ru":"природа","sa":"طبيعة","level":2,"transcription":null}
 {"ru":"детский","sa":"الأطفال","level":1,"transcription":null}
 {"ru":"объяснить","sa":"يشرح","level":3,"transcription":null}
@@ -768,7 +768,7 @@
 {"ru":"согласно","sa":"وفق","level":3,"transcription":null}
 {"ru":"доля","sa":"يشارك","level":3,"transcription":null}
 {"ru":"стена","sa":"حائط","level":1,"transcription":null}
-{"ru":"этап","sa":"منصة","level":3,"transcription":null}
+{"ru":"этап","sa":"مرحلة","level":3,"transcription":null}
 {"ru":"активный","sa":"نشيط","level":3,"transcription":null}
 {"ru":"обнаружить","sa":"يكتشف","level":4,"transcription":null}
 {"ru":"вновь","sa":"مرة أخرى","level":2,"transcription":null}
@@ -798,7 +798,7 @@
 {"ru":"крайний","sa":"أقصى","level":3,"transcription":null}
 {"ru":"держать","sa":"يمسك","level":2,"transcription":null}
 {"ru":"гость","sa":"ضيف","level":2,"transcription":null}
-{"ru":"снять","sa":"اخلع","level":2,"transcription":null}
+{"ru":"снять","sa":"يخفي","level":2,"transcription":null}
 {"ru":"анализ","sa":"تحليل","level":4,"transcription":null}
 {"ru":"заместитель","sa":"نائب","level":3,"transcription":null}
 {"ru":"никак","sa":"مستحيل","level":2,"transcription":null}
@@ -905,7 +905,7 @@
 {"ru":"текст","sa":"نص","level":2,"transcription":null}
 {"ru":"комитет","sa":"لجنة","level":3,"transcription":null}
 {"ru":"здоровье","sa":"صحة","level":2,"transcription":null}
-{"ru":"традиция","sa":"التقليد","level":3,"transcription":null}
+{"ru":"традиция","sa":"تقليد","level":3,"transcription":null}
 {"ru":"традиционный","sa":"تقليدي","level":3,"transcription":null}
 {"ru":"встречаться","sa":"يقابل","level":2,"transcription":null}
 {"ru":"любимый","sa":"محبوب","level":2,"transcription":null}
@@ -957,12 +957,12 @@
 {"ru":"абсолютно","sa":"قطعاً","level":3,"transcription":null}
 {"ru":"получение","sa":"تلقي","level":3,"transcription":null}
 {"ru":"собственно","sa":"في الحقيقة","level":3,"transcription":null}
-{"ru":"родитель","sa":"الوالدين","level":2,"transcription":null}
-{"ru":"подойти","sa":"هيا تعال","level":2,"transcription":null}
+{"ru":"родитель","sa":"والدين","level":2,"transcription":null}
+{"ru":"подойти","sa":"تعال","level":2,"transcription":null}
 {"ru":"добавить","sa":"يضيف","level":2,"transcription":null}
-{"ru":"продажа","sa":"أُوكَازيُون","level":2,"transcription":null}
-{"ru":"понятно","sa":"انها واضحة","level":2,"transcription":null}
-{"ru":"насколько","sa":"كم ثمن","level":3,"transcription":null}
+{"ru":"продажа","sa":"أوكازيون","level":2,"transcription":null}
+{"ru":"понятно","sa":"واضح","level":2,"transcription":null}
+{"ru":"насколько","sa":"كم","level":3,"transcription":null}
 {"ru":"дома","sa":"منازل","level":1,"transcription":null}
 {"ru":"праздник","sa":"عطلة","level":1,"transcription":null}
 {"ru":"воля","sa":"سوف","level":2,"transcription":null}
@@ -1000,8 +1000,8 @@
 {"ru":"специально","sa":"خصيصا","level":3,"transcription":null}
 {"ru":"метр","sa":"متر","level":1,"transcription":null}
 {"ru":"добиться","sa":"يحقق","level":4,"transcription":null}
-{"ru":"мешать","sa":"يتدخل","level":2,"transcription":null}
-{"ru":"автомобиль","sa":"السيارات","level":1,"transcription":null}
+{"ru":"мешать","sa":"يتداخل","level":2,"transcription":null}
+{"ru":"автомобиль","sa":"سيارة","level":1,"transcription":null}
 {"ru":"передача","sa":"إذاعة","level":4,"transcription":null}
 {"ru":"домой","sa":"بيت","level":1,"transcription":null}
 {"ru":"объяснять","sa":"يشرح","level":3,"transcription":null}
@@ -1055,26 +1055,26 @@
 {"ru":"оценить","sa":"يقيم","level":3,"transcription":null}
 {"ru":"муж","sa":"زوج","level":1,"transcription":null}
 {"ru":"разумеется","sa":"بالطبع","level":2,"transcription":null}
-{"ru":"увеличение","sa":"يزيد","level":4,"transcription":null}
-{"ru":"попросить","sa":"بسأل","level":1,"transcription":null}
+{"ru":"увеличение","sa":"زيادة","level":4,"transcription":null}
+{"ru":"попросить","sa":"طلب","level":1,"transcription":null}
 {"ru":"мероприятие","sa":"حدث","level":3,"transcription":null}
-{"ru":"внести","sa":"يساهم","level":3,"transcription":null}
-{"ru":"лишний","sa":"إضافي","level":3,"transcription":null}
+{"ru":"внести","sa":"إضافة","level":3,"transcription":null}
+{"ru":"лишний","sa":"مضاف إليه","level":3,"transcription":null}
 {"ru":"редкий","sa":"نادر","level":2,"transcription":null}
 {"ru":"показатель","sa":"مؤشر","level":4,"transcription":null}
 {"ru":"свидетельствовать","sa":"يشهد","level":4,"transcription":null}
-{"ru":"вроде","sa":"يحب","level":2,"transcription":null}
+{"ru":"вроде","sa":"يبدو أن","level":2,"transcription":null}
 {"ru":"депутат","sa":"نائب","level":3,"transcription":null}
 {"ru":"ж","sa":"و","level":2,"transcription":null}
 {"ru":"заставить","sa":"قوة","level":3,"transcription":null}
 {"ru":"региональный","sa":"إقليمي","level":3,"transcription":null}
-{"ru":"существенный","sa":"بارِز","level":4,"transcription":null}
-{"ru":"многочисленный","sa":"عديد","level":3,"transcription":null}
+{"ru":"существенный","sa":"بارز","level":4,"transcription":null}
+{"ru":"многочисленный","sa":"عدد كبير","level":3,"transcription":null}
 {"ru":"зеленый","sa":"أخضر","level":1,"transcription":null}
 {"ru":"удар","sa":"يضرب","level":2,"transcription":null}
 {"ru":"пожалуй","sa":"ربما","level":2,"transcription":null}
 {"ru":"почему-то","sa":"لسبب ما","level":2,"transcription":null}
-{"ru":"заключаться","sa":"تتكون","level":4,"transcription":null}
+{"ru":"заключаться","sa":"تكون","level":4,"transcription":null}
 {"ru":"собраться","sa":"نلتقي","level":2,"transcription":null}
 {"ru":"расход","sa":"استهلاك","level":3,"transcription":null}
 {"ru":"лес","sa":"غابة","level":1,"transcription":null}
@@ -1085,24 +1085,24 @@
 {"ru":"важно","sa":"مهم","level":2,"transcription":null}
 {"ru":"зима","sa":"شتاء","level":1,"transcription":null}
 {"ru":"четвертый","sa":"الرابع","level":1,"transcription":null}
-{"ru":"что-нибудь","sa":"أي شئ","level":1,"transcription":null}
-{"ru":"знак","sa":"لافتة","level":2,"transcription":null}
-{"ru":"производить","sa":"ينتج","level":4,"transcription":null}
-{"ru":"наблюдать","sa":"يراقب","level":4,"transcription":null}
-{"ru":"перестать","sa":"قف","level":2,"transcription":null}
-{"ru":"исполнение","sa":"تنفيذ","level":4,"transcription":null}
-{"ru":"журналист","sa":"صحافي","level":2,"transcription":null}
-{"ru":"ученый","sa":"عالم","level":2,"transcription":null}
+{"ru":"что-нибудь","sa":"أي شيء","level":1,"transcription":null}
+{"ru":"знак","sa":"إشارة","level":2,"transcription":null}
+{"ru":"производить","sa":"توليد","level":4,"transcription":null}
+{"ru":"наблюдать","sa":"مراقبة","level":4,"transcription":null}
+{"ru":"перестать","sa":"يتوقف","level":2,"transcription":null}
+{"ru":"исполнение","sa":"عمل","level":4,"transcription":null}
+{"ru":"журналист","sa":"صحفي","level":2,"transcription":null}
+{"ru":"ученый","sa":"باحث","level":2,"transcription":null}
 {"ru":"заключение","sa":"خاتمة","level":4,"transcription":null}
-{"ru":"вперед","sa":"إلى الأمام","level":1,"transcription":null}
-{"ru":"хватить","sa":"هذا يكفي","level":3,"transcription":null}
-{"ru":"присутствовать","sa":"كن حاضرا","level":3,"transcription":null}
-{"ru":"выполнение","sa":"تنفيذ","level":4,"transcription":null}
+{"ru":"вперед","sa":"قبل","level":1,"transcription":null}
+{"ru":"хватить","sa":"يكتفي","level":3,"transcription":null}
+{"ru":"присутствовать","sa":"يكون حاضر","level":3,"transcription":null}
+{"ru":"выполнение","sa":"عمل","level":4,"transcription":null}
 {"ru":"холодный","sa":"بارد","level":1,"transcription":null}
-{"ru":"сесть","sa":"اجلس","level":1,"transcription":null}
+{"ru":"сесть","sa":"جلس","level":1,"transcription":null}
 {"ru":"потеря","sa":"خسارة","level":3,"transcription":null}
 {"ru":"стиль","sa":"أسلوب","level":2,"transcription":null}
-{"ru":"осень","sa":"خريف","level":1,"transcription":null}
+{"ru":"осень","sa":"الخريف","level":1,"transcription":null}
 {"ru":"английский","sa":"إنجليزي","level":1,"transcription":null}
 {"ru":"весна","sa":"ربيع","level":1,"transcription":null}
 {"ru":"товарищ","sa":"الرفيق","level":2,"transcription":null}
@@ -1115,11 +1115,11 @@
 {"ru":"высота","sa":"ارتفاع","level":2,"transcription":null}
 {"ru":"море","sa":"بحر","level":1,"transcription":null}
 {"ru":"долг","sa":"واجب","level":3,"transcription":null}
-{"ru":"верный","sa":"وفي","level":2,"transcription":null}
+{"ru":"верный","sa":"أخلاق","level":2,"transcription":null}
 {"ru":"август","sa":"أغسطس","level":1,"transcription":null}
 {"ru":"поток","sa":"تدفق","level":3,"transcription":null}
-{"ru":"допустить","sa":"يعترف","level":3,"transcription":null}
-{"ru":"включить","sa":"تشغيل","level":2,"transcription":null}
+{"ru":"допустить","sa":"يتقبل","level":3,"transcription":null}
+{"ru":"включить","sa":"يبدأ","level":2,"transcription":null}
 {"ru":"плечо","sa":"كتف","level":1,"transcription":null}
 {"ru":"готовить","sa":"يحضر","level":1,"transcription":null}
 {"ru":"скорость","sa":"سرعة","level":2,"transcription":null}
@@ -1144,13 +1144,13 @@
 {"ru":"будто","sa":"كما لو","level":2,"transcription":null}
 {"ru":"доход","sa":"دخل","level":3,"transcription":null}
 {"ru":"закончить","sa":"ينهي","level":2,"transcription":null}
-{"ru":"попробовать","sa":"يحاول","level":2,"transcription":null}
-{"ru":"назначение","sa":"ميعاد","level":4,"transcription":null}
+{"ru":"попробовать","sa":"يختبر","level":2,"transcription":null}
+{"ru":"назначение","sa":"مهمة","level":4,"transcription":null}
 {"ru":"отделение","sa":"قسم","level":3,"transcription":null}
 {"ru":"горячий","sa":"حار","level":1,"transcription":null}
 {"ru":"поздно","sa":"متأخر","level":1,"transcription":null}
 {"ru":"какой-либо","sa":"أي","level":2,"transcription":null}
-{"ru":"острый","sa":"حار","level":2,"transcription":null}
+{"ru":"острый","sa":"حاد","level":2,"transcription":null}
 {"ru":"случайно","sa":"بطريق الخطأ","level":2,"transcription":null}
 {"ru":"понимание","sa":"فهم","level":3,"transcription":null}
 {"ru":"образец","sa":"عينة","level":3,"transcription":null}
@@ -1170,7 +1170,7 @@
 {"ru":"личность","sa":"شخصية","level":3,"transcription":null}
 {"ru":"фактически","sa":"في الحقيقة","level":3,"transcription":null}
 {"ru":"глядеть","sa":"ينظر","level":2,"transcription":null}
-{"ru":"снимать","sa":"اخلع","level":2,"transcription":null}
+{"ru":"снимать","sa":"يتم إزالة","level":2,"transcription":null}
 {"ru":"терять","sa":"يخسر","level":2,"transcription":null}
 {"ru":"предоставить","sa":"يمد","level":4,"transcription":null}
 {"ru":"черта","sa":"سمة","level":3,"transcription":null}
@@ -1199,18 +1199,18 @@
 {"ru":"нижний","sa":"أدنى","level":2,"transcription":null}
 {"ru":"закрыть","sa":"يغلق","level":1,"transcription":null}
 {"ru":"ездить","sa":"يركب","level":1,"transcription":null}
-{"ru":"занятие","sa":"فصل","level":3,"transcription":null}
+{"ru":"занятие","sa":"درس","level":3,"transcription":null}
 {"ru":"французский","sa":"فرنسي","level":2,"transcription":null}
 {"ru":"поведение","sa":"سلوك","level":4,"transcription":null}
 {"ru":"аппарат","sa":"جهاز","level":4,"transcription":null}
 {"ru":"сообщение","sa":"رسالة","level":2,"transcription":null}
 {"ru":"помещение","sa":"غرفة","level":3,"transcription":null}
-{"ru":"дойти","sa":"الوصول إلى هناك","level":2,"transcription":null}
+{"ru":"дойти","sa":"يصل هناك","level":2,"transcription":null}
 {"ru":"инициатива","sa":"مبادرة","level":4,"transcription":null}
 {"ru":"двор","sa":"ساحة","level":2,"transcription":null}
-{"ru":"произвести","sa":"ينتج","level":4,"transcription":null}
+{"ru":"произвести","sa":"يتحول إلى","level":4,"transcription":null}
 {"ru":"детство","sa":"طفولة","level":2,"transcription":null}
-{"ru":"ведущий","sa":"الرائدة","level":3,"transcription":null}
+{"ru":"ведущий","sa":"الرائد","level":3,"transcription":null}
 {"ru":"попытаться","sa":"يحاول","level":2,"transcription":null}
 {"ru":"должность","sa":"مسمى وظيفي","level":3,"transcription":null}
 {"ru":"широко","sa":"واسع","level":2,"transcription":null}
@@ -1263,7 +1263,7 @@
 {"ru":"приносить","sa":"يحضر","level":2,"transcription":null}
 {"ru":"эффект","sa":"تأثير","level":3,"transcription":null}
 {"ru":"женский","sa":"أنثى","level":2,"transcription":null}
-{"ru":"понравиться","sa":"مثل ذلك","level":2,"transcription":null}
+{"ru":"понравиться","sa":"يُرضَى","level":2,"transcription":null}
 {"ru":"доказать","sa":"يثبت","level":3,"transcription":null}
 {"ru":"обязанность","sa":"واجب","level":4,"transcription":null}
 {"ru":"пост","sa":"سريع","level":3,"transcription":null}
@@ -1344,14 +1344,14 @@
 {"ru":"эпоха","sa":"عصر","level":3,"transcription":null}
 {"ru":"вкус","sa":"ذوق","level":2,"transcription":null}
 {"ru":"зарубежный","sa":"أجنبي","level":3,"transcription":null}
-{"ru":"следить","sa":"مسار","level":3,"transcription":null}
+{"ru":"следить","sa":"تتبع","level":3,"transcription":null}
 {"ru":"ветер","sa":"رياح","level":1,"transcription":null}
 {"ru":"выразить","sa":"يعبر","level":3,"transcription":null}
 {"ru":"процедура","sa":"إجراء","level":4,"transcription":null}
-{"ru":"основать","sa":"وجد","level":3,"transcription":null}
+{"ru":"основать","sa":"تأسيس","level":3,"transcription":null}
 {"ru":"привлечь","sa":"جذب","level":3,"transcription":null}
 {"ru":"изучение","sa":"دراسة","level":4,"transcription":null}
-{"ru":"спустя","sa":"لاحقاً","level":3,"transcription":null}
+{"ru":"спустя","sa":"بعد","level":3,"transcription":null}
 {"ru":"увеличить","sa":"يزيد","level":3,"transcription":null}
 {"ru":"пятый","sa":"الخامس","level":1,"transcription":null}
 {"ru":"партнер","sa":"شريك","level":2,"transcription":null}
@@ -1364,7 +1364,7 @@
 {"ru":"спасти","sa":"يحفظ","level":2,"transcription":null}
 {"ru":"окончательно","sa":"أخيراً","level":3,"transcription":null}
 {"ru":"редко","sa":"نادرًا","level":2,"transcription":null}
-{"ru":"предусмотреть","sa":"يمد","level":5,"transcription":null}
+{"ru":"предусмотреть","sa":"يُتوقع","level":5,"transcription":null}
 {"ru":"сон","sa":"حلم","level":1,"transcription":null}
 {"ru":"проверить","sa":"يفحص","level":3,"transcription":null}
 {"ru":"узнавать","sa":"يتعلم","level":2,"transcription":null}
@@ -1374,39 +1374,39 @@
 {"ru":"доктор","sa":"طبيب","level":1,"transcription":null}
 {"ru":"чудо","sa":"معجزة","level":2,"transcription":null}
 {"ru":"учитель","sa":"مدرس","level":1,"transcription":null}
-{"ru":"тридцать","sa":"ثلاثين","level":1,"transcription":null}
+{"ru":"тридцать","sa":"ثلاثون","level":1,"transcription":null}
 {"ru":"преимущество","sa":"ميزة","level":4,"transcription":null}
 {"ru":"мол","sa":"يقولون","level":3,"transcription":null}
 {"ru":"определяться","sa":"يتم تحديدها","level":4,"transcription":null}
-{"ru":"нечто","sa":"شئ ما","level":3,"transcription":null}
+{"ru":"нечто","sa":"شيء","level":3,"transcription":null}
 {"ru":"классический","sa":"كلاسيكي","level":3,"transcription":null}
 {"ru":"кричать","sa":"تصرخ","level":1,"transcription":null}
 {"ru":"заранее","sa":"مقدماً","level":3,"transcription":null}
 {"ru":"беседа","sa":"محادثة","level":3,"transcription":null}
-{"ru":"падать","sa":"يسقط","level":1,"transcription":null}
-{"ru":"бить","sa":"يهزم","level":1,"transcription":null}
+{"ru":"падать","sa":"يُصطدم","level":1,"transcription":null}
+{"ru":"бить","sa":"يُضرب","level":1,"transcription":null}
 {"ru":"эффективность","sa":"كفاءة","level":5,"transcription":null}
 {"ru":"попадать","sa":"يضرب","level":3,"transcription":null}
-{"ru":"выпускать","sa":"يطلق","level":3,"transcription":null}
+{"ru":"выпускать","sa":"يُطلق","level":3,"transcription":null}
 {"ru":"захотеть","sa":"يريد","level":2,"transcription":null}
 {"ru":"станция","sa":"محطة","level":1,"transcription":null}
 {"ru":"коллектив","sa":"فريق","level":3,"transcription":null}
 {"ru":"строгий","sa":"حازم","level":3,"transcription":null}
 {"ru":"тихий","sa":"هادئ","level":1,"transcription":null}
-{"ru":"карта","sa":"رسم خريطة","level":2,"transcription":null}
+{"ru":"карта","sa":"خريطة","level":2,"transcription":null}
 {"ru":"фраза","sa":"عبارة","level":2,"transcription":null}
 {"ru":"природный","sa":"طبيعي","level":3,"transcription":null}
-{"ru":"выясниться","sa":"اكتشف","level":3,"transcription":null}
+{"ru":"выясниться","sa":"يُفهم","level":3,"transcription":null}
 {"ru":"тенденция","sa":"اتجاه","level":4,"transcription":null}
 {"ru":"учреждение","sa":"مؤسسة","level":4,"transcription":null}
 {"ru":"подчеркнуть","sa":"يؤكد","level":4,"transcription":null}
-{"ru":"безусловно","sa":"مما لا شك فيه","level":3,"transcription":null}
-{"ru":"девочка","sa":"بنت","level":1,"transcription":null}
+{"ru":"безусловно","sa":"بلا شك","level":3,"transcription":null}
+{"ru":"девочка","sa":"فتاة","level":1,"transcription":null}
 {"ru":"устройство","sa":"جهاز","level":4,"transcription":null}
 {"ru":"умный","sa":"ذكي","level":1,"transcription":null}
 {"ru":"узкий","sa":"ضيق","level":2,"transcription":null}
 {"ru":"повторять","sa":"يكرر","level":2,"transcription":null}
-{"ru":"заставлять","sa":"قوة","level":3,"transcription":null}
+{"ru":"заставлять","sa":"يفرض","level":3,"transcription":null}
 {"ru":"встречать","sa":"يقابل","level":2,"transcription":null}
 {"ru":"исключить","sa":"استبعاد","level":4,"transcription":null}
 {"ru":"разрешение","sa":"إذن","level":4,"transcription":null}
@@ -1495,12 +1495,12 @@
 {"ru":"похоже","sa":"يبدو مثل","level":2,"transcription":null}
 {"ru":"карман","sa":"جيب","level":1,"transcription":null}
 {"ru":"крепкий","sa":"قوي","level":2,"transcription":null}
-{"ru":"вывести","sa":"ينسحب","level":3,"transcription":null}
-{"ru":"отправить","sa":"يرسل","level":2,"transcription":null}
-{"ru":"взяться","sa":"القيام","level":3,"transcription":null}
-{"ru":"создаваться","sa":"يتم إنشاؤها","level":4,"transcription":null}
-{"ru":"площадка","sa":"ملعب","level":3,"transcription":null}
-{"ru":"медленно","sa":"ببطء","level":1,"transcription":null}
+{"ru":"вывести","sa":"يخرج","level":3,"transcription":null}
+{"ru":"отправить","sa":"ينقل","level":2,"transcription":null}
+{"ru":"взяться","sa":"يتخذ","level":3,"transcription":null}
+{"ru":"создаваться","sa":"تُصنع","level":4,"transcription":null}
+{"ru":"площадка","sa":"موقع","level":3,"transcription":null}
+{"ru":"медленно","sa":"بطيء","level":1,"transcription":null}
 {"ru":"странно","sa":"غريب","level":2,"transcription":null}
 {"ru":"обращать","sa":"يتحول","level":3,"transcription":null}
 {"ru":"отправиться","sa":"يذهب","level":3,"transcription":null}
@@ -1508,29 +1508,29 @@
 {"ru":"обсуждать","sa":"يناقش","level":4,"transcription":null}
 {"ru":"учесть","sa":"تأخذ في الاعتبار","level":4,"transcription":null}
 {"ru":"честно","sa":"بصدق","level":2,"transcription":null}
-{"ru":"переходить","sa":"اذهب","level":2,"transcription":null}
+{"ru":"переходить","sa":"يذهب","level":2,"transcription":null}
 {"ru":"охрана","sa":"حماية","level":3,"transcription":null}
 {"ru":"обратно","sa":"خلف","level":2,"transcription":null}
 {"ru":"торговля","sa":"تجارة","level":3,"transcription":null}
 {"ru":"сохранение","sa":"حفظ","level":4,"transcription":null}
-{"ru":"ремонт","sa":"بصلح","level":2,"transcription":null}
+{"ru":"ремонт","sa":"إصلاح","level":2,"transcription":null}
 {"ru":"разобраться","sa":"يكتشف","level":3,"transcription":null}
 {"ru":"относительно","sa":"نسبياً","level":3,"transcription":null}
 {"ru":"замечать","sa":"يلاحظ","level":2,"transcription":null}
 {"ru":"страдать","sa":"يعاني","level":3,"transcription":null}
 {"ru":"промышленный","sa":"صناعي","level":4,"transcription":null}
 {"ru":"произведение","sa":"عمل","level":3,"transcription":null}
-{"ru":"остановить","sa":"قف","level":2,"transcription":null}
+{"ru":"остановить","sa":"يتوقف","level":2,"transcription":null}
 {"ru":"фотография","sa":"صورة","level":2,"transcription":null}
 {"ru":"конкурс","sa":"منافسة","level":3,"transcription":null}
 {"ru":"неожиданный","sa":"غير متوقع","level":3,"transcription":null}
 {"ru":"введение","sa":"مقدمة","level":4,"transcription":null}
 {"ru":"кухня","sa":"مطبخ","level":1,"transcription":null}
-{"ru":"найтись","sa":"يمكن العثور عليها","level":3,"transcription":null}
+{"ru":"найтись","sa":"يحتاج إلى","level":3,"transcription":null}
 {"ru":"след","sa":"مسار","level":3,"transcription":null}
-{"ru":"издание","sa":"طبعة","level":4,"transcription":null}
+{"ru":"издание","sa":"طباعة","level":4,"transcription":null}
 {"ru":"революция","sa":"ثورة","level":3,"transcription":null}
-{"ru":"пакет","sa":"كيس من البلاستيك","level":2,"transcription":null}
+{"ru":"пакет","sa":"حقيبة","level":2,"transcription":null}
 {"ru":"зритель","sa":"مشاهد","level":2,"transcription":null}
 {"ru":"потребовать","sa":"يطلب","level":4,"transcription":null}
 {"ru":"предназначить","sa":"ينوي","level":4,"transcription":null}
@@ -1545,7 +1545,7 @@
 {"ru":"версия","sa":"إصدار","level":3,"transcription":null}
 {"ru":"кто-нибудь","sa":"أي شخص","level":1,"transcription":null}
 {"ru":"километр","sa":"كيلومتر","level":1,"transcription":null}
-{"ru":"крыша","sa":"سَطح","level":1,"transcription":null}
+{"ru":"крыша","sa":"سطح","level":1,"transcription":null}
 {"ru":"забота","sa":"رعاية","level":3,"transcription":null}
 {"ru":"одинаковый","sa":"نفس","level":2,"transcription":null}
 {"ru":"клиент","sa":"عميل","level":2,"transcription":null}
@@ -1553,27 +1553,27 @@
 {"ru":"есть","sa":"هنالك","level":1,"transcription":null}
 {"ru":"победить","sa":"يفوز","level":3,"transcription":null}
 {"ru":"молодежь","sa":"شباب","level":2,"transcription":null}
-{"ru":"производитель","sa":"الشركة المصنعة","level":4,"transcription":null}
+{"ru":"производитель","sa":"مصنع","level":4,"transcription":null}
 {"ru":"милиция","sa":"شرطة","level":2,"transcription":null}
-{"ru":"выдать","sa":"مشكلة","level":3,"transcription":null}
+{"ru":"выдать","sa":"إصدار","level":3,"transcription":null}
 {"ru":"предпочитать","sa":"يفضل","level":4,"transcription":null}
-{"ru":"цветок","sa":"ورد","level":1,"transcription":null}
-{"ru":"округ","sa":"يصرف","level":3,"transcription":null}
-{"ru":"сообщать","sa":"تقرير","level":3,"transcription":null}
+{"ru":"цветок","sa":"زهرة","level":1,"transcription":null}
+{"ru":"округ","sa":"مركز","level":3,"transcription":null}
+{"ru":"сообщать","sa":"إخبار","level":3,"transcription":null}
 {"ru":"видный","sa":"بارز","level":3,"transcription":null}
-{"ru":"том","sa":"مقدار","level":3,"transcription":null}
+{"ru":"том","sa":"كمية","level":3,"transcription":null}
 {"ru":"публика","sa":"عام","level":3,"transcription":null}
 {"ru":"взаимодействие","sa":"تفاعل","level":5,"transcription":null}
 {"ru":"позвонить","sa":"يتصل","level":2,"transcription":null}
-{"ru":"этаж","sa":"أرضية","level":1,"transcription":null}
+{"ru":"этаж","sa":"مبنى","level":1,"transcription":null}
 {"ru":"успешный","sa":"ناجح","level":3,"transcription":null}
 {"ru":"собака","sa":"كلب","level":1,"transcription":null}
 {"ru":"производственный","sa":"صناعي","level":4,"transcription":null}
-{"ru":"реальность","sa":"الواقع","level":4,"transcription":null}
-{"ru":"слеза","sa":"يٌقطِّع","level":2,"transcription":null}
-{"ru":"привезти","sa":"يحضر","level":2,"transcription":null}
+{"ru":"реальность","sa":"الحقيقة","level":4,"transcription":null}
+{"ru":"слеза","sa":"قطرات","level":2,"transcription":null}
+{"ru":"привезти","sa":"يتصل","level":2,"transcription":null}
 {"ru":"указывать","sa":"يشير","level":3,"transcription":null}
-{"ru":"парень","sa":"ولد","level":1,"transcription":null}
+{"ru":"парень","sa":"رجل","level":1,"transcription":null}
 {"ru":"смеяться","sa":"يضحك","level":1,"transcription":null}
 {"ru":"оборот","sa":"دوران","level":3,"transcription":null}
 {"ru":"текущий","sa":"حاضِر","level":3,"transcription":null}
@@ -1583,48 +1583,48 @@
 {"ru":"сквозь","sa":"خلال","level":3,"transcription":null}
 {"ru":"неизвестный","sa":"مجهول","level":3,"transcription":null}
 {"ru":"блок","sa":"حاجز","level":3,"transcription":null}
-{"ru":"температура","sa":"درجة حرارة","level":2,"transcription":null}
+{"ru":"температура","sa":"درجة الحرارة","level":2,"transcription":null}
 {"ru":"оттуда","sa":"من هناك","level":2,"transcription":null}
-{"ru":"нечего","sa":"لا شئ","level":2,"transcription":null}
-{"ru":"продолжить","sa":"يكمل","level":3,"transcription":null}
-{"ru":"пожалуйста","sa":"لو سمحت","level":1,"transcription":null}
+{"ru":"нечего","sa":"لا شيء","level":2,"transcription":null}
+{"ru":"продолжить","sa":"يواصل","level":3,"transcription":null}
+{"ru":"пожалуйста","sa":"أنا أسعد","level":1,"transcription":null}
 {"ru":"разговаривать","sa":"يتحدث","level":2,"transcription":null}
 {"ru":"важнейший","sa":"الأهم","level":3,"transcription":null}
 {"ru":"продолжение","sa":"استمرار","level":4,"transcription":null}
 {"ru":"приобретать","sa":"يكتسب","level":4,"transcription":null}
-{"ru":"временной","sa":"مؤقت","level":4,"transcription":null}
-{"ru":"испытание","sa":"محاكمة","level":4,"transcription":null}
-{"ru":"прочитать","sa":"يقرأ","level":1,"transcription":null}
-{"ru":"таковой","sa":"هذه","level":3,"transcription":null}
+{"ru":"временной","sa":"موقت","level":4,"transcription":null}
+{"ru":"испытание","sa":"اختبار","level":4,"transcription":null}
+{"ru":"прочитать","sa":"يقراء","level":1,"transcription":null}
+{"ru":"таковой","sa":"هذا","level":3,"transcription":null}
 {"ru":"трудность","sa":"صعوبة","level":3,"transcription":null}
 {"ru":"планировать","sa":"يخطط","level":3,"transcription":null}
-{"ru":"затрата","sa":"يكلف","level":4,"transcription":null}
+{"ru":"затрата","sa":"تكلفة","level":4,"transcription":null}
 {"ru":"больница","sa":"مستشفى","level":1,"transcription":null}
-{"ru":"ценный","sa":"قيّم","level":3,"transcription":null}
+{"ru":"ценный","sa":"مميز","level":3,"transcription":null}
 {"ru":"канал","sa":"قناة","level":3,"transcription":null}
 {"ru":"теория","sa":"نظرية","level":4,"transcription":null}
 {"ru":"корень","sa":"جذر","level":2,"transcription":null}
-{"ru":"транспорт","sa":"ينقل","level":3,"transcription":null}
+{"ru":"транспорт","sa":"وسائل النقل","level":3,"transcription":null}
 {"ru":"объединить","sa":"يجمع","level":4,"transcription":null}
-{"ru":"заложить","sa":"بيدق","level":3,"transcription":null}
+{"ru":"заложить","sa":"يضع","level":3,"transcription":null}
 {"ru":"опытный","sa":"ذوي الخبرة","level":2,"transcription":null}
 {"ru":"отдых","sa":"استراحة","level":2,"transcription":null}
 {"ru":"кино","sa":"فيلم","level":1,"transcription":null}
 {"ru":"выставка","sa":"معرض","level":3,"transcription":null}
 {"ru":"хлеб","sa":"خبز","level":1,"transcription":null}
 {"ru":"риск","sa":"مخاطرة","level":3,"transcription":null}
-{"ru":"спортивный","sa":"رياضة","level":2,"transcription":null}
+{"ru":"спортивный","sa":"رياضي","level":2,"transcription":null}
 {"ru":"печать","sa":"ختم","level":3,"transcription":null}
-{"ru":"согласный","sa":"ساكن","level":3,"transcription":null}
-{"ru":"молчать","sa":"التزم الصمت","level":1,"transcription":null}
-{"ru":"величина","sa":"ضخامة","level":4,"transcription":null}
+{"ru":"согласный","sa":"صوت","level":3,"transcription":null}
+{"ru":"молчать","sa":"الابتعاد عن الكلام","level":1,"transcription":null}
+{"ru":"величина","sa":"حجم","level":4,"transcription":null}
 {"ru":"кризис","sa":"مصيبة","level":3,"transcription":null}
-{"ru":"деловой","sa":"عمل","level":3,"transcription":null}
+{"ru":"деловой","sa":"مادري","level":3,"transcription":null}
 {"ru":"передавать","sa":"إرسال","level":3,"transcription":null}
 {"ru":"рот","sa":"فم","level":1,"transcription":null}
-{"ru":"поездка","sa":"يقود","level":2,"transcription":null}
+{"ru":"поездка","sa":"رحلة","level":2,"transcription":null}
 {"ru":"противник","sa":"العدو","level":3,"transcription":null}
-{"ru":"творчество","sa":"الخلق","level":4,"transcription":null}
+{"ru":"творчество","sa":"التنوير","level":4,"transcription":null}
 {"ru":"духовный","sa":"روحي","level":3,"transcription":null}
 {"ru":"тихо","sa":"هادئ","level":1,"transcription":null}
 {"ru":"животное","sa":"حيوان","level":2,"transcription":null}
@@ -1633,7 +1633,7 @@
 {"ru":"закрытый","sa":"مغلق","level":2,"transcription":null}
 {"ru":"заметный","sa":"محسوس","level":3,"transcription":null}
 {"ru":"звонить","sa":"يتصل","level":1,"transcription":null}
-{"ru":"учебный","sa":"تمرين","level":3,"transcription":null}
+{"ru":"учебный","sa":"تعليمي","level":3,"transcription":null}
 {"ru":"самостоятельный","sa":"مستقل","level":4,"transcription":null}
 {"ru":"наверняка","sa":"بالتأكيد","level":3,"transcription":null}
 {"ru":"решаться","sa":"يقرر","level":4,"transcription":null}
@@ -1642,7 +1642,7 @@
 {"ru":"кожа","sa":"جلد","level":2,"transcription":null}
 {"ru":"лишить","sa":"يحرم","level":4,"transcription":null}
 {"ru":"поговорить","sa":"يتحدث","level":2,"transcription":null}
-{"ru":"интересовать","sa":"اهتمام","level":3,"transcription":null}
+{"ru":"интересовать","sa":"يثير اهتمام","level":3,"transcription":null}
 {"ru":"зуб","sa":"سن","level":1,"transcription":null}
 {"ru":"записать","sa":"اكتب","level":2,"transcription":null}
 {"ru":"морской","sa":"بحري","level":2,"transcription":null}
@@ -1653,11 +1653,11 @@
 {"ru":"зайти","sa":"ادخل","level":2,"transcription":null}
 {"ru":"глубоко","sa":"عميق","level":2,"transcription":null}
 {"ru":"воспоминание","sa":"ذاكرة","level":4,"transcription":null}
-{"ru":"познакомиться","sa":"познакомиться","level":2,"transcription":null}
+{"ru":"познакомиться","sa":"تعارف","level":2,"transcription":null}
 {"ru":"секрет","sa":"سر","level":2,"transcription":null}
 {"ru":"минимальный","sa":"الحد الأدنى","level":4,"transcription":null}
 {"ru":"рассчитать","sa":"احسب","level":4,"transcription":null}
-{"ru":"атмосфера","sa":"أَجواء","level":3,"transcription":null}
+{"ru":"атмосфера","sa":"أجواء","level":3,"transcription":null}
 {"ru":"твердый","sa":"صلب","level":2,"transcription":null}
 {"ru":"ведомство","sa":"قسم","level":4,"transcription":null}
 {"ru":"ответственный","sa":"مسؤول","level":4,"transcription":null}
@@ -1671,26 +1671,26 @@
 {"ru":"отличный","sa":"عظيم","level":2,"transcription":null}
 {"ru":"профессия","sa":"مهنة","level":3,"transcription":null}
 {"ru":"конструкция","sa":"تصميم","level":4,"transcription":null}
-{"ru":"вынести","sa":"يكابد","level":4,"transcription":null}
+{"ru":"вынести","sa":"يخرج","level":4,"transcription":null}
 {"ru":"раз","sa":"مرة واحدة","level":1,"transcription":null}
 {"ru":"следовательно","sa":"لذلك","level":3,"transcription":null}
-{"ru":"доступный","sa":"يمكن الوصول إليها","level":3,"transcription":null}
-{"ru":"вниз","sa":"تحت","level":1,"transcription":null}
+{"ru":"доступный","sa":"متاح","level":3,"transcription":null}
+{"ru":"вниз","sa":"أسفل","level":1,"transcription":null}
 {"ru":"увы","sa":"للأسف","level":2,"transcription":null}
-{"ru":"привлекать","sa":"جذب","level":3,"transcription":null}
+{"ru":"привлекать","sa":"يُجذب","level":3,"transcription":null}
 {"ru":"простить","sa":"يغفر","level":2,"transcription":null}
 {"ru":"случаться","sa":"يحدث","level":3,"transcription":null}
 {"ru":"ключевой","sa":"مفتاح","level":3,"transcription":null}
 {"ru":"готовность","sa":"استعداد","level":3,"transcription":null}
-{"ru":"складываться","sa":"طية","level":4,"transcription":null}
+{"ru":"складываться","sa":"تكون","level":4,"transcription":null}
 {"ru":"прожить","sa":"يعيش","level":2,"transcription":null}
-{"ru":"остальное","sa":"استراحة","level":3,"transcription":null}
-{"ru":"подниматься","sa":"استيقظ","level":2,"transcription":null}
+{"ru":"остальное","sa":"بقيت","level":3,"transcription":null}
+{"ru":"подниматься","sa":"يُستيقظ","level":2,"transcription":null}
 {"ru":"штат","sa":"ولاية","level":3,"transcription":null}
-{"ru":"выпить","sa":"شرب","level":1,"transcription":null}
+{"ru":"выпить","sa":"يشرب","level":1,"transcription":null}
 {"ru":"музей","sa":"متحف","level":1,"transcription":null}
 {"ru":"скромный","sa":"محتشم","level":2,"transcription":null}
-{"ru":"вставать","sa":"استيقظ","level":2,"transcription":null}
+{"ru":"вставать","sa":"يُستيقظ","level":2,"transcription":null}
 {"ru":"ограничение","sa":"القيد","level":4,"transcription":null}
 {"ru":"телевизор","sa":"تلفزيون","level":1,"transcription":null}
 {"ru":"актуальный","sa":"حاضِر","level":4,"transcription":null}
@@ -1723,7 +1723,7 @@
 {"ru":"эксперимент","sa":"تجربة","level":4,"transcription":null}
 {"ru":"сохранять","sa":"يحفظ","level":3,"transcription":null}
 {"ru":"внимательно","sa":"بانتباه","level":3,"transcription":null}
-{"ru":"вынудить","sa":"قوة","level":4,"transcription":null}
+{"ru":"вынудить","sa":"يتمنى","level":4,"transcription":null}
 {"ru":"намерен","sa":"ينوي","level":3,"transcription":null}
 {"ru":"плакать","sa":"يبكي","level":1,"transcription":null}
 {"ru":"утверждение","sa":"إفادة","level":4,"transcription":null}
@@ -1766,10 +1766,10 @@
 {"ru":"солдат","sa":"جندي","level":2,"transcription":null}
 {"ru":"качественный","sa":"نوعي","level":4,"transcription":null}
 {"ru":"ключ","sa":"مفتاح","level":1,"transcription":null}
-{"ru":"пресса","sa":"يضعط","level":3,"transcription":null}
+{"ru":"пресса","sa":"الصحيفة","level":3,"transcription":null}
 {"ru":"кончиться","sa":"نهاية","level":2,"transcription":null}
 {"ru":"повезти","sa":"محظوظ","level":2,"transcription":null}
-{"ru":"воспользоваться","sa":"الاستفادة","level":4,"transcription":null}
+{"ru":"воспользоваться","sa":"استخدام","level":4,"transcription":null}
 {"ru":"чтение","sa":"قراءة","level":2,"transcription":null}
 {"ru":"стадия","sa":"منصة","level":3,"transcription":null}
 {"ru":"рассматриваться","sa":"يعتبر","level":4,"transcription":null}
@@ -1781,27 +1781,27 @@
 {"ru":"спешить","sa":"عجل","level":2,"transcription":null}
 {"ru":"вслед","sa":"التالي","level":3,"transcription":null}
 {"ru":"публикация","sa":"النشر","level":4,"transcription":null}
-{"ru":"выяснить","sa":"اكتشف","level":3,"transcription":null}
+{"ru":"выяснить","sa":"يوضح","level":3,"transcription":null}
 {"ru":"сочетание","sa":"مزيج","level":4,"transcription":null}
 {"ru":"электронный","sa":"إلكتروني","level":3,"transcription":null}
 {"ru":"ученик","sa":"طالب","level":1,"transcription":null}
 {"ru":"книжка","sa":"كتاب","level":1,"transcription":null}
-{"ru":"нужда","sa":"يحتاج","level":3,"transcription":null}
-{"ru":"лететь","sa":"سافر","level":2,"transcription":null}
-{"ru":"плата","sa":"يدفع","level":3,"transcription":null}
+{"ru":"нужда","sa":"تحتاج","level":3,"transcription":null}
+{"ru":"лететь","sa":"يركض","level":2,"transcription":null}
+{"ru":"плата","sa":"دفع","level":3,"transcription":null}
 {"ru":"рекомендовать","sa":"يوصي","level":4,"transcription":null}
 {"ru":"дождь","sa":"مطر","level":1,"transcription":null}
 {"ru":"покупка","sa":"شراء","level":2,"transcription":null}
 {"ru":"бутылка","sa":"زجاجة","level":1,"transcription":null}
 {"ru":"вынужденный","sa":"مضطر","level":3,"transcription":null}
-{"ru":"садиться","sa":"اجلس","level":1,"transcription":null}
+{"ru":"садиться","sa":"يجلس","level":1,"transcription":null}
 {"ru":"четкий","sa":"واضح","level":3,"transcription":null}
 {"ru":"шум","sa":"ضوضاء","level":1,"transcription":null}
 {"ru":"птица","sa":"طائر","level":1,"transcription":null}
 {"ru":"истина","sa":"حقيقي","level":3,"transcription":null}
 {"ru":"толпа","sa":"حشد","level":2,"transcription":null}
 {"ru":"висеть","sa":"يشنق","level":2,"transcription":null}
-{"ru":"достать","sa":"احصل عليه","level":2,"transcription":null}
+{"ru":"достать","sa":"يأخذ","level":2,"transcription":null}
 {"ru":"областной","sa":"إقليمي","level":3,"transcription":null}
 {"ru":"запах","sa":"يشم","level":2,"transcription":null}
 {"ru":"отражать","sa":"يعكس","level":4,"transcription":null}
@@ -1850,7 +1850,7 @@
 {"ru":"налоговый","sa":"ضريبة","level":4,"transcription":null}
 {"ru":"ладно","sa":"نعم","level":1,"transcription":null}
 {"ru":"папа","sa":"أب","level":1,"transcription":null}
-{"ru":"кресло","sa":"كرسي بذراعين","level":1,"transcription":null}
+{"ru":"кресло","sa":"كرسي","level":1,"transcription":null}
 {"ru":"повысить","sa":"يزيد","level":3,"transcription":null}
 {"ru":"реклама","sa":"دعاية","level":3,"transcription":null}
 {"ru":"интервью","sa":"مقابلة","level":2,"transcription":null}
@@ -1864,7 +1864,7 @@
 {"ru":"подразделение","sa":"تقسيم فرعي","level":4,"transcription":null}
 {"ru":"штука","sa":"شيء","level":2,"transcription":null}
 {"ru":"осуществить","sa":"ينفذ","level":5,"transcription":null}
-{"ru":"выявить","sa":"تعريف","level":4,"transcription":null}
+{"ru":"выявить","sa":"يُعرّف","level":4,"transcription":null}
 {"ru":"оказать","sa":"يمد","level":3,"transcription":null}
 {"ru":"жилье","sa":"الإسكان","level":3,"transcription":null}
 {"ru":"высказать","sa":"يعبر","level":3,"transcription":null}
@@ -1979,7 +1979,7 @@
 {"ru":"предоставлять","sa":"يعطي","level":4,"transcription":null}
 {"ru":"поезд","sa":"يدرب","level":1,"transcription":null}
 {"ru":"взрослый","sa":"بالغ","level":2,"transcription":null}
-{"ru":"тепло","sa":"دافيء","level":1,"transcription":null}
+{"ru":"тепло","sa":"دافئ","level":1,"transcription":null}
 {"ru":"восстановить","sa":"يعيد","level":5,"transcription":null}
 {"ru":"проявление","sa":"مظهر","level":4,"transcription":null}
 {"ru":"воспринимать","sa":"يتصور","level":5,"transcription":null}
@@ -2011,18 +2011,18 @@
 {"ru":"агентство","sa":"وكالة","level":3,"transcription":null}
 {"ru":"побывать","sa":"يزور","level":2,"transcription":null}
 {"ru":"хранить","sa":"يحفظ","level":2,"transcription":null}
-{"ru":"выгодный","sa":"مربحة","level":3,"transcription":null}
-{"ru":"параметр","sa":"المعلمة","level":4,"transcription":null}
+{"ru":"выгодный","sa":"مربح","level":3,"transcription":null}
+{"ru":"параметр","sa":"المتغير","level":4,"transcription":null}
 {"ru":"ассоциация","sa":"منظمة","level":4,"transcription":null}
-{"ru":"намерение","sa":"نيّة","level":4,"transcription":null}
-{"ru":"школьный","sa":"مدرسة","level":2,"transcription":null}
-{"ru":"обработка","sa":"يعالج","level":4,"transcription":null}
-{"ru":"водка","sa":"فودكا","level":1,"transcription":null}
+{"ru":"намерение","sa":"نية","level":4,"transcription":null}
+{"ru":"школьный","sa":"مدرسي","level":2,"transcription":null}
+{"ru":"обработка","sa":"المعالجة","level":4,"transcription":null}
+{"ru":"водка","sa":"الكيماوي","level":1,"transcription":null}
 {"ru":"спорт","sa":"رياضة","level":1,"transcription":null}
 {"ru":"отойти","sa":"الابتعاد","level":2,"transcription":null}
-{"ru":"рыночный","sa":"سوق","level":3,"transcription":null}
-{"ru":"объясняться","sa":"اشرح نفسك","level":4,"transcription":null}
-{"ru":"исполнять","sa":"يؤدي","level":3,"transcription":null}
+{"ru":"рыночный","sa":"سوقي","level":3,"transcription":null}
+{"ru":"объясняться","sa":"يشرح نفسه","level":4,"transcription":null}
+{"ru":"исполнять","sa":"يقوم به","level":3,"transcription":null}
 {"ru":"зеркало","sa":"مرآة","level":1,"transcription":null}
 {"ru":"млрд","sa":"مليار","level":2,"transcription":null}
 {"ru":"бросать","sa":"يرمي","level":2,"transcription":null}
@@ -2031,33 +2031,33 @@
 {"ru":"палата","sa":"جناح","level":3,"transcription":null}
 {"ru":"реально","sa":"حقًا","level":3,"transcription":null}
 {"ru":"губа","sa":"شفة","level":1,"transcription":null}
-{"ru":"запись","sa":"سِجِلّ","level":3,"transcription":null}
+{"ru":"запись","sa":"سجل","level":3,"transcription":null}
 {"ru":"гулять","sa":"يمشي","level":1,"transcription":null}
 {"ru":"развитой","sa":"متطور","level":3,"transcription":null}
 {"ru":"удивление","sa":"دهشة","level":3,"transcription":null}
-{"ru":"решиться","sa":"اتخذ قرارك","level":3,"transcription":null}
-{"ru":"бабушка","sa":"جدة","level":1,"transcription":null}
+{"ru":"решиться","sa":"اتخذ قراره","level":3,"transcription":null}
+{"ru":"бабушка","sa":"جدية","level":1,"transcription":null}
 {"ru":"спорить","sa":"يجادل","level":2,"transcription":null}
-{"ru":"устать","sa":"تتعب","level":2,"transcription":null}
+{"ru":"устать","sa":"تعب","level":2,"transcription":null}
 {"ru":"ведение","sa":"إجراء","level":4,"transcription":null}
 {"ru":"рад","sa":"مسرور","level":2,"transcription":null}
-{"ru":"технологический","sa":"التكنولوجية","level":5,"transcription":null}
+{"ru":"технологический","sa":"تكنولوجي","level":5,"transcription":null}
 {"ru":"постараться","sa":"يحاول","level":2,"transcription":null}
-{"ru":"содержаться","sa":"يحتوي","level":4,"transcription":null}
+{"ru":"содержаться","sa":"يتصرف","level":4,"transcription":null}
 {"ru":"обо","sa":"عن","level":2,"transcription":null}
 {"ru":"пятнадцать","sa":"خمسة عشر","level":1,"transcription":null}
 {"ru":"логика","sa":"المنطق","level":3,"transcription":null}
-{"ru":"несчастный","sa":"تعيس","level":3,"transcription":null}
-{"ru":"посадить","sa":"نبات","level":2,"transcription":null}
+{"ru":"несчастный","sa":"مأسور","level":3,"transcription":null}
+{"ru":"посадить","sa":"يوضع","level":2,"transcription":null}
 {"ru":"памятник","sa":"نصب تذكاري","level":2,"transcription":null}
-{"ru":"солнечный","sa":"الشمسية","level":2,"transcription":null}
+{"ru":"солнечный","sa":"الشمسي","level":2,"transcription":null}
 {"ru":"громкий","sa":"عالي","level":1,"transcription":null}
 {"ru":"остров","sa":"جزيرة","level":2,"transcription":null}
 {"ru":"ресторан","sa":"مطعم","level":1,"transcription":null}
-{"ru":"транспортный","sa":"ينقل","level":3,"transcription":null}
+{"ru":"транспортный","sa":"تقني","level":3,"transcription":null}
 {"ru":"звонок","sa":"يتصل","level":2,"transcription":null}
 {"ru":"вещество","sa":"مادة","level":4,"transcription":null}
-{"ru":"кольцо","sa":"جرس","level":1,"transcription":null}
+{"ru":"кольцо","sa":"حلقة","level":1,"transcription":null}
 {"ru":"обязательство","sa":"فرض","level":4,"transcription":null}
 {"ru":"вклад","sa":"مساهمة","level":4,"transcription":null}
 {"ru":"вино","sa":"خمر","level":1,"transcription":null}
@@ -2098,13 +2098,13 @@
 {"ru":"шея","sa":"رقبة","level":1,"transcription":null}
 {"ru":"обед","sa":"عشاء","level":1,"transcription":null}
 {"ru":"сюжет","sa":"حبكة","level":3,"transcription":null}
-{"ru":"питание","sa":"تَغذِيَة","level":3,"transcription":null}
+{"ru":"питание","sa":"غذاء","level":3,"transcription":null}
 {"ru":"грех","sa":"خطيئة","level":2,"transcription":null}
 {"ru":"исполнительный","sa":"تنفيذي","level":4,"transcription":null}
 {"ru":"нигде","sa":"في أي مكان","level":2,"transcription":null}
 {"ru":"законодательный","sa":"تشريعية","level":5,"transcription":null}
 {"ru":"воздушный","sa":"هواء","level":2,"transcription":null}
-{"ru":"законный","sa":"قانون","level":3,"transcription":null}
+{"ru":"законный","sa":"قانوني","level":3,"transcription":null}
 {"ru":"куда-то","sa":"مكان ما","level":1,"transcription":null}
 {"ru":"привычка","sa":"عادة","level":3,"transcription":null}
 {"ru":"победитель","sa":"الفائز","level":2,"transcription":null}
@@ -2112,10 +2112,10 @@
 {"ru":"россиянин","sa":"الروسية","level":3,"transcription":null}
 {"ru":"придавать","sa":"نقل","level":4,"transcription":null}
 {"ru":"дышать","sa":"يتنفس","level":2,"transcription":null}
-{"ru":"удивляться","sa":"تفاجأ","level":3,"transcription":null}
+{"ru":"удивляться","sa":"يظن أن يكون غريباً","level":3,"transcription":null}
 {"ru":"изучить","sa":"يذاكر","level":3,"transcription":null}
 {"ru":"дважды","sa":"مرتين","level":2,"transcription":null}
-{"ru":"неприятный","sa":"غير سارة","level":2,"transcription":null}
+{"ru":"неприятный","sa":"غير مريح","level":2,"transcription":null}
 {"ru":"премия","sa":"علاوة","level":3,"transcription":null}
 {"ru":"нередко","sa":"غالباً","level":3,"transcription":null}
 {"ru":"вызов","sa":"يتصل","level":3,"transcription":null}
@@ -2197,32 +2197,32 @@
 {"ru":"металл","sa":"معدن","level":2,"transcription":null}
 {"ru":"осторожно","sa":"بعناية","level":2,"transcription":null}
 {"ru":"зло","sa":"شر","level":2,"transcription":null}
-{"ru":"жаль","sa":"آسف","level":2,"transcription":null}
+{"ru":"жаль","sa":"أسف","level":2,"transcription":null}
 {"ru":"утратить","sa":"يخسر","level":3,"transcription":null}
 {"ru":"рекомендация","sa":"توصية","level":4,"transcription":null}
 {"ru":"потребоваться","sa":"مطلوب","level":4,"transcription":null}
 {"ru":"село","sa":"قرية","level":1,"transcription":null}
-{"ru":"водитель","sa":"driver","level":1,"transcription":null}
+{"ru":"водитель","sa":"سيارة","level":1,"transcription":null}
 {"ru":"сократить","sa":"يقلل","level":3,"transcription":null}
 {"ru":"цикл","sa":"دورة","level":3,"transcription":null}
 {"ru":"браться","sa":"القيام","level":4,"transcription":null}
 {"ru":"приступить","sa":"يبدأ","level":3,"transcription":null}
 {"ru":"спасение","sa":"الخلاص","level":3,"transcription":null}
 {"ru":"плюс","sa":"زائد","level":2,"transcription":null}
-{"ru":"превратить","sa":"دور","level":4,"transcription":null}
+{"ru":"превратить","sa":"تحويل","level":4,"transcription":null}
 {"ru":"пропустить","sa":"يتخطى","level":2,"transcription":null}
 {"ru":"соотношение","sa":"نسبة","level":4,"transcription":null}
 {"ru":"неплохо","sa":"ليس سيئًا","level":1,"transcription":null}
 {"ru":"ограничить","sa":"حد","level":4,"transcription":null}
-{"ru":"близко","sa":"يغلق","level":1,"transcription":null}
+{"ru":"близко","sa":"قريب","level":1,"transcription":null}
 {"ru":"аспект","sa":"وجه","level":4,"transcription":null}
 {"ru":"регулярно","sa":"بانتظام","level":3,"transcription":null}
 {"ru":"строка","sa":"خط","level":2,"transcription":null}
 {"ru":"умение","sa":"مهارة","level":3,"transcription":null}
 {"ru":"столетие","sa":"قرن","level":2,"transcription":null}
 {"ru":"фронт","sa":"أمام","level":3,"transcription":null}
-{"ru":"голый","sa":"عارية","level":2,"transcription":null}
-{"ru":"останавливаться","sa":"قف","level":3,"transcription":null}
+{"ru":"голый","sa":"عاري","level":2,"transcription":null}
+{"ru":"останавливаться","sa":"يوقف","level":3,"transcription":null}
 {"ru":"уважать","sa":"احترام","level":3,"transcription":null}
 {"ru":"увеличиться","sa":"يزيد","level":3,"transcription":null}
 {"ru":"прочесть","sa":"يقرأ","level":2,"transcription":null}
@@ -2256,21 +2256,21 @@
 {"ru":"постановка","sa":"التدريج","level":3,"transcription":null}
 {"ru":"японский","sa":"اليابانية","level":2,"transcription":null}
 {"ru":"соображение","sa":"اعتبار","level":4,"transcription":null}
-{"ru":"обусловить","sa":"تنص","level":5,"transcription":null}
-{"ru":"поступок","sa":"يمثل","level":3,"transcription":null}
+{"ru":"обусловить","sa":"يؤثر على","level":5,"transcription":null}
+{"ru":"поступок","sa":"تصرف","level":3,"transcription":null}
 {"ru":"описывать","sa":"يصف","level":3,"transcription":null}
 {"ru":"заведение","sa":"مؤسسة","level":3,"transcription":null}
 {"ru":"ручка","sa":"قلم","level":1,"transcription":null}
-{"ru":"понадобиться","sa":"يحتاج","level":3,"transcription":null}
+{"ru":"понадобиться","sa":"ينبغي أن يحدث","level":3,"transcription":null}
 {"ru":"возрасти","sa":"يزيد","level":3,"transcription":null}
-{"ru":"жалко","sa":"إنه لأمر مؤسف","level":2,"transcription":null}
+{"ru":"жалко","sa":"إنه أمر مؤسف","level":2,"transcription":null}
 {"ru":"добраться","sa":"الوصول إلى هناك","level":3,"transcription":null}
 {"ru":"уничтожить","sa":"تدمير","level":4,"transcription":null}
 {"ru":"гордость","sa":"فخر","level":3,"transcription":null}
 {"ru":"вносить","sa":"جلب","level":3,"transcription":null}
 {"ru":"взрыв","sa":"انفجار","level":3,"transcription":null}
 {"ru":"телефонный","sa":"هاتف","level":2,"transcription":null}
-{"ru":"немец","sa":"الألمانية","level":2,"transcription":null}
+{"ru":"немец","sa":"الألماني","level":2,"transcription":null}
 {"ru":"жалеть","sa":"يندم","level":2,"transcription":null}
 {"ru":"сообщество","sa":"مجتمع","level":4,"transcription":null}
 {"ru":"заговорить","sa":"يتكلم","level":2,"transcription":null}
@@ -2314,7 +2314,7 @@
 {"ru":"доступ","sa":"وصول","level":3,"transcription":null}
 {"ru":"бытовой","sa":"محلي","level":3,"transcription":null}
 {"ru":"больно","sa":"يؤذي","level":2,"transcription":null}
-{"ru":"исполнить","sa":"بكمل","level":3,"transcription":null}
+{"ru":"исполнить","sa":"يقوم بملء","level":3,"transcription":null}
 {"ru":"несомненно","sa":"مما لا شك فيه","level":3,"transcription":null}
 {"ru":"обязать","sa":"إلزام","level":4,"transcription":null}
 {"ru":"проявляться","sa":"يظهر","level":4,"transcription":null}
@@ -2344,7 +2344,7 @@
 {"ru":"насчет","sa":"عن","level":3,"transcription":null}
 {"ru":"китайский","sa":"الصينية","level":2,"transcription":null}
 {"ru":"артист","sa":"فنان","level":2,"transcription":null}
-{"ru":"покрыть","sa":"غطاء","level":3,"transcription":null}
+{"ru":"покрыть","sa":"غلاف","level":3,"transcription":null}
 {"ru":"уступать","sa":"استسلم","level":3,"transcription":null}
 {"ru":"цветной","sa":"لون","level":2,"transcription":null}
 {"ru":"столкнуться","sa":"تصطدم","level":3,"transcription":null}
@@ -2454,28 +2454,28 @@
 {"ru":"сопровождать","sa":"مرافقة","level":4,"transcription":null}
 {"ru":"горе","sa":"حزن","level":2,"transcription":null}
 {"ru":"облик","sa":"مظهر","level":4,"transcription":null}
-{"ru":"перечень","sa":"انتقل","level":3,"transcription":null}
+{"ru":"перечень","sa":"انتقال","level":3,"transcription":null}
 {"ru":"молодость","sa":"شباب","level":2,"transcription":null}
 {"ru":"путешествие","sa":"رحلة","level":2,"transcription":null}
 {"ru":"горный","sa":"جبل","level":2,"transcription":null}
 {"ru":"мебель","sa":"أثاث","level":1,"transcription":null}
-{"ru":"благодарность","sa":"اِمتِنان","level":3,"transcription":null}
+{"ru":"благодарность","sa":"شكر","level":3,"transcription":null}
 {"ru":"песок","sa":"رمل","level":1,"transcription":null}
 {"ru":"узел","sa":"العقدة","level":2,"transcription":null}
 {"ru":"департамент","sa":"قسم","level":3,"transcription":null}
 {"ru":"пожилой","sa":"كبير","level":2,"transcription":null}
 {"ru":"статистика","sa":"إحصائيات","level":4,"transcription":null}
-{"ru":"помешать","sa":"يتدخل","level":3,"transcription":null}
+{"ru":"помешать","sa":"يُضاف","level":3,"transcription":null}
 {"ru":"спасибо","sa":"شكرًا لك","level":1,"transcription":null}
 {"ru":"планета","sa":"كوكب","level":2,"transcription":null}
-{"ru":"пострадать","sa":"تتأذى","level":3,"transcription":null}
+{"ru":"пострадать","sa":"تأذى","level":3,"transcription":null}
 {"ru":"гостиница","sa":"الفندق","level":1,"transcription":null}
 {"ru":"демократический","sa":"ديمقراطي","level":4,"transcription":null}
 {"ru":"конституция","sa":"دستور","level":4,"transcription":null}
 {"ru":"тонна","sa":"طن","level":2,"transcription":null}
 {"ru":"заполнить","sa":"املأ","level":3,"transcription":null}
 {"ru":"предупредить","sa":"تحذير","level":4,"transcription":null}
-{"ru":"жестокий","sa":"فظ","level":3,"transcription":null}
+{"ru":"жестокий","sa":"ظلمة","level":3,"transcription":null}
 {"ru":"ограниченный","sa":"محدود","level":4,"transcription":null}
 {"ru":"кровать","sa":"سرير","level":1,"transcription":null}
 {"ru":"повести","sa":"قصص","level":3,"transcription":null}
@@ -2485,16 +2485,16 @@
 {"ru":"награда","sa":"جائزة","level":3,"transcription":null}
 {"ru":"стакан","sa":"كوب","level":1,"transcription":null}
 {"ru":"рекламный","sa":"دعاية","level":3,"transcription":null}
-{"ru":"유дивить","sa":"유للمفاجأة","level":3,"transcription":null}
+{"ru":"유дивить","sa":"يثير","level":3,"transcription":null}
 {"ru":"чистота","sa":"نقاء","level":3,"transcription":null}
-{"ru":"летать","sa":"سافر","level":2,"transcription":null}
+{"ru":"летать","sa":"يرتفع","level":2,"transcription":null}
 {"ru":"доходить","sa":"يصل","level":3,"transcription":null}
 {"ru":"возрастать","sa":"يزيد","level":4,"transcription":null}
 {"ru":"передний","sa":"أمام","level":2,"transcription":null}
 {"ru":"окружать","sa":"تحيط","level":3,"transcription":null}
 {"ru":"издать","sa":"نشر","level":3,"transcription":null}
-{"ru":"изложить","sa":"ولاية","level":4,"transcription":null}
-{"ru":"прозвучать","sa":"صوت","level":3,"transcription":null}
+{"ru":"изложить","sa":"يشرح","level":4,"transcription":null}
+{"ru":"прозвучать","sa":"يصدر","level":3,"transcription":null}
 {"ru":"исключать","sa":"استبعاد","level":4,"transcription":null}
 {"ru":"капля","sa":"يسقط","level":1,"transcription":null}
 {"ru":"холод","sa":"بارد","level":1,"transcription":null}
@@ -2549,9 +2549,9 @@
 {"ru":"выражаться","sa":"التعبير عن نفسك","level":4,"transcription":null}
 {"ru":"компьютерный","sa":"حاسوب","level":3,"transcription":null}
 {"ru":"привлечение","sa":"جاذبية","level":4,"transcription":null}
-{"ru":"плотный","sa":"كثيفة","level":2,"transcription":null}
+{"ru":"плотный","sa":"كثيف","level":2,"transcription":null}
 {"ru":"кость","sa":"عظم","level":1,"transcription":null}
-{"ru":"разбираться","sa":"اكتشف ذلك","level":3,"transcription":null}
+{"ru":"разбираться","sa":"فهم ذلك","level":3,"transcription":null}
 {"ru":"лаборатория","sa":"معمل","level":3,"transcription":null}
 {"ru":"лечение","sa":"علاج","level":3,"transcription":null}
 {"ru":"всемирный","sa":"عالم","level":3,"transcription":null}
@@ -2580,19 +2580,19 @@
 {"ru":"бесплатный","sa":"حر","level":2,"transcription":null}
 {"ru":"внедрение","sa":"تطبيق","level":5,"transcription":null}
 {"ru":"разделять","sa":"تقسيم","level":3,"transcription":null}
-{"ru":"динамика","sa":"ديناميات","level":4,"transcription":null}
+{"ru":"динамика","sa":"ديناميكا","level":4,"transcription":null}
 {"ru":"поделиться","sa":"يشارك","level":3,"transcription":null}
 {"ru":"квартал","sa":"ربع","level":3,"transcription":null}
 {"ru":"грань","sa":"حافة","level":4,"transcription":null}
 {"ru":"обсудить","sa":"يناقش","level":4,"transcription":null}
 {"ru":"театральный","sa":"مسرحية","level":2,"transcription":null}
 {"ru":"сценарий","sa":"سيناريو","level":3,"transcription":null}
-{"ru":"кое-что","sa":"شئ ما","level":1,"transcription":null}
-{"ru":"подвиг","sa":"الفذ","level":3,"transcription":null}
+{"ru":"кое-что","sa":"شيء ما","level":1,"transcription":null}
+{"ru":"подвиг","sa":"فعل","level":3,"transcription":null}
 {"ru":"замечание","sa":"تعليق","level":3,"transcription":null}
-{"ru":"переставать","sa":"قف","level":3,"transcription":null}
+{"ru":"переставать","sa":"يتوقف","level":3,"transcription":null}
 {"ru":"мешок","sa":"شنطة","level":1,"transcription":null}
-{"ru":"тянуться","sa":"تمتد","level":3,"transcription":null}
+{"ru":"тянуться","sa":"يتمدد","level":3,"transcription":null}
 {"ru":"океан","sa":"محيط","level":2,"transcription":null}
 {"ru":"публичный","sa":"عام","level":3,"transcription":null}
 {"ru":"побежать","sa":"يجري","level":2,"transcription":null}
@@ -2633,7 +2633,7 @@
 {"ru":"поручить","sa":"إرشاد","level":4,"transcription":null}
 {"ru":"вечно","sa":"للأبد","level":2,"transcription":null}
 {"ru":"вопреки","sa":"يتعارض مع","level":3,"transcription":null}
-{"ru":"горло","sa":"حُلقُوم","level":1,"transcription":null}
+{"ru":"горло","sa":"حلق","level":1,"transcription":null}
 {"ru":"перерыв","sa":"استراحة","level":2,"transcription":null}
 {"ru":"угодно","sa":"أيا كان","level":3,"transcription":null}
 {"ru":"лед","sa":"الجليد","level":1,"transcription":null}
@@ -2665,27 +2665,27 @@
 {"ru":"волноваться","sa":"يقلق","level":3,"transcription":null}
 {"ru":"заслуга","sa":"استحقاق","level":3,"transcription":null}
 {"ru":"танец","sa":"رقص","level":1,"transcription":null}
-{"ru":"салон","sa":"صالون","level":2,"transcription":null}
-{"ru":"великолепный","sa":"خلاب","level":3,"transcription":null}
-{"ru":"коллективный","sa":"الجماعية","level":3,"transcription":null}
+{"ru":"салон","sa":"صالة","level":2,"transcription":null}
+{"ru":"великолепный","sa":"مبهج","level":3,"transcription":null}
+{"ru":"коллективный","sa":"جماعي","level":3,"transcription":null}
 {"ru":"соглашаться","sa":"يوافق","level":3,"transcription":null}
-{"ru":"свыше","sa":"زيادة","level":3,"transcription":null}
-{"ru":"фантазия","sa":"خيالي","level":3,"transcription":null}
+{"ru":"свыше","sa":"أعلى","level":3,"transcription":null}
+{"ru":"фантазия","sa":"خيال","level":3,"transcription":null}
 {"ru":"совершенствование","sa":"تحسين","level":5,"transcription":null}
 {"ru":"добавлять","sa":"يضيف","level":2,"transcription":null}
 {"ru":"краткий","sa":"مختصر","level":3,"transcription":null}
 {"ru":"паспорт","sa":"جواز سفر","level":1,"transcription":null}
 {"ru":"атака","sa":"هجوم","level":3,"transcription":null}
-{"ru":"ежедневно","sa":"يوميًا","level":2,"transcription":null}
+{"ru":"ежедневно","sa":"يومياً","level":2,"transcription":null}
 {"ru":"приятель","sa":"صاحب","level":2,"transcription":null}
-{"ru":"инвестиционный","sa":"استثمار","level":5,"transcription":null}
+{"ru":"инвестиционный","sa":"استثماري","level":5,"transcription":null}
 {"ru":"коллекция","sa":"مجموعة","level":3,"transcription":null}
 {"ru":"торжественный","sa":"رسمي","level":3,"transcription":null}
-{"ru":"отмечаться","sa":"تحقق في","level":4,"transcription":null}
+{"ru":"отмечаться","sa":"يتضح","level":4,"transcription":null}
 {"ru":"привлекательный","sa":"جذاب","level":3,"transcription":null}
 {"ru":"произносить","sa":"نطق","level":3,"transcription":null}
-{"ru":"базовый","sa":"قاعدة","level":3,"transcription":null}
-{"ru":"письменный","sa":"كتابة","level":2,"transcription":null}
+{"ru":"базовый","sa":"أساسي","level":3,"transcription":null}
+{"ru":"письменный","sa":"كتابي","level":2,"transcription":null}
 {"ru":"мягко","sa":"ناعم","level":2,"transcription":null}
 {"ru":"позвать","sa":"يتصل","level":1,"transcription":null}
 {"ru":"изготовление","sa":"تصنيع","level":4,"transcription":null}
@@ -2724,8 +2724,8 @@
 {"ru":"посылать","sa":"يرسل","level":2,"transcription":null}
 {"ru":"глобальный","sa":"عالمي","level":4,"transcription":null}
 {"ru":"оправдать","sa":"يبرر","level":4,"transcription":null}
-{"ru":"повернуться","sa":"التف حوله","level":2,"transcription":null}
-{"ru":"железнодорожный","sa":"السكك الحديدية","level":3,"transcription":null}
+{"ru":"повернуться","sa":"تدور","level":2,"transcription":null}
+{"ru":"железнодорожный","sa":"الحديدية","level":3,"transcription":null}
 {"ru":"муниципальный","sa":"البلدية","level":4,"transcription":null}
 {"ru":"молчание","sa":"الصمت","level":2,"transcription":null}
 {"ru":"смесь","sa":"خليط","level":3,"transcription":null}
@@ -2754,9 +2754,9 @@
 {"ru":"маршрут","sa":"طريق","level":3,"transcription":null}
 {"ru":"предоставление","sa":"رزق","level":5,"transcription":null}
 {"ru":"скрыть","sa":"يخفي","level":3,"transcription":null}
-{"ru":"выжить","sa":"ينجو","level":4,"transcription":null}
-{"ru":"пожар","sa":"نار","level":2,"transcription":null}
-{"ru":"противоречить","sa":"يتعارض","level":4,"transcription":null}
+{"ru":"выжить","sa":"يُنجو","level":4,"transcription":null}
+{"ru":"пожар","sa":"فجر","level":2,"transcription":null}
+{"ru":"противоречить","sa":"يتعارض مع","level":4,"transcription":null}
 {"ru":"голод","sa":"الجوع","level":2,"transcription":null}
 {"ru":"фабрика","sa":"مصنع","level":2,"transcription":null}
 {"ru":"ценить","sa":"قيمة","level":3,"transcription":null}
@@ -2766,13 +2766,13 @@
 {"ru":"подходящий","sa":"مناسب","level":3,"transcription":null}
 {"ru":"игрок","sa":"لاعب","level":2,"transcription":null}
 {"ru":"преподаватель","sa":"مدرس","level":2,"transcription":null}
-{"ru":"численность","sa":"رقم","level":4,"transcription":null}
-{"ru":"счесть","sa":"عدد","level":3,"transcription":null}
-{"ru":"успокоиться","sa":"اهدأ","level":2,"transcription":null}
+{"ru":"численность","sa":"العدد","level":4,"transcription":null}
+{"ru":"счесть","sa":"تقدير","level":3,"transcription":null}
+{"ru":"успокоиться","sa":"يهدأ","level":2,"transcription":null}
 {"ru":"иностранец","sa":"أجنبي","level":2,"transcription":null}
-{"ru":"вытащить","sa":"انسحب","level":2,"transcription":null}
+{"ru":"вытащить","sa":"يخرج","level":2,"transcription":null}
 {"ru":"бригада","sa":"لواء","level":3,"transcription":null}
-{"ru":"направлять","sa":"مرشد","level":3,"transcription":null}
+{"ru":"направлять","sa":"يرشد","level":3,"transcription":null}
 {"ru":"вступление","sa":"مقدمة","level":4,"transcription":null}
 {"ru":"звено","sa":"وصلة","level":3,"transcription":null}
 {"ru":"баба","sa":"امرأة","level":2,"transcription":null}
@@ -2815,7 +2815,7 @@
 {"ru":"вооружение","sa":"أسلحة","level":4,"transcription":null}
 {"ru":"экзамен","sa":"امتحان","level":2,"transcription":null}
 {"ru":"жанр","sa":"النوع","level":3,"transcription":null}
-{"ru":"отчасти","sa":"جزئيا","level":3,"transcription":null}
+{"ru":"отчасти","sa":"جزئياً","level":3,"transcription":null}
 {"ru":"исходный","sa":"إبداعي","level":4,"transcription":null}
 {"ru":"универсальный","sa":"عالمي","level":4,"transcription":null}
 {"ru":"сломать","sa":"استراحة","level":2,"transcription":null}
@@ -2848,24 +2848,24 @@
 {"ru":"приглашение","sa":"دعوة","level":2,"transcription":null}
 {"ru":"торжество","sa":"احتفال","level":3,"transcription":null}
 {"ru":"прочный","sa":"دائم","level":3,"transcription":null}
-{"ru":"выпасть","sa":"يسقط","level":2,"transcription":null}
+{"ru":"выпасть","sa":"يظهر","level":2,"transcription":null}
 {"ru":"по-другому","sa":"بشكل مختلف","level":2,"transcription":null}
 {"ru":"приказать","sa":"طلب","level":3,"transcription":null}
-{"ru":"пауза","sa":"يوقف","level":2,"transcription":null}
+{"ru":"пауза","sa":"توقف","level":2,"transcription":null}
 {"ru":"шар","sa":"كرة","level":1,"transcription":null}
 {"ru":"видеться","sa":"يرى","level":3,"transcription":null}
 {"ru":"независимость","sa":"استقلال","level":5,"transcription":null}
 {"ru":"командир","sa":"قائد","level":2,"transcription":null}
 {"ru":"течь","sa":"تدفق","level":2,"transcription":null}
 {"ru":"окружить","sa":"تحيط","level":3,"transcription":null}
-{"ru":"усиление","sa":"يكسب","level":4,"transcription":null}
+{"ru":"усиление","sa":"زيادة","level":4,"transcription":null}
 {"ru":"биться","sa":"يعارك","level":2,"transcription":null}
 {"ru":"инструкция","sa":"تعليمات","level":4,"transcription":null}
 {"ru":"менеджер","sa":"مدير","level":2,"transcription":null}
-{"ru":"препятствие","sa":"يترك","level":4,"transcription":null}
+{"ru":"препятствие","sa":"عائق","level":4,"transcription":null}
 {"ru":"мэр","sa":"عمدة","level":2,"transcription":null}
-{"ru":"образовывать","sa":"استمارة","level":4,"transcription":null}
-{"ru":"районный","sa":"يصرف","level":3,"transcription":null}
+{"ru":"образовывать","sa":"تكوين","level":4,"transcription":null}
+{"ru":"районный","sa":"موقع","level":3,"transcription":null}
 {"ru":"столик","sa":"طاولة","level":1,"transcription":null}
 {"ru":"демократия","sa":"ديمقراطية","level":3,"transcription":null}
 {"ru":"дорожка","sa":"مسار","level":2,"transcription":null}
@@ -2875,16 +2875,16 @@
 {"ru":"манера","sa":"طريقة","level":3,"transcription":null}
 {"ru":"полчаса","sa":"نصف ساعة","level":1,"transcription":null}
 {"ru":"серебряный","sa":"فضي","level":2,"transcription":null}
-{"ru":"экземпляр","sa":"ينسخ","level":3,"transcription":null}
+{"ru":"экземпляр","sa":"أدلة","level":3,"transcription":null}
 {"ru":"славный","sa":"مجيد","level":2,"transcription":null}
 {"ru":"коснуться","sa":"يلمس","level":3,"transcription":null}
-{"ru":"разместить","sa":"بريد","level":4,"transcription":null}
+{"ru":"разместить","sa":"توزيع","level":4,"transcription":null}
 {"ru":"зверь","sa":"وحش","level":2,"transcription":null}
 {"ru":"издательство","sa":"دار نشر","level":3,"transcription":null}
 {"ru":"увеличивать","sa":"يزيد","level":3,"transcription":null}
 {"ru":"проиграть","sa":"يخسر","level":2,"transcription":null}
 {"ru":"недалеко","sa":"قريب","level":1,"transcription":null}
-{"ru":"недовольный","sa":"غير راض","level":3,"transcription":null}
+{"ru":"недовольный","sa":"غير راضٍ","level":3,"transcription":null}
 {"ru":"невысокий","sa":"قليل","level":2,"transcription":null}
 {"ru":"зафиксировать","sa":"يصلح","level":4,"transcription":null}
 {"ru":"мальчишка","sa":"ولد","level":1,"transcription":null}
@@ -2983,7 +2983,7 @@
 {"ru":"подобно","sa":"يحب","level":3,"transcription":null}
 {"ru":"строитель","sa":"منشئ","level":2,"transcription":null}
 {"ru":"голодный","sa":"جائع","level":1,"transcription":null}
-{"ru":"подробный","sa":"مفصل","level":3,"transcription":null}
+{"ru":"подробный","sa":"مفصّل","level":3,"transcription":null}
 {"ru":"инвестор","sa":"مستثمر","level":4,"transcription":null}
 {"ru":"чудесный","sa":"رائع","level":2,"transcription":null}
 {"ru":"опора","sa":"يدعم","level":3,"transcription":null}
@@ -3014,8 +3014,8 @@
 {"ru":"обмануть","sa":"خداع","level":3,"transcription":null}
 {"ru":"красиво","sa":"جميل","level":1,"transcription":null}
 {"ru":"приоритет","sa":"أولوية","level":4,"transcription":null}
-{"ru":"значимый","sa":"بارِز","level":4,"transcription":null}
-{"ru":"копия","sa":"ينسخ","level":3,"transcription":null}
+{"ru":"значимый","sa":"باريز","level":4,"transcription":null}
+{"ru":"копия","sa":"نسخة","level":3,"transcription":null}
 {"ru":"специальность","sa":"التخصص","level":3,"transcription":null}
 {"ru":"посидеть","sa":"يجلس","level":1,"transcription":null}
 {"ru":"крикнуть","sa":"يصرخ","level":1,"transcription":null}
@@ -3095,11 +3095,11 @@
 {"ru":"полно","sa":"ممتلىء","level":3,"transcription":null}
 {"ru":"священный","sa":"مقدس","level":3,"transcription":null}
 {"ru":"климат","sa":"مناخ","level":3,"transcription":null}
-{"ru":"соперник","sa":"منافسة","level":3,"transcription":null}
-{"ru":"сапог","sa":"التمهيد","level":1,"transcription":null}
+{"ru":"соперник","sa":"منافس","level":3,"transcription":null}
+{"ru":"сапог","sa":"حذاء","level":1,"transcription":null}
 {"ru":"рухнуть","sa":"ينهار","level":2,"transcription":null}
-{"ru":"местность","sa":"التضاريس","level":3,"transcription":null}
-{"ru":"бросаться","sa":"يسرع","level":2,"transcription":null}
+{"ru":"местность","sa":"المكان","level":3,"transcription":null}
+{"ru":"бросаться","sa":"يتمسك","level":2,"transcription":null}
 {"ru":"градус","sa":"درجة","level":2,"transcription":null}
 {"ru":"книжный","sa":"كتاب","level":2,"transcription":null}
 {"ru":"простор","sa":"فضاء","level":3,"transcription":null}
@@ -3117,7 +3117,7 @@
 {"ru":"максимум","sa":"الحد الأقصى","level":3,"transcription":null}
 {"ru":"изначально","sa":"بدءًا","level":3,"transcription":null}
 {"ru":"пожалеть","sa":"يندم","level":2,"transcription":null}
-{"ru":"возражать","sa":"عقل","level":4,"transcription":null}
+{"ru":"возражать","sa":"رفض","level":4,"transcription":null}
 {"ru":"специализированный","sa":"متخصص","level":5,"transcription":null}
 {"ru":"тарелка","sa":"طبق","level":1,"transcription":null}
 {"ru":"неудача","sa":"فشل","level":3,"transcription":null}
@@ -3128,8 +3128,8 @@
 {"ru":"важность","sa":"أهمية","level":4,"transcription":null}
 {"ru":"предупреждение","sa":"تحذير","level":4,"transcription":null}
 {"ru":"плыть","sa":"السباحة","level":1,"transcription":null}
-{"ru":"небесный","sa":"السماوية","level":2,"transcription":null}
-{"ru":"прогулка","sa":"يمشي","level":2,"transcription":null}
+{"ru":"небесный","sa":"سماء","level":2,"transcription":null}
+{"ru":"прогулка","sa":"مشي","level":2,"transcription":null}
 {"ru":"выскочить","sa":"القفز خارجا","level":2,"transcription":null}
 {"ru":"мастерская","sa":"ورشة عمل","level":3,"transcription":null}
 {"ru":"поместить","sa":"مكان","level":3,"transcription":null}
@@ -3158,7 +3158,7 @@
 {"ru":"жаркий","sa":"حار","level":1,"transcription":null}
 {"ru":"скрытый","sa":"مختفي","level":3,"transcription":null}
 {"ru":"ужин","sa":"عشاء","level":1,"transcription":null}
-{"ru":"вырваться","sa":"انطلق","level":2,"transcription":null}
+{"ru":"вырваться","sa":"انطلاق","level":2,"transcription":null}
 {"ru":"слабо","sa":"ضعيف","level":2,"transcription":null}
 {"ru":"дополнение","sa":"إضافة","level":4,"transcription":null}
 {"ru":"предок","sa":"سلف","level":3,"transcription":null}
@@ -3166,10 +3166,10 @@
 {"ru":"льгота","sa":"فائدة","level":4,"transcription":null}
 {"ru":"мастерство","sa":"مهارة","level":4,"transcription":null}
 {"ru":"съезд","sa":"الكونغرس","level":3,"transcription":null}
-{"ru":"поход","sa":"رفع","level":2,"transcription":null}
-{"ru":"переулок","sa":"خط","level":2,"transcription":null}
-{"ru":"плита","sa":"طبق","level":1,"transcription":null}
-{"ru":"лечить","sa":"يعامل","level":2,"transcription":null}
+{"ru":"поход","sa":"رحلة","level":2,"transcription":null}
+{"ru":"переулок","sa":"شارع","level":2,"transcription":null}
+{"ru":"плита","sa":"طبقة","level":1,"transcription":null}
+{"ru":"лечить","sa":"يعالج","level":2,"transcription":null}
 {"ru":"полиция","sa":"شرطة","level":2,"transcription":null}
 {"ru":"нормативный","sa":"معياري","level":4,"transcription":null}
 {"ru":"колебаться","sa":"يتردد","level":4,"transcription":null}
@@ -3250,7 +3250,7 @@
 {"ru":"фестиваль","sa":"مهرجان","level":2,"transcription":null}
 {"ru":"карточка","sa":"بطاقة","level":2,"transcription":null}
 {"ru":"организовывать","sa":"تنظم","level":3,"transcription":null}
-{"ru":"престижный","sa":"المرموقة","level":4,"transcription":null}
+{"ru":"престижный","sa":"مرموقي","level":4,"transcription":null}
 {"ru":"вдвое","sa":"تضاعف","level":2,"transcription":null}
 {"ru":"несчастье","sa":"مصيبة","level":3,"transcription":null}
 {"ru":"вкладывать","sa":"يستثمر","level":4,"transcription":null}
@@ -3261,10 +3261,10 @@
 {"ru":"туалет","sa":"مرحاض","level":1,"transcription":null}
 {"ru":"ветвь","sa":"فرع","level":3,"transcription":null}
 {"ru":"носитель","sa":"الناقل","level":4,"transcription":null}
-{"ru":"формальный","sa":"رَسمِيّ","level":4,"transcription":null}
+{"ru":"формальный","sa":"رسمي","level":4,"transcription":null}
 {"ru":"изнутри","sa":"من الداخل","level":2,"transcription":null}
 {"ru":"разведка","sa":"ذكاء","level":4,"transcription":null}
-{"ru":"корпорация","sa":"مؤسَّسة","level":4,"transcription":null}
+{"ru":"корпорация","sa":"مؤسسة","level":4,"transcription":null}
 {"ru":"консультация","sa":"التشاور","level":4,"transcription":null}
 {"ru":"луна","sa":"قمر","level":1,"transcription":null}
 {"ru":"кладбище","sa":"مقبرة","level":2,"transcription":null}
@@ -3274,16 +3274,16 @@
 {"ru":"лодка","sa":"قارب","level":1,"transcription":null}
 {"ru":"настать","sa":"يأتي","level":3,"transcription":null}
 {"ru":"психология","sa":"علم النفس","level":4,"transcription":null}
-{"ru":"плоский","sa":"مستوي","level":2,"transcription":null}
-{"ru":"заглядывать","sa":"انظر في","level":3,"transcription":null}
-{"ru":"загадка","sa":"أُحجِيَّة","level":3,"transcription":null}
+{"ru":"плоский","sa":"مسطح","level":2,"transcription":null}
+{"ru":"заглядывать","sa":"انظر","level":3,"transcription":null}
+{"ru":"загадка","sa":"أحجية","level":3,"transcription":null}
 {"ru":"репутация","sa":"سمعة","level":4,"transcription":null}
 {"ru":"анализировать","sa":"تحليل","level":5,"transcription":null}
 {"ru":"поддержание","sa":"صيانة","level":5,"transcription":null}
 {"ru":"конь","sa":"حصان","level":2,"transcription":null}
 {"ru":"адвокат","sa":"يدافع عن","level":3,"transcription":null}
 {"ru":"хор","sa":"جوقة","level":2,"transcription":null}
-{"ru":"обидеться","sa":"يسيء","level":2,"transcription":null}
+{"ru":"обидеться","sa":"يُسيء","level":2,"transcription":null}
 {"ru":"медицина","sa":"الدواء","level":3,"transcription":null}
 {"ru":"включение","sa":"التضمين","level":4,"transcription":null}
 {"ru":"удачно","sa":"بنجاح","level":3,"transcription":null}
@@ -3297,8 +3297,8 @@
 {"ru":"ветка","sa":"فرع","level":1,"transcription":null}
 {"ru":"юмор","sa":"مزاح","level":2,"transcription":null}
 {"ru":"осветить","sa":"تضيء","level":3,"transcription":null}
-{"ru":"развернуться","sa":"التف حوله","level":3,"transcription":null}
-{"ru":"упустить","sa":"يفتقد","level":3,"transcription":null}
+{"ru":"развернуться","sa":"التفحوله","level":3,"transcription":null}
+{"ru":"упустить","sa":"يفقد","level":3,"transcription":null}
 {"ru":"расследование","sa":"تحقيق","level":4,"transcription":null}
 {"ru":"миновать","sa":"يمر","level":3,"transcription":null}
 {"ru":"приговор","sa":"جملة","level":4,"transcription":null}
@@ -3339,8 +3339,8 @@
 {"ru":"орать","sa":"الصراخ","level":1,"transcription":null}
 {"ru":"ага","sa":"نعم","level":1,"transcription":null}
 {"ru":"штаны","sa":"بنطلون","level":1,"transcription":null}
-{"ru":"британский","sa":"بريطانية","level":2,"transcription":null}
-{"ru":"намек","sa":"تَلمِيح","level":3,"transcription":null}
+{"ru":"британский","sa":"بريطاني","level":2,"transcription":null}
+{"ru":"намек","sa":"تلميح","level":3,"transcription":null}
 {"ru":"инфраструктура","sa":"بنية تحتية","level":5,"transcription":null}
 {"ru":"прикрыть","sa":"التستر","level":3,"transcription":null}
 {"ru":"экспериментальный","sa":"تجريبي","level":4,"transcription":null}
@@ -3365,20 +3365,20 @@
 {"ru":"образовать","sa":"استمارة","level":4,"transcription":null}
 {"ru":"уступить","sa":"استسلم","level":3,"transcription":null}
 {"ru":"фрагмент","sa":"جزء","level":4,"transcription":null}
-{"ru":"прервать","sa":"يقاطع","level":4,"transcription":null}
-{"ru":"отнять","sa":"يسلب","level":3,"transcription":null}
+{"ru":"прервать","sa":"يقطع","level":4,"transcription":null}
+{"ru":"отнять","sa":"يأخذ","level":3,"transcription":null}
 {"ru":"осознавать","sa":"يدرك","level":4,"transcription":null}
 {"ru":"видимость","sa":"الرؤية","level":4,"transcription":null}
-{"ru":"сорт","sa":"متنوع","level":2,"transcription":null}
+{"ru":"сорт","sa":"نوع","level":2,"transcription":null}
 {"ru":"руководствоваться","sa":"الاسترشاد بها","level":5,"transcription":null}
 {"ru":"туман","sa":"ضباب","level":2,"transcription":null}
 {"ru":"танцевать","sa":"رقص","level":1,"transcription":null}
-{"ru":"дожидаться","sa":"انتظر","level":3,"transcription":null}
+{"ru":"дожидаться","sa":"انتظار","level":3,"transcription":null}
 {"ru":"разрешать","sa":"يسمح","level":3,"transcription":null}
 {"ru":"отнестись","sa":"يعامل","level":4,"transcription":null}
 {"ru":"рейтинг","sa":"تصنيف","level":3,"transcription":null}
 {"ru":"годиться","sa":"ملائم","level":3,"transcription":null}
-{"ru":"тепло","sa":"دافيء","level":1,"transcription":null}
+{"ru":"тепло","sa":"دفء","level":1,"transcription":null}
 {"ru":"ненужный","sa":"غير ضروري","level":2,"transcription":null}
 {"ru":"столовая","sa":"غرفة الطعام","level":1,"transcription":null}
 {"ru":"свернуть","sa":"ينهار","level":2,"transcription":null}
@@ -3387,13 +3387,13 @@
 {"ru":"желающий","sa":"راغب","level":3,"transcription":null}
 {"ru":"маска","sa":"قناع","level":2,"transcription":null}
 {"ru":"бассейн","sa":"حمام سباحة","level":2,"transcription":null}
-{"ru":"что-либо","sa":"أي شئ","level":2,"transcription":null}
+{"ru":"что-либо","sa":"أي شيء","level":2,"transcription":null}
 {"ru":"оператор","sa":"المشغل","level":3,"transcription":null}
 {"ru":"сибирский","sa":"سيبيريا","level":2,"transcription":null}
 {"ru":"костер","sa":"نار","level":2,"transcription":null}
-{"ru":"роза","sa":"وَردَة","level":1,"transcription":null}
-{"ru":"отпускать","sa":"اتركه","level":2,"transcription":null}
-{"ru":"характеризовать","sa":"تميز","level":5,"transcription":null}
+{"ru":"роза","sa":"زهرة","level":1,"transcription":null}
+{"ru":"отпускать","sa":"يتوقف عن","level":2,"transcription":null}
+{"ru":"характеризовать","sa":"يتميز","level":5,"transcription":null}
 {"ru":"свидание","sa":"تاريخ","level":2,"transcription":null}
 {"ru":"еле","sa":"بالكاد","level":2,"transcription":null}
 {"ru":"выстроить","sa":"اصطفوا","level":3,"transcription":null}
@@ -3424,7 +3424,7 @@
 {"ru":"предварительно","sa":"سابقًا","level":4,"transcription":null}
 {"ru":"точно","sa":"بالضبط","level":2,"transcription":null}
 {"ru":"всероссийский","sa":"جميع الروسية","level":3,"transcription":null}
-{"ru":"чеченский","sa":"الشيشانية","level":3,"transcription":null}
+{"ru":"чеченский","sa":"تشيشانية","level":3,"transcription":null}
 {"ru":"усталость","sa":"تعب","level":3,"transcription":null}
 {"ru":"скучный","sa":"ممل","level":1,"transcription":null}
 {"ru":"посадка","sa":"هبوط","level":2,"transcription":null}
@@ -3444,10 +3444,10 @@
 {"ru":"некогда","sa":"مرة واحدة","level":3,"transcription":null}
 {"ru":"объявлять","sa":"يعلن","level":3,"transcription":null}
 {"ru":"продвижение","sa":"ترقية","level":4,"transcription":null}
-{"ru":"локоть","sa":"مِرفَق","level":1,"transcription":null}
+{"ru":"локоть","sa":"مرفق","level":1,"transcription":null}
 {"ru":"тогдашний","sa":"ثم","level":3,"transcription":null}
 {"ru":"провинция","sa":"المقاطعات","level":3,"transcription":null}
-{"ru":"исключительный","sa":"استثنائية","level":4,"transcription":null}
+{"ru":"исключительный","sa":"استثنائي","level":4,"transcription":null}
 {"ru":"отличать","sa":"تختلف","level":4,"transcription":null}
 {"ru":"комментировать","sa":"تعليق","level":4,"transcription":null}
 {"ru":"ракета","sa":"صاروخ","level":2,"transcription":null}
@@ -3477,7 +3477,7 @@
 {"ru":"категорически","sa":"بشكل قاطع","level":4,"transcription":null}
 {"ru":"ложь","sa":"كذب","level":2,"transcription":null}
 {"ru":"видать","sa":"يرى","level":1,"transcription":null}
-{"ru":"ошибаться","sa":"ارتكب خطأ","level":2,"transcription":null}
+{"ru":"ошибаться","sa":"ارتكاب خطأ","level":2,"transcription":null}
 {"ru":"барьер","sa":"حاجز","level":3,"transcription":null}
 {"ru":"предпочесть","sa":"يفضل","level":4,"transcription":null}
 {"ru":"училище","sa":"مدرسة","level":2,"transcription":null}
@@ -3492,7 +3492,7 @@
 {"ru":"кровавый","sa":"دموي","level":2,"transcription":null}
 {"ru":"палка","sa":"يلزق","level":1,"transcription":null}
 {"ru":"громадный","sa":"ضخم","level":2,"transcription":null}
-{"ru":"привязать","sa":"رَابِطَة","level":2,"transcription":null}
+{"ru":"привязать","sa":"رابط","level":2,"transcription":null}
 {"ru":"удерживать","sa":"يمسك","level":4,"transcription":null}
 {"ru":"плюс","sa":"زائد","level":2,"transcription":null}
 {"ru":"посчитать","sa":"عدد","level":2,"transcription":null}
@@ -3528,9 +3528,9 @@
 {"ru":"подземный","sa":"تحت الأرض","level":2,"transcription":null}
 {"ru":"валяться","sa":"الاستلقاء حولها","level":2,"transcription":null}
 {"ru":"прощать","sa":"يغفر","level":2,"transcription":null}
-{"ru":"биологический","sa":"البيولوجية","level":4,"transcription":null}
-{"ru":"беспокоиться","sa":"يقلق","level":3,"transcription":null}
-{"ru":"облегчение","sa":"اِرتِياح","level":4,"transcription":null}
+{"ru":"биологический","sa":"بيولوجي","level":4,"transcription":null}
+{"ru":"беспокоиться","sa":"قلق","level":3,"transcription":null}
+{"ru":"облегчение","sa":"إرتياح","level":4,"transcription":null}
 {"ru":"сомнительный","sa":"مشكوك فيه","level":4,"transcription":null}
 {"ru":"справляться","sa":"يَتَصدَّى","level":4,"transcription":null}
 {"ru":"мышление","sa":"التفكير","level":4,"transcription":null}
@@ -3617,7 +3617,7 @@
 {"ru":"вынуть","sa":"أخرج","level":2,"transcription":null}
 {"ru":"защитник","sa":"مدافع","level":3,"transcription":null}
 {"ru":"ложный","sa":"خطأ شنيع","level":3,"transcription":null}
-{"ru":"выразиться","sa":"التعبير عن نفسك","level":4,"transcription":null}
+{"ru":"выразиться","sa":"التعبير عن النفس","level":4,"transcription":null}
 {"ru":"царский","sa":"ملكي","level":2,"transcription":null}
 {"ru":"зерно","sa":"حبوب ذرة","level":2,"transcription":null}
 {"ru":"скрыться","sa":"يخفي","level":2,"transcription":null}
@@ -3664,7 +3664,7 @@
 {"ru":"пустыня","sa":"صحراء","level":2,"transcription":null}
 {"ru":"устойчивость","sa":"الاستدامة","level":5,"transcription":null}
 {"ru":"наградить","sa":"جائزة","level":3,"transcription":null}
-{"ru":"предшествовать","sa":"تسبق","level":5,"transcription":null}
+{"ru":"предшествовать","sa":"يأتي قبله","level":5,"transcription":null}
 {"ru":"избиратель","sa":"الناخب","level":3,"transcription":null}
 {"ru":"знамя","sa":"راية","level":2,"transcription":null}
 {"ru":"терпение","sa":"الصبر","level":3,"transcription":null}
@@ -3703,11 +3703,11 @@
 {"ru":"крышка","sa":"غطاء","level":1,"transcription":null}
 {"ru":"лицензия","sa":"رخصة","level":4,"transcription":null}
 {"ru":"застать","sa":"يمسك","level":3,"transcription":null}
-{"ru":"оглянуться","sa":"ننظر إلى الوراء","level":2,"transcription":null}
+{"ru":"оглянуться","sa":"نظر إلى الوراء","level":2,"transcription":null}
 {"ru":"сперва","sa":"أولاً","level":2,"transcription":null}
 {"ru":"отъезд","sa":"رحيل","level":3,"transcription":null}
-{"ru":"вылететь","sa":"يطير","level":2,"transcription":null}
-{"ru":"сажать","sa":"نبات","level":2,"transcription":null}
+{"ru":"вылететь","sa":"يخرج","level":2,"transcription":null}
+{"ru":"сажать","sa":"نبت","level":2,"transcription":null}
 {"ru":"предельно","sa":"لأقصى حد","level":3,"transcription":null}
 {"ru":"пачка","sa":"علية","level":2,"transcription":null}
 {"ru":"аренда","sa":"إيجار","level":3,"transcription":null}
@@ -3761,21 +3761,21 @@
 {"ru":"значимость","sa":"أهمية","level":4,"transcription":null}
 {"ru":"расставить","sa":"يرتب","level":3,"transcription":null}
 {"ru":"аналитик","sa":"المحلل","level":4,"transcription":null}
-{"ru":"прописать","sa":"يسجل","level":4,"transcription":null}
-{"ru":"уделять","sa":"تكريس","level":4,"transcription":null}
-{"ru":"разглядывать","sa":"أنظر","level":3,"transcription":null}
-{"ru":"убежать","sa":"اهرب","level":2,"transcription":null}
+{"ru":"прописать","sa":"يكتب","level":4,"transcription":null}
+{"ru":"уделять","sa":"يتكبر","level":4,"transcription":null}
+{"ru":"разглядывать","sa":"ينظر","level":3,"transcription":null}
+{"ru":"убежать","sa":"يهرب","level":2,"transcription":null}
 {"ru":"семинар","sa":"ندوة","level":3,"transcription":null}
-{"ru":"семьдесят","sa":"سبعون","level":1,"transcription":null}
+{"ru":"семьдесят","sa":"ستة","level":1,"transcription":null}
 {"ru":"миссия","sa":"مهمة","level":3,"transcription":null}
 {"ru":"прибавить","sa":"يضيف","level":2,"transcription":null}
-{"ru":"лампа","sa":"خروف","level":1,"transcription":null}
+{"ru":"лампа","sa":"مصباح","level":1,"transcription":null}
 {"ru":"пар","sa":"بخار","level":2,"transcription":null}
-{"ru":"залить","sa":"صب في","level":2,"transcription":null}
+{"ru":"залить","sa":"يملي","level":2,"transcription":null}
 {"ru":"подсказать","sa":"يقترح","level":3,"transcription":null}
 {"ru":"проделать","sa":"يفعل","level":3,"transcription":null}
 {"ru":"гонка","sa":"سباق","level":3,"transcription":null}
-{"ru":"выбраться","sa":"اخرج","level":3,"transcription":null}
+{"ru":"выбраться","sa":"يخرج","level":3,"transcription":null}
 {"ru":"стройный","sa":"نحيل","level":2,"transcription":null}
 {"ru":"навести","sa":"يزور","level":3,"transcription":null}
 {"ru":"функционирование","sa":"الأداء","level":5,"transcription":null}
@@ -3792,11 +3792,11 @@
 {"ru":"упор","sa":"توكيد","level":3,"transcription":null}
 {"ru":"валюта","sa":"عملة","level":4,"transcription":null}
 {"ru":"слушатель","sa":"المستمع","level":2,"transcription":null}
-{"ru":"встречный","sa":"عداد","level":3,"transcription":null}
+{"ru":"встречный","sa":"مقابل","level":3,"transcription":null}
 {"ru":"чувствоваться","sa":"يشعر","level":4,"transcription":null}
 {"ru":"увлечение","sa":"حماس","level":4,"transcription":null}
 {"ru":"мыслить","sa":"يفكر","level":3,"transcription":null}
-{"ru":"владение","sa":"تملُّك","level":4,"transcription":null}
+{"ru":"владение","sa":"تملّك","level":4,"transcription":null}
 {"ru":"баня","sa":"الحمام","level":1,"transcription":null}
 {"ru":"коэффициент","sa":"معامل","level":5,"transcription":null}
 {"ru":"диапазон","sa":"يتراوح","level":4,"transcription":null}
@@ -3824,12 +3824,12 @@
 {"ru":"обвинить","sa":"يتهم","level":3,"transcription":null}
 {"ru":"боец","sa":"مقاتل","level":2,"transcription":null}
 {"ru":"заснуть","sa":"تغفو","level":2,"transcription":null}
-{"ru":"функциональный","sa":"وظيفية","level":4,"transcription":null}
+{"ru":"функциональный","sa":"وظيفي","level":4,"transcription":null}
 {"ru":"грубо","sa":"خشن","level":2,"transcription":null}
 {"ru":"заплакать","sa":"يبكي","level":2,"transcription":null}
 {"ru":"огород","sa":"حديقة","level":1,"transcription":null}
 {"ru":"происшествие","sa":"حادثة","level":4,"transcription":null}
-{"ru":"торжественно","sa":"رسميا","level":3,"transcription":null}
+{"ru":"торжественно","sa":"رسمي","level":3,"transcription":null}
 {"ru":"наркотик","sa":"دواء","level":3,"transcription":null}
 {"ru":"дружить","sa":"نكون أصدقاء","level":2,"transcription":null}
 {"ru":"преступный","sa":"مجرم","level":4,"transcription":null}
@@ -3871,11 +3871,11 @@
 {"ru":"установленный","sa":"مثبتة","level":4,"transcription":null}
 {"ru":"засмеяться","sa":"يضحك","level":2,"transcription":null}
 {"ru":"чемодан","sa":"حقيبة","level":1,"transcription":null}
-{"ru":"седой","sa":"ذو الشعر الرمادي","level":2,"transcription":null}
+{"ru":"седой","sa":"الرمادي","level":2,"transcription":null}
 {"ru":"убийца","sa":"قاتل","level":3,"transcription":null}
-{"ru":"сельскохозяйственный","sa":"الزراعية","level":5,"transcription":null}
+{"ru":"сельскохозяйственный","sa":"زراعي","level":5,"transcription":null}
 {"ru":"либеральный","sa":"ليبرالي","level":4,"transcription":null}
-{"ru":"жирный","sa":"الدهنية","level":1,"transcription":null}
+{"ru":"жирный","sa":"دهني","level":1,"transcription":null}
 {"ru":"пешком","sa":"سيرا على الأقدام","level":1,"transcription":null}
 {"ru":"окружающее","sa":"المحيطة","level":3,"transcription":null}
 {"ru":"украшать","sa":"تزيين","level":2,"transcription":null}
@@ -3904,9 +3904,9 @@
 {"ru":"пациент","sa":"مريض","level":3,"transcription":null}
 {"ru":"зелень","sa":"أخضر","level":2,"transcription":null}
 {"ru":"ладно","sa":"نعم","level":1,"transcription":null}
-{"ru":"ничуть","sa":"مُطْلَقاً","level":3,"transcription":null}
+{"ru":"ничуть","sa":"لا شيء","level":3,"transcription":null}
 {"ru":"заполнять","sa":"يملأ","level":3,"transcription":null}
-{"ru":"присесть","sa":"اجلس","level":1,"transcription":null}
+{"ru":"присесть","sa":"يجلس","level":1,"transcription":null}
 {"ru":"кремлевский","sa":"الكرملين","level":3,"transcription":null}
 {"ru":"повредить","sa":"ضرر","level":3,"transcription":null}
 {"ru":"развлечение","sa":"ترفيه","level":3,"transcription":null}
@@ -3930,13 +3930,13 @@
 {"ru":"чрезвычайный","sa":"طارئ","level":4,"transcription":null}
 {"ru":"убежденный","sa":"مقتنع","level":3,"transcription":null}
 {"ru":"знакомиться","sa":"يقابل","level":2,"transcription":null}
-{"ru":"комплект","sa":"تعيين","level":3,"transcription":null}
+{"ru":"комплект","sa":"مجموعة","level":3,"transcription":null}
 {"ru":"снизиться","sa":"انخفاض","level":3,"transcription":null}
 {"ru":"порт","sa":"ميناء","level":2,"transcription":null}
 {"ru":"светиться","sa":"يشرق","level":2,"transcription":null}
 {"ru":"изредка","sa":"أحياناً","level":3,"transcription":null}
 {"ru":"молодежный","sa":"شباب","level":2,"transcription":null}
-{"ru":"уволить","sa":"نار","level":3,"transcription":null}
+{"ru":"уволить","sa":"إقالة","level":3,"transcription":null}
 {"ru":"согласование","sa":"تنسيق","level":5,"transcription":null}
 {"ru":"старуха","sa":"امرأة عجوز","level":2,"transcription":null}
 {"ru":"скамейка","sa":"مقعد","level":1,"transcription":null}
@@ -4019,22 +4019,22 @@
 {"ru":"накопление","sa":"تراكم","level":5,"transcription":null}
 {"ru":"проанализировать","sa":"تحليل","level":5,"transcription":null}
 {"ru":"ядерный","sa":"النووية","level":4,"transcription":null}
-{"ru":"масштабный","sa":"على نطاق واسع","level":4,"transcription":null}
+{"ru":"масштабный","sa":"متاح","level":4,"transcription":null}
 {"ru":"кисть","sa":"فرشاة","level":2,"transcription":null}
 {"ru":"ранг","sa":"رتبة","level":3,"transcription":null}
-{"ru":"гуманитарный","sa":"إنسانية","level":4,"transcription":null}
-{"ru":"затянуться","sa":"اسحب","level":4,"transcription":null}
-{"ru":"возложить","sa":"تعيين","level":5,"transcription":null}
+{"ru":"гуманитарный","sa":"إنساني","level":4,"transcription":null}
+{"ru":"затянуться","sa":"يتكبر","level":4,"transcription":null}
+{"ru":"возложить","sa":"يوضع","level":5,"transcription":null}
 {"ru":"проявиться","sa":"يظهر","level":4,"transcription":null}
-{"ru":"публиковать","sa":"نشر","level":3,"transcription":null}
+{"ru":"публиковать","sa":"ينشر","level":3,"transcription":null}
 {"ru":"перевозка","sa":"شحن","level":4,"transcription":null}
 {"ru":"освещение","sa":"إضاءة","level":4,"transcription":null}
-{"ru":"смотреться","sa":"ينظر","level":3,"transcription":null}
-{"ru":"излишний","sa":"فائض","level":4,"transcription":null}
+{"ru":"смотреться","sa":"يبدو لي","level":3,"transcription":null}
+{"ru":"излишний","sa":"مفرغ","level":4,"transcription":null}
 {"ru":"колбаса","sa":"سجق","level":1,"transcription":null}
 {"ru":"единственно","sa":"فقط","level":3,"transcription":null}
 {"ru":"справедливо","sa":"عدل","level":3,"transcription":null}
-{"ru":"драка","sa":"يعارك","level":2,"transcription":null}
+{"ru":"драка","sa":"مواجهة","level":2,"transcription":null}
 {"ru":"побеждать","sa":"يفوز","level":3,"transcription":null}
 {"ru":"стимулировать","sa":"يحفز","level":5,"transcription":null}
 {"ru":"эфир","sa":"الأثير","level":3,"transcription":null}
@@ -4071,13 +4071,13 @@
 {"ru":"композитор","sa":"الملحن","level":2,"transcription":null}
 {"ru":"долгосрочный","sa":"على المدى الطويل","level":4,"transcription":null}
 {"ru":"колоссальный","sa":"هائل","level":3,"transcription":null}
-{"ru":"останавливать","sa":"قف","level":3,"transcription":null}
+{"ru":"останавливать","sa":"وقف","level":3,"transcription":null}
 {"ru":"последовательно","sa":"بالتتابع","level":4,"transcription":null}
 {"ru":"актриса","sa":"ممثلة","level":1,"transcription":null}
 {"ru":"показание","sa":"إشارة","level":4,"transcription":null}
 {"ru":"выгнать","sa":"طرد","level":2,"transcription":null}
 {"ru":"похороны","sa":"جنازة","level":2,"transcription":null}
-{"ru":"влечь","sa":"جذب","level":4,"transcription":null}
+{"ru":"влечь","sa":"يحبس","level":4,"transcription":null}
 {"ru":"править","sa":"يحرر","level":3,"transcription":null}
 {"ru":"добровольный","sa":"طوعي","level":4,"transcription":null}
 {"ru":"оплатить","sa":"يدفع","level":3,"transcription":null}
@@ -4106,7 +4106,7 @@
 {"ru":"должностной","sa":"رسمي","level":4,"transcription":null}
 {"ru":"грузовик","sa":"شاحنة","level":1,"transcription":null}
 {"ru":"ворот","sa":"بوابة","level":2,"transcription":null}
-{"ru":"потихоньку","sa":"ببطء","level":2,"transcription":null}
+{"ru":"потихоньку","sa":"بطيء","level":2,"transcription":null}
 {"ru":"потрясать","sa":"هزة","level":3,"transcription":null}
 {"ru":"портфель","sa":"حقيبة","level":1,"transcription":null}
 {"ru":"вырвать","sa":"خطف","level":2,"transcription":null}
@@ -4114,39 +4114,39 @@
 {"ru":"устареть","sa":"تصبح قديمة","level":3,"transcription":null}
 {"ru":"самоуправление","sa":"الحكم الذاتي","level":5,"transcription":null}
 {"ru":"прижать","sa":"يضعط","level":2,"transcription":null}
-{"ru":"любоваться","sa":"يُعجَب ب","level":3,"transcription":null}
+{"ru":"любоваться","sa":"يُشعر بالحب","level":3,"transcription":null}
 {"ru":"драма","sa":"دراما","level":3,"transcription":null}
 {"ru":"бедность","sa":"فقر","level":3,"transcription":null}
 {"ru":"советник","sa":"مستشار","level":3,"transcription":null}
-{"ru":"творение","sa":"الخلق","level":4,"transcription":null}
-{"ru":"сойтись","sa":"معا","level":3,"transcription":null}
+{"ru":"творение","sa":"خلق","level":4,"transcription":null}
+{"ru":"сойтись","sa":"توافق","level":3,"transcription":null}
 {"ru":"сверкать","sa":"تألق","level":2,"transcription":null}
-{"ru":"звездный","sa":"نجم","level":2,"transcription":null}
-{"ru":"толком","sa":"حقًا","level":3,"transcription":null}
+{"ru":"звездный","sa":"نجمي","level":2,"transcription":null}
+{"ru":"толком","sa":"حقاً","level":3,"transcription":null}
 {"ru":"ругаться","sa":"يُقسم","level":2,"transcription":null}
-{"ru":"автономный","sa":"مستقلة","level":4,"transcription":null}
+{"ru":"автономный","sa":"مستقل","level":4,"transcription":null}
 {"ru":"обнаружиться","sa":"تظهر","level":4,"transcription":null}
 {"ru":"уменьшаться","sa":"ينقص","level":3,"transcription":null}
 {"ru":"распахнуть","sa":"يفتح","level":2,"transcription":null}
-{"ru":"отступать","sa":"تراجع","level":3,"transcription":null}
+{"ru":"отступать","sa":"يتراجع","level":3,"transcription":null}
 {"ru":"выпускник","sa":"متخرج","level":2,"transcription":null}
-{"ru":"временно","sa":"مؤقتا","level":3,"transcription":null}
+{"ru":"временно","sa":"مؤقتاً","level":3,"transcription":null}
 {"ru":"отразиться","sa":"يعكس","level":4,"transcription":null}
 {"ru":"сопротивляться","sa":"يقاوم","level":4,"transcription":null}
 {"ru":"наследие","sa":"إرث","level":4,"transcription":null}
-{"ru":"водиться","sa":"يمكن العثور عليها","level":3,"transcription":null}
+{"ru":"водиться","sa":"يُشتركون في","level":3,"transcription":null}
 {"ru":"гибкий","sa":"مرن","level":3,"transcription":null}
 {"ru":"экономия","sa":"توفير","level":3,"transcription":null}
-{"ru":"замолчать","sa":"اسكت","level":2,"transcription":null}
+{"ru":"замолчать","sa":"يسكت","level":2,"transcription":null}
 {"ru":"хохотать","sa":"يضحك","level":2,"transcription":null}
 {"ru":"вежливо","sa":"بأدب","level":2,"transcription":null}
-{"ru":"размах","sa":"نِطَاق","level":4,"transcription":null}
+{"ru":"размах","sa":"نطاق","level":4,"transcription":null}
 {"ru":"лишать","sa":"يحرم","level":4,"transcription":null}
 {"ru":"идиот","sa":"غبي","level":1,"transcription":null}
 {"ru":"гармония","sa":"انسجام","level":3,"transcription":null}
 {"ru":"прелесть","sa":"محبوب","level":3,"transcription":null}
 {"ru":"словарь","sa":"قاموس","level":2,"transcription":null}
-{"ru":"махать","sa":"موجة","level":2,"transcription":null}
+{"ru":"махать","sa":"مباشر","level":2,"transcription":null}
 {"ru":"свалиться","sa":"تسقط","level":2,"transcription":null}
 {"ru":"мужество","sa":"شجاعة","level":3,"transcription":null}
 {"ru":"добывать","sa":"يستخرج","level":3,"transcription":null}
@@ -4175,8 +4175,8 @@
 {"ru":"грядущий","sa":"القادمة","level":3,"transcription":null}
 {"ru":"обнять","sa":"حضن","level":2,"transcription":null}
 {"ru":"ремень","sa":"حزام","level":1,"transcription":null}
-{"ru":"теряться","sa":"اغرب عن وجهي","level":3,"transcription":null}
-{"ru":"галстук","sa":"رَابِطَة","level":1,"transcription":null}
+{"ru":"теряться","sa":"يختفي","level":3,"transcription":null}
+{"ru":"галстук","sa":"سحاب","level":1,"transcription":null}
 {"ru":"лишение","sa":"الحرمان","level":4,"transcription":null}
 {"ru":"кататься","sa":"يركب","level":1,"transcription":null}
 {"ru":"превосходить","sa":"تجاوز","level":4,"transcription":null}
@@ -4199,7 +4199,7 @@
 {"ru":"священник","sa":"كاهن","level":3,"transcription":null}
 {"ru":"невеста","sa":"زوجة","level":2,"transcription":null}
 {"ru":"вор","sa":"لص","level":1,"transcription":null}
-{"ru":"глазок","sa":"ثقب الباب","level":2,"transcription":null}
+{"ru":"глазок","sa":"ثقب","level":2,"transcription":null}
 {"ru":"полотно","sa":"قماش","level":3,"transcription":null}
 {"ru":"оплачивать","sa":"يدفع","level":3,"transcription":null}
 {"ru":"уговаривать","sa":"يقنع","level":4,"transcription":null}
@@ -4226,13 +4226,13 @@
 {"ru":"бормотать","sa":"غمغم","level":2,"transcription":null}
 {"ru":"армейский","sa":"جيش","level":3,"transcription":null}
 {"ru":"аромат","sa":"رائحة","level":2,"transcription":null}
-{"ru":"вертикальный","sa":"رَأسِيّ","level":3,"transcription":null}
-{"ru":"недоступный","sa":"لا يمكن الوصول إليه","level":4,"transcription":null}
+{"ru":"вертикальный","sa":"رأس","level":3,"transcription":null}
+{"ru":"недоступный","sa":"غير قابل للوصول إليه","level":4,"transcription":null}
 {"ru":"удовлетворять","sa":"إرضاء","level":4,"transcription":null}
 {"ru":"частота","sa":"تكرار","level":4,"transcription":null}
 {"ru":"запереть","sa":"حبس","level":2,"transcription":null}
 {"ru":"нота","sa":"ملحوظة","level":3,"transcription":null}
-{"ru":"общежитие","sa":"المهجع","level":2,"transcription":null}
+{"ru":"общежитие","sa":"المقروءة","level":2,"transcription":null}
 {"ru":"ерунда","sa":"هراء","level":2,"transcription":null}
 {"ru":"соединять","sa":"اتحدوا","level":3,"transcription":null}
 {"ru":"глянуть","sa":"نلقي نظرة","level":2,"transcription":null}
@@ -4249,7 +4249,7 @@
 {"ru":"познание","sa":"الإدراك","level":4,"transcription":null}
 {"ru":"неправильно","sa":"خطأ","level":2,"transcription":null}
 {"ru":"прошлогодний","sa":"العام الماضي","level":3,"transcription":null}
-{"ru":"тетя","sa":"عمة","level":1,"transcription":null}
+{"ru":"тетя","sa":"عمه","level":1,"transcription":null}
 {"ru":"направиться","sa":"توجه نحو","level":3,"transcription":null}
 {"ru":"болото","sa":"مستنقع","level":2,"transcription":null}
 {"ru":"дурацкий","sa":"غبي","level":1,"transcription":null}
@@ -4260,15 +4260,15 @@
 {"ru":"расстрелять","sa":"تبادل لاطلاق النار","level":3,"transcription":null}
 {"ru":"инженерный","sa":"هندسة","level":3,"transcription":null}
 {"ru":"портить","sa":"يفسد","level":2,"transcription":null}
-{"ru":"желательно","sa":"ويفضل","level":3,"transcription":null}
+{"ru":"желательно","sa":"يفضل","level":3,"transcription":null}
 {"ru":"экипаж","sa":"طاقم","level":3,"transcription":null}
 {"ru":"кран","sa":"مقبض","level":1,"transcription":null}
 {"ru":"лампочка","sa":"لمبة","level":1,"transcription":null}
 {"ru":"воин","sa":"محارب","level":2,"transcription":null}
 {"ru":"охотник","sa":"صياد","level":2,"transcription":null}
 {"ru":"конструктор","sa":"منشئ","level":3,"transcription":null}
-{"ru":"капитальный","sa":"عاصمة","level":4,"transcription":null}
-{"ru":"сочетаться","sa":"يجمع","level":4,"transcription":null}
+{"ru":"капитальный","sa":"مكثف","level":4,"transcription":null}
+{"ru":"сочетаться","sa":"يتناسق","level":4,"transcription":null}
 {"ru":"подводный","sa":"تحت الماء","level":2,"transcription":null}
 {"ru":"пение","sa":"الغناء","level":1,"transcription":null}
 {"ru":"бешеный","sa":"مجنون","level":2,"transcription":null}
@@ -4287,8 +4287,8 @@
 {"ru":"доставка","sa":"توصيل","level":3,"transcription":null}
 {"ru":"сработать","sa":"عمل","level":3,"transcription":null}
 {"ru":"юбка","sa":"جيبة","level":1,"transcription":null}
-{"ru":"нажать","sa":"يضعط","level":2,"transcription":null}
-{"ru":"неизменно","sa":"دائما","level":3,"transcription":null}
+{"ru":"нажать","sa":"يضع","level":2,"transcription":null}
+{"ru":"неизменно","sa":"دائماً","level":3,"transcription":null}
 {"ru":"прочность","sa":"قوة","level":4,"transcription":null}
 {"ru":"диктовать","sa":"إملاء","level":3,"transcription":null}
 {"ru":"подсчет","sa":"عدد","level":3,"transcription":null}
@@ -4318,14 +4318,14 @@
 {"ru":"отзыв","sa":"مراجعة","level":3,"transcription":null}
 {"ru":"смущать","sa":"إحراج","level":4,"transcription":null}
 {"ru":"стук","sa":"يطرق","level":1,"transcription":null}
-{"ru":"диагноз","sa":"تشخبص","level":4,"transcription":null}
-{"ru":"примета","sa":"فأل","level":3,"transcription":null}
-{"ru":"выложить","sa":"بريد","level":2,"transcription":null}
-{"ru":"различать","sa":"يميز","level":4,"transcription":null}
-{"ru":"организованный","sa":"منظمة","level":3,"transcription":null}
+{"ru":"диагноз","sa":"تشخيص","level":4,"transcription":null}
+{"ru":"примета","sa":"علامة","level":3,"transcription":null}
+{"ru":"выложить","sa":"تفحوص","level":2,"transcription":null}
+{"ru":"различать","sa":"يتمييز","level":4,"transcription":null}
+{"ru":"организованный","sa":"مُرتب","level":3,"transcription":null}
 {"ru":"неважно","sa":"لا يهم","level":2,"transcription":null}
 {"ru":"проживание","sa":"إقامة","level":3,"transcription":null}
-{"ru":"компенсировать","sa":"يكافئ","level":5,"transcription":null}
+{"ru":"компенсировать","sa":"يُعادى","level":5,"transcription":null}
 {"ru":"двадцатый","sa":"العشرين","level":1,"transcription":null}
 {"ru":"пробка","sa":"الفلين","level":2,"transcription":null}
 {"ru":"русло","sa":"سرير","level":3,"transcription":null}
@@ -4382,16 +4382,16 @@
 {"ru":"жарко","sa":"حار","level":1,"transcription":null}
 {"ru":"наслаждаться","sa":"يتمتع","level":4,"transcription":null}
 {"ru":"пожить","sa":"يعيش","level":1,"transcription":null}
-{"ru":"прекратиться","sa":"قف","level":3,"transcription":null}
+{"ru":"прекратиться","sa":"يتوقف","level":3,"transcription":null}
 {"ru":"пользователь","sa":"مستخدم","level":3,"transcription":null}
 {"ru":"семя","sa":"بذرة","level":2,"transcription":null}
 {"ru":"драматический","sa":"دراماتيكي","level":4,"transcription":null}
 {"ru":"желудок","sa":"معدة","level":2,"transcription":null}
-{"ru":"плоскость","sa":"طائرة","level":4,"transcription":null}
+{"ru":"плоскость","sa":"سطح","level":4,"transcription":null}
 {"ru":"величайший","sa":"أعظم","level":3,"transcription":null}
 {"ru":"задеть","sa":"يؤذي","level":2,"transcription":null}
 {"ru":"слышный","sa":"مسموع","level":3,"transcription":null}
-{"ru":"увлекаться","sa":"نبتعد","level":3,"transcription":null}
+{"ru":"увлекаться","sa":"ينبتعد","level":3,"transcription":null}
 {"ru":"привыкать","sa":"تعتاد على ذلك","level":3,"transcription":null}
 {"ru":"шепот","sa":"الهمس","level":2,"transcription":null}
 {"ru":"ласково","sa":"بلطف","level":2,"transcription":null}
@@ -4408,7 +4408,7 @@
 {"ru":"мысленно","sa":"عقليا","level":3,"transcription":null}
 {"ru":"любовный","sa":"حب","level":3,"transcription":null}
 {"ru":"архитектурный","sa":"معماري","level":4,"transcription":null}
-{"ru":"резиновый","sa":"ممحاة","level":2,"transcription":null}
+{"ru":"резиновый","sa":"مرن","level":2,"transcription":null}
 {"ru":"пробить","sa":"اختراق","level":3,"transcription":null}
 {"ru":"заданный","sa":"منح","level":3,"transcription":null}
 {"ru":"отель","sa":"الفندق","level":2,"transcription":null}
@@ -4436,10 +4436,10 @@
 {"ru":"военнослужащий","sa":"جندي","level":3,"transcription":null}
 {"ru":"ток","sa":"حاضِر","level":3,"transcription":null}
 {"ru":"залог","sa":"يتعهد","level":4,"transcription":null}
-{"ru":"завернуть","sa":"طَوّق","level":2,"transcription":null}
+{"ru":"завернуть","sa":"تطويق","level":2,"transcription":null}
 {"ru":"восхищение","sa":"الإعجاب","level":4,"transcription":null}
-{"ru":"выраженный","sa":"أعرب","level":4,"transcription":null}
-{"ru":"устранить","sa":"اِسْتَبْعَد","level":4,"transcription":null}
+{"ru":"выраженный","sa":"مُعبَّر","level":4,"transcription":null}
+{"ru":"устранить","sa":"إزالة","level":4,"transcription":null}
 {"ru":"частица","sa":"جسيم","level":4,"transcription":null}
 {"ru":"кабина","sa":"المقصورة","level":2,"transcription":null}
 {"ru":"кружка","sa":"قدح","level":1,"transcription":null}
@@ -4472,7 +4472,7 @@
 {"ru":"ниша","sa":"المكانة","level":3,"transcription":null}
 {"ru":"наряд","sa":"زيّ","level":2,"transcription":null}
 {"ru":"известность","sa":"شهرة","level":3,"transcription":null}
-{"ru":"речка","sa":"نهر","level":1,"transcription":null}
+{"ru":"речка","sa":"أنهار","level":1,"transcription":null}
 {"ru":"хлопать","sa":"صفق","level":1,"transcription":null}
 {"ru":"первоначально","sa":"أصلا","level":4,"transcription":null}
 {"ru":"акционер","sa":"المساهم","level":4,"transcription":null}
@@ -4503,27 +4503,27 @@
 {"ru":"вселенная","sa":"الكون","level":3,"transcription":null}
 {"ru":"изобретение","sa":"اختراع","level":4,"transcription":null}
 {"ru":"алкоголь","sa":"الكحول","level":3,"transcription":null}
-{"ru":"сказочный","sa":"جنية","level":2,"transcription":null}
-{"ru":"погибать","sa":"يهلك","level":3,"transcription":null}
+{"ru":"сказочный","sa":"قصصي","level":2,"transcription":null}
+{"ru":"погибать","sa":"يُهلك","level":3,"transcription":null}
 {"ru":"стремительный","sa":"سريع","level":3,"transcription":null}
-{"ru":"основываться","sa":"يكون قائما","level":4,"transcription":null}
+{"ru":"основываться","sa":"يعتمد على نفسه","level":4,"transcription":null}
 {"ru":"старательно","sa":"بجد","level":3,"transcription":null}
-{"ru":"отступить","sa":"تراجع","level":3,"transcription":null}
+{"ru":"отступить","sa":"يتراجع","level":3,"transcription":null}
 {"ru":"замкнутый","sa":"مغلق","level":3,"transcription":null}
 {"ru":"рукопись","sa":"مخطوطة","level":3,"transcription":null}
 {"ru":"социализм","sa":"الاشتراكية","level":3,"transcription":null}
-{"ru":"поглядывать","sa":"نلقي نظرة","level":3,"transcription":null}
+{"ru":"поглядывать","sa":"ينظر","level":3,"transcription":null}
 {"ru":"пляж","sa":"شاطئ","level":1,"transcription":null}
 {"ru":"горько","sa":"بمرارة","level":2,"transcription":null}
-{"ru":"налево","sa":"غادر","level":1,"transcription":null}
-{"ru":"выписать","sa":"اكتب","level":3,"transcription":null}
-{"ru":"базироваться","sa":"يكون قائما","level":4,"transcription":null}
+{"ru":"налево","sa":"لغرب","level":1,"transcription":null}
+{"ru":"выписать","sa":"يُكتب","level":3,"transcription":null}
+{"ru":"базироваться","sa":"يعتمد على نفسه","level":4,"transcription":null}
 {"ru":"земельный","sa":"أرض","level":3,"transcription":null}
 {"ru":"дура","sa":"غبي","level":1,"transcription":null}
 {"ru":"наследник","sa":"وريث","level":3,"transcription":null}
 {"ru":"королева","sa":"ملكة","level":2,"transcription":null}
 {"ru":"завалить","sa":"يفشل","level":2,"transcription":null}
-{"ru":"разворачиваться","sa":"التف حوله","level":4,"transcription":null}
+{"ru":"разворачиваться","sa":"يُتجه نحو","level":4,"transcription":null}
 {"ru":"эволюция","sa":"تطور","level":4,"transcription":null}
 {"ru":"продолжительность","sa":"مدة","level":4,"transcription":null}
 {"ru":"мирно","sa":"بسلام","level":2,"transcription":null}
@@ -4532,16 +4532,16 @@
 {"ru":"периодически","sa":"بشكل دوري","level":4,"transcription":null}
 {"ru":"конкурировать","sa":"تنافس","level":4,"transcription":null}
 {"ru":"пушкинский","sa":"بوشكينسكي","level":3,"transcription":null}
-{"ru":"оболочка","sa":"صدَفَة","level":4,"transcription":null}
-{"ru":"гараж","sa":"المرآب","level":1,"transcription":null}
+{"ru":"оболочка","sa":"الطبقة الخارجية","level":4,"transcription":null}
+{"ru":"гараж","sa":"المحطة","level":1,"transcription":null}
 {"ru":"ванна","sa":"حمام","level":1,"transcription":null}
-{"ru":"прыжок","sa":"ترتد","level":2,"transcription":null}
-{"ru":"газетный","sa":"صحيفة","level":2,"transcription":null}
-{"ru":"поспешить","sa":"اسرع","level":2,"transcription":null}
+{"ru":"прыжок","sa":"قفز","level":2,"transcription":null}
+{"ru":"газетный","sa":"صحفي","level":2,"transcription":null}
+{"ru":"поспешить","sa":"تسرع","level":2,"transcription":null}
 {"ru":"запросто","sa":"بسهولة","level":2,"transcription":null}
-{"ru":"разгар","sa":"ارتفاع","level":3,"transcription":null}
-{"ru":"заключительный","sa":"أخير","level":4,"transcription":null}
-{"ru":"тряпка","sa":"خرقة","level":2,"transcription":null}
+{"ru":"разгар","sa":"النهاية","level":3,"transcription":null}
+{"ru":"заключительный","sa":"الأخير","level":4,"transcription":null}
+{"ru":"тряпка","sa":"قطعة قماش","level":2,"transcription":null}
 {"ru":"недоверие","sa":"عدم الثقة","level":4,"transcription":null}
 {"ru":"сильнейший","sa":"الأقوى","level":3,"transcription":null}
 {"ru":"жилец","sa":"مستأجر","level":3,"transcription":null}
@@ -4552,11 +4552,11 @@
 {"ru":"поблагодарить","sa":"شكر","level":2,"transcription":null}
 {"ru":"знаток","sa":"متذوق","level":3,"transcription":null}
 {"ru":"путать","sa":"إرباك","level":2,"transcription":null}
-{"ru":"экзотический","sa":"غَرِيب","level":4,"transcription":null}
+{"ru":"экзотический","sa":"غريب","level":4,"transcription":null}
 {"ru":"задолго","sa":"منذ فترة طويلة","level":3,"transcription":null}
 {"ru":"восстанавливать","sa":"يعيد","level":5,"transcription":null}
 {"ru":"достойно","sa":"يستحق","level":3,"transcription":null}
-{"ru":"сформироваться","sa":"استمارة","level":4,"transcription":null}
+{"ru":"сформироваться","sa":"يتم تشكيله","level":4,"transcription":null}
 {"ru":"темно","sa":"مظلم","level":2,"transcription":null}
 {"ru":"промежуточный","sa":"متوسط","level":4,"transcription":null}
 {"ru":"альтернатива","sa":"بديل","level":4,"transcription":null}
@@ -4592,10 +4592,10 @@
 {"ru":"скот","sa":"الماشية","level":2,"transcription":null}
 {"ru":"протягивать","sa":"تمتد","level":3,"transcription":null}
 {"ru":"аппетит","sa":"شهية","level":2,"transcription":null}
-{"ru":"пристрастие","sa":"مدمن","level":4,"transcription":null}
+{"ru":"пристрастие","sa":"تفضيل","level":4,"transcription":null}
 {"ru":"мораль","sa":"الأخلاق","level":4,"transcription":null}
-{"ru":"овощи","sa":"خضروات","level":1,"transcription":null}
-{"ru":"чистить","sa":"ينظف","level":2,"transcription":null}
+{"ru":"овощи","sa":"الخضروات","level":1,"transcription":null}
+{"ru":"чистить","sa":"تنظيف","level":2,"transcription":null}
 {"ru":"литр","sa":"لتر","level":1,"transcription":null}
 {"ru":"обманывать","sa":"خداع","level":3,"transcription":null}
 {"ru":"выходной","sa":"يوم عطلة","level":2,"transcription":null}
@@ -4620,11 +4620,11 @@
 {"ru":"подписание","sa":"التوقيع","level":4,"transcription":null}
 {"ru":"отказывать","sa":"رفض","level":3,"transcription":null}
 {"ru":"усмехнуться","sa":"ابتسامة","level":3,"transcription":null}
-{"ru":"тетка","sa":"عمة","level":1,"transcription":null}
+{"ru":"тетка","sa":"عمه","level":1,"transcription":null}
 {"ru":"девица","sa":"بنت","level":2,"transcription":null}
 {"ru":"римский","sa":"روماني","level":3,"transcription":null}
-{"ru":"минеральный","sa":"المعدنية","level":3,"transcription":null}
-{"ru":"убегать","sa":"اهرب","level":2,"transcription":null}
+{"ru":"минеральный","sa":"المعدني","level":3,"transcription":null}
+{"ru":"убегать","sa":"يهرب","level":2,"transcription":null}
 {"ru":"опять-таки","sa":"مرة أخرى","level":2,"transcription":null}
 {"ru":"формат","sa":"شكل","level":3,"transcription":null}
 {"ru":"фиксировать","sa":"يصلح","level":4,"transcription":null}
@@ -4685,7 +4685,7 @@
 {"ru":"отделить","sa":"متفرق","level":3,"transcription":null}
 {"ru":"расположиться","sa":"يستقر","level":4,"transcription":null}
 {"ru":"уставать","sa":"تتعب","level":2,"transcription":null}
-{"ru":"смириться","sa":"تتصالح مع","level":4,"transcription":null}
+{"ru":"смириться","sa":"يُصَلِّح","level":4,"transcription":null}
 {"ru":"имидж","sa":"صورة","level":3,"transcription":null}
 {"ru":"доверить","sa":"يثق","level":4,"transcription":null}
 {"ru":"облегчить","sa":"يُسَهّل","level":4,"transcription":null}
@@ -4735,13 +4735,13 @@
 {"ru":"рекорд","sa":"سِجِلّ","level":3,"transcription":null}
 {"ru":"плавно","sa":"بسلاسة","level":3,"transcription":null}
 {"ru":"публично","sa":"علانية","level":4,"transcription":null}
-{"ru":"учитываться","sa":"تؤخذ في الاعتبار","level":4,"transcription":null}
+{"ru":"учитываться","sa":"يتم أخذها في الاعتبار","level":4,"transcription":null}
 {"ru":"реплика","sa":"نسخة طبق الأصل","level":3,"transcription":null}
 {"ru":"злоба","sa":"الغضب","level":3,"transcription":null}
-{"ru":"вице-премьер","sa":"نائب رئيس الوزراء","level":3,"transcription":null}
+{"ru":"вице-премьер","sa":"رئيس الوزراء","level":3,"transcription":null}
 {"ru":"укреплять","sa":"تعزيز","level":4,"transcription":null}
-{"ru":"заработный","sa":"مرتب","level":3,"transcription":null}
-{"ru":"латинский","sa":"اللاتينية","level":3,"transcription":null}
+{"ru":"заработный","sa":"مكسب","level":3,"transcription":null}
+{"ru":"латинский","sa":"اللغة اللاتينية","level":3,"transcription":null}
 {"ru":"отвезти","sa":"يأخذ","level":2,"transcription":null}
 {"ru":"витрина","sa":"عرض","level":2,"transcription":null}
 {"ru":"паника","sa":"ذعر","level":3,"transcription":null}
@@ -4749,7 +4749,7 @@
 {"ru":"президиум","sa":"رئاسة","level":4,"transcription":null}
 {"ru":"стройка","sa":"بناء","level":2,"transcription":null}
 {"ru":"порядочный","sa":"مقبول","level":3,"transcription":null}
-{"ru":"подписывать","sa":"لافتة","level":3,"transcription":null}
+{"ru":"подписывать","sa":"توقيع","level":3,"transcription":null}
 {"ru":"сражаться","sa":"يعارك","level":2,"transcription":null}
 {"ru":"спонсор","sa":"راعي","level":3,"transcription":null}
 {"ru":"ползти","sa":"الزحف","level":2,"transcription":null}
@@ -4765,7 +4765,7 @@
 {"ru":"изумление","sa":"دهشة","level":4,"transcription":null}
 {"ru":"порция","sa":"جزء","level":2,"transcription":null}
 {"ru":"утрата","sa":"خسارة","level":4,"transcription":null}
-{"ru":"сдаться","sa":"يستسلم","level":3,"transcription":null}
+{"ru":"сдаться","sa":"يُستسلم","level":3,"transcription":null}
 {"ru":"скромно","sa":"متواضع","level":2,"transcription":null}
 {"ru":"потрясение","sa":"صدمة","level":4,"transcription":null}
 {"ru":"озаботить","sa":"انشغال","level":4,"transcription":null}
@@ -4826,31 +4826,31 @@
 {"ru":"думский","sa":"دوما","level":3,"transcription":null}
 {"ru":"погасить","sa":"سداد","level":3,"transcription":null}
 {"ru":"ощущаться","sa":"يشعر","level":4,"transcription":null}
-{"ru":"достигаться","sa":"يمكن تحقيقه","level":4,"transcription":null}
+{"ru":"достигаться","sa":"يُحقق","level":4,"transcription":null}
 {"ru":"ребро","sa":"حافة","level":2,"transcription":null}
 {"ru":"соображать","sa":"يفكر","level":3,"transcription":null}
 {"ru":"плотность","sa":"كثافة","level":4,"transcription":null}
 {"ru":"обнаружение","sa":"كشف","level":4,"transcription":null}
 {"ru":"прощение","sa":"مغفرة","level":3,"transcription":null}
-{"ru":"чаша","sa":"صَحن","level":2,"transcription":null}
+{"ru":"чаша","sa":"صحن","level":2,"transcription":null}
 {"ru":"выпадать","sa":"يسقط","level":2,"transcription":null}
-{"ru":"отводить","sa":"ينسحب","level":4,"transcription":null}
-{"ru":"внушать","sa":"يلهم","level":4,"transcription":null}
-{"ru":"постигнуть","sa":"فهم","level":4,"transcription":null}
-{"ru":"увлечься","sa":"نبتعد","level":4,"transcription":null}
-{"ru":"набраться","sa":"يكسب","level":4,"transcription":null}
-{"ru":"плевать","sa":"يبصقون","level":2,"transcription":null}
-{"ru":"прохладный","sa":"برد","level":2,"transcription":null}
-{"ru":"разложить","sa":"انتشر","level":2,"transcription":null}
-{"ru":"участь","sa":"قدر","level":3,"transcription":null}
+{"ru":"отводить","sa":"يُغادر","level":4,"transcription":null}
+{"ru":"внушать","sa":"يعطي إيحاء","level":4,"transcription":null}
+{"ru":"постигнуть","sa":"يفهم","level":4,"transcription":null}
+{"ru":"увлечься","sa":"ينشغل","level":4,"transcription":null}
+{"ru":"набраться","sa":"يكتسب","level":4,"transcription":null}
+{"ru":"плевать","sa":"يبصق","level":2,"transcription":null}
+{"ru":"прохладный","sa":"بارد","level":2,"transcription":null}
+{"ru":"разложить","sa":"ينتشر","level":2,"transcription":null}
+{"ru":"участь","sa":"قدرته","level":3,"transcription":null}
 {"ru":"стаж","sa":"خبرة","level":4,"transcription":null}
 {"ru":"приспособить","sa":"يتكيف","level":4,"transcription":null}
 {"ru":"бремя","sa":"حرج","level":4,"transcription":null}
 {"ru":"половой","sa":"جنسي","level":4,"transcription":null}
 {"ru":"подоконник","sa":"حافة النافذة","level":1,"transcription":null}
-{"ru":"шевелиться","sa":"اثارة","level":2,"transcription":null}
+{"ru":"шевелиться","sa":"يُحرك","level":2,"transcription":null}
 {"ru":"возражение","sa":"اعتراض","level":4,"transcription":null}
-{"ru":"сознавать","sa":"كن على علم","level":4,"transcription":null}
+{"ru":"сознавать","sa":"يعرف","level":4,"transcription":null}
 {"ru":"освещать","sa":"تضيء","level":3,"transcription":null}
 {"ru":"предпринимать","sa":"القيام","level":4,"transcription":null}
 {"ru":"нежно","sa":"بلطف","level":2,"transcription":null}
@@ -4864,8 +4864,8 @@
 {"ru":"обнимать","sa":"حضن","level":2,"transcription":null}
 {"ru":"толкнуть","sa":"يدفع","level":2,"transcription":null}
 {"ru":"перчатка","sa":"قفاز","level":1,"transcription":null}
-{"ru":"качать","sa":"تمايل","level":2,"transcription":null}
-{"ru":"загнать","sa":"يقود","level":2,"transcription":null}
+{"ru":"качать","sa":"تكرار","level":2,"transcription":null}
+{"ru":"загнать","sa":"يدير","level":2,"transcription":null}
 {"ru":"смелость","sa":"شجاعة","level":3,"transcription":null}
 {"ru":"повторный","sa":"متكرر","level":3,"transcription":null}
 {"ru":"страхование","sa":"تأمين","level":4,"transcription":null}
@@ -4976,44 +4976,44 @@
 {"ru":"инстинкт","sa":"غريزة","level":3,"transcription":null}
 {"ru":"плюнуть","sa":"يبصقون","level":2,"transcription":null}
 {"ru":"кое-кто","sa":"شخص ما","level":1,"transcription":null}
-{"ru":"складывать","sa":"طية","level":2,"transcription":null}
+{"ru":"складывать","sa":"تجمع","level":2,"transcription":null}
 {"ru":"различаться","sa":"يتغير","level":4,"transcription":null}
 {"ru":"числиться","sa":"رقم","level":4,"transcription":null}
 {"ru":"приблизить","sa":"تقرب","level":4,"transcription":null}
 {"ru":"турнир","sa":"البطولة","level":3,"transcription":null}
-{"ru":"образовательный","sa":"التعليمية","level":4,"transcription":null}
-{"ru":"отвратительный","sa":"مقزز","level":3,"transcription":null}
-{"ru":"сталь","sa":"فُولاَذ","level":2,"transcription":null}
-{"ru":"оправдываться","sa":"اختلق الأعذار","level":4,"transcription":null}
+{"ru":"образовательный","sa":"التعليمي","level":4,"transcription":null}
+{"ru":"отвратительный","sa":"مزعج","level":3,"transcription":null}
+{"ru":"сталь","sa":"الفلز","level":2,"transcription":null}
+{"ru":"оправдываться","sa":"تبرأ من الجرائم","level":4,"transcription":null}
 {"ru":"аналогия","sa":"تشبيه","level":4,"transcription":null}
-{"ru":"неопределенный","sa":"غير مؤكد","level":4,"transcription":null}
-{"ru":"усиливаться","sa":"تكثيف","level":4,"transcription":null}
-{"ru":"мерка","sa":"يقيس","level":3,"transcription":null}
+{"ru":"неопределенный","sa":"غير محدد","level":4,"transcription":null}
+{"ru":"усиливаться","sa":"زيادة","level":4,"transcription":null}
+{"ru":"мерка","sa":"قياس","level":3,"transcription":null}
 {"ru":"пищевой","sa":"طعام","level":3,"transcription":null}
-{"ru":"выкинуть","sa":"رمى","level":2,"transcription":null}
-{"ru":"путешествовать","sa":"يسافر","level":2,"transcription":null}
-{"ru":"возвести","sa":"منتصب","level":3,"transcription":null}
+{"ru":"выкинуть","sa":"إخراج","level":2,"transcription":null}
+{"ru":"путешествовать","sa":"سافر","level":2,"transcription":null}
+{"ru":"возвести","sa":"رفع","level":3,"transcription":null}
 {"ru":"выше","sa":"أعلى","level":1,"transcription":null}
-{"ru":"воплотить","sa":"يدرك","level":4,"transcription":null}
+{"ru":"воплотить","sa":"تحويل","level":4,"transcription":null}
 {"ru":"очнуться","sa":"استيقظ","level":3,"transcription":null}
 {"ru":"равенство","sa":"المساواة","level":4,"transcription":null}
-{"ru":"сдвинуть","sa":"يتحرك","level":3,"transcription":null}
+{"ru":"сдвинуть","sa":"يُحرك","level":3,"transcription":null}
 {"ru":"возмущение","sa":"إزعاج","level":4,"transcription":null}
-{"ru":"наделить","sa":"هبة","level":4,"transcription":null}
+{"ru":"наделить","sa":"توزيع","level":4,"transcription":null}
 {"ru":"разом","sa":"مرة واحدة","level":2,"transcription":null}
 {"ru":"закрыться","sa":"يغلق","level":2,"transcription":null}
 {"ru":"смешанный","sa":"مختلط","level":3,"transcription":null}
 {"ru":"сосредоточиться","sa":"يركز","level":5,"transcription":null}
-{"ru":"выбираться","sa":"اخرج","level":3,"transcription":null}
+{"ru":"выбираться","sa":"يخرج","level":3,"transcription":null}
 {"ru":"одобрение","sa":"نعم","level":4,"transcription":null}
 {"ru":"бедро","sa":"خاصرة","level":2,"transcription":null}
 {"ru":"приподнять","sa":"يرفع","level":2,"transcription":null}
 {"ru":"чересчур","sa":"أيضاً","level":3,"transcription":null}
 {"ru":"ненадолго","sa":"ليس لفترة طويلة","level":2,"transcription":null}
 {"ru":"непривычный","sa":"غير مألوف","level":3,"transcription":null}
-{"ru":"намекать","sa":"تَلمِيح","level":4,"transcription":null}
+{"ru":"намекать","sa":"تلميح","level":4,"transcription":null}
 {"ru":"сбоку","sa":"من الجانب","level":2,"transcription":null}
-{"ru":"неподвижный","sa":"مُثَبَّت","level":3,"transcription":null}
+{"ru":"неподвижный","sa":"مثبّت","level":3,"transcription":null}
 {"ru":"кавказский","sa":"قوقازي","level":3,"transcription":null}
 {"ru":"прислушаться","sa":"يستمع","level":3,"transcription":null}
 {"ru":"медик","sa":"مسعف","level":2,"transcription":null}
@@ -5026,7 +5026,7 @@
 {"ru":"ослабить","sa":"يضعف","level":4,"transcription":null}
 {"ru":"валютный","sa":"عملة","level":4,"transcription":null}
 {"ru":"классный","sa":"رائع","level":2,"transcription":null}
-{"ru":"вылезать","sa":"اخرج","level":2,"transcription":null}
+{"ru":"вылезать","sa":"يخرج","level":2,"transcription":null}
 {"ru":"закурить","sa":"أشعل سيجارة","level":2,"transcription":null}
 {"ru":"гитара","sa":"غيتار","level":1,"transcription":null}
 {"ru":"искра","sa":"شرارة","level":2,"transcription":null}
@@ -5063,16 +5063,16 @@
 {"ru":"определенно","sa":"قطعاً","level":3,"transcription":null}
 {"ru":"законодатель","sa":"المشرع","level":5,"transcription":null}
 {"ru":"населенный","sa":"مأهولة بالسكان","level":3,"transcription":null}
-{"ru":"подсказывать","sa":"يقترح","level":3,"transcription":null}
+{"ru":"подсказывать","sa":"يُقدّر","level":3,"transcription":null}
 {"ru":"передвижение","sa":"حركة","level":4,"transcription":null}
 {"ru":"заинтересоваться","sa":"تصبح مهتمة","level":3,"transcription":null}
 {"ru":"избыток","sa":"إفراط","level":4,"transcription":null}
 {"ru":"лейтенант","sa":"ملازم","level":2,"transcription":null}
 {"ru":"осуждать","sa":"يدين","level":4,"transcription":null}
-{"ru":"нелегко","sa":"ليس سهلا","level":2,"transcription":null}
+{"ru":"нелегко","sa":"ليس سهلاً","level":2,"transcription":null}
 {"ru":"развалиться","sa":"ينهار","level":2,"transcription":null}
 {"ru":"рюмка","sa":"زجاج","level":1,"transcription":null}
-{"ru":"японец","sa":"اليابانية","level":2,"transcription":null}
+{"ru":"японец","sa":"الياباني","level":2,"transcription":null}
 {"ru":"кинуть","sa":"يرمي","level":2,"transcription":null}
 {"ru":"жар","sa":"حرارة","level":1,"transcription":null}
 {"ru":"гонять","sa":"يقود","level":2,"transcription":null}
@@ -5118,7 +5118,7 @@
 {"ru":"координация","sa":"تنسيق","level":5,"transcription":null}
 {"ru":"героиня","sa":"بطلة","level":2,"transcription":null}
 {"ru":"пропуск","sa":"يمر","level":3,"transcription":null}
-{"ru":"напиться","sa":"يسكر","level":2,"transcription":null}
+{"ru":"напиться","sa":"يغني","level":2,"transcription":null}
 {"ru":"ударный","sa":"صدمة","level":3,"transcription":null}
 {"ru":"презентация","sa":"عرض تقديمي","level":3,"transcription":null}
 {"ru":"прокомментировать","sa":"تعليق","level":4,"transcription":null}

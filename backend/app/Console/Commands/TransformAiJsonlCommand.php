@@ -15,7 +15,7 @@ class TransformAiJsonlCommand extends Command
      */
     public function handle()
     {
-        $baseLanguages = ['jp', 'de', 'kr', 'ru', 'kz', 'en' ,'fr', 'es', 'pt'];
+        $baseLanguages = ['cn', 'jp', 'de', 'kr', 'ru', 'kz', 'en' ,'fr', 'es', 'pt'];
         $targetLanguages = [
             'ru' => ['kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
             'kz' => ['ru', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
@@ -33,8 +33,8 @@ class TransformAiJsonlCommand extends Command
             foreach ($targetLanguages[$baseLanguage] as $targetLanguage) {
                 $fileManual = fopen(base_path("data/words/$baseLanguage/$targetLanguage.jsonl"), "r"); //-- файл, переведённый в ручную
                 $fileAIFiltered = fopen(base_path("data/filtered/$baseLanguage/$targetLanguage.jsonl"), "w"); //-- файл, переведённый AI, но с транскрипциями и уровнем
-                if (file_exists(base_path("data/ai/$targetLanguage/$baseLanguage.jsonl"))) {
-                    $fileAI = fopen(base_path("data/ai/$targetLanguage/$baseLanguage.jsonl"), "r"); //-- файл, переведённый AI
+                if (file_exists(base_path("data/ai/$baseLanguage/$targetLanguage.jsonl"))) {
+                    $fileAI = fopen(base_path("data/ai/$baseLanguage/$targetLanguage.jsonl"), "r"); //-- файл, переведённый AI
                     $wordOriginalData = [];
 
                     while (($line = fgets($fileManual)) !== false) {
@@ -55,7 +55,7 @@ class TransformAiJsonlCommand extends Command
                         ) {
                             $data = [
                                 $baseLanguage => $wordAI->{$baseLanguage},
-                                $targetLanguage =>$wordOriginalData[$wordAI->{$baseLanguage}][$targetLanguage],
+                                $targetLanguage => $wordAI->{$targetLanguage},
                                 'level' => $wordOriginalData[$wordAI->{$baseLanguage}]['level'],
                                 'transcription' => $wordOriginalData[$wordAI->{$baseLanguage}]['transcription']
                             ];

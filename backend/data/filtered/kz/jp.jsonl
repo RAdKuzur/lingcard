@@ -1,5 +1,5 @@
 {"kz":"аға","jp":"兄","level":1,"transcription":null}
-{"kz":"ағайынды","jp":"ブラザーズ","level":2,"transcription":null}
+{"kz":"ағайынды","jp":"兄弟","level":2,"transcription":null}
 {"kz":"ағайын-туған","jp":"親族","level":2,"transcription":null}
 {"kz":"ағалы-інілі","jp":"兄弟","level":2,"transcription":null}
 {"kz":"ақсүйек","jp":"貴族","level":4,"transcription":null}
@@ -9,15 +9,15 @@
 {"kz":"ата","jp":"祖父","level":1,"transcription":null}
 {"kz":"ата-баба","jp":"先祖","level":2,"transcription":null}
 {"kz":"әже","jp":"祖母","level":1,"transcription":null}
-{"kz":"әйел","jp":"妻、女性","level":1,"transcription":null}
+{"kz":"әйел","jp":"女性","level":1,"transcription":null}
 {"kz":"әке","jp":"父親","level":1,"transcription":null}
 {"kz":"әке-шеше, ата-ана","jp":"両親","level":1,"transcription":null}
 {"kz":"әпке","jp":"姉","level":2,"transcription":null}
 {"kz":"әріптес","jp":"同僚","level":3,"transcription":null}
-{"kz":"бажа","jp":"姉妹の夫同士","level":5,"transcription":null}
+{"kz":"бажа","jp":"兄弟の夫同士","level":5,"transcription":null}
 {"kz":"бала","jp":"子供、男の子","level":1,"transcription":null}
 {"kz":"балдыз","jp":"妻の弟や妹たち","level":5,"transcription":null}
-{"kz":"бауыр","jp":"肝臓","level":3,"transcription":null}
+{"kz":"бауыр","jp":"血縁者","level":3,"transcription":null}
 {"kz":"бәсекелес","jp":"競争相手、ライバル","level":4,"transcription":null}
 {"kz":"бозбала","jp":"若い男","level":3,"transcription":null}
 {"kz":"бойжеткен","jp":"若い女性","level":3,"transcription":null}
@@ -29,7 +29,7 @@
 {"kz":"білімдар","jp":"博学者","level":4,"transcription":null}
 {"kz":"данышпан","jp":"セージ","level":4,"transcription":null}
 {"kz":"дос","jp":"友達","level":1,"transcription":null}
-{"kz":"егіз","jp":"ツイン","level":3,"transcription":null}
+{"kz":"егіз","jp":"ツインズ","level":3,"transcription":null}
 {"kz":"ер азамат, еркек","jp":"男","level":2,"transcription":null}
 {"kz":"ерлі-зайыптылар","jp":"配偶者たち","level":4,"transcription":null}
 {"kz":"жағымпаз","jp":"おべっか","level":5,"transcription":null}
@@ -58,8 +58,8 @@
 {"kz":"қарындас","jp":"妹（兄に対して）","level":3,"transcription":null}
 {"kz":"қиялшыл","jp":"夢想家","level":4,"transcription":null}
 {"kz":"құрбы","jp":"彼女","level":2,"transcription":null}
-{"kz":"құрдас","jp":"ピア","level":3,"transcription":null}
-{"kz":"қыз","jp":"女の子、娘","level":1,"transcription":null}
+{"kz":"құрдас","jp":"親戚","level":3,"transcription":null}
+{"kz":"қыз","jp":"娘","level":1,"transcription":null}
 {"kz":"нағашы","jp":"母方の親戚","level":4,"transcription":null}
 {"kz":"нәресте","jp":"赤ちゃん","level":3,"transcription":null}
 {"kz":"негізін салушы","jp":"創設者","level":5,"transcription":null}
@@ -80,7 +80,7 @@
 {"kz":"іні","jp":"弟","level":2,"transcription":null}
 {"kz":"автобус","jp":"バス","level":1,"transcription":null}
 {"kz":"алаң","jp":"四角","level":2,"transcription":null}
-{"kz":"астана, елорда","jp":"資本","level":3,"transcription":null}
+{"kz":"астана, елорда","jp":"首都","level":3,"transcription":null}
 {"kz":"асхана","jp":"ダイニングルーム","level":2,"transcription":null}
 {"kz":"аудан","jp":"地区","level":2,"transcription":null}
 {"kz":"аула","jp":"ヤード","level":2,"transcription":null}
@@ -88,7 +88,7 @@
 {"kz":"ауылдық жер","jp":"田舎","level":3,"transcription":null}
 {"kz":"аяқ киім жөндеу","jp":"靴の修理","level":3,"transcription":null}
 {"kz":"аялдама","jp":"停止","level":2,"transcription":null}
-{"kz":"әкімдік","jp":"アキマット","level":4,"transcription":null}
+{"kz":"әкімдік","jp":"行政","level":4,"transcription":null}
 {"kz":"бағдаршам","jp":"信号機","level":3,"transcription":null}
 {"kz":"бақ","jp":"庭","level":1,"transcription":null}
 {"kz":"бақша","jp":"庭","level":2,"transcription":null}
@@ -123,16 +123,16 @@
 {"kz":"мәдениет орталығы","jp":"文化センター","level":4,"transcription":null}
 {"kz":"мейрамхана","jp":"レストラン","level":2,"transcription":null}
 {"kz":"мекеме","jp":"機関","level":3,"transcription":null}
-{"kz":"мекенжай","jp":"居住地","level":4,"transcription":null}
+{"kz":"мекенжай","jp":"住所","level":4,"transcription":null}
 {"kz":"мектеп","jp":"学校","level":1,"transcription":null}
 {"kz":"метро","jp":"地下鉄","level":1,"transcription":null}
-{"kz":"мешіт","jp":"モスク","level":3,"transcription":null}
+{"kz":"мешіт","jp":"mosque","level":3,"transcription":null}
 {"kz":"монша","jp":"浴場","level":3,"transcription":null}
 {"kz":"мұражай","jp":"博物館","level":2,"transcription":null}
-{"kz":"ойын-сауық орталығы","jp":"ショッピングとエンターテイメントセンター","level":4,"transcription":null}
+{"kz":"ойын-сауық орталығы","jp":"エンターテイメントセンター","level":4,"transcription":null}
 {"kz":"орталық","jp":"中心","level":2,"transcription":null}
 {"kz":"орын","jp":"場所","level":1,"transcription":null}
-{"kz":"пошта","jp":"郵便","level":2,"transcription":null}
+{"kz":"пошта","jp":"郵便局","level":2,"transcription":null}
 {"kz":"сағат жөндеу","jp":"時計修理","level":3,"transcription":null}
 {"kz":"сауда орталығы","jp":"ショッピングモール","level":3,"transcription":null}
 {"kz":"сауда үйі","jp":"商社","level":3,"transcription":null}
@@ -159,7 +159,7 @@
 {"kz":"бесік","jp":"ゆりかご","level":4,"transcription":null}
 {"kz":"бөлме","jp":"部屋","level":2,"transcription":null}
 {"kz":"бөшке","jp":"バレル","level":3,"transcription":null}
-{"kz":"бұрыш","jp":"ペッパー","level":2,"transcription":null}
+{"kz":"бұрыш","jp":"コーナー","level":2,"transcription":null}
 {"kz":"газ баллоны","jp":"ガスシリンダー","level":4,"transcription":null}
 {"kz":"газ плитасы","jp":"ガスコンロ","level":3,"transcription":null}
 {"kz":"дәліз","jp":"廊下","level":3,"transcription":null}
@@ -172,7 +172,7 @@
 {"kz":"жатын бөлме","jp":"寝室","level":3,"transcription":null}
 {"kz":"жеке үй","jp":"民家","level":3,"transcription":null}
 {"kz":"жиhаз","jp":"家具","level":3,"transcription":null}
-{"kz":"жорық құтысы","jp":"トラベルフラスコ","level":5,"transcription":null}
+{"kz":"жорық құтысы","jp":"トラベルフラスко","level":5,"transcription":null}
 {"kz":"жуынатын бөлме","jp":"バスルーム","level":3,"transcription":null}
 {"kz":"жіп","jp":"糸","level":2,"transcription":null}
 {"kz":"зат","jp":"アイテム","level":2,"transcription":null}
@@ -197,21 +197,21 @@
 {"kz":"қонақ бөлме","jp":"リビングルーム、ホール","level":3,"transcription":null}
 {"kz":"қорап","jp":"箱","level":2,"transcription":null}
 {"kz":"құлып","jp":"ロック","level":3,"transcription":null}
-{"kz":"құты, фляга","jp":"フラスコ","level":4,"transcription":null}
+{"kz":"құты, фляга","jp":"フラスко","level":4,"transcription":null}
 {"kz":"лифт","jp":"エレベーター","level":2,"transcription":null}
 {"kz":"майлық","jp":"ナプキン","level":3,"transcription":null}
 {"kz":"матрац","jp":"マットレス","level":3,"transcription":null}
-{"kz":"метал сынығы","jp":"金属くず","level":5,"transcription":null}
+{"kz":"метал сынығы","jp":"金属күзі","level":5,"transcription":null}
 {"kz":"микротолқынды пеш","jp":"電子レンジ","level":4,"transcription":null}
 {"kz":"ожау","jp":"柄杓","level":4,"transcription":null}
-{"kz":"ойыншық","jp":"玩具","level":2,"transcription":null}
+{"kz":"ойыншық","jp":"おもちゃ","level":2,"transcription":null}
 {"kz":"оқтау","jp":"麺棒","level":4,"transcription":null}
 {"kz":"орындық","jp":"椅子","level":1,"transcription":null}
 {"kz":"оттегі баллоны","jp":"酸素ボンベ","level":5,"transcription":null}
 {"kz":"пәтер","jp":"アパート","level":2,"transcription":null}
 {"kz":"пышақ","jp":"ナイフ","level":2,"transcription":null}
 {"kz":"сандық","jp":"箱","level":4,"transcription":null}
-{"kz":"сауыт","jp":"容器、容器","level":4,"transcription":null}
+{"kz":"сауыт","jp":"容器","level":4,"transcription":null}
 {"kz":"сөре","jp":"棚","level":3,"transcription":null}
 {"kz":"сурет","jp":"絵画","level":2,"transcription":null}
 {"kz":"сыпырғыш","jp":"ほうき","level":3,"transcription":null}
@@ -257,14 +257,14 @@
 {"kz":"ес, жады","jp":"メモリ","level":3,"transcription":null}
 {"kz":"жақ","jp":"頬","level":2,"transcription":null}
 {"kz":"желке","jp":"後頭部","level":4,"transcription":null}
-{"kz":"жүз","jp":"百","level":1,"transcription":null}
+{"kz":"жүз","jp":"顔、容姿","level":1,"transcription":null}
 {"kz":"жүрек","jp":"心臓","level":2,"transcription":null}
 {"kz":"иек","jp":"顎","level":3,"transcription":null}
 {"kz":"иық","jp":"ショルダー","level":2,"transcription":null}
 {"kz":"кекіл","jp":"強打","level":4,"transcription":null}
 {"kz":"кеуде","jp":"胸","level":3,"transcription":null}
 {"kz":"көз","jp":"目","level":1,"transcription":null}
-{"kz":"көзқарас","jp":"見て、意見して","level":4,"transcription":null}
+{"kz":"көзқарас","jp":"意見","level":4,"transcription":null}
 {"kz":"көкірек","jp":"胸郭","level":4,"transcription":null}
 {"kz":"көңіл күй","jp":"気分","level":3,"transcription":null}
 {"kz":"кірпік","jp":"睫毛","level":4,"transcription":null}
@@ -286,7 +286,7 @@
 {"kz":"мінез","jp":"キャラクター","level":3,"transcription":null}
 {"kz":"назар","jp":"注意","level":2,"transcription":null}
 {"kz":"несеп жолы","jp":"尿管","level":6,"transcription":null}
-{"kz":"өкпе","jp":"憤り","level":3,"transcription":null}
+{"kz":"өкпе","jp":"肺","level":3,"transcription":null}
 {"kz":"өкше","jp":"ヒール","level":3,"transcription":null}
 {"kz":"парасат, интеллект","jp":"知能","level":4,"transcription":null}
 {"kz":"пікір","jp":"意見","level":3,"transcription":null}
@@ -297,7 +297,7 @@
 {"kz":"соқырішек","jp":"虫垂炎","level":5,"transcription":null}
 {"kz":"сүйек","jp":"骨","level":2,"transcription":null}
 {"kz":"тамақ","jp":"喉","level":2,"transcription":null}
-{"kz":"тамыр","jp":"根（植物）","level":3,"transcription":null}
+{"kz":"тамыр","jp":"静脈","level":3,"transcription":null}
 {"kz":"түсінік","jp":"理解","level":3,"transcription":null}
 {"kz":"тырнақ","jp":"釘","level":2,"transcription":null}
 {"kz":"тізе","jp":"膝","level":2,"transcription":null}
@@ -311,11 +311,11 @@
 {"kz":"әліппе","jp":"abc","level":3,"transcription":null}
 {"kz":"әріп","jp":"手紙","level":2,"transcription":null}
 {"kz":"бaстауыш мектеп","jp":"小学校","level":3,"transcription":null}
-{"kz":"баға","jp":"価格","level":2,"transcription":null}
+{"kz":"баға","jp":"学年","level":2,"transcription":null}
 {"kz":"белгі","jp":"サイン","level":2,"transcription":null}
 {"kz":"бестік","jp":"五","level":3,"transcription":null}
 {"kz":"биіктік","jp":"身長","level":3,"transcription":null}
-{"kz":"бояу","jp":"色","level":2,"transcription":null}
+{"kz":"бояу","jp":"染料","level":2,"transcription":null}
 {"kz":"бөлшек","jp":"部分、分数","level":3,"transcription":null}
 {"kz":"білім","jp":"知識","level":2,"transcription":null}
 {"kz":"білім ордасы","jp":"教育機関","level":4,"transcription":null}
@@ -346,7 +346,7 @@
 {"kz":"инициал","jp":"イニシャル","level":4,"transcription":null}
 {"kz":"кәмелеттік аттестат","jp":"入学証明書","level":5,"transcription":null}
 {"kz":"келі","jp":"キログラム","level":2,"transcription":null}
-{"kz":"кесте","jp":"刺繍","level":4,"transcription":null}
+{"kz":"кесте","jp":"グラフ、表","level":4,"transcription":null}
 {"kz":"килограмм","jp":"キログラム","level":2,"transcription":null}
 {"kz":"компьютер","jp":"コンピューター","level":2,"transcription":null}
 {"kz":"күнделік","jp":"日記","level":3,"transcription":null}
@@ -372,20 +372,20 @@
 {"kz":"өлшеуіш","jp":"巻尺、メジャー","level":3,"transcription":null}
 {"kz":"өшіргіш","jp":"ゴム","level":3,"transcription":null}
 {"kz":"парта","jp":"机","level":3,"transcription":null}
-{"kz":"пән","jp":"アイテム","level":2,"transcription":null}
-{"kz":"практика","jp":"練習する","level":3,"transcription":null}
-{"kz":"сабақ","jp":"幹","level":3,"transcription":null}
+{"kz":"пән","jp":"科目","level":2,"transcription":null}
+{"kz":"практика","jp":"練習","level":3,"transcription":null}
+{"kz":"сабақ","jp":"レッスン","level":3,"transcription":null}
 {"kz":"сабақ кестесі","jp":"レッスンスケジュール","level":3,"transcription":null}
 {"kz":"сан","jp":"番号","level":2,"transcription":null}
 {"kz":"сандар","jp":"数字","level":2,"transcription":null}
 {"kz":"сөз","jp":"言葉","level":1,"transcription":null}
 {"kz":"сөздік","jp":"辞書","level":2,"transcription":null}
-{"kz":"сөйлем","jp":"オファー","level":3,"transcription":null}
+{"kz":"сөйлем","jp":"文句","level":3,"transcription":null}
 {"kz":"сөйленіс","jp":"話す","level":4,"transcription":null}
 {"kz":"сурет салу","jp":"描画","level":3,"transcription":null}
 {"kz":"сұхбат, диалог","jp":"対話","level":3,"transcription":null}
 {"kz":"сызғыш","jp":"ルーラー","level":3,"transcription":null}
-{"kz":"сызу","jp":"描く","level":3,"transcription":null}
+{"kz":"сызу","jp":"描画","level":3,"transcription":null}
 {"kz":"сызық","jp":"ライン","level":2,"transcription":null}
 {"kz":"сынақ","jp":"テスト","level":3,"transcription":null}
 {"kz":"сынып","jp":"クラス","level":2,"transcription":null}
@@ -432,7 +432,7 @@
 {"kz":"бәліш","jp":"パイ","level":3,"transcription":null}
 {"kz":"бидай","jp":"小麦","level":3,"transcription":null}
 {"kz":"ботқа","jp":"お粥","level":2,"transcription":null}
-{"kz":"бұршақ","jp":"雹","level":3,"transcription":null}
+{"kz":"бұршақ","jp":"エンドウ豆","level":3,"transcription":null}
 {"kz":"бұрыш","jp":"ペッパー","level":2,"transcription":null}
 {"kz":"бүлдірген","jp":"イチゴ","level":4,"transcription":null}
 {"kz":"бір қайнатым","jp":"溶接","level":4,"transcription":null}
@@ -445,7 +445,7 @@
 {"kz":"жержаңғақ","jp":"落花生","level":4,"transcription":null}
 {"kz":"жидек","jp":"ベリー","level":2,"transcription":null}
 {"kz":"жұмыртқа","jp":"卵","level":2,"transcription":null}
-{"kz":"жүгері","jp":"トウモロコシ","level":3,"transcription":null}
+{"kz":"жүгері","jp":"トウモロкоシ","level":3,"transcription":null}
 {"kz":"жүзім","jp":"グレープ","level":2,"transcription":null}
 {"kz":"картоп","jp":"じゃがいも","level":2,"transcription":null}
 {"kz":"кәмпит","jp":"あめ","level":2,"transcription":null}
@@ -469,11 +469,11 @@
 {"kz":"қауын","jp":"メロン","level":2,"transcription":null}
 {"kz":"қияр","jp":"キュウリ","level":2,"transcription":null}
 {"kz":"қуырдақ","jp":"ロースト","level":4,"transcription":null}
-{"kz":"құймақ","jp":"パンケーキ、パンケーキ","level":4,"transcription":null}
+{"kz":"құймақ","jp":"パンケーキ","level":4,"transcription":null}
 {"kz":"құлпынай","jp":"いちご","level":3,"transcription":null}
 {"kz":"қызанақ","jp":"トマト","level":2,"transcription":null}
 {"kz":"қызылша","jp":"ビート","level":3,"transcription":null}
-{"kz":"қымыз","jp":"クミス","level":4,"transcription":null}
+{"kz":"қымыз","jp":"小麦","level":4,"transcription":null}
 {"kz":"қырыққабат","jp":"キャベツ","level":3,"transcription":null}
 {"kz":"қыша","jp":"マスタード","level":4,"transcription":null}
 {"kz":"май","jp":"油","level":1,"transcription":null}
@@ -481,7 +481,7 @@
 {"kz":"минералды су","jp":"ミネラルウォーター","level":3,"transcription":null}
 {"kz":"мұздатылған жеміс","jp":"冷凍フルーツ","level":4,"transcription":null}
 {"kz":"нан","jp":"パン","level":1,"transcription":null}
-{"kz":"өрік","jp":"アプリコット、アプリコット","level":3,"transcription":null}
+{"kz":"өрік","jp":"アプリコット","level":3,"transcription":null}
 {"kz":"өсімдік майы","jp":"植物油","level":3,"transcription":null}
 {"kz":"палау","jp":"ピラフ","level":3,"transcription":null}
 {"kz":"печенье","jp":"クッキー","level":2,"transcription":null}
@@ -522,7 +522,7 @@
 {"kz":"шұжық","jp":"ソーセージ","level":3,"transcription":null}
 {"kz":"шырын","jp":"ジュース","level":2,"transcription":null}
 {"kz":"ірімшік","jp":"チーズ","level":3,"transcription":null}
-{"kz":"ағаш","jp":"木材","level":3,"transcription":null}
+{"kz":"ағаш","jp":"木","level":3,"transcription":null}
 {"kz":"ағыс","jp":"流れ","level":3,"transcription":null}
 {"kz":"ай","jp":"月","level":1,"transcription":null}
 {"kz":"айдың тұтылуы","jp":"月食","level":5,"transcription":null}
@@ -533,27 +533,27 @@
 {"kz":"аспан","jp":"空","level":1,"transcription":null}
 {"kz":"астық тұқымдастар","jp":"穀物","level":5,"transcription":null}
 {"kz":"атмосфера","jp":"雰囲気","level":4,"transcription":null}
-{"kz":"атмосфера қысымы","jp":"大気圧","level":5,"transcription":null}
+{"kz":"атмосфера қысымы","jp":"気圧","level":5,"transcription":null}
 {"kz":"ауа","jp":"空気","level":1,"transcription":null}
 {"kz":"ауа райы","jp":"天気","level":2,"transcription":null}
 {"kz":"ашық күн","jp":"晴れた日","level":2,"transcription":null}
 {"kz":"балды өсімдіктер","jp":"蜂蜜の植物","level":5,"transcription":null}
 {"kz":"барқан, шағыл","jp":"バルカン","level":5,"transcription":null}
-{"kz":"бастау","jp":"ソース","level":3,"transcription":null}
+{"kz":"бастау","jp":"開始","level":3,"transcription":null}
 {"kz":"батпақ","jp":"沼地","level":4,"transcription":null}
 {"kz":"баяу жел, самал","jp":"そよ風、そよ風","level":4,"transcription":null}
-{"kz":"боран","jp":"ブリザード","level":4,"transcription":null}
-{"kz":"бұлақ","jp":"鍵","level":3,"transcription":null}
+{"kz":"боран","jp":"ブライズド","level":4,"transcription":null}
+{"kz":"бұлақ","jp":"泉","level":3,"transcription":null}
 {"kz":"бұлт","jp":"雲","level":2,"transcription":null}
 {"kz":"біржылдық өсімдіктер","jp":"一年生植物","level":5,"transcription":null}
-{"kz":"градус","jp":"程度","level":2,"transcription":null}
+{"kz":"градус","jp":"温度","level":2,"transcription":null}
 {"kz":"гүл","jp":"花","level":2,"transcription":null}
 {"kz":"ғаламшар","jp":"惑星","level":3,"transcription":null}
-{"kz":"ғарыш","jp":"空間","level":3,"transcription":null}
+{"kz":"ғарыш","jp":"宇宙","level":3,"transcription":null}
 {"kz":"дала","jp":"草原","level":3,"transcription":null}
 {"kz":"дауыл","jp":"嵐","level":3,"transcription":null}
 {"kz":"жаға, жағалау","jp":"海岸","level":3,"transcription":null}
-{"kz":"жағажай","jp":"ビーチ","level":2,"transcription":null}
+{"kz":"жағажай","jp":"ジャガ樹","level":2,"transcription":null}
 {"kz":"жазық","jp":"谷","level":3,"transcription":null}
 {"kz":"жайылым","jp":"草原","level":4,"transcription":null}
 {"kz":"жанартау","jp":"火山","level":4,"transcription":null}
@@ -564,14 +564,14 @@
 {"kz":"жел","jp":"風","level":1,"transcription":null}
 {"kz":"жер","jp":"地球","level":1,"transcription":null}
 {"kz":"жер сілкінісі","jp":"地震","level":4,"transcription":null}
-{"kz":"жер үсті","jp":"地球の表面","level":4,"transcription":null}
+{"kz":"жер үсті","jp":"地表","level":4,"transcription":null}
 {"kz":"жерасты үңгірі","jp":"洞窟、地下洞窟","level":5,"transcription":null}
 {"kz":"жұлдыз","jp":"星","level":2,"transcription":null}
 {"kz":"көл","jp":"湖","level":2,"transcription":null}
 {"kz":"көлдің бетін тұман басты","jp":"湖の上の霧","level":4,"transcription":null}
 {"kz":"көлеңке","jp":"影","level":3,"transcription":null}
 {"kz":"көпжылдық өсімдіктер","jp":"多年草","level":5,"transcription":null}
-{"kz":"күн","jp":"日","level":1,"transcription":null}
+{"kz":"күн","jp":"太陽","level":1,"transcription":null}
 {"kz":"күннің батуы","jp":"日没","level":3,"transcription":null}
 {"kz":"күннің тұтылуы","jp":"日食","level":5,"transcription":null}
 {"kz":"күннің шығуы","jp":"日の出","level":3,"transcription":null}
@@ -585,14 +585,14 @@
 {"kz":"қуаңшылықпен күресу","jp":"干ばつ対策","level":5,"transcription":null}
 {"kz":"құз, шыңырау","jp":"深淵","level":4,"transcription":null}
 {"kz":"құйын","jp":"渦巻き","level":4,"transcription":null}
-{"kz":"құрғақшылық","jp":"乾燥、乾燥、乾燥","level":4,"transcription":null}
+{"kz":"құрғақшылық","jp":"乾燥","level":4,"transcription":null}
 {"kz":"құрлық","jp":"本土","level":4,"transcription":null}
 {"kz":"ластану","jp":"汚染","level":3,"transcription":null}
 {"kz":"мұхит","jp":"海","level":3,"transcription":null}
 {"kz":"найзағай","jp":"稲妻","level":3,"transcription":null}
 {"kz":"ойпат","jp":"低地","level":4,"transcription":null}
-{"kz":"орман","jp":"森","level":1,"transcription":null}
-{"kz":"өзен","jp":"川","level":1,"transcription":null}
+{"kz":"орман","jp":"森林","level":1,"transcription":null}
+{"kz":"өзен","jp":"河","level":1,"transcription":null}
 {"kz":"өзен жағасы","jp":"河岸","level":3,"transcription":null}
 {"kz":"өрт","jp":"火","level":2,"transcription":null}
 {"kz":"саванна","jp":"サバンナ","level":5,"transcription":null}
@@ -655,9 +655,9 @@
 {"kz":"бекіре","jp":"チョウザメ","level":5,"transcription":null}
 {"kz":"бие","jp":"牝馬","level":4,"transcription":null}
 {"kz":"бозторғай","jp":"ヒバリ","level":4,"transcription":null}
-{"kz":"бота","jp":"ラクダの赤ちゃん","level":4,"transcription":null}
+{"kz":"бота","jp":"ラクダ","level":4,"transcription":null}
 {"kz":"бөкен","jp":"アンテロープ","level":4,"transcription":null}
-{"kz":"бөлтірік","jp":"オオカミの子","level":5,"transcription":null}
+{"kz":"бөлтірік","jp":"オオカミ","level":5,"transcription":null}
 {"kz":"бұғы","jp":"鹿","level":3,"transcription":null}
 {"kz":"бұзау","jp":"カーフ","level":3,"transcription":null}
 {"kz":"бұлбұл","jp":"ナイチンゲール","level":4,"transcription":null}
@@ -749,7 +749,7 @@
 {"kz":"алға басу","jp":"進捗","level":4,"transcription":null}
 {"kz":"алғышарт","jp":"前提","level":5,"transcription":null}
 {"kz":"амал, тәсіл","jp":"方法","level":3,"transcription":null}
-{"kz":"анықтау, нақтылау","jp":"明確にする、明確にする","level":4,"transcription":null}
+{"kz":"анықтау, нақтылау","jp":"明確化","level":4,"transcription":null}
 {"kz":"аспаз","jp":"料理する","level":3,"transcription":null}
 {"kz":"аудармашы","jp":"翻訳者","level":3,"transcription":null}
 {"kz":"бағалау","jp":"学年","level":3,"transcription":null}
@@ -781,7 +781,7 @@
 {"kz":"жаңашыл педагог","jp":"革新的な先生","level":5,"transcription":null}
 {"kz":"жаратылу","jp":"創造","level":4,"transcription":null}
 {"kz":"жетіспеушілік","jp":"欠陥","level":4,"transcription":null}
-{"kz":"жиналыс","jp":"会議、会議","level":3,"transcription":null}
+{"kz":"жиналыс","jp":"会議","level":3,"transcription":null}
 {"kz":"жоба","jp":"プロジェクト","level":3,"transcription":null}
 {"kz":"жоғары көрсеткіш","jp":"高率","level":4,"transcription":null}
 {"kz":"жұмыс","jp":"仕事","level":1,"transcription":null}
@@ -797,20 +797,20 @@
 {"kz":"заңтану","jp":"法学","level":5,"transcription":null}
 {"kz":"зерттеуші","jp":"研究者","level":4,"transcription":null}
 {"kz":"иелену","jp":"所持","level":4,"transcription":null}
-{"kz":"кәсіп","jp":"職業、職業","level":3,"transcription":null}
+{"kz":"кәсіп","jp":"職業","level":3,"transcription":null}
 {"kz":"кәсіпкер","jp":"起業家","level":4,"transcription":null}
 {"kz":"кәсіпорын","jp":"企業","level":4,"transcription":null}
 {"kz":"кедергі","jp":"障害物、障壁","level":4,"transcription":null}
-{"kz":"кездесу","jp":"会う","level":2,"transcription":null}
+{"kz":"кездесу","jp":"ミーティング","level":2,"transcription":null}
 {"kz":"келіссөз","jp":"交渉","level":4,"transcription":null}
 {"kz":"кепілдік","jp":"保証","level":4,"transcription":null}
 {"kz":"көмекші","jp":"アシスタント","level":3,"transcription":null}
 {"kz":"көп тіл білуші","jp":"多言語","level":5,"transcription":null}
 {"kz":"күнтізбе","jp":"カレンダー","level":3,"transcription":null}
-{"kz":"қабылдау","jp":"受け入れる","level":2,"transcription":null}
+{"kz":"қабылдау","jp":"受付","level":2,"transcription":null}
 {"kz":"қаржыгер","jp":"金融家","level":5,"transcription":null}
 {"kz":"қиындық","jp":"困難","level":3,"transcription":null}
-{"kz":"қорытынды","jp":"結論、結論","level":4,"transcription":null}
+{"kz":"қорытынды","jp":"結論","level":4,"transcription":null}
 {"kz":"құжат","jp":"書類","level":3,"transcription":null}
 {"kz":"құзырет","jp":"能力","level":5,"transcription":null}
 {"kz":"құрылым","jp":"構造","level":4,"transcription":null}
@@ -847,7 +847,7 @@
 {"kz":"табандылық","jp":"忍耐力","level":4,"transcription":null}
 {"kz":"табыс","jp":"所得","level":3,"transcription":null}
 {"kz":"талдамашы","jp":"アナリスト","level":5,"transcription":null}
-{"kz":"талдау","jp":"分析する","level":4,"transcription":null}
+{"kz":"талдау","jp":"分析","level":4,"transcription":null}
 {"kz":"тапсырыс","jp":"注文","level":3,"transcription":null}
 {"kz":"тәрбиеші","jp":"教師","level":3,"transcription":null}
 {"kz":"тәртіп","jp":"順序、ルーチン","level":3,"transcription":null}
@@ -885,7 +885,7 @@
 {"kz":"бортсерік","jp":"客室乗務員","level":4,"transcription":null}
 {"kz":"бос уақыт","jp":"自由時間","level":2,"transcription":null}
 {"kz":"біркісілік бөлме","jp":"シングルルーム","level":4,"transcription":null}
-{"kz":"біріншілік","jp":"チャンピオンシップ、チャンピオンシップ","level":4,"transcription":null}
+{"kz":"біріншілік","jp":"チャンピオンシップ","level":4,"transcription":null}
 {"kz":"вагон","jp":"キャリッジ","level":2,"transcription":null}
 {"kz":"велосипед","jp":"自転車","level":2,"transcription":null}
 {"kz":"виза","jp":"ビザ","level":3,"transcription":null}
@@ -905,7 +905,7 @@
 {"kz":"жолақы","jp":"運賃","level":4,"transcription":null}
 {"kz":"жолаушы","jp":"乗客","level":3,"transcription":null}
 {"kz":"жолсерік","jp":"導体","level":4,"transcription":null}
-{"kz":"жүгіру","jp":"走る","level":2,"transcription":null}
+{"kz":"жүгіру","jp":"走っている","level":2,"transcription":null}
 {"kz":"жүзу бассейні","jp":"スイミングプール","level":4,"transcription":null}
 {"kz":"жүк","jp":"貨物","level":3,"transcription":null}
 {"kz":"залал, зиян","jp":"危害","level":3,"transcription":null}
@@ -940,7 +940,7 @@
 {"kz":"орын","jp":"場所","level":1,"transcription":null}
 {"kz":"өзгешелік","jp":"特徴、違い","level":4,"transcription":null}
 {"kz":"рейс, сапар","jp":"フライト","level":3,"transcription":null}
-{"kz":"сапарға шығу","jp":"旅行に行く","level":3,"transcription":null}
+{"kz":"сапарға шығу","jp":"旅行、観光","level":3,"transcription":null}
 {"kz":"саяхат","jp":"旅","level":3,"transcription":null}
 {"kz":"саяхатшы","jp":"旅行者","level":3,"transcription":null}
 {"kz":"спортшы","jp":"アスリート","level":3,"transcription":null}
@@ -960,10 +960,10 @@
 {"kz":"тіркелу","jp":"登録","level":3,"transcription":null}
 {"kz":"тіркеуші","jp":"レジストラ","level":4,"transcription":null}
 {"kz":"ұлттық құрама","jp":"代表チーム","level":4,"transcription":null}
-{"kz":"ұпай","jp":"ポイント、ポイント","level":3,"transcription":null}
+{"kz":"ұпай","jp":"ポイント","level":3,"transcription":null}
 {"kz":"ұстаным","jp":"位置","level":4,"transcription":null}
 {"kz":"ұшақ","jp":"飛行機","level":2,"transcription":null}
-{"kz":"ұшу","jp":"飛ぶ","level":2,"transcription":null}
+{"kz":"ұшу","jp":"出発","level":2,"transcription":null}
 {"kz":"футбол","jp":"フットボール","level":1,"transcription":null}
 {"kz":"хабарлама","jp":"発表","level":3,"transcription":null}
 {"kz":"халықаралық ұшу","jp":"国際線","level":4,"transcription":null}
@@ -976,17 +976,17 @@
 {"kz":"электр қуаты","jp":"電気","level":4,"transcription":null}
 {"kz":"айтыс","jp":"アイティーズ、詩のコンテスト","level":5,"transcription":null}
 {"kz":"айтыскер","jp":"akyn の即興演奏家","level":5,"transcription":null}
-{"kz":"айырмашылық","jp":"違い、違い","level":4,"transcription":null}
+{"kz":"айырмашылық","jp":"違い","level":4,"transcription":null}
 {"kz":"ақын","jp":"詩人","level":3,"transcription":null}
 {"kz":"аспап","jp":"道具","level":3,"transcription":null}
 {"kz":"әдебиет","jp":"文学","level":3,"transcription":null}
 {"kz":"әнші","jp":"歌手","level":2,"transcription":null}
-{"kz":"әңгіме","jp":"会話","level":3,"transcription":null}
+{"kz":"әңгіме","jp":"話","level":3,"transcription":null}
 {"kz":"әртіс","jp":"アーティスト","level":3,"transcription":null}
 {"kz":"әсемдік, көркемдік, сұлулық","jp":"美しさ","level":3,"transcription":null}
 {"kz":"әуен","jp":"メロディー","level":4,"transcription":null}
 {"kz":"бағдарлама","jp":"プログラム","level":3,"transcription":null}
-{"kz":"байқау","jp":"気づく、フォローする","level":3,"transcription":null}
+{"kz":"байқау","jp":"コンテスト","level":3,"transcription":null}
 {"kz":"басты рөл","jp":"主な役割","level":4,"transcription":null}
 {"kz":"басылым","jp":"版","level":4,"transcription":null}
 {"kz":"бейне","jp":"画像","level":3,"transcription":null}
@@ -1009,45 +1009,45 @@
 {"kz":"кино","jp":"映画","level":1,"transcription":null}
 {"kz":"композитор","jp":"作曲家","level":4,"transcription":null}
 {"kz":"концерт","jp":"コンサート","level":2,"transcription":null}
-{"kz":"концерт залы","jp":"コンサートホール","level":4,"transcription":null}
-{"kz":"көрермен","jp":"ビューア","level":3,"transcription":null}
+{"kz":"концерт залы","jp":"концертный зал","level":4,"transcription":null}
+{"kz":"көрермен","jp":"観客","level":3,"transcription":null}
 {"kz":"көркем фильм","jp":"長編映画","level":4,"transcription":null}
-{"kz":"көрме","jp":"展示","level":3,"transcription":null}
+{"kz":"көрме","jp":"展示会","level":3,"transcription":null}
 {"kz":"күй","jp":"クイ","level":4,"transcription":null}
 {"kz":"күйсандық","jp":"ピアノ","level":5,"transcription":null}
 {"kz":"қабілет","jp":"能力","level":4,"transcription":null}
-{"kz":"қайраткер","jp":"形","level":4,"transcription":null}
-{"kz":"қатар","jp":"行","level":2,"transcription":null}
-{"kz":"қобыз","jp":"コビス","level":5,"transcription":null}
-{"kz":"қолөнер","jp":"裁縫","level":4,"transcription":null}
-{"kz":"құпия","jp":"秘密、秘密","level":3,"transcription":null}
-{"kz":"құрастырушы","jp":"コンパイラ","level":5,"transcription":null}
+{"kz":"қайраткер","jp":"英雄","level":4,"transcription":null}
+{"kz":"қатар","jp":"行間","level":2,"transcription":null}
+{"kz":"қобыз","jp":"コビズ","level":5,"transcription":null}
+{"kz":"қолөнер","jp":"裁縫業","level":4,"transcription":null}
+{"kz":"құпия","jp":"秘密","level":3,"transcription":null}
+{"kz":"құрастырушы","jp":"編集者","level":5,"transcription":null}
 {"kz":"музыка","jp":"音楽","level":1,"transcription":null}
 {"kz":"музыкант","jp":"ミュージシャン","level":3,"transcription":null}
-{"kz":"мультфильм","jp":"漫画","level":2,"transcription":null}
-{"kz":"мүсін","jp":"彫刻","level":4,"transcription":null}
+{"kz":"мультфильм","jp":"アニメーション映画","level":2,"transcription":null}
+{"kz":"мүсін","jp":"彫刻家","level":4,"transcription":null}
 {"kz":"ойлау қабілеті","jp":"考える能力","level":5,"transcription":null}
-{"kz":"оқиға","jp":"イベント","level":3,"transcription":null}
-{"kz":"оқырман","jp":"リーダー","level":3,"transcription":null}
+{"kz":"оқиға","jp":"事件","level":3,"transcription":null}
+{"kz":"оқырман","jp":"読者","level":3,"transcription":null}
 {"kz":"оператор","jp":"オペレーター","level":3,"transcription":null}
-{"kz":"ою-өрнек","jp":"オーナメント","level":5,"transcription":null}
+{"kz":"ою-өрнек","jp":"模様","level":5,"transcription":null}
 {"kz":"өлең","jp":"詩","level":3,"transcription":null}
 {"kz":"өлшем","jp":"サイズ","level":3,"transcription":null}
 {"kz":"өнер","jp":"美術","level":3,"transcription":null}
 {"kz":"өнер түрлері","jp":"芸術","level":4,"transcription":null}
-{"kz":"өнерсүйгіш","jp":"芸術愛好家","level":5,"transcription":null}
+{"kz":"өнерсүйгіш","jp":"芸術家","level":5,"transcription":null}
 {"kz":"өнертапқыш","jp":"発明者","level":5,"transcription":null}
-{"kz":"пайдалануға болады","jp":"使用できます","level":4,"transcription":null}
+{"kz":"пайдалануға болады","jp":"使える","level":4,"transcription":null}
 {"kz":"патша","jp":"皇帝","level":3,"transcription":null}
 {"kz":"періште","jp":"天使","level":3,"transcription":null}
 {"kz":"сазгер","jp":"作曲家","level":4,"transcription":null}
 {"kz":"саты","jp":"ステップ","level":3,"transcription":null}
-{"kz":"сахна","jp":"シーン","level":3,"transcription":null}
+{"kz":"сахна","jp":"舞台","level":3,"transcription":null}
 {"kz":"сән","jp":"ファッション","level":3,"transcription":null}
-{"kz":"сыйлық","jp":"ボーナス","level":4,"transcription":null}
+{"kz":"сыйлық","jp":"賞金","level":4,"transcription":null}
 {"kz":"сыйлық иегері","jp":"受賞者","level":5,"transcription":null}
-{"kz":"талғам","jp":"味","level":3,"transcription":null}
-{"kz":"тәрбиеленуші","jp":"瞳","level":4,"transcription":null}
+{"kz":"талғам","jp":"味覚","level":3,"transcription":null}
+{"kz":"тәрбиеленуші","jp":"教育者","level":4,"transcription":null}
 {"kz":"театр","jp":"劇場","level":2,"transcription":null}
 {"kz":"түс","jp":"色","level":1,"transcription":null}
 {"kz":"тіл мәдениеті","jp":"言語文化","level":5,"transcription":null}
@@ -1058,8 +1058,8 @@
 {"kz":"шебер","jp":"マスター","level":3,"transcription":null}
 {"kz":"шеберлік","jp":"スキル","level":4,"transcription":null}
 {"kz":"шешендік өнер","jp":"雄弁家","level":5,"transcription":null}
-{"kz":"шығарма","jp":"仕事","level":3,"transcription":null}
-{"kz":"шығармашылық","jp":"創造","level":4,"transcription":null}
+{"kz":"шығарма","jp":"作品","level":3,"transcription":null}
+{"kz":"шығармашылық","jp":"創造性","level":4,"transcription":null}
 {"kz":"шымылдық","jp":"カーテン","level":4,"transcription":null}
 {"kz":"алқа","jp":"ネックレス","level":4,"transcription":null}
 {"kz":"арзан киім","jp":"安い服","level":3,"transcription":null}
@@ -1096,7 +1096,7 @@
 {"kz":"жейде","jp":"シャツ","level":2,"transcription":null}
 {"kz":"желпуіш, веер","jp":"ファン","level":5,"transcription":null}
 {"kz":"жемпір","jp":"セーター","level":3,"transcription":null}
-{"kz":"жең","jp":"スリーブ","level":3,"transcription":null}
+{"kz":"жең","jp":"袖口","level":3,"transcription":null}
 {"kz":"жең бүкпесі","jp":"袖口","level":5,"transcription":null}
 {"kz":"жеңілгек","jp":"スタッド","level":5,"transcription":null}
 {"kz":"жылы пальто","jp":"暖かいコート","level":3,"transcription":null}
@@ -1125,8 +1125,8 @@
 {"kz":"қымбат киім","jp":"高価な服","level":3,"transcription":null}
 {"kz":"қыстық киім","jp":"冬服","level":3,"transcription":null}
 {"kz":"қыстық пальто","jp":"冬のコート","level":3,"transcription":null}
-{"kz":"малақай","jp":"帽子、マラチャイ","level":4,"transcription":null}
-{"kz":"мәсі","jp":"かかとのないソフトブーツ","level":5,"transcription":null}
+{"kz":"малақай","jp":"帽子","level":4,"transcription":null}
+{"kz":"мәсі","jp":"ソフトブーツ","level":5,"transcription":null}
 {"kz":"мерекелік киім","jp":"パーティーの服","level":3,"transcription":null}
 {"kz":"мойыналқа","jp":"ペンダント","level":4,"transcription":null}
 {"kz":"мойынорағыш","jp":"スカーフ","level":3,"transcription":null}
@@ -1146,15 +1146,15 @@
 {"kz":"тақия","jp":"スカルキャップ","level":4,"transcription":null}
 {"kz":"телпек","jp":"キャップ","level":5,"transcription":null}
 {"kz":"тон","jp":"毛皮のコート","level":3,"transcription":null}
-{"kz":"тон, ішік","jp":"毛皮のコート","level":3,"transcription":null}
+{"kz":"тон, ішік","jp":"毛皮","level":3,"transcription":null}
 {"kz":"топтама","jp":"コレクション","level":3,"transcription":null}
 {"kz":"туфли","jp":"靴","level":2,"transcription":null}
 {"kz":"түйме","jp":"ボタン","level":3,"transcription":null}
 {"kz":"түймелі","jp":"ボタン付き","level":3,"transcription":null}
-{"kz":"ұйықтауға арналған киім","jp":"寝間着、パジャマ","level":4,"transcription":null}
+{"kz":"ұйықтауға арналған киім","jp":"寝間着","level":4,"transcription":null}
 {"kz":"ұлттық киім","jp":"民族衣装","level":4,"transcription":null}
 {"kz":"үшкіл орамал","jp":"スカーフ","level":4,"transcription":null}
-{"kz":"футболка","jp":"tシャツ","level":2,"transcription":null}
+{"kz":"футболка","jp":"Tシャツ","level":2,"transcription":null}
 {"kz":"шалбар","jp":"ズボン","level":2,"transcription":null}
 {"kz":"шаңғы костюмі","jp":"スキーオーバーオール","level":4,"transcription":null}
 {"kz":"шапан","jp":"チャパン、ローブ","level":4,"transcription":null}
@@ -1182,7 +1182,7 @@
 {"kz":"бейімдеу орталығы","jp":"適応センター","level":5,"transcription":null}
 {"kz":"білімі терең адам","jp":"教育を受けた人","level":4,"transcription":null}
 {"kz":"гимн","jp":"賛美歌","level":4,"transcription":null}
-{"kz":"ғұлама","jp":"博学者、偉大な鑑定家","level":5,"transcription":null}
+{"kz":"ғұлама","jp":"博学者","level":5,"transcription":null}
 {"kz":"ғылымның ғұламалары","jp":"科学の巨人","level":5,"transcription":null}
 {"kz":"дегдар, таңдаулы","jp":"トップエリート","level":5,"transcription":null}
 {"kz":"ел","jp":"国","level":1,"transcription":null}
@@ -1194,7 +1194,7 @@
 {"kz":"жаза","jp":"罰","level":3,"transcription":null}
 {"kz":"Жаңа жыл","jp":"新年","level":2,"transcription":null}
 {"kz":"жарқын болашақ","jp":"明るい未来","level":4,"transcription":null}
-{"kz":"жас","jp":"若い","level":1,"transcription":null}
+{"kz":"жас","jp":"年","level":1,"transcription":null}
 {"kz":"жастық шақ","jp":"若者","level":3,"transcription":null}
 {"kz":"жауынгер","jp":"戦士","level":4,"transcription":null}
 {"kz":"жеңіс","jp":"勝利","level":3,"transcription":null}
@@ -1220,10 +1220,10 @@
 {"kz":"қошемет","jp":"尊敬、名誉","level":4,"transcription":null}
 {"kz":"Құрбан айт","jp":"イスラム教の宗教上の祝日","level":5,"transcription":null}
 {"kz":"құрметті жан","jp":"尊敬される男","level":3,"transcription":null}
-{"kz":"құрылтай","jp":"議会、議会","level":5,"transcription":null}
+{"kz":"құрылтай","jp":"議会、議会議会","level":5,"transcription":null}
 {"kz":"қылмыс","jp":"犯罪","level":4,"transcription":null}
 {"kz":"қытай","jp":"中国語","level":3,"transcription":null}
-{"kz":"мемлекет","jp":"州","level":3,"transcription":null}
+{"kz":"мемлекет","jp":"国","level":3,"transcription":null}
 {"kz":"Мемлекеттік рәміздер күні","jp":"州の日の記号","level":5,"transcription":null}
 {"kz":"мерейтой","jp":"周年","level":4,"transcription":null}
 {"kz":"мереке","jp":"休日","level":2,"transcription":null}
@@ -1237,7 +1237,7 @@
 {"kz":"орысша","jp":"ロシア語で","level":2,"transcription":null}
 {"kz":"отан","jp":"祖国","level":2,"transcription":null}
 {"kz":"отау иесі","jp":"若い家族の主人","level":5,"transcription":null}
-{"kz":"президент","jp":"社長","level":3,"transcription":null}
+{"kz":"президент","jp":"大統領","level":3,"transcription":null}
 {"kz":"рәміз","jp":"シンボル","level":3,"transcription":null}
 {"kz":"республика","jp":"共和国","level":3,"transcription":null}
 {"kz":"сайлау","jp":"選挙","level":3,"transcription":null}
@@ -1269,10 +1269,10 @@
 {"kz":"ханым","jp":"マダム","level":4,"transcription":null}
 {"kz":"шекара","jp":"国境","level":4,"transcription":null}
 {"kz":"шенеунік","jp":"正式","level":4,"transcription":null}
-{"kz":"шетелдік","jp":"外国","level":3,"transcription":null}
+{"kz":"шетелдік","jp":"外国人","level":3,"transcription":null}
 {"kz":"шығыс, күншығыс","jp":"東","level":3,"transcription":null}
-{"kz":"шілдехана","jp":"新生児を祝う休日","level":5,"transcription":null}
-{"kz":"абыр-сабыр","jp":"混乱、混乱","level":5,"transcription":null}
+{"kz":"шілдехана","jp":"新生児の誕生","level":5,"transcription":null}
+{"kz":"абыр-сабыр","jp":"混乱","level":5,"transcription":null}
 {"kz":"ақиқат, шындық","jp":"真実","level":4,"transcription":null}
 {"kz":"алмасу","jp":"変化","level":3,"transcription":null}
 {"kz":"амандық, аман-есендік","jp":"幸福","level":4,"transcription":null}
@@ -1302,7 +1302,7 @@
 {"kz":"жігерлендіруші күш","jp":"インスピレーションの力","level":5,"transcription":null}
 {"kz":"игі тілек","jp":"良い願いを","level":4,"transcription":null}
 {"kz":"интуиция арқылы","jp":"直感によって","level":5,"transcription":null}
-{"kz":"келіспеушілік","jp":"意見の相違、意見の相違","level":5,"transcription":null}
+{"kz":"келіспеушілік","jp":"意見の相違","level":5,"transcription":null}
 {"kz":"кеңес","jp":"アドバイス","level":3,"transcription":null}
 {"kz":"кері әсерін тигізу","jp":"バックラッシュ","level":5,"transcription":null}
 {"kz":"кері кету","jp":"劣化","level":5,"transcription":null}
@@ -1322,7 +1322,7 @@
 {"kz":"қарым-қатынас","jp":"関係","level":4,"transcription":null}
 {"kz":"қауіп","jp":"危険","level":3,"transcription":null}
 {"kz":"қауіпсіздік","jp":"安全性","level":4,"transcription":null}
-{"kz":"қоштасу","jp":"さよならを言う","level":2,"transcription":null}
+{"kz":"қоштасу","jp":"別れ","level":2,"transcription":null}
 {"kz":"қуаныш","jp":"喜び","level":2,"transcription":null}
 {"kz":"құлшыныс","jp":"熱意","level":5,"transcription":null}
 {"kz":"қызығушылық","jp":"興味","level":3,"transcription":null}
@@ -1332,10 +1332,10 @@
 {"kz":"махаббат","jp":"愛","level":3,"transcription":null}
 {"kz":"мүмкіндік","jp":"機会","level":3,"transcription":null}
 {"kz":"мысал","jp":"例","level":2,"transcription":null}
-{"kz":"несібе","jp":"良い、運命、運命","level":5,"transcription":null}
-{"kz":"ниет","jp":"誠実な意図","level":4,"transcription":null}
-{"kz":"нұсқа","jp":"バージョン、オプション","level":4,"transcription":null}
-{"kz":"нығаю","jp":"強化、強化","level":4,"transcription":null}
+{"kz":"несібе","jp":"運命","level":5,"transcription":null}
+{"kz":"ниет","jp":"意図","level":4,"transcription":null}
+{"kz":"нұсқа","jp":"バージョン","level":4,"transcription":null}
+{"kz":"нығаю","jp":"強化","level":4,"transcription":null}
 {"kz":"ой тұжырымы","jp":"推論","level":5,"transcription":null}
 {"kz":"ойдан шығарылған","jp":"フィクション","level":4,"transcription":null}
 {"kz":"ой-өріс","jp":"地平線","level":4,"transcription":null}
@@ -1350,17 +1350,17 @@
 {"kz":"салыстыру","jp":"比較","level":4,"transcription":null}
 {"kz":"сана-сезім","jp":"心、意識","level":4,"transcription":null}
 {"kz":"сәлемдесу","jp":"ご挨拶","level":3,"transcription":null}
-{"kz":"сәттілік","jp":"運","level":3,"transcription":null}
+{"kz":"сәттілік","jp":"成功","level":3,"transcription":null}
 {"kz":"себеп","jp":"原因","level":3,"transcription":null}
 {"kz":"сенім","jp":"信仰","level":3,"transcription":null}
 {"kz":"тағдыр","jp":"運命","level":3,"transcription":null}
-{"kz":"тазалық","jp":"清潔さ、清潔さ","level":4,"transcription":null}
+{"kz":"тазалық","jp":"清潔さ","level":4,"transcription":null}
 {"kz":"таным","jp":"認知","level":4,"transcription":null}
 {"kz":"танымдылық","jp":"認知","level":5,"transcription":null}
 {"kz":"танысу","jp":"知り合い","level":3,"transcription":null}
 {"kz":"тапқырлық","jp":"ウィット","level":5,"transcription":null}
-{"kz":"татулық","jp":"友情、調和","level":4,"transcription":null}
-{"kz":"тосқауыл","jp":"障害物、障害物","level":4,"transcription":null}
+{"kz":"татулық","jp":"友情","level":4,"transcription":null}
+{"kz":"тосқауыл","jp":"障害物","level":4,"transcription":null}
 {"kz":"төзімділік","jp":"忍耐","level":4,"transcription":null}
 {"kz":"төңкеріс","jp":"クーデター","level":5,"transcription":null}
 {"kz":"тұрмыс","jp":"日常生活","level":3,"transcription":null}
@@ -1449,11 +1449,11 @@
 {"kz":"қазіргі\/осы шақ","jp":"現在の時間","level":3,"transcription":null}
 {"kz":"қаңтар","jp":"1月","level":3,"transcription":null}
 {"kz":"қараша","jp":"11月","level":3,"transcription":null}
-{"kz":"қас қағым","jp":"インスタント","level":4,"transcription":null}
+{"kz":"қас қағым","jp":"インスタнт","level":4,"transcription":null}
 {"kz":"қыркүйек","jp":"9月","level":3,"transcription":null}
 {"kz":"қыс","jp":"冬","level":1,"transcription":null}
 {"kz":"мамыр","jp":"5月","level":2,"transcription":null}
-{"kz":"маусым","jp":"6月、季節","level":3,"transcription":null}
+{"kz":"маусым","jp":"6月","level":3,"transcription":null}
 {"kz":"мәңгілік","jp":"永遠","level":4,"transcription":null}
 {"kz":"мейрам қарсаңында","jp":"休日の前夜","level":4,"transcription":null}
 {"kz":"минут","jp":"分","level":1,"transcription":null}
@@ -1476,7 +1476,7 @@
 {"kz":"таңертең","jp":"午前中に","level":2,"transcription":null}
 {"kz":"тәулік","jp":"日","level":3,"transcription":null}
 {"kz":"тәулік бойы","jp":"24時間いつでも","level":3,"transcription":null}
-{"kz":"тоқсан","jp":"九十","level":2,"transcription":null}
+{"kz":"тоқсан","jp":"四半期","level":2,"transcription":null}
 {"kz":"түн","jp":"夜","level":1,"transcription":null}
 {"kz":"түнде","jp":"夜に","level":2,"transcription":null}
 {"kz":"түске дейін","jp":"昼食前に","level":2,"transcription":null}
@@ -1491,8 +1491,8 @@
 {"kz":"автотұрақ","jp":"駐車場","level":4,"transcription":null}
 {"kz":"арнаулы тілші","jp":"特派員","level":5,"transcription":null}
 {"kz":"атақты әртіс","jp":"有名なアーティスト","level":4,"transcription":null}
-{"kz":"атау","jp":"電話","level":3,"transcription":null}
-{"kz":"аяқталу","jp":"エンディング、完了","level":3,"transcription":null}
+{"kz":"атау","jp":"名前","level":3,"transcription":null}
+{"kz":"аяқталу","jp":"完了","level":3,"transcription":null}
 {"kz":"әңгіме","jp":"会話","level":3,"transcription":null}
 {"kz":"БАҚ (бұқаралық ақпарат құралдары)","jp":"メディア","level":4,"transcription":null}
 {"kz":"баспа","jp":"出版社","level":4,"transcription":null}
@@ -1509,8 +1509,8 @@
 {"kz":"ғұмырнама, биография","jp":"バイオグラフィー","level":4,"transcription":null}
 {"kz":"дерек","jp":"データ","level":3,"transcription":null}
 {"kz":"есептеудегі қате","jp":"計算ミス","level":5,"transcription":null}
-{"kz":"естелік","jp":"メモリ","level":4,"transcription":null}
-{"kz":"естелікнама","jp":"紀要","level":5,"transcription":null}
+{"kz":"естелік","jp":"記憶","level":4,"transcription":null}
+{"kz":"естелікнама","jp":"要約","level":5,"transcription":null}
 {"kz":"жағымды ақпарат","jp":"ポジティブな情報","level":4,"transcription":null}
 {"kz":"жақсы жаңалық","jp":"良いニュース","level":3,"transcription":null}
 {"kz":"жалған мәлімет","jp":"虚偽の情報","level":5,"transcription":null}
@@ -1531,7 +1531,7 @@
 {"kz":"күлкілі әңгіме","jp":"ジョーク","level":4,"transcription":null}
 {"kz":"күтпеген оқиға","jp":"予期せぬ出来事","level":4,"transcription":null}
 {"kz":"кіріспе","jp":"導入","level":3,"transcription":null}
-{"kz":"кітап бастыру","jp":"本の出版、本の出版","level":5,"transcription":null}
+{"kz":"кітап бастыру","jp":"本の出版","level":5,"transcription":null}
 {"kz":"кітапқа енген","jp":"本に収録されている","level":4,"transcription":null}
 {"kz":"қанатты сөз","jp":"格言","level":5,"transcription":null}
 {"kz":"қателік","jp":"エラー","level":3,"transcription":null}
@@ -1539,7 +1539,7 @@
 {"kz":"құрал","jp":"手段","level":3,"transcription":null}
 {"kz":"қызық бағдарлама","jp":"興味深い番組","level":3,"transcription":null}
 {"kz":"қызық телешоу","jp":"面白いテレビ番組","level":3,"transcription":null}
-{"kz":"қызықты мәліметтер","jp":"興味深い事実","level":3,"transcription":null}
+{"kz":"қызықты мәліметтер","jp":"楽しい情報","level":3,"transcription":null}
 {"kz":"қызықты оқиға","jp":"興味深いイベント","level":3,"transcription":null}
 {"kz":"мазмұны","jp":"（その）内容","level":3,"transcription":null}
 {"kz":"мақала","jp":"記事","level":3,"transcription":null}
@@ -1553,7 +1553,7 @@
 {"kz":"өнер қайраткері","jp":"アーティスト","level":5,"transcription":null}
 {"kz":"пайдасы жоқ","jp":"使い物にならない","level":3,"transcription":null}
 {"kz":"пьеса кейіпкері","jp":"劇の主人公","level":5,"transcription":null}
-{"kz":"сауалнама","jp":"アンケート、アンケート","level":4,"transcription":null}
+{"kz":"сауалнама","jp":"アンケート","level":4,"transcription":null}
 {"kz":"сөзсіз қате","jp":"絶対的な間違い","level":5,"transcription":null}
 {"kz":"тақырыпат","jp":"タイトル","level":4,"transcription":null}
 {"kz":"танымал әнші","jp":"人気歌手","level":3,"transcription":null}
@@ -1568,16 +1568,16 @@
 {"kz":"телехабар","jp":"テレビ放送","level":4,"transcription":null}
 {"kz":"телехикая","jp":"テレビシリーズ","level":4,"transcription":null}
 {"kz":"техникалық қиындықтар","jp":"技術的な問題","level":5,"transcription":null}
-{"kz":"тұсаукесер","jp":"プレミア、プレゼンテーション","level":5,"transcription":null}
+{"kz":"тұсаукесер","jp":"プレゼンテーション","level":5,"transcription":null}
 {"kz":"түйін","jp":"結論","level":4,"transcription":null}
-{"kz":"түсіндірме","jp":"コメント、説明","level":4,"transcription":null}
+{"kz":"түсіндірме","jp":"説明","level":4,"transcription":null}
 {"kz":"түсінік беруші","jp":"コメンテーター","level":4,"transcription":null}
 {"kz":"тікелей эфир","jp":"生放送","level":4,"transcription":null}
 {"kz":"тіркеу қатесі","jp":"登録エラー","level":5,"transcription":null}
 {"kz":"ұсыныс","jp":"オファー","level":3,"transcription":null}
 {"kz":"фильм түсіру","jp":"撮影","level":4,"transcription":null}
 {"kz":"фотосурет","jp":"写真","level":3,"transcription":null}
-{"kz":"хабар","jp":"ニュース、ニュース","level":3,"transcription":null}
+{"kz":"хабар","jp":"ニュース","level":3,"transcription":null}
 {"kz":"шебер","jp":"マスター","level":3,"transcription":null}
 {"kz":"шолушы","jp":"査読者","level":5,"transcription":null}
 {"kz":"шығу мерзімі","jp":"発売日","level":4,"transcription":null}
@@ -1587,7 +1587,7 @@
 {"kz":"апиын","jp":"アヘン","level":5,"transcription":null}
 {"kz":"артериялық қан қысымы","jp":"血圧","level":5,"transcription":null}
 {"kz":"асқазан ауруы","jp":"胃炎","level":4,"transcription":null}
-{"kz":"ауру","jp":"病気、病気","level":2,"transcription":null}
+{"kz":"ауру","jp":"病気","level":2,"transcription":null}
 {"kz":"аурудың алдын алу","jp":"防止","level":5,"transcription":null}
 {"kz":"аштық","jp":"飢え","level":3,"transcription":null}
 {"kz":"бас ауру","jp":"頭痛","level":3,"transcription":null}
@@ -1599,12 +1599,12 @@
 {"kz":"дәрумендер","jp":"ビタミン","level":4,"transcription":null}
 {"kz":"дәруменсіздік","jp":"ビタミン症","level":5,"transcription":null}
 {"kz":"дәрі","jp":"薬","level":2,"transcription":null}
-{"kz":"дәрі тамызғыш","jp":"Ⅳ","level":5,"transcription":null}
+{"kz":"дәрі тамызғыш","jp":"薬剤師","level":5,"transcription":null}
 {"kz":"дәрігер","jp":"医者","level":2,"transcription":null}
 {"kz":"дәрігерлер кеңесі","jp":"医療審議会","level":6,"transcription":null}
 {"kz":"дәрі-дәрмектер","jp":"薬","level":4,"transcription":null}
 {"kz":"дәрілік қырмызыгүл","jp":"キンセンカ","level":6,"transcription":null}
-{"kz":"дем алу","jp":"息をする","level":2,"transcription":null}
+{"kz":"дем алу","jp":"吸い込む","level":2,"transcription":null}
 {"kz":"дем шығару","jp":"呼気","level":3,"transcription":null}
 {"kz":"денсаулық, саулық","jp":"健康","level":2,"transcription":null}
 {"kz":"дұрыс тамақтану","jp":"適切な栄養","level":4,"transcription":null}
@@ -1661,7 +1661,7 @@
 {"kz":"ұйқы бұзылу","jp":"睡眠障害","level":4,"transcription":null}
 {"kz":"ұмытшақтық","jp":"健忘症","level":5,"transcription":null}
 {"kz":"шаншу","jp":"疝痛","level":5,"transcription":null}
-{"kz":"шипа","jp":"癒し、癒し","level":4,"transcription":null}
+{"kz":"шипа","jp":"癒し","level":4,"transcription":null}
 {"kz":"шипалы батпақ","jp":"癒しの泥","level":5,"transcription":null}
 {"kz":"шөл, шөлдеу","jp":"渇き","level":3,"transcription":null}
 {"kz":"шөппен емдеуші","jp":"薬草医","level":5,"transcription":null}
@@ -1687,34 +1687,34 @@
 {"kz":"бор","jp":"チョーク","level":2,"transcription":null}
 {"kz":"бөз","jp":"キャリコ","level":5,"transcription":null}
 {"kz":"бу","jp":"スチーム","level":2,"transcription":null}
-{"kz":"бұтақ","jp":"枝、枝","level":4,"transcription":null}
-{"kz":"бұтақ","jp":"枝、枝","level":4,"transcription":null}
-{"kz":"бүртік","jp":"ブークレ","level":6,"transcription":null}
-{"kz":"бүршік","jp":"つぼみ","level":3,"transcription":null}
-{"kz":"былғары","jp":"レザー","level":3,"transcription":null}
-{"kz":"ватин","jp":"バッティング","level":5,"transcription":null}
+{"kz":"бұтақ","jp":"支店","level":4,"transcription":null}
+{"kz":"бұтақ","jp":"枝","level":4,"transcription":null}
+{"kz":"бүртік","jp":"","level":6,"transcription":null}
+{"kz":"бүршік","jp":"","level":3,"transcription":null}
+{"kz":"былғары","jp":"","level":3,"transcription":null}
+{"kz":"ватин","jp":"","level":5,"transcription":null}
 {"kz":"газ","jp":"ガス","level":3,"transcription":null}
-{"kz":"гауһар","jp":"ダイヤモンド","level":4,"transcription":null}
+{"kz":"гауһар","jp":"","level":4,"transcription":null}
 {"kz":"гипс","jp":"石膏","level":4,"transcription":null}
-{"kz":"гүлшоқ","jp":"花の花束","level":4,"transcription":null}
-{"kz":"дәке","jp":"ガーゼ","level":4,"transcription":null}
-{"kz":"дің","jp":"トランク","level":3,"transcription":null}
-{"kz":"емен","jp":"オーク","level":3,"transcription":null}
-{"kz":"ерітінді","jp":"解決","level":4,"transcription":null}
-{"kz":"жабайы алма ағашы","jp":"野生のリンゴの木","level":4,"transcription":null}
-{"kz":"жақұт","jp":"サファイア","level":5,"transcription":null}
-{"kz":"жалбыз","jp":"ミント","level":3,"transcription":null}
-{"kz":"жасанды жібек","jp":"ビスコース","level":5,"transcription":null}
-{"kz":"жусан","jp":"セージブラッシュ","level":4,"transcription":null}
-{"kz":"жұмсақ тері, күдері","jp":"スエード","level":5,"transcription":null}
-{"kz":"жүн мата","jp":"ウール","level":3,"transcription":null}
-{"kz":"жібек","jp":"シルク","level":3,"transcription":null}
-{"kz":"зүбаржат","jp":"エメラルド","level":5,"transcription":null}
-{"kz":"кәріптас","jp":"琥珀色","level":5,"transcription":null}
-{"kz":"кенеп","jp":"キャンバス","level":4,"transcription":null}
-{"kz":"кесек","jp":"バー","level":4,"transcription":null}
-{"kz":"кесек алтын","jp":"金の延べ棒","level":5,"transcription":null}
-{"kz":"көгілдір ақық","jp":"ターコイズ","level":5,"transcription":null}
+{"kz":"гүлшоқ","jp":"","level":4,"transcription":null}
+{"kz":"дәке","jp":"","level":4,"transcription":null}
+{"kz":"дің","jp":"","level":3,"transcription":null}
+{"kz":"емен","jp":"","level":3,"transcription":null}
+{"kz":"ерітінді","jp":"","level":4,"transcription":null}
+{"kz":"жабайы алма ағашы","jp":"","level":4,"transcription":null}
+{"kz":"жақұт","jp":"","level":5,"transcription":null}
+{"kz":"жалбыз","jp":"","level":3,"transcription":null}
+{"kz":"жасанды жібек","jp":"","level":5,"transcription":null}
+{"kz":"жусан","jp":"","level":4,"transcription":null}
+{"kz":"жұмсақ тері, күдері","jp":"","level":5,"transcription":null}
+{"kz":"жүн мата","jp":"","level":3,"transcription":null}
+{"kz":"жібек","jp":"","level":3,"transcription":null}
+{"kz":"зүбаржат","jp":"","level":5,"transcription":null}
+{"kz":"кәріптас","jp":"","level":5,"transcription":null}
+{"kz":"кенеп","jp":"","level":4,"transcription":null}
+{"kz":"кесек","jp":"","level":4,"transcription":null}
+{"kz":"кесек алтын","jp":"","level":5,"transcription":null}
+{"kz":"көгілдір ақық","jp":"","level":5,"transcription":null}
 {"kz":"көкнәр","jp":"ポピー","level":4,"transcription":null}
 {"kz":"крепдешин","jp":"クレープデシン","level":6,"transcription":null}
 {"kz":"күкіртті сутегі","jp":"硫化水素","level":6,"transcription":null}
@@ -1734,7 +1734,7 @@
 {"kz":"қыжым","jp":"ぬいぐるみ","level":5,"transcription":null}
 {"kz":"қызғалдақ, жауқазын","jp":"チューリップ","level":4,"transcription":null}
 {"kz":"қымыздық","jp":"栗色","level":5,"transcription":null}
-{"kz":"қышқыл","jp":"酸っぱい","level":3,"transcription":null}
+{"kz":"қышқыл","jp":"酸","level":3,"transcription":null}
 {"kz":"лавсан","jp":"ラヴサン","level":5,"transcription":null}
 {"kz":"лалагүл","jp":"ユリ","level":4,"transcription":null}
 {"kz":"майлы заттар","jp":"油性物質","level":5,"transcription":null}
@@ -1744,7 +1744,7 @@
 {"kz":"мата","jp":"繊維","level":3,"transcription":null}
 {"kz":"меруерт, інжу","jp":"パール","level":4,"transcription":null}
 {"kz":"минералдар","jp":"ミネラル","level":4,"transcription":null}
-{"kz":"минералды тұз","jp":"ミネラル塩","level":4,"transcription":null}
+{"kz":"минералды тұз","jp":" минералды тұз","level":4,"transcription":null}
 {"kz":"мүсәтір спирті","jp":"アンモニア","level":6,"transcription":null}
 {"kz":"мыс","jp":"銅","level":3,"transcription":null}
 {"kz":"оттегі","jp":"酸素","level":4,"transcription":null}
@@ -1775,7 +1775,7 @@
 {"kz":"түймедақ","jp":"カモミール","level":4,"transcription":null}
 {"kz":"түтін","jp":"煙","level":3,"transcription":null}
 {"kz":"тыңайтқыш","jp":"肥料","level":4,"transcription":null}
-{"kz":"үйеңкі","jp":"メープル","level":4,"transcription":null}
+{"kz":"үйеңкі","jp":"マープル","level":4,"transcription":null}
 {"kz":"химиялық қоспа","jp":"化学添加物","level":5,"transcription":null}
 {"kz":"цемент","jp":"セメント","level":3,"transcription":null}
 {"kz":"шаң","jp":"ほこり","level":2,"transcription":null}
@@ -1783,7 +1783,7 @@
 {"kz":"шырша","jp":"トウヒ","level":3,"transcription":null}
 {"kz":"шыт","jp":"更紗","level":5,"transcription":null}
 {"kz":"ыстық бу","jp":"熱い蒸気","level":3,"transcription":null}
-{"kz":"ағаш дайындау","jp":"ロギング","level":5,"transcription":null}
+{"kz":"ағаш дайындау","jp":"木材加工","level":5,"transcription":null}
 {"kz":"ағаш құлату","jp":"伐採","level":5,"transcription":null}
 {"kz":"ағаш өнеркәсібі","jp":"木材産業","level":5,"transcription":null}
 {"kz":"аралық","jp":"間隔","level":4,"transcription":null}
@@ -1793,7 +1793,7 @@
 {"kz":"басы, басталуы, бастамасы","jp":"始める","level":2,"transcription":null}
 {"kz":"басымдық","jp":"優先度","level":4,"transcription":null}
 {"kz":"болашақ","jp":"未来","level":2,"transcription":null}
-{"kz":"вагон жасау","jp":"馬車の建物","level":5,"transcription":null}
+{"kz":"вагон жасау","jp":"馬車の建造","level":5,"transcription":null}
 {"kz":"ғимараттар құрылысы","jp":"建築工事","level":5,"transcription":null}
 {"kz":"ғылыми негіз","jp":"科学的根拠","level":5,"transcription":null}
 {"kz":"дайын өнім","jp":"完成品","level":4,"transcription":null}
@@ -1802,7 +1802,7 @@
 {"kz":"ең басында","jp":"一番最初に","level":2,"transcription":null}
 {"kz":"ең соңында","jp":"一番最後に","level":2,"transcription":null}
 {"kz":"есеп қағазы","jp":"紙のレポート","level":4,"transcription":null}
-{"kz":"жарамдылық","jp":"適合性、適合性","level":4,"transcription":null}
+{"kz":"жарамдылық","jp":"適合性","level":4,"transcription":null}
 {"kz":"жарамдылық мерзімі","jp":"賞味期限","level":4,"transcription":null}
 {"kz":"жеңіл индустрия","jp":"軽工業","level":4,"transcription":null}
 {"kz":"жеткізу мерзімі","jp":"納期","level":4,"transcription":null}
@@ -1846,7 +1846,7 @@
 {"kz":"өңір","jp":"地域","level":3,"transcription":null}
 {"kz":"пайдалану мерзімі","jp":"耐用年数","level":5,"transcription":null}
 {"kz":"сабын қайнату\/жасау","jp":"石鹸作り","level":5,"transcription":null}
-{"kz":"сақталу мерзімі","jp":"貯蔵寿命 ","level":4,"transcription":null}
+{"kz":"сақталу мерзімі","jp":"貯蔵寿命","level":4,"transcription":null}
 {"kz":"сақтандыру мерзімі","jp":"保険期間","level":5,"transcription":null}
 {"kz":"санат","jp":"カテゴリ","level":4,"transcription":null}
 {"kz":"сатып алушы","jp":"買い手","level":3,"transcription":null}
@@ -1867,7 +1867,7 @@
 {"kz":"ұқсастық","jp":"類似性","level":4,"transcription":null}
 {"kz":"ұлттық байқау","jp":"全国大会","level":4,"transcription":null}
 {"kz":"ұлттық нақыш","jp":"ナショナルカラー","level":5,"transcription":null}
-{"kz":"ұрлық","jp":"盗難、盗難","level":4,"transcription":null}
+{"kz":"ұрлық","jp":"盗難","level":4,"transcription":null}
 {"kz":"ұсталу","jp":"拘留","level":4,"transcription":null}
 {"kz":"үзіліссіз","jp":"休憩なしで","level":3,"transcription":null}
 {"kz":"үлес","jp":"共有","level":3,"transcription":null}
@@ -1895,7 +1895,7 @@
 {"kz":"депозит салушы","jp":"預金者","level":6,"transcription":null}
 {"kz":"ереуілші","jp":"ストライカー","level":5,"transcription":null}
 {"kz":"жалдаушы","jp":"テナント、テナント","level":4,"transcription":null}
-{"kz":"жалпы саны","jp":"総量","level":3,"transcription":null}
+{"kz":"жалпы саны","jp":"総額","level":3,"transcription":null}
 {"kz":"жанама салық, акциз","jp":"消費税","level":5,"transcription":null}
 {"kz":"жарна","jp":"貢献","level":4,"transcription":null}
 {"kz":"жарнашы","jp":"株主","level":5,"transcription":null}
@@ -1913,7 +1913,7 @@
 {"kz":"көмекқаржы","jp":"補助金","level":5,"transcription":null}
 {"kz":"көтерме саудагер","jp":"卸売業者","level":4,"transcription":null}
 {"kz":"қазына","jp":"金庫","level":4,"transcription":null}
-{"kz":"қайырым жасаушы","jp":"慈善家、慈善家","level":5,"transcription":null}
+{"kz":"қайырым жасаушы","jp":"慈善家","level":5,"transcription":null}
 {"kz":"қайырымдылық","jp":"慈善活動","level":5,"transcription":null}
 {"kz":"қамтамасыз ету, қамсыздандыру","jp":"安全","level":4,"transcription":null}
 {"kz":"қаржы","jp":"ファイナンス","level":4,"transcription":null}
@@ -1924,7 +1924,7 @@
 {"kz":"қойма, көмбе","jp":"倉庫、敷地","level":4,"transcription":null}
 {"kz":"қолма-қол ақша","jp":"現金","level":4,"transcription":null}
 {"kz":"қор, жинақ, қорлану","jp":"蓄積","level":4,"transcription":null}
-{"kz":"қосымша шығындар","jp":"追加費用、出費","level":5,"transcription":null}
+{"kz":"қосымша шығындар","jp":"追加費用","level":5,"transcription":null}
 {"kz":"құн","jp":"価格","level":3,"transcription":null}
 {"kz":"құрылыстағы мердігер","jp":"建設請負業者","level":5,"transcription":null}
 {"kz":"мемлекеттік көмекқаржы","jp":"政府補助金","level":5,"transcription":null}
@@ -1978,7 +1978,7 @@
 {"kz":"бюджеттен тыс","jp":"予算外","level":5,"transcription":null}
 {"kz":"ғылыми дәреже","jp":"学位","level":5,"transcription":null}
 {"kz":"ғылыми еңбек","jp":"科学的研究","level":5,"transcription":null}
-{"kz":"дана","jp":"賢い","level":3,"transcription":null}
+{"kz":"дана","jp":"コピー","level":3,"transcription":null}
 {"kz":"дәлелді себеп","jp":"正当な理由","level":4,"transcription":null}
 {"kz":"еңбек дауы","jp":"労働争議","level":5,"transcription":null}
 {"kz":"еңбек келісімі","jp":"労働協約","level":5,"transcription":null}
@@ -1986,13 +1986,13 @@
 {"kz":"еңбек қауіпсіздігі","jp":"労働安全","level":5,"transcription":null}
 {"kz":"еңбек тәртібі","jp":"労働規律","level":5,"transcription":null}
 {"kz":"еңбекақы","jp":"賃金","level":4,"transcription":null}
-{"kz":"ереже","jp":"立場、ルール","level":3,"transcription":null}
+{"kz":"ереже","jp":"ルール","level":3,"transcription":null}
 {"kz":"ерекше жағдай","jp":"特別な場合","level":4,"transcription":null}
 {"kz":"еркін форма","jp":"フリーフォーム","level":4,"transcription":null}
 {"kz":"есепшот","jp":"チェック","level":4,"transcription":null}
 {"kz":"ескерту","jp":"コメント","level":3,"transcription":null}
 {"kz":"жазбаша түрде","jp":"書面で","level":4,"transcription":null}
-{"kz":"жалдау","jp":"雇う","level":3,"transcription":null}
+{"kz":"жалдау","jp":"家賃","level":3,"transcription":null}
 {"kz":"жарғы","jp":"布告","level":4,"transcription":null}
 {"kz":"жарияланған күн","jp":"発行日","level":4,"transcription":null}
 {"kz":"жауапкершілігі шектеулі","jp":"有限責任","level":5,"transcription":null}
@@ -2025,7 +2025,7 @@
 {"kz":"лауазымдық нұсқаулық","jp":"職務内容","level":6,"transcription":null}
 {"kz":"мағлұмат","jp":"情報","level":3,"transcription":null}
 {"kz":"материалдық көтермелеу","jp":"金銭的インセンティブ","level":5,"transcription":null}
-{"kz":"мәміле","jp":"合意、合意","level":5,"transcription":null}
+{"kz":"мәміле","jp":"合意","level":5,"transcription":null}
 {"kz":"мөр","jp":"シール","level":3,"transcription":null}
 {"kz":"мүлік","jp":"財産","level":4,"transcription":null}
 {"kz":"мінездеме","jp":"特性","level":4,"transcription":null}
@@ -2038,7 +2038,7 @@
 {"kz":"өкім","jp":"文","level":4,"transcription":null}
 {"kz":"растау","jp":"確認","level":4,"transcription":null}
 {"kz":"ресми құжат","jp":"公式文書","level":4,"transcription":null}
-{"kz":"сақталу мерзімі","jp":"貯蔵寿命 ","level":4,"transcription":null}
+{"kz":"сақталу мерзімі","jp":"貯蔵寿命","level":4,"transcription":null}
 {"kz":"сенім білдіруші","jp":"主要","level":5,"transcription":null}
 {"kz":"сенімді өкіл","jp":"信頼できる代表者","level":4,"transcription":null}
 {"kz":"сенімхат","jp":"委任状","level":4,"transcription":null}
@@ -2048,7 +2048,7 @@
 {"kz":"сынақ мерзімі","jp":"保護観察","level":5,"transcription":null}
 {"kz":"тармақ","jp":"段落","level":4,"transcription":null}
 {"kz":"тәжірибе","jp":"経験、実践","level":3,"transcription":null}
-{"kz":"тексеру","jp":"チェック","level":2,"transcription":null}
+{"kz":"тексеру","jp":"検査","level":2,"transcription":null}
 {"kz":"тоқтату","jp":"終了","level":4,"transcription":null}
 {"kz":"толық мәлімет","jp":"完全な情報","level":3,"transcription":null}
 {"kz":"төлқұжат","jp":"パスポート","level":3,"transcription":null}
@@ -2075,8 +2075,8 @@
 {"kz":"Алғысымды білдіремін.","jp":"ありがとう。","level":2,"transcription":null}
 {"kz":"Алыңыз, алыңыз.","jp":"取って、取って。","level":1,"transcription":null}
 {"kz":"Әрине, көмектесе аламын.","jp":"そうですね、もちろんお手伝いできます。","level":2,"transcription":null}
-{"kz":"Әрине, рұқсат.","jp":"もちろんできます。","level":1,"transcription":null}
-{"kz":"Әрине, уайымдамаңыз.","jp":"もちろん、ご心配なく。","level":2,"transcription":null}
+{"kz":"Әрине, рұқсат.","jp":"当然です。","level":1,"transcription":null}
+{"kz":"Әрине, уайымдамаңыз.","jp":"心配しないでください。","level":2,"transcription":null}
 {"kz":"бабаларымыз айтқандай","jp":"私たちの先祖が言ったように","level":4,"transcription":null}
 {"kz":"бақытыма қарай","jp":"幸いなことに","level":3,"transcription":null}
 {"kz":"басқаша айтқанда","jp":"言い換えると","level":3,"transcription":null}
@@ -2085,7 +2085,7 @@
 {"kz":"Бәрі ойдағыдай.","jp":"すべては計画通りです。","level":3,"transcription":null}
 {"kz":"Бәрі сәтті болсын!","jp":"幸運をお祈りしています！","level":2,"transcription":null}
 {"kz":"бұрынғыға қарағанда","jp":"昔と比べて","level":4,"transcription":null}
-{"kz":"Бұрынғыдай.","jp":"前と同じように。 \/ 昔ながらのやり方で。","level":2,"transcription":null}
+{"kz":"Бұрынғыдай.","jp":"前と同じように。","level":2,"transcription":null}
 {"kz":"Бүгін бос емеспін.","jp":"今日は忙しいです。","level":2,"transcription":null}
 {"kz":"Бүгін кешке хабарласыңызшы.","jp":"今晩電話してください。","level":3,"transcription":null}
 {"kz":"Біз әлі кездесеміз!","jp":"また会いましょう！","level":2,"transcription":null}
@@ -2096,7 +2096,7 @@
 {"kz":"біріншіден","jp":"まず最初に","level":2,"transcription":null}
 {"kz":"дегенмен","jp":"それでも、にもかかわらず","level":3,"transcription":null}
 {"kz":"екіншіден","jp":"第二に","level":2,"transcription":null}
-{"kz":"Ештеңе етпейді.","jp":"大丈夫です。 \/ どういたしまして。","level":2,"transcription":null}
+{"kz":"Ештеңе етпейді.","jp":"大丈夫です。","level":2,"transcription":null}
 {"kz":"Жақсы, хабарласамын.","jp":"わかりました、連絡します。","level":2,"transcription":null}
 {"kz":"жалпы айтқанда","jp":"一般的に","level":3,"transcription":null}
 {"kz":"Жаман емес.","jp":"悪くないよ。","level":2,"transcription":null}
@@ -2104,7 +2104,7 @@
 {"kz":"Жолыңыз болсын!","jp":"良い旅を！","level":2,"transcription":null}
 {"kz":"Жолыңыз болсын!","jp":"良い旅を！","level":2,"transcription":null}
 {"kz":"Жұмыста бәрі жақсы ма?","jp":"仕事は大丈夫ですか？","level":2,"transcription":null}
-{"kz":"жүз жасасын","jp":"彼は百年生きられますように","level":3,"transcription":null}
+{"kz":"жүз жасасын","jp":"百年生きられますように","level":3,"transcription":null}
 {"kz":"Кездескенше!","jp":"またね！","level":1,"transcription":null}
 {"kz":"Кездесу деп осыны айт!","jp":"なんという出会いでしょう！","level":3,"transcription":null}
 {"kz":"Келесі жолы күтеміз.","jp":"次回もお待ちしております。","level":2,"transcription":null}
@@ -2122,7 +2122,7 @@
 {"kz":"Қайырлы таң!","jp":"おはよう！","level":1,"transcription":null}
 {"kz":"Қайырлы түн!","jp":"おやすみ！","level":1,"transcription":null}
 {"kz":"Қалайсыз (қалайсың)?","jp":"あなた（あなた）はどうですか？","level":1,"transcription":null}
-{"kz":"Қалыңыз қалай?","jp":"元気ですか？","level":2,"transcription":null}
+{"kz":"Қалыңыз қалай?","jp":"お元気ですか？","level":2,"transcription":null}
 {"kz":"Қандай жақсы кездесу болды!","jp":"なんて楽しい出会いでしょう！","level":3,"transcription":null}
 {"kz":"Қарсы алғаныңызға рақмет.","jp":"出会ってくれてありがとう。","level":2,"transcription":null}
 {"kz":"Қолдағаныңызға рақмет.","jp":"ご支援ありがとうございます。","level":3,"transcription":null}
@@ -2165,8 +2165,8 @@
 {"kz":"Сізді бір жерден көргенмін.","jp":"すでにどこかでお会いしたことがあります。","level":3,"transcription":null}
 {"kz":"Сіздің есіміңіз кім?","jp":"あなたの名前は何ですか？","level":2,"transcription":null}
 {"kz":"таныс болайық","jp":"知り合いになろう","level":2,"transcription":null}
-{"kz":"Танысуға рұқсат етіңізші.","jp":"あなたのことを知りましょう。","level":2,"transcription":null}
-{"kz":"Түк те емес.","jp":"何もない。 \/ 問題ありません。","level":2,"transcription":null}
+{"kz":"Танысуға рұқсат етіңізші.","jp":"電話させてください。","level":2,"transcription":null}
+{"kz":"Түк те емес.","jp":"何もない。","level":2,"transcription":null}
 {"kz":"Уақытым болмай тұр.","jp":"時間がないんです。","level":2,"transcription":null}
 {"kz":"Ұмытпаңыздар!","jp":"忘れないで！","level":2,"transcription":null}
 {"kz":"Үйде бәрі жақсы ма?","jp":"家の中は大丈夫ですか？","level":2,"transcription":null}
@@ -2184,7 +2184,7 @@
 {"kz":"анағұрлым","jp":"とても、かなり","level":4,"transcription":null}
 {"kz":"анау, ана","jp":"それです","level":2,"transcription":null}
 {"kz":"артында","jp":"後ろに","level":2,"transcription":null}
-{"kz":"ауызша","jp":"口頭で、口頭で","level":3,"transcription":null}
+{"kz":"ауызша","jp":"口頭で","level":3,"transcription":null}
 {"kz":"әлде","jp":"または","level":1,"transcription":null}
 {"kz":"әрине","jp":"確かに","level":1,"transcription":null}
 {"kz":"бар","jp":"がある","level":1,"transcription":null}
@@ -2211,7 +2211,7 @@
 {"kz":"ешбір кем емес","jp":"少なからず","level":4,"transcription":null}
 {"kz":"ешкім","jp":"誰でもない","level":2,"transcription":null}
 {"kz":"жазбаша","jp":"書面で、書かれた","level":3,"transcription":null}
-{"kz":"жақсы","jp":"良い","level":1,"transcription":null}
+{"kz":"жақсы","jp":"大丈夫","level":1,"transcription":null}
 {"kz":"жақын","jp":"近い","level":2,"transcription":null}
 {"kz":"жаман","jp":"ひどく","level":1,"transcription":null}
 {"kz":"жанында","jp":"近く、近く","level":2,"transcription":null}
@@ -2220,7 +2220,7 @@
 {"kz":"жарым","jp":"半分","level":2,"transcription":null}
 {"kz":"және","jp":"そして","level":1,"transcription":null}
 {"kz":"жоқ","jp":"いいえ","level":1,"transcription":null}
-{"kz":"жөн","jp":"そう、そう","level":2,"transcription":null}
+{"kz":"жөн","jp":"そう","level":2,"transcription":null}
 {"kz":"зерттеу жүргізген","jp":"実施された研究","level":4,"transcription":null}
 {"kz":"иә","jp":"はい","level":1,"transcription":null}
 {"kz":"керек, қажет","jp":"必要","level":1,"transcription":null}
@@ -2229,14 +2229,14 @@
 {"kz":"қайсыбір","jp":"いくつか、その他","level":3,"transcription":null}
 {"kz":"қайтадан","jp":"またまた、また","level":2,"transcription":null}
 {"kz":"қатысы бар","jp":"関連する","level":3,"transcription":null}
-{"kz":"қысқаша","jp":"簡単に、簡単に","level":2,"transcription":null}
+{"kz":"қысқаша","jp":"簡単に","level":2,"transcription":null}
 {"kz":"лезде","jp":"すぐに、即座に","level":3,"transcription":null}
-{"kz":"мәселен","jp":"たとえば、たとえば","level":3,"transcription":null}
+{"kz":"мәселен","jp":"たとえば","level":3,"transcription":null}
 {"kz":"мезгілінен бұрын","jp":"時期尚早に","level":4,"transcription":null}
 {"kz":"меніңше","jp":"私の意見では","level":2,"transcription":null}
 {"kz":"мол, көп","jp":"多くの","level":2,"transcription":null}
-{"kz":"мұқият","jp":"きちんとした、徹底した","level":3,"transcription":null}
-{"kz":"мүлде","jp":"まったく、まったく","level":3,"transcription":null}
+{"kz":"мұқият","jp":"徹底的に","level":3,"transcription":null}
+{"kz":"мүлде","jp":"まったく","level":3,"transcription":null}
 {"kz":"мүмкін","jp":"多分","level":2,"transcription":null}
 {"kz":"мүмкін емес","jp":"ありえない","level":3,"transcription":null}
 {"kz":"одан басқа","jp":"その上","level":3,"transcription":null}
@@ -2244,8 +2244,8 @@
 {"kz":"онша емес","jp":"あまりない","level":3,"transcription":null}
 {"kz":"оң жақ","jp":"右側","level":2,"transcription":null}
 {"kz":"өз бетімен","jp":"自分自身で","level":3,"transcription":null}
-{"kz":"өзара","jp":"お互いに、お互いに","level":3,"transcription":null}
-{"kz":"пайдасы бар","jp":"役に立つ、役に立つ","level":3,"transcription":null}
+{"kz":"өзара","jp":"お互いに","level":3,"transcription":null}
+{"kz":"пайдасы бар","jp":"役に立つ","level":3,"transcription":null}
 {"kz":"рақмет","jp":"ありがとう","level":1,"transcription":null}
 {"kz":"салқын","jp":"肌寒い","level":2,"transcription":null}
 {"kz":"себебі, өйткені","jp":"なぜなら","level":2,"transcription":null}
@@ -2308,9 +2308,9 @@
 {"kz":"қал-жағдай сұрау","jp":"ビジネスについて尋ねる","level":4,"transcription":null}
 {"kz":"қолдану","jp":"楽しむ","level":2,"transcription":null}
 {"kz":"қою","jp":"置く","level":1,"transcription":null}
-{"kz":"қуанышын білдіру","jp":"喜びを表現する","level":4,"transcription":null}
-{"kz":"қуыру","jp":"稚魚","level":3,"transcription":null}
-{"kz":"қызықтыру","jp":"興味","level":4,"transcription":null}
+{"kz":"қуанышын білдіру","jp":"喜びを表す","level":4,"transcription":null}
+{"kz":"қуыру","jp":"稚魚を育てる","level":3,"transcription":null}
+{"kz":"қызықтыру","jp":"興味を惹く","level":4,"transcription":null}
 {"kz":"мақтан ету","jp":"誇りに思う","level":3,"transcription":null}
 {"kz":"микрофонды өшіру","jp":"マイクをオフにする","level":4,"transcription":null}
 {"kz":"негізін қалау","jp":"基礎を築く","level":5,"transcription":null}
@@ -2323,7 +2323,7 @@
 {"kz":"өзгеру","jp":"変化","level":3,"transcription":null}
 {"kz":"өту","jp":"合格","level":2,"transcription":null}
 {"kz":"өтініш айту","jp":"リクエストをする","level":4,"transcription":null}
-{"kz":"өшіру","jp":"消す、消す","level":2,"transcription":null}
+{"kz":"өшіру","jp":"消す","level":2,"transcription":null}
 {"kz":"пісіру","jp":"料理する","level":2,"transcription":null}
 {"kz":"салу","jp":"置く","level":2,"transcription":null}
 {"kz":"санау","jp":"カウント","level":2,"transcription":null}
@@ -2368,8 +2368,8 @@
 {"kz":"ішу","jp":"飲む","level":1,"transcription":null}
 {"kz":"эфирге шығу","jp":"オンエアする","level":4,"transcription":null}
 {"kz":"ағаш отырғызу","jp":"木を植える","level":3,"transcription":null}
-{"kz":"айналысу","jp":"関与する、関与する","level":3,"transcription":null}
-{"kz":"алу","jp":"引く、取る","level":3,"transcription":null}
+{"kz":"айналысу","jp":"関与する","level":3,"transcription":null}
+{"kz":"алу","jp":"取る","level":3,"transcription":null}
 {"kz":"аудару","jp":"移行","level":3,"transcription":null}
 {"kz":"ауыру","jp":"病気になる","level":2,"transcription":null}
 {"kz":"ашу","jp":"開ける","level":1,"transcription":null}
@@ -2399,7 +2399,7 @@
 {"kz":"жасау","jp":"する、製造する","level":2,"transcription":null}
 {"kz":"жауап беру","jp":"返事","level":2,"transcription":null}
 {"kz":"жаяу қыдыру","jp":"歩く","level":3,"transcription":null}
-{"kz":"жеу","jp":"食べる、食べる","level":1,"transcription":null}
+{"kz":"жеу","jp":"食べる","level":1,"transcription":null}
 {"kz":"жинау","jp":"掃除","level":2,"transcription":null}
 {"kz":"жөтелу","jp":"咳","level":3,"transcription":null}
 {"kz":"жуу","jp":"洗う","level":1,"transcription":null}
@@ -2433,11 +2433,11 @@
 {"kz":"орындау","jp":"満たす","level":3,"transcription":null}
 {"kz":"өз-өзіңді алдау","jp":"自分を欺く","level":5,"transcription":null}
 {"kz":"өлең жазу","jp":"詩を書く","level":3,"transcription":null}
-{"kz":"өмір сүру","jp":"ライブ","level":2,"transcription":null}
+{"kz":"өмір сүру","jp":"生きる","level":2,"transcription":null}
 {"kz":"өнер көрсету","jp":"実行する","level":4,"transcription":null}
-{"kz":"өткізу","jp":"行為","level":2,"transcription":null}
-{"kz":"пайдалану","jp":"適用する","level":3,"transcription":null}
-{"kz":"сараптау","jp":"検査を実施する","level":5,"transcription":null}
+{"kz":"өткізу","jp":"行う","level":2,"transcription":null}
+{"kz":"пайдалану","jp":"使う","level":3,"transcription":null}
+{"kz":"сараптау","jp":"検査をする","level":5,"transcription":null}
 {"kz":"сәнді киіну","jp":"おしゃれに着飾る","level":3,"transcription":null}
 {"kz":"сәті түсу","jp":"成功する","level":4,"transcription":null}
 {"kz":"секіру","jp":"ジャンプ","level":2,"transcription":null}
@@ -2461,7 +2461,7 @@
 {"kz":"ұсыну","jp":"提案する","level":3,"transcription":null}
 {"kz":"ұшырау","jp":"にさらされる","level":4,"transcription":null}
 {"kz":"ұятқа қалдыру","jp":"恥をかかせること、希望に応えないこと","level":5,"transcription":null}
-{"kz":"үлес қосу","jp":"貢献する、貢献する","level":4,"transcription":null}
+{"kz":"үлес қосу","jp":"貢献する","level":4,"transcription":null}
 {"kz":"үнемдеу","jp":"救う、気をつける","level":3,"transcription":null}
 {"kz":"хабар алу","jp":"ニュースを入手する","level":3,"transcription":null}
 {"kz":"шақыру","jp":"招待する","level":2,"transcription":null}
@@ -2470,7 +2470,7 @@
 {"kz":"айырбастау","jp":"交換","level":4,"transcription":null}
 {"kz":"алаңдату","jp":"邪魔する、気を散らす","level":3,"transcription":null}
 {"kz":"алаңдаушылық білдіру","jp":"懸念を表明する","level":5,"transcription":null}
-{"kz":"артық көру","jp":"余分なもの\/より良いものを考慮する","level":4,"transcription":null}
+{"kz":"артық көру","jp":"余分なものより良いものを考慮する","level":4,"transcription":null}
 {"kz":"арылу","jp":"取り除く、浄化する","level":4,"transcription":null}
 {"kz":"атану","jp":"呼ばれる","level":3,"transcription":null}
 {"kz":"әлемді дүр сілкіндіру","jp":"世界に衝撃を与える","level":5,"transcription":null}
@@ -2489,8 +2489,8 @@
 {"kz":"жету","jp":"そこに着く","level":2,"transcription":null}
 {"kz":"жоғалту","jp":"失う","level":3,"transcription":null}
 {"kz":"жолға шығу","jp":"離れる","level":3,"transcription":null}
-{"kz":"жолықтыру","jp":"会う","level":3,"transcription":null}
-{"kz":"жою","jp":"キャンセルする、破壊する","level":4,"transcription":null}
+{"kz":"жолықтыру","jp":"運転する","level":3,"transcription":null}
+{"kz":"жою","jp":"削除する、破壊する","level":4,"transcription":null}
 {"kz":"жөнелту","jp":"送信","level":3,"transcription":null}
 {"kz":"жұмысқа кірісу","jp":"仕事に行く","level":4,"transcription":null}
 {"kz":"жүктеу","jp":"ダウンロード、アップロード","level":3,"transcription":null}
@@ -2552,9 +2552,9 @@
 {"kz":"топтастыру","jp":"グループ","level":4,"transcription":null}
 {"kz":"төсеу","jp":"広がる","level":3,"transcription":null}
 {"kz":"тұрғызу","jp":"立てる、置く","level":4,"transcription":null}
-{"kz":"түзету","jp":"正しい、正しい","level":3,"transcription":null}
+{"kz":"түзету","jp":"正しい","level":3,"transcription":null}
 {"kz":"тырысу","jp":"試してみる、努力する","level":3,"transcription":null}
-{"kz":"тіл үйіру","jp":"おいしい","level":4,"transcription":null}
+{"kz":"тіл үйіру","jp":"日本語を学ぶ","level":4,"transcription":null}
 {"kz":"тіс тазалау","jp":"歯を磨く","level":3,"transcription":null}
 {"kz":"уақыт белгілеу","jp":"時間を設定する","level":4,"transcription":null}
 {"kz":"ұйқыдан тұру","jp":"寝てから起きる","level":3,"transcription":null}
@@ -2580,7 +2580,7 @@
 {"kz":"бағаламау","jp":"過小評価する","level":4,"transcription":null}
 {"kz":"бас қосу","jp":"団結する、集まる","level":4,"transcription":null}
 {"kz":"басып шығару","jp":"印刷する","level":3,"transcription":null}
-{"kz":"бұзылу","jp":"劣化する、腐敗する","level":3,"transcription":null}
+{"kz":"бұзылу","jp":"劣化する","level":3,"transcription":null}
 {"kz":"ғашық болу","jp":"恋に落ちる","level":3,"transcription":null}
 {"kz":"дауыс көтермеу","jp":"声を上げないでください","level":4,"transcription":null}
 {"kz":"демдеу","jp":"醸造（お茶）","level":4,"transcription":null}
@@ -2616,13 +2616,13 @@
 {"kz":"қоректену","jp":"食べる","level":4,"transcription":null}
 {"kz":"қорқу","jp":"恐れている","level":2,"transcription":null}
 {"kz":"құлау","jp":"秋","level":2,"transcription":null}
-{"kz":"құмарту","jp":"夢中になる、夢中になる","level":4,"transcription":null}
+{"kz":"құмарту","jp":"夢中になる","level":4,"transcription":null}
 {"kz":"құрмет тұту","jp":"尊敬、名誉","level":4,"transcription":null}
 {"kz":"құрметтеу","jp":"尊敬、名誉","level":3,"transcription":null}
 {"kz":"құрметіне қойылу","jp":"誰かの名前にちなんで","level":4,"transcription":null}
 {"kz":"қырыну","jp":"剃る","level":4,"transcription":null}
 {"kz":"қысым көрсету","jp":"圧力をかける、押す","level":5,"transcription":null}
-{"kz":"лақтыру","jp":"投げる、投げる","level":3,"transcription":null}
+{"kz":"лақтыру","jp":"投げる","level":3,"transcription":null}
 {"kz":"мазаламау","jp":"邪魔しないでください","level":3,"transcription":null}
 {"kz":"мекендеу","jp":"住む","level":4,"transcription":null}
 {"kz":"міндеттену","jp":"約束をする","level":5,"transcription":null}
@@ -2668,7 +2668,7 @@
 {"kz":"айналу","jp":"回転させる","level":3,"transcription":null}
 {"kz":"алмастыру","jp":"交換する","level":4,"transcription":null}
 {"kz":"алу","jp":"引く、取る","level":3,"transcription":null}
-{"kz":"аралау","jp":"さまよう、さまよう","level":4,"transcription":null}
+{"kz":"аралау","jp":"さまよう","level":4,"transcription":null}
 {"kz":"ауыстыру","jp":"交換する","level":4,"transcription":null}
 {"kz":"әсер ету","jp":"影響","level":4,"transcription":null}
 {"kz":"байлау","jp":"包帯","level":3,"transcription":null}
@@ -2677,7 +2677,7 @@
 {"kz":"беделден айырылу","jp":"権威を失う","level":5,"transcription":null}
 {"kz":"бөлу","jp":"分ける","level":2,"transcription":null}
 {"kz":"бұрылу","jp":"振り向く","level":3,"transcription":null}
-{"kz":"дауыс беру","jp":"投票する、投票する","level":4,"transcription":null}
+{"kz":"дауыс беру","jp":"投票する","level":4,"transcription":null}
 {"kz":"дәрі тамызу","jp":"点滴薬","level":5,"transcription":null}
 {"kz":"дәрі ішу","jp":"薬を飲む","level":3,"transcription":null}
 {"kz":"дәрігерге қаралу","jp":"医師の診察を受ける","level":4,"transcription":null}
@@ -2725,20 +2725,20 @@
 {"kz":"ойлап табу","jp":"発明する","level":4,"transcription":null}
 {"kz":"орын алу","jp":"スペースを取る","level":4,"transcription":null}
 {"kz":"өзгеріс енгізу","jp":"変更を加えます","level":5,"transcription":null}
-{"kz":"өшіп қалу","jp":"消す、消す","level":3,"transcription":null}
+{"kz":"өшіп қалу","jp":"消す","level":3,"transcription":null}
 {"kz":"пікірлесу","jp":"意見交換","level":4,"transcription":null}
-{"kz":"ренжісу","jp":"お互いに気分を害する","level":4,"transcription":null}
+{"kz":"ренжісу","jp":"気分を害する","level":4,"transcription":null}
 {"kz":"ренжіту","jp":"気分を害する","level":3,"transcription":null}
 {"kz":"сауығу, жазылу","jp":"回復する","level":4,"transcription":null}
 {"kz":"сәндеу","jp":"飾る","level":4,"transcription":null}
-{"kz":"сезіну","jp":"感じる、感じる","level":3,"transcription":null}
+{"kz":"сезіну","jp":"感じる","level":3,"transcription":null}
 {"kz":"сенім арту","jp":"信頼","level":5,"transcription":null}
 {"kz":"сенім білдіру","jp":"自信を表現する","level":5,"transcription":null}
 {"kz":"сөз қылу","jp":"うわさ話、議論する","level":5,"transcription":null}
 {"kz":"сулау","jp":"湿った","level":4,"transcription":null}
 {"kz":"сүңгу","jp":"ダイビング","level":3,"transcription":null}
-{"kz":"сындыру","jp":"休憩、休憩","level":3,"transcription":null}
-{"kz":"сіңу","jp":"吸収される、吸収される","level":5,"transcription":null}
+{"kz":"сындыру","jp":"休憩","level":3,"transcription":null}
+{"kz":"сіңу","jp":"吸収される","level":5,"transcription":null}
 {"kz":"тамызу","jp":"滴下","level":4,"transcription":null}
 {"kz":"тапсырыс беру","jp":"注文","level":3,"transcription":null}
 {"kz":"тастау","jp":"投げる","level":2,"transcription":null}
@@ -2772,11 +2772,11 @@
 {"kz":"әділ","jp":"公平","level":3,"transcription":null}
 {"kz":"әйгілі","jp":"有名な","level":3,"transcription":null}
 {"kz":"бақытты","jp":"ハッピー","level":2,"transcription":null}
-{"kz":"белгілі","jp":"知られている、確かな","level":2,"transcription":null}
+{"kz":"белгілі","jp":"有名な","level":2,"transcription":null}
 {"kz":"белсенді","jp":"アクティブ","level":3,"transcription":null}
 {"kz":"бөлек","jp":"別々の、別々の","level":3,"transcription":null}
 {"kz":"бұлтсыз","jp":"雲ひとつない","level":3,"transcription":null}
-{"kz":"бұлтты","jp":"曇り","level":3,"transcription":null}
+{"kz":"бұлтты","jp":"曇っている、雲に覆われている","level":3,"transcription":null}
 {"kz":"білімді","jp":"教育を受けた","level":3,"transcription":null}
 {"kz":"дарынды","jp":"才能のある","level":3,"transcription":null}
 {"kz":"дөңгелек","jp":"ラウンド","level":2,"transcription":null}
@@ -2807,7 +2807,7 @@
 {"kz":"кіші","jp":"若い","level":2,"transcription":null}
 {"kz":"қайғылы","jp":"悲しい","level":3,"transcription":null}
 {"kz":"қайырымды","jp":"親切","level":2,"transcription":null}
-{"kz":"қалың","jp":"厚い","level":2,"transcription":null}
+{"kz":"қалың","jp":"厚い、濃い","level":2,"transcription":null}
 {"kz":"қарапайым","jp":"控えめな、シンプルな","level":3,"transcription":null}
 {"kz":"қатыгез","jp":"残酷な","level":4,"transcription":null}
 {"kz":"қауіпті","jp":"危険な","level":3,"transcription":null}
@@ -2920,7 +2920,7 @@
 {"kz":"қысқа","jp":"短い","level":2,"transcription":null}
 {"kz":"қысқа бойлы","jp":"短い","level":3,"transcription":null}
 {"kz":"қышқыл","jp":"酸っぱい","level":3,"transcription":null}
-{"kz":"лайықты","jp":"適切な、適切な","level":4,"transcription":null}
+{"kz":"лайықты","jp":"適切な","level":4,"transcription":null}
 {"kz":"мақсатшыл","jp":"目的のある","level":4,"transcription":null}
 {"kz":"маңызды","jp":"重要","level":2,"transcription":null}
 {"kz":"мәдениетті","jp":"文化的な","level":3,"transcription":null}
@@ -2929,58 +2929,58 @@
 {"kz":"озық","jp":"高度な","level":4,"transcription":null}
 {"kz":"ортақ","jp":"シングル","level":3,"transcription":null}
 {"kz":"отбасылы","jp":"家族","level":3,"transcription":null}
-{"kz":"өзге","jp":"違う、違う、特別な","level":2,"transcription":null}
+{"kz":"өзге","jp":"違う、特別な","level":2,"transcription":null}
 {"kz":"сабырлы","jp":"バランスのとれた","level":4,"transcription":null}
 {"kz":"салақ","jp":"ずさんな","level":4,"transcription":null}
 {"kz":"салтанатты","jp":"厳粛な","level":4,"transcription":null}
 {"kz":"сапалы","jp":"定性","level":3,"transcription":null}
 {"kz":"суық","jp":"寒い","level":2,"transcription":null}
 {"kz":"сұлу","jp":"美しい","level":2,"transcription":null}
-{"kz":"сұсты","jp":"恐るべき、厳しい","level":4,"transcription":null}
+{"kz":"сұсты","jp":"恐るべき","level":4,"transcription":null}
 {"kz":"сүйкімді","jp":"かわいい","level":3,"transcription":null}
 {"kz":"сүйкімсіз","jp":"不快","level":4,"transcription":null}
-{"kz":"табанды","jp":"粘り強い、粘り強い","level":4,"transcription":null}
+{"kz":"табанды","jp":"粘り強い","level":4,"transcription":null}
 {"kz":"тақырбас","jp":"ハゲた","level":4,"transcription":null}
 {"kz":"тәжірибелі","jp":"経験豊富な","level":3,"transcription":null}
 {"kz":"тәтті","jp":"甘い","level":2,"transcription":null}
 {"kz":"тегін","jp":"無料","level":3,"transcription":null}
-{"kz":"тиянақты","jp":"徹底した、効率的な","level":5,"transcription":null}
-{"kz":"томпақ","jp":"ふくよかな、栄養豊富な","level":4,"transcription":null}
-{"kz":"тұрақты","jp":"永続的、安定した","level":3,"transcription":null}
+{"kz":"тиянақты","jp":"徹底した","level":5,"transcription":null}
+{"kz":"томпақ","jp":"ふくよかな","level":4,"transcription":null}
+{"kz":"тұрақты","jp":"永続的","level":3,"transcription":null}
 {"kz":"тілтабысқыш","jp":"コミュニケーション的な","level":5,"transcription":null}
 {"kz":"ұзын","jp":"長さ","level":2,"transcription":null}
-{"kz":"ұйқышыл","jp":"眠い、眠い","level":4,"transcription":null}
+{"kz":"ұйқышыл","jp":"眠い","level":4,"transcription":null}
 {"kz":"ұқыпты, құнтты","jp":"倹約家","level":4,"transcription":null}
 {"kz":"ұрысқақ","jp":"スキャンダラスな","level":4,"transcription":null}
-{"kz":"ұялшақ","jp":"恥ずかしがり屋、恥ずかしがり屋","level":4,"transcription":null}
+{"kz":"ұялшақ","jp":"恥ずかしがり屋","level":4,"transcription":null}
 {"kz":"үстіңгі","jp":"アッパー","level":2,"transcription":null}
 {"kz":"шексіз","jp":"無限の","level":4,"transcription":null}
-{"kz":"шынайы","jp":"本当の、本当の","level":3,"transcription":null}
-{"kz":"ылғалды","jp":"湿った、湿った","level":3,"transcription":null}
+{"kz":"шынайы","jp":"本当の","level":3,"transcription":null}
+{"kz":"ылғалды","jp":"湿った","level":3,"transcription":null}
 {"kz":"ыстық","jp":"熱い","level":2,"transcription":null}
 {"kz":"ақ","jp":"白","level":1,"transcription":null}
-{"kz":"ақысыз","jp":"無料、無料","level":3,"transcription":null}
+{"kz":"ақысыз","jp":"無料","level":3,"transcription":null}
 {"kz":"алтын","jp":"金","level":2,"transcription":null}
-{"kz":"арнаулы","jp":"特別な、意図された","level":4,"transcription":null}
+{"kz":"арнаулы","jp":"特別な","level":4,"transcription":null}
 {"kz":"арық","jp":"薄い","level":3,"transcription":null}
 {"kz":"ауыр","jp":"重い","level":2,"transcription":null}
-{"kz":"әлеуметтік","jp":"社会的な、公共的な","level":3,"transcription":null}
+{"kz":"әлеуметтік","jp":"社会的な","level":3,"transcription":null}
 {"kz":"әлсіз","jp":"弱い","level":2,"transcription":null}
 {"kz":"бағалы","jp":"貴重な","level":3,"transcription":null}
 {"kz":"бай","jp":"リッチ","level":2,"transcription":null}
 {"kz":"бейресми","jp":"非公式","level":4,"transcription":null}
-{"kz":"белгілі","jp":"知られている、確かな","level":2,"transcription":null}
+{"kz":"белгілі","jp":"知られている","level":2,"transcription":null}
 {"kz":"белгісіз","jp":"未知","level":3,"transcription":null}
 {"kz":"биік","jp":"高い","level":2,"transcription":null}
 {"kz":"брендті","jp":"ブランド化された","level":4,"transcription":null}
 {"kz":"буға піскен","jp":"蒸した","level":4,"transcription":null}
 {"kz":"бұлтты","jp":"曇り","level":3,"transcription":null}
-{"kz":"білікті","jp":"知識のある、資格のある","level":3,"transcription":null}
-{"kz":"ғылыми","jp":"科学的な、科学者","level":3,"transcription":null}
+{"kz":"білікті","jp":"知識のある","level":3,"transcription":null}
+{"kz":"ғылыми","jp":"科学的な","level":3,"transcription":null}
 {"kz":"дамыған","jp":"発展した","level":3,"transcription":null}
 {"kz":"дана","jp":"賢い","level":3,"transcription":null}
 {"kz":"дарынсыз","jp":"才能のない","level":4,"transcription":null}
-{"kz":"дәлелді","jp":"証拠のある、正当化された","level":4,"transcription":null}
+{"kz":"дәлелді","jp":"証拠のある","level":4,"transcription":null}
 {"kz":"ең ауыр","jp":"最も重い","level":3,"transcription":null}
 {"kz":"ең бай","jp":"最も裕福な","level":3,"transcription":null}
 {"kz":"ең кішкентай","jp":"最小の","level":3,"transcription":null}
@@ -2995,11 +2995,11 @@
 {"kz":"жалған","jp":"間違い","level":3,"transcription":null}
 {"kz":"жалғыз","jp":"唯一の人","level":2,"transcription":null}
 {"kz":"жапсырмалы","jp":"接着剤","level":4,"transcription":null}
-{"kz":"жасанды","jp":"人工的な","level":3,"transcription":null}
-{"kz":"жасыл","jp":"緑","level":2,"transcription":null}
-{"kz":"жасырын","jp":"秘密、秘密に","level":3,"transcription":null}
+{"kz":"жасанды","jp":"人工的","level":3,"transcription":null}
+{"kz":"жасыл","jp":"緑色","level":2,"transcription":null}
+{"kz":"жасырын","jp":"秘密","level":3,"transcription":null}
 {"kz":"жеңіл","jp":"簡単","level":2,"transcription":null}
-{"kz":"жеткілікті, жетерлік","jp":"十分、十分","level":3,"transcription":null}
+{"kz":"жеткілікті, жетерлік","jp":"十分","level":3,"transcription":null}
 {"kz":"жиі","jp":"頻繁","level":2,"transcription":null}
 {"kz":"жүрдек","jp":"速い","level":3,"transcription":null}
 {"kz":"жылы","jp":"暖かい","level":1,"transcription":null}
@@ -3018,7 +3018,7 @@
 {"kz":"қап-қара","jp":"黒黒","level":3,"transcription":null}
 {"kz":"қара","jp":"黒","level":1,"transcription":null}
 {"kz":"қаржылық","jp":"金融","level":4,"transcription":null}
-{"kz":"қауіпсіз","jp":"安全、安全","level":3,"transcription":null}
+{"kz":"қауіпсіз","jp":"安全","level":3,"transcription":null}
 {"kz":"қоңыр","jp":"茶色","level":3,"transcription":null}
 {"kz":"қуырылған","jp":"揚げた","level":3,"transcription":null}
 {"kz":"құқықтық","jp":"法律上の","level":4,"transcription":null}
@@ -3035,7 +3035,7 @@
 {"kz":"риза","jp":"同意できる、満足している","level":3,"transcription":null}
 {"kz":"сары","jp":"黄色","level":2,"transcription":null}
 {"kz":"сәнді","jp":"エレガント、ファッショナブルな","level":3,"transcription":null}
-{"kz":"сәтті","jp":"成功しました、成功しました","level":3,"transcription":null}
+{"kz":"сәтті","jp":"成功しました","level":3,"transcription":null}
 {"kz":"сол","jp":"左","level":1,"transcription":null}
 {"kz":"сөзшең","jp":"おしゃべりな、雄弁な","level":4,"transcription":null}
 {"kz":"сұр","jp":"グレー","level":2,"transcription":null}
@@ -3074,54 +3074,54 @@
 {"kz":"екеу","jp":"二","level":2,"transcription":null}
 {"kz":"екі","jp":"二","level":1,"transcription":null}
 {"kz":"екінші","jp":"2番","level":1,"transcription":null}
-{"kz":"елу","jp":"50","level":2,"transcription":null}
+{"kz":"елу","jp":"五十","level":2,"transcription":null}
 {"kz":"елуінші","jp":"50番目","level":3,"transcription":null}
 {"kz":"жетеу","jp":"セブン","level":3,"transcription":null}
-{"kz":"жетпіс","jp":"70","level":2,"transcription":null}
+{"kz":"жетпіс","jp":"七十","level":2,"transcription":null}
 {"kz":"жетпісінші","jp":"70番目","level":3,"transcription":null}
-{"kz":"жеті","jp":"セブン","level":1,"transcription":null}
+{"kz":"жеті","jp":"七","level":1,"transcription":null}
 {"kz":"жетінші","jp":"7番目","level":2,"transcription":null}
 {"kz":"жиырма","jp":"二十","level":2,"transcription":null}
 {"kz":"жиырмасыншы","jp":"二十日","level":3,"transcription":null}
 {"kz":"жүз","jp":"百","level":1,"transcription":null}
 {"kz":"жүз шақты","jp":"約100個","level":3,"transcription":null}
 {"kz":"жүздеген","jp":"何百もの","level":2,"transcription":null}
-{"kz":"жүзінші","jp":"百番目","level":3,"transcription":null}
-{"kz":"кім?","jp":"誰が？","level":1,"transcription":null}
-{"kz":"кімдікі?","jp":"だれの？","level":2,"transcription":null}
+{"kz":"жүзінші","jp":"第幾番目","level":3,"transcription":null}
+{"kz":"кім?","jp":"誰？","level":1,"transcription":null}
+{"kz":"кімдікі?","jp":"だれ？","level":2,"transcription":null}
 {"kz":"қайда?","jp":"どこ？","level":1,"transcription":null}
 {"kz":"қалай?","jp":"どうやって？","level":1,"transcription":null}
-{"kz":"қанша?","jp":"幾つか？","level":1,"transcription":null}
+{"kz":"қанша?","jp":"何個？","level":1,"transcription":null}
 {"kz":"қырқыншы","jp":"40番目","level":3,"transcription":null}
-{"kz":"қырық","jp":"40","level":2,"transcription":null}
+{"kz":"қырық","jp":"四十","level":2,"transcription":null}
 {"kz":"мен","jp":"私","level":1,"transcription":null}
 {"kz":"менің","jp":"私の","level":1,"transcription":null}
 {"kz":"мың","jp":"千","level":2,"transcription":null}
 {"kz":"мыңдаған","jp":"何千もの","level":3,"transcription":null}
 {"kz":"мыңыншы","jp":"千分の一","level":4,"transcription":null}
 {"kz":"не?","jp":"何？","level":1,"transcription":null}
-{"kz":"нешінші?","jp":"順番はどれですか？","level":3,"transcription":null}
+{"kz":"нешінші?","jp":"第幾番目？","level":3,"transcription":null}
 {"kz":"нөл","jp":"ゼロ","level":2,"transcription":null}
-{"kz":"нөлінші","jp":"ゼロ","level":4,"transcription":null}
+{"kz":"нөлінші","jp":"零の","level":4,"transcription":null}
 {"kz":"ол","jp":"彼、彼女","level":1,"transcription":null}
 {"kz":"олар","jp":"彼らは","level":1,"transcription":null}
 {"kz":"олардың","jp":"彼らの","level":2,"transcription":null}
 {"kz":"он","jp":"10","level":1,"transcription":null}
 {"kz":"он алты","jp":"16","level":2,"transcription":null}
-{"kz":"он бес","jp":"15","level":2,"transcription":null}
-{"kz":"он бір","jp":"11","level":2,"transcription":null}
-{"kz":"он екі","jp":"12","level":2,"transcription":null}
-{"kz":"он жеті","jp":"17","level":2,"transcription":null}
-{"kz":"он сегіз","jp":"十八","level":2,"transcription":null}
-{"kz":"он тоғыз","jp":"19","level":2,"transcription":null}
-{"kz":"он төрт","jp":"14","level":2,"transcription":null}
-{"kz":"он үш","jp":"13","level":2,"transcription":null}
+{"kz":"он бес","jp":"5","level":2,"transcription":null}
+{"kz":"он бір","jp":"1","level":2,"transcription":null}
+{"kz":"он екі","jp":"2","level":2,"transcription":null}
+{"kz":"он жеті","jp":"7","level":2,"transcription":null}
+{"kz":"он сегіз","jp":"8","level":2,"transcription":null}
+{"kz":"он тоғыз","jp":"9","level":2,"transcription":null}
+{"kz":"он төрт","jp":"十四","level":2,"transcription":null}
+{"kz":"он үш","jp":"十三","level":2,"transcription":null}
 {"kz":"ондаған","jp":"十","level":3,"transcription":null}
 {"kz":"он-оннан","jp":"十、十","level":3,"transcription":null}
-{"kz":"оныншы","jp":"10番目","level":2,"transcription":null}
+{"kz":"оныншы","jp":"十番目","level":2,"transcription":null}
 {"kz":"оның","jp":"彼、彼女","level":2,"transcription":null}
-{"kz":"отыз","jp":"30","level":2,"transcription":null}
-{"kz":"отызыншы","jp":"30番目","level":3,"transcription":null}
+{"kz":"отыз","jp":"三十","level":2,"transcription":null}
+{"kz":"отызыншы","jp":"三十番目","level":3,"transcription":null}
 {"kz":"өздерің, өздеріңіз","jp":"あなた自身（複数）","level":3,"transcription":null}
 {"kz":"өзі","jp":"自分自身","level":2,"transcription":null}
 {"kz":"өзім","jp":"自分自身","level":2,"transcription":null}
@@ -3129,21 +3129,21 @@
 {"kz":"өзің","jp":"あなた自身","level":2,"transcription":null}
 {"kz":"өзіңіз","jp":"あなた自身 (単数)","level":2,"transcription":null}
 {"kz":"сегіз","jp":"八","level":1,"transcription":null}
-{"kz":"сегізінші","jp":"8番目","level":2,"transcription":null}
+{"kz":"сегізінші","jp":"八番目","level":2,"transcription":null}
 {"kz":"сексен","jp":"八十","level":2,"transcription":null}
-{"kz":"сексенінші","jp":"80番目","level":3,"transcription":null}
+{"kz":"сексенінші","jp":"八十番目","level":3,"transcription":null}
 {"kz":"сен","jp":"あなた","level":1,"transcription":null}
 {"kz":"сенің","jp":"あなたの","level":1,"transcription":null}
 {"kz":"сіз","jp":"あなた（単数）","level":1,"transcription":null}
 {"kz":"сіздер, сендер","jp":"あなた（複数）","level":2,"transcription":null}
 {"kz":"сіздің","jp":"あなたの","level":2,"transcription":null}
 {"kz":"тоғыз","jp":"九","level":1,"transcription":null}
-{"kz":"тоғызыншы","jp":"9番目","level":2,"transcription":null}
+{"kz":"тоғызыншы","jp":"九番目","level":2,"transcription":null}
 {"kz":"тоқсан","jp":"九十","level":2,"transcription":null}
-{"kz":"тоқсаныншы","jp":"90番目","level":3,"transcription":null}
-{"kz":"төрт","jp":"4","level":1,"transcription":null}
-{"kz":"төртеу","jp":"4","level":3,"transcription":null}
-{"kz":"төртінші","jp":"4番目","level":2,"transcription":null}
-{"kz":"үш","jp":"三つ","level":1,"transcription":null}
-{"kz":"үшеу","jp":"三つ","level":3,"transcription":null}
-{"kz":"үшінші","jp":"三番目","level":2,"transcription":null}
+{"kz":"тоқсаныншы","jp":"九十番目","level":3,"transcription":null}
+{"kz":"төрт","jp":"四","level":1,"transcription":null}
+{"kz":"төртеу","jp":"四","level":3,"transcription":null}
+{"kz":"төртінші","jp":"四番目","level":2,"transcription":null}
+{"kz":"үш","jp":"三","level":1,"transcription":null}
+{"kz":"үшеу","jp":"三人","level":3,"transcription":null}
+{"kz":"үшінші","jp":"第3人","level":2,"transcription":null}

@@ -31,9 +31,9 @@
 {"fr":"mais","kr":"하지만","level":1,"transcription":null}
 {"fr":"me","kr":"나","level":1,"transcription":null}
 {"fr":"nous","kr":"우리","level":1,"transcription":null}
-{"fr":"dans","kr":"~ 안에","level":1,"transcription":null}
+{"fr":"dans","kr":"안에서","level":1,"transcription":null}
 {"fr":"elle","kr":"그녀","level":1,"transcription":null}
-{"fr":"savoir","kr":"알다 ","level":1,"transcription":null}
+{"fr":"savoir","kr":"알다","level":1,"transcription":null}
 {"fr":"du","kr":"~의","level":1,"transcription":null}
 {"fr":"y","kr":"와이","level":1,"transcription":null}
 {"fr":"t'","kr":"너","level":1,"transcription":null}
@@ -89,7 +89,7 @@
 {"fr":"attendre","kr":"기다리다","level":1,"transcription":null}
 {"fr":"pourquoi","kr":"왜","level":1,"transcription":null}
 {"fr":"trouver","kr":"찾다","level":1,"transcription":null}
-{"fr":"laisser","kr":"떠나다 ","level":1,"transcription":null}
+{"fr":"laisser","kr":"떠나다","level":1,"transcription":null}
 {"fr":"sa","kr":"그것은","level":1,"transcription":null}
 {"fr":"ta","kr":"당신의","level":1,"transcription":null}
 {"fr":"arriver","kr":"도착하다","level":1,"transcription":null}
@@ -118,24 +118,24 @@
 {"fr":"vraiment","kr":"정말","level":1,"transcription":null}
 {"fr":"connaître","kr":"알고","level":1,"transcription":null}
 {"fr":"sûr","kr":"~에","level":1,"transcription":null}
-{"fr":"merci","kr":"감사해요","level":1,"transcription":null}
+{"fr":"merci","kr":"감사합니다","level":1,"transcription":null}
 {"fr":"tuer","kr":"죽이다","level":1,"transcription":null}
 {"fr":"comment","kr":"어떻게","level":1,"transcription":null}
-{"fr":"mourir","kr":"주사위","level":1,"transcription":null}
-{"fr":"demander","kr":"묻다","level":1,"transcription":null}
-{"fr":"même","kr":"심지어","level":1,"transcription":null}
+{"fr":"mourir","kr":"죽다","level":1,"transcription":null}
+{"fr":"demander","kr":"요청하다","level":1,"transcription":null}
+{"fr":"même","kr":"아마도","level":1,"transcription":null}
 {"fr":"peut-être","kr":"아마도","level":1,"transcription":null}
 {"fr":"dieu","kr":"하나님","level":1,"transcription":null}
-{"fr":"fois","kr":"타임스","level":1,"transcription":null}
+{"fr":"fois","kr":"번","level":1,"transcription":null}
 {"fr":"oh","kr":"오","level":1,"transcription":null}
 {"fr":"père","kr":"아버지","level":1,"transcription":null}
 {"fr":"peu","kr":"작은","level":1,"transcription":null}
 {"fr":"comprendre","kr":"이해하다","level":1,"transcription":null}
 {"fr":"seul","kr":"홀로","level":1,"transcription":null}
 {"fr":"quelque","kr":"일부","level":1,"transcription":null}
-{"fr":"sortir","kr":"외출하다","level":1,"transcription":null}
-{"fr":"an","kr":"년도","level":1,"transcription":null}
-{"fr":"trop","kr":"너무 많이","level":1,"transcription":null}
+{"fr":"sortir","kr":"출다","level":1,"transcription":null}
+{"fr":"an","kr":"년","level":1,"transcription":null}
+{"fr":"trop","kr":"너무","level":1,"transcription":null}
 {"fr":"chez","kr":"집에서","level":1,"transcription":null}
 {"fr":"fille","kr":"소녀","level":1,"transcription":null}
 {"fr":"aux","kr":"에게","level":1,"transcription":null}
@@ -152,7 +152,7 @@
 {"fr":"voilà","kr":"거기","level":1,"transcription":null}
 {"fr":"chercher","kr":"구하다","level":1,"transcription":null}
 {"fr":"heure","kr":"시간","level":1,"transcription":null}
-{"fr":"tes","kr":"당신의 ","level":1,"transcription":null}
+{"fr":"tes","kr":"당신의","level":1,"transcription":null}
 {"fr":"aider","kr":"돕다","level":1,"transcription":null}
 {"fr":"mère","kr":"어머니","level":1,"transcription":null}
 {"fr":"déjà","kr":"이미","level":1,"transcription":null}
@@ -211,8 +211,8 @@
 {"fr":"manger","kr":"먹다","level":1,"transcription":null}
 {"fr":"mort","kr":"죽은","level":1,"transcription":null}
 {"fr":"amour","kr":"사랑","level":1,"transcription":null}
-{"fr":"mal","kr":"잘못된","level":1,"transcription":null}
-{"fr":"entrer","kr":"입력하다","level":1,"transcription":null}
+{"fr":"mal","kr":"악한","level":1,"transcription":null}
+{"fr":"entrer","kr":"들어오다","level":1,"transcription":null}
 {"fr":"devenir","kr":"~이 되다","level":1,"transcription":null}
 {"fr":"hein","kr":"뭐라고","level":1,"transcription":null}
 {"fr":"commencer","kr":"시작하다","level":1,"transcription":null}
@@ -223,7 +223,7 @@
 {"fr":"elles","kr":"그들","level":1,"transcription":null}
 {"fr":"payer","kr":"지불하다","level":1,"transcription":null}
 {"fr":"tirer","kr":"당기다","level":1,"transcription":null}
-{"fr":"ouvrir","kr":"열려 있는","level":1,"transcription":null}
+{"fr":"ouvrir","kr":"열다","level":1,"transcription":null}
 {"fr":"oeil","kr":"눈","level":1,"transcription":null}
 {"fr":"fait","kr":"하다","level":1,"transcription":null}
 {"fr":"changer","kr":"변화하다","level":1,"transcription":null}
@@ -268,8 +268,8 @@
 {"fr":"porter","kr":"운반하다","level":1,"transcription":null}
 {"fr":"année","kr":"년도","level":1,"transcription":null}
 {"fr":"sous","kr":"아래에","level":1,"transcription":null}
-{"fr":"souvenir","kr":"메모리","level":1,"transcription":null}
-{"fr":"prêt","kr":"준비가 된","level":1,"transcription":null}
+{"fr":"souvenir","kr":"기억","level":1,"transcription":null}
+{"fr":"prêt","kr":"준비된","level":1,"transcription":null}
 {"fr":"contre","kr":"~에 맞서","level":1,"transcription":null}
 {"fr":"prier","kr":"기도하다","level":1,"transcription":null}
 {"fr":"pendant","kr":"~ 동안","level":1,"transcription":null}
@@ -288,7 +288,7 @@
 {"fr":"eux","kr":"그들을","level":1,"transcription":null}
 {"fr":"retrouver","kr":"찾다","level":1,"transcription":null}
 {"fr":"ville","kr":"도시","level":1,"transcription":null}
-{"fr":"terre","kr":"지구","level":1,"transcription":null}
+{"fr":"terre","kr":"지하","level":1,"transcription":null}
 {"fr":"gagner","kr":"벌다","level":1,"transcription":null}
 {"fr":"semaine","kr":"주","level":1,"transcription":null}
 {"fr":"acheter","kr":"구입하다","level":1,"transcription":null}
@@ -299,23 +299,23 @@
 {"fr":"côté","kr":"옆","level":1,"transcription":null}
 {"fr":"leur","kr":"그들의","level":1,"transcription":null}
 {"fr":"vieux","kr":"오래된","level":1,"transcription":null}
-{"fr":"rappeler","kr":"상기시키다","level":1,"transcription":null}
+{"fr":"rappeler","kr":"다시 말하다","level":1,"transcription":null}
 {"fr":"lire","kr":"읽다","level":1,"transcription":null}
 {"fr":"cas","kr":"사례","level":1,"transcription":null}
 {"fr":"mot","kr":"단어","level":1,"transcription":null}
-{"fr":"seulement","kr":"오직","level":1,"transcription":null}
-{"fr":"voici","kr":"여기는","level":1,"transcription":null}
-{"fr":"salut","kr":"안녕","level":1,"transcription":null}
+{"fr":"seulement","kr":"아마도","level":1,"transcription":null}
+{"fr":"voici","kr":"여기에","level":1,"transcription":null}
+{"fr":"salut","kr":"안녕하세요","level":1,"transcription":null}
 {"fr":"monter","kr":"올라가다","level":1,"transcription":null}
 {"fr":"désolé","kr":"죄송합니다","level":1,"transcription":null}
 {"fr":"quitter","kr":"떠나다","level":1,"transcription":null}
 {"fr":"police","kr":"경찰","level":1,"transcription":null}
 {"fr":"suite","kr":"수행원","level":1,"transcription":null}
 {"fr":"matin","kr":"아침","level":1,"transcription":null}
-{"fr":"emmener","kr":"빼앗다","level":1,"transcription":null}
+{"fr":"emmener","kr":"이끌다","level":1,"transcription":null}
 {"fr":"toucher","kr":"만지다","level":1,"transcription":null}
 {"fr":"continuer","kr":"계속하다","level":1,"transcription":null}
-{"fr":"gros","kr":"지방","level":1,"transcription":null}
+{"fr":"gros","kr":"큰","level":1,"transcription":null}
 {"fr":"enfin","kr":"마지막으로","level":1,"transcription":null}
 {"fr":"mari","kr":"남편","level":1,"transcription":null}
 {"fr":"là-bas","kr":"저기","level":1,"transcription":null}
@@ -332,13 +332,13 @@
 {"fr":"répondre","kr":"답변","level":1,"transcription":null}
 {"fr":"garçon","kr":"소년","level":1,"transcription":null}
 {"fr":"corps","kr":"몸","level":1,"transcription":null}
-{"fr":"celui","kr":"하나","level":1,"transcription":null}
-{"fr":"autres","kr":"다른 사람","level":1,"transcription":null}
-{"fr":"heureux","kr":"행복하다","level":1,"transcription":null}
-{"fr":"loin","kr":"멀리","level":1,"transcription":null}
+{"fr":"celui","kr":"그 사람","level":1,"transcription":null}
+{"fr":"autres","kr":"다른 것들","level":1,"transcription":null}
+{"fr":"heureux","kr":"행복한","level":1,"transcription":null}
+{"fr":"loin","kr":"멀리서","level":1,"transcription":null}
 {"fr":"sauver","kr":"구하다","level":1,"transcription":null}
 {"fr":"chaque","kr":"각","level":1,"transcription":null}
-{"fr":"retourner","kr":"반품","level":1,"transcription":null}
+{"fr":"retourner","kr":"돌아가다","level":1,"transcription":null}
 {"fr":"leurs","kr":"그들의","level":1,"transcription":null}
 {"fr":"rencontrer","kr":"만나다","level":1,"transcription":null}
 {"fr":"coeur","kr":"마음","level":1,"transcription":null}
@@ -480,7 +480,7 @@
 {"fr":"facile","kr":"쉬운","level":1,"transcription":null}
 {"fr":"attention","kr":"주목","level":1,"transcription":null}
 {"fr":"rêve","kr":"꿈","level":1,"transcription":null}
-{"fr":"copain","kr":"남자 친구","level":1,"transcription":null}
+{"fr":"copain","kr":"친구","level":1,"transcription":null}
 {"fr":"malade","kr":"아픈","level":1,"transcription":null}
 {"fr":"rue","kr":"거리","level":1,"transcription":null}
 {"fr":"lettre","kr":"편지","level":1,"transcription":null}
@@ -508,11 +508,11 @@
 {"fr":"jurer","kr":"욕을 하다","level":1,"transcription":null}
 {"fr":"plan","kr":"계획","level":1,"transcription":null}
 {"fr":"prison","kr":"감옥","level":1,"transcription":null}
-{"fr":"sale","kr":"더러운","level":1,"transcription":null}
+{"fr":"sale","kr":"거친","level":1,"transcription":null}
 {"fr":"courir","kr":"달리다","level":1,"transcription":null}
 {"fr":"état","kr":"상태","level":1,"transcription":null}
 {"fr":"remettre","kr":"다시 놓다","level":1,"transcription":null}
-{"fr":"carte","kr":"지도 ","level":1,"transcription":null}
+{"fr":"carte","kr":"지도","level":1,"transcription":null}
 {"fr":"paix","kr":"평화","level":1,"transcription":null}
 {"fr":"noir","kr":"검은색","level":1,"transcription":null}
 {"fr":"exactement","kr":"정확히","level":1,"transcription":null}
@@ -527,8 +527,8 @@
 {"fr":"partout","kr":"어디에나","level":1,"transcription":null}
 {"fr":"âme","kr":"영혼","level":1,"transcription":null}
 {"fr":"patron","kr":"사장","level":1,"transcription":null}
-{"fr":"amuser","kr":"쁘게 하다","level":1,"transcription":null}
-{"fr":"celle","kr":"저것","level":1,"transcription":null}
+{"fr":"amuser","kr":"즐기다","level":1,"transcription":null}
+{"fr":"celle","kr":"그것","level":1,"transcription":null}
 {"fr":"visage","kr":"얼굴","level":1,"transcription":null}
 {"fr":"intéresser","kr":"관심","level":1,"transcription":null}
 {"fr":"reconnaître","kr":"인정하다","level":1,"transcription":null}
@@ -538,7 +538,7 @@
 {"fr":"pardonner","kr":"용서하다","level":1,"transcription":null}
 {"fr":"avis","kr":"알아채다","level":1,"transcription":null}
 {"fr":"embrasser","kr":"키스하다","level":1,"transcription":null}
-{"fr":"retour","kr":"뒤쪽에","level":1,"transcription":null}
+{"fr":"retour","kr":"뒤쪽","level":1,"transcription":null}
 {"fr":"simple","kr":"단순한","level":1,"transcription":null}
 {"fr":"danser","kr":"춤을 추다","level":1,"transcription":null}
 {"fr":"exister","kr":"존재하다","level":1,"transcription":null}
@@ -566,7 +566,7 @@
 {"fr":"ailleurs","kr":"다른 곳에서","level":1,"transcription":null}
 {"fr":"maître","kr":"주인","level":1,"transcription":null}
 {"fr":"avion","kr":"비행기","level":1,"transcription":null}
-{"fr":"bout","kr":"끝 ","level":1,"transcription":null}
+{"fr":"bout","kr":"끝","level":1,"transcription":null}
 {"fr":"habiter","kr":"살다","level":1,"transcription":null}
 {"fr":"faim","kr":"굶주림","level":1,"transcription":null}
 {"fr":"ensuite","kr":"다음","level":1,"transcription":null}
@@ -598,12 +598,12 @@
 {"fr":"sauter","kr":"도약","level":1,"transcription":null}
 {"fr":"rêver","kr":"꿈","level":1,"transcription":null}
 {"fr":"détester","kr":"싫어하다","level":1,"transcription":null}
-{"fr":"clair","kr":"분명한","level":1,"transcription":null}
+{"fr":"clair","kr":"명확한","level":1,"transcription":null}
 {"fr":"con","kr":"바보","level":1,"transcription":null}
 {"fr":"faux","kr":"가짜","level":1,"transcription":null}
 {"fr":"paraître","kr":"나타나다","level":1,"transcription":null}
 {"fr":"balle","kr":"공","level":1,"transcription":null}
-{"fr":"empêcher","kr":"방지하기 위해","level":1,"transcription":null}
+{"fr":"empêcher","kr":"방지하다","level":1,"transcription":null}
 {"fr":"maintenir","kr":"유지하다","level":1,"transcription":null}
 {"fr":"cheveu","kr":"머리카락","level":1,"transcription":null}
 {"fr":"papier","kr":"종이","level":1,"transcription":null}
@@ -632,7 +632,7 @@
 {"fr":"naître","kr":"태어나다","level":1,"transcription":null}
 {"fr":"allô","kr":"안녕하세요","level":1,"transcription":null}
 {"fr":"passé","kr":"통과하다","level":1,"transcription":null}
-{"fr":"bois","kr":"마시다","level":1,"transcription":null}
+{"fr":"bois","kr":"목재","level":1,"transcription":null}
 {"fr":"propos","kr":"~에 대한","level":1,"transcription":null}
 {"fr":"camp","kr":"캠프","level":1,"transcription":null}
 {"fr":"sorte","kr":"종류","level":1,"transcription":null}
@@ -659,12 +659,12 @@
 {"fr":"brûler","kr":"불타다","level":1,"transcription":null}
 {"fr":"or","kr":"금","level":1,"transcription":null}
 {"fr":"loi","kr":"법","level":1,"transcription":null}
-{"fr":"fond","kr":"맨 아래","level":1,"transcription":null}
-{"fr":"gosse","kr":"어린이","level":1,"transcription":null}
+{"fr":"fond","kr":"바닥","level":1,"transcription":null}
+{"fr":"gosse","kr":"아기","level":1,"transcription":null}
 {"fr":"fric","kr":"돈","level":1,"transcription":null}
 {"fr":"situation","kr":"상황","level":1,"transcription":null}
 {"fr":"euh","kr":"음","level":1,"transcription":null}
-{"fr":"sauf","kr":"제외하고","level":1,"transcription":null}
+{"fr":"sauf","kr":"제외","level":1,"transcription":null}
 {"fr":"accident","kr":"사고","level":1,"transcription":null}
 {"fr":"doute","kr":"의심","level":1,"transcription":null}
 {"fr":"scène","kr":"장면","level":1,"transcription":null}
@@ -675,7 +675,7 @@
 {"fr":"humain","kr":"인간","level":1,"transcription":null}
 {"fr":"mer","kr":"바다","level":1,"transcription":null}
 {"fr":"silence","kr":"고요","level":1,"transcription":null}
-{"fr":"télé","kr":"tv","level":1,"transcription":null}
+{"fr":"télé","kr":"전화","level":1,"transcription":null}
 {"fr":"victime","kr":"피해자","level":1,"transcription":null}
 {"fr":"complètement","kr":"완전히","level":1,"transcription":null}
 {"fr":"pute","kr":"매춘부","level":1,"transcription":null}
@@ -683,7 +683,7 @@
 {"fr":"derrière","kr":"뒤에","level":1,"transcription":null}
 {"fr":"garde","kr":"경비원","level":1,"transcription":null}
 {"fr":"meurtre","kr":"살인","level":1,"transcription":null}
-{"fr":"groupe","kr":"밴드","level":1,"transcription":null}
+{"fr":"groupe","kr":"집단","level":1,"transcription":null}
 {"fr":"crime","kr":"범죄","level":1,"transcription":null}
 {"fr":"traiter","kr":"치료하다","level":1,"transcription":null}
 {"fr":"doucement","kr":"부드럽게","level":1,"transcription":null}
@@ -709,7 +709,7 @@
 {"fr":"attaquer","kr":"태클","level":1,"transcription":null}
 {"fr":"coin","kr":"모서리","level":1,"transcription":null}
 {"fr":"prince","kr":"왕자","level":1,"transcription":null}
-{"fr":"pire","kr":"더 나쁜 ","level":1,"transcription":null}
+{"fr":"pire","kr":"더 나쁜","level":1,"transcription":null}
 {"fr":"bordel","kr":"엉망","level":1,"transcription":null}
 {"fr":"professeur","kr":"선생님","level":1,"transcription":null}
 {"fr":"fumer","kr":"연기","level":1,"transcription":null}
@@ -750,7 +750,7 @@
 {"fr":"ligne","kr":"선","level":1,"transcription":null}
 {"fr":"absolument","kr":"전적으로","level":1,"transcription":null}
 {"fr":"doux","kr":"부드러운","level":1,"transcription":null}
-{"fr":"regretter","kr":"후회","level":1,"transcription":null}
+{"fr":"regretter","kr":"후회하다","level":1,"transcription":null}
 {"fr":"mur","kr":"벽","level":1,"transcription":null}
 {"fr":"enfer","kr":"지옥","level":1,"transcription":null}
 {"fr":"prouver","kr":"입증하다","level":1,"transcription":null}
@@ -758,18 +758,18 @@
 {"fr":"santé","kr":"건강","level":1,"transcription":null}
 {"fr":"t","kr":"티","level":1,"transcription":null}
 {"fr":"dîner","kr":"저녁","level":1,"transcription":null}
-{"fr":"couvrir","kr":"씌우다","level":1,"transcription":null}
-{"fr":"magnifique","kr":"웅장한","level":1,"transcription":null}
+{"fr":"couvrir","kr":"덮다","level":1,"transcription":null}
+{"fr":"magnifique","kr":"거대한","level":1,"transcription":null}
 {"fr":"obtenir","kr":"얻다","level":1,"transcription":null}
 {"fr":"cuisine","kr":"주방","level":1,"transcription":null}
-{"fr":"vue","kr":"보다","level":1,"transcription":null}
+{"fr":"vue","kr":"시야","level":1,"transcription":null}
 {"fr":"terrible","kr":"끔찍한","level":1,"transcription":null}
 {"fr":"peau","kr":"피부","level":1,"transcription":null}
 {"fr":"éviter","kr":"피하다","level":1,"transcription":null}
 {"fr":"salaud","kr":"새끼","level":1,"transcription":null}
 {"fr":"conseil","kr":"조언","level":1,"transcription":null}
-{"fr":"plaisanter","kr":"농담이야","level":1,"transcription":null}
-{"fr":"autour","kr":"약","level":1,"transcription":null}
+{"fr":"plaisanter","kr":"농담을 하다","level":1,"transcription":null}
+{"fr":"autour","kr":"주변","level":1,"transcription":null}
 {"fr":"vin","kr":"와인","level":1,"transcription":null}
 {"fr":"exact","kr":"정확한","level":1,"transcription":null}
 {"fr":"virer","kr":"회전하다","level":1,"transcription":null}
@@ -813,7 +813,7 @@
 {"fr":"selon","kr":"~에 따르면","level":1,"transcription":null}
 {"fr":"a","kr":"가지다","level":1,"transcription":null}
 {"fr":"intérêt","kr":"관심","level":1,"transcription":null}
-{"fr":"lieutenant","kr":"대장 보좌","level":1,"transcription":null}
+{"fr":"lieutenant","kr":"대장","level":1,"transcription":null}
 {"fr":"danger","kr":"위험","level":1,"transcription":null}
 {"fr":"appartenir","kr":"제자리에 있다","level":1,"transcription":null}
 {"fr":"remarquer","kr":"언급하다","level":1,"transcription":null}
@@ -823,7 +823,7 @@
 {"fr":"bord","kr":"가장자리","level":1,"transcription":null}
 {"fr":"tenter","kr":"시도하다","level":1,"transcription":null}
 {"fr":"liberté","kr":"자유","level":1,"transcription":null}
-{"fr":"règle","kr":"자","level":1,"transcription":null}
+{"fr":"règle","kr":"규칙","level":1,"transcription":null}
 {"fr":"banque","kr":"은행","level":1,"transcription":null}
 {"fr":"fier","kr":"자랑스러운","level":1,"transcription":null}
 {"fr":"partager","kr":"공유하다","level":1,"transcription":null}
@@ -835,7 +835,7 @@
 {"fr":"but","kr":"목표","level":1,"transcription":null}
 {"fr":"bande","kr":"밴드","level":1,"transcription":null}
 {"fr":"l","kr":"엘","level":1,"transcription":null}
-{"fr":"fatiguer","kr":"타이어","level":1,"transcription":null}
+{"fr":"fatiguer","kr":"타이어나다","level":1,"transcription":null}
 {"fr":"radio","kr":"라디오","level":1,"transcription":null}
 {"fr":"prévoir","kr":"기대하다","level":1,"transcription":null}
 {"fr":"celui-là","kr":"그거","level":1,"transcription":null}
@@ -876,20 +876,20 @@
 {"fr":"incroyable","kr":"놀라운","level":1,"transcription":null}
 {"fr":"bain","kr":"욕조","level":1,"transcription":null}
 {"fr":"durer","kr":"마지막","level":1,"transcription":null}
-{"fr":"marché","kr":"걷다","level":1,"transcription":null}
+{"fr":"marché","kr":"매장","level":1,"transcription":null}
 {"fr":"laver","kr":"씻다","level":1,"transcription":null}
 {"fr":"dent","kr":"이빨","level":1,"transcription":null}
 {"fr":"là-dedans","kr":"거기에","level":1,"transcription":null}
-{"fr":"mademoiselle","kr":"놓치다 ","level":1,"transcription":null}
+{"fr":"mademoiselle","kr":"여름방학","level":1,"transcription":null}
 {"fr":"adresse","kr":"주소","level":1,"transcription":null}
 {"fr":"cousin","kr":"사촌","level":1,"transcription":null}
 {"fr":"riche","kr":"부자","level":1,"transcription":null}
 {"fr":"compagnie","kr":"회사","level":1,"transcription":null}
-{"fr":"sonner","kr":"반지","level":1,"transcription":null}
+{"fr":"sonner","kr":"소리가 나다","level":1,"transcription":null}
 {"fr":"chaussure","kr":"구두","level":1,"transcription":null}
 {"fr":"oreille","kr":"귀","level":1,"transcription":null}
 {"fr":"grand-mère","kr":"할머니","level":1,"transcription":null}
-{"fr":"ancien","kr":"고대의","level":1,"transcription":null}
+{"fr":"ancien","kr":"고대","level":1,"transcription":null}
 {"fr":"art","kr":"미술","level":1,"transcription":null}
 {"fr":"deviner","kr":"추측하다","level":1,"transcription":null}
 {"fr":"inutile","kr":"쓸모 없는","level":1,"transcription":null}
@@ -947,7 +947,7 @@
 {"fr":"vacance","kr":"빈방 있음","level":1,"transcription":null}
 {"fr":"là-haut","kr":"거기 위쪽","level":1,"transcription":null}
 {"fr":"machine","kr":"기계","level":1,"transcription":null}
-{"fr":"signifier","kr":"평균","level":1,"transcription":null}
+{"fr":"signifier","kr":"표시하다","level":1,"transcription":null}
 {"fr":"réparer","kr":"고치다","level":1,"transcription":null}
 {"fr":"bête","kr":"짐승","level":1,"transcription":null}
 {"fr":"construire","kr":"짓다","level":1,"transcription":null}
@@ -958,23 +958,23 @@
 {"fr":"été","kr":"여름","level":1,"transcription":null}
 {"fr":"horrible","kr":"끔찍한","level":1,"transcription":null}
 {"fr":"profiter","kr":"즐기다","level":1,"transcription":null}
-{"fr":"pierre","kr":"바위 ","level":1,"transcription":null}
+{"fr":"pierre","kr":"바위","level":1,"transcription":null}
 {"fr":"pleuvoir","kr":"비","level":1,"transcription":null}
-{"fr":"plusieurs","kr":"여러 개의","level":1,"transcription":null}
-{"fr":"salope","kr":"암캐","level":1,"transcription":null}
+{"fr":"plusieurs","kr":"여러 개","level":1,"transcription":null}
+{"fr":"salope","kr":"","level":1,"transcription":null}
 {"fr":"tel","kr":"그런","level":1,"transcription":null}
 {"fr":"glace","kr":"얼음","level":1,"transcription":null}
-{"fr":"présent","kr":"여기","level":1,"transcription":null}
+{"fr":"présent","kr":"현재","level":1,"transcription":null}
 {"fr":"décision","kr":"결정","level":1,"transcription":null}
 {"fr":"juge","kr":"판사","level":1,"transcription":null}
 {"fr":"contrôle","kr":"제어","level":1,"transcription":null}
-{"fr":"séparer","kr":"분리된","level":1,"transcription":null}
+{"fr":"séparer","kr":"분리","level":1,"transcription":null}
 {"fr":"sept","kr":"일곱","level":1,"transcription":null}
 {"fr":"maladie","kr":"질병","level":1,"transcription":null}
 {"fr":"quartier","kr":"이웃","level":1,"transcription":null}
 {"fr":"désirer","kr":"욕구","level":1,"transcription":null}
 {"fr":"travers","kr":"~을 통해","level":1,"transcription":null}
-{"fr":"dommage","kr":"창피","level":1,"transcription":null}
+{"fr":"dommage","kr":"","level":1,"transcription":null}
 {"fr":"cigarette","kr":"담배","level":1,"transcription":null}
 {"fr":"traîner","kr":"놀다","level":1,"transcription":null}
 {"fr":"respecter","kr":"존경","level":1,"transcription":null}
@@ -982,12 +982,12 @@
 {"fr":"tas","kr":"더미","level":1,"transcription":null}
 {"fr":"enfuir","kr":"도망가다","level":1,"transcription":null}
 {"fr":"diriger","kr":"직접","level":1,"transcription":null}
-{"fr":"crever","kr":"주사위","level":1,"transcription":null}
+{"fr":"crever","kr":"","level":1,"transcription":null}
 {"fr":"fil","kr":"실","level":1,"transcription":null}
 {"fr":"combat","kr":"싸움","level":1,"transcription":null}
 {"fr":"poursuivre","kr":"추구하다","level":1,"transcription":null}
 {"fr":"morceau","kr":"조각","level":1,"transcription":null}
-{"fr":"église","kr":"교회","level":1,"transcription":null}
+{"fr":"église","kr":"","level":1,"transcription":null}
 {"fr":"directeur","kr":"감독","level":1,"transcription":null}
 {"fr":"demande","kr":"요구","level":1,"transcription":null}
 {"fr":"forcer","kr":"힘","level":1,"transcription":null}
@@ -1002,7 +1002,7 @@
 {"fr":"taxi","kr":"택시","level":2,"transcription":null}
 {"fr":"interdire","kr":"금지하다","level":2,"transcription":null}
 {"fr":"baisser","kr":"낮추다","level":2,"transcription":null}
-{"fr":"enterrer","kr":"묻다 ","level":2,"transcription":null}
+{"fr":"enterrer","kr":"묻다","level":2,"transcription":null}
 {"fr":"causer","kr":"원인","level":2,"transcription":null}
 {"fr":"cool","kr":"시원한","level":2,"transcription":null}
 {"fr":"survivre","kr":"생존하다","level":2,"transcription":null}
@@ -1048,16 +1048,16 @@
 {"fr":"e","kr":"이자형","level":2,"transcription":null}
 {"fr":"mémoire","kr":"메모리","level":2,"transcription":null}
 {"fr":"magasin","kr":"가게","level":2,"transcription":null}
-{"fr":"téléphoner","kr":"부르다","level":2,"transcription":null}
+{"fr":"téléphoner","kr":"통화하다","level":2,"transcription":null}
 {"fr":"dépendre","kr":"의존하다","level":2,"transcription":null}
 {"fr":"vide","kr":"비어 있는","level":2,"transcription":null}
 {"fr":"jardin","kr":"정원","level":2,"transcription":null}
 {"fr":"nature","kr":"자연","level":2,"transcription":null}
-{"fr":"trace","kr":"추적하다","level":2,"transcription":null}
+{"fr":"trace","kr":"추적","level":2,"transcription":null}
 {"fr":"félicitation","kr":"축하","level":2,"transcription":null}
 {"fr":"parfaire","kr":"완벽한","level":2,"transcription":null}
 {"fr":"attaque","kr":"공격","level":2,"transcription":null}
-{"fr":"c","kr":"기음","level":2,"transcription":null}
+{"fr":"c","kr":"~","level":2,"transcription":null}
 {"fr":"lait","kr":"우유","level":2,"transcription":null}
 {"fr":"résultat","kr":"결과","level":2,"transcription":null}
 {"fr":"camion","kr":"트럭","level":2,"transcription":null}
@@ -1078,7 +1078,7 @@
 {"fr":"huit","kr":"여덟","level":2,"transcription":null}
 {"fr":"pur","kr":"순수한","level":2,"transcription":null}
 {"fr":"île","kr":"섬","level":2,"transcription":null}
-{"fr":"habiller","kr":"드레스","level":2,"transcription":null}
+{"fr":"habiller","kr":"복장하다","level":2,"transcription":null}
 {"fr":"refaire","kr":"다시 하다","level":2,"transcription":null}
 {"fr":"couteau","kr":"칼","level":2,"transcription":null}
 {"fr":"enquête","kr":"조사","level":2,"transcription":null}
@@ -1140,7 +1140,7 @@
 {"fr":"sous-titrage","kr":"자막","level":2,"transcription":null}
 {"fr":"étoile","kr":"별","level":2,"transcription":null}
 {"fr":"charmant","kr":"매력적인","level":2,"transcription":null}
-{"fr":"écraser","kr":"으깨다","level":2,"transcription":null}
+{"fr":"écraser","kr":"압박하다","level":2,"transcription":null}
 {"fr":"genou","kr":"무릎","level":2,"transcription":null}
 {"fr":"formidable","kr":"엄청난","level":2,"transcription":null}
 {"fr":"arracher","kr":"찢어지다","level":2,"transcription":null}
@@ -1175,7 +1175,7 @@
 {"fr":"second","kr":"두번째","level":2,"transcription":null}
 {"fr":"folie","kr":"광기","level":2,"transcription":null}
 {"fr":"presser","kr":"짜내다","level":2,"transcription":null}
-{"fr":"accorder","kr":"동의하다 ","level":2,"transcription":null}
+{"fr":"accorder","kr":"동의하다","level":2,"transcription":null}
 {"fr":"emmerder","kr":"짜증나게 하다","level":2,"transcription":null}
 {"fr":"arrière","kr":"뒤쪽에","level":2,"transcription":null}
 {"fr":"reculer","kr":"뒤로 이동하다","level":2,"transcription":null}
@@ -1199,7 +1199,7 @@
 {"fr":"anglais","kr":"영어","level":2,"transcription":null}
 {"fr":"serrer","kr":"쥐어짜다","level":2,"transcription":null}
 {"fr":"valise","kr":"여행 가방","level":2,"transcription":null}
-{"fr":"justice","kr":"정당성","level":2,"transcription":null}
+{"fr":"justice","kr":"법정적 정당성","level":2,"transcription":null}
 {"fr":"défense","kr":"방어","level":2,"transcription":null}
 {"fr":"arrêt","kr":"멈추다","level":2,"transcription":null}
 {"fr":"coupable","kr":"죄책감이 드는","level":2,"transcription":null}
@@ -1212,7 +1212,7 @@
 {"fr":"crise","kr":"위기","level":2,"transcription":null}
 {"fr":"connard","kr":"항문","level":2,"transcription":null}
 {"fr":"moindre","kr":"보다 작은","level":2,"transcription":null}
-{"fr":"tableau","kr":"그림 ","level":2,"transcription":null}
+{"fr":"tableau","kr":"그림","level":2,"transcription":null}
 {"fr":"piquer","kr":"찌르기","level":2,"transcription":null}
 {"fr":"admettre","kr":"인정하다","level":2,"transcription":null}
 {"fr":"restaurant","kr":"식당","level":2,"transcription":null}
@@ -1228,14 +1228,14 @@
 {"fr":"vu","kr":"본","level":2,"transcription":null}
 {"fr":"souci","kr":"걱정하다","level":2,"transcription":null}
 {"fr":"lorsque","kr":"언제","level":2,"transcription":null}
-{"fr":"concerner","kr":"우려","level":2,"transcription":null}
+{"fr":"concerner","kr":"관심사하다","level":2,"transcription":null}
 {"fr":"énorme","kr":"거대한","level":2,"transcription":null}
 {"fr":"programme","kr":"프로그램","level":2,"transcription":null}
-{"fr":"allemand","kr":"독일 사람","level":2,"transcription":null}
+{"fr":"allemand","kr":"독일어","level":2,"transcription":null}
 {"fr":"toit","kr":"지붕","level":2,"transcription":null}
 {"fr":"bravo","kr":"잘하셨어요","level":2,"transcription":null}
 {"fr":"représenter","kr":"대표하다","level":2,"transcription":null}
-{"fr":"bénir","kr":"신을 하다","level":2,"transcription":null}
+{"fr":"bénir","kr":"신경 쓰다","level":2,"transcription":null}
 {"fr":"telle","kr":"그런","level":2,"transcription":null}
 {"fr":"rapide","kr":"빠른","level":2,"transcription":null}
 {"fr":"fusil","kr":"총","level":2,"transcription":null}
@@ -1244,13 +1244,13 @@
 {"fr":"certaines","kr":"일부","level":2,"transcription":null}
 {"fr":"montre","kr":"보다","level":2,"transcription":null}
 {"fr":"fantôme","kr":"귀신","level":2,"transcription":null}
-{"fr":"endormir","kr":"잠들다","level":2,"transcription":null}
+{"fr":"endormir","kr":"잠들게 하다","level":2,"transcription":null}
 {"fr":"plage","kr":"해변","level":2,"transcription":null}
 {"fr":"entrée","kr":"입구","level":2,"transcription":null}
 {"fr":"louer","kr":"임대하다","level":2,"transcription":null}
 {"fr":"mine","kr":"내 거","level":2,"transcription":null}
 {"fr":"hasard","kr":"가능성","level":2,"transcription":null}
-{"fr":"soigner","kr":"치유법","level":2,"transcription":null}
+{"fr":"soigner","kr":"치유하다","level":2,"transcription":null}
 {"fr":"chasse","kr":"수렵","level":2,"transcription":null}
 {"fr":"organiser","kr":"정리하다","level":2,"transcription":null}
 {"fr":"sortie","kr":"출구","level":2,"transcription":null}
@@ -1289,35 +1289,35 @@
 {"fr":"celui-ci","kr":"이거","level":2,"transcription":null}
 {"fr":"objet","kr":"물체","level":2,"transcription":null}
 {"fr":"finalement","kr":"궁극적으로","level":2,"transcription":null}
-{"fr":"toi-même","kr":"당신 자신","level":2,"transcription":null}
-{"fr":"presse","kr":"누르다","level":2,"transcription":null}
+{"fr":"toi-même","kr":"자신","level":2,"transcription":null}
+{"fr":"presse","kr":"압력","level":2,"transcription":null}
 {"fr":"siècle","kr":"세기","level":2,"transcription":null}
 {"fr":"voyager","kr":"여행하다","level":2,"transcription":null}
 {"fr":"larme","kr":"눈물","level":2,"transcription":null}
-{"fr":"mlle","kr":"놓치다","level":2,"transcription":null}
+{"fr":"mlle","kr":"여인","level":2,"transcription":null}
 {"fr":"ombre","kr":"그림자","level":2,"transcription":null}
-{"fr":"nommer","kr":"정하다","level":2,"transcription":null}
+{"fr":"nommer","kr":"명시하다","level":2,"transcription":null}
 {"fr":"rat","kr":"쥐","level":2,"transcription":null}
-{"fr":"cri","kr":"울다","level":2,"transcription":null}
+{"fr":"cri","kr":"호소","level":2,"transcription":null}
 {"fr":"conscience","kr":"의식","level":2,"transcription":null}
 {"fr":"rechercher","kr":"연구하다","level":2,"transcription":null}
-{"fr":"parfaitement","kr":"아주","level":2,"transcription":null}
+{"fr":"parfaitement","kr":"완벽하게","level":2,"transcription":null}
 {"fr":"unique","kr":"고유한","level":2,"transcription":null}
 {"fr":"procès","kr":"재판","level":2,"transcription":null}
-{"fr":"valeur","kr":"값","level":2,"transcription":null}
+{"fr":"valeur","kr":"가치","level":2,"transcription":null}
 {"fr":"désir","kr":"욕구","level":2,"transcription":null}
 {"fr":"juif","kr":"유대인","level":2,"transcription":null}
-{"fr":"obéir","kr":"순종하다","level":2,"transcription":null}
+{"fr":"obéir","kr":"복종하다","level":2,"transcription":null}
 {"fr":"mets","kr":"놓다","level":2,"transcription":null}
 {"fr":"saluer","kr":"환영하다","level":2,"transcription":null}
 {"fr":"direction","kr":"방향","level":2,"transcription":null}
-{"fr":"présence","kr":"있음","level":2,"transcription":null}
+{"fr":"présence","kr":"존재","level":2,"transcription":null}
 {"fr":"utile","kr":"유용한","level":2,"transcription":null}
-{"fr":"paquet","kr":"팩","level":2,"transcription":null}
+{"fr":"paquet","kr":"팩트","level":2,"transcription":null}
 {"fr":"sein","kr":"가슴","level":2,"transcription":null}
 {"fr":"nourriture","kr":"음식","level":2,"transcription":null}
 {"fr":"mordre","kr":"물다","level":2,"transcription":null}
-{"fr":"sort","kr":"주문","level":2,"transcription":null}
+{"fr":"sort","kr":"순위","level":2,"transcription":null}
 {"fr":"guérir","kr":"치유하다","level":2,"transcription":null}
 {"fr":"passage","kr":"통로","level":2,"transcription":null}
 {"fr":"jaloux","kr":"질투하는","level":2,"transcription":null}
@@ -1328,21 +1328,21 @@
 {"fr":"stop","kr":"멈추다","level":2,"transcription":null}
 {"fr":"flingue","kr":"총","level":2,"transcription":null}
 {"fr":"article","kr":"기사","level":2,"transcription":null}
-{"fr":"adieu","kr":"작별","level":2,"transcription":null}
+{"fr":"adieu","kr":"안녕히 계세요","level":2,"transcription":null}
 {"fr":"viande","kr":"고기","level":2,"transcription":null}
-{"fr":"détendre","kr":"안심하다","level":2,"transcription":null}
-{"fr":"interroger","kr":"질문","level":2,"transcription":null}
-{"fr":"étude","kr":"공부하다","level":2,"transcription":null}
-{"fr":"faillir","kr":"실패하다","level":2,"transcription":null}
+{"fr":"détendre","kr":"완화하다","level":2,"transcription":null}
+{"fr":"interroger","kr":"질문하다","level":2,"transcription":null}
+{"fr":"étude","kr":"공부","level":2,"transcription":null}
+{"fr":"faillir","kr":"실패","level":2,"transcription":null}
 {"fr":"talent","kr":"재능","level":2,"transcription":null}
-{"fr":"condamner","kr":"비난하다","level":2,"transcription":null}
+{"fr":"condamner","kr":"형사판정받다","level":2,"transcription":null}
 {"fr":"cou","kr":"목","level":2,"transcription":null}
 {"fr":"deuxième","kr":"두번째","level":2,"transcription":null}
 {"fr":"au-dessus","kr":"~ 위에","level":2,"transcription":null}
 {"fr":"espace","kr":"공간","level":2,"transcription":null}
 {"fr":"apparaître","kr":"나타나다","level":2,"transcription":null}
-{"fr":"don","kr":"두목","level":2,"transcription":null}
-{"fr":"marquer","kr":"표시","level":2,"transcription":null}
+{"fr":"don","kr":"목돈","level":2,"transcription":null}
+{"fr":"marquer","kr":"표시하다","level":2,"transcription":null}
 {"fr":"ramasser","kr":"찾다","level":2,"transcription":null}
 {"fr":"militaire","kr":"군대","level":2,"transcription":null}
 {"fr":"château","kr":"성","level":2,"transcription":null}
@@ -1353,10 +1353,10 @@
 {"fr":"majesté","kr":"위엄","level":2,"transcription":null}
 {"fr":"imbécile","kr":"바보","level":2,"transcription":null}
 {"fr":"commissaire","kr":"위원","level":2,"transcription":null}
-{"fr":"taille","kr":"크기 ","level":2,"transcription":null}
+{"fr":"taille","kr":"크기","level":2,"transcription":null}
 {"fr":"apparemment","kr":"보기에","level":2,"transcription":null}
 {"fr":"connaissance","kr":"의식","level":2,"transcription":null}
-{"fr":"français","kr":"프랑스 국민","level":2,"transcription":null}
+{"fr":"français","kr":"프랑스어","level":2,"transcription":null}
 {"fr":"énergie","kr":"에너지","level":2,"transcription":null}
 {"fr":"cent","kr":"백","level":2,"transcription":null}
 {"fr":"sec","kr":"마른","level":2,"transcription":null}
@@ -1404,10 +1404,10 @@
 {"fr":"éclater","kr":"터지다","level":2,"transcription":null}
 {"fr":"alcool","kr":"술","level":2,"transcription":null}
 {"fr":"poulet","kr":"닭","level":2,"transcription":null}
-{"fr":"péché","kr":"어업","level":2,"transcription":null}
+{"fr":"péché","kr":"죄책감","level":2,"transcription":null}
 {"fr":"invité","kr":"손님","level":2,"transcription":null}
 {"fr":"court","kr":"짧은","level":2,"transcription":null}
-{"fr":"éloigner","kr":"떠나다","level":2,"transcription":null}
+{"fr":"éloigner","kr":"멀리 보내다","level":2,"transcription":null}
 {"fr":"porc","kr":"돼지고기","level":2,"transcription":null}
 {"fr":"allonger","kr":"길게 하다","level":2,"transcription":null}
 {"fr":"front","kr":"이마","level":2,"transcription":null}
@@ -1457,7 +1457,7 @@
 {"fr":"neige","kr":"눈","level":2,"transcription":null}
 {"fr":"star","kr":"별","level":2,"transcription":null}
 {"fr":"sérieusement","kr":"진지하게","level":2,"transcription":null}
-{"fr":"poil","kr":"머리카락 ","level":2,"transcription":null}
+{"fr":"poil","kr":"머리카락","level":2,"transcription":null}
 {"fr":"bêtise","kr":"우둔","level":2,"transcription":null}
 {"fr":"disputer","kr":"다투다","level":2,"transcription":null}
 {"fr":"innocent","kr":"순결한","level":2,"transcription":null}
@@ -1499,14 +1499,14 @@
 {"fr":"tribunal","kr":"법원","level":2,"transcription":null}
 {"fr":"malheureux","kr":"불행한 사람","level":2,"transcription":null}
 {"fr":"millier","kr":"천","level":2,"transcription":null}
-{"fr":"lèvre","kr":"말뿐인","level":2,"transcription":null}
-{"fr":"nulle","kr":"영","level":2,"transcription":null}
+{"fr":"lèvre","kr":"입술","level":2,"transcription":null}
+{"fr":"nulle","kr":"없다","level":2,"transcription":null}
 {"fr":"prof","kr":"선생님","level":2,"transcription":null}
 {"fr":"perte","kr":"손실","level":2,"transcription":null}
 {"fr":"promener","kr":"산책하다","level":2,"transcription":null}
-{"fr":"léger","kr":"빛","level":2,"transcription":null}
+{"fr":"léger","kr":"경량","level":2,"transcription":null}
 {"fr":"venger","kr":"복수","level":2,"transcription":null}
-{"fr":"veste","kr":"재킷","level":2,"transcription":null}
+{"fr":"veste","kr":"바지","level":2,"transcription":null}
 {"fr":"changement","kr":"변화","level":2,"transcription":null}
 {"fr":"pilote","kr":"조종사","level":2,"transcription":null}
 {"fr":"terme","kr":"용어","level":2,"transcription":null}
@@ -1517,7 +1517,7 @@
 {"fr":"informer","kr":"알리다","level":2,"transcription":null}
 {"fr":"pression","kr":"압력","level":2,"transcription":null}
 {"fr":"propriétaire","kr":"소유자","level":2,"transcription":null}
-{"fr":"maudit","kr":"저주 받은","level":2,"transcription":null}
+{"fr":"maudit","kr":"저주받은","level":2,"transcription":null}
 {"fr":"lier","kr":"묶다","level":2,"transcription":null}
 {"fr":"ordinateur","kr":"컴퓨터","level":2,"transcription":null}
 {"fr":"marié","kr":"기혼","level":2,"transcription":null}
@@ -1528,7 +1528,7 @@
 {"fr":"cauchemar","kr":"악몽","level":2,"transcription":null}
 {"fr":"lundi","kr":"월요일","level":2,"transcription":null}
 {"fr":"élève","kr":"학생","level":2,"transcription":null}
-{"fr":"saisir","kr":"입력하다","level":2,"transcription":null}
+{"fr":"saisir","kr":"입력","level":2,"transcription":null}
 {"fr":"impliquer","kr":"관련시키다","level":2,"transcription":null}
 {"fr":"ordonner","kr":"주문하다","level":2,"transcription":null}
 {"fr":"poule","kr":"닭","level":2,"transcription":null}
@@ -1545,7 +1545,7 @@
 {"fr":"gaz","kr":"가스","level":2,"transcription":null}
 {"fr":"fesse","kr":"엉덩이","level":2,"transcription":null}
 {"fr":"puer","kr":"악취","level":2,"transcription":null}
-{"fr":"l'une","kr":"달","level":2,"transcription":null}
+{"fr":"l'une","kr":"~ 동안","level":2,"transcription":null}
 {"fr":"douche","kr":"샤워","level":2,"transcription":null}
 {"fr":"peindre","kr":"그림을 그리다","level":2,"transcription":null}
 {"fr":"sou","kr":"페니","level":2,"transcription":null}
@@ -1589,7 +1589,7 @@
 {"fr":"saigner","kr":"출혈","level":2,"transcription":null}
 {"fr":"herbe","kr":"잔디","level":2,"transcription":null}
 {"fr":"bouge","kr":"이동하다","level":2,"transcription":null}
-{"fr":"identité","kr":"식별하다","level":2,"transcription":null}
+{"fr":"identité","kr":"식별","level":2,"transcription":null}
 {"fr":"glisser","kr":"슬라이드","level":2,"transcription":null}
 {"fr":"celles","kr":"저것들","level":2,"transcription":null}
 {"fr":"vieil","kr":"오래된","level":2,"transcription":null}
@@ -1621,11 +1621,11 @@
 {"fr":"participer","kr":"참가하다","level":2,"transcription":null}
 {"fr":"cible","kr":"목표","level":2,"transcription":null}
 {"fr":"crétin","kr":"바보","level":2,"transcription":null}
-{"fr":"aile","kr":"비행","level":2,"transcription":null}
+{"fr":"aile","kr":"날개","level":2,"transcription":null}
 {"fr":"lunette","kr":"망원경","level":2,"transcription":null}
 {"fr":"rare","kr":"희귀한","level":2,"transcription":null}
 {"fr":"essence","kr":"본질","level":2,"transcription":null}
-{"fr":"décevoir","kr":"어긋나게 하다","level":2,"transcription":null}
+{"fr":"décevoir","kr":"놀라게 하다","level":2,"transcription":null}
 {"fr":"foutu","kr":"망했어","level":2,"transcription":null}
 {"fr":"paradis","kr":"천국","level":2,"transcription":null}
 {"fr":"réagir","kr":"반응하다","level":2,"transcription":null}
@@ -1634,16 +1634,16 @@
 {"fr":"piège","kr":"덫","level":2,"transcription":null}
 {"fr":"pédé","kr":"동성애자","level":2,"transcription":null}
 {"fr":"haine","kr":"싫어하다","level":2,"transcription":null}
-{"fr":"enregistrer","kr":"구하다","level":2,"transcription":null}
+{"fr":"enregistrer","kr":"기록하다","level":2,"transcription":null}
 {"fr":"vôtre","kr":"당신의","level":2,"transcription":null}
 {"fr":"coupe","kr":"자르다","level":2,"transcription":null}
 {"fr":"enfance","kr":"어린 시절","level":2,"transcription":null}
 {"fr":"science","kr":"과학","level":2,"transcription":null}
 {"fr":"autorité","kr":"권한","level":2,"transcription":null}
-{"fr":"ballon","kr":"공 ","level":2,"transcription":null}
+{"fr":"ballon","kr":"공기","level":2,"transcription":null}
 {"fr":"charge","kr":"요금","level":2,"transcription":null}
 {"fr":"parc","kr":"공원","level":2,"transcription":null}
-{"fr":"zéro","kr":"영","level":2,"transcription":null}
+{"fr":"zéro","kr":"영수증","level":2,"transcription":null}
 {"fr":"épée","kr":"검","level":2,"transcription":null}
 {"fr":"limite","kr":"한계","level":2,"transcription":null}
 {"fr":"échange","kr":"교환","level":2,"transcription":null}
@@ -1680,10 +1680,10 @@
 {"fr":"sucre","kr":"설탕","level":2,"transcription":null}
 {"fr":"accueillir","kr":"환영하다","level":2,"transcription":null}
 {"fr":"enseigner","kr":"가르치다","level":2,"transcription":null}
-{"fr":"plonger","kr":"잠수","level":2,"transcription":null}
+{"fr":"plonger","kr":"잠수하다","level":2,"transcription":null}
 {"fr":"saison","kr":"계절","level":2,"transcription":null}
 {"fr":"assistant","kr":"어시스턴트","level":2,"transcription":null}
-{"fr":"gardien","kr":"보호자 ","level":2,"transcription":null}
+{"fr":"gardien","kr":"보호자","level":2,"transcription":null}
 {"fr":"habituer","kr":"익숙해지다","level":2,"transcription":null}
 {"fr":"buter","kr":"접하다","level":2,"transcription":null}
 {"fr":"sombre","kr":"어두운","level":2,"transcription":null}
@@ -1731,7 +1731,7 @@
 {"fr":"revolver","kr":"리볼버","level":2,"transcription":null}
 {"fr":"affronter","kr":"직면하다","level":2,"transcription":null}
 {"fr":"adresser","kr":"주소","level":2,"transcription":null}
-{"fr":"boule","kr":"공 ","level":2,"transcription":null}
+{"fr":"boule","kr":"공","level":2,"transcription":null}
 {"fr":"patience","kr":"인내심","level":2,"transcription":null}
 {"fr":"vider","kr":"비어 있는","level":2,"transcription":null}
 {"fr":"échouer","kr":"실패하다","level":2,"transcription":null}
@@ -1739,7 +1739,7 @@
 {"fr":"assister","kr":"돕기 위해","level":2,"transcription":null}
 {"fr":"race","kr":"새끼를 낳다","level":2,"transcription":null}
 {"fr":"éternel","kr":"영원한","level":2,"transcription":null}
-{"fr":"parer","kr":"패리","level":2,"transcription":null}
+{"fr":"parer","kr":"패러","level":2,"transcription":null}
 {"fr":"troisième","kr":"제삼","level":2,"transcription":null}
 {"fr":"double","kr":"더블","level":2,"transcription":null}
 {"fr":"fiston","kr":"아들","level":2,"transcription":null}
@@ -1890,35 +1890,35 @@
 {"fr":"sergent","kr":"중사","level":2,"transcription":null}
 {"fr":"enterrement","kr":"장례식","level":2,"transcription":null}
 {"fr":"suicide","kr":"자살","level":2,"transcription":null}
-{"fr":"monnaie","kr":"현금","level":2,"transcription":null}
-{"fr":"noyer","kr":"호두","level":2,"transcription":null}
-{"fr":"chiffre","kr":"수치","level":2,"transcription":null}
+{"fr":"monnaie","kr":"돈","level":2,"transcription":null}
+{"fr":"noyer","kr":"침묵하다","level":2,"transcription":null}
+{"fr":"chiffre","kr":"숫자","level":2,"transcription":null}
 {"fr":"vampire","kr":"흡혈귀","level":2,"transcription":null}
 {"fr":"conclure","kr":"끝내다","level":2,"transcription":null}
-{"fr":"repérer","kr":"점","level":2,"transcription":null}
+{"fr":"repérer","kr":"찾다","level":2,"transcription":null}
 {"fr":"fromage","kr":"치즈","level":2,"transcription":null}
-{"fr":"garer","kr":"공원","level":2,"transcription":null}
+{"fr":"garer","kr":"거기다","level":2,"transcription":null}
 {"fr":"lâche","kr":"겁쟁이","level":2,"transcription":null}
 {"fr":"cuisiner","kr":"요리하다","level":2,"transcription":null}
 {"fr":"poème","kr":"시","level":2,"transcription":null}
-{"fr":"cogner","kr":"노크","level":2,"transcription":null}
-{"fr":"rayon","kr":"반지름","level":2,"transcription":null}
-{"fr":"taule","kr":"교도소","level":2,"transcription":null}
+{"fr":"cogner","kr":"치마질하다","level":2,"transcription":null}
+{"fr":"rayon","kr":"반지","level":2,"transcription":null}
+{"fr":"taule","kr":"대나무가든","level":2,"transcription":null}
 {"fr":"souffle","kr":"호흡","level":2,"transcription":null}
-{"fr":"permis","kr":"허용하다","level":2,"transcription":null}
+{"fr":"permis","kr":"허용","level":2,"transcription":null}
 {"fr":"exagérer","kr":"과장하다","level":2,"transcription":null}
 {"fr":"flamme","kr":"불꽃","level":2,"transcription":null}
 {"fr":"insulter","kr":"모욕","level":2,"transcription":null}
 {"fr":"magique","kr":"마법","level":2,"transcription":null}
-{"fr":"repasser","kr":"철","level":2,"transcription":null}
+{"fr":"repasser","kr":"세척하다","level":2,"transcription":null}
 {"fr":"fantastique","kr":"환상적인","level":2,"transcription":null}
 {"fr":"autrefois","kr":"전에","level":2,"transcription":null}
 {"fr":"facilement","kr":"쉽게","level":2,"transcription":null}
 {"fr":"sexy","kr":"섹시한","level":2,"transcription":null}
 {"fr":"sensible","kr":"예민한","level":2,"transcription":null}
-{"fr":"atterrir","kr":"땅","level":2,"transcription":null}
+{"fr":"atterrir","kr":"땅에다 떨어뜨리다","level":2,"transcription":null}
 {"fr":"directement","kr":"곧장","level":2,"transcription":null}
-{"fr":"tuyau","kr":"파이프 ","level":2,"transcription":null}
+{"fr":"tuyau","kr":"파이프","level":2,"transcription":null}
 {"fr":"barrer","kr":"술집","level":2,"transcription":null}
 {"fr":"méfier","kr":"불신","level":2,"transcription":null}
 {"fr":"italien","kr":"이탈리아 사람","level":2,"transcription":null}
@@ -1927,16 +1927,16 @@
 {"fr":"sain","kr":"건강한","level":2,"transcription":null}
 {"fr":"tendre","kr":"부드러운","level":2,"transcription":null}
 {"fr":"pari","kr":"내기","level":2,"transcription":null}
-{"fr":"maîtresse","kr":"정부","level":2,"transcription":null}
+{"fr":"maîtresse","kr":"주부","level":2,"transcription":null}
 {"fr":"asile","kr":"보호 시설","level":2,"transcription":null}
-{"fr":"inspirer","kr":"고무하다","level":2,"transcription":null}
+{"fr":"inspirer","kr":"숨다","level":2,"transcription":null}
 {"fr":"divin","kr":"신성한","level":2,"transcription":null}
 {"fr":"v","kr":"다섯","level":2,"transcription":null}
 {"fr":"armé","kr":"무장한","level":2,"transcription":null}
 {"fr":"boutique","kr":"가게","level":2,"transcription":null}
 {"fr":"hop","kr":"깡충깡충 뛰다","level":2,"transcription":null}
 {"fr":"secteur","kr":"부문","level":2,"transcription":null}
-{"fr":"embarquer","kr":"태우다","level":2,"transcription":null}
+{"fr":"embarquer","kr":"타우다","level":2,"transcription":null}
 {"fr":"rapidement","kr":"빠르게","level":2,"transcription":null}
 {"fr":"lentement","kr":"느리게","level":2,"transcription":null}
 {"fr":"déchirer","kr":"찢다","level":2,"transcription":null}
@@ -1954,7 +1954,7 @@
 {"fr":"traître","kr":"배신자","level":2,"transcription":null}
 {"fr":"futur","kr":"미래","level":2,"transcription":null}
 {"fr":"émotion","kr":"감정","level":2,"transcription":null}
-{"fr":"monseigneur","kr":"나의 주","level":2,"transcription":null}
+{"fr":"monseigneur","kr":"주님","level":2,"transcription":null}
 {"fr":"tien","kr":"당신 것","level":2,"transcription":null}
 {"fr":"explosion","kr":"폭발","level":2,"transcription":null}
 {"fr":"dette","kr":"빚","level":2,"transcription":null}
@@ -1978,7 +1978,7 @@
 {"fr":"sacrifier","kr":"희생","level":2,"transcription":null}
 {"fr":"débarquer","kr":"땅","level":2,"transcription":null}
 {"fr":"magie","kr":"마법","level":2,"transcription":null}
-{"fr":"pub","kr":"선술집","level":2,"transcription":null}
+{"fr":"pub","kr":"술집","level":2,"transcription":null}
 {"fr":"période","kr":"기간","level":2,"transcription":null}
 {"fr":"abruti","kr":"바보","level":2,"transcription":null}
 {"fr":"serviette","kr":"수건","level":2,"transcription":null}
@@ -1986,20 +1986,20 @@
 {"fr":"empereur","kr":"황제","level":2,"transcription":null}
 {"fr":"passeport","kr":"여권","level":2,"transcription":null}
 {"fr":"torturer","kr":"고문","level":2,"transcription":null}
-{"fr":"extérieur","kr":"밖의","level":2,"transcription":null}
+{"fr":"extérieur","kr":"외부","level":2,"transcription":null}
 {"fr":"info","kr":"정보","level":2,"transcription":null}
 {"fr":"jouet","kr":"장난감","level":2,"transcription":null}
 {"fr":"pointer","kr":"가리키다","level":2,"transcription":null}
 {"fr":"inscrire","kr":"등록하다","level":2,"transcription":null}
 {"fr":"lutter","kr":"맞서 싸우다","level":2,"transcription":null}
 {"fr":"tienne","kr":"기다리다","level":2,"transcription":null}
-{"fr":"épuiser","kr":"배기가스","level":2,"transcription":null}
+{"fr":"épuiser","kr":"소모하다","level":2,"transcription":null}
 {"fr":"meurtrier","kr":"살인자","level":2,"transcription":null}
 {"fr":"ascenseur","kr":"엘리베이터","level":2,"transcription":null}
-{"fr":"furieux","kr":"맹렬한","level":2,"transcription":null}
+{"fr":"furieux","kr":"폭발한","level":2,"transcription":null}
 {"fr":"digne","kr":"가치 있는","level":2,"transcription":null}
-{"fr":"saloperie","kr":"암캐","level":3,"transcription":null}
-{"fr":"matériel","kr":"재료","level":3,"transcription":null}
+{"fr":"saloperie","kr":"미안함","level":3,"transcription":null}
+{"fr":"matériel","kr":"장비","level":3,"transcription":null}
 {"fr":"garage","kr":"차고","level":3,"transcription":null}
 {"fr":"mandat","kr":"위임","level":3,"transcription":null}
 {"fr":"moto","kr":"오토바이","level":3,"transcription":null}
@@ -2010,7 +2010,7 @@
 {"fr":"chute","kr":"떨어지다","level":3,"transcription":null}
 {"fr":"unir","kr":"맞잡다","level":3,"transcription":null}
 {"fr":"creuser","kr":"파기","level":3,"transcription":null}
-{"fr":"satisfaire","kr":"풀다","level":3,"transcription":null}
+{"fr":"satisfaire","kr":"주장하다","level":3,"transcription":null}
 {"fr":"pressé","kr":"누르다","level":3,"transcription":null}
 {"fr":"transmettre","kr":"전송하다","level":3,"transcription":null}
 {"fr":"commun","kr":"흔한","level":3,"transcription":null}
@@ -2019,7 +2019,7 @@
 {"fr":"donne","kr":"주어진","level":3,"transcription":null}
 {"fr":"exécuter","kr":"실행하다","level":3,"transcription":null}
 {"fr":"gant","kr":"장갑","level":3,"transcription":null}
-{"fr":"élevé","kr":"학생","level":3,"transcription":null}
+{"fr":"élevé","kr":"높은","level":3,"transcription":null}
 {"fr":"accomplir","kr":"성취하다","level":3,"transcription":null}
 {"fr":"décrocher","kr":"찾다","level":3,"transcription":null}
 {"fr":"fièvre","kr":"발열","level":3,"transcription":null}
@@ -2046,7 +2046,7 @@
 {"fr":"sauvage","kr":"야만적인","level":3,"transcription":null}
 {"fr":"rose","kr":"분홍색","level":3,"transcription":null}
 {"fr":"précieux","kr":"귀중한","level":3,"transcription":null}
-{"fr":"mouche","kr":"파리 ","level":3,"transcription":null}
+{"fr":"mouche","kr":"파리","level":3,"transcription":null}
 {"fr":"avantage","kr":"이점","level":3,"transcription":null}
 {"fr":"boucler","kr":"반복하다","level":3,"transcription":null}
 {"fr":"détective","kr":"형사","level":3,"transcription":null}
@@ -2099,19 +2099,19 @@
 {"fr":"imposer","kr":"부과하다","level":3,"transcription":null}
 {"fr":"piscine","kr":"수영장","level":3,"transcription":null}
 {"fr":"vidéo","kr":"동영상","level":3,"transcription":null}
-{"fr":"absurde","kr":"터무니없는","level":3,"transcription":null}
+{"fr":"absurde","kr":"무의미한","level":3,"transcription":null}
 {"fr":"discussion","kr":"논의","level":3,"transcription":null}
 {"fr":"estomac","kr":"위","level":3,"transcription":null}
 {"fr":"auteur","kr":"작가","level":3,"transcription":null}
 {"fr":"compliqué","kr":"복잡한","level":3,"transcription":null}
-{"fr":"médecine","kr":"약","level":3,"transcription":null}
+{"fr":"médecine","kr":"의학","level":3,"transcription":null}
 {"fr":"foie","kr":"간","level":3,"transcription":null}
 {"fr":"activité","kr":"활동","level":3,"transcription":null}
 {"fr":"bonbon","kr":"사탕","level":3,"transcription":null}
-{"fr":"sucer","kr":"빨다","level":3,"transcription":null}
+{"fr":"sucer","kr":"먹다","level":3,"transcription":null}
 {"fr":"épreuve","kr":"시험","level":3,"transcription":null}
 {"fr":"aimable","kr":"친절한","level":3,"transcription":null}
-{"fr":"geler","kr":"꼭 매달리게 하다","level":3,"transcription":null}
+{"fr":"geler","kr":"얼어붙이다","level":3,"transcription":null}
 {"fr":"la plupart des","kr":"대부분의","level":3,"transcription":null}
 {"fr":"peser","kr":"달다","level":3,"transcription":null}
 {"fr":"communauté","kr":"지역 사회","level":3,"transcription":null}
@@ -2121,8 +2121,8 @@
 {"fr":"adulte","kr":"성인","level":3,"transcription":null}
 {"fr":"généreux","kr":"관대한","level":3,"transcription":null}
 {"fr":"humanité","kr":"인류","level":3,"transcription":null}
-{"fr":"enfoncer","kr":"푸시","level":3,"transcription":null}
-{"fr":"excellence","kr":"우수","level":3,"transcription":null}
+{"fr":"enfoncer","kr":"압박하다","level":3,"transcription":null}
+{"fr":"excellence","kr":"우수함","level":3,"transcription":null}
 {"fr":"paysan","kr":"농부","level":3,"transcription":null}
 {"fr":"analyse","kr":"분석","level":3,"transcription":null}
 {"fr":"cirque","kr":"서커스","level":3,"transcription":null}
@@ -2168,7 +2168,7 @@
 {"fr":"culture","kr":"문화","level":3,"transcription":null}
 {"fr":"honorer","kr":"명예","level":3,"transcription":null}
 {"fr":"poète","kr":"시인","level":3,"transcription":null}
-{"fr":"royal","kr":"감청색","level":3,"transcription":null}
+{"fr":"royal","kr":"왕실","level":3,"transcription":null}
 {"fr":"pilule","kr":"알약","level":3,"transcription":null}
 {"fr":"bienvenue","kr":"환영","level":3,"transcription":null}
 {"fr":"nôtres","kr":"우리 것","level":3,"transcription":null}
@@ -2204,7 +2204,7 @@
 {"fr":"cassé","kr":"고장난","level":3,"transcription":null}
 {"fr":"transporter","kr":"나르다","level":3,"transcription":null}
 {"fr":"jouir","kr":"즐기다","level":3,"transcription":null}
-{"fr":"saurer","kr":"알다 ","level":3,"transcription":null}
+{"fr":"saurer","kr":"알다","level":3,"transcription":null}
 {"fr":"phrase","kr":"문장","level":3,"transcription":null}
 {"fr":"navire","kr":"배","level":3,"transcription":null}
 {"fr":"cabinet","kr":"사무실","level":3,"transcription":null}
@@ -2251,7 +2251,7 @@
 {"fr":"fermé","kr":"농장","level":3,"transcription":null}
 {"fr":"fan","kr":"팬","level":3,"transcription":null}
 {"fr":"jugement","kr":"심판","level":3,"transcription":null}
-{"fr":"r","kr":"아르 자형","level":3,"transcription":null}
+{"fr":"r","kr":"~을 위한","level":3,"transcription":null}
 {"fr":"magazine","kr":"잡지","level":3,"transcription":null}
 {"fr":"estimer","kr":"추정","level":3,"transcription":null}
 {"fr":"renfort","kr":"보강","level":3,"transcription":null}
@@ -2341,7 +2341,7 @@
 {"fr":"gay","kr":"게이","level":3,"transcription":null}
 {"fr":"entraînement","kr":"훈련","level":3,"transcription":null}
 {"fr":"douer","kr":"선물","level":3,"transcription":null}
-{"fr":"réfléchi","kr":"인정 있는","level":3,"transcription":null}
+{"fr":"réfléchi","kr":"인정된","level":3,"transcription":null}
 {"fr":"fumée","kr":"연기","level":3,"transcription":null}
 {"fr":"plomb","kr":"선두","level":3,"transcription":null}
 {"fr":"expert","kr":"전문가","level":3,"transcription":null}
@@ -2372,7 +2372,7 @@
 {"fr":"étonnant","kr":"놀라운","level":3,"transcription":null}
 {"fr":"incendie","kr":"불","level":3,"transcription":null}
 {"fr":"âgé","kr":"나이","level":3,"transcription":null}
-{"fr":"semer","kr":"암퇘지","level":3,"transcription":null}
+{"fr":"semer","kr":"씨다","level":3,"transcription":null}
 {"fr":"sénateur","kr":"평의원","level":3,"transcription":null}
 {"fr":"paniquer","kr":"공황","level":3,"transcription":null}
 {"fr":"poison","kr":"독","level":3,"transcription":null}
@@ -2380,18 +2380,18 @@
 {"fr":"garantir","kr":"보장하다","level":3,"transcription":null}
 {"fr":"veine","kr":"정맥","level":3,"transcription":null}
 {"fr":"tempête","kr":"폭풍","level":3,"transcription":null}
-{"fr":"accusation","kr":"요금","level":3,"transcription":null}
+{"fr":"accusation","kr":"고발","level":3,"transcription":null}
 {"fr":"cloche","kr":"벨","level":3,"transcription":null}
 {"fr":"amen","kr":"아멘","level":3,"transcription":null}
 {"fr":"bandit","kr":"적기","level":3,"transcription":null}
 {"fr":"dévorer","kr":"삼키다","level":3,"transcription":null}
 {"fr":"drapeau","kr":"깃발","level":3,"transcription":null}
 {"fr":"détacher","kr":"분리하다","level":3,"transcription":null}
-{"fr":"bourse","kr":"소켓 교환 ","level":3,"transcription":null}
+{"fr":"bourse","kr":"소켓","level":3,"transcription":null}
 {"fr":"récompense","kr":"보상","level":3,"transcription":null}
 {"fr":"enquêter","kr":"조사하다","level":3,"transcription":null}
 {"fr":"mesurer","kr":"측정하다","level":3,"transcription":null}
-{"fr":"volant","kr":"나는","level":3,"transcription":null}
+{"fr":"volant","kr":"날개","level":3,"transcription":null}
 {"fr":"gris","kr":"회색","level":3,"transcription":null}
 {"fr":"solitude","kr":"고독","level":3,"transcription":null}
 {"fr":"empoisonner","kr":"독","level":3,"transcription":null}
@@ -2399,18 +2399,18 @@
 {"fr":"opéra","kr":"오페라","level":3,"transcription":null}
 {"fr":"chic","kr":"우아한","level":3,"transcription":null}
 {"fr":"commerce","kr":"거래","level":3,"transcription":null}
-{"fr":"puits","kr":"잘","level":3,"transcription":null}
-{"fr":"sincère","kr":"진실된","level":3,"transcription":null}
+{"fr":"puits","kr":"물터널","level":3,"transcription":null}
+{"fr":"sincère","kr":"진실한","level":3,"transcription":null}
 {"fr":"statue","kr":"동상","level":3,"transcription":null}
 {"fr":"cap","kr":"...곶","level":3,"transcription":null}
 {"fr":"sécher","kr":"마른","level":3,"transcription":null}
 {"fr":"meuble","kr":"가구","level":3,"transcription":null}
 {"fr":"empire","kr":"제국","level":3,"transcription":null}
-{"fr":"employer","kr":"사용","level":3,"transcription":null}
+{"fr":"employer","kr":"사용자","level":3,"transcription":null}
 {"fr":"pro","kr":"찬성","level":3,"transcription":null}
 {"fr":"hôte","kr":"주인","level":3,"transcription":null}
-{"fr":"régime","kr":"다이어트","level":3,"transcription":null}
-{"fr":"physique","kr":"물리학","level":3,"transcription":null}
+{"fr":"régime","kr":"규칙","level":3,"transcription":null}
+{"fr":"physique","kr":"물리","level":3,"transcription":null}
 {"fr":"passager","kr":"승객","level":3,"transcription":null}
 {"fr":"volontiers","kr":"기꺼이","level":3,"transcription":null}
 {"fr":"mouiller","kr":"젖은","level":3,"transcription":null}
@@ -2426,44 +2426,44 @@
 {"fr":"correct","kr":"옳은","level":3,"transcription":null}
 {"fr":"sauce","kr":"소스","level":3,"transcription":null}
 {"fr":"tunnel","kr":"터널","level":3,"transcription":null}
-{"fr":"déclencher","kr":"석방하다","level":3,"transcription":null}
+{"fr":"déclencher","kr":"실행하다","level":3,"transcription":null}
 {"fr":"drap","kr":"시트","level":3,"transcription":null}
 {"fr":"expression","kr":"표현","level":3,"transcription":null}
-{"fr":"conduite","kr":"지휘하다","level":3,"transcription":null}
+{"fr":"conduite","kr":"지휘","level":3,"transcription":null}
 {"fr":"surveillance","kr":"모니터링","level":3,"transcription":null}
-{"fr":"contrer","kr":"계수기","level":3,"transcription":null}
+{"fr":"contrer","kr":"반격","level":3,"transcription":null}
 {"fr":"illusion","kr":"환각","level":3,"transcription":null}
 {"fr":"scénario","kr":"대본","level":3,"transcription":null}
-{"fr":"union","kr":"노동 조합","level":3,"transcription":null}
+{"fr":"union","kr":"노동조합","level":3,"transcription":null}
 {"fr":"rideau","kr":"커튼","level":3,"transcription":null}
-{"fr":"communiquer","kr":"의사소통하다","level":3,"transcription":null}
+{"fr":"communiquer","kr":"의사소통","level":3,"transcription":null}
 {"fr":"territoire","kr":"지역","level":3,"transcription":null}
 {"fr":"nègre","kr":"흑인","level":3,"transcription":null}
 {"fr":"poésie","kr":"시","level":3,"transcription":null}
 {"fr":"tentative","kr":"시도","level":3,"transcription":null}
 {"fr":"nôtre","kr":"우리의","level":3,"transcription":null}
 {"fr":"profondément","kr":"깊이","level":3,"transcription":null}
-{"fr":"pénétrer","kr":"입력하다","level":3,"transcription":null}
+{"fr":"pénétrer","kr":"입력","level":3,"transcription":null}
 {"fr":"secouer","kr":"떨림","level":3,"transcription":null}
 {"fr":"renseignement","kr":"정보","level":3,"transcription":null}
-{"fr":"fréquenter","kr":"잦은","level":3,"transcription":null}
+{"fr":"fréquenter","kr":"잦은 방문","level":3,"transcription":null}
 {"fr":"cingler","kr":"핑","level":3,"transcription":null}
 {"fr":"franchir","kr":"십자가","level":3,"transcription":null}
 {"fr":"évanouir","kr":"희미한","level":3,"transcription":null}
-{"fr":"entretien","kr":"회견","level":3,"transcription":null}
-{"fr":"objectif","kr":"목적","level":3,"transcription":null}
+{"fr":"entretien","kr":"회의","level":3,"transcription":null}
+{"fr":"objectif","kr":"목표","level":3,"transcription":null}
 {"fr":"trente","kr":"삼십","level":3,"transcription":null}
-{"fr":"soutien","kr":"지원하다","level":3,"transcription":null}
+{"fr":"soutien","kr":"지원","level":3,"transcription":null}
 {"fr":"boucle","kr":"고리","level":3,"transcription":null}
 {"fr":"caractère","kr":"성격","level":3,"transcription":null}
-{"fr":"emballer","kr":"팩","level":3,"transcription":null}
+{"fr":"emballer","kr":"포장","level":3,"transcription":null}
 {"fr":"alliance","kr":"동맹","level":3,"transcription":null}
-{"fr":"hâte","kr":"서두름","level":3,"transcription":null}
+{"fr":"hâte","kr":"열망","level":3,"transcription":null}
 {"fr":"négocier","kr":"협상하다","level":3,"transcription":null}
-{"fr":"démolir","kr":"헐다","level":3,"transcription":null}
+{"fr":"démolir","kr":"파괴하다","level":3,"transcription":null}
 {"fr":"as","kr":"에이스","level":3,"transcription":null}
 {"fr":"jury","kr":"배심","level":3,"transcription":null}
-{"fr":"clinique","kr":"객관적인","level":3,"transcription":null}
+{"fr":"clinique","kr":"병원","level":3,"transcription":null}
 {"fr":"planquer","kr":"숨다","level":3,"transcription":null}
 {"fr":"barre","kr":"막대","level":3,"transcription":null}
 {"fr":"misère","kr":"불행","level":3,"transcription":null}
@@ -2482,7 +2482,7 @@
 {"fr":"canapé","kr":"침상","level":3,"transcription":null}
 {"fr":"boisson","kr":"음료","level":3,"transcription":null}
 {"fr":"laid","kr":"못생긴","level":3,"transcription":null}
-{"fr":"étrangler","kr":"목을 졸라 죽이다","level":3,"transcription":null}
+{"fr":"étrangler","kr":"목도끼를 휘두르다","level":3,"transcription":null}
 {"fr":"progrès","kr":"진전","level":3,"transcription":null}
 {"fr":"riz","kr":"쌀","level":3,"transcription":null}
 {"fr":"signature","kr":"서명","level":3,"transcription":null}
@@ -2499,7 +2499,7 @@
 {"fr":"personnellement","kr":"몸소","level":3,"transcription":null}
 {"fr":"défaut","kr":"기본","level":3,"transcription":null}
 {"fr":"loger","kr":"집","level":3,"transcription":null}
-{"fr":"messe","kr":"대량의","level":3,"transcription":null}
+{"fr":"messe","kr":"대량","level":3,"transcription":null}
 {"fr":"bougie","kr":"양초","level":3,"transcription":null}
 {"fr":"ivre","kr":"술 취한","level":3,"transcription":null}
 {"fr":"ouverture","kr":"열기","level":3,"transcription":null}
@@ -2584,14 +2584,14 @@
 {"fr":"capacité","kr":"능력","level":3,"transcription":null}
 {"fr":"bloc","kr":"차단하다","level":3,"transcription":null}
 {"fr":"éveiller","kr":"깨우다","level":3,"transcription":null}
-{"fr":"diplôme","kr":"졸업 증서","level":3,"transcription":null}
+{"fr":"diplôme","kr":"졸업증서","level":3,"transcription":null}
 {"fr":"mater","kr":"보다","level":3,"transcription":null}
 {"fr":"positif","kr":"긍정적인","level":3,"transcription":null}
 {"fr":"sensation","kr":"감각","level":3,"transcription":null}
 {"fr":"absolu","kr":"순수한","level":3,"transcription":null}
 {"fr":"humour","kr":"기분","level":3,"transcription":null}
 {"fr":"psy","kr":"심리학자","level":3,"transcription":null}
-{"fr":"cendre","kr":"금연 건강 증진 협회","level":3,"transcription":null}
+{"fr":"cendre","kr":"금연건강증진협회","level":3,"transcription":null}
 {"fr":"compliment","kr":"칭찬","level":3,"transcription":null}
 {"fr":"loyer","kr":"임차료","level":3,"transcription":null}
 {"fr":"entièrement","kr":"전적으로","level":3,"transcription":null}
@@ -2610,7 +2610,7 @@
 {"fr":"noce","kr":"혼례","level":3,"transcription":null}
 {"fr":"câble","kr":"케이블","level":3,"transcription":null}
 {"fr":"linge","kr":"리넨","level":3,"transcription":null}
-{"fr":"guère","kr":"거의 ~ 아니다","level":3,"transcription":null}
+{"fr":"guère","kr":"~ 아니다","level":3,"transcription":null}
 {"fr":"peintre","kr":"화가","level":3,"transcription":null}
 {"fr":"matière","kr":"문제","level":3,"transcription":null}
 {"fr":"rocher","kr":"바위","level":3,"transcription":null}
@@ -2621,7 +2621,7 @@
 {"fr":"peste","kr":"역병","level":3,"transcription":null}
 {"fr":"collection","kr":"수집","level":3,"transcription":null}
 {"fr":"automne","kr":"가을","level":3,"transcription":null}
-{"fr":"pencher","kr":"기대다","level":3,"transcription":null}
+{"fr":"pencher","kr":"기다","level":3,"transcription":null}
 {"fr":"personnalité","kr":"성격","level":3,"transcription":null}
 {"fr":"féminin","kr":"여성","level":3,"transcription":null}
 {"fr":"douceur","kr":"사탕","level":3,"transcription":null}
@@ -2698,17 +2698,17 @@
 {"fr":"tonne","kr":"톤","level":3,"transcription":null}
 {"fr":"mince","kr":"얇은","level":3,"transcription":null}
 {"fr":"réchauffer","kr":"따뜻한","level":3,"transcription":null}
-{"fr":"boucher","kr":"푸주한","level":3,"transcription":null}
+{"fr":"boucher","kr":"부처","level":3,"transcription":null}
 {"fr":"panique","kr":"공황","level":3,"transcription":null}
-{"fr":"sympathique","kr":"친숙한","level":3,"transcription":null}
+{"fr":"sympathique","kr":"친근한","level":3,"transcription":null}
 {"fr":"invisible","kr":"보이지 않는","level":3,"transcription":null}
 {"fr":"procédure","kr":"절차","level":3,"transcription":null}
-{"fr":"tricher","kr":"속이다","level":3,"transcription":null}
+{"fr":"tricher","kr":"속임수","level":3,"transcription":null}
 {"fr":"confondre","kr":"혼란스럽게 하다","level":3,"transcription":null}
 {"fr":"excitant","kr":"신나는","level":3,"transcription":null}
-{"fr":"remède","kr":"치료","level":3,"transcription":null}
+{"fr":"remède","kr":"치료제","level":3,"transcription":null}
 {"fr":"agneau","kr":"양고기","level":3,"transcription":null}
-{"fr":"marrer","kr":"웃다","level":3,"transcription":null}
+{"fr":"marrer","kr":"마르다","level":3,"transcription":null}
 {"fr":"témoignage","kr":"고백","level":3,"transcription":null}
 {"fr":"cité","kr":"인용됨","level":3,"transcription":null}
 {"fr":"pose","kr":"누워","level":3,"transcription":null}
@@ -2728,13 +2728,13 @@
 {"fr":"rage","kr":"격노","level":3,"transcription":null}
 {"fr":"dégoûtant","kr":"역겨운","level":3,"transcription":null}
 {"fr":"chevalier","kr":"기사","level":3,"transcription":null}
-{"fr":"impressionnant","kr":"인상적인","level":3,"transcription":null}
-{"fr":"cuisinier","kr":"요리하다","level":3,"transcription":null}
-{"fr":"fragile","kr":"부서지기 쉬운","level":3,"transcription":null}
+{"fr":"impressionnant","kr":"인기작","level":3,"transcription":null}
+{"fr":"cuisinier","kr":"요리사","level":3,"transcription":null}
+{"fr":"fragile","kr":"약한","level":3,"transcription":null}
 {"fr":"saucisse","kr":"소시지","level":3,"transcription":null}
 {"fr":"tremper","kr":"담그다","level":3,"transcription":null}
-{"fr":"grève","kr":"스트라이크","level":3,"transcription":null}
-{"fr":"tendresse","kr":"유연함","level":3,"transcription":null}
+{"fr":"grève","kr":"강원","level":3,"transcription":null}
+{"fr":"tendresse","kr":"애정","level":3,"transcription":null}
 {"fr":"trait","kr":"선","level":3,"transcription":null}
 {"fr":"ravissant","kr":"사랑스러운","level":3,"transcription":null}
 {"fr":"abîmer","kr":"손상","level":3,"transcription":null}
@@ -2752,20 +2752,20 @@
 {"fr":"électricité","kr":"전기","level":3,"transcription":null}
 {"fr":"déborder","kr":"과다","level":3,"transcription":null}
 {"fr":"difficulté","kr":"어려움","level":3,"transcription":null}
-{"fr":"uns","kr":"일부","level":3,"transcription":null}
+{"fr":"uns","kr":"~이다","level":3,"transcription":null}
 {"fr":"vachement","kr":"정말","level":3,"transcription":null}
 {"fr":"curé","kr":"치유법","level":3,"transcription":null}
 {"fr":"féliciter","kr":"축하하다","level":3,"transcription":null}
 {"fr":"panier","kr":"바구니","level":3,"transcription":null}
 {"fr":"pouce","kr":"무지","level":3,"transcription":null}
 {"fr":"caresser","kr":"애무","level":3,"transcription":null}
-{"fr":"galerie","kr":"갱도","level":3,"transcription":null}
-{"fr":"temple","kr":"절","level":3,"transcription":null}
-{"fr":"tissu","kr":"구조","level":3,"transcription":null}
+{"fr":"galerie","kr":"갤러리","level":3,"transcription":null}
+{"fr":"temple","kr":"전당","level":3,"transcription":null}
+{"fr":"tissu","kr":"신선한","level":3,"transcription":null}
 {"fr":"braquer","kr":"털다","level":3,"transcription":null}
 {"fr":"population","kr":"인구","level":3,"transcription":null}
 {"fr":"température","kr":"온도","level":3,"transcription":null}
-{"fr":"dominer","kr":"빼어나게 솟다","level":3,"transcription":null}
+{"fr":"dominer","kr":"통솔하다","level":3,"transcription":null}
 {"fr":"familial","kr":"가족","level":3,"transcription":null}
 {"fr":"habituel","kr":"평소","level":3,"transcription":null}
 {"fr":"allumette","kr":"성냥","level":3,"transcription":null}
@@ -2790,9 +2790,9 @@
 {"fr":"botter","kr":"차기","level":3,"transcription":null}
 {"fr":"département","kr":"부서","level":3,"transcription":null}
 {"fr":"soupçon","kr":"의심","level":3,"transcription":null}
-{"fr":"religieux","kr":"종교의","level":3,"transcription":null}
+{"fr":"religieux","kr":"종교적","level":3,"transcription":null}
 {"fr":"nucléaire","kr":"핵무기","level":3,"transcription":null}
-{"fr":"parcourir","kr":"먹다","level":3,"transcription":null}
+{"fr":"parcourir","kr":"여행하다","level":3,"transcription":null}
 {"fr":"filet","kr":"그물","level":3,"transcription":null}
 {"fr":"four","kr":"오븐","level":3,"transcription":null}
 {"fr":"boiter","kr":"절름발이","level":3,"transcription":null}
@@ -2879,8 +2879,8 @@
 {"fr":"pratiquement","kr":"거의","level":3,"transcription":null}
 {"fr":"ceux-là","kr":"저것들","level":3,"transcription":null}
 {"fr":"tiroir","kr":"서랍","level":3,"transcription":null}
-{"fr":"agiter","kr":"떨림","level":3,"transcription":null}
-{"fr":"dignité","kr":"위엄","level":3,"transcription":null}
+{"fr":"agiter","kr":"흔들다","level":3,"transcription":null}
+{"fr":"dignité","kr":"존엄성","level":3,"transcription":null}
 {"fr":"larguer","kr":"버리다","level":3,"transcription":null}
 {"fr":"préserver","kr":"보존하다","level":3,"transcription":null}
 {"fr":"machin","kr":"물건","level":3,"transcription":null}
@@ -2909,14 +2909,14 @@
 {"fr":"auberge","kr":"숙박소","level":3,"transcription":null}
 {"fr":"profil","kr":"윤곽","level":3,"transcription":null}
 {"fr":"complice","kr":"공범자","level":3,"transcription":null}
-{"fr":"consoler","kr":"콘솔","level":3,"transcription":null}
-{"fr":"figurer","kr":"수치","level":3,"transcription":null}
-{"fr":"réseau","kr":"회로망","level":3,"transcription":null}
+{"fr":"consoler","kr":"안아주다","level":3,"transcription":null}
+{"fr":"figurer","kr":"출현하다","level":3,"transcription":null}
+{"fr":"réseau","kr":"네트워크","level":3,"transcription":null}
 {"fr":"chariot","kr":"카트","level":3,"transcription":null}
-{"fr":"formation","kr":"훈련","level":3,"transcription":null}
+{"fr":"formation","kr":"교육","level":3,"transcription":null}
 {"fr":"logique","kr":"논리","level":3,"transcription":null}
 {"fr":"marge","kr":"여유","level":3,"transcription":null}
-{"fr":"plier","kr":"만곡부","level":3,"transcription":null}
+{"fr":"plier","kr":"만곡하다","level":3,"transcription":null}
 {"fr":"mélanger","kr":"혼합","level":3,"transcription":null}
 {"fr":"métal","kr":"금속","level":3,"transcription":null}
 {"fr":"touriste","kr":"관광객","level":3,"transcription":null}
@@ -2941,7 +2941,7 @@
 {"fr":"batterie","kr":"배터리","level":3,"transcription":null}
 {"fr":"muet","kr":"무음","level":3,"transcription":null}
 {"fr":"dégât","kr":"손상","level":3,"transcription":null}
-{"fr":"lame","kr":"잎","level":3,"transcription":null}
+{"fr":"lame","kr":"날개","level":3,"transcription":null}
 {"fr":"prostitué","kr":"매춘부","level":3,"transcription":null}
 {"fr":"sienne","kr":"그의","level":3,"transcription":null}
 {"fr":"griller","kr":"그릴","level":3,"transcription":null}
@@ -2968,8 +2968,8 @@
 {"fr":"tonton","kr":"삼촌","level":3,"transcription":null}
 {"fr":"trafic","kr":"교통","level":3,"transcription":null}
 {"fr":"curiosité","kr":"호기심","level":3,"transcription":null}
-{"fr":"quai","kr":"독","level":3,"transcription":null}
-{"fr":"yeah","kr":"응","level":3,"transcription":null}
+{"fr":"quai","kr":"거리","level":3,"transcription":null}
+{"fr":"yeah","kr":"아니요","level":3,"transcription":null}
 {"fr":"suspendre","kr":"유예하다","level":3,"transcription":null}
 {"fr":"dragon","kr":"용","level":3,"transcription":null}
 {"fr":"écrouler","kr":"무너지다","level":3,"transcription":null}
@@ -3030,7 +3030,7 @@
 {"fr":"écriture","kr":"글쓰기","level":4,"transcription":null}
 {"fr":"désordre","kr":"엉망","level":4,"transcription":null}
 {"fr":"thérapie","kr":"요법","level":4,"transcription":null}
-{"fr":"arabe","kr":"아라비아 사람","level":4,"transcription":null}
+{"fr":"arabe","kr":"아라비아어","level":4,"transcription":null}
 {"fr":"casse","kr":"고장난","level":4,"transcription":null}
 {"fr":"poignée","kr":"핸들","level":4,"transcription":null}
 {"fr":"fierté","kr":"자부심","level":4,"transcription":null}
@@ -3041,7 +3041,7 @@
 {"fr":"brique","kr":"벽돌","level":4,"transcription":null}
 {"fr":"choquer","kr":"충격","level":4,"transcription":null}
 {"fr":"déesse","kr":"여신","level":4,"transcription":null}
-{"fr":"mairie","kr":"시청","level":4,"transcription":null}
+{"fr":"mairie","kr":"시청소장","level":4,"transcription":null}
 {"fr":"vedette","kr":"특집","level":4,"transcription":null}
 {"fr":"surpris","kr":"놀란","level":4,"transcription":null}
 {"fr":"vallée","kr":"골짜기","level":4,"transcription":null}
@@ -3060,10 +3060,10 @@
 {"fr":"boss","kr":"사장","level":4,"transcription":null}
 {"fr":"bracelet","kr":"팔찌","level":4,"transcription":null}
 {"fr":"supprimer","kr":"삭제","level":4,"transcription":null}
-{"fr":"adapter","kr":"적응하다","level":4,"transcription":null}
+{"fr":"adapter","kr":"적응기","level":4,"transcription":null}
 {"fr":"plastique","kr":"플라스틱","level":4,"transcription":null}
 {"fr":"pneu","kr":"타이어","level":4,"transcription":null}
-{"fr":"endormi","kr":"죽어","level":4,"transcription":null}
+{"fr":"endormi","kr":"자고","level":4,"transcription":null}
 {"fr":"pull","kr":"스웨터","level":4,"transcription":null}
 {"fr":"satellite","kr":"위성","level":4,"transcription":null}
 {"fr":"administration","kr":"관리","level":4,"transcription":null}
@@ -3183,10 +3183,10 @@
 {"fr":"ancêtre","kr":"선조","level":4,"transcription":null}
 {"fr":"casino","kr":"카지노","level":4,"transcription":null}
 {"fr":"rempli","kr":"완전한","level":4,"transcription":null}
-{"fr":"cuisse","kr":"대퇴골","level":4,"transcription":null}
+{"fr":"cuisse","kr":"대퇴부","level":4,"transcription":null}
 {"fr":"doué","kr":"재능이 있는","level":4,"transcription":null}
 {"fr":"détenir","kr":"소유하다","level":4,"transcription":null}
-{"fr":"maigre","kr":"정보","level":4,"transcription":null}
+{"fr":"maigre","kr":"미그레","level":4,"transcription":null}
 {"fr":"biscuit","kr":"비스킷","level":4,"transcription":null}
 {"fr":"branler","kr":"멍청이","level":4,"transcription":null}
 {"fr":"leader","kr":"지도자","level":4,"transcription":null}
@@ -3209,34 +3209,34 @@
 {"fr":"aborder","kr":"착륙하다","level":4,"transcription":null}
 {"fr":"formule","kr":"공식","level":4,"transcription":null}
 {"fr":"racine","kr":"뿌리","level":4,"transcription":null}
-{"fr":"destiner","kr":"목적지","level":4,"transcription":null}
-{"fr":"frotter","kr":"장애","level":4,"transcription":null}
-{"fr":"fâché","kr":"화난","level":4,"transcription":null}
+{"fr":"destiner","kr":"결정하다","level":4,"transcription":null}
+{"fr":"frotter","kr":"마찰","level":4,"transcription":null}
+{"fr":"fâché","kr":"분노한","level":4,"transcription":null}
 {"fr":"industrie","kr":"산업","level":4,"transcription":null}
 {"fr":"matinée","kr":"아침","level":4,"transcription":null}
 {"fr":"chômage","kr":"실업","level":4,"transcription":null}
-{"fr":"économiser","kr":"구하다","level":4,"transcription":null}
+{"fr":"économiser","kr":"지출하다","level":4,"transcription":null}
 {"fr":"by","kr":"~에 의해","level":4,"transcription":null}
 {"fr":"coq","kr":"수탉","level":4,"transcription":null}
 {"fr":"découverte","kr":"발견","level":4,"transcription":null}
-{"fr":"plaquer","kr":"태클","level":4,"transcription":null}
+{"fr":"plaquer","kr":"타격","level":4,"transcription":null}
 {"fr":"civilisation","kr":"문명","level":4,"transcription":null}
 {"fr":"humble","kr":"겸손한","level":4,"transcription":null}
 {"fr":"récent","kr":"최근의","level":4,"transcription":null}
 {"fr":"duc","kr":"공작","level":4,"transcription":null}
 {"fr":"pris","kr":"찍은","level":4,"transcription":null}
-{"fr":"baignoire","kr":"목욕통","level":4,"transcription":null}
+{"fr":"baignoire","kr":"욕실","level":4,"transcription":null}
 {"fr":"rétablir","kr":"복원하다","level":4,"transcription":null}
 {"fr":"ambiance","kr":"대기","level":4,"transcription":null}
-{"fr":"baisse","kr":"떨어지다","level":4,"transcription":null}
-{"fr":"cinglé","kr":"미친","level":4,"transcription":null}
+{"fr":"baisse","kr":"감소","level":4,"transcription":null}
+{"fr":"cinglé","kr":"고립된","level":4,"transcription":null}
 {"fr":"héritage","kr":"유산","level":4,"transcription":null}
 {"fr":"exposition","kr":"노출","level":4,"transcription":null}
-{"fr":"flatter","kr":"즐겁게 하다","level":4,"transcription":null}
+{"fr":"flatter","kr":"경청받다","level":4,"transcription":null}
 {"fr":"prophète","kr":"예언자","level":4,"transcription":null}
 {"fr":"manipuler","kr":"조종하다","level":4,"transcription":null}
 {"fr":"chrétien","kr":"신자","level":4,"transcription":null}
-{"fr":"mannequin","kr":"모델 ","level":4,"transcription":null}
+{"fr":"mannequin","kr":"모델","level":4,"transcription":null}
 {"fr":"option","kr":"옵션","level":4,"transcription":null}
 {"fr":"certificat","kr":"자격증","level":4,"transcription":null}
 {"fr":"défaire","kr":"끄르다","level":4,"transcription":null}
@@ -3299,7 +3299,7 @@
 {"fr":"clope","kr":"담배","level":4,"transcription":null}
 {"fr":"hériter","kr":"상속하다","level":4,"transcription":null}
 {"fr":"nan","kr":"아냐","level":4,"transcription":null}
-{"fr":"coopérer","kr":"맞잡다","level":4,"transcription":null}
+{"fr":"coopérer","kr":"협조하다","level":4,"transcription":null}
 {"fr":"onde","kr":"파도","level":4,"transcription":null}
 {"fr":"chiant","kr":"귀찮은","level":4,"transcription":null}
 {"fr":"intact","kr":"손대지 않은","level":4,"transcription":null}
@@ -3328,20 +3328,20 @@
 {"fr":"vieillard","kr":"노인","level":4,"transcription":null}
 {"fr":"sublime","kr":"숭고한","level":4,"transcription":null}
 {"fr":"mâle","kr":"남성","level":4,"transcription":null}
-{"fr":"talon","kr":"힐","level":4,"transcription":null}
+{"fr":"talon","kr":"발톱","level":4,"transcription":null}
 {"fr":"sueur","kr":"땀","level":4,"transcription":null}
-{"fr":"domicile","kr":"거주","level":4,"transcription":null}
-{"fr":"fatal","kr":"치명적인","level":4,"transcription":null}
+{"fr":"domicile","kr":"집","level":4,"transcription":null}
+{"fr":"fatal","kr":"사망한","level":4,"transcription":null}
 {"fr":"quoique","kr":"그렇지만","level":4,"transcription":null}
 {"fr":"ronger","kr":"시달리게 하다","level":4,"transcription":null}
 {"fr":"grenade","kr":"수류탄","level":4,"transcription":null}
 {"fr":"amateur","kr":"아마추어","level":4,"transcription":null}
-{"fr":"interrogatoire","kr":"시험","level":4,"transcription":null}
+{"fr":"interrogatoire","kr":"질문","level":4,"transcription":null}
 {"fr":"anonyme","kr":"익명의","level":4,"transcription":null}
 {"fr":"menotte","kr":"수갑","level":4,"transcription":null}
 {"fr":"allié","kr":"동맹국","level":4,"transcription":null}
-{"fr":"audition","kr":"듣기","level":4,"transcription":null}
-{"fr":"caravane","kr":"대상","level":4,"transcription":null}
+{"fr":"audition","kr":"청취","level":4,"transcription":null}
+{"fr":"caravane","kr":"차량","level":4,"transcription":null}
 {"fr":"comté","kr":"군","level":4,"transcription":null}
 {"fr":"essentiel","kr":"필수적인","level":4,"transcription":null}
 {"fr":"fascinant","kr":"매력적인","level":4,"transcription":null}
@@ -3357,9 +3357,9 @@
 {"fr":"potion","kr":"물약","level":4,"transcription":null}
 {"fr":"répugnant","kr":"지겨운","level":4,"transcription":null}
 {"fr":"collège","kr":"대학","level":4,"transcription":null}
-{"fr":"culpabilité","kr":"죄","level":4,"transcription":null}
-{"fr":"tribu","kr":"부족","level":4,"transcription":null}
-{"fr":"évoquer","kr":"일깨우다","level":4,"transcription":null}
+{"fr":"culpabilité","kr":"죄책감","level":4,"transcription":null}
+{"fr":"tribu","kr":"집단","level":4,"transcription":null}
+{"fr":"évoquer","kr":"상상력","level":4,"transcription":null}
 {"fr":"mafia","kr":"마피아","level":4,"transcription":null}
 {"fr":"orgueil","kr":"자부심","level":4,"transcription":null}
 {"fr":"jadis","kr":"전에","level":4,"transcription":null}
@@ -3418,17 +3418,17 @@
 {"fr":"élire","kr":"선택된","level":4,"transcription":null}
 {"fr":"taux","kr":"비율","level":4,"transcription":null}
 {"fr":"budget","kr":"예산","level":4,"transcription":null}
-{"fr":"périr","kr":"몹시 괴롭히다","level":4,"transcription":null}
-{"fr":"limiter","kr":"얽매다","level":4,"transcription":null}
-{"fr":"reportage","kr":"보고","level":4,"transcription":null}
-{"fr":"ambition","kr":"큰 뜻","level":4,"transcription":null}
+{"fr":"périr","kr":"죽다","level":4,"transcription":null}
+{"fr":"limiter","kr":"제한하다","level":4,"transcription":null}
+{"fr":"reportage","kr":"보도","level":4,"transcription":null}
+{"fr":"ambition","kr":"목표","level":4,"transcription":null}
 {"fr":"aveu","kr":"고백","level":4,"transcription":null}
 {"fr":"bénédiction","kr":"축복","level":4,"transcription":null}
 {"fr":"concierge","kr":"관리인","level":4,"transcription":null}
 {"fr":"création","kr":"창조","level":4,"transcription":null}
 {"fr":"menu","kr":"메뉴","level":4,"transcription":null}
 {"fr":"banane","kr":"바나나","level":4,"transcription":null}
-{"fr":"maquiller","kr":"조립","level":4,"transcription":null}
+{"fr":"maquiller","kr":"화장하다","level":4,"transcription":null}
 {"fr":"sous-marin","kr":"잠수함","level":4,"transcription":null}
 {"fr":"alibi","kr":"구실","level":4,"transcription":null}
 {"fr":"logement","kr":"숙소","level":4,"transcription":null}
@@ -3441,18 +3441,18 @@
 {"fr":"correctement","kr":"바르게","level":4,"transcription":null}
 {"fr":"dizaine","kr":"열","level":4,"transcription":null}
 {"fr":"transfert","kr":"옮기다","level":4,"transcription":null}
-{"fr":"obscur","kr":"애매하게 하다","level":4,"transcription":null}
-{"fr":"délai","kr":"사선","level":4,"transcription":null}
+{"fr":"obscur","kr":"어둡게 하다","level":4,"transcription":null}
+{"fr":"délai","kr":"기간","level":4,"transcription":null}
 {"fr":"quitte","kr":"나뭇잎","level":4,"transcription":null}
-{"fr":"recouvrir","kr":"씌우다","level":4,"transcription":null}
-{"fr":"retomber","kr":"뒤로 물러나다","level":4,"transcription":null}
+{"fr":"recouvrir","kr":"덮다","level":4,"transcription":null}
+{"fr":"retomber","kr":"떨어뜨리다","level":4,"transcription":null}
 {"fr":"champignon","kr":"버섯","level":4,"transcription":null}
-{"fr":"contrarier","kr":"짜증나게 하다","level":4,"transcription":null}
+{"fr":"contrarier","kr":"반대하다","level":4,"transcription":null}
 {"fr":"poursuite","kr":"추구","level":4,"transcription":null}
 {"fr":"confus","kr":"혼란스러운","level":4,"transcription":null}
 {"fr":"financier","kr":"재정적인","level":4,"transcription":null}
 {"fr":"peso","kr":"페소","level":4,"transcription":null}
-{"fr":"romain","kr":"로마 인","level":4,"transcription":null}
+{"fr":"romain","kr":"로마인","level":4,"transcription":null}
 {"fr":"grille","kr":"그리드","level":4,"transcription":null}
 {"fr":"chameau","kr":"낙다","level":4,"transcription":null}
 {"fr":"probable","kr":"~할 것 같은","level":4,"transcription":null}
@@ -3479,7 +3479,7 @@
 {"fr":"convoquer","kr":"소집하다","level":4,"transcription":null}
 {"fr":"pétrin","kr":"반죽기","level":4,"transcription":null}
 {"fr":"brouillard","kr":"안개","level":4,"transcription":null}
-{"fr":"caution","kr":"보증금","level":4,"transcription":null}
+{"fr":"caution","kr":"보조금","level":4,"transcription":null}
 {"fr":"destination","kr":"목적지","level":4,"transcription":null}
 {"fr":"messager","kr":"전령","level":4,"transcription":null}
 {"fr":"t-shirt","kr":"티셔츠","level":4,"transcription":null}
@@ -3539,38 +3539,38 @@
 {"fr":"bonhomme","kr":"좋은 사람","level":4,"transcription":null}
 {"fr":"grossir","kr":"커지다","level":4,"transcription":null}
 {"fr":"perle","kr":"진주","level":4,"transcription":null}
-{"fr":"refroidir","kr":"시원한","level":4,"transcription":null}
-{"fr":"rex","kr":"렉스","level":4,"transcription":null}
+{"fr":"refroidir","kr":"냉각하다","level":4,"transcription":null}
+{"fr":"rex","kr":"왕","level":4,"transcription":null}
 {"fr":"terrasse","kr":"테라스","level":4,"transcription":null}
-{"fr":"attrape","kr":"잡았다","level":4,"transcription":null}
+{"fr":"attrape","kr":"잡는 것","level":4,"transcription":null}
 {"fr":"égarer","kr":"잘못 놓다","level":4,"transcription":null}
 {"fr":"balcon","kr":"발코니","level":4,"transcription":null}
-{"fr":"effectuer","kr":"공연하다","level":4,"transcription":null}
-{"fr":"chimique","kr":"화학적인","level":4,"transcription":null}
+{"fr":"effectuer","kr":"실시하다","level":4,"transcription":null}
+{"fr":"chimique","kr":"화학적","level":4,"transcription":null}
 {"fr":"sensé","kr":"현명한","level":4,"transcription":null}
-{"fr":"tourmenter","kr":"고통","level":4,"transcription":null}
+{"fr":"tourmenter","kr":"고통을 주는 것","level":4,"transcription":null}
 {"fr":"insulte","kr":"모욕","level":4,"transcription":null}
 {"fr":"jet","kr":"제트기","level":4,"transcription":null}
 {"fr":"tracer","kr":"추적하다","level":4,"transcription":null}
-{"fr":"brûlant","kr":"타고 있는","level":4,"transcription":null}
+{"fr":"brûlant","kr":"불타는 것","level":4,"transcription":null}
 {"fr":"coupure","kr":"절단","level":4,"transcription":null}
 {"fr":"horloge","kr":"시계","level":4,"transcription":null}
 {"fr":"sir","kr":"선생님","level":4,"transcription":null}
 {"fr":"taré","kr":"살갈퀴","level":4,"transcription":null}
-{"fr":"caché","kr":"숨겨진","level":4,"transcription":null}
+{"fr":"caché","kr":"숨겨진 것","level":4,"transcription":null}
 {"fr":"resto","kr":"식당","level":4,"transcription":null}
 {"fr":"coiffure","kr":"헤어스타일","level":4,"transcription":null}
 {"fr":"coutume","kr":"관습","level":4,"transcription":null}
-{"fr":"fiche","kr":"형태","level":4,"transcription":null}
+{"fr":"fiche","kr":"표지","level":4,"transcription":null}
 {"fr":"pharmacie","kr":"약국","level":4,"transcription":null}
 {"fr":"complot","kr":"음모","level":4,"transcription":null}
-{"fr":"habillé","kr":"옷을 입고","level":4,"transcription":null}
+{"fr":"habillé","kr":"옷을 입은 것","level":4,"transcription":null}
 {"fr":"inconscient","kr":"무의식","level":4,"transcription":null}
 {"fr":"majeur","kr":"주요한","level":4,"transcription":null}
 {"fr":"référence","kr":"참조","level":4,"transcription":null}
 {"fr":"errer","kr":"떠돌다","level":4,"transcription":null}
 {"fr":"situer","kr":"위치하고 있다","level":4,"transcription":null}
-{"fr":"gangster","kr":"갱 단원","level":4,"transcription":null}
+{"fr":"gangster","kr":"","level":4,"transcription":null}
 {"fr":"lesquels","kr":"어느","level":4,"transcription":null}
 {"fr":"dépression","kr":"우울증","level":4,"transcription":null}
 {"fr":"officiellement","kr":"공무상","level":4,"transcription":null}
@@ -3600,30 +3600,30 @@
 {"fr":"gênant","kr":"당혹스러운","level":4,"transcription":null}
 {"fr":"migraine","kr":"편두통","level":4,"transcription":null}
 {"fr":"philosophie","kr":"철학","level":4,"transcription":null}
-{"fr":"vaste","kr":"대단한","level":4,"transcription":null}
+{"fr":"vaste","kr":"큰","level":4,"transcription":null}
 {"fr":"interdit","kr":"금지된","level":4,"transcription":null}
-{"fr":"cultiver","kr":"기르다","level":4,"transcription":null}
-{"fr":"quantité","kr":"수량","level":4,"transcription":null}
+{"fr":"cultiver","kr":"재배","level":4,"transcription":null}
+{"fr":"quantité","kr":"양","level":4,"transcription":null}
 {"fr":"compromettre","kr":"타협","level":4,"transcription":null}
 {"fr":"infiniment","kr":"무한히","level":4,"transcription":null}
 {"fr":"flot","kr":"흐름","level":4,"transcription":null}
-{"fr":"manifester","kr":"명백한","level":4,"transcription":null}
+{"fr":"manifester","kr":"표시","level":4,"transcription":null}
 {"fr":"cocktail","kr":"칵테일","level":4,"transcription":null}
 {"fr":"jeton","kr":"토큰","level":4,"transcription":null}
-{"fr":"fidélité","kr":"충의","level":4,"transcription":null}
-{"fr":"précaution","kr":"예방법","level":4,"transcription":null}
+{"fr":"fidélité","kr":"신뢰","level":4,"transcription":null}
+{"fr":"précaution","kr":"주의","level":4,"transcription":null}
 {"fr":"selle","kr":"안장","level":4,"transcription":null}
 {"fr":"frein","kr":"브레이크","level":4,"transcription":null}
 {"fr":"obligé","kr":"고마운","level":4,"transcription":null}
 {"fr":"quête","kr":"탐구","level":4,"transcription":null}
-{"fr":"wagon","kr":"자동차","level":4,"transcription":null}
+{"fr":"wagon","kr":"차량","level":4,"transcription":null}
 {"fr":"arrangement","kr":"준비","level":4,"transcription":null}
 {"fr":"assistance","kr":"보조","level":4,"transcription":null}
 {"fr":"ci","kr":"여기","level":4,"transcription":null}
 {"fr":"circuit","kr":"회로","level":4,"transcription":null}
 {"fr":"hache","kr":"도끼","level":4,"transcription":null}
 {"fr":"inhabituel","kr":"특이한","level":4,"transcription":null}
-{"fr":"média","kr":"메디아","level":4,"transcription":null}
+{"fr":"média","kr":"매체","level":4,"transcription":null}
 {"fr":"soda","kr":"소다","level":4,"transcription":null}
 {"fr":"caporal","kr":"상등병","level":4,"transcription":null}
 {"fr":"cristal","kr":"결정","level":4,"transcription":null}
@@ -3659,15 +3659,15 @@
 {"fr":"domestique","kr":"국내의","level":4,"transcription":null}
 {"fr":"fusée","kr":"로켓","level":4,"transcription":null}
 {"fr":"stable","kr":"안정적인","level":4,"transcription":null}
-{"fr":"débuter","kr":"시작","level":4,"transcription":null}
+{"fr":"débuter","kr":"시작하다","level":4,"transcription":null}
 {"fr":"quelconque","kr":"어느","level":4,"transcription":null}
 {"fr":"uni","kr":"연합된","level":4,"transcription":null}
 {"fr":"disparu","kr":"사라졌다","level":4,"transcription":null}
 {"fr":"serrure","kr":"잠그다","level":4,"transcription":null}
-{"fr":"spécialité","kr":"전문","level":4,"transcription":null}
-{"fr":"désigner","kr":"디자이너","level":4,"transcription":null}
-{"fr":"explosif","kr":"폭발물","level":4,"transcription":null}
-{"fr":"inquiétude","kr":"걱정하다","level":4,"transcription":null}
+{"fr":"spécialité","kr":"전문성","level":4,"transcription":null}
+{"fr":"désigner","kr":"지시하다","level":4,"transcription":null}
+{"fr":"explosif","kr":"폭발적","level":4,"transcription":null}
+{"fr":"inquiétude","kr":"걱정","level":4,"transcription":null}
 {"fr":"académie","kr":"학원","level":4,"transcription":null}
 {"fr":"caillou","kr":"다루기 완고한 동물","level":4,"transcription":null}
 {"fr":"paye","kr":"유급의","level":4,"transcription":null}
@@ -3681,21 +3681,21 @@
 {"fr":"auquel","kr":"어느쪽으로","level":4,"transcription":null}
 {"fr":"eux-mêmes","kr":"그들 자신","level":4,"transcription":null}
 {"fr":"infecter","kr":"감염시키다","level":4,"transcription":null}
-{"fr":"récompenser","kr":"보상","level":4,"transcription":null}
+{"fr":"récompenser","kr":"보상하다","level":4,"transcription":null}
 {"fr":"k","kr":"케이","level":4,"transcription":null}
 {"fr":"profession","kr":"직업","level":4,"transcription":null}
 {"fr":"financer","kr":"재원","level":4,"transcription":null}
 {"fr":"municipal","kr":"지방 자치 단체","level":4,"transcription":null}
-{"fr":"progresser","kr":"진전","level":4,"transcription":null}
+{"fr":"progresser","kr":"진전하다","level":4,"transcription":null}
 {"fr":"baptiser","kr":"세례를 주다","level":4,"transcription":null}
 {"fr":"hall","kr":"로비","level":4,"transcription":null}
-{"fr":"insinuer","kr":"스며들게 하다","level":4,"transcription":null}
-{"fr":"mélange","kr":"혼합하다","level":4,"transcription":null}
+{"fr":"insinuer","kr":"숨겨서 말하다","level":4,"transcription":null}
+{"fr":"mélange","kr":"혼합","level":4,"transcription":null}
 {"fr":"capter","kr":"포착","level":4,"transcription":null}
-{"fr":"mûr","kr":"벽","level":4,"transcription":null}
+{"fr":"mûr","kr":"숙련된","level":4,"transcription":null}
 {"fr":"poignard","kr":"단검","level":4,"transcription":null}
 {"fr":"récit","kr":"이야기","level":4,"transcription":null}
-{"fr":"amical","kr":"친숙한","level":4,"transcription":null}
+{"fr":"amical","kr":"친근한","level":4,"transcription":null}
 {"fr":"maillot","kr":"저지","level":4,"transcription":null}
 {"fr":"cafard","kr":"바퀴벌레","level":4,"transcription":null}
 {"fr":"mèche","kr":"등심","level":4,"transcription":null}
@@ -3705,7 +3705,7 @@
 {"fr":"euro","kr":"유로","level":4,"transcription":null}
 {"fr":"agressif","kr":"공격적인","level":4,"transcription":null}
 {"fr":"bourreau","kr":"실행자","level":4,"transcription":null}
-{"fr":"récolte","kr":"수확하다","level":4,"transcription":null}
+{"fr":"récolte","kr":"수확","level":4,"transcription":null}
 {"fr":"brutal","kr":"잔인한","level":4,"transcription":null}
 {"fr":"extraterrestre","kr":"외계인","level":4,"transcription":null}
 {"fr":"gueuler","kr":"멀리서 짖는 소리","level":4,"transcription":null}
@@ -3719,35 +3719,35 @@
 {"fr":"têtu","kr":"고집스러운","level":4,"transcription":null}
 {"fr":"aviser","kr":"권하다","level":4,"transcription":null}
 {"fr":"immédiat","kr":"즉각적인","level":4,"transcription":null}
-{"fr":"porno","kr":"포르노","level":4,"transcription":null}
+{"fr":"porno","kr":"성적 콘텐츠","level":4,"transcription":null}
 {"fr":"remise","kr":"할인","level":4,"transcription":null}
 {"fr":"liquider","kr":"청산하다","level":4,"transcription":null}
 {"fr":"soulier","kr":"구두","level":4,"transcription":null}
-{"fr":"achat","kr":"구입","level":4,"transcription":null}
+{"fr":"achat","kr":"구매","level":4,"transcription":null}
 {"fr":"entrepôt","kr":"창고","level":4,"transcription":null}
 {"fr":"funérailles","kr":"장례식","level":4,"transcription":null}
-{"fr":"mars","kr":"3월","level":4,"transcription":null}
-{"fr":"projeter","kr":"프로젝트","level":4,"transcription":null}
+{"fr":"mars","kr":"3 월","level":4,"transcription":null}
+{"fr":"projeter","kr":"던지기","level":4,"transcription":null}
 {"fr":"señor","kr":"노인","level":4,"transcription":null}
 {"fr":"fondation","kr":"기반","level":4,"transcription":null}
-{"fr":"casquette","kr":"캡","level":4,"transcription":null}
-{"fr":"culot","kr":"볼","level":4,"transcription":null}
-{"fr":"formulaire","kr":"형태","level":4,"transcription":null}
-{"fr":"col","kr":"칼라","level":4,"transcription":null}
+{"fr":"casquette","kr":"모자","level":4,"transcription":null}
+{"fr":"culot","kr":"바지통","level":4,"transcription":null}
+{"fr":"formulaire","kr":"표시판","level":4,"transcription":null}
+{"fr":"col","kr":"색깔","level":4,"transcription":null}
 {"fr":"bétail","kr":"가축","level":4,"transcription":null}
-{"fr":"ordonnance","kr":"처방","level":4,"transcription":null}
+{"fr":"ordonnance","kr":"처방서","level":4,"transcription":null}
 {"fr":"orteil","kr":"발가락","level":4,"transcription":null}
-{"fr":"tendu","kr":"시제","level":4,"transcription":null}
+{"fr":"tendu","kr":"긴장된","level":4,"transcription":null}
 {"fr":"refiler","kr":"다시 정리하다","level":4,"transcription":null}
-{"fr":"évasion","kr":"탈출하다","level":4,"transcription":null}
+{"fr":"évasion","kr":"탈출","level":4,"transcription":null}
 {"fr":"perruque","kr":"가발","level":4,"transcription":null}
 {"fr":"repenser","kr":"재고","level":4,"transcription":null}
 {"fr":"endurer","kr":"견디다","level":4,"transcription":null}
 {"fr":"afin que","kr":"~하도록 하다","level":4,"transcription":null}
 {"fr":"contaminer","kr":"오염시키다","level":4,"transcription":null}
-{"fr":"fusillade","kr":"촬영","level":4,"transcription":null}
-{"fr":"transmission","kr":"전염","level":4,"transcription":null}
-{"fr":"dimension","kr":"차원","level":4,"transcription":null}
+{"fr":"fusillade","kr":"발사","level":4,"transcription":null}
+{"fr":"transmission","kr":"전송","level":4,"transcription":null}
+{"fr":"dimension","kr":"크기","level":4,"transcription":null}
 {"fr":"mule","kr":"노새","level":4,"transcription":null}
 {"fr":"chargé","kr":"요금","level":4,"transcription":null}
 {"fr":"fourmi","kr":"개미","level":4,"transcription":null}
@@ -3781,7 +3781,7 @@
 {"fr":"soi-disant","kr":"아마도","level":4,"transcription":null}
 {"fr":"stopper","kr":"멈추다","level":4,"transcription":null}
 {"fr":"émouvoir","kr":"이동하다","level":4,"transcription":null}
-{"fr":"européen","kr":"유럽 ​​사람","level":4,"transcription":null}
+{"fr":"européen","kr":"유럽 사람","level":4,"transcription":null}
 {"fr":"polir","kr":"광택","level":4,"transcription":null}
 {"fr":"scotch","kr":"스카치","level":4,"transcription":null}
 {"fr":"émettre","kr":"방출하다","level":4,"transcription":null}
@@ -3799,17 +3799,17 @@
 {"fr":"raisin","kr":"포도","level":4,"transcription":null}
 {"fr":"surfer","kr":"서핑하다","level":4,"transcription":null}
 {"fr":"convoi","kr":"호송","level":4,"transcription":null}
-{"fr":"grenier","kr":"애틱","level":4,"transcription":null}
+{"fr":"grenier","kr":"아래창","level":4,"transcription":null}
 {"fr":"blâmer","kr":"탓하다","level":4,"transcription":null}
 {"fr":"femelle","kr":"여성","level":4,"transcription":null}
 {"fr":"loyauté","kr":"충의","level":4,"transcription":null}
 {"fr":"psychopathe","kr":"정신병자","level":4,"transcription":null}
-{"fr":"amende","kr":"괜찮은","level":4,"transcription":null}
+{"fr":"amende","kr":"벌금","level":4,"transcription":null}
 {"fr":"combler","kr":"채우다","level":4,"transcription":null}
 {"fr":"intuition","kr":"직관","level":4,"transcription":null}
 {"fr":"rabbin","kr":"랍비","level":4,"transcription":null}
 {"fr":"bouquet","kr":"다발","level":4,"transcription":null}
-{"fr":"farce","kr":"소극","level":4,"transcription":null}
+{"fr":"farce","kr":"극복","level":4,"transcription":null}
 {"fr":"hémorragie","kr":"출혈","level":4,"transcription":null}
 {"fr":"navette","kr":"우주선","level":4,"transcription":null}
 {"fr":"convertir","kr":"전환하다","level":4,"transcription":null}
@@ -3839,8 +3839,8 @@
 {"fr":"vocation","kr":"직업","level":4,"transcription":null}
 {"fr":"fatigue","kr":"피로","level":4,"transcription":null}
 {"fr":"charbon","kr":"석탄","level":4,"transcription":null}
-{"fr":"futé","kr":"똑똑한","level":4,"transcription":null}
-{"fr":"téléphonique","kr":"전화","level":4,"transcription":null}
+{"fr":"futé","kr":"불가연성","level":4,"transcription":null}
+{"fr":"téléphonique","kr":"전화기용","level":4,"transcription":null}
 {"fr":"authentique","kr":"진본인","level":4,"transcription":null}
 {"fr":"choisi","kr":"선택된","level":4,"transcription":null}
 {"fr":"indispensable","kr":"필수적인","level":4,"transcription":null}
@@ -3851,10 +3851,10 @@
 {"fr":"aspirine","kr":"아스피린","level":4,"transcription":null}
 {"fr":"fantasme","kr":"공상","level":4,"transcription":null}
 {"fr":"gym","kr":"체육관","level":4,"transcription":null}
-{"fr":"manoeuvre","kr":"운동","level":4,"transcription":null}
+{"fr":"manoeuvre","kr":"운전","level":4,"transcription":null}
 {"fr":"pathétique","kr":"불쌍한","level":4,"transcription":null}
-{"fr":"garantie","kr":"보장하다","level":4,"transcription":null}
-{"fr":"psychiatrique","kr":"정신과의","level":4,"transcription":null}
+{"fr":"garantie","kr":"보장","level":4,"transcription":null}
+{"fr":"psychiatrique","kr":"정신과","level":4,"transcription":null}
 {"fr":"compétition","kr":"경쟁","level":4,"transcription":null}
 {"fr":"oie","kr":"거위","level":4,"transcription":null}
 {"fr":"ail","kr":"마늘","level":4,"transcription":null}
@@ -3899,10 +3899,10 @@
 {"fr":"supplémentaire","kr":"추가의","level":4,"transcription":null}
 {"fr":"générateur","kr":"발전기","level":4,"transcription":null}
 {"fr":"caprice","kr":"변덕","level":4,"transcription":null}
-{"fr":"horaire","kr":"매시간","level":4,"transcription":null}
+{"fr":"horaire","kr":"시계","level":4,"transcription":null}
 {"fr":"navré","kr":"죄송합니다","level":4,"transcription":null}
 {"fr":"rafraîchir","kr":"새로 고치다","level":4,"transcription":null}
-{"fr":"réplique","kr":"레플리카","level":4,"transcription":null}
+{"fr":"réplique","kr":"반복","level":4,"transcription":null}
 {"fr":"clocher","kr":"종탑","level":4,"transcription":null}
 {"fr":"contrôleur","kr":"제어 장치","level":4,"transcription":null}
 {"fr":"monstrueux","kr":"거대한","level":4,"transcription":null}
@@ -3912,14 +3912,14 @@
 {"fr":"aîné","kr":"장로","level":4,"transcription":null}
 {"fr":"rasoir","kr":"면도칼","level":4,"transcription":null}
 {"fr":"tronche","kr":"얼굴","level":4,"transcription":null}
-{"fr":"hanche","kr":"잘 알고 있기","level":4,"transcription":null}
-{"fr":"manifestation","kr":"데모","level":4,"transcription":null}
-{"fr":"météo","kr":"일기 예보","level":4,"transcription":null}
+{"fr":"hanche","kr":"엉덩이","level":4,"transcription":null}
+{"fr":"manifestation","kr":"발표","level":4,"transcription":null}
+{"fr":"météo","kr":"기상","level":4,"transcription":null}
 {"fr":"van","kr":"봉고차","level":4,"transcription":null}
 {"fr":"correction","kr":"보정","level":4,"transcription":null}
 {"fr":"connecter","kr":"연결하다","level":4,"transcription":null}
 {"fr":"coudre","kr":"꿰매다","level":4,"transcription":null}
-{"fr":"lancement","kr":"시작하다","level":4,"transcription":null}
+{"fr":"lancement","kr":"시작","level":4,"transcription":null}
 {"fr":"substance","kr":"물질","level":4,"transcription":null}
 {"fr":"permanent","kr":"영구적인","level":4,"transcription":null}
 {"fr":"fermier","kr":"농장주","level":4,"transcription":null}
@@ -3928,12 +3928,12 @@
 {"fr":"sanguin","kr":"피","level":4,"transcription":null}
 {"fr":"clan","kr":"씨족","level":4,"transcription":null}
 {"fr":"juré","kr":"맹세하다","level":4,"transcription":null}
-{"fr":"requête","kr":"요구","level":4,"transcription":null}
+{"fr":"requête","kr":"요청","level":4,"transcription":null}
 {"fr":"rituel","kr":"의례","level":4,"transcription":null}
-{"fr":"appui","kr":"지원하다","level":4,"transcription":null}
-{"fr":"ressource","kr":"의지","level":4,"transcription":null}
+{"fr":"appui","kr":"지원","level":4,"transcription":null}
+{"fr":"ressource","kr":"자원이","level":4,"transcription":null}
 {"fr":"souper","kr":"저녁","level":4,"transcription":null}
-{"fr":"contrairement","kr":"반대로","level":4,"transcription":null}
+{"fr":"contrairement","kr":"반대","level":4,"transcription":null}
 {"fr":"favori","kr":"가장 좋아하는","level":4,"transcription":null}
 {"fr":"mineur","kr":"미성년자","level":4,"transcription":null}
 {"fr":"miséricorde","kr":"자비","level":4,"transcription":null}
@@ -3967,7 +3967,7 @@
 {"fr":"beignet","kr":"도넛","level":4,"transcription":null}
 {"fr":"dédier","kr":"전념하다","level":4,"transcription":null}
 {"fr":"entraîneur","kr":"코치","level":4,"transcription":null}
-{"fr":"expédier","kr":"배","level":4,"transcription":null}
+{"fr":"expédier","kr":"배달","level":4,"transcription":null}
 {"fr":"fourgon","kr":"봉고차","level":4,"transcription":null}
 {"fr":"sentimental","kr":"감상적인","level":4,"transcription":null}
 {"fr":"cortex","kr":"피질","level":4,"transcription":null}
@@ -3989,7 +3989,7 @@
 {"fr":"bousculer","kr":"서로 밀치다","level":4,"transcription":null}
 {"fr":"débattre","kr":"논의하다","level":4,"transcription":null}
 {"fr":"tué","kr":"사망","level":4,"transcription":null}
-{"fr":"verdict","kr":"평결","level":4,"transcription":null}
+{"fr":"verdict","kr":"판결","level":4,"transcription":null}
 {"fr":"vice-président","kr":"부사장","level":4,"transcription":null}
 {"fr":"complexe","kr":"복잡한","level":4,"transcription":null}
 {"fr":"encercler","kr":"원","level":4,"transcription":null}
@@ -4019,63 +4019,63 @@
 {"fr":"concentration","kr":"집중","level":5,"transcription":null}
 {"fr":"décorer","kr":"장식하다","level":5,"transcription":null}
 {"fr":"recueillir","kr":"모으다","level":5,"transcription":null}
-{"fr":"confusion","kr":"착란","level":5,"transcription":null}
-{"fr":"réservoir","kr":"저수지","level":5,"transcription":null}
-{"fr":"solaire","kr":"태양의","level":5,"transcription":null}
-{"fr":"éclaircir","kr":"정리하다","level":5,"transcription":null}
-{"fr":"apaiser","kr":"달래다","level":5,"transcription":null}
+{"fr":"confusion","kr":"혼란","level":5,"transcription":null}
+{"fr":"réservoir","kr":"저수기","level":5,"transcription":null}
+{"fr":"solaire","kr":"태양광","level":5,"transcription":null}
+{"fr":"éclaircir","kr":"빛내다","level":5,"transcription":null}
+{"fr":"apaiser","kr":"안아주다","level":5,"transcription":null}
 {"fr":"autographe","kr":"자필","level":5,"transcription":null}
 {"fr":"flash","kr":"플래시","level":5,"transcription":null}
-{"fr":"guetter","kr":"시청하다","level":5,"transcription":null}
+{"fr":"guetter","kr":"보내다","level":5,"transcription":null}
 {"fr":"chantage","kr":"약탈","level":5,"transcription":null}
 {"fr":"lessive","kr":"빨래","level":5,"transcription":null}
-{"fr":"bien-aimé","kr":"인기 많은","level":5,"transcription":null}
-{"fr":"gus","kr":"거스","level":5,"transcription":null}
+{"fr":"bien-aimé","kr":"사랑받는","level":5,"transcription":null}
+{"fr":"gus","kr":"거스름세","level":5,"transcription":null}
 {"fr":"éditeur","kr":"편집자","level":5,"transcription":null}
 {"fr":"bouc","kr":"염소","level":5,"transcription":null}
-{"fr":"mérite","kr":"당연한","level":5,"transcription":null}
+{"fr":"mérite","kr":"공로","level":5,"transcription":null}
 {"fr":"ruban","kr":"리본","level":5,"transcription":null}
 {"fr":"rédiger","kr":"쓰다","level":5,"transcription":null}
 {"fr":"terrifier","kr":"겁나게 하다","level":5,"transcription":null}
-{"fr":"cote","kr":"옆","level":5,"transcription":null}
+{"fr":"cote","kr":"가격","level":5,"transcription":null}
 {"fr":"littérature","kr":"문학","level":5,"transcription":null}
 {"fr":"sperme","kr":"정액","level":5,"transcription":null}
-{"fr":"différemment","kr":"다르게","level":5,"transcription":null}
+{"fr":"différemment","kr":"다른 방식으로","level":5,"transcription":null}
 {"fr":"nonne","kr":"수녀","level":5,"transcription":null}
-{"fr":"intense","kr":"극심한","level":5,"transcription":null}
-{"fr":"raté","kr":"놓쳤다","level":5,"transcription":null}
-{"fr":"crêpe","kr":"팬케이크","level":5,"transcription":null}
+{"fr":"intense","kr":"강렬한","level":5,"transcription":null}
+{"fr":"raté","kr":"미사일로","level":5,"transcription":null}
+{"fr":"crêpe","kr":"크레프","level":5,"transcription":null}
 {"fr":"ardent","kr":"불타는","level":5,"transcription":null}
 {"fr":"brosse","kr":"브러시","level":5,"transcription":null}
-{"fr":"libération","kr":"풀어 주다","level":5,"transcription":null}
+{"fr":"libération","kr":"해방","level":5,"transcription":null}
 {"fr":"dicter","kr":"명령","level":5,"transcription":null}
-{"fr":"spectateur","kr":"구경꾼","level":5,"transcription":null}
-{"fr":"polonais","kr":"광택","level":5,"transcription":null}
+{"fr":"spectateur","kr":"관객","level":5,"transcription":null}
+{"fr":"polonais","kr":"프랑스어","level":5,"transcription":null}
 {"fr":"tank","kr":"탱크","level":5,"transcription":null}
-{"fr":"paie","kr":"지불하다","level":5,"transcription":null}
-{"fr":"cuit","kr":"요리","level":5,"transcription":null}
-{"fr":"rupture","kr":"붕괴","level":5,"transcription":null}
-{"fr":"assassinat","kr":"암살","level":5,"transcription":null}
-{"fr":"attentivement","kr":"주의하여","level":5,"transcription":null}
-{"fr":"coiffer","kr":"스타일을 지정하다","level":5,"transcription":null}
+{"fr":"paie","kr":"지불","level":5,"transcription":null}
+{"fr":"cuit","kr":"가열","level":5,"transcription":null}
+{"fr":"rupture","kr":"파괴","level":5,"transcription":null}
+{"fr":"assassinat","kr":"살인사건","level":5,"transcription":null}
+{"fr":"attentivement","kr":"주의를 기울이다","level":5,"transcription":null}
+{"fr":"coiffer","kr":"머리를 다듬다","level":5,"transcription":null}
 {"fr":"décor","kr":"장식","level":5,"transcription":null}
-{"fr":"décéder","kr":"주사위","level":5,"transcription":null}
-{"fr":"défaite","kr":"패배시키다","level":5,"transcription":null}
-{"fr":"joint","kr":"밀봉하다","level":5,"transcription":null}
-{"fr":"refuge","kr":"피난","level":5,"transcription":null}
-{"fr":"bijou","kr":"보석 ","level":5,"transcription":null}
-{"fr":"bonnet","kr":"캡","level":5,"transcription":null}
-{"fr":"bazar","kr":"바자","level":5,"transcription":null}
+{"fr":"décéder","kr":"사망하다","level":5,"transcription":null}
+{"fr":"défaite","kr":"패배","level":5,"transcription":null}
+{"fr":"joint","kr":"밀봉","level":5,"transcription":null}
+{"fr":"refuge","kr":"피난처","level":5,"transcription":null}
+{"fr":"bijou","kr":"보석","level":5,"transcription":null}
+{"fr":"bonnet","kr":"모자","level":5,"transcription":null}
+{"fr":"bazar","kr":"시장","level":5,"transcription":null}
 {"fr":"photographie","kr":"사진술","level":5,"transcription":null}
 {"fr":"touché","kr":"만지다","level":5,"transcription":null}
 {"fr":"afficher","kr":"표시하다","level":5,"transcription":null}
 {"fr":"borne","kr":"단말기","level":5,"transcription":null}
 {"fr":"minus","kr":"마이너스","level":5,"transcription":null}
-{"fr":"réparation","kr":"수리하다","level":5,"transcription":null}
+{"fr":"réparation","kr":"수리","level":5,"transcription":null}
 {"fr":"suggestion","kr":"제안","level":5,"transcription":null}
 {"fr":"brûlé","kr":"화상","level":5,"transcription":null}
 {"fr":"hôtesse","kr":"안주인","level":5,"transcription":null}
-{"fr":"janvier","kr":"1월","level":5,"transcription":null}
+{"fr":"janvier","kr":"1 월","level":5,"transcription":null}
 {"fr":"mile","kr":"마일","level":5,"transcription":null}
 {"fr":"pressentiment","kr":"예감","level":5,"transcription":null}
 {"fr":"quelques-uns","kr":"몇 가지","level":5,"transcription":null}
@@ -4083,11 +4083,11 @@
 {"fr":"sauvetage","kr":"구조하다","level":5,"transcription":null}
 {"fr":"blanche","kr":"하얀색","level":5,"transcription":null}
 {"fr":"acquérir","kr":"습득하다","level":5,"transcription":null}
-{"fr":"coordonnée","kr":"동등 어구","level":5,"transcription":null}
+{"fr":"coordonnée","kr":"동등한","level":5,"transcription":null}
 {"fr":"influencer","kr":"영향","level":5,"transcription":null}
 {"fr":"dépêche","kr":"보내다","level":5,"transcription":null}
 {"fr":"meuf","kr":"소녀","level":5,"transcription":null}
-{"fr":"risqué","kr":"위험","level":5,"transcription":null}
+{"fr":"risqué","kr":"위험한","level":5,"transcription":null}
 {"fr":"régulier","kr":"정기적인","level":5,"transcription":null}
 {"fr":"gerber","kr":"거버","level":5,"transcription":null}
 {"fr":"abandonné","kr":"버려진","level":5,"transcription":null}
@@ -4141,7 +4141,7 @@
 {"fr":"traité","kr":"치료됨","level":5,"transcription":null}
 {"fr":"voyageur","kr":"여행자","level":5,"transcription":null}
 {"fr":"carreau","kr":"타일","level":5,"transcription":null}
-{"fr":"hisser","kr":"감아 올리기","level":5,"transcription":null}
+{"fr":"hisser","kr":"올리기","level":5,"transcription":null}
 {"fr":"pois","kr":"완두콩","level":5,"transcription":null}
 {"fr":"torche","kr":"토치","level":5,"transcription":null}
 {"fr":"évolution","kr":"진화","level":5,"transcription":null}
@@ -4153,10 +4153,10 @@
 {"fr":"observation","kr":"관찰","level":5,"transcription":null}
 {"fr":"psychologique","kr":"심리적","level":5,"transcription":null}
 {"fr":"pécheur","kr":"어부","level":5,"transcription":null}
-{"fr":"éduquer","kr":"기르다","level":5,"transcription":null}
+{"fr":"éduquer","kr":"교육하다","level":5,"transcription":null}
 {"fr":"bicyclette","kr":"자전거","level":5,"transcription":null}
 {"fr":"génétique","kr":"유전적","level":5,"transcription":null}
-{"fr":"mexicain","kr":"멕시코 인","level":5,"transcription":null}
+{"fr":"mexicain","kr":"멕시코인","level":5,"transcription":null}
 {"fr":"secondaire","kr":"반성","level":5,"transcription":null}
 {"fr":"sieur","kr":"선생님","level":5,"transcription":null}
 {"fr":"cambriolage","kr":"강도","level":5,"transcription":null}
@@ -4168,15 +4168,15 @@
 {"fr":"finance","kr":"재원","level":5,"transcription":null}
 {"fr":"février","kr":"2월","level":5,"transcription":null}
 {"fr":"immobile","kr":"움직이지 않는","level":5,"transcription":null}
-{"fr":"pétasse","kr":"암캐","level":5,"transcription":null}
+{"fr":"pétasse","kr":"뱃불꽃","level":5,"transcription":null}
 {"fr":"surprenant","kr":"놀라운","level":5,"transcription":null}
-{"fr":"tailleur","kr":"재단사","level":5,"transcription":null}
+{"fr":"tailleur","kr":"가방사","level":5,"transcription":null}
 {"fr":"apparition","kr":"모습","level":5,"transcription":null}
-{"fr":"bidon","kr":"~할 수 있다","level":5,"transcription":null}
+{"fr":"bidon","kr":"병통","level":5,"transcription":null}
 {"fr":"da","kr":"다","level":5,"transcription":null}
 {"fr":"martial","kr":"용감한","level":5,"transcription":null}
-{"fr":"oubli","kr":"감시","level":5,"transcription":null}
-{"fr":"pervers","kr":"변태","level":5,"transcription":null}
+{"fr":"oubli","kr":"잊혀짐","level":5,"transcription":null}
+{"fr":"pervers","kr":"변태된","level":5,"transcription":null}
 {"fr":"trompette","kr":"트럼펫","level":5,"transcription":null}
 {"fr":"vapeur","kr":"증기","level":5,"transcription":null}
 {"fr":"définitif","kr":"결정적인","level":5,"transcription":null}
@@ -4229,7 +4229,7 @@
 {"fr":"paralyser","kr":"마비시키다","level":5,"transcription":null}
 {"fr":"merdique","kr":"지겨운","level":5,"transcription":null}
 {"fr":"prêcher","kr":"설교","level":5,"transcription":null}
-{"fr":"terroriser","kr":"공포에 떨게 하다","level":5,"transcription":null}
+{"fr":"terroriser","kr":"공포를 느끼게 하다","level":5,"transcription":null}
 {"fr":"blues","kr":"블루스","level":5,"transcription":null}
 {"fr":"jusque-là","kr":"그때까지","level":5,"transcription":null}
 {"fr":"aligner","kr":"맞추다","level":5,"transcription":null}
@@ -4244,18 +4244,18 @@
 {"fr":"hold-up","kr":"강탈","level":5,"transcription":null}
 {"fr":"inoffensif","kr":"무해한","level":5,"transcription":null}
 {"fr":"çà","kr":"저것","level":5,"transcription":null}
-{"fr":"crack","kr":"금이 가다","level":5,"transcription":null}
+{"fr":"crack","kr":"깨진 것","level":5,"transcription":null}
 {"fr":"effraction","kr":"침입","level":5,"transcription":null}
 {"fr":"fendre","kr":"나뉘다","level":5,"transcription":null}
 {"fr":"perfection","kr":"완전","level":5,"transcription":null}
 {"fr":"péril","kr":"위험","level":5,"transcription":null}
-{"fr":"raide","kr":"험한","level":5,"transcription":null}
+{"fr":"raide","kr":"힘든","level":5,"transcription":null}
 {"fr":"tordu","kr":"꼬인","level":5,"transcription":null}
 {"fr":"vulnérable","kr":"취약한","level":5,"transcription":null}
 {"fr":"clore","kr":"닫다","level":5,"transcription":null}
-{"fr":"coffrer","kr":"상자에","level":5,"transcription":null}
+{"fr":"coffrer","kr":"상자에 넣다","level":5,"transcription":null}
 {"fr":"moulin","kr":"밀","level":5,"transcription":null}
-{"fr":"transpirer","kr":"땀","level":5,"transcription":null}
+{"fr":"transpirer","kr":"땀 흘리다","level":5,"transcription":null}
 {"fr":"baguette","kr":"바게트","level":5,"transcription":null}
 {"fr":"braquage","kr":"강탈","level":5,"transcription":null}
 {"fr":"cerner","kr":"둘러싸다","level":5,"transcription":null}
@@ -4264,8 +4264,8 @@
 {"fr":"buisson","kr":"부시","level":5,"transcription":null}
 {"fr":"enrichir","kr":"높이다","level":5,"transcription":null}
 {"fr":"fontaine","kr":"분수","level":5,"transcription":null}
-{"fr":"media","kr":"메디아","level":5,"transcription":null}
-{"fr":"sportif","kr":"운동가 다운","level":5,"transcription":null}
+{"fr":"media","kr":"미디어","level":5,"transcription":null}
+{"fr":"sportif","kr":"운동가","level":5,"transcription":null}
 {"fr":"balade","kr":"타다","level":5,"transcription":null}
 {"fr":"infâme","kr":"악명 높은","level":5,"transcription":null}
 {"fr":"seize","kr":"열여섯","level":5,"transcription":null}
@@ -4273,7 +4273,7 @@
 {"fr":"bip","kr":"삑 하는 소리","level":5,"transcription":null}
 {"fr":"sympathie","kr":"동정","level":5,"transcription":null}
 {"fr":"excès","kr":"과잉","level":5,"transcription":null}
-{"fr":"politicien","kr":"정치가","level":5,"transcription":null}
+{"fr":"politicien","kr":"정치인","level":5,"transcription":null}
 {"fr":"triompher","kr":"승리","level":5,"transcription":null}
 {"fr":"vêtir","kr":"덮다","level":5,"transcription":null}
 {"fr":"ampoule","kr":"구근","level":5,"transcription":null}
@@ -4289,33 +4289,33 @@
 {"fr":"bouillir","kr":"종기","level":5,"transcription":null}
 {"fr":"louche","kr":"의심스러운","level":5,"transcription":null}
 {"fr":"précédent","kr":"이전의","level":5,"transcription":null}
-{"fr":"aggraver","kr":"화나게 하다","level":5,"transcription":null}
-{"fr":"barreau","kr":"술집","level":5,"transcription":null}
-{"fr":"démonstration","kr":"데모","level":5,"transcription":null}
-{"fr":"fouetter","kr":"채찍","level":5,"transcription":null}
-{"fr":"gratitude","kr":"고마움","level":5,"transcription":null}
+{"fr":"aggraver","kr":"악화시키다","level":5,"transcription":null}
+{"fr":"barreau","kr":"법관","level":5,"transcription":null}
+{"fr":"démonstration","kr":"증명","level":5,"transcription":null}
+{"fr":"fouetter","kr":"채찍질하다","level":5,"transcription":null}
+{"fr":"gratitude","kr":"감사","level":5,"transcription":null}
 {"fr":"sermon","kr":"설교","level":5,"transcription":null}
 {"fr":"séquence","kr":"순서","level":5,"transcription":null}
 {"fr":"démission","kr":"사직","level":5,"transcription":null}
 {"fr":"gouverner","kr":"통치하다","level":5,"transcription":null}
 {"fr":"humiliation","kr":"굴욕","level":5,"transcription":null}
 {"fr":"saler","kr":"소금","level":5,"transcription":null}
-{"fr":"arbitre","kr":"중재인","level":5,"transcription":null}
+{"fr":"arbitre","kr":"중재자","level":5,"transcription":null}
 {"fr":"capote","kr":"후드","level":5,"transcription":null}
 {"fr":"cliché","kr":"상투적인","level":5,"transcription":null}
 {"fr":"impatience","kr":"조바심","level":5,"transcription":null}
 {"fr":"round","kr":"둥근","level":5,"transcription":null}
 {"fr":"établissement","kr":"설립","level":5,"transcription":null}
 {"fr":"caleçon","kr":"속옷","level":5,"transcription":null}
-{"fr":"enchaîner","kr":"체인","level":5,"transcription":null}
-{"fr":"gravité","kr":"중력","level":5,"transcription":null}
+{"fr":"enchaîner","kr":"연결하다","level":5,"transcription":null}
+{"fr":"gravité","kr":"중요성","level":5,"transcription":null}
 {"fr":"impuissant","kr":"무력한","level":5,"transcription":null}
 {"fr":"poire","kr":"배","level":5,"transcription":null}
-{"fr":"cargaison","kr":"뱃짐","level":5,"transcription":null}
-{"fr":"niquer","kr":"못쓰게 만들다","level":5,"transcription":null}
+{"fr":"cargaison","kr":"화물차량","level":5,"transcription":null}
+{"fr":"niquer","kr":"아주 작은 것","level":5,"transcription":null}
 {"fr":"orphelin","kr":"유아","level":5,"transcription":null}
-{"fr":"quarantaine","kr":"건강격리","level":5,"transcription":null}
-{"fr":"attribuer","kr":"양수인","level":5,"transcription":null}
+{"fr":"quarantaine","kr":"40대","level":5,"transcription":null}
+{"fr":"attribuer","kr":"기부하다","level":5,"transcription":null}
 {"fr":"cerf","kr":"사슴","level":5,"transcription":null}
 {"fr":"coté","kr":"옆","level":5,"transcription":null}
 {"fr":"fardeau","kr":"부담","level":5,"transcription":null}
@@ -4363,7 +4363,7 @@
 {"fr":"attraction","kr":"끌어 당김","level":5,"transcription":null}
 {"fr":"offense","kr":"위반","level":5,"transcription":null}
 {"fr":"recruter","kr":"모집하다","level":5,"transcription":null}
-{"fr":"renaître","kr":"다시 태어난","level":5,"transcription":null}
+{"fr":"renaître","kr":"다시 태어나다","level":5,"transcription":null}
 {"fr":"compétent","kr":"능숙한","level":5,"transcription":null}
 {"fr":"convention","kr":"협약","level":5,"transcription":null}
 {"fr":"embarrassant","kr":"당혹스러운","level":5,"transcription":null}
@@ -4371,7 +4371,7 @@
 {"fr":"inévitable","kr":"불가피한","level":5,"transcription":null}
 {"fr":"aboyer","kr":"짖다","level":5,"transcription":null}
 {"fr":"freiner","kr":"브레이크","level":5,"transcription":null}
-{"fr":"lasser","kr":"타이어","level":5,"transcription":null}
+{"fr":"lasser","kr":"타이어나게 하다","level":5,"transcription":null}
 {"fr":"chapelle","kr":"예배당","level":5,"transcription":null}
 {"fr":"parcours","kr":"강의","level":5,"transcription":null}
 {"fr":"rayer","kr":"할퀴다","level":5,"transcription":null}
@@ -4439,11 +4439,11 @@
 {"fr":"chialer","kr":"우는 소리","level":5,"transcription":null}
 {"fr":"enflammer","kr":"불을 붙이다","level":5,"transcription":null}
 {"fr":"harper","kr":"하퍼","level":5,"transcription":null}
-{"fr":"loterie","kr":"운","level":5,"transcription":null}
-{"fr":"trafiquer","kr":"교통","level":5,"transcription":null}
+{"fr":"loterie","kr":"로또","level":5,"transcription":null}
+{"fr":"trafiquer","kr":"교통하다","level":5,"transcription":null}
 {"fr":"bosse","kr":"충돌","level":5,"transcription":null}
-{"fr":"reconstruire","kr":"재건하다","level":5,"transcription":null}
-{"fr":"décollage","kr":"이륙하다","level":5,"transcription":null}
+{"fr":"reconstruire","kr":"재건","level":5,"transcription":null}
+{"fr":"décollage","kr":"이륙","level":5,"transcription":null}
 {"fr":"papi","kr":"파피","level":5,"transcription":null}
 {"fr":"tout-puissant","kr":"전능자","level":5,"transcription":null}
 {"fr":"définir","kr":"정의하다","level":5,"transcription":null}
@@ -4500,13 +4500,13 @@
 {"fr":"minet","kr":"트윙크","level":5,"transcription":null}
 {"fr":"relais","kr":"계전기","level":5,"transcription":null}
 {"fr":"ardeur","kr":"열정","level":5,"transcription":null}
-{"fr":"déduire","kr":"빼다","level":5,"transcription":null}
+{"fr":"déduire","kr":"추론하다","level":5,"transcription":null}
 {"fr":"formalité","kr":"형식","level":5,"transcription":null}
 {"fr":"stérile","kr":"멸균","level":5,"transcription":null}
 {"fr":"flirter","kr":"바람둥이","level":5,"transcription":null}
 {"fr":"berceau","kr":"요람","level":5,"transcription":null}
 {"fr":"réaliste","kr":"현실적인","level":5,"transcription":null}
-{"fr":"applaudissement","kr":"박수 갈채","level":5,"transcription":null}
+{"fr":"applaudissement","kr":"박수갈채","level":5,"transcription":null}
 {"fr":"chatouiller","kr":"간지럼","level":5,"transcription":null}
 {"fr":"déchet","kr":"쓰레기","level":5,"transcription":null}
 {"fr":"matelot","kr":"선원","level":5,"transcription":null}
@@ -4515,7 +4515,7 @@
 {"fr":"sûreté","kr":"안전","level":5,"transcription":null}
 {"fr":"trouvé","kr":"찾다","level":5,"transcription":null}
 {"fr":"bannir","kr":"반","level":5,"transcription":null}
-{"fr":"module","kr":"기준 치수","level":5,"transcription":null}
+{"fr":"module","kr":"기준치","level":5,"transcription":null}
 {"fr":"respectable","kr":"상당한","level":5,"transcription":null}
 {"fr":"roulant","kr":"구르는","level":5,"transcription":null}
 {"fr":"brebis","kr":"양","level":5,"transcription":null}
@@ -4530,8 +4530,8 @@
 {"fr":"minou","kr":"고양이 새끼","level":5,"transcription":null}
 {"fr":"primitif","kr":"원어","level":5,"transcription":null}
 {"fr":"scolaire","kr":"학교","level":5,"transcription":null}
-{"fr":"treize","kr":"열셋","level":5,"transcription":null}
-{"fr":"contredire","kr":"모순되다","level":5,"transcription":null}
+{"fr":"treize","kr":"열세","level":5,"transcription":null}
+{"fr":"contredire","kr":"반대하다","level":5,"transcription":null}
 {"fr":"mou","kr":"부드러운","level":5,"transcription":null}
 {"fr":"égalité","kr":"평등","level":5,"transcription":null}
 {"fr":"cahier","kr":"공책","level":5,"transcription":null}
@@ -4568,7 +4568,7 @@
 {"fr":"aigle","kr":"독수리","level":5,"transcription":null}
 {"fr":"emplacement","kr":"위치","level":5,"transcription":null}
 {"fr":"gentilhomme","kr":"신사","level":5,"transcription":null}
-{"fr":"radiation","kr":"방사","level":5,"transcription":null}
+{"fr":"radiation","kr":"방사선","level":5,"transcription":null}
 {"fr":"rimer","kr":"운","level":5,"transcription":null}
 {"fr":"satané","kr":"젠장","level":5,"transcription":null}
 {"fr":"thanksgiving","kr":"추수감사절","level":5,"transcription":null}
@@ -4587,12 +4587,12 @@
 {"fr":"ducon","kr":"듀콘","level":5,"transcription":null}
 {"fr":"durée","kr":"지속","level":5,"transcription":null}
 {"fr":"mendiant","kr":"거지","level":5,"transcription":null}
-{"fr":"précision","kr":"정도","level":5,"transcription":null}
-{"fr":"réconforter","kr":"편안","level":5,"transcription":null}
+{"fr":"précision","kr":"정확도","level":5,"transcription":null}
+{"fr":"réconforter","kr":"편안하다","level":5,"transcription":null}
 {"fr":"soi-même","kr":"자신","level":5,"transcription":null}
 {"fr":"tournoi","kr":"토너먼트","level":5,"transcription":null}
-{"fr":"augmentation","kr":"증가하다","level":5,"transcription":null}
-{"fr":"exterminer","kr":"근절하다","level":5,"transcription":null}
+{"fr":"augmentation","kr":"증가","level":5,"transcription":null}
+{"fr":"exterminer","kr":"근절","level":5,"transcription":null}
 {"fr":"fiable","kr":"믿을 수 있는","level":5,"transcription":null}
 {"fr":"rude","kr":"가혹한","level":5,"transcription":null}
 {"fr":"traditionnel","kr":"전통적인","level":5,"transcription":null}
@@ -4649,28 +4649,28 @@
 {"fr":"appât","kr":"미끼","level":5,"transcription":null}
 {"fr":"calmement","kr":"고요히","level":5,"transcription":null}
 {"fr":"constitution","kr":"헌법","level":5,"transcription":null}
-{"fr":"plongée","kr":"다이빙","level":5,"transcription":null}
-{"fr":"compartiment","kr":"구획","level":5,"transcription":null}
+{"fr":"plongée","kr":"잠들다","level":5,"transcription":null}
+{"fr":"compartiment","kr":"상호실","level":5,"transcription":null}
 {"fr":"foin","kr":"건초","level":5,"transcription":null}
-{"fr":"opérateur","kr":"연산자","level":5,"transcription":null}
-{"fr":"chips","kr":"작은 조각","level":5,"transcription":null}
-{"fr":"coupé","kr":"자르다","level":5,"transcription":null}
+{"fr":"opérateur","kr":"작업자","level":5,"transcription":null}
+{"fr":"chips","kr":"칩스","level":5,"transcription":null}
+{"fr":"coupé","kr":"절단된","level":5,"transcription":null}
 {"fr":"hospitalité","kr":"환대","level":5,"transcription":null}
-{"fr":"prostitution","kr":"매춘","level":5,"transcription":null}
+{"fr":"prostitution","kr":"매춘업","level":5,"transcription":null}
 {"fr":"revenu","kr":"소득","level":5,"transcription":null}
-{"fr":"réfugier","kr":"피난","level":5,"transcription":null}
-{"fr":"avancé","kr":"전진","level":5,"transcription":null}
+{"fr":"réfugier","kr":"피난처","level":5,"transcription":null}
+{"fr":"avancé","kr":"전진한","level":5,"transcription":null}
 {"fr":"occupation","kr":"직업","level":5,"transcription":null}
-{"fr":"perdant","kr":"지는","level":5,"transcription":null}
+{"fr":"perdant","kr":"가는","level":5,"transcription":null}
 {"fr":"visuel","kr":"시각적","level":5,"transcription":null}
-{"fr":"irriter","kr":"짜증나게 하다","level":5,"transcription":null}
+{"fr":"irriter","kr":"불쾌하게 하다","level":5,"transcription":null}
 {"fr":"négociation","kr":"협상","level":5,"transcription":null}
 {"fr":"quatorze","kr":"십사","level":5,"transcription":null}
-{"fr":"électronique","kr":"전자","level":5,"transcription":null}
+{"fr":"électronique","kr":"전자기","level":5,"transcription":null}
 {"fr":"avant-hier","kr":"그저께","level":5,"transcription":null}
 {"fr":"embarrasser","kr":"난처하게 하다","level":5,"transcription":null}
 {"fr":"inonder","kr":"홍수","level":5,"transcription":null}
-{"fr":"sanglant","kr":"피의","level":5,"transcription":null}
+{"fr":"sanglant","kr":"피의한","level":5,"transcription":null}
 {"fr":"traumatisme","kr":"외상","level":5,"transcription":null}
 {"fr":"trêve","kr":"휴전","level":5,"transcription":null}
 {"fr":"contourner","kr":"우회로","level":5,"transcription":null}
@@ -4678,12 +4678,12 @@
 {"fr":"monument","kr":"기념물","level":5,"transcription":null}
 {"fr":"socialiste","kr":"사회주의자","level":5,"transcription":null}
 {"fr":"bonnir","kr":"보니르","level":5,"transcription":null}
-{"fr":"enchère","kr":"매기다","level":5,"transcription":null}
-{"fr":"enfreindre","kr":"어기다","level":5,"transcription":null}
+{"fr":"enchère","kr":"가치","level":5,"transcription":null}
+{"fr":"enfreindre","kr":"기다","level":5,"transcription":null}
 {"fr":"jument","kr":"바다","level":5,"transcription":null}
 {"fr":"psychologue","kr":"심리학자","level":5,"transcription":null}
 {"fr":"absorber","kr":"흡수하다","level":5,"transcription":null}
-{"fr":"affaiblir","kr":"꺾이다","level":5,"transcription":null}
+{"fr":"affaiblir","kr":"약화하다","level":5,"transcription":null}
 {"fr":"attentif","kr":"친절한","level":5,"transcription":null}
 {"fr":"contraindre","kr":"억누르다","level":5,"transcription":null}
 {"fr":"hyper","kr":"하이퍼","level":5,"transcription":null}
@@ -4738,7 +4738,7 @@
 {"fr":"autrui","kr":"다른 사람","level":5,"transcription":null}
 {"fr":"jean","kr":"청바지","level":5,"transcription":null}
 {"fr":"malaise","kr":"실신","level":5,"transcription":null}
-{"fr":"consumer","kr":"소비자","level":5,"transcription":null}
+{"fr":"consumer","kr":"구매자","level":5,"transcription":null}
 {"fr":"créateur","kr":"창조자","level":5,"transcription":null}
 {"fr":"ignorance","kr":"무지","level":5,"transcription":null}
 {"fr":"infliger","kr":"가하다","level":5,"transcription":null}
@@ -4773,13 +4773,13 @@
 {"fr":"rizière","kr":"논","level":5,"transcription":null}
 {"fr":"script","kr":"스크립트","level":5,"transcription":null}
 {"fr":"grade","kr":"등급","level":5,"transcription":null}
-{"fr":"habile","kr":"잘 만들어진","level":5,"transcription":null}
-{"fr":"gravement","kr":"진지하게","level":5,"transcription":null}
-{"fr":"illuminer","kr":"비추다","level":5,"transcription":null}
+{"fr":"habile","kr":"숙련된","level":5,"transcription":null}
+{"fr":"gravement","kr":"중하게","level":5,"transcription":null}
+{"fr":"illuminer","kr":"조명하다","level":5,"transcription":null}
 {"fr":"immobilier","kr":"부동산","level":5,"transcription":null}
 {"fr":"pa","kr":"아빠","level":5,"transcription":null}
 {"fr":"cirer","kr":"밀랍","level":5,"transcription":null}
-{"fr":"célébrité","kr":"유명 인사","level":5,"transcription":null}
+{"fr":"célébrité","kr":"유명인","level":5,"transcription":null}
 {"fr":"défunt","kr":"고인","level":5,"transcription":null}
 {"fr":"espérance","kr":"희망","level":5,"transcription":null}
 {"fr":"propager","kr":"전파하다","level":5,"transcription":null}
@@ -4799,7 +4799,7 @@
 {"fr":"câlin","kr":"귀여워","level":5,"transcription":null}
 {"fr":"exquis","kr":"절묘한","level":5,"transcription":null}
 {"fr":"hockey","kr":"하키","level":5,"transcription":null}
-{"fr":"arnaquer","kr":"찢어지다","level":5,"transcription":null}
+{"fr":"arnaquer","kr":"사기꾼","level":5,"transcription":null}
 {"fr":"déchaîner","kr":"해방하다","level":5,"transcription":null}
 {"fr":"gratuitement","kr":"무료로","level":5,"transcription":null}
 {"fr":"office","kr":"사무실","level":5,"transcription":null}
@@ -4888,30 +4888,30 @@
 {"fr":"lézard","kr":"도마뱀","level":5,"transcription":null}
 {"fr":"maléfique","kr":"사악한","level":5,"transcription":null}
 {"fr":"stage","kr":"인턴십","level":5,"transcription":null}
-{"fr":"désobéir","kr":"좇지 않다","level":5,"transcription":null}
-{"fr":"emmerde","kr":"못쓰게 만들다","level":5,"transcription":null}
-{"fr":"générosité","kr":"관대","level":5,"transcription":null}
+{"fr":"désobéir","kr":"아들께 따르지 않다","level":5,"transcription":null}
+{"fr":"emmerde","kr":"불쾌하다","level":5,"transcription":null}
+{"fr":"générosité","kr":"관대함","level":5,"transcription":null}
 {"fr":"seringue","kr":"주사기","level":5,"transcription":null}
-{"fr":"absenter","kr":"결석한","level":5,"transcription":null}
-{"fr":"cinquième","kr":"제오","level":5,"transcription":null}
+{"fr":"absenter","kr":"결석","level":5,"transcription":null}
+{"fr":"cinquième","kr":"다섯째","level":5,"transcription":null}
 {"fr":"district","kr":"구역","level":5,"transcription":null}
-{"fr":"efforcer","kr":"애쓰다","level":5,"transcription":null}
+{"fr":"efforcer","kr":"노력하다","level":5,"transcription":null}
 {"fr":"vortex","kr":"와동","level":5,"transcription":null}
-{"fr":"bilan","kr":"대차대조표","level":5,"transcription":null}
+{"fr":"bilan","kr":"결과","level":5,"transcription":null}
 {"fr":"boulette","kr":"작은 공","level":5,"transcription":null}
-{"fr":"enrager","kr":"성나게 하다","level":5,"transcription":null}
+{"fr":"enrager","kr":"성난다","level":5,"transcription":null}
 {"fr":"orphelinat","kr":"고아원","level":5,"transcription":null}
 {"fr":"préparation","kr":"준비","level":5,"transcription":null}
-{"fr":"réflexe","kr":"휘어진","level":5,"transcription":null}
+{"fr":"réflexe","kr":"반사 작용","level":5,"transcription":null}
 {"fr":"soûler","kr":"취하다","level":5,"transcription":null}
 {"fr":"statut","kr":"상태","level":5,"transcription":null}
 {"fr":"suspecter","kr":"의심하다","level":5,"transcription":null}
-{"fr":"brouiller","kr":"흐림","level":5,"transcription":null}
-{"fr":"douane","kr":"세관 ","level":5,"transcription":null}
+{"fr":"brouiller","kr":"혼란스럽게 하다","level":5,"transcription":null}
+{"fr":"douane","kr":"세관","level":5,"transcription":null}
 {"fr":"moule","kr":"곰팡이","level":5,"transcription":null}
 {"fr":"chiffon","kr":"옷감","level":5,"transcription":null}
-{"fr":"perche","kr":"퍼치","level":5,"transcription":null}
-{"fr":"réussi","kr":"성공적인","level":5,"transcription":null}
+{"fr":"perche","kr":"대나무","level":5,"transcription":null}
+{"fr":"réussi","kr":"성공한","level":5,"transcription":null}
 {"fr":"superstition","kr":"미신","level":5,"transcription":null}
 {"fr":"inattendu","kr":"예기치 않은","level":5,"transcription":null}
 {"fr":"canaille","kr":"악당","level":5,"transcription":null}
@@ -4979,10 +4979,10 @@
 {"fr":"conquête","kr":"정복","level":5,"transcription":null}
 {"fr":"décent","kr":"품위 있는","level":5,"transcription":null}
 {"fr":"pavillon","kr":"깃발","level":5,"transcription":null}
-{"fr":"sensibilité","kr":"감광도","level":5,"transcription":null}
+{"fr":"sensibilité","kr":"감각도","level":5,"transcription":null}
 {"fr":"about","kr":"~에 대한","level":5,"transcription":null}
 {"fr":"max","kr":"최대","level":5,"transcription":null}
-{"fr":"faucon","kr":"매","level":5,"transcription":null}
+{"fr":"faucon","kr":"새우","level":5,"transcription":null}
 {"fr":"licencier","kr":"해고하다","level":5,"transcription":null}
 {"fr":"nécessité","kr":"필요","level":5,"transcription":null}
 {"fr":"rouleau","kr":"연타","level":5,"transcription":null}

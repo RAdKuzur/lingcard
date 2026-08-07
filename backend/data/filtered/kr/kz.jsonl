@@ -123,7 +123,7 @@
 {"kr":"먹다","kz":"жеу","level":1,"transcription":null}
 {"kr":"사랑","kz":"махаббат","level":2,"transcription":null}
 {"kr":"그리고","kz":"және","level":1,"transcription":null}
-{"kr":"니까","kz":"Өйткені","level":2,"transcription":null}
+{"kr":"니까","kz":"өйткені","level":2,"transcription":null}
 {"kr":"만들다","kz":"жасау","level":1,"transcription":null}
 {"kr":"맞다","kz":"дұрыс","level":2,"transcription":null}
 {"kr":"게임","kz":"ойын","level":1,"transcription":null}
@@ -207,7 +207,7 @@
 {"kr":"경우","kz":"іс","level":3,"transcription":null}
 {"kr":"동안","kz":"кезінде","level":2,"transcription":null}
 {"kr":"으","kz":"уау","level":1,"transcription":null}
-{"kr":"이렇다","kz":"Мынадай","level":2,"transcription":null}
+{"kr":"이렇다","kz":"мынадай","level":2,"transcription":null}
 {"kr":"일본","kz":"Жапония","level":1,"transcription":null}
 {"kr":"첫","kz":"бірінші","level":1,"transcription":null}
 {"kr":"는지","kz":"Солай ма","level":2,"transcription":null}
@@ -250,7 +250,7 @@
 {"kr":"따르다","kz":"орындаңыз","level":2,"transcription":null}
 {"kr":"어떻다","kz":"Қалай","level":1,"transcription":null}
 {"kr":"째","kz":"бірінші","level":3,"transcription":null}
-{"kr":"처음","kz":"бірінші","level":1,"transcription":null}
+{"kr":"처음","kz":"бұл жолы","level":1,"transcription":null}
 {"kr":"팀","kz":"команда","level":2,"transcription":null}
 {"kr":"또한","kz":"сондай-ақ","level":3,"transcription":null}
 {"kr":"이번","kz":"бұл жолы","level":1,"transcription":null}
@@ -270,7 +270,7 @@
 {"kr":"안전","kz":"қауіпсіздік","level":2,"transcription":null}
 {"kr":"여성","kz":"әйел","level":3,"transcription":null}
 {"kr":"현재","kz":"бүгін","level":3,"transcription":null}
-{"kr":"거나","kz":"Немесе","level":2,"transcription":null}
+{"kr":"거나","kz":"немесе","level":2,"transcription":null}
 {"kr":"계속","kz":"жалғастыру","level":2,"transcription":null}
 {"kr":"미","kz":"миль","level":3,"transcription":null}
 {"kr":"방송","kz":"тарату","level":3,"transcription":null}
@@ -330,10 +330,10 @@
 {"kr":"약","kz":"шамамен","level":1,"transcription":null}
 {"kr":"연구","kz":"зерттеу","level":3,"transcription":null}
 {"kr":"결과","kz":"нәтиже","level":2,"transcription":null}
-{"kr":"다니다","kz":"бару","level":1,"transcription":null}
+{"kr":"다니다","kz":"барып бару","level":1,"transcription":null}
 {"kr":"도시","kz":"қала","level":1,"transcription":null}
 {"kr":"려고","kz":"тырысу","level":2,"transcription":null}
-{"kr":"바","kz":"бар","level":3,"transcription":null}
+{"kr":"바","kz":"бара","level":3,"transcription":null}
 {"kr":"사건","kz":"іс","level":2,"transcription":null}
 {"kr":"상태","kz":"жағдай","level":3,"transcription":null}
 {"kr":"조금","kz":"аз","level":1,"transcription":null}
@@ -342,36 +342,36 @@
 {"kr":"경기","kz":"ойын","level":3,"transcription":null}
 {"kr":"그러나","kz":"дегенмен","level":2,"transcription":null}
 {"kr":"둘","kz":"екі","level":1,"transcription":null}
-{"kr":"모습","kz":"фигура","level":3,"transcription":null}
+{"kr":"모습","kz":"мәселе","level":3,"transcription":null}
 {"kr":"없이","kz":"онсыз","level":2,"transcription":null}
-{"kr":"초","kz":"шам","level":1,"transcription":null}
-{"kr":"피","kz":"қан","level":1,"transcription":null}
+{"kr":"초","kz":"шаң","level":1,"transcription":null}
+{"kr":"피","kz":"қанат","level":1,"transcription":null}
 {"kr":"관계","kz":"қатынас","level":3,"transcription":null}
-{"kr":"듣다","kz":"тыңда","level":1,"transcription":null}
+{"kr":"듣다","kz":"тыңдау","level":1,"transcription":null}
 {"kr":"라면","kz":"рамен","level":1,"transcription":null}
-{"kr":"막","kz":"мембрана","level":3,"transcription":null}
+{"kr":"막","kz":"мәтін","level":3,"transcription":null}
 {"kr":"무슨","kz":"не","level":1,"transcription":null}
 {"kr":"반","kz":"жартысы","level":1,"transcription":null}
 {"kr":"사이","kz":"арасында","level":2,"transcription":null}
-{"kr":"생","kz":"шикі","level":3,"transcription":null}
+{"kr":"생","kz":"шаң","level":3,"transcription":null}
 {"kr":"아들","kz":"ұлы","level":1,"transcription":null}
 {"kr":"얻다","kz":"алу","level":2,"transcription":null}
 {"kr":"이용","kz":"пайдалану","level":3,"transcription":null}
 {"kr":"힘","kz":"күш","level":1,"transcription":null}
 {"kr":"나오다","kz":"шығу","level":1,"transcription":null}
 {"kr":"노래","kz":"ән айту","level":1,"transcription":null}
-{"kr":"누구","kz":"ДДСҰ","level":1,"transcription":null}
+{"kr":"누구","kz":"кім","level":1,"transcription":null}
 {"kr":"몸","kz":"дене","level":1,"transcription":null}
 {"kr":"상황","kz":"жағдай","level":3,"transcription":null}
 {"kr":"십","kz":"он","level":1,"transcription":null}
-{"kr":"프로그램","kz":"бағдарламасы","level":2,"transcription":null}
+{"kr":"프로그램","kz":"бағдарлама","level":2,"transcription":null}
 {"kr":"글","kz":"жазу","level":1,"transcription":null}
 {"kr":"기술","kz":"технология","level":3,"transcription":null}
 {"kr":"뜻","kz":"мағынасы","level":1,"transcription":null}
 {"kr":"마지막","kz":"соңғы","level":2,"transcription":null}
 {"kr":"머리","kz":"бас","level":1,"transcription":null}
 {"kr":"이것","kz":"бұл","level":1,"transcription":null}
-{"kr":"읽다","kz":"оқыңыз","level":1,"transcription":null}
+{"kr":"읽다","kz":"оқып оқу","level":1,"transcription":null}
 {"kr":"갖다","kz":"алу","level":2,"transcription":null}
 {"kr":"공개","kz":"босату","level":3,"transcription":null}
 {"kr":"기록","kz":"жазба","level":2,"transcription":null}
@@ -420,7 +420,7 @@
 {"kr":"만큼","kz":"бойынша","level":3,"transcription":null}
 {"kr":"아버지","kz":"әке","level":1,"transcription":null}
 {"kr":"양","kz":"қой","level":2,"transcription":null}
-{"kr":"김","kz":"теңіз балдыры","level":1,"transcription":null}
+{"kr":"김","kz":"кітап","level":1,"transcription":null}
 {"kr":"넘다","kz":"асып кету","level":2,"transcription":null}
 {"kr":"믿다","kz":"сенім","level":2,"transcription":null}
 {"kr":"삼","kz":"үш","level":1,"transcription":null}
@@ -448,7 +448,7 @@
 {"kr":"코","kz":"мұрын","level":1,"transcription":null}
 {"kr":"판매","kz":"сату","level":3,"transcription":null}
 {"kr":"내용","kz":"деталь","level":3,"transcription":null}
-{"kr":"병원","kz":"аурухана","level":1,"transcription":null}
+{"kr":"병원","kz":"бүлдімек","level":1,"transcription":null}
 {"kr":"아주","kz":"өте","level":1,"transcription":null}
 {"kr":"조사","kz":"тексеру","level":3,"transcription":null}
 {"kr":"추천","kz":"ұсыныс","level":3,"transcription":null}
@@ -672,7 +672,7 @@
 {"kr":"나무","kz":"ағаш","level":1,"transcription":null}
 {"kr":"나중","kz":"кейінірек","level":2,"transcription":null}
 {"kr":"나다","kz":"өсу","level":1,"transcription":null}
-{"kr":"맘","kz":"Анашым","level":2,"transcription":null}
+{"kr":"맘","kz":"아내","level":2,"transcription":null}
 {"kr":"미안","kz":"кешіріңіз","level":1,"transcription":null}
 {"kr":"심","kz":"орталық","level":3,"transcription":null}
 {"kr":"유명","kz":"белгілеу","level":2,"transcription":null}
@@ -687,7 +687,7 @@
 {"kr":"맨","kz":"адам","level":3,"transcription":null}
 {"kr":"미래","kz":"болашақ","level":2,"transcription":null}
 {"kr":"변화","kz":"өзгерту","level":3,"transcription":null}
-{"kr":"붙다","kz":"өту","level":2,"transcription":null}
+{"kr":"붙다","kz":"отыру","level":2,"transcription":null}
 {"kr":"소개","kz":"кіріспе","level":1,"transcription":null}
 {"kr":"심장","kz":"жүрек","level":3,"transcription":null}
 {"kr":"얘","kz":"Бала","level":2,"transcription":null}
@@ -987,7 +987,7 @@
 {"kr":"아마","kz":"мүмкін","level":2,"transcription":null}
 {"kr":"안내","kz":"нұсқаулық","level":2,"transcription":null}
 {"kr":"언어","kz":"тіл","level":2,"transcription":null}
-{"kr":"올림픽","kz":"олимпиадалар","level":3,"transcription":null}
+{"kr":"올림픽","kz":"олимпиада","level":3,"transcription":null}
 {"kr":"의식","kz":"сана","level":3,"transcription":null}
 {"kr":"일정","kz":"кесте","level":3,"transcription":null}
 {"kr":"주로","kz":"негізінен","level":2,"transcription":null}
@@ -1018,8 +1018,8 @@
 {"kr":"규정","kz":"қамтамасыз ету","level":3,"transcription":null}
 {"kr":"내다","kz":"беру","level":1,"transcription":null}
 {"kr":"너희","kz":"сіз жігіттер","level":1,"transcription":null}
-{"kr":"돌아가다","kz":"қайтару","level":1,"transcription":null}
-{"kr":"방문","kz":"бару","level":2,"transcription":null}
+{"kr":"돌아가다","kz":"қайтау","level":1,"transcription":null}
+{"kr":"방문","kz":"барамау","level":2,"transcription":null}
 {"kr":"봄","kz":"көктем","level":1,"transcription":null}
 {"kr":"북한","kz":"солтүстік корея","level":3,"transcription":null}
 {"kr":"어쩌다","kz":"әйтеуір","level":3,"transcription":null}
@@ -1049,7 +1049,7 @@
 {"kr":"완성","kz":"аяқтау","level":3,"transcription":null}
 {"kr":"인터뷰","kz":"сұхбат","level":2,"transcription":null}
 {"kr":"평생","kz":"өмір кезеңі","level":3,"transcription":null}
-{"kr":"거든요","kz":"Міне","level":3,"transcription":null}
+{"kr":"거든요","kz":"бұл жерде","level":3,"transcription":null}
 {"kr":"검색","kz":"іздеу","level":2,"transcription":null}
 {"kr":"겨울","kz":"қыс","level":1,"transcription":null}
 {"kr":"고양이","kz":"мысық","level":1,"transcription":null}
@@ -1095,15 +1095,15 @@
 {"kr":"값","kz":"мән","level":1,"transcription":null}
 {"kr":"거부","kz":"бас тарту","level":3,"transcription":null}
 {"kr":"걷다","kz":"жүру","level":1,"transcription":null}
-{"kr":"경기도","kz":"Кёнгидо","level":2,"transcription":null}
+{"kr":"경기도","kz":"경기도","level":2,"transcription":null}
 {"kr":"공장","kz":"зауыт","level":2,"transcription":null}
 {"kr":"구글","kz":"google","level":1,"transcription":null}
 {"kr":"귀","kz":"құлақ","level":1,"transcription":null}
-{"kr":"나머지","kz":"қалады","level":3,"transcription":null}
-{"kr":"네이버","kz":"Навер","level":1,"transcription":null}
-{"kr":"당연","kz":"Әрине","level":3,"transcription":null}
+{"kr":"나머지","kz":"нарамыж","level":3,"transcription":null}
+{"kr":"네이버","kz":"naver","level":1,"transcription":null}
+{"kr":"당연","kz":"әңгірме","level":3,"transcription":null}
 {"kr":"덕분","kz":"рахмет","level":3,"transcription":null}
-{"kr":"들어오다","kz":"кіріңіз","level":1,"transcription":null}
+{"kr":"들어오다","kz":"кіріп келу","level":1,"transcription":null}
 {"kr":"매력","kz":"тартымдылық","level":3,"transcription":null}
 {"kr":"성인","kz":"ересек","level":3,"transcription":null}
 {"kr":"소년","kz":"бала","level":2,"transcription":null}
@@ -1319,10 +1319,10 @@
 {"kr":"가리다","kz":"экран","level":2,"transcription":null}
 {"kr":"계산","kz":"есептеу","level":2,"transcription":null}
 {"kr":"꾼","kz":"ұры","level":3,"transcription":null}
-{"kr":"뇌","kz":"ми","level":3,"transcription":null}
+{"kr":"뇌","kz":"мозг","level":3,"transcription":null}
 {"kr":"력","kz":"қуат","level":3,"transcription":null}
-{"kr":"바닥","kz":"қабат","level":2,"transcription":null}
-{"kr":"바둑","kz":"Бадук","level":3,"transcription":null}
+{"kr":"바닥","kz":"табак","level":2,"transcription":null}
+{"kr":"바둑","kz":"бадук","level":3,"transcription":null}
 {"kr":"불법","kz":"әділетсіздік","level":3,"transcription":null}
 {"kr":"송","kz":"ән","level":2,"transcription":null}
 {"kr":"아무리","kz":"әрқашан солай","level":3,"transcription":null}
@@ -1348,36 +1348,36 @@
 {"kr":"자원","kz":"ресурстар","level":3,"transcription":null}
 {"kr":"잭","kz":"ұя","level":3,"transcription":null}
 {"kr":"청년","kz":"жастар","level":3,"transcription":null}
-{"kr":"컵","kz":"кесе","level":1,"transcription":null}
-{"kr":"케이스","kz":"іс","level":2,"transcription":null}
-{"kr":"파리","kz":"ұшу","level":2,"transcription":null}
-{"kr":"프리","kz":"тегін","level":3,"transcription":null}
-{"kr":"피부","kz":"тері","level":2,"transcription":null}
-{"kr":"화장실","kz":"дәретхана","level":1,"transcription":null}
+{"kr":"컵","kz":"капсула","level":1,"transcription":null}
+{"kr":"케이스","kz":"кейс","level":2,"transcription":null}
+{"kr":"파리","kz":"фара","level":2,"transcription":null}
+{"kr":"프리","kz":"премиум","level":3,"transcription":null}
+{"kr":"피부","kz":"кожа","level":2,"transcription":null}
+{"kr":"화장실","kz":"комнаты","level":1,"transcription":null}
 {"kr":"화학","kz":"химия","level":3,"transcription":null}
-{"kr":"걸리다","kz":"ілу","level":1,"transcription":null}
-{"kr":"교환","kz":"алмасу","level":3,"transcription":null}
-{"kr":"나가다","kz":"шығу","level":1,"transcription":null}
-{"kr":"나누다","kz":"бөлу","level":2,"transcription":null}
-{"kr":"얼른","kz":"тез","level":2,"transcription":null}
-{"kr":"우승","kz":"жең","level":3,"transcription":null}
-{"kr":"접속","kz":"байланыс","level":3,"transcription":null}
-{"kr":"취소","kz":"жою","level":2,"transcription":null}
+{"kr":"걸리다","kz":"ходить","level":1,"transcription":null}
+{"kr":"교환","kz":"обмен","level":3,"transcription":null}
+{"kr":"나가다","kz":"выходить","level":1,"transcription":null}
+{"kr":"나누다","kz":"разделять","level":2,"transcription":null}
+{"kr":"얼른","kz":"быстро","level":2,"transcription":null}
+{"kr":"우승","kz":"победа","level":3,"transcription":null}
+{"kr":"접속","kz":"соединение","level":3,"transcription":null}
+{"kr":"취소","kz":"отмена","level":2,"transcription":null}
 {"kr":"캠","kz":"камера","level":3,"transcription":null}
-{"kr":"탓","kz":"кінә","level":3,"transcription":null}
-{"kr":"가사","kz":"ән мәтіні","level":3,"transcription":null}
-{"kr":"개봉","kz":"ашу","level":3,"transcription":null}
-{"kr":"단순","kz":"қарапайым","level":3,"transcription":null}
-{"kr":"뜨다","kz":"тоқу","level":2,"transcription":null}
-{"kr":"비용","kz":"шығыс","level":3,"transcription":null}
-{"kr":"비해","kz":"салыстыру","level":3,"transcription":null}
-{"kr":"상관","kz":"алаңдаушылық","level":3,"transcription":null}
-{"kr":"수록","kz":"енгізілген","level":3,"transcription":null}
+{"kr":"탓","kz":"вина","level":3,"transcription":null}
+{"kr":"가사","kz":"работа","level":3,"transcription":null}
+{"kr":"개봉","kz":"открытие","level":3,"transcription":null}
+{"kr":"단순","kz":"простой","level":3,"transcription":null}
+{"kr":"뜨다","kz":"звучать","level":2,"transcription":null}
+{"kr":"비용","kz":"расходные материалы","level":3,"transcription":null}
+{"kr":"비해","kz":"сравнение","level":3,"transcription":null}
+{"kr":"상관","kz":"отношение","level":3,"transcription":null}
+{"kr":"수록","kz":"объем","level":3,"transcription":null}
 {"kr":"수학","kz":"математика","level":2,"transcription":null}
-{"kr":"숫자","kz":"саны","level":1,"transcription":null}
-{"kr":"아닌가","kz":"Емес пе?","level":2,"transcription":null}
-{"kr":"어떠","kz":"Қалай","level":1,"transcription":null}
-{"kr":"연장","kz":"ұзарту","level":3,"transcription":null}
+{"kr":"숫자","kz":"число","level":1,"transcription":null}
+{"kr":"아닌가","kz":"Есть ли это?","level":2,"transcription":null}
+{"kr":"어떠","kz":"Какое?","level":1,"transcription":null}
+{"kr":"연장","kz":"расширение","level":3,"transcription":null}
 {"kr":"이젠","kz":"әлі","level":2,"transcription":null}
 {"kr":"일찍","kz":"ерте","level":1,"transcription":null}
 {"kr":"주목","kz":"назар аудару","level":3,"transcription":null}
@@ -1409,7 +1409,7 @@
 {"kr":"움직이다","kz":"жылжыту","level":1,"transcription":null}
 {"kr":"일까","kz":"Солай ма","level":3,"transcription":null}
 {"kr":"작년","kz":"өткен жылы","level":2,"transcription":null}
-{"kr":"직장","kz":"тік ішек","level":2,"transcription":null}
+{"kr":"직장","kz":"жұмыс орны","level":2,"transcription":null}
 {"kr":"최소","kz":"минимум","level":3,"transcription":null}
 {"kr":"통하다","kz":"өту","level":3,"transcription":null}
 {"kr":"환영","kz":"иллюзия","level":3,"transcription":null}
@@ -1470,7 +1470,7 @@
 {"kr":"시각","kz":"уақыт","level":1,"transcription":null}
 {"kr":"신화","kz":"миф","level":3,"transcription":null}
 {"kr":"아이돌","kz":"пұт","level":3,"transcription":null}
-{"kr":"엄청나다","kz":"Бұл өте үлкен","level":3,"transcription":null}
+{"kr":"엄청나다","kz":"бұл өте үлкен","level":3,"transcription":null}
 {"kr":"오히려","kz":"керісінше","level":3,"transcription":null}
 {"kr":"외국","kz":"шет ел","level":1,"transcription":null}
 {"kr":"장르","kz":"жанр","level":3,"transcription":null}
@@ -1533,9 +1533,9 @@
 {"kr":"거치다","kz":"арқылы өту","level":3,"transcription":null}
 {"kr":"게다가","kz":"қосымша","level":3,"transcription":null}
 {"kr":"그날","kz":"сол күні","level":2,"transcription":null}
-{"kr":"그동안","kz":"Тап сол кезде","level":2,"transcription":null}
+{"kr":"그동안","kz":"тап сол кезде","level":2,"transcription":null}
 {"kr":"꺼내다","kz":"шығару","level":2,"transcription":null}
-{"kr":"끼리","kz":"Бірге","level":3,"transcription":null}
+{"kr":"끼리","kz":"бірге","level":3,"transcription":null}
 {"kr":"내내","kz":"барлық уақытта","level":3,"transcription":null}
 {"kr":"담배","kz":"темекі","level":2,"transcription":null}
 {"kr":"레드","kz":"қызыл","level":2,"transcription":null}
@@ -1647,32 +1647,32 @@
 {"kr":"버튼","kz":"түймесі","level":1,"transcription":null}
 {"kr":"세종","kz":"Седжон","level":1,"transcription":null}
 {"kr":"손상","kz":"құнсыздану","level":3,"transcription":null}
-{"kr":"양식","kz":"тамақ","level":3,"transcription":null}
-{"kr":"용기","kz":"батылдық","level":3,"transcription":null}
+{"kr":"양식","kz":"рыбы","level":3,"transcription":null}
+{"kr":"용기","kz":"басқашылық","level":3,"transcription":null}
 {"kr":"조명","kz":"жарықтандыру","level":3,"transcription":null}
-{"kr":"증상","kz":"белгілері","level":3,"transcription":null}
-{"kr":"지니다","kz":"тасымалдау","level":3,"transcription":null}
-{"kr":"철","kz":"болат","level":2,"transcription":null}
-{"kr":"체육","kz":"Спорт залы","level":2,"transcription":null}
-{"kr":"초반","kz":"алғашқы күндер","level":3,"transcription":null}
+{"kr":"증상","kz":"симптомдар","level":3,"transcription":null}
+{"kr":"지니다","kz":"жүргізуші","level":3,"transcription":null}
+{"kr":"철","kz":"балаға","level":2,"transcription":null}
+{"kr":"체육","kz":"спорт залы","level":2,"transcription":null}
+{"kr":"초반","kz":"алғашқы кездер","level":3,"transcription":null}
 {"kr":"택시","kz":"такси","level":1,"transcription":null}
-{"kr":"페이스북","kz":"facebook","level":2,"transcription":null}
+{"kr":"페이스북","kz":"Facebook","level":2,"transcription":null}
 {"kr":"편하다","kz":"босаңсыту","level":2,"transcription":null}
-{"kr":"헌","kz":"пайдаланылады","level":2,"transcription":null}
+{"kr":"헌","kz":"пайдалануға","level":2,"transcription":null}
 {"kr":"혼","kz":"жан","level":3,"transcription":null}
 {"kr":"거절","kz":"бас тарту","level":3,"transcription":null}
 {"kr":"광장","kz":"шаршы","level":3,"transcription":null}
 {"kr":"댄스","kz":"би","level":2,"transcription":null}
-{"kr":"뛰어나다","kz":"excel","level":3,"transcription":null}
+{"kr":"뛰어나다","kz":"өткірлеу","level":3,"transcription":null}
 {"kr":"량","kz":"саны","level":3,"transcription":null}
-{"kr":"바르다","kz":"дұрыс","level":2,"transcription":null}
+{"kr":"바르다","kz":"дұрыс етіп жазу","level":2,"transcription":null}
 {"kr":"베스트","kz":"Ең жақсы","level":3,"transcription":null}
 {"kr":"보험","kz":"сақтандыру","level":3,"transcription":null}
 {"kr":"부장","kz":"менеджер","level":3,"transcription":null}
 {"kr":"비행","kz":"ұшу","level":3,"transcription":null}
 {"kr":"사라지다","kz":"жоғалып кету","level":2,"transcription":null}
 {"kr":"서류","kz":"құжат","level":3,"transcription":null}
-{"kr":"수고","kz":"күш","level":3,"transcription":null}
+{"kr":"수고","kz":"күштілік","level":3,"transcription":null}
 {"kr":"수입","kz":"импорт","level":3,"transcription":null}
 {"kr":"시선","kz":"қарау","level":3,"transcription":null}
 {"kr":"신발","kz":"аяқ киім","level":1,"transcription":null}
@@ -1737,7 +1737,7 @@
 {"kr":"천천히","kz":"баяу","level":1,"transcription":null}
 {"kr":"청소","kz":"тазалау","level":2,"transcription":null}
 {"kr":"추억","kz":"жады","level":3,"transcription":null}
-{"kr":"취하다","kz":"мас","level":3,"transcription":null}
+{"kr":"취하다","kz":"маған","level":3,"transcription":null}
 {"kr":"캠프","kz":"лагерь","level":2,"transcription":null}
 {"kr":"컬러","kz":"түс","level":3,"transcription":null}
 {"kr":"팩","kz":"бума","level":3,"transcription":null}
@@ -1977,103 +1977,103 @@
 {"kr":"체크","kz":"тексеру","level":2,"transcription":null}
 {"kr":"톰","kz":"Том","level":1,"transcription":null}
 {"kr":"호수","kz":"көл","level":2,"transcription":null}
-{"kr":"감상","kz":"ризашылық","level":3,"transcription":null}
+{"kr":"감상","kz":"изучение","level":3,"transcription":null}
 {"kr":"갤럭시","kz":"галактика","level":1,"transcription":null}
-{"kr":"겨우","kz":"әрең","level":3,"transcription":null}
+{"kr":"겨우","kz":"всегда","level":3,"transcription":null}
 {"kr":"금속","kz":"металл","level":3,"transcription":null}
-{"kr":"꼬다","kz":"бұрау","level":3,"transcription":null}
-{"kr":"꽉","kz":"жақын","level":2,"transcription":null}
+{"kr":"꼬다","kz":"барабан","level":3,"transcription":null}
+{"kr":"꽉","kz":"очень","level":2,"transcription":null}
 {"kr":"나이트","kz":"рыцарь","level":3,"transcription":null}
-{"kr":"남쪽","kz":"оңтүстік","level":2,"transcription":null}
-{"kr":"늑대","kz":"қасқыр","level":3,"transcription":null}
-{"kr":"돼지","kz":"шошқа","level":1,"transcription":null}
-{"kr":"립","kz":"ерін","level":3,"transcription":null}
-{"kr":"밟다","kz":"протектор","level":2,"transcription":null}
-{"kr":"변신","kz":"түрлендіру","level":3,"transcription":null}
-{"kr":"북부","kz":"солтүстік","level":3,"transcription":null}
-{"kr":"빚","kz":"қарыз","level":3,"transcription":null}
-{"kr":"사자","kz":"арыстан","level":3,"transcription":null}
-{"kr":"색상","kz":"түс","level":3,"transcription":null}
-{"kr":"서양","kz":"Батыс","level":2,"transcription":null}
-{"kr":"수리","kz":"жөндеу","level":3,"transcription":null}
-{"kr":"스마트","kz":"ақылды","level":2,"transcription":null}
-{"kr":"신장","kz":"биіктігі","level":2,"transcription":null}
-{"kr":"약물","kz":"дәрі","level":3,"transcription":null}
-{"kr":"여서","kz":"өйткені","level":1,"transcription":null}
-{"kr":"엿","kz":"жынды","level":2,"transcription":null}
+{"kr":"남쪽","kz":"юг","level":2,"transcription":null}
+{"kr":"늑대","kz":"волк","level":3,"transcription":null}
+{"kr":"돼지","kz":"свинья","level":1,"transcription":null}
+{"kr":"립","kz":"перо","level":3,"transcription":null}
+{"kr":"밟다","kz":"бегать","level":2,"transcription":null}
+{"kr":"변신","kz":"трансформация","level":3,"transcription":null}
+{"kr":"북부","kz":"север","level":3,"transcription":null}
+{"kr":"빚","kz":"кредит","level":3,"transcription":null}
+{"kr":"사자","kz":"лев","level":3,"transcription":null}
+{"kr":"색상","kz":"цвет","level":3,"transcription":null}
+{"kr":"서양","kz":"запад","level":2,"transcription":null}
+{"kr":"수리","kz":"ремонт","level":3,"transcription":null}
+{"kr":"스마트","kz":"умный","level":2,"transcription":null}
+{"kr":"신장","kz":"рост","level":2,"transcription":null}
+{"kr":"약물","kz":"лекарство","level":3,"transcription":null}
+{"kr":"여서","kz":"потому что","level":1,"transcription":null}
+{"kr":"엿","kz":"малыш","level":2,"transcription":null}
 {"kr":"워싱턴","kz":"Вашингтон","level":1,"transcription":null}
-{"kr":"응원","kz":"қолдау көрсету","level":3,"transcription":null}
-{"kr":"적절하다","kz":"сәйкес","level":3,"transcription":null}
-{"kr":"절반","kz":"жартысы","level":2,"transcription":null}
-{"kr":"정기","kz":"мәні","level":3,"transcription":null}
+{"kr":"응원","kz":"поддержка","level":3,"transcription":null}
+{"kr":"적절하다","kz":"правильно","level":3,"transcription":null}
+{"kr":"절반","kz":"половина","level":2,"transcription":null}
+{"kr":"정기","kz":"регулярность","level":3,"transcription":null}
 {"kr":"조이","kz":"Қуаныш","level":1,"transcription":null}
 {"kr":"족","kz":"аяқ","level":3,"transcription":null}
-{"kr":"좁다","kz":"тар","level":2,"transcription":null}
-{"kr":"추석","kz":"Чусок","level":2,"transcription":null}
+{"kr":"좁다","kz":"кіші","level":2,"transcription":null}
+{"kr":"추석","kz":"Тұрақты күнделік мерекелер","level":2,"transcription":null}
 {"kr":"판사","kz":"судья","level":3,"transcription":null}
 {"kr":"필름","kz":"фильм","level":2,"transcription":null}
-{"kr":"한마디","kz":"Бір сөз","level":3,"transcription":null}
+{"kr":"한마디","kz":"бір сөз","level":3,"transcription":null}
 {"kr":"헤","kz":"жүзу","level":1,"transcription":null}
-{"kr":"그치다","kz":"тоқта","level":2,"transcription":null}
+{"kr":"그치다","kz":"тоқтау","level":2,"transcription":null}
 {"kr":"극장","kz":"театр","level":2,"transcription":null}
-{"kr":"근육","kz":"бұлшықеттер","level":3,"transcription":null}
+{"kr":"근육","kz":"бұлшықет","level":3,"transcription":null}
 {"kr":"금방","kz":"бірден","level":2,"transcription":null}
 {"kr":"녹색","kz":"жасыл","level":1,"transcription":null}
-{"kr":"논의","kz":"аргумент","level":3,"transcription":null}
-{"kr":"놓치다","kz":"сағыныш","level":2,"transcription":null}
+{"kr":"논의","kz":"аргументация","level":3,"transcription":null}
+{"kr":"놓치다","kz":"сағыну","level":2,"transcription":null}
 {"kr":"동작","kz":"қозғалыс","level":3,"transcription":null}
 {"kr":"렌즈","kz":"линза","level":3,"transcription":null}
-{"kr":"모음","kz":"жинау","level":2,"transcription":null}
+{"kr":"모음","kz":"звук","level":2,"transcription":null}
 {"kr":"백만","kz":"миллион","level":2,"transcription":null}
 {"kr":"보컬","kz":"вокал","level":3,"transcription":null}
-{"kr":"분명히","kz":"анық","level":3,"transcription":null}
+{"kr":"분명히","kz":"анықсыныс","level":3,"transcription":null}
 {"kr":"사냥","kz":"аң аулау","level":3,"transcription":null}
 {"kr":"사다","kz":"сатып алу","level":1,"transcription":null}
 {"kr":"소프트","kz":"жұмсақ","level":3,"transcription":null}
-{"kr":"신분","kz":"өмірдегі станция","level":3,"transcription":null}
-{"kr":"실망","kz":"көңілсіздік","level":2,"transcription":null}
+{"kr":"신분","kz":"бейнекейіндік құқылылық","level":3,"transcription":null}
+{"kr":"실망","kz":"ішкі қуанышысыздығы","level":2,"transcription":null}
 {"kr":"아이디어","kz":"идея","level":2,"transcription":null}
-{"kr":"왕국","kz":"патшалық","level":3,"transcription":null}
+{"kr":"왕국","kz":"патшалық мемлекет","level":3,"transcription":null}
 {"kr":"유학","kz":"шетелде оқу","level":3,"transcription":null}
-{"kr":"음료","kz":"ішетін заттар","level":2,"transcription":null}
+{"kr":"음료","kz":"ішінен шығатын заттар","level":2,"transcription":null}
 {"kr":"인원","kz":"персонал","level":3,"transcription":null}
-{"kr":"입력","kz":"енгізу","level":3,"transcription":null}
-{"kr":"자녀","kz":"балалар","level":3,"transcription":null}
-{"kr":"청춘","kz":"негізгі","level":3,"transcription":null}
-{"kr":"체육관","kz":"Спорт залы","level":2,"transcription":null}
+{"kr":"입력","kz":"ввод","level":3,"transcription":null}
+{"kr":"자녀","kz":"дети","level":3,"transcription":null}
+{"kr":"청춘","kz":"молодежь","level":3,"transcription":null}
+{"kr":"체육관","kz":"спортзал","level":2,"transcription":null}
 {"kr":"폭탄","kz":"бомба","level":3,"transcription":null}
-{"kr":"핑크","kz":"қызғылт","level":1,"transcription":null}
-{"kr":"핫","kz":"ыстық","level":2,"transcription":null}
-{"kr":"해변","kz":"теңіз жағалауы","level":2,"transcription":null}
+{"kr":"핑크","kz":"розовый","level":1,"transcription":null}
+{"kr":"핫","kz":"горячий","level":2,"transcription":null}
+{"kr":"해변","kz":"пляж","level":2,"transcription":null}
 {"kr":"흠","kz":"хмм","level":2,"transcription":null}
-{"kr":"갈등","kz":"қақтығыс","level":3,"transcription":null}
-{"kr":"강도","kz":"тонау","level":3,"transcription":null}
-{"kr":"계좌","kz":"есептік жазба","level":3,"transcription":null}
-{"kr":"고개","kz":"бас","level":2,"transcription":null}
-{"kr":"고도","kz":"биіктік","level":3,"transcription":null}
-{"kr":"꾸다","kz":"арман","level":2,"transcription":null}
-{"kr":"끈","kz":"жол","level":1,"transcription":null}
-{"kr":"노인","kz":"қарт адам","level":3,"transcription":null}
-{"kr":"놀이터","kz":"ойын алаңы","level":2,"transcription":null}
-{"kr":"당일","kz":"күні","level":3,"transcription":null}
+{"kr":"갈등","kz":"конфликт","level":3,"transcription":null}
+{"kr":"강도","kz":"сила","level":3,"transcription":null}
+{"kr":"계좌","kz":"счет","level":3,"transcription":null}
+{"kr":"고개","kz":"головка","level":2,"transcription":null}
+{"kr":"고도","kz":"высота","level":3,"transcription":null}
+{"kr":"꾸다","kz":"мечтать","level":2,"transcription":null}
+{"kr":"끈","kz":"цепь","level":1,"transcription":null}
+{"kr":"노인","kz":"старый","level":3,"transcription":null}
+{"kr":"놀이터","kz":"игровое поле","level":2,"transcription":null}
+{"kr":"당일","kz":"день","level":3,"transcription":null}
 {"kr":"멕시코","kz":"Мексика","level":2,"transcription":null}
-{"kr":"무언가","kz":"кез келген нәрсе","level":2,"transcription":null}
+{"kr":"무언가","kz":"что-нибудь","level":2,"transcription":null}
 {"kr":"병사","kz":"солдат","level":3,"transcription":null}
-{"kr":"비상","kz":"төтенше жағдай","level":3,"transcription":null}
-{"kr":"상관없다","kz":"Ештене етпейді","level":3,"transcription":null}
-{"kr":"상업","kz":"коммерция","level":3,"transcription":null}
-{"kr":"생물","kz":"жаратылыс","level":3,"transcription":null}
+{"kr":"비상","kz":"критическая ситуация","level":3,"transcription":null}
+{"kr":"상관없다","kz":"неважно","level":3,"transcription":null}
+{"kr":"상업","kz":"торговля","level":3,"transcription":null}
+{"kr":"생물","kz":"биология","level":3,"transcription":null}
 {"kr":"스페인","kz":"Испания","level":1,"transcription":null}
-{"kr":"아무런","kz":"ештеңе","level":3,"transcription":null}
-{"kr":"아시안","kz":"азиялық","level":3,"transcription":null}
+{"kr":"아무런","kz":"ничего","level":3,"transcription":null}
+{"kr":"아시안","kz":"Азия","level":3,"transcription":null}
 {"kr":"아웃","kz":"шығып","level":3,"transcription":null}
-{"kr":"안심","kz":"торт","level":3,"transcription":null}
-{"kr":"열차","kz":"пойыз","level":2,"transcription":null}
+{"kr":"안심","kz":"тірілдік","level":3,"transcription":null}
+{"kr":"열차","kz":"жол","level":2,"transcription":null}
 {"kr":"오브","kz":"орб","level":3,"transcription":null}
-{"kr":"움","kz":"жертөле","level":3,"transcription":null}
-{"kr":"움직임","kz":"қозғалыс","level":2,"transcription":null}
+{"kr":"움","kz":"жүгіру","level":3,"transcription":null}
+{"kr":"움직임","kz":"мобильділік","level":2,"transcription":null}
 {"kr":"자극","kz":"ынталандыру","level":3,"transcription":null}
-{"kr":"자막","kz":"тақырып","level":3,"transcription":null}
+{"kr":"자막","kz":"бейнежазба","level":3,"transcription":null}
 {"kr":"자정","kz":"түн ортасы","level":3,"transcription":null}
 {"kr":"정하다","kz":"шешу","level":2,"transcription":null}
 {"kr":"차라리","kz":"керісінше","level":3,"transcription":null}
@@ -2127,11 +2127,11 @@
 {"kr":"날짜","kz":"күні","level":1,"transcription":null}
 {"kr":"닭","kz":"тауық","level":1,"transcription":null}
 {"kr":"대원","kz":"экипаж","level":3,"transcription":null}
-{"kr":"더블","kz":"қос","level":3,"transcription":null}
-{"kr":"돔","kz":"күмбез","level":3,"transcription":null}
-{"kr":"땀","kz":"тер","level":2,"transcription":null}
-{"kr":"랍니다","kz":"Бұл керемет","level":3,"transcription":null}
-{"kr":"려오다","kz":"кел","level":2,"transcription":null}
+{"kr":"더블","kz":"көп","level":3,"transcription":null}
+{"kr":"돔","kz":"құйық","level":3,"transcription":null}
+{"kr":"땀","kz":"тері","level":2,"transcription":null}
+{"kr":"랍니다","kz":"бұл","level":3,"transcription":null}
+{"kr":"려오다","kz":"келу","level":2,"transcription":null}
 {"kr":"마침내","kz":"соңында","level":3,"transcription":null}
 {"kr":"멈추다","kz":"тоқтау","level":2,"transcription":null}
 {"kr":"모이다","kz":"біріктіру","level":2,"transcription":null}
@@ -2186,39 +2186,39 @@
 {"kr":"지켜보다","kz":"қарау","level":3,"transcription":null}
 {"kr":"쳐다보다","kz":"қараңыз","level":3,"transcription":null}
 {"kr":"콩","kz":"бұршақ","level":2,"transcription":null}
-{"kr":"포장","kz":"орау","level":3,"transcription":null}
-{"kr":"흑","kz":"қара","level":3,"transcription":null}
-{"kr":"흘리다","kz":"сарай","level":3,"transcription":null}
-{"kr":"건너다","kz":"өту","level":2,"transcription":null}
-{"kr":"건조","kz":"құрғақ","level":3,"transcription":null}
-{"kr":"대략","kz":"шамамен","level":3,"transcription":null}
-{"kr":"도망","kz":"қашу","level":3,"transcription":null}
-{"kr":"동쪽","kz":"шығыс","level":1,"transcription":null}
-{"kr":"라지","kz":"үлкен","level":2,"transcription":null}
-{"kr":"매주","kz":"апта сайын","level":2,"transcription":null}
-{"kr":"명단","kz":"тізім","level":3,"transcription":null}
-{"kr":"발행","kz":"басылым","level":3,"transcription":null}
-{"kr":"부위","kz":"аймақ","level":3,"transcription":null}
-{"kr":"사무","kz":"істер","level":2,"transcription":null}
-{"kr":"색깔","kz":"түс","level":1,"transcription":null}
-{"kr":"알바","kz":"жарты күн жұмысы","level":2,"transcription":null}
-{"kr":"에이","kz":"мүмкін емес","level":1,"transcription":null}
-{"kr":"여동생","kz":"сіңлі","level":1,"transcription":null}
-{"kr":"여론","kz":"қоғамдық пікір","level":3,"transcription":null}
-{"kr":"오류","kz":"қате","level":3,"transcription":null}
-{"kr":"옮기다","kz":"жылжыту","level":2,"transcription":null}
-{"kr":"위로","kz":"жұбату","level":3,"transcription":null}
-{"kr":"은퇴","kz":"шегіну","level":3,"transcription":null}
-{"kr":"조언","kz":"кеңес","level":3,"transcription":null}
-{"kr":"종목","kz":"оқиға","level":3,"transcription":null}
-{"kr":"주택","kz":"үй","level":2,"transcription":null}
-{"kr":"출판","kz":"басып шығару","level":3,"transcription":null}
+{"kr":"포장","kz":"упаковка","level":3,"transcription":null}
+{"kr":"흑","kz":"черный","level":3,"transcription":null}
+{"kr":"흘리다","kz":"вытекать","level":3,"transcription":null}
+{"kr":"건너다","kz":"переносить","level":2,"transcription":null}
+{"kr":"건조","kz":"сухой","level":3,"transcription":null}
+{"kr":"대략","kz":"около","level":3,"transcription":null}
+{"kr":"도망","kz":"уходить","level":3,"transcription":null}
+{"kr":"동쪽","kz":"восток","level":1,"transcription":null}
+{"kr":"라지","kz":"великий","level":2,"transcription":null}
+{"kr":"매주","kz":"каждую неделю","level":2,"transcription":null}
+{"kr":"명단","kz":"список","level":3,"transcription":null}
+{"kr":"발행","kz":"выпускать","level":3,"transcription":null}
+{"kr":"부위","kz":"место","level":3,"transcription":null}
+{"kr":"사무","kz":"работы","level":2,"transcription":null}
+{"kr":"색깔","kz":"цвет","level":1,"transcription":null}
+{"kr":"알바","kz":"работа по найму","level":2,"transcription":null}
+{"kr":"에이","kz":"невозможно","level":1,"transcription":null}
+{"kr":"여동생","kz":"братница","level":1,"transcription":null}
+{"kr":"여론","kz":"мнение","level":3,"transcription":null}
+{"kr":"오류","kz":"ошибка","level":3,"transcription":null}
+{"kr":"옮기다","kz":"перемещать","level":2,"transcription":null}
+{"kr":"위로","kz":"вверх","level":3,"transcription":null}
+{"kr":"은퇴","kz":"отпускаться","level":3,"transcription":null}
+{"kr":"조언","kz":"совет","level":3,"transcription":null}
+{"kr":"종목","kz":"категория","level":3,"transcription":null}
+{"kr":"주택","kz":"жилище","level":2,"transcription":null}
+{"kr":"출판","kz":"выпускать","level":3,"transcription":null}
 {"kr":"캠퍼스","kz":"кампус","level":2,"transcription":null}
-{"kr":"커다랗다","kz":"Бұл үлкен","level":2,"transcription":null}
-{"kr":"테이블","kz":"кесте","level":1,"transcription":null}
+{"kr":"커다랗다","kz":"большой","level":2,"transcription":null}
+{"kr":"테이블","kz":"стол","level":1,"transcription":null}
 {"kr":"팁","kz":"кеңес","level":2,"transcription":null}
 {"kr":"피아노","kz":"фортепиано","level":1,"transcription":null}
-{"kr":"한참","kz":"Біраз уақытқа","level":3,"transcription":null}
+{"kr":"한참","kz":"Бір-бір уақытқа","level":3,"transcription":null}
 {"kr":"합","kz":"жекпе-жек","level":3,"transcription":null}
 {"kr":"호흡","kz":"тыныс алу","level":3,"transcription":null}
 {"kr":"흑인","kz":"қара","level":3,"transcription":null}
@@ -2246,7 +2246,7 @@
 {"kr":"새롭다","kz":"жаңа бол","level":1,"transcription":null}
 {"kr":"서쪽","kz":"батыс","level":1,"transcription":null}
 {"kr":"여우","kz":"түлкі","level":2,"transcription":null}
-{"kr":"원작","kz":"түпнұсқа жұмыс","level":3,"transcription":null}
+{"kr":"원작","kz":"түпнұсқа жұмысы","level":3,"transcription":null}
 {"kr":"윈도우","kz":"терезелер","level":2,"transcription":null}
 {"kr":"이메일","kz":"электрондық пошта","level":2,"transcription":null}
 {"kr":"일곱","kz":"Жеті","level":1,"transcription":null}
@@ -2306,36 +2306,36 @@
 {"kr":"셔츠","kz":"көйлек","level":1,"transcription":null}
 {"kr":"스카이","kz":"аспан","level":3,"transcription":null}
 {"kr":"애기","kz":"нәресте","level":1,"transcription":null}
-{"kr":"이다","kz":"ам","level":1,"transcription":null}
-{"kr":"영화제","kz":"кинофестиваль","level":3,"transcription":null}
-{"kr":"옮다","kz":"жылжыту","level":3,"transcription":null}
-{"kr":"월요일","kz":"дүйсенбі","level":1,"transcription":null}
-{"kr":"저번","kz":"соңғы рет","level":2,"transcription":null}
-{"kr":"조카","kz":"жиен","level":2,"transcription":null}
-{"kr":"지르다","kz":"тебу","level":3,"transcription":null}
-{"kr":"짝","kz":"сәйкестік","level":2,"transcription":null}
-{"kr":"찰스","kz":"Чарльз","level":1,"transcription":null}
-{"kr":"컬","kz":"бұйралау","level":3,"transcription":null}
-{"kr":"티켓","kz":"билет","level":1,"transcription":null}
-{"kr":"편안","kz":"ыңғайлы","level":3,"transcription":null}
-{"kr":"폐","kz":"өкпе","level":3,"transcription":null}
-{"kr":"포트","kz":"порт","level":3,"transcription":null}
-{"kr":"푸르다","kz":"көк","level":2,"transcription":null}
-{"kr":"피자","kz":"пицца","level":1,"transcription":null}
-{"kr":"흔들다","kz":"шайқау","level":2,"transcription":null}
-{"kr":"간호사","kz":"медбике","level":2,"transcription":null}
-{"kr":"귀찮다","kz":"мазалайды","level":3,"transcription":null}
-{"kr":"그래픽","kz":"графика","level":3,"transcription":null}
-{"kr":"금액","kz":"сомасы","level":3,"transcription":null}
-{"kr":"나아가다","kz":"алға жылжу","level":3,"transcription":null}
-{"kr":"등등","kz":"т.б.","level":3,"transcription":null}
-{"kr":"똑같이","kz":"тең","level":2,"transcription":null}
-{"kr":"레전드","kz":"аңыз","level":3,"transcription":null}
-{"kr":"무척","kz":"өте","level":2,"transcription":null}
-{"kr":"바쁘다","kz":"бос емес","level":1,"transcription":null}
-{"kr":"베리","kz":"Берри","level":2,"transcription":null}
-{"kr":"부리","kz":"тұмсық","level":3,"transcription":null}
-{"kr":"슬픔","kz":"қайғы","level":3,"transcription":null}
+{"kr":"이다","kz":"am","level":1,"transcription":null}
+{"kr":"영화제","kz":"film festival","level":3,"transcription":null}
+{"kr":"옮다","kz":"move","level":3,"transcription":null}
+{"kr":"월요일","kz":"Monday","level":1,"transcription":null}
+{"kr":"저번","kz":"previous","level":2,"transcription":null}
+{"kr":"조카","kz":"niece","level":2,"transcription":null}
+{"kr":"지르다","kz":"to push","level":3,"transcription":null}
+{"kr":"짝","kz":"pair","level":2,"transcription":null}
+{"kr":"찰스","kz":"Charles","level":1,"transcription":null}
+{"kr":"컬","kz":"color","level":3,"transcription":null}
+{"kr":"티켓","kz":"ticket","level":1,"transcription":null}
+{"kr":"편안","kz":"comfortable","level":3,"transcription":null}
+{"kr":"폐","kz":"lung","level":3,"transcription":null}
+{"kr":"포트","kz":"case","level":3,"transcription":null}
+{"kr":"푸르다","kz":"to be red","level":2,"transcription":null}
+{"kr":"피자","kz":"pizza","level":1,"transcription":null}
+{"kr":"흔들다","kz":"to shake","level":2,"transcription":null}
+{"kr":"간호사","kz":"nurse","level":2,"transcription":null}
+{"kr":"귀찮다","kz":"annoying","level":3,"transcription":null}
+{"kr":"그래픽","kz":"graphic","level":3,"transcription":null}
+{"kr":"금액","kz":"amount","level":3,"transcription":null}
+{"kr":"나아가다","kz":"to go on","level":3,"transcription":null}
+{"kr":"등등","kz":"etc.","level":3,"transcription":null}
+{"kr":"똑같이","kz":"exactly","level":2,"transcription":null}
+{"kr":"레전드","kz":"legend","level":3,"transcription":null}
+{"kr":"무척","kz":"very much","level":2,"transcription":null}
+{"kr":"바쁘다","kz":"busy","level":1,"transcription":null}
+{"kr":"베리","kz":"berry","level":2,"transcription":null}
+{"kr":"부리","kz":"tailor","level":3,"transcription":null}
+{"kr":"슬픔","kz":"sadness","level":3,"transcription":null}
 {"kr":"신사","kz":"ғибадатхана","level":3,"transcription":null}
 {"kr":"아이템","kz":"элемент","level":3,"transcription":null}
 {"kr":"안드로이드","kz":"андроид","level":3,"transcription":null}
@@ -2397,13 +2397,13 @@
 {"kr":"개성","kz":"даралық","level":3,"transcription":null}
 {"kr":"경기장","kz":"стадион","level":2,"transcription":null}
 {"kr":"교과서","kz":"оқулық","level":2,"transcription":null}
-{"kr":"국어","kz":"корей","level":1,"transcription":null}
-{"kr":"국토","kz":"топырақ","level":3,"transcription":null}
-{"kr":"글씨","kz":"жазу","level":2,"transcription":null}
+{"kr":"국어","kz":"орыс тілі","level":1,"transcription":null}
+{"kr":"국토","kz":"жері","level":3,"transcription":null}
+{"kr":"글씨","kz":"жазба","level":2,"transcription":null}
 {"kr":"머니","kz":"ақша","level":2,"transcription":null}
-{"kr":"메뉴","kz":"мәзір","level":1,"transcription":null}
-{"kr":"모험","kz":"шытырман оқиға","level":3,"transcription":null}
-{"kr":"몬스터","kz":"құбыжық","level":3,"transcription":null}
+{"kr":"메뉴","kz":"меню","level":1,"transcription":null}
+{"kr":"모험","kz":"мәңгілік оқиға","level":3,"transcription":null}
+{"kr":"몬스터","kz":"монстр","level":3,"transcription":null}
 {"kr":"미군","kz":"АҚШ әскері","level":3,"transcription":null}
 {"kr":"미술관","kz":"өнер галереясы","level":2,"transcription":null}
 {"kr":"바위","kz":"тастар","level":2,"transcription":null}
@@ -2434,11 +2434,11 @@
 {"kr":"공중","kz":"әуе","level":3,"transcription":null}
 {"kr":"괴롭다","kz":"ауырсыну","level":3,"transcription":null}
 {"kr":"국경","kz":"шекаралық","level":3,"transcription":null}
-{"kr":"기차","kz":"пойыз","level":1,"transcription":null}
+{"kr":"기차","kz":"поезд","level":1,"transcription":null}
 {"kr":"냐는","kz":"Бұл не?","level":3,"transcription":null}
 {"kr":"동부","kz":"шығыс","level":3,"transcription":null}
 {"kr":"드레스","kz":"көйлек","level":2,"transcription":null}
-{"kr":"떠오르다","kz":"ұшу","level":3,"transcription":null}
+{"kr":"떠오르다","kz":"ұшуға түсу","level":3,"transcription":null}
 {"kr":"마디","kz":"сөз","level":3,"transcription":null}
 {"kr":"만두","kz":"тұшпара","level":2,"transcription":null}
 {"kr":"멍청하다","kz":"ақымақ","level":3,"transcription":null}
@@ -2456,13 +2456,13 @@
 {"kr":"우유","kz":"сүт","level":1,"transcription":null}
 {"kr":"이브","kz":"кеш","level":2,"transcription":null}
 {"kr":"이치","kz":"себебі","level":3,"transcription":null}
-{"kr":"일반인","kz":"жалпы жұртшылық","level":3,"transcription":null}
-{"kr":"자세히","kz":"егжей-тегжейлі","level":3,"transcription":null}
-{"kr":"전차","kz":"танк","level":3,"transcription":null}
-{"kr":"지붕","kz":"шатыр","level":2,"transcription":null}
-{"kr":"질서","kz":"тапсырыс","level":3,"transcription":null}
+{"kr":"일반인","kz":"жалпы жүйе","level":3,"transcription":null}
+{"kr":"자세히","kz":"детайлы","level":3,"transcription":null}
+{"kr":"전차","kz":"жолдаушы","level":3,"transcription":null}
+{"kr":"지붕","kz":"төмұр","level":2,"transcription":null}
+{"kr":"질서","kz":"күйзеліс","level":3,"transcription":null}
 {"kr":"찢다","kz":"жырту","level":2,"transcription":null}
-{"kr":"착용","kz":"кию","level":3,"transcription":null}
+{"kr":"착용","kz":"кію","level":3,"transcription":null}
 {"kr":"창문","kz":"терезе","level":1,"transcription":null}
 {"kr":"출구","kz":"шығу","level":1,"transcription":null}
 {"kr":"취미","kz":"хобби","level":1,"transcription":null}
@@ -2517,7 +2517,7 @@
 {"kr":"비싸다","kz":"қымбат","level":1,"transcription":null}
 {"kr":"사막","kz":"шөл","level":3,"transcription":null}
 {"kr":"샘플","kz":"үлгі","level":3,"transcription":null}
-{"kr":"안경","kz":"көзілдірік","level":1,"transcription":null}
+{"kr":"안경","kz":"안경","level":1,"transcription":null}
 {"kr":"엑스","kz":"x","level":3,"transcription":null}
 {"kr":"외모","kz":"сыртқы түрі","level":3,"transcription":null}
 {"kr":"이분","kz":"Бұл адам","level":1,"transcription":null}
@@ -2546,27 +2546,27 @@
 {"kr":"매치","kz":"сәйкестік","level":3,"transcription":null}
 {"kr":"문구","kz":"сөз тіркесі","level":2,"transcription":null}
 {"kr":"문명","kz":"өркениет","level":3,"transcription":null}
-{"kr":"상사","kz":"берік","level":3,"transcription":null}
-{"kr":"술집","kz":"бар","level":2,"transcription":null}
+{"kr":"상사","kz":"керіс","level":3,"transcription":null}
+{"kr":"술집","kz":"бара","level":2,"transcription":null}
 {"kr":"아뇨","kz":"жоқ","level":1,"transcription":null}
 {"kr":"양쪽","kz":"екі жағы","level":3,"transcription":null}
-{"kr":"어둡다","kz":"қараңғы","level":2,"transcription":null}
-{"kr":"어머","kz":"о","level":2,"transcription":null}
+{"kr":"어둡다","kz":"көлеңке","level":2,"transcription":null}
+{"kr":"어머","kz":"әйгіт","level":2,"transcription":null}
 {"kr":"오리","kz":"үйрек","level":1,"transcription":null}
-{"kr":"왠지","kz":"Әйтеуір","level":3,"transcription":null}
-{"kr":"우정","kz":"достық","level":3,"transcription":null}
-{"kr":"유로","kz":"еуро","level":2,"transcription":null}
+{"kr":"왠지","kz":"бұрынғы","level":3,"transcription":null}
+{"kr":"우정","kz":"досық","level":3,"transcription":null}
+{"kr":"유로","kz":"юро","level":2,"transcription":null}
 {"kr":"의문","kz":"сұрақ","level":3,"transcription":null}
-{"kr":"찌다","kz":"тұншықтыру","level":3,"transcription":null}
+{"kr":"찌다","kz":"түніштыру","level":3,"transcription":null}
 {"kr":"침","kz":"сілекей","level":3,"transcription":null}
-{"kr":"틈","kz":"апертура","level":3,"transcription":null}
+{"kr":"틈","kz":"аралық","level":3,"transcription":null}
 {"kr":"감기","kz":"суық","level":1,"transcription":null}
 {"kr":"개별","kz":"жеке","level":3,"transcription":null}
 {"kr":"공통","kz":"жалпылық","level":3,"transcription":null}
 {"kr":"그래프","kz":"график","level":3,"transcription":null}
 {"kr":"그림자","kz":"көлеңке","level":3,"transcription":null}
 {"kr":"그해","kz":"сол жылы","level":2,"transcription":null}
-{"kr":"대처","kz":"күресу","level":3,"transcription":null}
+{"kr":"대처","kz":"қарушылық","level":3,"transcription":null}
 {"kr":"동양","kz":"Шығыс","level":3,"transcription":null}
 {"kr":"때로","kz":"кейде","level":2,"transcription":null}
 {"kr":"떡","kz":"күріш торты","level":1,"transcription":null}
@@ -2574,7 +2574,7 @@
 {"kr":"브라질","kz":"Бразилия","level":1,"transcription":null}
 {"kr":"비서","kz":"хатшы","level":3,"transcription":null}
 {"kr":"서부","kz":"батыстық","level":2,"transcription":null}
-{"kr":"선박","kz":"Жеткізілім","level":3,"transcription":null}
+{"kr":"선박","kz":"жүксіздік","level":3,"transcription":null}
 {"kr":"수십","kz":"ондаған","level":3,"transcription":null}
 {"kr":"실내","kz":"жабық","level":3,"transcription":null}
 {"kr":"아이스크림","kz":"балмұздақ","level":1,"transcription":null}
@@ -2589,7 +2589,7 @@
 {"kr":"포스터","kz":"постер","level":2,"transcription":null}
 {"kr":"해안","kz":"теңіз жағалауы","level":3,"transcription":null}
 {"kr":"햄","kz":"ветчина","level":2,"transcription":null}
-{"kr":"가짜","kz":"ЖАЛҒАН","level":3,"transcription":null}
+{"kr":"가짜","kz":"жақсы","level":3,"transcription":null}
 {"kr":"감자","kz":"ақтүйнек","level":1,"transcription":null}
 {"kr":"걸다","kz":"ілу","level":2,"transcription":null}
 {"kr":"결심","kz":"анықтау","level":3,"transcription":null}
@@ -2698,7 +2698,7 @@
 {"kr":"장사","kz":"сауда","level":3,"transcription":null}
 {"kr":"장인","kz":"қолөнерші","level":3,"transcription":null}
 {"kr":"전시회","kz":"көрме","level":2,"transcription":null}
-{"kr":"축복","kz":"бата","level":3,"transcription":null}
+{"kr":"축복","kz":"бәрібір","level":3,"transcription":null}
 {"kr":"취업","kz":"жұмыспен қамту","level":3,"transcription":null}
 {"kr":"터지다","kz":"үзіліс","level":2,"transcription":null}
 {"kr":"호랑이","kz":"жолбарыс","level":2,"transcription":null}
@@ -2709,7 +2709,7 @@
 {"kr":"그만큼","kz":"сол","level":2,"transcription":null}
 {"kr":"그치만","kz":"Бірақ","level":2,"transcription":null}
 {"kr":"김포","kz":"gimpo","level":1,"transcription":null}
-{"kr":"낯설다","kz":"Бұл бейтаныс","level":3,"transcription":null}
+{"kr":"낯설다","kz":"бейтаныс","level":3,"transcription":null}
 {"kr":"도박","kz":"құмар ойындар","level":3,"transcription":null}
 {"kr":"따라가다","kz":"орындаңыз","level":2,"transcription":null}
 {"kr":"리드","kz":"қорғасын","level":3,"transcription":null}
@@ -2816,18 +2816,18 @@
 {"kr":"터키","kz":"Түркия","level":2,"transcription":null}
 {"kr":"테이프","kz":"стример","level":2,"transcription":null}
 {"kr":"패키지","kz":"пакет","level":3,"transcription":null}
-{"kr":"흰색","kz":"ақ","level":1,"transcription":null}
-{"kr":"힙합","kz":"хип-хоп","level":3,"transcription":null}
-{"kr":"강남구","kz":"Ганнам-гу","level":2,"transcription":null}
+{"kr":"흰색","kz":"белік","level":1,"transcription":null}
+{"kr":"힙합","kz":"hip-hop","level":3,"transcription":null}
+{"kr":"강남구","kz":"Gangnam-gu","level":2,"transcription":null}
 {"kr":"곱","kz":"өнім","level":3,"transcription":null}
-{"kr":"공짜","kz":"тегін","level":2,"transcription":null}
+{"kr":"공짜","kz":"бесплатно","level":2,"transcription":null}
 {"kr":"관람","kz":"қарау","level":3,"transcription":null}
-{"kr":"구두","kz":"аяқ киім","level":2,"transcription":null}
-{"kr":"기상","kz":"көтерілуде","level":3,"transcription":null}
-{"kr":"꿀","kz":"бал","level":2,"transcription":null}
-{"kr":"낭비","kz":"қалдықтар","level":3,"transcription":null}
-{"kr":"동해","kz":"шығыс теңіз","level":2,"transcription":null}
-{"kr":"디즈니","kz":"disney","level":1,"transcription":null}
+{"kr":"구두","kz":"қауыр","level":2,"transcription":null}
+{"kr":"기상","kz":"көліктердің қозғалысында","level":3,"transcription":null}
+{"kr":"꿀","kz":"мүс","level":2,"transcription":null}
+{"kr":"낭비","kz":"жұмыссыздық","level":3,"transcription":null}
+{"kr":"동해","kz":"Донго-дэ","level":2,"transcription":null}
+{"kr":"디즈니","kz":"Disney","level":1,"transcription":null}
 {"kr":"마일","kz":"миль","level":2,"transcription":null}
 {"kr":"발전소","kz":"электр станциясы","level":3,"transcription":null}
 {"kr":"방안","kz":"бөлме","level":3,"transcription":null}
@@ -2838,7 +2838,7 @@
 {"kr":"석유","kz":"мұнай","level":2,"transcription":null}
 {"kr":"스페이스","kz":"кеңістік","level":3,"transcription":null}
 {"kr":"애니","kz":"анимациялық фильм","level":2,"transcription":null}
-{"kr":"어색하다","kz":"Бұл ыңғайсыз","level":3,"transcription":null}
+{"kr":"어색하다","kz":"бұл ыңғайсыз","level":3,"transcription":null}
 {"kr":"에피소드","kz":"эпизод","level":3,"transcription":null}
 {"kr":"예술가","kz":"суретші","level":3,"transcription":null}
 {"kr":"오토","kz":"авто","level":3,"transcription":null}
@@ -2906,17 +2906,17 @@
 {"kr":"관리자","kz":"менеджер","level":2,"transcription":null}
 {"kr":"광산","kz":"менікі","level":3,"transcription":null}
 {"kr":"날리다","kz":"ұшу","level":2,"transcription":null}
-{"kr":"노조","kz":"одақ","level":3,"transcription":null}
+{"kr":"노조","kz":"социалитет","level":3,"transcription":null}
 {"kr":"는군요","kz":"Мен түсінемін","level":2,"transcription":null}
-{"kr":"단점","kz":"кемшілігі","level":3,"transcription":null}
-{"kr":"답답하다","kz":"көңілсіз","level":3,"transcription":null}
+{"kr":"단점","kz":"кемшілік","level":3,"transcription":null}
+{"kr":"답답하다","kz":"көңілсіздік","level":3,"transcription":null}
 {"kr":"대륙","kz":"континент","level":3,"transcription":null}
 {"kr":"던지다","kz":"лақтыру","level":2,"transcription":null}
-{"kr":"드래곤","kz":"айдаһар","level":2,"transcription":null}
-{"kr":"말리다","kz":"құрғақ","level":3,"transcription":null}
+{"kr":"드래곤","kz":"дракон","level":2,"transcription":null}
+{"kr":"말리다","kz":"құрғау","level":3,"transcription":null}
 {"kr":"면접","kz":"сұхбат","level":3,"transcription":null}
-{"kr":"무선","kz":"сымсыз","level":3,"transcription":null}
-{"kr":"배팅","kz":"бәс тігу","level":3,"transcription":null}
+{"kr":"무선","kz":"сымсыздық","level":3,"transcription":null}
+{"kr":"배팅","kz":"бәсігу","level":3,"transcription":null}
 {"kr":"밴","kz":"фургон","level":3,"transcription":null}
 {"kr":"브라이언","kz":"Брайан","level":1,"transcription":null}
 {"kr":"사소하다","kz":"тривиальды","level":3,"transcription":null}
@@ -2929,14 +2929,14 @@
 {"kr":"신선하다","kz":"балғын","level":2,"transcription":null}
 {"kr":"악기","kz":"музыкалық аспап","level":3,"transcription":null}
 {"kr":"야구장","kz":"алмаз","level":3,"transcription":null}
-{"kr":"에어컨","kz":"ауаны кондициялау","level":2,"transcription":null}
+{"kr":"에어컨","kz":"ауаны кондиционер","level":2,"transcription":null}
 {"kr":"여기저기","kz":"мұнда және мұнда","level":2,"transcription":null}
 {"kr":"연휴","kz":"мереке","level":3,"transcription":null}
 {"kr":"오가다","kz":"кел және кет","level":2,"transcription":null}
 {"kr":"오프","kz":"өшірулі","level":3,"transcription":null}
 {"kr":"입문","kz":"кіріспе","level":3,"transcription":null}
 {"kr":"조리","kz":"аспаз","level":3,"transcription":null}
-{"kr":"조만간","kz":"кешікпей","level":3,"transcription":null}
+{"kr":"조만간","kz":"кейін","level":3,"transcription":null}
 {"kr":"주자","kz":"жүгіруші","level":3,"transcription":null}
 {"kr":"짚다","kz":"атап өту","level":3,"transcription":null}
 {"kr":"캔","kz":"алады","level":2,"transcription":null}
@@ -2966,7 +2966,7 @@
 {"kr":"어딘가","kz":"бір жерде","level":2,"transcription":null}
 {"kr":"어째서","kz":"неге","level":2,"transcription":null}
 {"kr":"욕심","kz":"ашкөздік","level":3,"transcription":null}
-{"kr":"월급","kz":"жалақы","level":2,"transcription":null}
+{"kr":"월급","kz":"жалық","level":2,"transcription":null}
 {"kr":"입시","kz":"қабылдау емтиханы","level":3,"transcription":null}
 {"kr":"적당","kz":"модерация","level":3,"transcription":null}
 {"kr":"젊은이","kz":"жастар","level":3,"transcription":null}
@@ -2994,7 +2994,7 @@
 {"kr":"노하우","kz":"қалай екенін білу","level":3,"transcription":null}
 {"kr":"농촌","kz":"ауылдық","level":3,"transcription":null}
 {"kr":"누군지","kz":"кім","level":2,"transcription":null}
-{"kr":"뉴질랜드","kz":"Жаңа зеландия","level":1,"transcription":null}
+{"kr":"뉴질랜드","kz":"Жаңа Зеландия","level":1,"transcription":null}
 {"kr":"다운로드","kz":"жүктеп алу","level":2,"transcription":null}
 {"kr":"다이아몬드","kz":"алмаз","level":3,"transcription":null}
 {"kr":"도저히","kz":"Мүмкін емес","level":3,"transcription":null}
@@ -3061,16 +3061,16 @@
 {"kr":"진학","kz":"қосымша білім","level":3,"transcription":null}
 {"kr":"컨텐츠","kz":"мазмұны","level":3,"transcription":null}
 {"kr":"큰일","kz":"үлкен мәселе","level":2,"transcription":null}
-{"kr":"탐정","kz":"көз","level":3,"transcription":null}
+{"kr":"탐정","kz":"көзге қарау","level":3,"transcription":null}
 {"kr":"택배","kz":"сәлемдеме","level":2,"transcription":null}
 {"kr":"파도","kz":"толқын","level":3,"transcription":null}
 {"kr":"퍼센트","kz":"пайыз","level":2,"transcription":null}
 {"kr":"퍼포먼스","kz":"өнімділік","level":3,"transcription":null}
 {"kr":"풀다","kz":"ашу","level":2,"transcription":null}
 {"kr":"학대","kz":"теріс пайдалану","level":3,"transcription":null}
-{"kr":"혼합","kz":"араластырыңыз","level":3,"transcription":null}
+{"kr":"혼합","kz":"араластырылу","level":3,"transcription":null}
 {"kr":"가죽","kz":"былғары","level":2,"transcription":null}
-{"kr":"건축물","kz":"сәулет","level":3,"transcription":null}
+{"kr":"건축물","kz":"сәулетті құрылыс","level":3,"transcription":null}
 {"kr":"고치다","kz":"түзету","level":2,"transcription":null}
 {"kr":"글쎄","kz":"жақсы","level":3,"transcription":null}
 {"kr":"금발","kz":"аққұба","level":3,"transcription":null}
@@ -3084,7 +3084,7 @@
 {"kr":"동아리","kz":"клуб","level":2,"transcription":null}
 {"kr":"뜰","kz":"бақша","level":3,"transcription":null}
 {"kr":"레이싱","kz":"жарыс","level":3,"transcription":null}
-{"kr":"멜로디","kz":"әуен","level":2,"transcription":null}
+{"kr":"멜로디","kz":"әуенің үлгісі","level":2,"transcription":null}
 {"kr":"명절","kz":"мереке","level":2,"transcription":null}
 {"kr":"모형","kz":"үлгі","level":3,"transcription":null}
 {"kr":"믹스","kz":"араластырыңыз","level":2,"transcription":null}
@@ -3145,11 +3145,11 @@
 {"kr":"인턴","kz":"интерн","level":3,"transcription":null}
 {"kr":"장갑","kz":"қолғап","level":2,"transcription":null}
 {"kr":"재고","kz":"түгендеу","level":3,"transcription":null}
-{"kr":"종로","kz":"Джонно","level":1,"transcription":null}
+{"kr":"종로","kz":"종로","level":1,"transcription":null}
 {"kr":"주어지다","kz":"берілген","level":3,"transcription":null}
 {"kr":"차기","kz":"тебу","level":3,"transcription":null}
 {"kr":"책임자","kz":"жауапты тұлға","level":3,"transcription":null}
-{"kr":"출","kz":"Мысырдан шығу","level":3,"transcription":null}
+{"kr":"출","kz":"мысырдан шығу","level":3,"transcription":null}
 {"kr":"출생","kz":"туу","level":3,"transcription":null}
 {"kr":"춥다","kz":"суық","level":1,"transcription":null}
 {"kr":"퀴즈","kz":"викторина","level":2,"transcription":null}
@@ -3162,22 +3162,22 @@
 {"kr":"고래","kz":"кит","level":2,"transcription":null}
 {"kr":"공룡","kz":"динозавр","level":2,"transcription":null}
 {"kr":"구석","kz":"бұрыш","level":2,"transcription":null}
-{"kr":"구청","kz":"Аудандық кеңсе","level":2,"transcription":null}
+{"kr":"구청","kz":"구청","level":2,"transcription":null}
 {"kr":"국산","kz":"отандық өндірілген","level":3,"transcription":null}
 {"kr":"기어","kz":"беріліс","level":3,"transcription":null}
 {"kr":"깎다","kz":"ұрып-соғу","level":2,"transcription":null}
-{"kr":"눈앞","kz":"Көз алдыңызда","level":3,"transcription":null}
+{"kr":"눈앞","kz":"көз алдыңызда","level":3,"transcription":null}
 {"kr":"다녀오다","kz":"қайтып кел","level":2,"transcription":null}
 {"kr":"다행히","kz":"бақытымызға орай","level":3,"transcription":null}
 {"kr":"담임","kz":"сынып мұғалімі","level":3,"transcription":null}
-{"kr":"도장","kz":"жабын","level":2,"transcription":null}
+{"kr":"도장","kz":"도장","level":2,"transcription":null}
 {"kr":"동계","kz":"қыс мезгілі","level":3,"transcription":null}
 {"kr":"드물다","kz":"сирек","level":3,"transcription":null}
 {"kr":"마켓","kz":"нарық","level":2,"transcription":null}
 {"kr":"불꽃","kz":"жалын","level":3,"transcription":null}
-{"kr":"비스트","kz":"Аң","level":3,"transcription":null}
+{"kr":"비스트","kz":"бастың","level":3,"transcription":null}
 {"kr":"속옷","kz":"іш киім","level":2,"transcription":null}
-{"kr":"숙소","kz":"тұру","level":3,"transcription":null}
+{"kr":"숙소","kz":"отель","level":3,"transcription":null}
 {"kr":"스파이","kz":"шпион","level":3,"transcription":null}
 {"kr":"신혼","kz":"жас жұбайлар","level":3,"transcription":null}
 {"kr":"옹","kz":"иә","level":3,"transcription":null}
@@ -3188,7 +3188,7 @@
 {"kr":"캐리","kz":"тасымалдау","level":3,"transcription":null}
 {"kr":"타이밍","kz":"уақыт","level":3,"transcription":null}
 {"kr":"테니스","kz":"теннис","level":2,"transcription":null}
-{"kr":"투수","kz":"боулингші","level":3,"transcription":null}
+{"kr":"투수","kz":"боулинг","level":3,"transcription":null}
 {"kr":"파랑","kz":"көк","level":1,"transcription":null}
 {"kr":"팟","kz":"қазан","level":2,"transcription":null}
 {"kr":"풀리다","kz":"жойылады","level":3,"transcription":null}
@@ -3206,8 +3206,8 @@
 {"kr":"까먹다","kz":"ұмыт","level":2,"transcription":null}
 {"kr":"대다수","kz":"көптік","level":3,"transcription":null}
 {"kr":"득점","kz":"ұпай","level":3,"transcription":null}
-{"kr":"딱히","kz":"Онша емес","level":3,"transcription":null}
-{"kr":"마음속","kz":"Менің жүрегімде","level":3,"transcription":null}
+{"kr":"딱히","kz":"онша емес","level":3,"transcription":null}
+{"kr":"마음속","kz":"мүсіміңде","level":3,"transcription":null}
 {"kr":"망치","kz":"балға","level":2,"transcription":null}
 {"kr":"미루다","kz":"кешіктіру","level":3,"transcription":null}
 {"kr":"사제","kz":"діни қызметкер","level":3,"transcription":null}
@@ -3215,7 +3215,7 @@
 {"kr":"삼촌","kz":"ағай","level":1,"transcription":null}
 {"kr":"상공","kz":"аспан","level":3,"transcription":null}
 {"kr":"수량","kz":"саны","level":3,"transcription":null}
-{"kr":"스위치","kz":"ауыстырып қосқыш","level":2,"transcription":null}
+{"kr":"스위치","kz":"көшіру器","level":2,"transcription":null}
 {"kr":"신자","kz":"сенуші","level":3,"transcription":null}
 {"kr":"아우","kz":"кадет","level":2,"transcription":null}
 {"kr":"에다가","kz":"Содан соң","level":3,"transcription":null}
@@ -3356,7 +3356,7 @@
 {"kr":"으려면","kz":"Жасау","level":3,"transcription":null}
 {"kr":"이득","kz":"пайда","level":3,"transcription":null}
 {"kr":"전진","kz":"алдын ала","level":3,"transcription":null}
-{"kr":"지명","kz":"номинация","level":3,"transcription":null}
+{"kr":"지명","kz":"노минация","level":3,"transcription":null}
 {"kr":"진료","kz":"медициналық емдеу","level":3,"transcription":null}
 {"kr":"짙","kz":"Қараңғы","level":3,"transcription":null}
 {"kr":"천연","kz":"табиғи","level":3,"transcription":null}
@@ -3479,7 +3479,7 @@
 {"kr":"땜","kz":"өңдеу","level":3,"transcription":null}
 {"kr":"로비","kz":"лобби","level":2,"transcription":null}
 {"kr":"리치","kz":"бай","level":3,"transcription":null}
-{"kr":"마땅","kz":"Дұрыс солай","level":3,"transcription":null}
+{"kr":"마땅","kz":"дұрыс солай","level":3,"transcription":null}
 {"kr":"마인드","kz":"ақыл","level":3,"transcription":null}
 {"kr":"말레이시아","kz":"малайзия","level":2,"transcription":null}
 {"kr":"무용","kz":"билеу","level":3,"transcription":null}
@@ -3492,7 +3492,7 @@
 {"kr":"알림","kz":"дабыл","level":2,"transcription":null}
 {"kr":"액체","kz":"сұйықтық","level":3,"transcription":null}
 {"kr":"야드","kz":"аула","level":3,"transcription":null}
-{"kr":"엑","kz":"Мысалы","level":2,"transcription":null}
+{"kr":"엑","kz":"мысалы","level":2,"transcription":null}
 {"kr":"여학생","kz":"мектеп оқушысы","level":3,"transcription":null}
 {"kr":"오타","kz":"қате","level":3,"transcription":null}
 {"kr":"온천","kz":"спа","level":2,"transcription":null}
@@ -3537,15 +3537,15 @@
 {"kr":"안녕히","kz":"Қош бол","level":1,"transcription":null}
 {"kr":"았었","kz":"болды","level":2,"transcription":null}
 {"kr":"업그레이드","kz":"жаңарту","level":3,"transcription":null}
-{"kr":"오만","kz":"Оман","level":3,"transcription":null}
+{"kr":"오만","kz":"омак","level":3,"transcription":null}
 {"kr":"옥수수","kz":"бұрыш","level":2,"transcription":null}
 {"kr":"웅","kz":"иә","level":3,"transcription":null}
 {"kr":"음악회","kz":"концерт","level":2,"transcription":null}
 {"kr":"자켓","kz":"куртка","level":2,"transcription":null}
-{"kr":"재미없다","kz":"Бұл қызық емес","level":1,"transcription":null}
-{"kr":"제게","kz":"Маған","level":1,"transcription":null}
+{"kr":"재미없다","kz":"бұл қызық емес","level":1,"transcription":null}
+{"kr":"제게","kz":"маған","level":1,"transcription":null}
 {"kr":"중도","kz":"орта жол","level":3,"transcription":null}
-{"kr":"중부","kz":"Орталық","level":2,"transcription":null}
+{"kr":"중부","kz":"орталық","level":2,"transcription":null}
 {"kr":"초등학생","kz":"бастауыш сынып оқушысы","level":2,"transcription":null}
 {"kr":"춘","kz":"көктем","level":3,"transcription":null}
 {"kr":"치아","kz":"тістері","level":3,"transcription":null}
@@ -3596,36 +3596,36 @@
 {"kr":"운반","kz":"тасымалдау","level":3,"transcription":null}
 {"kr":"월간","kz":"ай сайын","level":3,"transcription":null}
 {"kr":"일행","kz":"кеш","level":3,"transcription":null}
-{"kr":"잠실","kz":"Джамсил","level":1,"transcription":null}
-{"kr":"정정","kz":"түзету","level":3,"transcription":null}
-{"kr":"조류","kz":"құстар","level":3,"transcription":null}
-{"kr":"조종사","kz":"ұшқыш","level":2,"transcription":null}
-{"kr":"주름","kz":"әжімдер","level":3,"transcription":null}
-{"kr":"찰리","kz":"Чарли","level":1,"transcription":null}
-{"kr":"체중","kz":"салмақ","level":2,"transcription":null}
-{"kr":"캡","kz":"қалпақ","level":2,"transcription":null}
-{"kr":"파업","kz":"ереуіл","level":3,"transcription":null}
-{"kr":"해적","kz":"қарақшы","level":3,"transcription":null}
-{"kr":"가계","kz":"ата-тегі","level":3,"transcription":null}
-{"kr":"갱신","kz":"жаңарту","level":3,"transcription":null}
-{"kr":"꿇다","kz":"тізе бүгіңіз","level":3,"transcription":null}
-{"kr":"낡다","kz":"ескі","level":2,"transcription":null}
-{"kr":"농부","kz":"шаруа","level":2,"transcription":null}
-{"kr":"다름","kz":"айырмашылық","level":3,"transcription":null}
-{"kr":"때때로","kz":"кейде","level":2,"transcription":null}
-{"kr":"떠들다","kz":"көтеру","level":2,"transcription":null}
-{"kr":"로프","kz":"арқан","level":3,"transcription":null}
-{"kr":"매달","kz":"ай сайын","level":2,"transcription":null}
+{"kr":"잠실","kz":"Самсилен","level":1,"transcription":null}
+{"kr":"정정","kz":"уточнение","level":3,"transcription":null}
+{"kr":"조류","kz":"птицы","level":3,"transcription":null}
+{"kr":"조종사","kz":"пилот","level":2,"transcription":null}
+{"kr":"주름","kz":"глубокие морщины","level":3,"transcription":null}
+{"kr":"찰리","kz":"Charlie","level":1,"transcription":null}
+{"kr":"체중","kz":"вес","level":2,"transcription":null}
+{"kr":"캡","kz":"шляпа","level":2,"transcription":null}
+{"kr":"파업","kz":"отказ от работы","level":3,"transcription":null}
+{"kr":"해적","kz":"рыбаки","level":3,"transcription":null}
+{"kr":"가계","kz":"родина","level":3,"transcription":null}
+{"kr":"갱신","kz":"обновление","level":3,"transcription":null}
+{"kr":"꿇다","kz":"выдернуть","level":3,"transcription":null}
+{"kr":"낡다","kz":"стареть","level":2,"transcription":null}
+{"kr":"농부","kz":"фермер","level":2,"transcription":null}
+{"kr":"다름","kz":"различие","level":3,"transcription":null}
+{"kr":"때때로","kz":"редко","level":2,"transcription":null}
+{"kr":"떠들다","kz":"громить","level":2,"transcription":null}
+{"kr":"로프","kz":"шнурок","level":3,"transcription":null}
+{"kr":"매달","kz":"ежемесячно","level":2,"transcription":null}
 {"kr":"맥락","kz":"контекст","level":3,"transcription":null}
-{"kr":"메이커","kz":"жасаушы","level":3,"transcription":null}
-{"kr":"몸무게","kz":"салмақ","level":2,"transcription":null}
-{"kr":"바치다","kz":"арнау","level":3,"transcription":null}
-{"kr":"방송국","kz":"хабар тарату станциясы","level":3,"transcription":null}
-{"kr":"벚꽃","kz":"сакура","level":2,"transcription":null}
+{"kr":"메이커","kz":"мастер","level":3,"transcription":null}
+{"kr":"몸무게","kz":"вес","level":2,"transcription":null}
+{"kr":"바치다","kz":"пришить","level":3,"transcription":null}
+{"kr":"방송국","kz":"радио-телевизионная станция","level":3,"transcription":null}
+{"kr":"벚꽃","kz":"цветок бузины","level":2,"transcription":null}
 {"kr":"베타","kz":"бета","level":3,"transcription":null}
-{"kr":"사업자","kz":"іскер адам","level":3,"transcription":null}
-{"kr":"수분","kz":"ылғал","level":3,"transcription":null}
-{"kr":"슬로건","kz":"ұран","level":3,"transcription":null}
+{"kr":"사업자","kz":"предприниматель","level":3,"transcription":null}
+{"kr":"수분","kz":"влажность","level":3,"transcription":null}
+{"kr":"슬로건","kz":"логотип","level":3,"transcription":null}
 {"kr":"실은","kz":"Шын мәнінде","level":3,"transcription":null}
 {"kr":"썬","kz":"күн","level":2,"transcription":null}
 {"kr":"안개","kz":"тұман","level":2,"transcription":null}
@@ -3716,36 +3716,36 @@
 {"kr":"스프링","kz":"көктем","level":3,"transcription":null}
 {"kr":"신작","kz":"жаңа жұмыс","level":3,"transcription":null}
 {"kr":"알코올","kz":"алкоголь","level":3,"transcription":null}
-{"kr":"염색","kz":"бояу","level":3,"transcription":null}
-{"kr":"적당히","kz":"дұрыс","level":3,"transcription":null}
+{"kr":"염색","kz":"цвет","level":3,"transcription":null}
+{"kr":"적당히","kz":"достықша","level":3,"transcription":null}
 {"kr":"제이슨","kz":"Джейсон","level":1,"transcription":null}
-{"kr":"주스","kz":"шырын","level":1,"transcription":null}
-{"kr":"코로나","kz":"тәж","level":2,"transcription":null}
+{"kr":"주스","kz":"сух","level":1,"transcription":null}
+{"kr":"코로나","kz":"корона","level":2,"transcription":null}
 {"kr":"코미디","kz":"комедия","level":2,"transcription":null}
-{"kr":"키워드","kz":"кілт сөз","level":3,"transcription":null}
-{"kr":"팀원","kz":"команда мүшесі","level":3,"transcription":null}
-{"kr":"파라다이스","kz":"жұмақ","level":3,"transcription":null}
+{"kr":"키워드","kz":"ключевые слова","level":3,"transcription":null}
+{"kr":"팀원","kz":"член команды","level":3,"transcription":null}
+{"kr":"파라다이스","kz":"парладоис","level":3,"transcription":null}
 {"kr":"풍선","kz":"шар","level":2,"transcription":null}
-{"kr":"피드백","kz":"кері байланыс","level":3,"transcription":null}
-{"kr":"그립다","kz":"Мен сені сағындым","level":2,"transcription":null}
-{"kr":"남친","kz":"жігіт","level":3,"transcription":null}
-{"kr":"놓이다","kz":"бару","level":2,"transcription":null}
-{"kr":"니트","kz":"тоқу","level":3,"transcription":null}
-{"kr":"대다","kz":"қою","level":2,"transcription":null}
-{"kr":"도심","kz":"қала орталығы","level":3,"transcription":null}
-{"kr":"독서","kz":"оқу","level":3,"transcription":null}
+{"kr":"피드백","kz":"обратная связь","level":3,"transcription":null}
+{"kr":"그립다","kz":"Мен не уважал","level":2,"transcription":null}
+{"kr":"남친","kz":"молодой человек","level":3,"transcription":null}
+{"kr":"놓이다","kz":"улететь","level":2,"transcription":null}
+{"kr":"니트","kz":"вязание","level":3,"transcription":null}
+{"kr":"대다","kz":"множить","level":2,"transcription":null}
+{"kr":"도심","kz":"город центр","level":3,"transcription":null}
+{"kr":"독서","kz":"чтение","level":3,"transcription":null}
 {"kr":"드론","kz":"дрон","level":3,"transcription":null}
-{"kr":"려던","kz":"тырыстым","level":3,"transcription":null}
-{"kr":"리본","kz":"лента","level":2,"transcription":null}
+{"kr":"려던","kz":"думал","level":3,"transcription":null}
+{"kr":"리본","kz":"браслет","level":2,"transcription":null}
 {"kr":"메가","kz":"мега","level":3,"transcription":null}
-{"kr":"멘토","kz":"тәлімгер","level":3,"transcription":null}
-{"kr":"목적지","kz":"межелі","level":2,"transcription":null}
-{"kr":"몸매","kz":"дене","level":3,"transcription":null}
-{"kr":"버거","kz":"Бургер","level":1,"transcription":null}
-{"kr":"부끄럽다","kz":"Мен ұялып тұрмын","level":2,"transcription":null}
-{"kr":"새해","kz":"жаңа жыл","level":1,"transcription":null}
-{"kr":"수건","kz":"орамал","level":1,"transcription":null}
-{"kr":"수직","kz":"перпендикуляр","level":3,"transcription":null}
+{"kr":"멘토","kz":"ментор","level":3,"transcription":null}
+{"kr":"목적지","kz":"цель","level":2,"transcription":null}
+{"kr":"몸매","kz":"тело","level":3,"transcription":null}
+{"kr":"버거","kz":"бургер","level":1,"transcription":null}
+{"kr":"부끄럽다","kz":"Мен стыдно чувствую","level":2,"transcription":null}
+{"kr":"새해","kz":"новое год","level":1,"transcription":null}
+{"kr":"수건","kz":"полотенце","level":1,"transcription":null}
+{"kr":"수직","kz":"вертикальный","level":3,"transcription":null}
 {"kr":"신곡","kz":"жаңа ән","level":3,"transcription":null}
 {"kr":"아메리카","kz":"Америка","level":1,"transcription":null}
 {"kr":"안기다","kz":"құшақтау","level":3,"transcription":null}
@@ -3838,7 +3838,7 @@
 {"kr":"음향","kz":"дыбыс","level":3,"transcription":null}
 {"kr":"이래서","kz":"Сол себепті","level":2,"transcription":null}
 {"kr":"이빨","kz":"тістері","level":2,"transcription":null}
-{"kr":"코인","kz":"тиын","level":3,"transcription":null}
+{"kr":"코인","kz":"коин","level":3,"transcription":null}
 {"kr":"페리","kz":"Перри","level":3,"transcription":null}
 {"kr":"플랜","kz":"флан","level":3,"transcription":null}
 {"kr":"하노이","kz":"Ханой","level":1,"transcription":null}
@@ -3927,30 +3927,30 @@
 {"kr":"장래","kz":"болашақ","level":3,"transcription":null}
 {"kr":"정렬","kz":"массив","level":3,"transcription":null}
 {"kr":"정류장","kz":"тоқта","level":1,"transcription":null}
-{"kr":"정장","kz":"толық көйлек","level":2,"transcription":null}
+{"kr":"정장","kz":"костюм","level":2,"transcription":null}
 {"kr":"조회","kz":"тексеру","level":3,"transcription":null}
-{"kr":"좌측","kz":"қалды","level":2,"transcription":null}
-{"kr":"즉각","kz":"дереу","level":3,"transcription":null}
-{"kr":"집합","kz":"орнату","level":3,"transcription":null}
+{"kr":"좌측","kz":"сол жақ","level":2,"transcription":null}
+{"kr":"즉각","kz":"жабықты","level":3,"transcription":null}
+{"kr":"집합","kz":"жинамалы","level":3,"transcription":null}
 {"kr":"차갑다","kz":"суық","level":1,"transcription":null}
 {"kr":"차장","kz":"дирижер","level":3,"transcription":null}
 {"kr":"치료법","kz":"емдеу","level":3,"transcription":null}
 {"kr":"치마","kz":"юбка","level":1,"transcription":null}
-{"kr":"카카오톡","kz":"kakaotalk","level":1,"transcription":null}
-{"kr":"커뮤니케이션","kz":"байланыс","level":3,"transcription":null}
-{"kr":"트랩","kz":"тұзақтар","level":3,"transcription":null}
-{"kr":"펌프","kz":"сорғы","level":3,"transcription":null}
-{"kr":"피치","kz":"қадам","level":3,"transcription":null}
-{"kr":"한복","kz":"Ханбок","level":1,"transcription":null}
-{"kr":"화랑","kz":"суреттер галереясы","level":3,"transcription":null}
+{"kr":"카카오톡","kz":"kakao","level":1,"transcription":null}
+{"kr":"커뮤니케이션","kz":"коммуникация","level":3,"transcription":null}
+{"kr":"트랩","kz":"тұзақ","level":3,"transcription":null}
+{"kr":"펌프","kz":"поршень","level":3,"transcription":null}
+{"kr":"피치","kz":"пик","level":3,"transcription":null}
+{"kr":"한복","kz":"ханбок","level":1,"transcription":null}
+{"kr":"화랑","kz":"сюртук","level":3,"transcription":null}
 {"kr":"가라앉다","kz":"раковина","level":2,"transcription":null}
-{"kr":"감탄","kz":"таңдану","level":3,"transcription":null}
-{"kr":"거미","kz":"өрмекші","level":2,"transcription":null}
-{"kr":"고인","kz":"қайтыс болған","level":3,"transcription":null}
-{"kr":"교원","kz":"мектеп мұғалімі","level":3,"transcription":null}
-{"kr":"나란히","kz":"қатарлас","level":2,"transcription":null}
-{"kr":"내보내다","kz":"жіберу","level":3,"transcription":null}
-{"kr":"내외","kz":"Ішінде және сыртында","level":3,"transcription":null}
+{"kr":"감탄","kz":"감탄","level":3,"transcription":null}
+{"kr":"거미","kz":"거미","level":2,"transcription":null}
+{"kr":"고인","kz":"고인","level":3,"transcription":null}
+{"kr":"교원","kz":"педагог","level":3,"transcription":null}
+{"kr":"나란히","kz":"нараны","level":2,"transcription":null}
+{"kr":"내보내다","kz":"жүктеу","level":3,"transcription":null}
+{"kr":"내외","kz":"ішкі және сыртқы","level":3,"transcription":null}
 {"kr":"다람쥐","kz":"тиін","level":2,"transcription":null}
 {"kr":"동아시아","kz":"Шығыс Азия","level":3,"transcription":null}
 {"kr":"뒤쪽","kz":"артқа","level":1,"transcription":null}
@@ -4018,8 +4018,8 @@
 {"kr":"시끄럽다","kz":"Шулы","level":2,"transcription":null}
 {"kr":"시합","kz":"сәйкестік","level":2,"transcription":null}
 {"kr":"식스","kz":"алты","level":1,"transcription":null}
-{"kr":"식탁","kz":"кесте","level":1,"transcription":null}
-{"kr":"아래쪽","kz":"төмен","level":2,"transcription":null}
+{"kr":"식탁","kz":"стол","level":1,"transcription":null}
+{"kr":"아래쪽","kz":"төменге","level":2,"transcription":null}
 {"kr":"아크","kz":"доға","level":3,"transcription":null}
 {"kr":"어르신","kz":"Қарт","level":2,"transcription":null}
 {"kr":"역전","kz":"кері қайтару","level":3,"transcription":null}
@@ -4048,7 +4048,7 @@
 {"kr":"그라운드","kz":"жер","level":2,"transcription":null}
 {"kr":"납","kz":"қорғасын","level":3,"transcription":null}
 {"kr":"낭만","kz":"романтика","level":3,"transcription":null}
-{"kr":"낮추다","kz":"төмен","level":2,"transcription":null}
+{"kr":"낮추다","kz":"төмендеу","level":2,"transcription":null}
 {"kr":"노스","kz":"солтүстік","level":2,"transcription":null}
 {"kr":"다정","kz":"мейірімді","level":3,"transcription":null}
 {"kr":"동아","kz":"Донға","level":3,"transcription":null}
@@ -4058,7 +4058,7 @@
 {"kr":"보호자","kz":"қамқоршы","level":3,"transcription":null}
 {"kr":"복도","kz":"дәліз","level":2,"transcription":null}
 {"kr":"사방","kz":"барлық жерде","level":3,"transcription":null}
-{"kr":"살아가다","kz":"өмір сүр","level":3,"transcription":null}
+{"kr":"살아가다","kz":"өмір сүру","level":3,"transcription":null}
 {"kr":"섬기다","kz":"қызмет ету","level":3,"transcription":null}
 {"kr":"소주","kz":"сожу","level":2,"transcription":null}
 {"kr":"손톱","kz":"шеге","level":2,"transcription":null}
@@ -4167,11 +4167,11 @@
 {"kr":"마닐라","kz":"Манила","level":3,"transcription":null}
 {"kr":"마키","kz":"Маки","level":3,"transcription":null}
 {"kr":"모닝","kz":"таң","level":2,"transcription":null}
-{"kr":"뭘까","kz":"Бұл не","level":3,"transcription":null}
+{"kr":"뭘까","kz":"не","level":3,"transcription":null}
 {"kr":"미셸","kz":"Мишель","level":1,"transcription":null}
 {"kr":"밀양","kz":"Мирян","level":3,"transcription":null}
 {"kr":"바늘","kz":"ине","level":2,"transcription":null}
-{"kr":"백색","kz":"ақ","level":3,"transcription":null}
+{"kr":"백색","kz":"белік","level":3,"transcription":null}
 {"kr":"빅터","kz":"Виктор","level":1,"transcription":null}
 {"kr":"상당수","kz":"біршама","level":3,"transcription":null}
 {"kr":"상표","kz":"бренд","level":3,"transcription":null}
@@ -4179,16 +4179,16 @@
 {"kr":"수수료","kz":"заряд","level":3,"transcription":null}
 {"kr":"수트","kz":"костюм","level":2,"transcription":null}
 {"kr":"아메리칸","kz":"американдық","level":2,"transcription":null}
-{"kr":"안무","kz":"Хореография","level":3,"transcription":null}
+{"kr":"안무","kz":"хореография","level":3,"transcription":null}
 {"kr":"안테나","kz":"антенна","level":3,"transcription":null}
 {"kr":"암컷","kz":"әйел","level":3,"transcription":null}
-{"kr":"어느새","kz":"Білмей тұрып","level":3,"transcription":null}
-{"kr":"엇","kz":"Уф","level":1,"transcription":null}
+{"kr":"어느새","kz":"беліп тұрып","level":3,"transcription":null}
+{"kr":"엇","kz":"уф","level":1,"transcription":null}
 {"kr":"옆집","kz":"көрші есік","level":2,"transcription":null}
 {"kr":"오징어","kz":"каламар","level":2,"transcription":null}
 {"kr":"완결","kz":"толық","level":3,"transcription":null}
-{"kr":"왠","kz":"Неліктен","level":2,"transcription":null}
-{"kr":"워킹","kz":"жаяу жүру","level":3,"transcription":null}
+{"kr":"왠","kz":"неліктен","level":2,"transcription":null}
+{"kr":"워킹","kz":"жүру","level":3,"transcription":null}
 {"kr":"일보","kz":"күнделікті есеп","level":3,"transcription":null}
 {"kr":"잃어버리다","kz":"жоғалтады","level":2,"transcription":null}
 {"kr":"입주","kz":"көшу","level":3,"transcription":null}
@@ -4326,7 +4326,7 @@
 {"kr":"실화","kz":"шын болған оқиға","level":3,"transcription":null}
 {"kr":"쓰러지다","kz":"құлау","level":2,"transcription":null}
 {"kr":"쓰이다","kz":"қызмет ету","level":2,"transcription":null}
-{"kr":"아깝다","kz":"Бұл босқа","level":2,"transcription":null}
+{"kr":"아깝다","kz":"아깝다","level":2,"transcription":null}
 {"kr":"아르헨티나","kz":"Аргентина","level":2,"transcription":null}
 {"kr":"양주","kz":"Янджу","level":3,"transcription":null}
 {"kr":"양호","kz":"Жақсы","level":3,"transcription":null}
@@ -4347,65 +4347,65 @@
 {"kr":"킷","kz":"жинақ","level":3,"transcription":null}
 {"kr":"탁구","kz":"үстел теннисі","level":2,"transcription":null}
 {"kr":"파스타","kz":"макарон","level":2,"transcription":null}
-{"kr":"팔찌","kz":"білезік","level":2,"transcription":null}
-{"kr":"퍼스트","kz":"бірінші","level":3,"transcription":null}
-{"kr":"펌","kz":"пермь","level":3,"transcription":null}
-{"kr":"하천","kz":"өзен","level":3,"transcription":null}
-{"kr":"한대","kz":"Хан Дэ","level":3,"transcription":null}
-{"kr":"헬로","kz":"сәлем","level":1,"transcription":null}
-{"kr":"확진","kz":"расталды","level":3,"transcription":null}
-{"kr":"휴게소","kz":"демалыс аймағы","level":2,"transcription":null}
+{"kr":"팔찌","kz":"браслет","level":2,"transcription":null}
+{"kr":"퍼스트","kz":"первый","level":3,"transcription":null}
+{"kr":"펌","kz":"","level":3,"transcription":null}
+{"kr":"하천","kz":"река","level":3,"transcription":null}
+{"kr":"한대","kz":"","level":3,"transcription":null}
+{"kr":"헬로","kz":"привет","level":1,"transcription":null}
+{"kr":"확진","kz":"","level":3,"transcription":null}
+{"kr":"휴게소","kz":"отель","level":2,"transcription":null}
 {"kr":"각본","kz":"сценарий","level":3,"transcription":null}
-{"kr":"강서","kz":"Гансо","level":3,"transcription":null}
-{"kr":"거주자","kz":"тұрғыны","level":3,"transcription":null}
-{"kr":"건축가","kz":"сәулетші","level":3,"transcription":null}
-{"kr":"걸즈","kz":"қыздар","level":2,"transcription":null}
-{"kr":"겹치다","kz":"бірінің үстіне қойыңыз","level":3,"transcription":null}
-{"kr":"고화질","kz":"жоғары анықтау","level":3,"transcription":null}
-{"kr":"곤충","kz":"жәндік","level":2,"transcription":null}
-{"kr":"공고","kz":"хабарландыру","level":3,"transcription":null}
-{"kr":"공용","kz":"қоғамдық","level":3,"transcription":null}
-{"kr":"구슬","kz":"моншақ","level":2,"transcription":null}
-{"kr":"국수","kz":"кеспе","level":1,"transcription":null}
-{"kr":"국왕","kz":"патша","level":3,"transcription":null}
-{"kr":"그루","kz":"groo","level":3,"transcription":null}
-{"kr":"끼다","kz":"бүктеңіз","level":2,"transcription":null}
-{"kr":"넷플릭스","kz":"netflix","level":1,"transcription":null}
-{"kr":"노르웨이","kz":"Норвегия","level":2,"transcription":null}
-{"kr":"다물다","kz":"жақын","level":3,"transcription":null}
-{"kr":"다투다","kz":"талас","level":3,"transcription":null}
-{"kr":"답장","kz":"Жауап беру","level":2,"transcription":null}
-{"kr":"도우미","kz":"көмекші","level":3,"transcription":null}
+{"kr":"강서","kz":"","level":3,"transcription":null}
+{"kr":"거주자","kz":"жильец","level":3,"transcription":null}
+{"kr":"건축가","kz":"architekt","level":3,"transcription":null}
+{"kr":"걸즈","kz":"женщины","level":2,"transcription":null}
+{"kr":"겹치다","kz":"","level":3,"transcription":null}
+{"kr":"고화질","kz":"","level":3,"transcription":null}
+{"kr":"곤충","kz":"","level":2,"transcription":null}
+{"kr":"공고","kz":"","level":3,"transcription":null}
+{"kr":"공용","kz":"","level":3,"transcription":null}
+{"kr":"구슬","kz":"","level":2,"transcription":null}
+{"kr":"국수","kz":"","level":1,"transcription":null}
+{"kr":"국왕","kz":"","level":3,"transcription":null}
+{"kr":"그루","kz":"","level":3,"transcription":null}
+{"kr":"끼다","kz":"","level":2,"transcription":null}
+{"kr":"넷플릭스","kz":"","level":1,"transcription":null}
+{"kr":"노르웨이","kz":"","level":2,"transcription":null}
+{"kr":"다물다","kz":"","level":3,"transcription":null}
+{"kr":"다투다","kz":"","level":3,"transcription":null}
+{"kr":"답장","kz":"","level":2,"transcription":null}
+{"kr":"도우미","kz":"","level":3,"transcription":null}
 {"kr":"리허설","kz":"репетиция","level":3,"transcription":null}
-{"kr":"멋대로","kz":"Қалағаныңызша","level":3,"transcription":null}
-{"kr":"멍청이","kz":"ақымақ","level":3,"transcription":null}
-{"kr":"베일","kz":"перде","level":3,"transcription":null}
-{"kr":"부두","kz":"айлақ","level":3,"transcription":null}
-{"kr":"비단","kz":"жібектер","level":3,"transcription":null}
-{"kr":"빨래","kz":"жуу","level":2,"transcription":null}
-{"kr":"뿌리다","kz":"себу","level":2,"transcription":null}
-{"kr":"서해","kz":"батыс теңіз","level":3,"transcription":null}
-{"kr":"세인트","kz":"әулие","level":3,"transcription":null}
-{"kr":"손잡이","kz":"тұтқа","level":2,"transcription":null}
-{"kr":"수원시","kz":"Сувон қаласы","level":1,"transcription":null}
-{"kr":"알아듣다","kz":"түсіну","level":2,"transcription":null}
-{"kr":"얕다","kz":"таяз","level":2,"transcription":null}
-{"kr":"어미","kz":"сөздің соңы","level":3,"transcription":null}
-{"kr":"오락","kz":"уақыт өткізу","level":3,"transcription":null}
-{"kr":"왕복","kz":"барып-қайту сапары","level":3,"transcription":null}
-{"kr":"욕실","kz":"жуынатын бөлме","level":2,"transcription":null}
-{"kr":"입히다","kz":"табақ","level":3,"transcription":null}
-{"kr":"잔소리","kz":"дірілдеу","level":3,"transcription":null}
-{"kr":"지름","kz":"диаметрі","level":3,"transcription":null}
-{"kr":"진로","kz":"курс","level":3,"transcription":null}
+{"kr":"멋대로","kz":"как хочешь ты","level":3,"transcription":null}
+{"kr":"멍청이","kz":"глупый","level":3,"transcription":null}
+{"kr":"베일","kz":"шторы","level":3,"transcription":null}
+{"kr":"부두","kz":"стол","level":3,"transcription":null}
+{"kr":"비단","kz":"шёлк","level":3,"transcription":null}
+{"kr":"빨래","kz":"стирка","level":2,"transcription":null}
+{"kr":"뿌리다","kz":"корениться","level":2,"transcription":null}
+{"kr":"서해","kz":"Селла","level":3,"transcription":null}
+{"kr":"세인트","kz":"святой","level":3,"transcription":null}
+{"kr":"손잡이","kz":"рукоятка","level":2,"transcription":null}
+{"kr":"수원시","kz":"Сувон-си","level":1,"transcription":null}
+{"kr":"알아듣다","kz":"слышать","level":2,"transcription":null}
+{"kr":"얕다","kz":"легко","level":2,"transcription":null}
+{"kr":"어미","kz":"начало","level":3,"transcription":null}
+{"kr":"오락","kz":"развлечения","level":3,"transcription":null}
+{"kr":"왕복","kz":"возвращение","level":3,"transcription":null}
+{"kr":"욕실","kz":"комната для отдыха","level":2,"transcription":null}
+{"kr":"입히다","kz":"ставить","level":3,"transcription":null}
+{"kr":"잔소리","kz":"неудовольствие","level":3,"transcription":null}
+{"kr":"지름","kz":"диаметр","level":3,"transcription":null}
+{"kr":"진로","kz":"путь","level":3,"transcription":null}
 {"kr":"체조","kz":"гимнастика","level":3,"transcription":null}
-{"kr":"총알","kz":"оқ","level":3,"transcription":null}
+{"kr":"총알","kz":"пуля","level":3,"transcription":null}
 {"kr":"캐서린","kz":"Кэтрин","level":1,"transcription":null}
-{"kr":"커튼","kz":"перде","level":2,"transcription":null}
-{"kr":"코믹스","kz":"комикстер","level":3,"transcription":null}
+{"kr":"커튼","kz":"шторы","level":2,"transcription":null}
+{"kr":"코믹스","kz":"комиксы","level":3,"transcription":null}
 {"kr":"코카","kz":"кока","level":2,"transcription":null}
 {"kr":"쿠바","kz":"Куба","level":2,"transcription":null}
-{"kr":"크라운","kz":"тәж","level":3,"transcription":null}
+{"kr":"크라운","kz":"корона","level":3,"transcription":null}
 {"kr":"키트","kz":"жинақ","level":3,"transcription":null}
 {"kr":"트윈","kz":"егіз","level":3,"transcription":null}
 {"kr":"프렌즈","kz":"достар","level":3,"transcription":null}
@@ -4437,7 +4437,7 @@
 {"kr":"물결","kz":"толқын","level":3,"transcription":null}
 {"kr":"발렌타인","kz":"Валентин","level":2,"transcription":null}
 {"kr":"북경","kz":"Пекин","level":2,"transcription":null}
-{"kr":"비로소","kz":"бірінші рет","level":3,"transcription":null}
+{"kr":"비로소","kz":"біріккенде","level":3,"transcription":null}
 {"kr":"상하이","kz":"Шанхай","level":2,"transcription":null}
 {"kr":"세례","kz":"шомылдыру рәсімінен өту","level":3,"transcription":null}
 {"kr":"세미나","kz":"семинар","level":3,"transcription":null}
@@ -4557,7 +4557,7 @@
 {"kr":"수첩","kz":"дәптер","level":2,"transcription":null}
 {"kr":"슈팅","kz":"ату","level":3,"transcription":null}
 {"kr":"스피커","kz":"спикер","level":2,"transcription":null}
-{"kr":"아아","kz":"Кофе Глясе","level":1,"transcription":null}
+{"kr":"아아","kz":"Аа","level":1,"transcription":null}
 {"kr":"앞뒤","kz":"алды-артына","level":3,"transcription":null}
 {"kr":"앞쪽","kz":"алдыңғы","level":2,"transcription":null}
 {"kr":"약품","kz":"дәрі","level":3,"transcription":null}
@@ -4586,8 +4586,8 @@
 {"kr":"텐데요","kz":"Мен солай деп ойлаймын","level":3,"transcription":null}
 {"kr":"통신사","kz":"ақпарат агенттігі","level":3,"transcription":null}
 {"kr":"트레이너","kz":"жаттықтырушы","level":2,"transcription":null}
-{"kr":"특기","kz":"мамандық","level":3,"transcription":null}
-{"kr":"틀림없","kz":"Сөзсіз","level":3,"transcription":null}
+{"kr":"특기","kz":"қабілеттілік","level":3,"transcription":null}
+{"kr":"틀림없","kz":"жоғары","level":3,"transcription":null}
 {"kr":"파이터","kz":"күрескер","level":3,"transcription":null}
 {"kr":"포터","kz":"жүк тасушы","level":3,"transcription":null}
 {"kr":"폰트","kz":"шрифт","level":3,"transcription":null}
@@ -4648,7 +4648,7 @@
 {"kr":"풋","kz":"аяқ","level":3,"transcription":null}
 {"kr":"프랑스어","kz":"француз","level":1,"transcription":null}
 {"kr":"할로윈","kz":"Хэллоуин","level":2,"transcription":null}
-{"kr":"항생제","kz":"антибиотиктер","level":3,"transcription":null}
+{"kr":"항생제","kz":"антибиотик","level":3,"transcription":null}
 {"kr":"화질","kz":"сурет сапасы","level":3,"transcription":null}
 {"kr":"가르다","kz":"бөлу","level":3,"transcription":null}
 {"kr":"개인전","kz":"жеке көрмесі","level":3,"transcription":null}
@@ -4707,31 +4707,31 @@
 {"kr":"국사","kz":"ұлттық істер","level":3,"transcription":null}
 {"kr":"기수","kz":"салт атты","level":3,"transcription":null}
 {"kr":"껌","kz":"сағыз","level":2,"transcription":null}
-{"kr":"끓다","kz":"қайнатыңыз","level":2,"transcription":null}
+{"kr":"끓다","kz":"қайнату","level":2,"transcription":null}
 {"kr":"덱","kz":"палуба","level":3,"transcription":null}
 {"kr":"라틴","kz":"латын","level":3,"transcription":null}
 {"kr":"리가","kz":"Рига","level":3,"transcription":null}
-{"kr":"리온","kz":"Леоне","level":2,"transcription":null}
+{"kr":"리온","kz":"Леон","level":2,"transcription":null}
 {"kr":"리포트","kz":"есеп беру","level":3,"transcription":null}
 {"kr":"마나","kz":"мана","level":3,"transcription":null}
-{"kr":"막히다","kz":"дөрекі","level":2,"transcription":null}
+{"kr":"막히다","kz":"дөрекілеу","level":2,"transcription":null}
 {"kr":"매너","kz":"әдептілік","level":3,"transcription":null}
 {"kr":"면담","kz":"сұхбат","level":3,"transcription":null}
 {"kr":"명곡","kz":"әйгілі ән","level":3,"transcription":null}
-{"kr":"모기","kz":"москит","level":2,"transcription":null}
+{"kr":"모기","kz":"москитка","level":2,"transcription":null}
 {"kr":"모시다","kz":"құдайландыру","level":3,"transcription":null}
 {"kr":"미스터리","kz":"жұмбақ","level":3,"transcription":null}
 {"kr":"미얀마","kz":"Мьянма","level":2,"transcription":null}
-{"kr":"발가락","kz":"саусақ","level":2,"transcription":null}
+{"kr":"발가락","kz":"саусақтар","level":2,"transcription":null}
 {"kr":"발레","kz":"балет","level":3,"transcription":null}
-{"kr":"발표회","kz":"презентация","level":3,"transcription":null}
+{"kr":"발표회","kz":"презентациясы","level":3,"transcription":null}
 {"kr":"배트","kz":"жарғанат","level":2,"transcription":null}
 {"kr":"뱅","kz":"жарылыс","level":3,"transcription":null}
 {"kr":"버블","kz":"көпіршік","level":3,"transcription":null}
 {"kr":"벼","kz":"күріш","level":2,"transcription":null}
 {"kr":"변기","kz":"дәретхана","level":2,"transcription":null}
 {"kr":"부름","kz":"қоңырау шалу","level":3,"transcription":null}
-{"kr":"뿌듯","kz":"Мақтаныш","level":3,"transcription":null}
+{"kr":"뿌듯","kz":"мақтаныш","level":3,"transcription":null}
 {"kr":"뿜다","kz":"шүмек","level":3,"transcription":null}
 {"kr":"삽","kz":"күрек","level":2,"transcription":null}
 {"kr":"상반기","kz":"бірінші жартыжылдық","level":3,"transcription":null}
@@ -4856,10 +4856,10 @@
 {"kr":"어린애","kz":"бала","level":1,"transcription":null}
 {"kr":"엔드","kz":"Соңы","level":3,"transcription":null}
 {"kr":"여보","kz":"бал","level":2,"transcription":null}
-{"kr":"여행자","kz":"саяхатшы","level":3,"transcription":null}
-{"kr":"오너","kz":"иесі","level":3,"transcription":null}
+{"kr":"여행자","kz":"сауықшы","level":3,"transcription":null}
+{"kr":"오너","kz":"мама","level":3,"transcription":null}
 {"kr":"잠수","kz":"дайвинг","level":3,"transcription":null}
-{"kr":"저분","kz":"Сол адам","level":1,"transcription":null}
+{"kr":"저분","kz":"сол адам","level":1,"transcription":null}
 {"kr":"저스틴","kz":"Джастин","level":1,"transcription":null}
 {"kr":"저축","kz":"үнемдеу","level":3,"transcription":null}
 {"kr":"절약","kz":"үнемдеу","level":3,"transcription":null}
@@ -4917,9 +4917,9 @@
 {"kr":"어긋나다","kz":"қате туралау","level":3,"transcription":null}
 {"kr":"이순신","kz":"И Сун Син","level":3,"transcription":null}
 {"kr":"인테리어","kz":"интерьер","level":3,"transcription":null}
-{"kr":"저절로","kz":"Өздігінен","level":3,"transcription":null}
+{"kr":"저절로","kz":"сақаладан","level":3,"transcription":null}
 {"kr":"제이크","kz":"Джейк","level":1,"transcription":null}
-{"kr":"조개","kz":"теңіз қабығы","level":2,"transcription":null}
+{"kr":"조개","kz":"кезектің қабығы","level":2,"transcription":null}
 {"kr":"주무시다","kz":"ұйықтау","level":1,"transcription":null}
 {"kr":"주선","kz":"реттеу","level":3,"transcription":null}
 {"kr":"주저","kz":"тартыну","level":3,"transcription":null}
@@ -4978,14 +4978,14 @@
 {"kr":"케이지","kz":"тор","level":3,"transcription":null}
 {"kr":"키드","kz":"бала","level":2,"transcription":null}
 {"kr":"타일","kz":"плитка","level":2,"transcription":null}
-{"kr":"투스","kz":"Тіс","level":3,"transcription":null}
-{"kr":"트릭","kz":"қулық","level":3,"transcription":null}
-{"kr":"파일럿","kz":"ұшқыш","level":3,"transcription":null}
+{"kr":"투스","kz":"тис","level":3,"transcription":null}
+{"kr":"트릭","kz":"трик","level":3,"transcription":null}
+{"kr":"파일럿","kz":"ушқыш","level":3,"transcription":null}
 {"kr":"포도주","kz":"шарап","level":3,"transcription":null}
 {"kr":"포옹","kz":"құшақтау","level":3,"transcription":null}
 {"kr":"학창","kz":"мектеп","level":3,"transcription":null}
 {"kr":"허벅지","kz":"жамбас","level":3,"transcription":null}
-{"kr":"간혹","kz":"Кейде","level":3,"transcription":null}
+{"kr":"간혹","kz":"кейде","level":3,"transcription":null}
 {"kr":"갑옷","kz":"сауыт","level":3,"transcription":null}
 {"kr":"갑작하다","kz":"кенеттен","level":3,"transcription":null}
 {"kr":"겜","kz":"ойын","level":2,"transcription":null}
@@ -5007,35 +5007,35 @@
 {"kr":"발자국","kz":"ізі","level":2,"transcription":null}
 {"kr":"밤낮","kz":"түн мен күн","level":3,"transcription":null}
 {"kr":"밤중","kz":"түн ортасы","level":2,"transcription":null}
-{"kr":"방문객","kz":"келуші","level":3,"transcription":null}
+{"kr":"방문객","kz":"посетитель","level":3,"transcription":null}
 {"kr":"배너","kz":"баннер","level":3,"transcription":null}
-{"kr":"선진국","kz":"дамыған елдер","level":3,"transcription":null}
+{"kr":"선진국","kz":"развитое государство","level":3,"transcription":null}
 {"kr":"수시로","kz":"мезгіл-мезгіл","level":3,"transcription":null}
 {"kr":"수영복","kz":"купальник","level":2,"transcription":null}
-{"kr":"수제","kz":"қолдан жасалған","level":3,"transcription":null}
-{"kr":"스코틀랜드","kz":"Гранит қаласы","level":3,"transcription":null}
-{"kr":"스탭","kz":"персонал","level":3,"transcription":null}
-{"kr":"신데렐라","kz":"Золушка","level":2,"transcription":null}
-{"kr":"싸인","kz":"автограф","level":3,"transcription":null}
-{"kr":"안부","kz":"қауіпсіздік","level":3,"transcription":null}
-{"kr":"양념","kz":"дәмдеуіш","level":2,"transcription":null}
-{"kr":"어업","kz":"балық аулау","level":3,"transcription":null}
+{"kr":"수제","kz":"готовый","level":3,"transcription":null}
+{"kr":"스코틀랜드","kz":"Шотландия","level":3,"transcription":null}
+{"kr":"스탭","kz":"сотрудник","level":3,"transcription":null}
+{"kr":"신데렐라","kz":"Ниндзя Громкий","level":2,"transcription":null}
+{"kr":"싸인","kz":"подлинник","level":3,"transcription":null}
+{"kr":"안부","kz":"сообщение","level":3,"transcription":null}
+{"kr":"양념","kz":"специя","level":2,"transcription":null}
+{"kr":"어업","kz":"рыболовство","level":3,"transcription":null}
 {"kr":"엑스포","kz":"ЭКСПО","level":3,"transcription":null}
-{"kr":"엠마","kz":"эмма","level":1,"transcription":null}
-{"kr":"여관","kz":"қонақ үй","level":2,"transcription":null}
-{"kr":"영수증","kz":"түбіртек","level":2,"transcription":null}
-{"kr":"옌","kz":"иен","level":3,"transcription":null}
+{"kr":"엠마","kz":"Эмма","level":1,"transcription":null}
+{"kr":"여관","kz":"гостиница","level":2,"transcription":null}
+{"kr":"영수증","kz":"выписка","level":2,"transcription":null}
+{"kr":"옌","kz":"он","level":3,"transcription":null}
 {"kr":"오키나와","kz":"Окинава","level":3,"transcription":null}
-{"kr":"울타리","kz":"қоршау","level":2,"transcription":null}
-{"kr":"웬만하다","kz":"Бұл қолайлы","level":3,"transcription":null}
+{"kr":"울타리","kz":"забор","level":2,"transcription":null}
+{"kr":"웬만하다","kz":"быть удобно","level":3,"transcription":null}
 {"kr":"유네스코","kz":"ЮНЕСКО","level":3,"transcription":null}
 {"kr":"족보","kz":"асыл тұқымды","level":3,"transcription":null}
-{"kr":"증명서","kz":"сертификат","level":2,"transcription":null}
-{"kr":"질리다","kz":"ауырып қалу","level":3,"transcription":null}
-{"kr":"징징","kz":"Қыңқылдау","level":3,"transcription":null}
-{"kr":"짖다","kz":"қабығы","level":2,"transcription":null}
-{"kr":"청소기","kz":"шаңсорғыш","level":2,"transcription":null}
-{"kr":"파이팅","kz":"Оған барыңыз","level":2,"transcription":null}
+{"kr":"증명서","kz":"документ","level":2,"transcription":null}
+{"kr":"질리다","kz":"болеть","level":3,"transcription":null}
+{"kr":"징징","kz":"шуметь","level":3,"transcription":null}
+{"kr":"짖다","kz":"кричать","level":2,"transcription":null}
+{"kr":"청소기","kz":"очиститель","level":2,"transcription":null}
+{"kr":"파이팅","kz":"победа","level":2,"transcription":null}
 {"kr":"피라미드","kz":"пирамида","level":2,"transcription":null}
 {"kr":"학급","kz":"сынып","level":2,"transcription":null}
 {"kr":"합계","kz":"жалпы","level":3,"transcription":null}
@@ -5096,14 +5096,14 @@
 {"kr":"경상도","kz":"Кёнсандо","level":2,"transcription":null}
 {"kr":"관계없이","kz":"қарамастан","level":3,"transcription":null}
 {"kr":"기획사","kz":"агенттік","level":3,"transcription":null}
-{"kr":"꾸미다","kz":"безендіру","level":2,"transcription":null}
-{"kr":"내려다보다","kz":"төмен қара","level":3,"transcription":null}
+{"kr":"꾸미다","kz":"дизайн","level":2,"transcription":null}
+{"kr":"내려다보다","kz":"төмен қарап көру","level":3,"transcription":null}
 {"kr":"내려오다","kz":"төмен түсу","level":1,"transcription":null}
 {"kr":"넥","kz":"мойын","level":2,"transcription":null}
-{"kr":"능숙","kz":"білікті","level":3,"transcription":null}
+{"kr":"능숙","kz":"біліктілік","level":3,"transcription":null}
 {"kr":"다신","kz":"Енді ешқашан","level":2,"transcription":null}
 {"kr":"동포","kz":"отандастар","level":3,"transcription":null}
-{"kr":"딱지","kz":"қотыр","level":3,"transcription":null}
+{"kr":"딱지","kz":"қолтық","level":3,"transcription":null}
 {"kr":"명상","kz":"медитация","level":3,"transcription":null}
 {"kr":"명확히","kz":"анық","level":3,"transcription":null}
 {"kr":"뭘로","kz":"Немен","level":1,"transcription":null}
@@ -5189,9 +5189,9 @@
 {"kr":"안토니오","kz":"Антонио","level":1,"transcription":null}
 {"kr":"알콜","kz":"алкоголь","level":2,"transcription":null}
 {"kr":"앤드류","kz":"Эндрю","level":1,"transcription":null}
-{"kr":"연고","kz":"жақпа","level":3,"transcription":null}
+{"kr":"연고","kz":"жарық","level":3,"transcription":null}
 {"kr":"연습생","kz":"стажер","level":3,"transcription":null}
-{"kr":"영등포구","kz":"ЕнДунпо-гу","level":1,"transcription":null}
+{"kr":"영등포구","kz":"Ендонпо-гу","level":1,"transcription":null}
 {"kr":"오보","kz":"жалған ақпарат","level":3,"transcription":null}
 {"kr":"우동","kz":"Удон","level":2,"transcription":null}
 {"kr":"웜","kz":"құрт","level":3,"transcription":null}
@@ -5216,9 +5216,9 @@
 {"kr":"하비","kz":"Харви","level":2,"transcription":null}
 {"kr":"하프","kz":"арфа","level":3,"transcription":null}
 {"kr":"학생회","kz":"студенттік кеңес","level":3,"transcription":null}
-{"kr":"경상남도","kz":"Кёнсаннам-до","level":2,"transcription":null}
-{"kr":"교내","kz":"Кампуста","level":3,"transcription":null}
-{"kr":"국외","kz":"шетелде","level":3,"transcription":null}
+{"kr":"경상남도","kz":"Кёнгён남도","level":2,"transcription":null}
+{"kr":"교내","kz":"교내","level":3,"transcription":null}
+{"kr":"국외","kz":"국외","level":3,"transcription":null}
 {"kr":"글꼴","kz":"шрифт","level":3,"transcription":null}
 {"kr":"금호","kz":"Геумхо","level":2,"transcription":null}
 {"kr":"내륙","kz":"ішкі","level":3,"transcription":null}
@@ -5247,7 +5247,7 @@
 {"kr":"알맞다","kz":"жарамды","level":3,"transcription":null}
 {"kr":"어우","kz":"Апыр-ай","level":2,"transcription":null}
 {"kr":"여고생","kz":"жоғары сынып қызы","level":3,"transcription":null}
-{"kr":"우습다","kz":"Бұл күлкілі","level":3,"transcription":null}
+{"kr":"우습다","kz":"бұл күлкілі","level":3,"transcription":null}
 {"kr":"일간","kz":"күнделікті","level":3,"transcription":null}
 {"kr":"즙","kz":"шырын","level":3,"transcription":null}
 {"kr":"친분","kz":"танысу","level":3,"transcription":null}
@@ -5370,7 +5370,7 @@
 {"kr":"재방송","kz":"қайта трансляциялау","level":3,"transcription":null}
 {"kr":"제자리","kz":"Орнында","level":3,"transcription":null}
 {"kr":"조그맣다","kz":"Бұл кішкентай","level":2,"transcription":null}
-{"kr":"지겹다","kz":"Менің ішім пысты","level":3,"transcription":null}
+{"kr":"지겹다","kz":"이것은 싫어요","level":3,"transcription":null}
 {"kr":"창구","kz":"терезе","level":3,"transcription":null}
 {"kr":"캉","kz":"Кан","level":3,"transcription":null}
 {"kr":"통행","kz":"өту","level":3,"transcription":null}
@@ -5426,7 +5426,7 @@
 {"kr":"저수지","kz":"су қоймасы","level":3,"transcription":null}
 {"kr":"전단지","kz":"парақша","level":3,"transcription":null}
 {"kr":"제복","kz":"біркелкі","level":3,"transcription":null}
-{"kr":"제트","kz":"З","level":3,"transcription":null}
+{"kr":"제트","kz":"Jet","level":3,"transcription":null}
 {"kr":"지휘자","kz":"дирижер","level":3,"transcription":null}
 {"kr":"직책","kz":"позиция","level":3,"transcription":null}
 {"kr":"청바지","kz":"джинсы","level":2,"transcription":null}
@@ -5456,7 +5456,7 @@
 {"kr":"대금","kz":"төлем","level":3,"transcription":null}
 {"kr":"데스크","kz":"үстел","level":2,"transcription":null}
 {"kr":"도주","kz":"құтылып кету","level":3,"transcription":null}
-{"kr":"동이","kz":"Донги","level":3,"transcription":null}
+{"kr":"동이","kz":"Донғы","level":3,"transcription":null}
 {"kr":"떼다","kz":"кесу","level":2,"transcription":null}
 {"kr":"라이터","kz":"жазушы","level":2,"transcription":null}
 {"kr":"만주","kz":"Маньчжурия","level":3,"transcription":null}
@@ -5488,7 +5488,7 @@
 {"kr":"어부","kz":"балықшы","level":2,"transcription":null}
 {"kr":"윙크","kz":"көз қысу","level":3,"transcription":null}
 {"kr":"이크","kz":"Иә","level":2,"transcription":null}
-{"kr":"익히다","kz":"піседі","level":2,"transcription":null}
+{"kr":"익히다","kz":"біріктіру","level":2,"transcription":null}
 {"kr":"인터내셔널","kz":"халықаралық","level":3,"transcription":null}
 {"kr":"인해서","kz":"Себебі","level":3,"transcription":null}
 {"kr":"잠옷","kz":"түнгі киім","level":1,"transcription":null}
@@ -5547,7 +5547,7 @@
 {"kr":"연주회","kz":"концерт","level":2,"transcription":null}
 {"kr":"열흘","kz":"он күн","level":2,"transcription":null}
 {"kr":"이륙","kz":"ұшып көтерілу","level":3,"transcription":null}
-{"kr":"이슬","kz":"шық","level":2,"transcription":null}
+{"kr":"이슬","kz":"ілік","level":2,"transcription":null}
 {"kr":"자재","kz":"материал","level":3,"transcription":null}
 {"kr":"직위","kz":"нүкте","level":3,"transcription":null}
 {"kr":"찍히다","kz":"алынуы","level":2,"transcription":null}
@@ -5608,9 +5608,9 @@
 {"kr":"팝콘","kz":"Попкорн","level":1,"transcription":null}
 {"kr":"품목","kz":"элемент","level":3,"transcription":null}
 {"kr":"프론트","kz":"алдыңғы","level":3,"transcription":null}
-{"kr":"플래그","kz":"жалау","level":3,"transcription":null}
+{"kr":"플래그","kz":"жалғыз","level":3,"transcription":null}
 {"kr":"하계","kz":"жаз маусымы","level":3,"transcription":null}
-{"kr":"헬멧","kz":"дулыға","level":2,"transcription":null}
+{"kr":"헬멧","kz":"шлем","level":2,"transcription":null}
 {"kr":"협곡","kz":"шатқал","level":3,"transcription":null}
 {"kr":"활발히","kz":"белсенді","level":3,"transcription":null}
 {"kr":"가시다","kz":"бару","level":3,"transcription":null}
@@ -5727,9 +5727,9 @@
 {"kr":"근방","kz":"көрші","level":3,"transcription":null}
 {"kr":"기르다","kz":"өсіру","level":2,"transcription":null}
 {"kr":"끓이다","kz":"қайнатыңыз","level":2,"transcription":null}
-{"kr":"나뭇잎","kz":"ренжіту","level":2,"transcription":null}
+{"kr":"나뭇잎","kz":"нақтыраңғылар","level":2,"transcription":null}
 {"kr":"나이스","kz":"жақсы","level":2,"transcription":null}
-{"kr":"냉면","kz":"салқын кеспе","level":2,"transcription":null}
+{"kr":"냉면","kz":"салқын кесе","level":2,"transcription":null}
 {"kr":"단결","kz":"бірігу","level":3,"transcription":null}
 {"kr":"단층","kz":"кінә","level":3,"transcription":null}
 {"kr":"달라붙다","kz":"ұстаныңыз","level":2,"transcription":null}
@@ -5737,7 +5737,7 @@
 {"kr":"동급","kz":"сол сынып","level":3,"transcription":null}
 {"kr":"드로잉","kz":"сурет","level":3,"transcription":null}
 {"kr":"떡볶이","kz":"tteokbokki","level":1,"transcription":null}
-{"kr":"뜸","kz":"моксибус","level":3,"transcription":null}
+{"kr":"뜸","kz":"моксикасы","level":3,"transcription":null}
 {"kr":"러시","kz":"асығыс","level":3,"transcription":null}
 {"kr":"모친","kz":"ана","level":3,"transcription":null}
 {"kr":"몸통","kz":"дене","level":2,"transcription":null}
@@ -5793,7 +5793,7 @@
 {"kr":"피어스","kz":"тесу","level":3,"transcription":null}
 {"kr":"하산","kz":"шығу","level":3,"transcription":null}
 {"kr":"하얀색","kz":"ақ","level":1,"transcription":null}
-{"kr":"한우","kz":"Корей сиыр еті","level":3,"transcription":null}
+{"kr":"한우","kz":"корей сиыр еті","level":3,"transcription":null}
 {"kr":"한정판","kz":"шектеулі басылым","level":3,"transcription":null}
 {"kr":"험","kz":"Гум","level":3,"transcription":null}
 {"kr":"호실","kz":"бөлме","level":2,"transcription":null}
@@ -5816,36 +5816,36 @@
 {"kr":"다이아","kz":"алмаз","level":3,"transcription":null}
 {"kr":"단골","kz":"байланыс","level":3,"transcription":null}
 {"kr":"닭고기","kz":"тауық","level":1,"transcription":null}
-{"kr":"당첨자","kz":"жеңімпаз","level":3,"transcription":null}
-{"kr":"되돌리다","kz":"қайтару","level":3,"transcription":null}
-{"kr":"들어서다","kz":"енгізіңіз","level":3,"transcription":null}
-{"kr":"따라잡다","kz":"қуып жету","level":3,"transcription":null}
-{"kr":"라떼","kz":"латте","level":2,"transcription":null}
-{"kr":"맘껏","kz":"Қалағаныңызша","level":3,"transcription":null}
-{"kr":"망신","kz":"беделін түсіру","level":3,"transcription":null}
-{"kr":"모서리","kz":"бұрыш","level":2,"transcription":null}
-{"kr":"모의고사","kz":"сынақ емтиханы","level":3,"transcription":null}
-{"kr":"무너지다","kz":"құлау","level":3,"transcription":null}
-{"kr":"밀크","kz":"сүт","level":1,"transcription":null}
-{"kr":"바구니","kz":"себет","level":2,"transcription":null}
-{"kr":"바퀴벌레","kz":"тарақан","level":3,"transcription":null}
-{"kr":"받침","kz":"қолдау көрсету","level":3,"transcription":null}
-{"kr":"밤하늘","kz":"түнгі аспан","level":2,"transcription":null}
+{"kr":"당첨자","kz":"победитель","level":3,"transcription":null}
+{"kr":"되돌리다","kz":"вернуться","level":3,"transcription":null}
+{"kr":"들어서다","kz":"продолжать","level":3,"transcription":null}
+{"kr":"따라잡다","kz":"захватить","level":3,"transcription":null}
+{"kr":"라떼","kz":"отказаться","level":2,"transcription":null}
+{"kr":"맘껏","kz":"всё же","level":3,"transcription":null}
+{"kr":"망신","kz":"погибнуть","level":3,"transcription":null}
+{"kr":"모서리","kz":"уголок","level":2,"transcription":null}
+{"kr":"모의고사","kz":"имитационный экзамен","level":3,"transcription":null}
+{"kr":"무너지다","kz":"ломиться","level":3,"transcription":null}
+{"kr":"밀크","kz":"молоко","level":1,"transcription":null}
+{"kr":"바구니","kz":"сетка","level":2,"transcription":null}
+{"kr":"바퀴벌레","kz":"муравьиный клещ","level":3,"transcription":null}
+{"kr":"받침","kz":"поддержка","level":3,"transcription":null}
+{"kr":"밤하늘","kz":"ночная звезда","level":2,"transcription":null}
 {"kr":"배드민턴","kz":"бадминтон","level":2,"transcription":null}
-{"kr":"베이직","kz":"Негізгі","level":3,"transcription":null}
-{"kr":"부피","kz":"көлемі","level":3,"transcription":null}
-{"kr":"북동쪽","kz":"солтүстік-шығысқа қарай","level":3,"transcription":null}
+{"kr":"베이직","kz":"база","level":3,"transcription":null}
+{"kr":"부피","kz":"объем","level":3,"transcription":null}
+{"kr":"북동쪽","kz":"северный восток","level":3,"transcription":null}
 {"kr":"블럭","kz":"блок","level":2,"transcription":null}
-{"kr":"새기","kz":"ағып кету","level":3,"transcription":null}
-{"kr":"서바이벌","kz":"аман қалу","level":3,"transcription":null}
+{"kr":"새기","kz":"вылететь","level":3,"transcription":null}
+{"kr":"서바이벌","kz":"выжить","level":3,"transcription":null}
 {"kr":"서커스","kz":"цирк","level":2,"transcription":null}
-{"kr":"설거지","kz":"ыдыс жуу","level":1,"transcription":null}
-{"kr":"세관","kz":"Кеден","level":3,"transcription":null}
-{"kr":"소대","kz":"взвод","level":3,"transcription":null}
-{"kr":"수차례","kz":"бірнеше рет","level":3,"transcription":null}
-{"kr":"스케이트","kz":"ролик","level":2,"transcription":null}
-{"kr":"스트레칭","kz":"созылу","level":2,"transcription":null}
-{"kr":"승선","kz":"отырғызу","level":3,"transcription":null}
+{"kr":"설거지","kz":"мойка","level":1,"transcription":null}
+{"kr":"세관","kz":"Таможня","level":3,"transcription":null}
+{"kr":"소대","kz":"отряд","level":3,"transcription":null}
+{"kr":"수차례","kz":"несколько раз","level":3,"transcription":null}
+{"kr":"스케이트","kz":"скайтинг","level":2,"transcription":null}
+{"kr":"스트레칭","kz":"расширение","level":2,"transcription":null}
+{"kr":"승선","kz":"первый заезд","level":3,"transcription":null}
 {"kr":"시판","kz":"коммерциялық қол жетімді","level":3,"transcription":null}
 {"kr":"썬더","kz":"Найзағай","level":2,"transcription":null}
 {"kr":"아쉬움","kz":"қайғы","level":3,"transcription":null}
@@ -5881,7 +5881,7 @@
 {"kr":"계산기","kz":"есептеу машинасы","level":2,"transcription":null}
 {"kr":"교외","kz":"қала маңы","level":3,"transcription":null}
 {"kr":"구조대","kz":"құтқару тобы","level":3,"transcription":null}
-{"kr":"깨지다","kz":"чип","level":3,"transcription":null}
+{"kr":"깨지다","kz":"бұлаққа шығу","level":3,"transcription":null}
 {"kr":"남극","kz":"Антарктида","level":3,"transcription":null}
 {"kr":"너무너무","kz":"Соншама","level":2,"transcription":null}
 {"kr":"닉네임","kz":"лақап ат","level":3,"transcription":null}
@@ -5996,38 +5996,38 @@
 {"kr":"프라이스","kz":"бағасы","level":2,"transcription":null}
 {"kr":"피아니스트","kz":"пианист","level":2,"transcription":null}
 {"kr":"한중","kz":"Корей және қытай","level":3,"transcription":null}
-{"kr":"항공편","kz":"ұшу","level":3,"transcription":null}
-{"kr":"핸들","kz":"тұтқа","level":2,"transcription":null}
-{"kr":"행사장","kz":"іс-шара өтетін орын","level":3,"transcription":null}
-{"kr":"화원","kz":"гүл бақшасы","level":3,"transcription":null}
-{"kr":"가뭄","kz":"құрғақшылық","level":3,"transcription":null}
-{"kr":"게시물","kz":"пост","level":3,"transcription":null}
-{"kr":"공학부","kz":"Инженерлік факультет","level":3,"transcription":null}
-{"kr":"글라스","kz":"шыны","level":2,"transcription":null}
-{"kr":"급속히","kz":"жылдам","level":3,"transcription":null}
-{"kr":"끌려가다","kz":"сүйреп апару","level":3,"transcription":null}
-{"kr":"내버려두다","kz":"жалғыз қалдыр","level":3,"transcription":null}
-{"kr":"다방","kz":"кофехана","level":3,"transcription":null}
-{"kr":"다섯째","kz":"бесінші","level":2,"transcription":null}
-{"kr":"도민","kz":"азамат","level":3,"transcription":null}
-{"kr":"도트","kz":"нүкте","level":3,"transcription":null}
-{"kr":"동방신기","kz":"tvxq","level":3,"transcription":null}
-{"kr":"동점","kz":"галстук","level":3,"transcription":null}
-{"kr":"뒤통수","kz":"бастың артқы жағы","level":3,"transcription":null}
-{"kr":"라서요","kz":"Өйткені","level":2,"transcription":null}
-{"kr":"러시아어","kz":"орыс","level":2,"transcription":null}
+{"kr":"항공편","kz":"услуга","level":3,"transcription":null}
+{"kr":"핸들","kz":"руль","level":2,"transcription":null}
+{"kr":"행사장","kz":"место проведения мероприятия","level":3,"transcription":null}
+{"kr":"화원","kz":"цветник","level":3,"transcription":null}
+{"kr":"가뭄","kz":"сухость","level":3,"transcription":null}
+{"kr":"게시물","kz":"сообщение","level":3,"transcription":null}
+{"kr":"공학부","kz":"инженерный факультет","level":3,"transcription":null}
+{"kr":"글라스","kz":"стекло","level":2,"transcription":null}
+{"kr":"급속히","kz":"быстро","level":3,"transcription":null}
+{"kr":"끌려가다","kz":"тянуть за собой","level":3,"transcription":null}
+{"kr":"내버려두다","kz":"оставить наедине","level":3,"transcription":null}
+{"kr":"다방","kz":"кофейня","level":3,"transcription":null}
+{"kr":"다섯째","kz":"четвертый","level":2,"transcription":null}
+{"kr":"도민","kz":"гражданин","level":3,"transcription":null}
+{"kr":"도트","kz":"точка","level":3,"transcription":null}
+{"kr":"동방신기","kz":"новое достижение","level":3,"transcription":null}
+{"kr":"동점","kz":"место встречи","level":3,"transcription":null}
+{"kr":"뒤통수","kz":"задняя часть тела","level":3,"transcription":null}
+{"kr":"라서요","kz":"потому что","level":2,"transcription":null}
+{"kr":"러시아어","kz":"русский язык","level":2,"transcription":null}
 {"kr":"레인지","kz":"диапазон","level":3,"transcription":null}
 {"kr":"룰렛","kz":"рулетка","level":3,"transcription":null}
-{"kr":"매뉴얼","kz":"нұсқаулық","level":3,"transcription":null}
-{"kr":"먹방","kz":"мүкбанг","level":3,"transcription":null}
-{"kr":"무얼","kz":"Не","level":1,"transcription":null}
-{"kr":"바닷물","kz":"теңіз суы","level":3,"transcription":null}
-{"kr":"보름달","kz":"толық ай","level":3,"transcription":null}
-{"kr":"브레인","kz":"ми","level":3,"transcription":null}
+{"kr":"매뉴얼","kz":"инструкция","level":3,"transcription":null}
+{"kr":"먹방","kz":"показ еды","level":3,"transcription":null}
+{"kr":"무얼","kz":"что?","level":1,"transcription":null}
+{"kr":"바닷물","kz":"морская вода","level":3,"transcription":null}
+{"kr":"보름달","kz":"полумесяц","level":3,"transcription":null}
+{"kr":"브레인","kz":"мозг","level":3,"transcription":null}
 {"kr":"비키니","kz":"бикини","level":2,"transcription":null}
 {"kr":"성품","kz":"кейіпкер","level":3,"transcription":null}
 {"kr":"셰퍼드","kz":"қойшы","level":3,"transcription":null}
-{"kr":"스치다","kz":"жалау","level":3,"transcription":null}
+{"kr":"스치다","kz":"жалғау","level":3,"transcription":null}
 {"kr":"약혼","kz":"тарту","level":3,"transcription":null}
 {"kr":"얜","kz":"Эй","level":2,"transcription":null}
 {"kr":"어떤지","kz":"Ол қандай?","level":3,"transcription":null}
@@ -6055,36 +6055,36 @@
 {"kr":"콜드","kz":"суық","level":2,"transcription":null}
 {"kr":"타이거","kz":"жолбарыс","level":2,"transcription":null}
 {"kr":"타이완","kz":"Тайвань","level":2,"transcription":null}
-{"kr":"탄력","kz":"серпімділік","level":3,"transcription":null}
-{"kr":"택하다","kz":"таңдаңыз","level":3,"transcription":null}
-{"kr":"트림","kz":"кекіру","level":3,"transcription":null}
-{"kr":"가락","kz":"күйге келтіру","level":3,"transcription":null}
-{"kr":"강북구","kz":"Гангбук-гу","level":1,"transcription":null}
-{"kr":"경품","kz":"жүлде","level":3,"transcription":null}
-{"kr":"고야","kz":"Гойя","level":3,"transcription":null}
-{"kr":"구독자","kz":"жазылушы","level":3,"transcription":null}
-{"kr":"국화","kz":"хризантема","level":3,"transcription":null}
-{"kr":"근교","kz":"қала маңы","level":3,"transcription":null}
-{"kr":"김밥","kz":"кимбап","level":1,"transcription":null}
-{"kr":"껍데기","kz":"қауыз","level":3,"transcription":null}
-{"kr":"꼼꼼","kz":"Мұқият","level":3,"transcription":null}
-{"kr":"꽁꽁","kz":"Мұздату","level":3,"transcription":null}
-{"kr":"낙타","kz":"түйе","level":2,"transcription":null}
-{"kr":"내과","kz":"дәрі","level":3,"transcription":null}
-{"kr":"농가","kz":"ферма үйі","level":3,"transcription":null}
-{"kr":"누님","kz":"Әпке","level":3,"transcription":null}
-{"kr":"다가오다","kz":"жақындау","level":2,"transcription":null}
-{"kr":"달달","kz":"тәтті","level":3,"transcription":null}
-{"kr":"동메달","kz":"қола медаль","level":2,"transcription":null}
-{"kr":"둘레","kz":"шеңбер","level":3,"transcription":null}
-{"kr":"레버","kz":"рычаг","level":3,"transcription":null}
-{"kr":"목표물","kz":"мақсат","level":3,"transcription":null}
-{"kr":"문화원","kz":"мәдениет орталығы","level":3,"transcription":null}
-{"kr":"방언","kz":"диалект","level":3,"transcription":null}
-{"kr":"병동","kz":"палата","level":3,"transcription":null}
-{"kr":"보름","kz":"толық ай","level":2,"transcription":null}
-{"kr":"보태다","kz":"қосу","level":3,"transcription":null}
-{"kr":"비료","kz":"тыңайтқыш","level":3,"transcription":null}
+{"kr":"탄력","kz":"elasticity","level":3,"transcription":null}
+{"kr":"택하다","kz":"to choose","level":3,"transcription":null}
+{"kr":"트림","kz":"trimming","level":3,"transcription":null}
+{"kr":"가락","kz":"song","level":3,"transcription":null}
+{"kr":"강북구","kz":"Gangbuk-gu","level":1,"transcription":null}
+{"kr":"경품","kz":"prize","level":3,"transcription":null}
+{"kr":"고야","kz":"Guyah","level":3,"transcription":null}
+{"kr":"구독자","kz":"subscriber","level":3,"transcription":null}
+{"kr":"국화","kz":"chrysanthemum","level":3,"transcription":null}
+{"kr":"근교","kz":"nearby area","level":3,"transcription":null}
+{"kr":"김밥","kz":"kimbae","level":1,"transcription":null}
+{"kr":"껍데기","kz":"shell","level":3,"transcription":null}
+{"kr":"꼼꼼","kz":"carefully","level":3,"transcription":null}
+{"kr":"꽁꽁","kz":"frozen","level":3,"transcription":null}
+{"kr":"낙타","kz":"camel","level":2,"transcription":null}
+{"kr":"내과","kz":"internal medicine","level":3,"transcription":null}
+{"kr":"농가","kz":"farm","level":3,"transcription":null}
+{"kr":"누님","kz":"grandmother","level":3,"transcription":null}
+{"kr":"다가오다","kz":"to come to","level":2,"transcription":null}
+{"kr":"달달","kz":"sweet","level":3,"transcription":null}
+{"kr":"동메달","kz":"medal","level":2,"transcription":null}
+{"kr":"둘레","kz":"circumference","level":3,"transcription":null}
+{"kr":"레버","kz":"lever","level":3,"transcription":null}
+{"kr":"목표물","kz":"goal","level":3,"transcription":null}
+{"kr":"문화원","kz":"cultural center","level":3,"transcription":null}
+{"kr":"방언","kz":"dialect","level":3,"transcription":null}
+{"kr":"병동","kz":"ward","level":3,"transcription":null}
+{"kr":"보름","kz":"full moon","level":2,"transcription":null}
+{"kr":"보태다","kz":"to add","level":3,"transcription":null}
+{"kr":"비료","kz":"fertilizer","level":3,"transcription":null}
 {"kr":"빛깔","kz":"түс","level":3,"transcription":null}
 {"kr":"샤프","kz":"өткір","level":2,"transcription":null}
 {"kr":"세수","kz":"бетіңізді жуыңыз","level":1,"transcription":null}
@@ -6237,7 +6237,7 @@
 {"kr":"아그라","kz":"Агра","level":2,"transcription":null}
 {"kr":"알리스","kz":"Алиса","level":1,"transcription":null}
 {"kr":"알프레드","kz":"альфред","level":2,"transcription":null}
-{"kr":"암기","kz":"жаттау","level":3,"transcription":null}
+{"kr":"암기","kz":"аттау","level":3,"transcription":null}
 {"kr":"압구정","kz":"Апгужон","level":2,"transcription":null}
 {"kr":"애니멀","kz":"жануар","level":2,"transcription":null}
 {"kr":"애용","kz":"сүйікті","level":3,"transcription":null}
@@ -6441,11 +6441,11 @@
 {"kr":"불고기","kz":"Булгоги","level":1,"transcription":null}
 {"kr":"불상","kz":"Будда мүсіні","level":3,"transcription":null}
 {"kr":"비행장","kz":"аэродром","level":3,"transcription":null}
-{"kr":"상큼","kz":"Сергіту","level":3,"transcription":null}
+{"kr":"상큼","kz":"сергіту","level":3,"transcription":null}
 {"kr":"샌드","kz":"құм","level":2,"transcription":null}
 {"kr":"서식지","kz":"мекендеу ортасы","level":3,"transcription":null}
 {"kr":"선풍기","kz":"электр желдеткіш","level":2,"transcription":null}
-{"kr":"속담","kz":"мақал","level":3,"transcription":null}
+{"kr":"속담","kz":"말ал","level":3,"transcription":null}
 {"kr":"스톡","kz":"қор","level":3,"transcription":null}
 {"kr":"습기","kz":"ылғал","level":3,"transcription":null}
 {"kr":"시어머니","kz":"қайын ене","level":2,"transcription":null}
@@ -6500,7 +6500,7 @@
 {"kr":"손발","kz":"қолдар мен аяқтар","level":1,"transcription":null}
 {"kr":"쇼파","kz":"диван","level":1,"transcription":null}
 {"kr":"술자리","kz":"ішу кеші","level":3,"transcription":null}
-{"kr":"스테레오","kz":"стереотип","level":3,"transcription":null}
+{"kr":"스테레오","kz":"стереotip","level":3,"transcription":null}
 {"kr":"스파이더","kz":"өрмекші","level":3,"transcription":null}
 {"kr":"시내버스","kz":"қалалық автобус","level":2,"transcription":null}
 {"kr":"시들다","kz":"қурап қалу","level":3,"transcription":null}
@@ -6536,12 +6536,12 @@
 {"kr":"공격수","kz":"шабуылшы","level":3,"transcription":null}
 {"kr":"기류","kz":"ауа ағыны","level":3,"transcription":null}
 {"kr":"기압","kz":"атмосфералық қысым","level":3,"transcription":null}
-{"kr":"까맣다","kz":"Ол қара","level":2,"transcription":null}
+{"kr":"까맣다","kz":"көптеген","level":2,"transcription":null}
 {"kr":"꺼리다","kz":"ұқыптылық","level":3,"transcription":null}
 {"kr":"나이프","kz":"пышақ","level":1,"transcription":null}
 {"kr":"낙엽","kz":"құлаған жапырақтар","level":2,"transcription":null}
 {"kr":"난방","kz":"жылыту","level":2,"transcription":null}
-{"kr":"내심","kz":"интерьер","level":3,"transcription":null}
+{"kr":"내심","kz":"інтерьер","level":3,"transcription":null}
 {"kr":"네모","kz":"шаршы","level":1,"transcription":null}
 {"kr":"대표작","kz":"жауһар","level":3,"transcription":null}
 {"kr":"두세","kz":"екі немесе үш","level":2,"transcription":null}
@@ -6550,7 +6550,7 @@
 {"kr":"로선","kz":"маршрут","level":3,"transcription":null}
 {"kr":"메우다","kz":"толтыру","level":2,"transcription":null}
 {"kr":"모자이크","kz":"мозаика","level":3,"transcription":null}
-{"kr":"몽땅","kz":"Барлығы","level":3,"transcription":null}
+{"kr":"몽땅","kz":"барлығы","level":3,"transcription":null}
 {"kr":"바베큐","kz":"барбекю","level":2,"transcription":null}
 {"kr":"반년","kz":"жарты жыл","level":2,"transcription":null}
 {"kr":"방한","kz":"суық ауа райы","level":3,"transcription":null}
@@ -6559,7 +6559,7 @@
 {"kr":"불안감","kz":"мазасыздық","level":3,"transcription":null}
 {"kr":"삽화","kz":"иллюстрация","level":3,"transcription":null}
 {"kr":"수비수","kz":"қорғаушы","level":3,"transcription":null}
-{"kr":"숨소리","kz":"Тыныс алу дыбысы","level":2,"transcription":null}
+{"kr":"숨소리","kz":"тыныс алу дыбысы","level":2,"transcription":null}
 {"kr":"스크롤","kz":"айналдыру","level":3,"transcription":null}
 {"kr":"심부름","kz":"тапсырма","level":2,"transcription":null}
 {"kr":"앞면","kz":"бет жағы","level":3,"transcription":null}
@@ -6614,7 +6614,7 @@
 {"kr":"마음먹다","kz":"шешім қабылдау","level":3,"transcription":null}
 {"kr":"목줄","kz":"спод","level":2,"transcription":null}
 {"kr":"문항","kz":"сұрақ","level":3,"transcription":null}
-{"kr":"뭘까요","kz":"Бұл не","level":2,"transcription":null}
+{"kr":"뭘까요","kz":"Бұл не?","level":2,"transcription":null}
 {"kr":"미라클","kz":"Ғажайып","level":3,"transcription":null}
 {"kr":"바이트","kz":"байт","level":3,"transcription":null}
 {"kr":"본받다","kz":"еліктеу","level":3,"transcription":null}
@@ -6627,7 +6627,7 @@
 {"kr":"서운하다","kz":"Мен қайғылымын","level":3,"transcription":null}
 {"kr":"소화기","kz":"өрт сөндіргіш","level":3,"transcription":null}
 {"kr":"슈퍼마켓","kz":"супермаркет","level":1,"transcription":null}
-{"kr":"스테인","kz":"дақ","level":3,"transcription":null}
+{"kr":"스테인","kz":"сталь","level":3,"transcription":null}
 {"kr":"씨드","kz":"тұқым","level":3,"transcription":null}
 {"kr":"아부지","kz":"Әке","level":2,"transcription":null}
 {"kr":"옆구리","kz":"жағы","level":2,"transcription":null}
@@ -6715,7 +6715,7 @@
 {"kr":"이럼","kz":"Бұл сияқты","level":3,"transcription":null}
 {"kr":"자긴","kz":"Жарайсың","level":2,"transcription":null}
 {"kr":"자료실","kz":"деректер бөлмесі","level":3,"transcription":null}
-{"kr":"재다","kz":"алу","level":2,"transcription":null}
+{"kr":"재다","kz":"алы","level":2,"transcription":null}
 {"kr":"정구","kz":"теннис","level":3,"transcription":null}
 {"kr":"조연","kz":"көмекші рөл","level":3,"transcription":null}
 {"kr":"조커","kz":"әзілкеш","level":3,"transcription":null}
@@ -6750,13 +6750,13 @@
 {"kr":"나팔","kz":"керней","level":3,"transcription":null}
 {"kr":"등교","kz":"мектепке бару","level":2,"transcription":null}
 {"kr":"등대","kz":"маяк","level":2,"transcription":null}
-{"kr":"라거나","kz":"Немесе","level":3,"transcription":null}
+{"kr":"라거나","kz":"немець","level":3,"transcription":null}
 {"kr":"라벤더","kz":"лаванда","level":3,"transcription":null}
 {"kr":"러시아인","kz":"орыс","level":2,"transcription":null}
-{"kr":"롭다","kz":"Ол жақсы","level":3,"transcription":null}
+{"kr":"롭다","kz":"ол жақсы","level":3,"transcription":null}
 {"kr":"로컬","kz":"жергілікті","level":3,"transcription":null}
-{"kr":"리딩","kz":"Оқу","level":3,"transcription":null}
-{"kr":"리전","kz":"Аймақ","level":3,"transcription":null}
+{"kr":"리딩","kz":"оқу","level":3,"transcription":null}
+{"kr":"리전","kz":"аймақ","level":3,"transcription":null}
 {"kr":"맞붙다","kz":"бетпе-бет","level":3,"transcription":null}
 {"kr":"모피","kz":"жүн","level":3,"transcription":null}
 {"kr":"발짝","kz":"қадам","level":3,"transcription":null}
@@ -6765,7 +6765,7 @@
 {"kr":"분대","kz":"отряд","level":3,"transcription":null}
 {"kr":"블로","kz":"соққы","level":3,"transcription":null}
 {"kr":"블루베리","kz":"көкжидек","level":3,"transcription":null}
-{"kr":"비르","kz":"Бір","level":2,"transcription":null}
+{"kr":"비르","kz":"бір","level":2,"transcription":null}
 {"kr":"빌리지","kz":"ауыл","level":3,"transcription":null}
 {"kr":"사우디아라비아","kz":"Сауд Арабиясы","level":3,"transcription":null}
 {"kr":"생년월일","kz":"туылған күні","level":2,"transcription":null}
@@ -6956,11 +6956,11 @@
 {"kr":"녹이다","kz":"балқыту","level":2,"transcription":null}
 {"kr":"니어","kz":"жақын","level":3,"transcription":null}
 {"kr":"단체전","kz":"топтық көрме","level":3,"transcription":null}
-{"kr":"당부","kz":"Өтінемін","level":3,"transcription":null}
-{"kr":"대구광역시","kz":"Тэгу метрополитен қаласы","level":2,"transcription":null}
+{"kr":"당부","kz":"дауыс беру","level":3,"transcription":null}
+{"kr":"대구광역시","kz":"Дэгу метрополитен қаласы","level":2,"transcription":null}
 {"kr":"돌봄","kz":"қамқорлық","level":3,"transcription":null}
 {"kr":"드나들다","kz":"кіріп-шығыңыз","level":3,"transcription":null}
-{"kr":"들어주다","kz":"тыңда","level":3,"transcription":null}
+{"kr":"들어주다","kz":"тыңдау","level":3,"transcription":null}
 {"kr":"땡기다","kz":"құштарлық","level":3,"transcription":null}
 {"kr":"라데","kz":"Радхе","level":3,"transcription":null}
 {"kr":"라운지","kz":"демалыс бөлмесі","level":3,"transcription":null}
@@ -6977,7 +6977,7 @@
 {"kr":"물어뜯다","kz":"тістеу","level":3,"transcription":null}
 {"kr":"버프","kz":"буф","level":3,"transcription":null}
 {"kr":"보이콧","kz":"бойкот","level":3,"transcription":null}
-{"kr":"블루투스","kz":"блютез","level":3,"transcription":null}
+{"kr":"블루투스","kz":"блютуз","level":3,"transcription":null}
 {"kr":"사각형","kz":"төртбұрыш","level":2,"transcription":null}
 {"kr":"사시","kz":"кросс-көз","level":3,"transcription":null}
 {"kr":"서머","kz":"жаз","level":2,"transcription":null}
@@ -7026,7 +7026,7 @@
 {"kr":"효도","kz":"имандылық","level":3,"transcription":null}
 {"kr":"감염자","kz":"инфекцияланған адам","level":3,"transcription":null}
 {"kr":"교육자","kz":"тәрбиеші","level":3,"transcription":null}
-{"kr":"국밥","kz":"Гукбап","level":2,"transcription":null}
+{"kr":"국밥","kz":"국밥","level":2,"transcription":null}
 {"kr":"균일","kz":"біркелкі","level":3,"transcription":null}
 {"kr":"금세","kz":"еш уақытта","level":2,"transcription":null}
 {"kr":"깡","kz":"Банда","level":3,"transcription":null}
@@ -7045,8 +7045,8 @@
 {"kr":"맞선","kz":"бетпе-бет","level":3,"transcription":null}
 {"kr":"매다","kz":"галстук","level":2,"transcription":null}
 {"kr":"멧돼지","kz":"жабайы қабан","level":3,"transcription":null}
-{"kr":"몸집","kz":"дене мөлшері","level":3,"transcription":null}
-{"kr":"문답","kz":"сұрақтар мен жауаптар","level":3,"transcription":null}
+{"kr":"몸집","kz":"мөлшері","level":3,"transcription":null}
+{"kr":"문답","kz":"жауаптар","level":3,"transcription":null}
 {"kr":"뭍","kz":"жер","level":3,"transcription":null}
 {"kr":"바느질","kz":"тігу","level":3,"transcription":null}
 {"kr":"밧줄","kz":"байлау","level":3,"transcription":null}
@@ -7065,7 +7065,7 @@
 {"kr":"숨결","kz":"тыныс","level":3,"transcription":null}
 {"kr":"스캐너","kz":"сканер","level":3,"transcription":null}
 {"kr":"신중히","kz":"әдейі","level":3,"transcription":null}
-{"kr":"알차다","kz":"Бұл ақпараттық","level":3,"transcription":null}
+{"kr":"알차다","kz":"алдақтық","level":3,"transcription":null}
 {"kr":"야호","kz":"Алақай","level":2,"transcription":null}
 {"kr":"에스프레소","kz":"эспрессо","level":2,"transcription":null}
 {"kr":"옐","kz":"Айқай","level":3,"transcription":null}
@@ -7075,36 +7075,36 @@
 {"kr":"이체","kz":"аудару","level":3,"transcription":null}
 {"kr":"입장권","kz":"кіру билеті","level":2,"transcription":null}
 {"kr":"정수기","kz":"су тазартқыш","level":2,"transcription":null}
-{"kr":"진료소","kz":"емхана","level":3,"transcription":null}
-{"kr":"쫓아가다","kz":"қуу","level":2,"transcription":null}
-{"kr":"챙","kz":"визор","level":3,"transcription":null}
-{"kr":"철자","kz":"емле","level":3,"transcription":null}
-{"kr":"취임식","kz":"инаугурация","level":3,"transcription":null}
+{"kr":"진료소","kz":"медициналық жүйе","level":3,"transcription":null}
+{"kr":"쫓아가다","kz":"қуып жүру","level":2,"transcription":null}
+{"kr":"챙","kz":"","level":3,"transcription":null}
+{"kr":"철자","kz":"","level":3,"transcription":null}
+{"kr":"취임식","kz":"инаугурациясы","level":3,"transcription":null}
 {"kr":"카누","kz":"каноэ","level":2,"transcription":null}
 {"kr":"크리스찬","kz":"христиан","level":3,"transcription":null}
-{"kr":"킬로","kz":"келі","level":1,"transcription":null}
+{"kr":"킬로","kz":"","level":1,"transcription":null}
 {"kr":"테마파크","kz":"тақырыптық саябақ","level":2,"transcription":null}
-{"kr":"트래픽","kz":"қозғалыс","level":3,"transcription":null}
+{"kr":"트래픽","kz":"","level":3,"transcription":null}
 {"kr":"페퍼","kz":"Бұрыш","level":2,"transcription":null}
 {"kr":"프라이버시","kz":"құпиялылық","level":3,"transcription":null}
 {"kr":"한국식","kz":"Корей стилі","level":2,"transcription":null}
-{"kr":"혼잣말","kz":"жеке сөйлеу","level":3,"transcription":null}
+{"kr":"혼잣말","kz":"","level":3,"transcription":null}
 {"kr":"휴양지","kz":"курорт","level":3,"transcription":null}
 {"kr":"흠집","kz":"сызаттар","level":3,"transcription":null}
 {"kr":"가디건","kz":"кардиган","level":2,"transcription":null}
-{"kr":"가입자","kz":"жазылушы","level":3,"transcription":null}
+{"kr":"가입자","kz":"","level":3,"transcription":null}
 {"kr":"값지다","kz":"құнды","level":3,"transcription":null}
 {"kr":"겁쟁이","kz":"қорқақ","level":3,"transcription":null}
 {"kr":"게으르다","kz":"жалқау бол","level":2,"transcription":null}
-{"kr":"계장","kz":"аспаптар","level":3,"transcription":null}
+{"kr":"계장","kz":"","level":3,"transcription":null}
 {"kr":"관람객","kz":"аудитория","level":3,"transcription":null}
 {"kr":"궁궐","kz":"сарай","level":3,"transcription":null}
 {"kr":"길목","kz":"көше қиылысы","level":3,"transcription":null}
-{"kr":"까치","kz":"сусаған","level":2,"transcription":null}
+{"kr":"까치","kz":"","level":2,"transcription":null}
 {"kr":"꾸리다","kz":"басқару","level":3,"transcription":null}
 {"kr":"끄덕","kz":"бас изеу","level":3,"transcription":null}
 {"kr":"나물","kz":"шөптер","level":2,"transcription":null}
-{"kr":"낙지","kz":"сегізаяқ","level":3,"transcription":null}
+{"kr":"낙지","kz":"","level":3,"transcription":null}
 {"kr":"남동쪽","kz":"оңтүстік-шығысқа қарай","level":2,"transcription":null}
 {"kr":"내꺼","kz":"менікі","level":1,"transcription":null}
 {"kr":"넘어오다","kz":"келу","level":3,"transcription":null}
@@ -7165,7 +7165,7 @@
 {"kr":"회의장","kz":"мәжіліс залы","level":3,"transcription":null}
 {"kr":"힘차다","kz":"күшті","level":3,"transcription":null}
 {"kr":"개뿔","kz":"боқ","level":3,"transcription":null}
-{"kr":"경제력","kz":"экономикалық күш","level":3,"transcription":null}
+{"kr":"경제력","kz":"экономикалық güç","level":3,"transcription":null}
 {"kr":"고아원","kz":"балалар үйі","level":3,"transcription":null}
 {"kr":"골치","kz":"бас ауруы","level":3,"transcription":null}
 {"kr":"광진","kz":"Гванджин","level":1,"transcription":null}
@@ -7201,7 +7201,7 @@
 {"kr":"부끄러움","kz":"ұят","level":3,"transcription":null}
 {"kr":"부다페스트","kz":"Будапешт","level":2,"transcription":null}
 {"kr":"불운","kz":"бақытсыздық","level":3,"transcription":null}
-{"kr":"비빔밥","kz":"Бибімбап","level":1,"transcription":null}
+{"kr":"비빔밥","kz":"бавим-бап","level":1,"transcription":null}
 {"kr":"상세히","kz":"егжей-тегжейлі","level":3,"transcription":null}
 {"kr":"서초동","kz":"Сочо-донг","level":2,"transcription":null}
 {"kr":"성교육","kz":"жыныстық тәрбие","level":3,"transcription":null}
@@ -7376,10 +7376,10 @@
 {"kr":"차츰","kz":"Біртіндеп","level":3,"transcription":null}
 {"kr":"충무로","kz":"Чунмуро","level":3,"transcription":null}
 {"kr":"캥거루","kz":"кенгуру","level":2,"transcription":null}
-{"kr":"케이프","kz":"мүйіс","level":3,"transcription":null}
+{"kr":"케이프","kz":"кайп","level":3,"transcription":null}
 {"kr":"쾅","kz":"жарылыс","level":3,"transcription":null}
 {"kr":"트램","kz":"трамвай","level":3,"transcription":null}
-{"kr":"트레일","kz":"із","level":3,"transcription":null}
+{"kr":"트레일","kz":"трейл","level":3,"transcription":null}
 {"kr":"팔레트","kz":"палитра","level":3,"transcription":null}
 {"kr":"패션쇼","kz":"сән көрсетілімі","level":3,"transcription":null}
 {"kr":"패스트","kz":"жылдам","level":3,"transcription":null}
@@ -7406,7 +7406,7 @@
 {"kr":"독사","kz":"улы жылан","level":3,"transcription":null}
 {"kr":"되돌아가다","kz":"қайтып келу","level":2,"transcription":null}
 {"kr":"되살리다","kz":"жандандыру","level":3,"transcription":null}
-{"kr":"라네요","kz":"Ол айтады","level":3,"transcription":null}
+{"kr":"라네요","kz":"ол айтады","level":3,"transcription":null}
 {"kr":"라드","kz":"шошқа майы","level":3,"transcription":null}
 {"kr":"라스베이거스","kz":"Лас-Вегас","level":2,"transcription":null}
 {"kr":"로동","kz":"еңбек","level":3,"transcription":null}
@@ -7495,8 +7495,8 @@
 {"kr":"미국식","kz":"Американдық стиль","level":2,"transcription":null}
 {"kr":"바비큐","kz":"барбекю","level":2,"transcription":null}
 {"kr":"배고픔","kz":"аштық","level":2,"transcription":null}
-{"kr":"보금자리","kz":"ұя","level":3,"transcription":null}
-{"kr":"복사본","kz":"көшіру","level":2,"transcription":null}
+{"kr":"보금자리","kz":"үй","level":3,"transcription":null}
+{"kr":"복사본","kz":"копия","level":2,"transcription":null}
 {"kr":"불가리아","kz":"Болгария","level":2,"transcription":null}
 {"kr":"빛내다","kz":"жарықтандыру","level":3,"transcription":null}
 {"kr":"상경","kz":"Сангхён","level":3,"transcription":null}
@@ -7677,7 +7677,7 @@
 {"kr":"지현","kz":"Джихён","level":1,"transcription":null}
 {"kr":"집들이","kz":"қоныс той","level":3,"transcription":null}
 {"kr":"청계천","kz":"Чонгичён","level":3,"transcription":null}
-{"kr":"체크카드","kz":"тексеру картасы","level":3,"transcription":null}
+{"kr":"체크카드","kz":"чеккард","level":3,"transcription":null}
 {"kr":"치바","kz":"Чиба","level":3,"transcription":null}
 {"kr":"캐럿","kz":"карат","level":3,"transcription":null}
 {"kr":"캐쉬","kz":"қолма-қол ақша","level":3,"transcription":null}
@@ -7796,35 +7796,35 @@
 {"kr":"리소스","kz":"ресурстар","level":3,"transcription":null}
 {"kr":"말장난","kz":"қулық","level":3,"transcription":null}
 {"kr":"맥북","kz":"macbook","level":2,"transcription":null}
-{"kr":"멤버십","kz":"мүшелік","level":2,"transcription":null}
-{"kr":"모나코","kz":"монако","level":3,"transcription":null}
-{"kr":"물통","kz":"шелек","level":2,"transcription":null}
-{"kr":"뮤지엄","kz":"мұражай","level":3,"transcription":null}
-{"kr":"바코드","kz":"штрих-код","level":3,"transcription":null}
-{"kr":"발차기","kz":"тебу","level":3,"transcription":null}
-{"kr":"백호","kz":"ақ жолбарыс","level":3,"transcription":null}
-{"kr":"벌집","kz":"бал ұясы","level":2,"transcription":null}
-{"kr":"범퍼","kz":"бампер","level":3,"transcription":null}
-{"kr":"보관소","kz":"сақтау","level":3,"transcription":null}
-{"kr":"봉급","kz":"жалақы","level":3,"transcription":null}
-{"kr":"분말","kz":"ұнтақ","level":3,"transcription":null}
-{"kr":"빙판","kz":"мұз","level":3,"transcription":null}
-{"kr":"빠뜨리다","kz":"тастап кету","level":3,"transcription":null}
-{"kr":"상영관","kz":"театр","level":3,"transcription":null}
-{"kr":"선후배","kz":"Аға\/кіші","level":2,"transcription":null}
-{"kr":"세계인","kz":"әлем халқы","level":3,"transcription":null}
-{"kr":"소바","kz":"соба","level":3,"transcription":null}
-{"kr":"소방차","kz":"өрт сөндіру машинасы","level":2,"transcription":null}
-{"kr":"손흥민","kz":"Сон Хён Мин","level":1,"transcription":null}
-{"kr":"수거","kz":"жинақ","level":3,"transcription":null}
-{"kr":"실링","kz":"шиллинг","level":3,"transcription":null}
-{"kr":"아늑","kz":"жайлы","level":3,"transcription":null}
-{"kr":"아처","kz":"садақшы","level":3,"transcription":null}
-{"kr":"아쿠아리움","kz":"аквариум","level":2,"transcription":null}
-{"kr":"알아주다","kz":"тану","level":3,"transcription":null}
-{"kr":"약수","kz":"өлшеу","level":3,"transcription":null}
-{"kr":"양분","kz":"тамақ","level":3,"transcription":null}
-{"kr":"에픽","kz":"эпикалық","level":3,"transcription":null}
+{"kr":"멤버십","kz":"membership","level":2,"transcription":null}
+{"kr":"모나코","kz":"Monaco","level":3,"transcription":null}
+{"kr":"물통","kz":"water jug","level":2,"transcription":null}
+{"kr":"뮤지엄","kz":"museum","level":3,"transcription":null}
+{"kr":"바코드","kz":"barcode","level":3,"transcription":null}
+{"kr":"발차기","kz":"tea ceremony","level":3,"transcription":null}
+{"kr":"백호","kz":"white horse","level":3,"transcription":null}
+{"kr":"벌집","kz":"bee hive","level":2,"transcription":null}
+{"kr":"범퍼","kz":"bumper","level":3,"transcription":null}
+{"kr":"보관소","kz":"storage","level":3,"transcription":null}
+{"kr":"봉급","kz":"wages","level":3,"transcription":null}
+{"kr":"분말","kz":"powder","level":3,"transcription":null}
+{"kr":"빙판","kz":"ice rink","level":3,"transcription":null}
+{"kr":"빠뜨리다","kz":"to lose","level":3,"transcription":null}
+{"kr":"상영관","kz":"cinema","level":3,"transcription":null}
+{"kr":"선후배","kz":"senior\/younger brother","level":2,"transcription":null}
+{"kr":"세계인","kz":"world citizen","level":3,"transcription":null}
+{"kr":"소바","kz":"soba","level":3,"transcription":null}
+{"kr":"소방차","kz":"fire truck","level":2,"transcription":null}
+{"kr":"손흥민","kz":"Son Heung-min","level":1,"transcription":null}
+{"kr":"수거","kz":"collection","level":3,"transcription":null}
+{"kr":"실링","kz":"Shilling","level":3,"transcription":null}
+{"kr":"아늑","kz":"quietude","level":3,"transcription":null}
+{"kr":"아처","kz":"architect","level":3,"transcription":null}
+{"kr":"아쿠아리움","kz":"aquarium","level":2,"transcription":null}
+{"kr":"알아주다","kz":"to inform","level":3,"transcription":null}
+{"kr":"약수","kz":"medicine","level":3,"transcription":null}
+{"kr":"양분","kz":"nutrients","level":3,"transcription":null}
+{"kr":"에픽","kz":"epic","level":3,"transcription":null}
 {"kr":"오래가다","kz":"ұзақ уақытқа созылады","level":2,"transcription":null}
 {"kr":"오마이갓","kz":"О құдайым-ай","level":1,"transcription":null}
 {"kr":"오예","kz":"О иә","level":1,"transcription":null}
@@ -7946,7 +7946,7 @@
 {"kr":"된다구","kz":"Ол істейді","level":3,"transcription":null}
 {"kr":"뒷좌석","kz":"артқы орындық","level":3,"transcription":null}
 {"kr":"래빗","kz":"қоян","level":2,"transcription":null}
-{"kr":"레바","kz":"лева","level":3,"transcription":null}
+{"kr":"레바","kz":"бала","level":3,"transcription":null}
 {"kr":"레슬러","kz":"палуан","level":3,"transcription":null}
 {"kr":"마일스","kz":"миль","level":2,"transcription":null}
 {"kr":"만루","kz":"базалар жүктелді","level":3,"transcription":null}
@@ -8065,8 +8065,8 @@
 {"kr":"아보카도","kz":"авокадо","level":3,"transcription":null}
 {"kr":"안내서","kz":"нұсқаулық","level":3,"transcription":null}
 {"kr":"액세서리","kz":"аксессуарлар","level":2,"transcription":null}
-{"kr":"연습장","kz":"жаттығу дәптері","level":2,"transcription":null}
-{"kr":"예수교","kz":"иезуитизм","level":3,"transcription":null}
+{"kr":"연습장","kz":"дәптерхан","level":2,"transcription":null}
+{"kr":"예수교","kz":"протестантизм","level":3,"transcription":null}
 {"kr":"오른발","kz":"оң аяқ","level":2,"transcription":null}
 {"kr":"오피셜","kz":"Ресми","level":3,"transcription":null}
 {"kr":"요점","kz":"түйін","level":3,"transcription":null}
@@ -8304,8 +8304,8 @@
 {"kr":"스크랩","kz":"сынықтар","level":3,"transcription":null}
 {"kr":"스파클","kz":"жарқырау","level":3,"transcription":null}
 {"kr":"식히다","kz":"басылыңыз","level":2,"transcription":null}
-{"kr":"실연","kz":"жаралы жүрек","level":3,"transcription":null}
-{"kr":"실외","kz":"ашық","level":2,"transcription":null}
+{"kr":"실연","kz":"жүрек","level":3,"transcription":null}
+{"kr":"실외","kz":"шық","level":2,"transcription":null}
 {"kr":"쌩","kz":"ssang","level":3,"transcription":null}
 {"kr":"아머","kz":"сауыт","level":3,"transcription":null}
 {"kr":"얼라","kz":"Мұздату","level":3,"transcription":null}
@@ -8364,38 +8364,38 @@
 {"kr":"미드나잇","kz":"түн ортасы","level":2,"transcription":null}
 {"kr":"박하","kz":"жалбыз","level":3,"transcription":null}
 {"kr":"베이지","kz":"бежевый","level":2,"transcription":null}
-{"kr":"벤쳐","kz":"кәсіпорын","level":3,"transcription":null}
-{"kr":"보살핌","kz":"қамқорлық","level":3,"transcription":null}
-{"kr":"보육원","kz":"балабақша","level":3,"transcription":null}
-{"kr":"부메랑","kz":"бумеранг","level":3,"transcription":null}
-{"kr":"부산항","kz":"Пусан порты","level":3,"transcription":null}
-{"kr":"붙잡히다","kz":"ұсталу","level":3,"transcription":null}
-{"kr":"세탁소","kz":"кір","level":2,"transcription":null}
-{"kr":"손보다","kz":"қолдарға қарағанда","level":3,"transcription":null}
-{"kr":"송곳니","kz":"ит","level":3,"transcription":null}
-{"kr":"수평선","kz":"көкжиек","level":3,"transcription":null}
-{"kr":"쉐프","kz":"аспаз","level":2,"transcription":null}
-{"kr":"시프트","kz":"ауысым","level":3,"transcription":null}
-{"kr":"식빵","kz":"ақ нан","level":1,"transcription":null}
-{"kr":"악단","kz":"топ","level":3,"transcription":null}
-{"kr":"여행사","kz":"туристік агенттік","level":2,"transcription":null}
-{"kr":"예체능","kz":"өнер және дене тәрбиесі","level":3,"transcription":null}
-{"kr":"워크숍","kz":"шеберхана","level":3,"transcription":null}
-{"kr":"위클리","kz":"Апта сайын","level":3,"transcription":null}
-{"kr":"유충","kz":"личинка","level":3,"transcription":null}
-{"kr":"이동하다","kz":"жылжыту","level":2,"transcription":null}
-{"kr":"이라든지","kz":"Немесе бірдеңе","level":3,"transcription":null}
-{"kr":"일광","kz":"күндізгі жарық","level":3,"transcription":null}
-{"kr":"자두","kz":"алхоры","level":2,"transcription":null}
-{"kr":"자장","kz":"тыныш","level":2,"transcription":null}
-{"kr":"잽","kz":"жаба","level":3,"transcription":null}
-{"kr":"적금","kz":"үнемдеу","level":3,"transcription":null}
+{"kr":"벤쳐","kz":"компания","level":3,"transcription":null}
+{"kr":"보살핌","kz":"забота","level":3,"transcription":null}
+{"kr":"보육원","kz":"детский сад","level":3,"transcription":null}
+{"kr":"부메랑","kz":"буферный мешок","level":3,"transcription":null}
+{"kr":"부산항","kz":"Пусан порт","level":3,"transcription":null}
+{"kr":"붙잡히다","kz":"заставлять","level":3,"transcription":null}
+{"kr":"세탁소","kz":"стиральная машина","level":2,"transcription":null}
+{"kr":"손보다","kz":"больше руки","level":3,"transcription":null}
+{"kr":"송곳니","kz":"гвозди","level":3,"transcription":null}
+{"kr":"수평선","kz":"горизонт","level":3,"transcription":null}
+{"kr":"쉐프","kz":"повар","level":2,"transcription":null}
+{"kr":"시프트","kz":"смена","level":3,"transcription":null}
+{"kr":"식빵","kz":"хлеб","level":1,"transcription":null}
+{"kr":"악단","kz":"оркестр","level":3,"transcription":null}
+{"kr":"여행사","kz":"туристическая компания","level":2,"transcription":null}
+{"kr":"예체능","kz":"танцы и спорт","level":3,"transcription":null}
+{"kr":"워크숍","kz":"вечеринка","level":3,"transcription":null}
+{"kr":"위클리","kz":"неделя","level":3,"transcription":null}
+{"kr":"유충","kz":"пчела","level":3,"transcription":null}
+{"kr":"이동하다","kz":"движение","level":2,"transcription":null}
+{"kr":"이라든지","kz":"или","level":3,"transcription":null}
+{"kr":"일광","kz":"солнце","level":3,"transcription":null}
+{"kr":"자두","kz":"вишня","level":2,"transcription":null}
+{"kr":"자장","kz":"место","level":2,"transcription":null}
+{"kr":"잽","kz":"мешок","level":3,"transcription":null}
+{"kr":"적금","kz":"сбережения","level":3,"transcription":null}
 {"kr":"정모","kz":"Чонмо","level":3,"transcription":null}
-{"kr":"제본","kz":"байланыстыру","level":3,"transcription":null}
-{"kr":"조각가","kz":"мүсінші","level":2,"transcription":null}
-{"kr":"쫓아다니다","kz":"қуу","level":3,"transcription":null}
-{"kr":"채식","kz":"вегетариандық диета","level":3,"transcription":null}
-{"kr":"체어","kz":"орындық","level":1,"transcription":null}
+{"kr":"제본","kz":"оболочка","level":3,"transcription":null}
+{"kr":"조각가","kz":"мозаика","level":2,"transcription":null}
+{"kr":"쫓아다니다","kz":"преследовать","level":3,"transcription":null}
+{"kr":"채식","kz":"вегетарианство","level":3,"transcription":null}
+{"kr":"체어","kz":"орындайық","level":1,"transcription":null}
 {"kr":"첵","kz":"тексеру","level":2,"transcription":null}
 {"kr":"축구팀","kz":"футбол командасы","level":2,"transcription":null}
 {"kr":"충주시","kz":"Чунджу қаласы","level":2,"transcription":null}
@@ -8441,16 +8441,16 @@
 {"kr":"쓰러뜨리다","kz":"құлату","level":3,"transcription":null}
 {"kr":"씻기다","kz":"жуу","level":2,"transcription":null}
 {"kr":"아낌없이","kz":"жомарт","level":3,"transcription":null}
-{"kr":"아차","kz":"Ой","level":1,"transcription":null}
+{"kr":"아차","kz":"아차","level":1,"transcription":null}
 {"kr":"어댑터","kz":"адаптер","level":3,"transcription":null}
 {"kr":"엔트리","kz":"кіру","level":3,"transcription":null}
 {"kr":"오른편","kz":"оң жағы","level":2,"transcription":null}
 {"kr":"외할머니","kz":"анасының әжесі","level":2,"transcription":null}
-{"kr":"용의","kz":"айдаһар","level":3,"transcription":null}
+{"kr":"용의","kz":"용의","level":3,"transcription":null}
 {"kr":"우승컵","kz":"чемпионат кубогы","level":3,"transcription":null}
-{"kr":"우의","kz":"пальто","level":3,"transcription":null}
+{"kr":"우의","kz":"уысы","level":3,"transcription":null}
 {"kr":"웅덩이","kz":"бассейн","level":2,"transcription":null}
-{"kr":"워시","kz":"жуу","level":2,"transcription":null}
+{"kr":"워시","kz":"жүк","level":2,"transcription":null}
 {"kr":"이용하다","kz":"пайдалану","level":2,"transcription":null}
 {"kr":"일례","kz":"мысал","level":3,"transcription":null}
 {"kr":"졸업장","kz":"диплом","level":2,"transcription":null}
@@ -8514,36 +8514,36 @@
 {"kr":"세면대","kz":"қол жуғыш","level":2,"transcription":null}
 {"kr":"소로","kz":"Торо","level":3,"transcription":null}
 {"kr":"쇼타임","kz":"көрсетілім уақыты","level":3,"transcription":null}
-{"kr":"숙모","kz":"тәте","level":3,"transcription":null}
-{"kr":"스낵","kz":"жеңіл тамақ","level":2,"transcription":null}
-{"kr":"스포트","kz":"нүкте","level":3,"transcription":null}
-{"kr":"신호등","kz":"жыпылықтауыш","level":2,"transcription":null}
-{"kr":"심지","kz":"фитиль","level":3,"transcription":null}
+{"kr":"숙모","kz":"мамы","level":3,"transcription":null}
+{"kr":"스낵","kz":"음료","level":2,"transcription":null}
+{"kr":"스포트","kz":"спорт장","level":3,"transcription":null}
+{"kr":"신호등","kz":"신호등","level":2,"transcription":null}
+{"kr":"심지","kz":"심지","level":3,"transcription":null}
 {"kr":"십자","kz":"крест","level":3,"transcription":null}
-{"kr":"안대","kz":"көз патч","level":3,"transcription":null}
-{"kr":"앞머리","kz":"соққылар","level":2,"transcription":null}
-{"kr":"야영","kz":"лагерь","level":3,"transcription":null}
-{"kr":"어설프다","kz":"Бұл ыңғайсыз","level":3,"transcription":null}
-{"kr":"엄하다","kz":"қатаң","level":3,"transcription":null}
+{"kr":"안대","kz":"안대","level":3,"transcription":null}
+{"kr":"앞머리","kz":"передняя часть головы","level":2,"transcription":null}
+{"kr":"야영","kz":"янгир","level":3,"transcription":null}
+{"kr":"어설프다","kz":"неудобно","level":3,"transcription":null}
+{"kr":"엄하다","kz":"строгий","level":3,"transcription":null}
 {"kr":"오월","kz":"мамыр","level":1,"transcription":null}
 {"kr":"오존","kz":"озон","level":3,"transcription":null}
-{"kr":"외딴","kz":"оқшауланған","level":3,"transcription":null}
+{"kr":"외딴","kz":"один","level":3,"transcription":null}
 {"kr":"우크라이나","kz":"Украина","level":3,"transcription":null}
-{"kr":"유제품","kz":"сүт өнімдері","level":3,"transcription":null}
-{"kr":"읍내","kz":"қала","level":3,"transcription":null}
-{"kr":"의문점","kz":"сұрақ","level":3,"transcription":null}
-{"kr":"이곳저곳","kz":"мұнда және мұнда","level":3,"transcription":null}
-{"kr":"이까","kz":"Мынау","level":2,"transcription":null}
-{"kr":"입맞춤","kz":"сүй","level":3,"transcription":null}
-{"kr":"장님","kz":"соқыр","level":3,"transcription":null}
-{"kr":"장작","kz":"отын","level":3,"transcription":null}
+{"kr":"유제품","kz":"молоко","level":3,"transcription":null}
+{"kr":"읍내","kz":"город","level":3,"transcription":null}
+{"kr":"의문점","kz":"вопрос","level":3,"transcription":null}
+{"kr":"이곳저곳","kz":"тут и там","level":3,"transcription":null}
+{"kr":"이까","kz":"это","level":2,"transcription":null}
+{"kr":"입맞춤","kz":"входной билет","level":3,"transcription":null}
+{"kr":"장님","kz":"старый","level":3,"transcription":null}
+{"kr":"장작","kz":"древесина","level":3,"transcription":null}
 {"kr":"저스트","kz":"Тек","level":2,"transcription":null}
 {"kr":"적도","kz":"экватор","level":3,"transcription":null}
-{"kr":"전자책","kz":"электрондық кітап","level":2,"transcription":null}
+{"kr":"전자책","kz":"электронная книга","level":2,"transcription":null}
 {"kr":"찬송가","kz":"гимн","level":3,"transcription":null}
-{"kr":"참나무","kz":"blackjack","level":3,"transcription":null}
-{"kr":"초식","kz":"шөпқоректі","level":3,"transcription":null}
-{"kr":"초중","kz":"Бастауыш және орта мектеп","level":3,"transcription":null}
+{"kr":"참나무","kz":"дуб","level":3,"transcription":null}
+{"kr":"초식","kz":"растительное","level":3,"transcription":null}
+{"kr":"초중","kz":"начальная и средняя школа","level":3,"transcription":null}
 {"kr":"커넥션","kz":"байланыс","level":3,"transcription":null}
 {"kr":"콤팩트","kz":"жинақы","level":3,"transcription":null}
 {"kr":"클라스","kz":"сынып","level":3,"transcription":null}
@@ -8675,7 +8675,7 @@
 {"kr":"빽","kz":"Артқа","level":3,"transcription":null}
 {"kr":"사납다","kz":"қаһарлы","level":3,"transcription":null}
 {"kr":"산골","kz":"тау аңғары","level":3,"transcription":null}
-{"kr":"산뜻하다","kz":"Сергіту","level":3,"transcription":null}
+{"kr":"산뜻하다","kz":"сергіту","level":3,"transcription":null}
 {"kr":"세무서","kz":"салық басқармасы","level":3,"transcription":null}
 {"kr":"세일즈","kz":"сату","level":3,"transcription":null}
 {"kr":"센티미터","kz":"сантиметр","level":2,"transcription":null}
@@ -8755,11 +8755,11 @@
 {"kr":"부르짖다","kz":"айқайлау","level":3,"transcription":null}
 {"kr":"사진관","kz":"студия","level":2,"transcription":null}
 {"kr":"산간","kz":"таулы","level":3,"transcription":null}
-{"kr":"살균","kz":"зарарсыздандыру","level":3,"transcription":null}
-{"kr":"설악산","kz":"Сеораксан тауы","level":2,"transcription":null}
+{"kr":"살균","kz":"зарядтық қолдану","level":3,"transcription":null}
+{"kr":"설악산","kz":"Селкек-Сан тауы","level":2,"transcription":null}
 {"kr":"셜리","kz":"Ширли","level":1,"transcription":null}
-{"kr":"셰리","kz":"шерри","level":3,"transcription":null}
-{"kr":"셰인","kz":"Шейн","level":1,"transcription":null}
+{"kr":"셰리","kz":"Sherri","level":3,"transcription":null}
+{"kr":"셰인","kz":"Shayn","level":1,"transcription":null}
 {"kr":"소프","kz":"сабын","level":2,"transcription":null}
 {"kr":"쌀국수","kz":"күріш кеспесі","level":2,"transcription":null}
 {"kr":"아라비안","kz":"араб","level":3,"transcription":null}
@@ -8814,7 +8814,7 @@
 {"kr":"만년필","kz":"фонтан қалам","level":3,"transcription":null}
 {"kr":"맨하탄","kz":"Манхэттен","level":2,"transcription":null}
 {"kr":"먼가","kz":"Алыс","level":1,"transcription":null}
-{"kr":"멕시코시티","kz":"Мехико қаласы","level":2,"transcription":null}
+{"kr":"멕시코시티","kz":"Мехико","level":2,"transcription":null}
 {"kr":"명이","kz":"Мёнсон","level":3,"transcription":null}
 {"kr":"물집","kz":"көпіршік","level":3,"transcription":null}
 {"kr":"뭔데요","kz":"Бұл не","level":1,"transcription":null}
@@ -8844,7 +8844,7 @@
 {"kr":"숭실","kz":"Сунгсил","level":3,"transcription":null}
 {"kr":"시루","kz":"Сиру","level":3,"transcription":null}
 {"kr":"식비","kz":"азық-түлік шығындары","level":2,"transcription":null}
-{"kr":"식중독","kz":"тағамдық улану","level":3,"transcription":null}
+{"kr":"식중독","kz":"음식 중독","level":3,"transcription":null}
 {"kr":"싸늘","kz":"суық","level":3,"transcription":null}
 {"kr":"앗싸","kz":"Апыр-ай","level":2,"transcription":null}
 {"kr":"어여쁘다","kz":"Бұл әдемі","level":3,"transcription":null}
@@ -8905,11 +8905,11 @@
 {"kr":"등록번호","kz":"Тіркеу нөмірі","level":3,"transcription":null}
 {"kr":"띵","kz":"Динг","level":2,"transcription":null}
 {"kr":"라디에이터","kz":"радиатор","level":3,"transcription":null}
-{"kr":"레프트","kz":"қалды","level":3,"transcription":null}
+{"kr":"레프트","kz":"право","level":3,"transcription":null}
 {"kr":"마요네즈","kz":"майонез","level":2,"transcription":null}
-{"kr":"막다","kz":"кедергі жасау","level":2,"transcription":null}
-{"kr":"말다툼","kz":"төбелес","level":3,"transcription":null}
-{"kr":"맙시다","kz":"Тоқтайық","level":3,"transcription":null}
+{"kr":"막다","kz":"мешек","level":2,"transcription":null}
+{"kr":"말다툼","kz":"состязательство","level":3,"transcription":null}
+{"kr":"맙시다","kz":"Мәлімдік жасаңыз","level":3,"transcription":null}
 {"kr":"매니큐어","kz":"маникюр","level":3,"transcription":null}
 {"kr":"매콤","kz":"Ащы","level":3,"transcription":null}
 {"kr":"멍멍이","kz":"уау","level":1,"transcription":null}
@@ -9024,36 +9024,36 @@
 {"kr":"솜털","kz":"төмен","level":3,"transcription":null}
 {"kr":"송편","kz":"Сонпён","level":2,"transcription":null}
 {"kr":"슝","kz":"Күрсін","level":3,"transcription":null}
-{"kr":"스크래치","kz":"сызат","level":3,"transcription":null}
-{"kr":"실망감","kz":"көңілсіздік","level":3,"transcription":null}
-{"kr":"심해지다","kz":"нашарлау","level":3,"transcription":null}
-{"kr":"약칭","kz":"аббревиатура","level":3,"transcription":null}
-{"kr":"어리둥절","kz":"Шатасып кетті","level":3,"transcription":null}
-{"kr":"여경","kz":"полицей әйел","level":3,"transcription":null}
-{"kr":"여교사","kz":"қожайын","level":3,"transcription":null}
-{"kr":"여름날","kz":"жаз күні","level":2,"transcription":null}
-{"kr":"연초","kz":"жыл басы","level":3,"transcription":null}
-{"kr":"외아들","kz":"жалғыз ұлы","level":3,"transcription":null}
-{"kr":"원기","kz":"прототипі","level":3,"transcription":null}
-{"kr":"원어민","kz":"ана тілі","level":3,"transcription":null}
-{"kr":"으응","kz":"Уф","level":1,"transcription":null}
-{"kr":"의약","kz":"дәрі","level":3,"transcription":null}
-{"kr":"인강","kz":"Инганг","level":3,"transcription":null}
-{"kr":"일거리","kz":"жұмыс","level":2,"transcription":null}
-{"kr":"일찌감치","kz":"ерте","level":3,"transcription":null}
-{"kr":"잡이","kz":"ұстаушы","level":3,"transcription":null}
-{"kr":"제너럴","kz":"жалпы","level":3,"transcription":null}
-{"kr":"조급","kz":"шыдамсыз","level":3,"transcription":null}
-{"kr":"창덕궁","kz":"Чандеокгун сарайы","level":2,"transcription":null}
-{"kr":"철없다","kz":"жетілмеген","level":3,"transcription":null}
-{"kr":"추수감사절","kz":"алғыс айту","level":3,"transcription":null}
-{"kr":"카메라맨","kz":"оператор","level":3,"transcription":null}
-{"kr":"카세트","kz":"кассета","level":2,"transcription":null}
-{"kr":"크라임","kz":"қылмыс","level":3,"transcription":null}
-{"kr":"타올","kz":"орамал","level":1,"transcription":null}
-{"kr":"특별상","kz":"арнайы марапат","level":3,"transcription":null}
-{"kr":"틈틈이","kz":"Ара-тұра","level":3,"transcription":null}
-{"kr":"펜슬","kz":"қарындаш","level":2,"transcription":null}
+{"kr":"스크래치","kz":"Scratch","level":3,"transcription":null}
+{"kr":"실망감","kz":"불안","level":3,"transcription":null}
+{"kr":"심해지다","kz":"어려워하는 것","level":3,"transcription":null}
+{"kr":"약칭","kz":"축약","level":3,"transcription":null}
+{"kr":"어리둥절","kz":"기다란 상태","level":3,"transcription":null}
+{"kr":"여경","kz":"여가사","level":3,"transcription":null}
+{"kr":"여교사","kz":"여관교사","level":3,"transcription":null}
+{"kr":"여름날","kz":"여름날","level":2,"transcription":null}
+{"kr":"연초","kz":"연초","level":3,"transcription":null}
+{"kr":"외아들","kz":"외아들","level":3,"transcription":null}
+{"kr":"원기","kz":"원기","level":3,"transcription":null}
+{"kr":"원어민","kz":"원어민","level":3,"transcription":null}
+{"kr":"으응","kz":"으응","level":1,"transcription":null}
+{"kr":"의약","kz":"의약","level":3,"transcription":null}
+{"kr":"인강","kz":"인강","level":3,"transcription":null}
+{"kr":"일거리","kz":"일자리","level":2,"transcription":null}
+{"kr":"일찌감치","kz":"일찌감치","level":3,"transcription":null}
+{"kr":"잡이","kz":"잡이","level":3,"transcription":null}
+{"kr":"제너럴","kz":"제너럴","level":3,"transcription":null}
+{"kr":"조급","kz":"조급","level":3,"transcription":null}
+{"kr":"창덕궁","kz":"창덕궁","level":2,"transcription":null}
+{"kr":"철없다","kz":"철없다","level":3,"transcription":null}
+{"kr":"추수감사절","kz":"추수감사절","level":3,"transcription":null}
+{"kr":"카메라맨","kz":"카메라맨","level":3,"transcription":null}
+{"kr":"카세트","kz":"카세트","level":2,"transcription":null}
+{"kr":"크라임","kz":"크라임","level":3,"transcription":null}
+{"kr":"타올","kz":"타올","level":1,"transcription":null}
+{"kr":"특별상","kz":"특별상","level":3,"transcription":null}
+{"kr":"틈틈이","kz":"틈틈이","level":3,"transcription":null}
+{"kr":"펜슬","kz":"펜슬","level":2,"transcription":null}
 {"kr":"한다는데","kz":"Олар мұны істейміз дейді","level":3,"transcription":null}
 {"kr":"해수면","kz":"теңіз деңгейі","level":3,"transcription":null}
 {"kr":"헌금","kz":"ұсыну","level":3,"transcription":null}
@@ -9296,8 +9296,8 @@
 {"kr":"에콰도르","kz":"Эквадор","level":1,"transcription":null}
 {"kr":"엘살바도르","kz":"Эль-Сальвадор","level":1,"transcription":null}
 {"kr":"역사책","kz":"тарих кітабы","level":2,"transcription":null}
-{"kr":"연구비","kz":"ғылыми-зерттеу қорлары","level":3,"transcription":null}
-{"kr":"열기구","kz":"ыстық ауа шары","level":3,"transcription":null}
+{"kr":"연구비","kz":"ғылыми қорлары","level":3,"transcription":null}
+{"kr":"열기구","kz":"ыстық шары","level":3,"transcription":null}
 {"kr":"영광군","kz":"Енгванг","level":1,"transcription":null}
 {"kr":"영종","kz":"Ёнджон","level":1,"transcription":null}
 {"kr":"예문","kz":"Мысал сөйлем","level":3,"transcription":null}
@@ -9324,7 +9324,7 @@
 {"kr":"행주","kz":"ыдыс-аяқ","level":3,"transcription":null}
 {"kr":"헬퍼","kz":"көмекші","level":2,"transcription":null}
 {"kr":"가림","kz":"скрининг","level":3,"transcription":null}
-{"kr":"감점","kz":"шегерім","level":3,"transcription":null}
+{"kr":"감점","kz":"шешерім","level":3,"transcription":null}
 {"kr":"개점","kz":"ашық","level":3,"transcription":null}
 {"kr":"거참","kz":"Апыр-ай","level":3,"transcription":null}
 {"kr":"걷어차다","kz":"тебу","level":3,"transcription":null}
@@ -9384,8 +9384,8 @@
 {"kr":"차오르다","kz":"толтыру","level":3,"transcription":null}
 {"kr":"찹쌀","kz":"жабысқақ күріш","level":2,"transcription":null}
 {"kr":"채플","kz":"часовня","level":3,"transcription":null}
-{"kr":"총계","kz":"жиынтық","level":3,"transcription":null}
-{"kr":"칸막이","kz":"қалқа","level":3,"transcription":null}
+{"kr":"총계","kz":"жылына","level":3,"transcription":null}
+{"kr":"칸막이","kz":"қалпақ","level":3,"transcription":null}
 {"kr":"캐리비안","kz":"кариб теңізі","level":3,"transcription":null}
 {"kr":"킬로그램","kz":"килограмм","level":2,"transcription":null}
 {"kr":"탈의실","kz":"монша","level":3,"transcription":null}
@@ -9473,7 +9473,7 @@
 {"kr":"연두","kz":"Жаңа жыл күні","level":2,"transcription":null}
 {"kr":"영양제","kz":"тағамдық қоспалар","level":3,"transcription":null}
 {"kr":"영종도","kz":"Ёнджондо","level":2,"transcription":null}
-{"kr":"옆방","kz":"келесі бөлме","level":1,"transcription":null}
+{"kr":"옆방","kz":"бөлме","level":1,"transcription":null}
 {"kr":"오산시","kz":"Осан қаласы","level":2,"transcription":null}
 {"kr":"오소","kz":"ау солай","level":3,"transcription":null}
 {"kr":"옷감","kz":"мата","level":3,"transcription":null}
@@ -9682,38 +9682,38 @@
 {"kr":"쿼트","kz":"кварт","level":3,"transcription":null}
 {"kr":"톱니","kz":"көрген тіс","level":3,"transcription":null}
 {"kr":"툭툭","kz":"Тук-тук","level":3,"transcription":null}
-{"kr":"파나소닉","kz":"panasonic","level":2,"transcription":null}
-{"kr":"파워레인저","kz":"күш рейдкерлері","level":2,"transcription":null}
-{"kr":"파전","kz":"жасыл пияз құймақ","level":2,"transcription":null}
-{"kr":"판매처","kz":"Қайдан сатып алуға болады","level":3,"transcription":null}
-{"kr":"평하다","kz":"жазық","level":3,"transcription":null}
-{"kr":"피즈","kz":"жыбырлау","level":3,"transcription":null}
-{"kr":"한라산","kz":"Халласан тауы","level":1,"transcription":null}
-{"kr":"해녀","kz":"Хаенё","level":3,"transcription":null}
-{"kr":"해초","kz":"теңіз балдырлары","level":3,"transcription":null}
-{"kr":"허름하다","kz":"Тозған","level":3,"transcription":null}
-{"kr":"헬프","kz":"көмек","level":3,"transcription":null}
-{"kr":"히치","kz":"ілмек","level":3,"transcription":null}
-{"kr":"가오리","kz":"сәуле","level":3,"transcription":null}
-{"kr":"개당","kz":"дана үшін","level":2,"transcription":null}
-{"kr":"거름","kz":"көң","level":3,"transcription":null}
-{"kr":"거즈","kz":"дәке","level":3,"transcription":null}
-{"kr":"걸음걸이","kz":"жүріс","level":3,"transcription":null}
-{"kr":"고물","kz":"қатты","level":3,"transcription":null}
-{"kr":"광고판","kz":"билборд","level":3,"transcription":null}
-{"kr":"굵기","kz":"Қалыңдығы","level":3,"transcription":null}
-{"kr":"그란데","kz":"Гранде","level":3,"transcription":null}
-{"kr":"글래머","kz":"гламур","level":3,"transcription":null}
-{"kr":"꼬꼬마","kz":"Кішкентай бала","level":3,"transcription":null}
-{"kr":"끊김","kz":"ажыратылған","level":3,"transcription":null}
+{"kr":"파나소닉","kz":"Panasonic","level":2,"transcription":null}
+{"kr":"파워레인저","kz":"Power Rangers","level":2,"transcription":null}
+{"kr":"파전","kz":"power cell","level":2,"transcription":null}
+{"kr":"판매처","kz":"sales point","level":3,"transcription":null}
+{"kr":"평하다","kz":"flat","level":3,"transcription":null}
+{"kr":"피즈","kz":"pizzazz","level":3,"transcription":null}
+{"kr":"한라산","kz":"Hallasan mountain","level":1,"transcription":null}
+{"kr":"해녀","kz":"sea laborers","level":3,"transcription":null}
+{"kr":"해초","kz":"seaweed","level":3,"transcription":null}
+{"kr":"허름하다","kz":"wretched","level":3,"transcription":null}
+{"kr":"헬프","kz":"help","level":3,"transcription":null}
+{"kr":"히치","kz":"hit","level":3,"transcription":null}
+{"kr":"가오리","kz":"crow","level":3,"transcription":null}
+{"kr":"개당","kz":"per head","level":2,"transcription":null}
+{"kr":"거름","kz":"filter","level":3,"transcription":null}
+{"kr":"거즈","kz":"glasses","level":3,"transcription":null}
+{"kr":"걸음걸이","kz":"stroll","level":3,"transcription":null}
+{"kr":"고물","kz":"heavy","level":3,"transcription":null}
+{"kr":"광고판","kz":"ad board","level":3,"transcription":null}
+{"kr":"굵기","kz":"thickness","level":3,"transcription":null}
+{"kr":"그란데","kz":"Grand","level":3,"transcription":null}
+{"kr":"글래머","kz":"glamour","level":3,"transcription":null}
+{"kr":"꼬꼬마","kz":"little bird","level":3,"transcription":null}
+{"kr":"끊김","kz":"breakage","level":3,"transcription":null}
 {"kr":"남여","kz":"unisex","level":2,"transcription":null}
-{"kr":"남우","kz":"актер","level":3,"transcription":null}
-{"kr":"내걸다","kz":"көну","level":3,"transcription":null}
-{"kr":"네거리","kz":"жол айрығы","level":2,"transcription":null}
-{"kr":"눈치채다","kz":"ескерту","level":3,"transcription":null}
-{"kr":"눌리다","kz":"басылды","level":3,"transcription":null}
-{"kr":"뉴델리","kz":"Жаңа Дели","level":2,"transcription":null}
-{"kr":"다락","kz":"шатыр","level":3,"transcription":null}
+{"kr":"남우","kz":"male","level":3,"transcription":null}
+{"kr":"내걸다","kz":"to stand out","level":3,"transcription":null}
+{"kr":"네거리","kz":"highway","level":2,"transcription":null}
+{"kr":"눈치채다","kz":"notice","level":3,"transcription":null}
+{"kr":"눌리다","kz":"press","level":3,"transcription":null}
+{"kr":"뉴델리","kz":"Дели","level":2,"transcription":null}
+{"kr":"다락","kz":"дәліңіз","level":3,"transcription":null}
 {"kr":"대추","kz":"жусан","level":2,"transcription":null}
 {"kr":"대통","kz":"тостаған","level":3,"transcription":null}
 {"kr":"대행사","kz":"агенттік","level":3,"transcription":null}
@@ -9727,7 +9727,7 @@
 {"kr":"머리털","kz":"парик","level":2,"transcription":null}
 {"kr":"메사","kz":"меза","level":3,"transcription":null}
 {"kr":"모래시계","kz":"құм сағат","level":3,"transcription":null}
-{"kr":"뭄바이","kz":"мумбай","level":3,"transcription":null}
+{"kr":"뭄바이","kz":"Мумбаи","level":3,"transcription":null}
 {"kr":"바운스","kz":"секіру","level":3,"transcription":null}
 {"kr":"발권","kz":"Билет алу","level":3,"transcription":null}
 {"kr":"발치","kz":"Тісті жұлу","level":3,"transcription":null}
@@ -9832,9 +9832,9 @@
 {"kr":"앤데","kz":"Анде","level":2,"transcription":null}
 {"kr":"어짜피","kz":"Қалай болғанда да","level":3,"transcription":null}
 {"kr":"외대","kz":"Шетел тілдері университеті","level":3,"transcription":null}
-{"kr":"외래어","kz":"шет тілі","level":3,"transcription":null}
-{"kr":"외제","kz":"шетелдік өнім","level":3,"transcription":null}
-{"kr":"으셨으면","kz":"Егер қаласаң","level":3,"transcription":null}
+{"kr":"외래어","kz":"шешті тіл","level":3,"transcription":null}
+{"kr":"외제","kz":"шеттік өнім","level":3,"transcription":null}
+{"kr":"으셨으면","kz":"Егер қаласаңыз","level":3,"transcription":null}
 {"kr":"으신다","kz":"Бұл қорқынышты","level":3,"transcription":null}
 {"kr":"이코노미","kz":"экономика","level":3,"transcription":null}
 {"kr":"인라인","kz":"кезекте","level":3,"transcription":null}
@@ -9891,7 +9891,7 @@
 {"kr":"밀키","kz":"Сүтті","level":3,"transcription":null}
 {"kr":"바하마","kz":"Багам аралдары","level":2,"transcription":null}
 {"kr":"반월","kz":"жарты ай","level":3,"transcription":null}
-{"kr":"배탈","kz":"асқазанның бұзылуы","level":2,"transcription":null}
+{"kr":"배탈","kz":"бұзылуы","level":2,"transcription":null}
 {"kr":"버클","kz":"тоға","level":3,"transcription":null}
 {"kr":"벽난로","kz":"камин","level":3,"transcription":null}
 {"kr":"불붙다","kz":"от алу","level":3,"transcription":null}
@@ -9921,36 +9921,36 @@
 {"kr":"어찌하다","kz":"Не істеу керек","level":3,"transcription":null}
 {"kr":"에구","kz":"Уф","level":2,"transcription":null}
 {"kr":"연두색","kz":"ашық жасыл","level":2,"transcription":null}
-{"kr":"열대야","kz":"Бұл тропиктік","level":3,"transcription":null}
-{"kr":"오색","kz":"бес түс","level":3,"transcription":null}
-{"kr":"올리브유","kz":"зәйтүн майы","level":2,"transcription":null}
+{"kr":"열대야","kz":"Тропикалық жер","level":3,"transcription":null}
+{"kr":"오색","kz":"Бес түс","level":3,"transcription":null}
+{"kr":"올리브유","kz":"Зәйтүн майы","level":2,"transcription":null}
 {"kr":"요것","kz":"Бұл","level":1,"transcription":null}
-{"kr":"웅크리다","kz":"еңкейу","level":3,"transcription":null}
+{"kr":"웅크리다","kz":"Еңкейу","level":3,"transcription":null}
 {"kr":"은상","kz":"Күміс жүлде","level":3,"transcription":null}
-{"kr":"은행원","kz":"банк қызметкері","level":2,"transcription":null}
-{"kr":"인구수","kz":"халық","level":3,"transcription":null}
-{"kr":"일등","kz":"бірінші сынып","level":3,"transcription":null}
-{"kr":"입소문","kz":"ауызша сөз","level":3,"transcription":null}
-{"kr":"잉글리쉬","kz":"Ағылшын","level":1,"transcription":null}
-{"kr":"자유로이","kz":"еркін","level":3,"transcription":null}
-{"kr":"전채","kz":"соғыс қарызы","level":3,"transcription":null}
-{"kr":"정사각형","kz":"шаршы","level":3,"transcription":null}
+{"kr":"은행원","kz":"Банк қызметкері","level":2,"transcription":null}
+{"kr":"인구수","kz":"Халық саны","level":3,"transcription":null}
+{"kr":"일등","kz":"Бірінші сынып","level":3,"transcription":null}
+{"kr":"입소문","kz":"Ауызша сөз","level":3,"transcription":null}
+{"kr":"잉글리쉬","kz":"Ағылшын тілі","level":1,"transcription":null}
+{"kr":"자유로이","kz":"Еркіндік","level":3,"transcription":null}
+{"kr":"전채","kz":"Қарыз","level":3,"transcription":null}
+{"kr":"정사각형","kz":"Шырықша","level":3,"transcription":null}
 {"kr":"젠틀","kz":"Жұмсақ","level":3,"transcription":null}
-{"kr":"주무르다","kz":"илеу","level":3,"transcription":null}
-{"kr":"중앙역","kz":"орталық станция","level":2,"transcription":null}
-{"kr":"중턱","kz":"ортаңғы иек","level":3,"transcription":null}
+{"kr":"주무르다","kz":"Илеу","level":3,"transcription":null}
+{"kr":"중앙역","kz":"Ортаңғы станция","level":2,"transcription":null}
+{"kr":"중턱","kz":"Ортаңғы иек","level":3,"transcription":null}
 {"kr":"지단","kz":"Зидан","level":2,"transcription":null}
-{"kr":"지병","kz":"созылмалы ауру","level":3,"transcription":null}
-{"kr":"직각","kz":"тік бұрыш","level":3,"transcription":null}
-{"kr":"집값","kz":"үй бағасы","level":2,"transcription":null}
+{"kr":"지병","kz":"Созылмалы ауру","level":3,"transcription":null}
+{"kr":"직각","kz":"Тік бұрыш","level":3,"transcription":null}
+{"kr":"집값","kz":"Ұй бағасы","level":2,"transcription":null}
 {"kr":"차이나","kz":"Қытай","level":1,"transcription":null}
-{"kr":"총성","kz":"ату","level":3,"transcription":null}
-{"kr":"캠코더","kz":"бейнекамера","level":3,"transcription":null}
-{"kr":"코더","kz":"кодер","level":3,"transcription":null}
-{"kr":"코스터","kz":"жағажай","level":3,"transcription":null}
-{"kr":"큰형","kz":"үлкен аға","level":2,"transcription":null}
+{"kr":"총성","kz":"Ату","level":3,"transcription":null}
+{"kr":"캠코더","kz":"Бейнекамера","level":3,"transcription":null}
+{"kr":"코더","kz":"Кодер","level":3,"transcription":null}
+{"kr":"코스터","kz":"Жағажай","level":3,"transcription":null}
+{"kr":"큰형","kz":"Үлкен аға","level":2,"transcription":null}
 {"kr":"트레저","kz":"Қазына","level":3,"transcription":null}
-{"kr":"펍","kz":"паб","level":3,"transcription":null}
+{"kr":"펍","kz":"Паб","level":3,"transcription":null}
 {"kr":"풍물","kz":"Пунгмул","level":3,"transcription":null}
 {"kr":"프라이팬","kz":"қуыру табасы","level":2,"transcription":null}
 {"kr":"피에로","kz":"Пьерро","level":3,"transcription":null}
@@ -9990,7 +9990,7 @@
 {"kr":"무직","kz":"кәсіппен айналысу","level":3,"transcription":null}
 {"kr":"바리스타","kz":"бариста","level":3,"transcription":null}
 {"kr":"밥통","kz":"жорғалау","level":2,"transcription":null}
-{"kr":"부랴부랴","kz":"Асығыс","level":3,"transcription":null}
+{"kr":"부랴부랴","kz":"бұлаққа шығу","level":3,"transcription":null}
 {"kr":"분하다","kz":"ренжіген","level":3,"transcription":null}
 {"kr":"비올라","kz":"альт","level":3,"transcription":null}
 {"kr":"삼청동","kz":"Самчон-донг","level":2,"transcription":null}
@@ -10004,14 +10004,14 @@
 {"kr":"스웨트","kz":"жемпір","level":3,"transcription":null}
 {"kr":"신차","kz":"жаңа көлік","level":3,"transcription":null}
 {"kr":"실습실","kz":"зертхана","level":3,"transcription":null}
-{"kr":"안색","kz":"өң","level":3,"transcription":null}
+{"kr":"안색","kz":"өңіс","level":3,"transcription":null}
 {"kr":"앞당기다","kz":"алдын ала","level":3,"transcription":null}
 {"kr":"엔가","kz":"Қатысу","level":3,"transcription":null}
 {"kr":"영작","kz":"Янджак","level":3,"transcription":null}
 {"kr":"옆면","kz":"жағы","level":2,"transcription":null}
 {"kr":"온에어","kz":"эфирде","level":3,"transcription":null}
-{"kr":"옷자락","kz":"пойыз","level":3,"transcription":null}
-{"kr":"요강","kz":"силлабус","level":3,"transcription":null}
+{"kr":"옷자락","kz":"пайыз","level":3,"transcription":null}
+{"kr":"요강","kz":"сәлем","level":3,"transcription":null}
 {"kr":"우씨","kz":"Ву мырза","level":2,"transcription":null}
 {"kr":"육즙","kz":"тұздық","level":3,"transcription":null}
 {"kr":"이부","kz":"төсек жабдықтары","level":3,"transcription":null}
@@ -10071,9 +10071,9 @@
 {"kr":"마을버스","kz":"ауыл автобусы","level":2,"transcription":null}
 {"kr":"만엔","kz":"10 000 иен","level":3,"transcription":null}
 {"kr":"머플러","kz":"глушитель","level":3,"transcription":null}
-{"kr":"문방구","kz":"кеңсе тауарлары","level":3,"transcription":null}
+{"kr":"문방구","kz":"көмектесуарлар","level":3,"transcription":null}
 {"kr":"바게트","kz":"багет","level":2,"transcription":null}
-{"kr":"버드나무","kz":"тал ағашы","level":2,"transcription":null}
+{"kr":"버드나무","kz":"балық ағашы","level":2,"transcription":null}
 {"kr":"버터플라이","kz":"көбелек","level":2,"transcription":null}
 {"kr":"베이스볼","kz":"бейсбол","level":2,"transcription":null}
 {"kr":"볕","kz":"күн сәулесі","level":2,"transcription":null}
@@ -10254,7 +10254,7 @@
 {"kr":"밥맛","kz":"Күріш дәмі","level":3,"transcription":null}
 {"kr":"배부르다","kz":"толы бол","level":1,"transcription":null}
 {"kr":"벌판","kz":"өріс","level":3,"transcription":null}
-{"kr":"벚나무","kz":"шие","level":3,"transcription":null}
+{"kr":"벚나무","kz":"бәлжұм","level":3,"transcription":null}
 {"kr":"별별","kz":"Сау бол","level":3,"transcription":null}
 {"kr":"부우다","kz":"төгіңіз","level":3,"transcription":null}
 {"kr":"북아메리카","kz":"Солтүстік америка","level":3,"transcription":null}
@@ -10432,7 +10432,7 @@
 {"kr":"북돋다","kz":"көңіл көтеру","level":3,"transcription":null}
 {"kr":"불쌍히","kz":"аянышты","level":3,"transcription":null}
 {"kr":"빅토리","kz":"Жеңіс","level":2,"transcription":null}
-{"kr":"빙글빙글","kz":"Дөңгелек және дөңгелек","level":2,"transcription":null}
+{"kr":"빙글빙글","kz":"Дөңгелек","level":2,"transcription":null}
 {"kr":"뿜어내다","kz":"атқылау","level":3,"transcription":null}
 {"kr":"사과나무","kz":"алма ағашы","level":2,"transcription":null}
 {"kr":"사라짐","kz":"жоғалуы","level":3,"transcription":null}
@@ -10492,7 +10492,7 @@
 {"kr":"동서양","kz":"Шығыс пен Батыс","level":3,"transcription":null}
 {"kr":"뒤덮이다","kz":"жабылған","level":3,"transcription":null}
 {"kr":"마룬","kz":"қызыл қызыл","level":3,"transcription":null}
-{"kr":"말랑말랑","kz":"Жұмсақ және жұмсақ","level":3,"transcription":null}
+{"kr":"말랑말랑","kz":"жұмсақ және жұмсақ","level":3,"transcription":null}
 {"kr":"묵념","kz":"үнсіздік","level":3,"transcription":null}
 {"kr":"문형","kz":"сөйлем үлгісі","level":3,"transcription":null}
 {"kr":"미끄러지다","kz":"сырғанау","level":2,"transcription":null}
@@ -10553,7 +10553,7 @@
 {"kr":"톈진","kz":"тяньцзинь","level":3,"transcription":null}
 {"kr":"토너","kz":"тонер","level":3,"transcription":null}
 {"kr":"톨스토이","kz":"Толстой","level":3,"transcription":null}
-{"kr":"통기타","kz":"акустикалық гитара","level":3,"transcription":null}
+{"kr":"통기타","kz":"гитара","level":3,"transcription":null}
 {"kr":"트래블","kz":"саяхат","level":3,"transcription":null}
 {"kr":"팡팡","kz":"Пангпанг","level":3,"transcription":null}
 {"kr":"펄펄","kz":"Тербелу","level":3,"transcription":null}

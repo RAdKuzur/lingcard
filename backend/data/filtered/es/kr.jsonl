@@ -1,5 +1,5 @@
 {"es":"no","kr":"아니요","level":1,"transcription":null}
-{"es":"un","kr":"에이","level":1,"transcription":null}
+{"es":"un","kr":"이것","level":1,"transcription":null}
 {"es":"ser","kr":"be","level":1,"transcription":null}
 {"es":"más","kr":"더 나아가","level":1,"transcription":null}
 {"es":"este","kr":"이것","level":1,"transcription":null}
@@ -29,7 +29,7 @@
 {"es":"tan","kr":"그래서","level":2,"transcription":null}
 {"es":"ver","kr":"보다","level":1,"transcription":null}
 {"es":"vida","kr":"삶","level":1,"transcription":null}
-{"es":"ese","kr":"저것","level":1,"transcription":null}
+{"es":"ese","kr":"그것","level":1,"transcription":null}
 {"es":"mismo","kr":"같은","level":1,"transcription":null}
 {"es":"siempre","kr":"언제나","level":1,"transcription":null}
 {"es":"cada","kr":"각","level":1,"transcription":null}
@@ -67,7 +67,7 @@
 {"es":"tres","kr":"삼","level":1,"transcription":null}
 {"es":"caso","kr":"사례","level":3,"transcription":null}
 {"es":"momento","kr":"순간","level":1,"transcription":null}
-{"es":"bueno","kr":"잘","level":1,"transcription":null}
+{"es":"bueno","kr":"좋습니다","level":1,"transcription":null}
 {"es":"ciudad","kr":"도시","level":1,"transcription":null}
 {"es":"luego","kr":"그 다음에","level":1,"transcription":null}
 {"es":"nacional","kr":"국가의","level":3,"transcription":null}
@@ -90,7 +90,7 @@
 {"es":"manera","kr":"방법","level":2,"transcription":null}
 {"es":"nombre","kr":"이름","level":1,"transcription":null}
 {"es":"ley","kr":"법","level":3,"transcription":null}
-{"es":"medio","kr":"반","level":2,"transcription":null}
+{"es":"medio","kr":"중요","level":2,"transcription":null}
 {"es":"partido","kr":"게임","level":3,"transcription":null}
 {"es":"bajo","kr":"낮은","level":2,"transcription":null}
 {"es":"dar","kr":"주다","level":1,"transcription":null}
@@ -115,7 +115,7 @@
 {"es":"punto","kr":"점","level":2,"transcription":null}
 {"es":"agua","kr":"물","level":1,"transcription":null}
 {"es":"equipo","kr":"장비","level":3,"transcription":null}
-{"es":"saber","kr":"알다 ","level":1,"transcription":null}
+{"es":"saber","kr":"알다","level":1,"transcription":null}
 {"es":"favor","kr":"호의","level":1,"transcription":null}
 {"es":"gustar","kr":"좋다","level":1,"transcription":null}
 {"es":"importante","kr":"중요한","level":2,"transcription":null}
@@ -142,12 +142,12 @@
 {"es":"cambio","kr":"변화","level":2,"transcription":null}
 {"es":"idea","kr":"아이디어","level":1,"transcription":null}
 {"es":"muerte","kr":"죽음","level":3,"transcription":null}
-{"es":"tarde","kr":"늦은","level":1,"transcription":null}
+{"es":"tarde","kr":"오후","level":1,"transcription":null}
 {"es":"través","kr":"~을 통해","level":3,"transcription":null}
 {"es":"mes","kr":"월","level":1,"transcription":null}
 {"es":"realidad","kr":"현실","level":3,"transcription":null}
 {"es":"amor","kr":"사랑","level":2,"transcription":null}
-{"es":"frente","kr":"이마","level":3,"transcription":null}
+{"es":"frente","kr":"앞","level":3,"transcription":null}
 {"es":"incluso","kr":"심지어","level":3,"transcription":null}
 {"es":"real","kr":"진짜","level":2,"transcription":null}
 {"es":"cuatro","kr":"네","level":1,"transcription":null}
@@ -155,7 +155,7 @@
 {"es":"hijo","kr":"아들","level":1,"transcription":null}
 {"es":"sociedad","kr":"사회","level":3,"transcription":null}
 {"es":"tema","kr":"문제","level":2,"transcription":null}
-{"es":"varios","kr":"여러 개의","level":2,"transcription":null}
+{"es":"varios","kr":"여러 개","level":2,"transcription":null}
 {"es":"nivel","kr":"수준","level":2,"transcription":null}
 {"es":"niño","kr":"어린이","level":1,"transcription":null}
 {"es":"seguro","kr":"확신하는","level":2,"transcription":null}
@@ -194,20 +194,20 @@
 {"es":"situación","kr":"상황","level":3,"transcription":null}
 {"es":"ayuda","kr":"지원","level":1,"transcription":null}
 {"es":"libro","kr":"책","level":1,"transcription":null}
-{"es":"siguiente","kr":"수행원","level":2,"transcription":null}
+{"es":"siguiente","kr":"다음","level":2,"transcription":null}
 {"es":"dato","kr":"사실","level":3,"transcription":null}
-{"es":"dejar","kr":"떠나다","level":2,"transcription":null}
+{"es":"dejar","kr":"놓다","level":2,"transcription":null}
 {"es":"educación","kr":"교육","level":3,"transcription":null}
-{"es":"proceso","kr":"프로세스","level":3,"transcription":null}
-{"es":"sentido","kr":"감각","level":3,"transcription":null}
+{"es":"proceso","kr":"과정","level":3,"transcription":null}
+{"es":"sentido","kr":"의미","level":3,"transcription":null}
 {"es":"cinco","kr":"다섯","level":1,"transcription":null}
 {"es":"clase","kr":"수업","level":1,"transcription":null}
-{"es":"cuanto","kr":"얼마나 많이","level":2,"transcription":null}
+{"es":"cuanto","kr":"얼마나","level":2,"transcription":null}
 {"es":"largo","kr":"긴","level":1,"transcription":null}
 {"es":"ninguno","kr":"없음","level":2,"transcription":null}
-{"es":"orden","kr":"주문하다","level":2,"transcription":null}
+{"es":"orden","kr":"순서","level":2,"transcription":null}
 {"es":"puesto","kr":"위치","level":3,"transcription":null}
-{"es":"realmente","kr":"정말","level":3,"transcription":null}
+{"es":"realmente","kr":"실제로","level":3,"transcription":null}
 {"es":"alto","kr":"높은","level":1,"transcription":null}
 {"es":"diferente","kr":"다른","level":2,"transcription":null}
 {"es":"español","kr":"스페인 사람","level":1,"transcription":null}
@@ -218,7 +218,7 @@
 {"es":"tratar","kr":"대하다","level":3,"transcription":null}
 {"es":"video","kr":"동영상","level":2,"transcription":null}
 {"es":"venir","kr":"오다","level":1,"transcription":null}
-{"es":"web","kr":"편물","level":3,"transcription":null}
+{"es":"web","kr":"웹","level":3,"transcription":null}
 {"es":"base","kr":"베이스","level":3,"transcription":null}
 {"es":"camino","kr":"길","level":2,"transcription":null}
 {"es":"empresa","kr":"회사","level":2,"transcription":null}
@@ -238,7 +238,7 @@
 {"es":"ojo","kr":"눈","level":1,"transcription":null}
 {"es":"pensar","kr":"생각하다","level":1,"transcription":null}
 {"es":"allí","kr":"저기","level":1,"transcription":null}
-{"es":"atención","kr":"주목","level":2,"transcription":null}
+{"es":"atención","kr":"주관","level":2,"transcription":null}
 {"es":"escuela","kr":"학교","level":1,"transcription":null}
 {"es":"respecto","kr":"관심","level":3,"transcription":null}
 {"es":"sentir","kr":"느끼다","level":2,"transcription":null}
@@ -268,12 +268,12 @@
 {"es":"control","kr":"제어","level":3,"transcription":null}
 {"es":"encontrar","kr":"찾다","level":1,"transcription":null}
 {"es":"inglés","kr":"영어","level":1,"transcription":null}
-{"es":"marzo","kr":"3월","level":1,"transcription":null}
+{"es":"marzo","kr":"3 월","level":1,"transcription":null}
 {"es":"peor","kr":"더 나쁜","level":2,"transcription":null}
 {"es":"serie","kr":"시리즈","level":3,"transcription":null}
 {"es":"sur","kr":"남쪽","level":2,"transcription":null}
 {"es":"trabajar","kr":"일하다","level":1,"transcription":null}
-{"es":"asi","kr":"그래서","level":1,"transcription":null}
+{"es":"asi","kr":"그렇다","level":1,"transcription":null}
 {"es":"edad","kr":"나이","level":1,"transcription":null}
 {"es":"futuro","kr":"미래","level":2,"transcription":null}
 {"es":"justicia","kr":"정당성","level":3,"transcription":null}
@@ -283,55 +283,55 @@
 {"es":"allá","kr":"거기","level":1,"transcription":null}
 {"es":"cantidad","kr":"양","level":2,"transcription":null}
 {"es":"corazón","kr":"마음","level":2,"transcription":null}
-{"es":"diciembre","kr":"12월","level":1,"transcription":null}
+{"es":"diciembre","kr":"12 월","level":1,"transcription":null}
 {"es":"existir","kr":"존재하다","level":3,"transcription":null}
-{"es":"imagen","kr":"영상","level":2,"transcription":null}
-{"es":"importar","kr":"문제","level":2,"transcription":null}
+{"es":"imagen","kr":"이미지","level":2,"transcription":null}
+{"es":"importar","kr":"수입","level":2,"transcription":null}
 {"es":"norte","kr":"북쪽","level":2,"transcription":null}
 {"es":"octubre","kr":"십월","level":1,"transcription":null}
-{"es":"político","kr":"정치적인","level":3,"transcription":null}
+{"es":"político","kr":"정치적","level":3,"transcription":null}
 {"es":"principal","kr":"주요한","level":3,"transcription":null}
-{"es":"vista","kr":"보다","level":2,"transcription":null}
-{"es":"volver","kr":"반품","level":1,"transcription":null}
-{"es":"voz","kr":"목소리","level":2,"transcription":null}
+{"es":"vista","kr":"시야","level":2,"transcription":null}
+{"es":"volver","kr":"돌아가다","level":1,"transcription":null}
+{"es":"voz","kr":"소리","level":2,"transcription":null}
 {"es":"actual","kr":"현재의","level":3,"transcription":null}
 {"es":"elección","kr":"선택","level":3,"transcription":null}
-{"es":"estudio","kr":"공부하다","level":2,"transcription":null}
-{"es":"mirar","kr":"바라보다","level":1,"transcription":null}
+{"es":"estudio","kr":"공부","level":2,"transcription":null}
+{"es":"mirar","kr":"보다다","level":1,"transcription":null}
 {"es":"modo","kr":"방법","level":3,"transcription":null}
-{"es":"abril","kr":"4월","level":1,"transcription":null}
-{"es":"campo","kr":"필드","level":2,"transcription":null}
+{"es":"abril","kr":"4 월","level":1,"transcription":null}
+{"es":"campo","kr":"장소","level":2,"transcription":null}
 {"es":"internet","kr":"인터넷","level":2,"transcription":null}
-{"es":"joven","kr":"어린","level":1,"transcription":null}
+{"es":"joven","kr":"젊은이","level":1,"transcription":null}
 {"es":"plan","kr":"계획","level":2,"transcription":null}
 {"es":"región","kr":"지역","level":3,"transcription":null}
-{"es":"significar","kr":"평균","level":3,"transcription":null}
-{"es":"comunidad","kr":"지역 사회","level":2,"transcription":null}
+{"es":"significar","kr":"의미하다","level":3,"transcription":null}
+{"es":"comunidad","kr":"사회","level":2,"transcription":null}
 {"es":"dirección","kr":"주소","level":2,"transcription":null}
-{"es":"investigación","kr":"조사","level":3,"transcription":null}
-{"es":"junio","kr":"6월","level":1,"transcription":null}
-{"es":"llevar","kr":"나르다","level":1,"transcription":null}
+{"es":"investigación","kr":"연구","level":3,"transcription":null}
+{"es":"junio","kr":"6 월","level":1,"transcription":null}
+{"es":"llevar","kr":"이동하다","level":1,"transcription":null}
 {"es":"partir","kr":"떠나다","level":3,"transcription":null}
 {"es":"película","kr":"영화","level":1,"transcription":null}
 {"es":"república","kr":"공화국","level":3,"transcription":null}
 {"es":"resto","kr":"나머지","level":3,"transcription":null}
-{"es":"vuelta","kr":"무릎","level":2,"transcription":null}
+{"es":"vuelta","kr":"돌아오다","level":2,"transcription":null}
 {"es":"consejo","kr":"조언","level":3,"transcription":null}
 {"es":"dónde","kr":"어디","level":1,"transcription":null}
-{"es":"llamar","kr":"부르다","level":1,"transcription":null}
+{"es":"llamar","kr":"통화하다","level":1,"transcription":null}
 {"es":"mercado","kr":"시장","level":2,"transcription":null}
 {"es":"movimiento","kr":"운동","level":3,"transcription":null}
-{"es":"noviembre","kr":"십일월","level":1,"transcription":null}
+{"es":"noviembre","kr":"11 월","level":1,"transcription":null}
 {"es":"papel","kr":"종이","level":1,"transcription":null}
 {"es":"precio","kr":"가격","level":2,"transcription":null}
 {"es":"respuesta","kr":"답변","level":2,"transcription":null}
 {"es":"seis","kr":"육","level":1,"transcription":null}
 {"es":"simplemente","kr":"간단히","level":3,"transcription":null}
-{"es":"agosto","kr":"팔월","level":1,"transcription":null}
+{"es":"agosto","kr":"8 월","level":1,"transcription":null}
 {"es":"aun","kr":"아직","level":3,"transcription":null}
-{"es":"cargo","kr":"우편","level":3,"transcription":null}
-{"es":"comida","kr":"식사","level":1,"transcription":null}
-{"es":"enero","kr":"1월","level":1,"transcription":null}
+{"es":"cargo","kr":"물품","level":3,"transcription":null}
+{"es":"comida","kr":"음식","level":1,"transcription":null}
+{"es":"enero","kr":"1 월","level":1,"transcription":null}
 {"es":"experiencia","kr":"경험","level":3,"transcription":null}
 {"es":"jefe","kr":"사장","level":2,"transcription":null}
 {"es":"leer","kr":"읽다","level":1,"transcription":null}
@@ -344,7 +344,7 @@
 {"es":"economía","kr":"경제","level":3,"transcription":null}
 {"es":"entender","kr":"이해하다","level":1,"transcription":null}
 {"es":"espacio","kr":"공간","level":2,"transcription":null}
-{"es":"febrero","kr":"2월","level":1,"transcription":null}
+{"es":"febrero","kr":"2 월","level":1,"transcription":null}
 {"es":"necesitar","kr":"필요","level":1,"transcription":null}
 {"es":"opinión","kr":"의견","level":3,"transcription":null}
 {"es":"oportunidad","kr":"가능성","level":3,"transcription":null}
@@ -355,20 +355,20 @@
 {"es":"acción","kr":"행동","level":3,"transcription":null}
 {"es":"arte","kr":"미술","level":2,"transcription":null}
 {"es":"condición","kr":"상태","level":3,"transcription":null}
-{"es":"conocer","kr":"알다 ","level":1,"transcription":null}
+{"es":"conocer","kr":"알다","level":1,"transcription":null}
 {"es":"noticia","kr":"소식","level":2,"transcription":null}
 {"es":"plaza","kr":"정사각형","level":2,"transcription":null}
 {"es":"septiembre","kr":"구월","level":1,"transcription":null}
-{"es":"usar","kr":"입다","level":1,"transcription":null}
+{"es":"usar","kr":"사용하다","level":1,"transcription":null}
 {"es":"valor","kr":"가치","level":3,"transcription":null}
-{"es":"vivo","kr":"살아 있는","level":2,"transcription":null}
+{"es":"vivo","kr":"살아있는","level":2,"transcription":null}
 {"es":"calidad","kr":"품질","level":3,"transcription":null}
 {"es":"causa","kr":"원인","level":3,"transcription":null}
 {"es":"central","kr":"본부","level":3,"transcription":null}
 {"es":"director","kr":"감독","level":3,"transcription":null}
 {"es":"duda","kr":"의심","level":3,"transcription":null}
 {"es":"fecha","kr":"날짜","level":2,"transcription":null}
-{"es":"feliz","kr":"행복하다","level":1,"transcription":null}
+{"es":"feliz","kr":"행복한","level":1,"transcription":null}
 {"es":"iglesia","kr":"교회","level":2,"transcription":null}
 {"es":"necesario","kr":"필요한","level":3,"transcription":null}
 {"es":"pronto","kr":"곧","level":1,"transcription":null}
@@ -419,10 +419,10 @@
 {"es":"lejos","kr":"멀리","level":2,"transcription":null}
 {"es":"malo","kr":"나쁜","level":1,"transcription":null}
 {"es":"militar","kr":"군대","level":3,"transcription":null}
-{"es":"muestra","kr":"견본","level":3,"transcription":null}
+{"es":"muestra","kr":"표본","level":3,"transcription":null}
 {"es":"oro","kr":"금","level":2,"transcription":null}
 {"es":"par","kr":"쌍","level":2,"transcription":null}
-{"es":"plata","kr":"은","level":2,"transcription":null}
+{"es":"plata","kr":"금","level":2,"transcription":null}
 {"es":"puerta","kr":"문","level":1,"transcription":null}
 {"es":"ayudar","kr":"돕다","level":1,"transcription":null}
 {"es":"canción","kr":"노래","level":2,"transcription":null}
@@ -434,17 +434,17 @@
 {"es":"hija","kr":"딸","level":1,"transcription":null}
 {"es":"humano","kr":"인간","level":3,"transcription":null}
 {"es":"menor","kr":"미성년자","level":2,"transcription":null}
-{"es":"puerto","kr":"포트","level":3,"transcription":null}
-{"es":"recuerdo","kr":"메모리","level":3,"transcription":null}
+{"es":"puerto","kr":"포항","level":3,"transcription":null}
+{"es":"recuerdo","kr":"기억","level":3,"transcription":null}
 {"es":"acceso","kr":"입장","level":3,"transcription":null}
 {"es":"arma","kr":"무기","level":3,"transcription":null}
 {"es":"comunicación","kr":"의사소통","level":3,"transcription":null}
 {"es":"evitar","kr":"피하다","level":3,"transcription":null}
 {"es":"finalmente","kr":"마지막으로","level":3,"transcription":null}
-{"es":"fuente","kr":"분수","level":3,"transcription":null}
+{"es":"fuente","kr":"원천","level":3,"transcription":null}
 {"es":"jugar","kr":"놀다","level":1,"transcription":null}
 {"es":"producto","kr":"제품","level":2,"transcription":null}
-{"es":"época","kr":"시간","level":3,"transcription":null}
+{"es":"época","kr":"시기","level":3,"transcription":null}
 {"es":"banco","kr":"은행","level":1,"transcription":null}
 {"es":"conseguir","kr":"얻다","level":2,"transcription":null}
 {"es":"construcción","kr":"건설","level":3,"transcription":null}
@@ -528,19 +528,19 @@
 {"es":"post","kr":"우편","level":3,"transcription":null}
 {"es":"profesor","kr":"선생님","level":1,"transcription":null}
 {"es":"quizás","kr":"아마도","level":2,"transcription":null}
-{"es":"respeto","kr":"나는 존경한다","level":3,"transcription":null}
+{"es":"respeto","kr":"존경하는 사람","level":3,"transcription":null}
 {"es":"ropa","kr":"옷","level":1,"transcription":null}
 {"es":"totalmente","kr":"완전히","level":3,"transcription":null}
 {"es":"versión","kr":"버전","level":3,"transcription":null}
-{"es":"cielo","kr":"여보","level":2,"transcription":null}
+{"es":"cielo","kr":"하늘","level":2,"transcription":null}
 {"es":"cine","kr":"영화","level":1,"transcription":null}
 {"es":"cuestión","kr":"질문","level":3,"transcription":null}
 {"es":"escribir","kr":"쓰다","level":1,"transcription":null}
-{"es":"formación","kr":"훈련","level":3,"transcription":null}
+{"es":"formación","kr":"교육","level":3,"transcription":null}
 {"es":"importancia","kr":"중요성","level":3,"transcription":null}
 {"es":"industria","kr":"산업","level":3,"transcription":null}
-{"es":"instituto","kr":"학회","level":2,"transcription":null}
-{"es":"loco","kr":"미친","level":2,"transcription":null}
+{"es":"instituto","kr":"학교","level":2,"transcription":null}
+{"es":"loco","kr":"병아리","level":2,"transcription":null}
 {"es":"origen","kr":"기원","level":3,"transcription":null}
 {"es":"premio","kr":"상","level":2,"transcription":null}
 {"es":"rico","kr":"부자","level":1,"transcription":null}
@@ -548,22 +548,22 @@
 {"es":"unidad","kr":"단위","level":3,"transcription":null}
 {"es":"canal","kr":"채널","level":2,"transcription":null}
 {"es":"cultural","kr":"문화적","level":3,"transcription":null}
-{"es":"económico","kr":"간결한","level":3,"transcription":null}
+{"es":"económico","kr":"경제적인","level":3,"transcription":null}
 {"es":"interesante","kr":"흥미로운","level":1,"transcription":null}
-{"es":"jamás","kr":"절대","level":3,"transcription":null}
+{"es":"jamás","kr":"절대로","level":3,"transcription":null}
 {"es":"original","kr":"원래의","level":3,"transcription":null}
 {"es":"peso","kr":"무게","level":2,"transcription":null}
 {"es":"pobre","kr":"가난한","level":1,"transcription":null}
-{"es":"prensa","kr":"누르다","level":3,"transcription":null}
+{"es":"prensa","kr":"매체","level":3,"transcription":null}
 {"es":"victoria","kr":"승리","level":3,"transcription":null}
 {"es":"voto","kr":"투표","level":3,"transcription":null}
 {"es":"alma","kr":"영혼","level":3,"transcription":null}
-{"es":"asunto","kr":"일","level":3,"transcription":null}
-{"es":"completo","kr":"완벽한","level":2,"transcription":null}
+{"es":"asunto","kr":"사안","level":3,"transcription":null}
+{"es":"completo","kr":"완전한","level":2,"transcription":null}
 {"es":"conocimiento","kr":"지식","level":3,"transcription":null}
 {"es":"estudiante","kr":"학생","level":1,"transcription":null}
 {"es":"hospital","kr":"병원","level":1,"transcription":null}
-{"es":"marcha","kr":"3월","level":3,"transcription":null}
+{"es":"marcha","kr":"진행","level":3,"transcription":null}
 {"es":"pie","kr":"발","level":1,"transcription":null}
 {"es":"tecnología","kr":"기술","level":3,"transcription":null}
 {"es":"verano","kr":"여름","level":1,"transcription":null}
@@ -582,18 +582,18 @@
 {"es":"profesional","kr":"전문적인","level":3,"transcription":null}
 {"es":"suelo","kr":"바닥","level":2,"transcription":null}
 {"es":"visita","kr":"방문하다","level":2,"transcription":null}
-{"es":"ambiente","kr":"대기","level":3,"transcription":null}
+{"es":"ambiente","kr":"환경","level":3,"transcription":null}
 {"es":"edificio","kr":"건물","level":2,"transcription":null}
 {"es":"lengua","kr":"언어","level":2,"transcription":null}
 {"es":"mesa","kr":"테이블","level":1,"transcription":null}
 {"es":"naturaleza","kr":"자연","level":3,"transcription":null}
-{"es":"pago","kr":"지불하다","level":3,"transcription":null}
+{"es":"pago","kr":"지불","level":3,"transcription":null}
 {"es":"protección","kr":"보호","level":3,"transcription":null}
-{"es":"publicar","kr":"우편","level":3,"transcription":null}
-{"es":"sala","kr":"홀","level":2,"transcription":null}
+{"es":"publicar","kr":"발표하다","level":3,"transcription":null}
+{"es":"sala","kr":"방문실","level":2,"transcription":null}
 {"es":"señora","kr":"숙녀","level":1,"transcription":null}
 {"es":"sueño","kr":"꿈","level":2,"transcription":null}
-{"es":"teléfono","kr":"핸드폰","level":1,"transcription":null}
+{"es":"teléfono","kr":"전화기","level":1,"transcription":null}
 {"es":"transporte","kr":"수송","level":2,"transcription":null}
 {"es":"usuario","kr":"사용자","level":3,"transcription":null}
 {"es":"acto","kr":"행동","level":3,"transcription":null}
@@ -628,7 +628,7 @@
 {"es":"viernes","kr":"금요일","level":1,"transcription":null}
 {"es":"vídeo","kr":"동영상","level":2,"transcription":null}
 {"es":"aplicación","kr":"애플리케이션","level":3,"transcription":null}
-{"es":"aumento","kr":"증가하다","level":3,"transcription":null}
+{"es":"aumento","kr":"증가","level":3,"transcription":null}
 {"es":"cama","kr":"침대","level":1,"transcription":null}
 {"es":"ciencia","kr":"과학","level":3,"transcription":null}
 {"es":"distancia","kr":"거리","level":2,"transcription":null}
@@ -644,7 +644,7 @@
 {"es":"reino","kr":"왕국","level":3,"transcription":null}
 {"es":"resultar","kr":"결과","level":3,"transcription":null}
 {"es":"riesgo","kr":"위험","level":3,"transcription":null}
-{"es":"sacar","kr":"테이크아웃","level":2,"transcription":null}
+{"es":"sacar","kr":"바라다","level":2,"transcription":null}
 {"es":"silencio","kr":"고요","level":2,"transcription":null}
 {"es":"temporada","kr":"계절","level":3,"transcription":null}
 {"es":"terminar","kr":"마치다","level":1,"transcription":null}
@@ -655,19 +655,19 @@
 {"es":"elemento","kr":"요소","level":3,"transcription":null}
 {"es":"esfuerzo","kr":"노력","level":3,"transcription":null}
 {"es":"gratis","kr":"무료","level":2,"transcription":null}
-{"es":"morir","kr":"주사위","level":2,"transcription":null}
+{"es":"morir","kr":"죽다","level":2,"transcription":null}
 {"es":"médico","kr":"의사","level":1,"transcription":null}
 {"es":"próximo","kr":"다음","level":1,"transcription":null}
 {"es":"salida","kr":"출구","level":1,"transcription":null}
 {"es":"selección","kr":"선택","level":3,"transcription":null}
 {"es":"aparecer","kr":"나타나다","level":2,"transcription":null}
-{"es":"contacto","kr":"연락하다","level":2,"transcription":null}
+{"es":"contacto","kr":"연락처","level":2,"transcription":null}
 {"es":"contar","kr":"세다","level":1,"transcription":null}
 {"es":"crecimiento","kr":"성장","level":3,"transcription":null}
 {"es":"despues","kr":"~ 후에","level":1,"transcription":null}
 {"es":"excelente","kr":"훌륭한","level":2,"transcription":null}
 {"es":"función","kr":"기능","level":3,"transcription":null}
-{"es":"tv","kr":"tv","level":1,"transcription":null}
+{"es":"tv","kr":"TV","level":1,"transcription":null}
 {"es":"término","kr":"용어","level":3,"transcription":null}
 {"es":"verdadero","kr":"진실","level":2,"transcription":null}
 {"es":"verde","kr":"녹색","level":1,"transcription":null}
@@ -684,7 +684,7 @@
 {"es":"ciento","kr":"백","level":1,"transcription":null}
 {"es":"comercial","kr":"광고","level":3,"transcription":null}
 {"es":"copa","kr":"컵","level":2,"transcription":null}
-{"es":"exterior","kr":"해외에서","level":3,"transcription":null}
+{"es":"exterior","kr":"외부","level":3,"transcription":null}
 {"es":"habitante","kr":"주민","level":3,"transcription":null}
 {"es":"honor","kr":"명예","level":3,"transcription":null}
 {"es":"mejorar","kr":"개선하다","level":2,"transcription":null}
@@ -699,13 +699,13 @@
 {"es":"recibir","kr":"받다","level":1,"transcription":null}
 {"es":"rojo","kr":"빨간색","level":1,"transcription":null}
 {"es":"similar","kr":"비슷한","level":2,"transcription":null}
-{"es":"argentino","kr":"아르헨티나의","level":2,"transcription":null}
+{"es":"argentino","kr":"아르헨티나","level":2,"transcription":null}
 {"es":"azul","kr":"파란색","level":1,"transcription":null}
 {"es":"carne","kr":"고기","level":1,"transcription":null}
 {"es":"cumplir","kr":"성취하다","level":3,"transcription":null}
 {"es":"discurso","kr":"연설","level":3,"transcription":null}
 {"es":"encantar","kr":"사랑","level":2,"transcription":null}
-{"es":"entrevista","kr":"회견","level":3,"transcription":null}
+{"es":"entrevista","kr":"회담","level":3,"transcription":null}
 {"es":"estudiar","kr":"공부하다","level":1,"transcription":null}
 {"es":"expresión","kr":"표현","level":3,"transcription":null}
 {"es":"extraño","kr":"이상한","level":2,"transcription":null}
@@ -720,7 +720,7 @@
 {"es":"teatro","kr":"극장","level":2,"transcription":null}
 {"es":"vecino","kr":"이웃","level":2,"transcription":null}
 {"es":"caja","kr":"상자","level":1,"transcription":null}
-{"es":"detalle","kr":"세부 사항","level":3,"transcription":null}
+{"es":"detalle","kr":"세부사항","level":3,"transcription":null}
 {"es":"empleo","kr":"고용","level":3,"transcription":null}
 {"es":"enfermedad","kr":"질병","level":3,"transcription":null}
 {"es":"escena","kr":"장면","level":3,"transcription":null}
@@ -740,7 +740,7 @@
 {"es":"duro","kr":"딱딱한","level":2,"transcription":null}
 {"es":"estación","kr":"계절","level":2,"transcription":null}
 {"es":"evento","kr":"이벤트","level":3,"transcription":null}
-{"es":"francés","kr":"프랑스 국민","level":2,"transcription":null}
+{"es":"francés","kr":"프랑스어","level":2,"transcription":null}
 {"es":"intento","kr":"시험을 마친","level":3,"transcription":null}
 {"es":"lunes","kr":"월요일","level":1,"transcription":null}
 {"es":"novia","kr":"신부","level":2,"transcription":null}
@@ -786,13 +786,13 @@
 {"es":"velocidad","kr":"속도","level":3,"transcription":null}
 {"es":"visión","kr":"비전","level":3,"transcription":null}
 {"es":"alcalde","kr":"시장","level":3,"transcription":null}
-{"es":"altura","kr":"키","level":2,"transcription":null}
+{"es":"altura","kr":"높이","level":2,"transcription":null}
 {"es":"candidato","kr":"후보자","level":3,"transcription":null}
 {"es":"debajo","kr":"아래에","level":2,"transcription":null}
 {"es":"generación","kr":"세대","level":3,"transcription":null}
 {"es":"menudo","kr":"근소한","level":3,"transcription":null}
-{"es":"querido","kr":"여보","level":2,"transcription":null}
-{"es":"sonar","kr":"꿈","level":2,"transcription":null}
+{"es":"querido","kr":"사랑하는","level":2,"transcription":null}
+{"es":"sonar","kr":"소리내다","level":2,"transcription":null}
 {"es":"suponer","kr":"가정하다","level":3,"transcription":null}
 {"es":"abogado","kr":"변호사","level":3,"transcription":null}
 {"es":"abrir","kr":"열려 있는","level":1,"transcription":null}
@@ -810,32 +810,32 @@
 {"es":"objeto","kr":"물체","level":2,"transcription":null}
 {"es":"publicación","kr":"출판","level":3,"transcription":null}
 {"es":"tratamiento","kr":"치료","level":3,"transcription":null}
-{"es":"villa","kr":"별장","level":3,"transcription":null}
+{"es":"villa","kr":"빌라","level":3,"transcription":null}
 {"es":"calor","kr":"열","level":2,"transcription":null}
 {"es":"cárcel","kr":"교도소","level":3,"transcription":null}
 {"es":"digital","kr":"디지털","level":3,"transcription":null}
 {"es":"distrito","kr":"구역","level":3,"transcription":null}
-{"es":"familiar","kr":"친숙한","level":2,"transcription":null}
+{"es":"familiar","kr":"친근한","level":2,"transcription":null}
 {"es":"histórico","kr":"역사적인","level":3,"transcription":null}
 {"es":"intención","kr":"의도","level":3,"transcription":null}
-{"es":"listo","kr":"준비가 된","level":1,"transcription":null}
+{"es":"listo","kr":"준비된","level":1,"transcription":null}
 {"es":"máximo","kr":"최고","level":3,"transcription":null}
 {"es":"ocasión","kr":"가능성","level":3,"transcription":null}
-{"es":"piedra","kr":"결석","level":2,"transcription":null}
+{"es":"piedra","kr":"석","level":2,"transcription":null}
 {"es":"privado","kr":"사적인","level":3,"transcription":null}
 {"es":"propósito","kr":"목적","level":3,"transcription":null}
-{"es":"regla","kr":"자","level":2,"transcription":null}
+{"es":"regla","kr":"규칙","level":2,"transcription":null}
 {"es":"secretario","kr":"비서","level":3,"transcription":null}
 {"es":"soldado","kr":"군인","level":3,"transcription":null}
 {"es":"técnica","kr":"기술","level":3,"transcription":null}
 {"es":"aeropuerto","kr":"공항","level":1,"transcription":null}
-{"es":"cadena","kr":"체인","level":3,"transcription":null}
+{"es":"cadena","kr":"사슬","level":3,"transcription":null}
 {"es":"capitán","kr":"선장","level":3,"transcription":null}
 {"es":"delante","kr":"앞에","level":2,"transcription":null}
-{"es":"europeo","kr":"유럽 ​​사람","level":3,"transcription":null}
+{"es":"europeo","kr":"유럽인","level":3,"transcription":null}
 {"es":"lenguaje","kr":"언어","level":3,"transcription":null}
 {"es":"literatura","kr":"문학","level":3,"transcription":null}
-{"es":"mexicano","kr":"멕시코 인","level":1,"transcription":null}
+{"es":"mexicano","kr":"멕시코인","level":1,"transcription":null}
 {"es":"online","kr":"온라인","level":3,"transcription":null}
 {"es":"saludo","kr":"인사","level":2,"transcription":null}
 {"es":"actitud","kr":"태도","level":3,"transcription":null}
@@ -856,7 +856,7 @@
 {"es":"empleado","kr":"직원","level":3,"transcription":null}
 {"es":"estadounidense","kr":"미국","level":3,"transcription":null}
 {"es":"león","kr":"사자","level":2,"transcription":null}
-{"es":"mínimo","kr":"최저한의","level":3,"transcription":null}
+{"es":"mínimo","kr":"최저한","level":3,"transcription":null}
 {"es":"pantalla","kr":"화면","level":2,"transcription":null}
 {"es":"papá","kr":"아빠","level":1,"transcription":null}
 {"es":"perfil","kr":"윤곽","level":3,"transcription":null}
@@ -865,7 +865,7 @@
 {"es":"artista","kr":"아티스트","level":2,"transcription":null}
 {"es":"aspecto","kr":"측면","level":3,"transcription":null}
 {"es":"caer","kr":"떨어지다","level":2,"transcription":null}
-{"es":"crédito","kr":"신용 거래","level":3,"transcription":null}
+{"es":"crédito","kr":"신용","level":3,"transcription":null}
 {"es":"costar","kr":"비용","level":1,"transcription":null}
 {"es":"depender","kr":"의존하다","level":3,"transcription":null}
 {"es":"gas","kr":"가스","level":2,"transcription":null}
@@ -918,7 +918,7 @@
 {"es":"avión","kr":"비행기","level":1,"transcription":null}
 {"es":"bandera","kr":"깃발","level":2,"transcription":null}
 {"es":"biblioteca","kr":"도서관","level":1,"transcription":null}
-{"es":"celular","kr":"세포의","level":1,"transcription":null}
+{"es":"celular","kr":"모바일 기기","level":1,"transcription":null}
 {"es":"costo","kr":"비용","level":3,"transcription":null}
 {"es":"deporte","kr":"스포츠","level":1,"transcription":null}
 {"es":"disco","kr":"디스크","level":2,"transcription":null}
@@ -934,13 +934,13 @@
 {"es":"ruta","kr":"노선","level":3,"transcription":null}
 {"es":"secreto","kr":"비밀","level":3,"transcription":null}
 {"es":"soler","kr":"솔러","level":3,"transcription":null}
-{"es":"tocar","kr":"수도꼭지","level":1,"transcription":null}
+{"es":"tocar","kr":"수동","level":1,"transcription":null}
 {"es":"tradicional","kr":"전통적인","level":2,"transcription":null}
 {"es":"alumno","kr":"학생","level":1,"transcription":null}
 {"es":"audiencia","kr":"청중","level":3,"transcription":null}
 {"es":"comienzo","kr":"시작","level":3,"transcription":null}
 {"es":"disponible","kr":"사용 가능","level":3,"transcription":null}
-{"es":"extranjero","kr":"외국의","level":2,"transcription":null}
+{"es":"extranjero","kr":"외국인","level":2,"transcription":null}
 {"es":"formar","kr":"형태","level":3,"transcription":null}
 {"es":"frase","kr":"구절","level":2,"transcription":null}
 {"es":"impacto","kr":"영향","level":3,"transcription":null}
@@ -1026,21 +1026,21 @@
 {"es":"brazo","kr":"팔","level":1,"transcription":null}
 {"es":"cerebro","kr":"뇌","level":3,"transcription":null}
 {"es":"clima","kr":"기후","level":2,"transcription":null}
-{"es":"corriente","kr":"현재의","level":3,"transcription":null}
+{"es":"corriente","kr":"흐름","level":3,"transcription":null}
 {"es":"discusión","kr":"논의","level":3,"transcription":null}
-{"es":"escala","kr":"규모","level":3,"transcription":null}
-{"es":"espalda","kr":"뒤쪽에","level":2,"transcription":null}
-{"es":"gracia","kr":"재미있는","level":3,"transcription":null}
-{"es":"montón","kr":"많은","level":2,"transcription":null}
-{"es":"probar","kr":"입증하다","level":2,"transcription":null}
+{"es":"escala","kr":"단계","level":3,"transcription":null}
+{"es":"espalda","kr":"다발","level":2,"transcription":null}
+{"es":"gracia","kr":"재미","level":3,"transcription":null}
+{"es":"montón","kr":"집합","level":2,"transcription":null}
+{"es":"probar","kr":"확인하다","level":2,"transcription":null}
 {"es":"sensación","kr":"감각","level":3,"transcription":null}
 {"es":"terrible","kr":"끔찍한","level":2,"transcription":null}
-{"es":"vergüenza","kr":"창피","level":3,"transcription":null}
+{"es":"vergüenza","kr":"피가슴","level":3,"transcription":null}
 {"es":"agencia","kr":"대행사","level":3,"transcription":null}
 {"es":"anunciar","kr":"발표하다","level":3,"transcription":null}
 {"es":"apoyar","kr":"지원하다","level":3,"transcription":null}
 {"es":"asistencia","kr":"출석","level":3,"transcription":null}
-{"es":"ayuntamiento","kr":"시청","level":3,"transcription":null}
+{"es":"ayuntamiento","kr":"시청소","level":3,"transcription":null}
 {"es":"bajar","kr":"낮추다","level":1,"transcription":null}
 {"es":"caber","kr":"맞다","level":3,"transcription":null}
 {"es":"constante","kr":"끊임없는","level":3,"transcription":null}
@@ -1048,10 +1048,10 @@
 {"es":"euro","kr":"유로","level":1,"transcription":null}
 {"es":"examen","kr":"시험","level":1,"transcription":null}
 {"es":"igualmente","kr":"비슷하게","level":2,"transcription":null}
-{"es":"indicar","kr":"나타내다","level":3,"transcription":null}
+{"es":"indicar","kr":"표시하다","level":3,"transcription":null}
 {"es":"mapa","kr":"지도","level":1,"transcription":null}
-{"es":"masa","kr":"대량의","level":3,"transcription":null}
-{"es":"mentira","kr":"거짓말하다","level":2,"transcription":null}
+{"es":"masa","kr":"대량","level":3,"transcription":null}
+{"es":"mentira","kr":"거짓말","level":2,"transcription":null}
 {"es":"miércoles","kr":"수요일","level":1,"transcription":null}
 {"es":"novio","kr":"남자 친구","level":1,"transcription":null}
 {"es":"nuevamente","kr":"다시","level":3,"transcription":null}
@@ -1110,7 +1110,7 @@
 {"es":"traducción","kr":"번역","level":3,"transcription":null}
 {"es":"tráfico","kr":"교통","level":3,"transcription":null}
 {"es":"ángel","kr":"천사","level":2,"transcription":null}
-{"es":"adentro","kr":"내부에","level":2,"transcription":null}
+{"es":"adentro","kr":"내부","level":2,"transcription":null}
 {"es":"caliente","kr":"더운","level":1,"transcription":null}
 {"es":"cariño","kr":"~에게","level":3,"transcription":null}
 {"es":"chino","kr":"중국인","level":2,"transcription":null}
@@ -1139,7 +1139,7 @@
 {"es":"preferir","kr":"선호하다","level":2,"transcription":null}
 {"es":"raza","kr":"경주","level":3,"transcription":null}
 {"es":"reacción","kr":"반응","level":3,"transcription":null}
-{"es":"salón","kr":"라운지","level":2,"transcription":null}
+{"es":"salón","kr":"방","level":2,"transcription":null}
 {"es":"traer","kr":"가져오다","level":1,"transcription":null}
 {"es":"árbol","kr":"나무","level":1,"transcription":null}
 {"es":"útil","kr":"유용한","level":2,"transcription":null}
@@ -1154,7 +1154,7 @@
 {"es":"pieza","kr":"부분","level":3,"transcription":null}
 {"es":"primavera","kr":"봄","level":2,"transcription":null}
 {"es":"reconocer","kr":"인정하다","level":3,"transcription":null}
-{"es":"romper","kr":"부서지다","level":2,"transcription":null}
+{"es":"romper","kr":"부수다","level":2,"transcription":null}
 {"es":"rostro","kr":"얼굴","level":3,"transcription":null}
 {"es":"ruido","kr":"소음","level":2,"transcription":null}
 {"es":"sal","kr":"소금","level":1,"transcription":null}
@@ -1213,7 +1213,7 @@
 {"es":"tono","kr":"음정","level":3,"transcription":null}
 {"es":"variedad","kr":"다양성","level":3,"transcription":null}
 {"es":"academia","kr":"학원","level":3,"transcription":null}
-{"es":"activo","kr":"유산","level":2,"transcription":null}
+{"es":"activo","kr":"활기찬","level":2,"transcription":null}
 {"es":"ausencia","kr":"결석","level":3,"transcription":null}
 {"es":"cabello","kr":"머리카락","level":2,"transcription":null}
 {"es":"cercano","kr":"가까운","level":2,"transcription":null}
@@ -1239,7 +1239,7 @@
 {"es":"asegurar","kr":"보장하다","level":3,"transcription":null}
 {"es":"bar","kr":"술집","level":1,"transcription":null}
 {"es":"caballero","kr":"신사","level":2,"transcription":null}
-{"es":"electrónico","kr":"전자","level":3,"transcription":null}
+{"es":"electrónico","kr":"전자제품","level":3,"transcription":null}
 {"es":"eliminar","kr":"제거하다","level":3,"transcription":null}
 {"es":"explicación","kr":"설명","level":2,"transcription":null}
 {"es":"ganador","kr":"우승자","level":3,"transcription":null}
@@ -1320,9 +1320,9 @@
 {"es":"personalmente","kr":"몸소","level":3,"transcription":null}
 {"es":"princesa","kr":"공주","level":2,"transcription":null}
 {"es":"progreso","kr":"진전","level":3,"transcription":null}
-{"es":"puesta","kr":"퍼팅","level":3,"transcription":null}
+{"es":"puesta","kr":"배치","level":3,"transcription":null}
 {"es":"torneo","kr":"토너먼트","level":3,"transcription":null}
-{"es":"turno","kr":"옮기다","level":2,"transcription":null}
+{"es":"turno","kr":"순서","level":2,"transcription":null}
 {"es":"vacío","kr":"비어 있는","level":2,"transcription":null}
 {"es":"venezolano","kr":"베네수엘라 사람","level":3,"transcription":null}
 {"es":"algun","kr":"일부","level":2,"transcription":null}
@@ -1347,7 +1347,7 @@
 {"es":"preparar","kr":"준비하다","level":1,"transcription":null}
 {"es":"riqueza","kr":"재산","level":3,"transcription":null}
 {"es":"salario","kr":"샐러리","level":3,"transcription":null}
-{"es":"sierra","kr":"봤다","level":3,"transcription":null}
+{"es":"sierra","kr":"산맥","level":3,"transcription":null}
 {"es":"tabla","kr":"판자","level":2,"transcription":null}
 {"es":"cantante","kr":"가수","level":2,"transcription":null}
 {"es":"concentración","kr":"집중","level":3,"transcription":null}
@@ -1386,14 +1386,14 @@
 {"es":"raíz","kr":"뿌리","level":3,"transcription":null}
 {"es":"relacionar","kr":"말하다","level":3,"transcription":null}
 {"es":"repente","kr":"갑자기","level":3,"transcription":null}
-{"es":"solicitud","kr":"애플리케이션","level":3,"transcription":null}
-{"es":"súper","kr":"감독자","level":2,"transcription":null}
+{"es":"solicitud","kr":"요청","level":3,"transcription":null}
+{"es":"súper","kr":"슈퍼","level":2,"transcription":null}
 {"es":"testigo","kr":"증인","level":3,"transcription":null}
 {"es":"índice","kr":"색인","level":3,"transcription":null}
-{"es":"culpable","kr":"죄책감이 드는","level":3,"transcription":null}
-{"es":"documental","kr":"기록한 것","level":3,"transcription":null}
+{"es":"culpable","kr":"죄책감","level":3,"transcription":null}
+{"es":"documental","kr":"기록물","level":3,"transcription":null}
 {"es":"drama","kr":"드라마","level":2,"transcription":null}
-{"es":"feria","kr":"공정한","level":3,"transcription":null}
+{"es":"feria","kr":"페리","level":3,"transcription":null}
 {"es":"iniciar","kr":"시작","level":3,"transcription":null}
 {"es":"magia","kr":"마법","level":2,"transcription":null}
 {"es":"muro","kr":"벽","level":2,"transcription":null}
@@ -1469,7 +1469,7 @@
 {"es":"preparación","kr":"준비","level":3,"transcription":null}
 {"es":"primo","kr":"사촌","level":2,"transcription":null}
 {"es":"razon","kr":"이유","level":2,"transcription":null}
-{"es":"sueldo","kr":"샐러리","level":3,"transcription":null}
+{"es":"sueldo","kr":"임금","level":3,"transcription":null}
 {"es":"treinta","kr":"삼십","level":1,"transcription":null}
 {"es":"tránsito","kr":"운송","level":3,"transcription":null}
 {"es":"boda","kr":"혼례","level":2,"transcription":null}
@@ -1479,12 +1479,12 @@
 {"es":"fama","kr":"명성","level":3,"transcription":null}
 {"es":"herida","kr":"상처","level":3,"transcription":null}
 {"es":"hielo","kr":"얼음","level":2,"transcription":null}
-{"es":"indio","kr":"옥수수","level":3,"transcription":null}
-{"es":"inmigrante","kr":"이민","level":3,"transcription":null}
+{"es":"indio","kr":"인디고","level":3,"transcription":null}
+{"es":"inmigrante","kr":"이민자","level":3,"transcription":null}
 {"es":"paquete","kr":"패키지","level":2,"transcription":null}
 {"es":"retiro","kr":"철수","level":3,"transcription":null}
-{"es":"ronda","kr":"둥근","level":3,"transcription":null}
-{"es":"solar","kr":"태양의","level":3,"transcription":null}
+{"es":"ronda","kr":"순환","level":3,"transcription":null}
+{"es":"solar","kr":"태양","level":3,"transcription":null}
 {"es":"sombra","kr":"그늘","level":2,"transcription":null}
 {"es":"símbolo","kr":"상징","level":3,"transcription":null}
 {"es":"aca","kr":"여기","level":1,"transcription":null}
@@ -1493,8 +1493,8 @@
 {"es":"carro","kr":"자동차","level":1,"transcription":null}
 {"es":"concreto","kr":"콘크리트","level":3,"transcription":null}
 {"es":"constantemente","kr":"끊임없이","level":3,"transcription":null}
-{"es":"cuidar","kr":"케어","level":2,"transcription":null}
-{"es":"detener","kr":"체포","level":3,"transcription":null}
+{"es":"cuidar","kr":"관심","level":2,"transcription":null}
+{"es":"detener","kr":"제지","level":3,"transcription":null}
 {"es":"dibujo","kr":"그림","level":1,"transcription":null}
 {"es":"electricidad","kr":"전기","level":2,"transcription":null}
 {"es":"episodio","kr":"삽화","level":3,"transcription":null}
@@ -1528,14 +1528,14 @@
 {"es":"mencionar","kr":"언급하다","level":3,"transcription":null}
 {"es":"nieve","kr":"눈","level":2,"transcription":null}
 {"es":"obligación","kr":"의무","level":3,"transcription":null}
-{"es":"observar","kr":"알아채다","level":3,"transcription":null}
-{"es":"once","kr":"열하나","level":1,"transcription":null}
+{"es":"observar","kr":"관찰하다","level":3,"transcription":null}
+{"es":"once","kr":"하나","level":1,"transcription":null}
 {"es":"prohibido","kr":"금지된","level":2,"transcription":null}
-{"es":"revisión","kr":"개정","level":3,"transcription":null}
-{"es":"tonto","kr":"바보 같은","level":2,"transcription":null}
+{"es":"revisión","kr":"검토","level":3,"transcription":null}
+{"es":"tonto","kr":"바보","level":2,"transcription":null}
 {"es":"alerta","kr":"알리다","level":3,"transcription":null}
-{"es":"básicamente","kr":"원래","level":3,"transcription":null}
-{"es":"casado","kr":"기혼","level":2,"transcription":null}
+{"es":"básicamente","kr":"기본적으로","level":3,"transcription":null}
+{"es":"casado","kr":"결혼한","level":2,"transcription":null}
 {"es":"caza","kr":"사냥","level":3,"transcription":null}
 {"es":"combustible","kr":"연료","level":3,"transcription":null}
 {"es":"curiosidad","kr":"호기심","level":3,"transcription":null}
@@ -1550,7 +1550,7 @@
 {"es":"investigar","kr":"조사하다","level":3,"transcription":null}
 {"es":"lento","kr":"느린","level":1,"transcription":null}
 {"es":"mover","kr":"이동하다","level":1,"transcription":null}
-{"es":"paja","kr":"빨대","level":3,"transcription":null}
+{"es":"paja","kr":"사과","level":3,"transcription":null}
 {"es":"palo","kr":"막대","level":3,"transcription":null}
 {"es":"pollo","kr":"닭","level":1,"transcription":null}
 {"es":"reloj","kr":"시계","level":1,"transcription":null}
@@ -1617,9 +1617,9 @@
 {"es":"manga","kr":"소매","level":3,"transcription":null}
 {"es":"media","kr":"평균","level":2,"transcription":null}
 {"es":"mencionado","kr":"말하는","level":3,"transcription":null}
-{"es":"orientación","kr":"정위","level":3,"transcription":null}
-{"es":"patrón","kr":"무늬","level":3,"transcription":null}
-{"es":"quinto","kr":"제오","level":2,"transcription":null}
+{"es":"orientación","kr":"정권","level":3,"transcription":null}
+{"es":"patrón","kr":"주요","level":3,"transcription":null}
+{"es":"quinto","kr":"다섯째","level":2,"transcription":null}
 {"es":"reto","kr":"도전","level":3,"transcription":null}
 {"es":"sentado","kr":"좌석","level":2,"transcription":null}
 {"es":"típico","kr":"전형적인","level":3,"transcription":null}
@@ -1627,7 +1627,7 @@
 {"es":"valiente","kr":"용감한","level":3,"transcription":null}
 {"es":"analizar","kr":"분석하다","level":3,"transcription":null}
 {"es":"app","kr":"앱","level":2,"transcription":null}
-{"es":"arco","kr":"절하다","level":3,"transcription":null}
+{"es":"arco","kr":"절","level":3,"transcription":null}
 {"es":"asiento","kr":"좌석","level":2,"transcription":null}
 {"es":"asumir","kr":"추정하다","level":3,"transcription":null}
 {"es":"calma","kr":"침착한","level":3,"transcription":null}
@@ -1636,7 +1636,7 @@
 {"es":"desaparecido","kr":"없어진","level":3,"transcription":null}
 {"es":"equivocado","kr":"잘못된","level":2,"transcription":null}
 {"es":"excusa","kr":"변명","level":2,"transcription":null}
-{"es":"exigir","kr":"수요","level":3,"transcription":null}
+{"es":"exigir","kr":"요구하다","level":3,"transcription":null}
 {"es":"firmado","kr":"서명됨","level":3,"transcription":null}
 {"es":"identificar","kr":"식별하다","level":3,"transcription":null}
 {"es":"lector","kr":"리더","level":2,"transcription":null}
@@ -1650,18 +1650,18 @@
 {"es":"situado","kr":"거짓말하는","level":3,"transcription":null}
 {"es":"tía","kr":"이모","level":1,"transcription":null}
 {"es":"votante","kr":"유권자","level":3,"transcription":null}
-{"es":"órgano","kr":"오르간","level":3,"transcription":null}
-{"es":"ala","kr":"에","level":3,"transcription":null}
-{"es":"arreglar","kr":"마련하다","level":2,"transcription":null}
-{"es":"atender","kr":"참석하다","level":3,"transcription":null}
+{"es":"órgano","kr":"기관","level":3,"transcription":null}
+{"es":"ala","kr":"날개","level":3,"transcription":null}
+{"es":"arreglar","kr":"수정하다","level":2,"transcription":null}
+{"es":"atender","kr":"대응하다","level":3,"transcription":null}
 {"es":"bienvenido","kr":"환영","level":1,"transcription":null}
 {"es":"botella","kr":"병","level":1,"transcription":null}
 {"es":"campeonato","kr":"선수권 대회","level":3,"transcription":null}
 {"es":"cerro","kr":"언덕","level":3,"transcription":null}
-{"es":"coger","kr":"가져가다","level":1,"transcription":null}
+{"es":"coger","kr":"잡다","level":1,"transcription":null}
 {"es":"concha","kr":"껍데기","level":3,"transcription":null}
-{"es":"continuo","kr":"마디 없는","level":3,"transcription":null}
-{"es":"criterio","kr":"표준","level":3,"transcription":null}
+{"es":"continuo","kr":"연속된","level":3,"transcription":null}
+{"es":"criterio","kr":"기준","level":3,"transcription":null}
 {"es":"definir","kr":"정의하다","level":3,"transcription":null}
 {"es":"emoción","kr":"감정","level":2,"transcription":null}
 {"es":"fiel","kr":"충실한","level":3,"transcription":null}
@@ -1677,37 +1677,37 @@
 {"es":"ridículo","kr":"말도 안 되는","level":3,"transcription":null}
 {"es":"suave","kr":"온화한","level":2,"transcription":null}
 {"es":"actriz","kr":"여배우","level":2,"transcription":null}
-{"es":"adicional","kr":"추가의","level":3,"transcription":null}
+{"es":"adicional","kr":"추가","level":3,"transcription":null}
 {"es":"amarillo","kr":"노란색","level":1,"transcription":null}
-{"es":"aprovechar","kr":"영향력","level":3,"transcription":null}
-{"es":"bravo","kr":"브라보","level":3,"transcription":null}
+{"es":"aprovechar","kr":"이용하다","level":3,"transcription":null}
+{"es":"bravo","kr":" bravo","level":3,"transcription":null}
 {"es":"catalán","kr":"카탈로니아 사람","level":3,"transcription":null}
 {"es":"combatir","kr":"전투","level":3,"transcription":null}
 {"es":"depresión","kr":"우울증","level":3,"transcription":null}
-{"es":"efectivamente","kr":"물론","level":3,"transcription":null}
+{"es":"efectivamente","kr":"실제로","level":3,"transcription":null}
 {"es":"esencial","kr":"필수적인","level":3,"transcription":null}
 {"es":"espada","kr":"검","level":3,"transcription":null}
-{"es":"galería","kr":"갱도","level":3,"transcription":null}
+{"es":"galería","kr":"갤러리","level":3,"transcription":null}
 {"es":"garantía","kr":"보증","level":3,"transcription":null}
 {"es":"gasolina","kr":"가솔린","level":2,"transcription":null}
-{"es":"hilo","kr":"실","level":2,"transcription":null}
+{"es":"hilo","kr":"줄","level":2,"transcription":null}
 {"es":"propietario","kr":"소유자","level":3,"transcription":null}
 {"es":"protagonista","kr":"주역","level":3,"transcription":null}
 {"es":"química","kr":"화학","level":3,"transcription":null}
-{"es":"revelar","kr":"드러내다","level":3,"transcription":null}
+{"es":"revelar","kr":"밝히다","level":3,"transcription":null}
 {"es":"sentar","kr":"앉다","level":2,"transcription":null}
 {"es":"acompañado","kr":"동반","level":2,"transcription":null}
-{"es":"alimentación","kr":"급송","level":3,"transcription":null}
+{"es":"alimentación","kr":"식비","level":3,"transcription":null}
 {"es":"británico","kr":"영국인","level":3,"transcription":null}
-{"es":"combinación","kr":"콤비네이션","level":3,"transcription":null}
-{"es":"cultivo","kr":"수확고","level":3,"transcription":null}
+{"es":"combinación","kr":"조합","level":3,"transcription":null}
+{"es":"cultivo","kr":"수확","level":3,"transcription":null}
 {"es":"desconocido","kr":"낯선 사람","level":3,"transcription":null}
 {"es":"embajada","kr":"대사관","level":3,"transcription":null}
 {"es":"específico","kr":"특정한","level":3,"transcription":null}
 {"es":"fijo","kr":"결정된","level":3,"transcription":null}
 {"es":"formal","kr":"공식적인","level":3,"transcription":null}
 {"es":"gris","kr":"회색","level":1,"transcription":null}
-{"es":"guardar","kr":"유지하다","level":2,"transcription":null}
+{"es":"guardar","kr":"보유하다","level":2,"transcription":null}
 {"es":"incluido","kr":"포함","level":3,"transcription":null}
 {"es":"jean","kr":"여자 이름","level":2,"transcription":null}
 {"es":"juvenil","kr":"청년","level":3,"transcription":null}
@@ -1718,7 +1718,7 @@
 {"es":"prioridad","kr":"우선 사항","level":3,"transcription":null}
 {"es":"respetar","kr":"존경","level":3,"transcription":null}
 {"es":"salsa","kr":"담그다","level":2,"transcription":null}
-{"es":"saltar","kr":"깡충깡충 뛰다","level":2,"transcription":null}
+{"es":"saltar","kr":"뛰다","level":2,"transcription":null}
 {"es":"tesoro","kr":"보물","level":3,"transcription":null}
 {"es":"tonelada","kr":"톤","level":3,"transcription":null}
 {"es":"acero","kr":"강철","level":3,"transcription":null}
@@ -1733,12 +1733,12 @@
 {"es":"determinado","kr":"확실한","level":3,"transcription":null}
 {"es":"domicilio","kr":"집","level":3,"transcription":null}
 {"es":"dominicano","kr":"도미니카인","level":2,"transcription":null}
-{"es":"explosión","kr":"터지다","level":3,"transcription":null}
+{"es":"explosión","kr":"폭발","level":3,"transcription":null}
 {"es":"falla","kr":"실패","level":3,"transcription":null}
 {"es":"fan","kr":"팬","level":2,"transcription":null}
 {"es":"inocente","kr":"순결한","level":3,"transcription":null}
 {"es":"nacionalidad","kr":"국적","level":2,"transcription":null}
-{"es":"palma","kr":"손바닥 안에 감추다","level":3,"transcription":null}
+{"es":"palma","kr":"손바닥","level":3,"transcription":null}
 {"es":"poema","kr":"시","level":3,"transcription":null}
 {"es":"promesa","kr":"약속하다","level":3,"transcription":null}
 {"es":"queja","kr":"불평","level":3,"transcription":null}
@@ -1773,7 +1773,7 @@
 {"es":"pop","kr":"팝","level":3,"transcription":null}
 {"es":"precioso","kr":"귀중한","level":2,"transcription":null}
 {"es":"quince","kr":"열 다섯","level":1,"transcription":null}
-{"es":"redacción","kr":"제도","level":3,"transcription":null}
+{"es":"redacción","kr":"제출","level":3,"transcription":null}
 {"es":"renunciar","kr":"포기하다","level":3,"transcription":null}
 {"es":"repetir","kr":"반복하다","level":2,"transcription":null}
 {"es":"sensible","kr":"예민한","level":3,"transcription":null}
@@ -1786,7 +1786,7 @@
 {"es":"cincuenta","kr":"오십","level":1,"transcription":null}
 {"es":"despacho","kr":"보내다","level":3,"transcription":null}
 {"es":"despertar","kr":"깨우다","level":2,"transcription":null}
-{"es":"documentación","kr":"선적 서류 비치","level":3,"transcription":null}
+{"es":"documentación","kr":"문서","level":3,"transcription":null}
 {"es":"inútil","kr":"쓸모 없는","level":3,"transcription":null}
 {"es":"kilo","kr":"킬로","level":2,"transcription":null}
 {"es":"lección","kr":"수업","level":2,"transcription":null}
@@ -1828,19 +1828,19 @@
 {"es":"recoger","kr":"모으다","level":2,"transcription":null}
 {"es":"refugio","kr":"대피소","level":3,"transcription":null}
 {"es":"seco","kr":"마른","level":2,"transcription":null}
-{"es":"secretaria","kr":"사무국","level":2,"transcription":null}
-{"es":"tele","kr":"tv","level":1,"transcription":null}
+{"es":"secretaria","kr":"사무실","level":2,"transcription":null}
+{"es":"tele","kr":"전화기","level":1,"transcription":null}
 {"es":"toro","kr":"황소","level":2,"transcription":null}
 {"es":"volar","kr":"파리","level":2,"transcription":null}
-{"es":"ácido","kr":"산","level":3,"transcription":null}
+{"es":"ácido","kr":"산성","level":3,"transcription":null}
 {"es":"apartamento","kr":"아파트","level":1,"transcription":null}
-{"es":"barato","kr":"값이 싼","level":1,"transcription":null}
+{"es":"barato","kr":"가치 낮은","level":1,"transcription":null}
 {"es":"biblia","kr":"성경","level":3,"transcription":null}
-{"es":"cerrado","kr":"닫은","level":2,"transcription":null}
-{"es":"contestar","kr":"대답하다","level":1,"transcription":null}
+{"es":"cerrado","kr":"닫힌","level":2,"transcription":null}
+{"es":"contestar","kr":"답변하다","level":1,"transcription":null}
 {"es":"cruzar","kr":"십자가","level":2,"transcription":null}
 {"es":"cuenca","kr":"분지","level":3,"transcription":null}
-{"es":"dudar","kr":"녀석","level":3,"transcription":null}
+{"es":"dudar","kr":"여론가","level":3,"transcription":null}
 {"es":"extremadamente","kr":"극도로","level":3,"transcription":null}
 {"es":"felicidades","kr":"축하해요","level":2,"transcription":null}
 {"es":"fruto","kr":"과일","level":3,"transcription":null}
@@ -1888,12 +1888,12 @@
 {"es":"pelear","kr":"싸움","level":3,"transcription":null}
 {"es":"policial","kr":"경찰","level":3,"transcription":null}
 {"es":"rabia","kr":"격노","level":3,"transcription":null}
-{"es":"rayo","kr":"레이","level":3,"transcription":null}
+{"es":"rayo","kr":"번개","level":3,"transcription":null}
 {"es":"semilla","kr":"씨앗","level":3,"transcription":null}
 {"es":"tour","kr":"관광","level":3,"transcription":null}
 {"es":"utilizado","kr":"사용된","level":3,"transcription":null}
-{"es":"apuesta","kr":"내기","level":3,"transcription":null}
-{"es":"avanzar","kr":"전진","level":3,"transcription":null}
+{"es":"apuesta","kr":"입장","level":3,"transcription":null}
+{"es":"avanzar","kr":"진전","level":3,"transcription":null}
 {"es":"añadir","kr":"추가하다","level":3,"transcription":null}
 {"es":"carnaval","kr":"사육제","level":2,"transcription":null}
 {"es":"cd","kr":"cd","level":2,"transcription":null}
@@ -1919,20 +1919,20 @@
 {"es":"comentar","kr":"논평","level":3,"transcription":null}
 {"es":"creencia","kr":"믿음","level":3,"transcription":null}
 {"es":"critica","kr":"비판","level":3,"transcription":null}
-{"es":"criticar","kr":"흠잡다","level":3,"transcription":null}
+{"es":"criticar","kr":"비판하다","level":3,"transcription":null}
 {"es":"cuarenta","kr":"사십","level":1,"transcription":null}
 {"es":"cubano","kr":"쿠바 사람","level":2,"transcription":null}
 {"es":"cubierto","kr":"덮여","level":3,"transcription":null}
-{"es":"depósito","kr":"보증금","level":3,"transcription":null}
+{"es":"depósito","kr":"보관금","level":3,"transcription":null}
 {"es":"embarazado","kr":"임신한","level":3,"transcription":null}
 {"es":"medicamento","kr":"약","level":3,"transcription":null}
 {"es":"monumento","kr":"기념물","level":3,"transcription":null}
-{"es":"olímpico","kr":"국제 올림픽 경기 대회","level":3,"transcription":null}
+{"es":"olímpico","kr":"국제 올림픽 대회","level":3,"transcription":null}
 {"es":"pizza","kr":"피자","level":1,"transcription":null}
 {"es":"plástico","kr":"플라스틱","level":2,"transcription":null}
-{"es":"portugués","kr":"포르투갈 인","level":2,"transcription":null}
+{"es":"portugués","kr":"포르투갈어","level":2,"transcription":null}
 {"es":"reporte","kr":"보고서","level":3,"transcription":null}
-{"es":"sello","kr":"밀봉하다","level":3,"transcription":null}
+{"es":"sello","kr":"밀봉","level":3,"transcription":null}
 {"es":"semejante","kr":"그런","level":3,"transcription":null}
 {"es":"solicitar","kr":"요구","level":3,"transcription":null}
 {"es":"solucionar","kr":"해결하다","level":3,"transcription":null}
@@ -1946,19 +1946,19 @@
 {"es":"cobrar","kr":"요금","level":3,"transcription":null}
 {"es":"comedia","kr":"코메디","level":2,"transcription":null}
 {"es":"competir","kr":"경쟁하다","level":3,"transcription":null}
-{"es":"completar","kr":"완벽한","level":2,"transcription":null}
+{"es":"completar","kr":"완성하다","level":2,"transcription":null}
 {"es":"contribuir","kr":"기여하다","level":3,"transcription":null}
 {"es":"dimensión","kr":"차원","level":3,"transcription":null}
 {"es":"encontrarse","kr":"만나다","level":1,"transcription":null}
 {"es":"fiebre","kr":"발열","level":2,"transcription":null}
-{"es":"griego","kr":"그리스 사람","level":3,"transcription":null}
+{"es":"griego","kr":"그리스어","level":3,"transcription":null}
 {"es":"hueso","kr":"뼈","level":2,"transcription":null}
 {"es":"international","kr":"국제적인","level":3,"transcription":null}
 {"es":"ladrón","kr":"도둑","level":3,"transcription":null}
-{"es":"miseria","kr":"불행","level":3,"transcription":null}
+{"es":"miseria","kr":"불행한 상태","level":3,"transcription":null}
 {"es":"pagina","kr":"페이지","level":1,"transcription":null}
 {"es":"pantalón","kr":"바지","level":1,"transcription":null}
-{"es":"peruano","kr":"페루의","level":2,"transcription":null}
+{"es":"peruano","kr":"페루인","level":2,"transcription":null}
 {"es":"razonable","kr":"합리적인","level":3,"transcription":null}
 {"es":"respirar","kr":"숨 쉬다","level":2,"transcription":null}
 {"es":"sacrificio","kr":"희생","level":3,"transcription":null}
@@ -1966,7 +1966,7 @@
 {"es":"separado","kr":"분리된","level":3,"transcription":null}
 {"es":"tenis","kr":"테니스","level":2,"transcription":null}
 {"es":"terapia","kr":"요법","level":3,"transcription":null}
-{"es":"tranquilidad","kr":"평온","level":3,"transcription":null}
+{"es":"tranquilidad","kr":"평온한 상태","level":3,"transcription":null}
 {"es":"videojuego","kr":"비디오 게임","level":2,"transcription":null}
 {"es":"vidrio","kr":"유리","level":2,"transcription":null}
 {"es":"aprobar","kr":"승인하다","level":3,"transcription":null}
@@ -1975,39 +1975,39 @@
 {"es":"bus","kr":"버스","level":1,"transcription":null}
 {"es":"ciego","kr":"눈이 먼","level":3,"transcription":null}
 {"es":"confirmar","kr":"확인하다","level":3,"transcription":null}
-{"es":"confusión","kr":"착란","level":3,"transcription":null}
+{"es":"confusión","kr":"혼란","level":3,"transcription":null}
 {"es":"costado","kr":"옆","level":3,"transcription":null}
 {"es":"cómodo","kr":"편안한","level":2,"transcription":null}
 {"es":"danza","kr":"춤","level":3,"transcription":null}
 {"es":"diccionario","kr":"사전","level":1,"transcription":null}
-{"es":"dispositivo","kr":"장치","level":3,"transcription":null}
+{"es":"dispositivo","kr":"장비","level":3,"transcription":null}
 {"es":"estándar","kr":"기준","level":3,"transcription":null}
-{"es":"fantasía","kr":"팬시한","level":3,"transcription":null}
-{"es":"frecuente","kr":"잦은","level":3,"transcription":null}
+{"es":"fantasía","kr":"환상","level":3,"transcription":null}
+{"es":"frecuente","kr":"빈번한","level":3,"transcription":null}
 {"es":"fresco","kr":"시원한","level":2,"transcription":null}
 {"es":"lana","kr":"양모","level":2,"transcription":null}
 {"es":"madrugada","kr":"이른 아침","level":3,"transcription":null}
-{"es":"marcar","kr":"진드기","level":2,"transcription":null}
-{"es":"misa","kr":"대량의","level":3,"transcription":null}
-{"es":"nervioso","kr":"심하게 중독된","level":2,"transcription":null}
+{"es":"marcar","kr":"표시하다","level":2,"transcription":null}
+{"es":"misa","kr":"성사","level":3,"transcription":null}
+{"es":"nervioso","kr":"신경질","level":2,"transcription":null}
 {"es":"ningun","kr":"없음","level":2,"transcription":null}
 {"es":"pata","kr":"다리","level":2,"transcription":null}
 {"es":"pesado","kr":"무거운","level":2,"transcription":null}
 {"es":"pescado","kr":"물고기","level":1,"transcription":null}
 {"es":"popularidad","kr":"인기","level":3,"transcription":null}
-{"es":"pozo","kr":"잘","level":3,"transcription":null}
+{"es":"pozo","kr":"샘","level":3,"transcription":null}
 {"es":"preparado","kr":"준비된","level":2,"transcription":null}
 {"es":"registrar","kr":"등록하다","level":3,"transcription":null}
 {"es":"remedio","kr":"치료","level":3,"transcription":null}
 {"es":"rumor","kr":"소문","level":3,"transcription":null}
-{"es":"sinceramente","kr":"감사합니다","level":3,"transcription":null}
+{"es":"sinceramente","kr":"진실하게","level":3,"transcription":null}
 {"es":"apuntar","kr":"목표","level":3,"transcription":null}
 {"es":"asistente","kr":"어시스턴트","level":2,"transcription":null}
 {"es":"casco","kr":"헬멧","level":3,"transcription":null}
 {"es":"cocinar","kr":"요리하다","level":1,"transcription":null}
 {"es":"contaminación","kr":"오염","level":3,"transcription":null}
-{"es":"descansar","kr":"나머지","level":2,"transcription":null}
-{"es":"descargar","kr":"해고하다","level":3,"transcription":null}
+{"es":"descansar","kr":"휴식","level":2,"transcription":null}
+{"es":"descargar","kr":"解雇하다","level":3,"transcription":null}
 {"es":"grabación","kr":"녹음","level":3,"transcription":null}
 {"es":"grasa","kr":"지방","level":3,"transcription":null}
 {"es":"gritar","kr":"외침","level":2,"transcription":null}
@@ -2021,7 +2021,7 @@
 {"es":"practicar","kr":"관행","level":1,"transcription":null}
 {"es":"recomendación","kr":"추천","level":3,"transcription":null}
 {"es":"rutina","kr":"루틴","level":3,"transcription":null}
-{"es":"soportar","kr":"곰","level":3,"transcription":null}
+{"es":"soportar","kr":"견디다","level":3,"transcription":null}
 {"es":"aclarar","kr":"밝히다","level":3,"transcription":null}
 {"es":"adoptar","kr":"입양하다","level":3,"transcription":null}
 {"es":"alarma","kr":"경보","level":2,"transcription":null}
@@ -2039,12 +2039,12 @@
 {"es":"fruta","kr":"과일","level":1,"transcription":null}
 {"es":"garganta","kr":"목","level":2,"transcription":null}
 {"es":"gráfica","kr":"그래프","level":3,"transcription":null}
-{"es":"helado","kr":"언","level":1,"transcription":null}
-{"es":"informática","kr":"컴퓨팅","level":3,"transcription":null}
+{"es":"helado","kr":"얼음","level":1,"transcription":null}
+{"es":"informática","kr":"컴퓨터","level":3,"transcription":null}
 {"es":"lobo","kr":"늑대","level":2,"transcription":null}
 {"es":"lógico","kr":"논리적","level":3,"transcription":null}
 {"es":"margarita","kr":"데이지","level":2,"transcription":null}
-{"es":"mensual","kr":"월간 간행물","level":3,"transcription":null}
+{"es":"mensual","kr":"월간","level":3,"transcription":null}
 {"es":"mueble","kr":"가구","level":2,"transcription":null}
 {"es":"oficio","kr":"직업","level":3,"transcription":null}
 {"es":"parado","kr":"변화 없는","level":3,"transcription":null}
@@ -2056,7 +2056,7 @@
 {"es":"salvaje","kr":"야생의","level":3,"transcription":null}
 {"es":"sexy","kr":"섹시한","level":3,"transcription":null}
 {"es":"sugerir","kr":"제안하다","level":3,"transcription":null}
-{"es":"tela","kr":"구조","level":2,"transcription":null}
+{"es":"tela","kr":"망치","level":2,"transcription":null}
 {"es":"visible","kr":"보이는","level":3,"transcription":null}
 {"es":"apreciar","kr":"고마워하다","level":3,"transcription":null}
 {"es":"atractivo","kr":"매력적인","level":3,"transcription":null}
@@ -2068,7 +2068,7 @@
 {"es":"cometer","kr":"저지르다","level":3,"transcription":null}
 {"es":"elevado","kr":"높은","level":3,"transcription":null}
 {"es":"enfrente","kr":"반대","level":2,"transcription":null}
-{"es":"estimado","kr":"자기","level":3,"transcription":null}
+{"es":"estimado","kr":"존댓말","level":3,"transcription":null}
 {"es":"estrés","kr":"스트레스","level":3,"transcription":null}
 {"es":"gimnasio","kr":"체육관","level":2,"transcription":null}
 {"es":"hectárea","kr":"헥타르","level":3,"transcription":null}
@@ -2076,57 +2076,57 @@
 {"es":"milla","kr":"마일","level":3,"transcription":null}
 {"es":"mini","kr":"미니","level":2,"transcription":null}
 {"es":"nube","kr":"구름","level":2,"transcription":null}
-{"es":"ocultar","kr":"위장하다","level":3,"transcription":null}
+{"es":"ocultar","kr":"숨기기","level":3,"transcription":null}
 {"es":"pasaje","kr":"통로","level":3,"transcription":null}
 {"es":"preocupado","kr":"관심 있는","level":2,"transcription":null}
 {"es":"publicado","kr":"출판됨","level":3,"transcription":null}
 {"es":"semestre","kr":"학기","level":3,"transcription":null}
-{"es":"servidor","kr":"섬기는 사람","level":3,"transcription":null}
+{"es":"servidor","kr":"서버","level":3,"transcription":null}
 {"es":"terminal","kr":"단말기","level":3,"transcription":null}
 {"es":"terremoto","kr":"지진","level":3,"transcription":null}
-{"es":"trampa","kr":"덫","level":3,"transcription":null}
-{"es":"triple","kr":"삼루타","level":3,"transcription":null}
+{"es":"trampa","kr":"그물","level":3,"transcription":null}
+{"es":"triple","kr":"삼중","level":3,"transcription":null}
 {"es":"unirse","kr":"가입하다","level":3,"transcription":null}
 {"es":"vela","kr":"양초","level":2,"transcription":null}
-{"es":"absurdo","kr":"터무니없는","level":3,"transcription":null}
-{"es":"cartera","kr":"서류가방","level":2,"transcription":null}
+{"es":"absurdo","kr":"무의미한","level":3,"transcription":null}
+{"es":"cartera","kr":"가방","level":2,"transcription":null}
 {"es":"catálogo","kr":"목록","level":3,"transcription":null}
 {"es":"cementerio","kr":"묘지","level":3,"transcription":null}
-{"es":"convencido","kr":"확신하다","level":3,"transcription":null}
+{"es":"convencido","kr":"확신한","level":3,"transcription":null}
 {"es":"crema","kr":"크림","level":2,"transcription":null}
 {"es":"entusiasmo","kr":"열광","level":3,"transcription":null}
 {"es":"estúpido","kr":"바보","level":3,"transcription":null}
 {"es":"etiqueta","kr":"상표","level":3,"transcription":null}
 {"es":"fa","kr":"파","level":3,"transcription":null}
-{"es":"filipina","kr":"필리핀 사람","level":3,"transcription":null}
+{"es":"filipina","kr":"필리핀인","level":3,"transcription":null}
 {"es":"geografía","kr":"지리학","level":3,"transcription":null}
-{"es":"golfo","kr":"만","level":3,"transcription":null}
+{"es":"golfo","kr":"해안가","level":3,"transcription":null}
 {"es":"ingles","kr":"영어","level":2,"transcription":null}
-{"es":"intenso","kr":"극심한","level":3,"transcription":null}
-{"es":"jamas","kr":"절대","level":3,"transcription":null}
+{"es":"intenso","kr":"강렬한","level":3,"transcription":null}
+{"es":"jamas","kr":"절대로","level":3,"transcription":null}
 {"es":"líquido","kr":"액체","level":3,"transcription":null}
 {"es":"mantenerse","kr":"유지하다","level":3,"transcription":null}
 {"es":"medir","kr":"측정하다","level":3,"transcription":null}
-{"es":"monto","kr":"양","level":3,"transcription":null}
+{"es":"monto","kr":"금액","level":3,"transcription":null}
 {"es":"pasaporte","kr":"여권","level":2,"transcription":null}
-{"es":"pánico","kr":"공황","level":3,"transcription":null}
-{"es":"romano","kr":"로마 인","level":3,"transcription":null}
+{"es":"pánico","kr":"공포","level":3,"transcription":null}
+{"es":"romano","kr":"로마인","level":3,"transcription":null}
 {"es":"saludable","kr":"건강한","level":2,"transcription":null}
 {"es":"aburrido","kr":"지루한","level":1,"transcription":null}
-{"es":"ama","kr":"사랑한다","level":3,"transcription":null}
-{"es":"bebida","kr":"마시다","level":1,"transcription":null}
-{"es":"campus","kr":"교정","level":3,"transcription":null}
+{"es":"ama","kr":"사랑하는","level":3,"transcription":null}
+{"es":"bebida","kr":"음료","level":1,"transcription":null}
+{"es":"campus","kr":"학교","level":3,"transcription":null}
 {"es":"contratar","kr":"고용하다","level":3,"transcription":null}
-{"es":"cuerda","kr":"로프","level":2,"transcription":null}
+{"es":"cuerda","kr":"줄","level":2,"transcription":null}
 {"es":"durar","kr":"기간","level":2,"transcription":null}
 {"es":"entretenimiento","kr":"오락","level":3,"transcription":null}
 {"es":"free","kr":"무료","level":3,"transcription":null}
-{"es":"gastar","kr":"경비","level":2,"transcription":null}
+{"es":"gastar","kr":"지출하다","level":2,"transcription":null}
 {"es":"horno","kr":"오븐","level":2,"transcription":null}
 {"es":"horror","kr":"공포","level":3,"transcription":null}
 {"es":"invitar","kr":"초대하다","level":2,"transcription":null}
 {"es":"libra","kr":"파운드","level":3,"transcription":null}
-{"es":"maravilla","kr":"궁금하다","level":3,"transcription":null}
+{"es":"maravilla","kr":"신비로운","level":3,"transcription":null}
 {"es":"miel","kr":"꿀","level":2,"transcription":null}
 {"es":"naturalmente","kr":"당연히","level":3,"transcription":null}
 {"es":"notar","kr":"알아채다","level":3,"transcription":null}
@@ -2136,7 +2136,7 @@
 {"es":"tarifa","kr":"요금","level":2,"transcription":null}
 {"es":"trama","kr":"구성","level":3,"transcription":null}
 {"es":"usado","kr":"사용된","level":2,"transcription":null}
-{"es":"voluntario","kr":"자원 봉사자","level":3,"transcription":null}
+{"es":"voluntario","kr":"자원봉사자","level":3,"transcription":null}
 {"es":"almuerzo","kr":"점심","level":1,"transcription":null}
 {"es":"balance","kr":"균형","level":3,"transcription":null}
 {"es":"beca","kr":"장학금","level":3,"transcription":null}
@@ -2148,7 +2148,7 @@
 {"es":"coro","kr":"성가대","level":2,"transcription":null}
 {"es":"decena","kr":"열","level":3,"transcription":null}
 {"es":"dificil","kr":"어려운","level":1,"transcription":null}
-{"es":"espectacular","kr":"장관의","level":3,"transcription":null}
+{"es":"espectacular","kr":"장관들의","level":3,"transcription":null}
 {"es":"humedad","kr":"습기","level":3,"transcription":null}
 {"es":"ida","kr":"편도","level":2,"transcription":null}
 {"es":"lesión","kr":"부상","level":3,"transcription":null}
@@ -2189,7 +2189,7 @@
 {"es":"artificial","kr":"인공의","level":3,"transcription":null}
 {"es":"bala","kr":"총알","level":3,"transcription":null}
 {"es":"barba","kr":"수염","level":2,"transcription":null}
-{"es":"colocar","kr":"장소","level":2,"transcription":null}
+{"es":"colocar","kr":"위치","level":2,"transcription":null}
 {"es":"consejero","kr":"참사관","level":3,"transcription":null}
 {"es":"convencer","kr":"확신시키다","level":3,"transcription":null}
 {"es":"correctamente","kr":"바르게","level":2,"transcription":null}
@@ -2287,9 +2287,9 @@
 {"es":"finalizar","kr":"마치다","level":3,"transcription":null}
 {"es":"ignorar","kr":"무시하다","level":3,"transcription":null}
 {"es":"interpretar","kr":"해석하다","level":3,"transcription":null}
-{"es":"ligero","kr":"빛","level":3,"transcription":null}
+{"es":"ligero","kr":"경량한","level":3,"transcription":null}
 {"es":"mecánica","kr":"역학","level":3,"transcription":null}
-{"es":"montar","kr":"산","level":2,"transcription":null}
+{"es":"montar","kr":"승차하다","level":2,"transcription":null}
 {"es":"muchacha","kr":"소녀","level":1,"transcription":null}
 {"es":"odiar","kr":"싫어하다","level":3,"transcription":null}
 {"es":"operar","kr":"작동하다","level":3,"transcription":null}
@@ -2306,7 +2306,7 @@
 {"es":"acento","kr":"악센트","level":3,"transcription":null}
 {"es":"apropiado","kr":"적절한","level":3,"transcription":null}
 {"es":"baby","kr":"아기","level":2,"transcription":null}
-{"es":"brindar","kr":"토스트","level":3,"transcription":null}
+{"es":"brindar","kr":"주다","level":3,"transcription":null}
 {"es":"capilla","kr":"예배당","level":3,"transcription":null}
 {"es":"cerdo","kr":"돼지","level":2,"transcription":null}
 {"es":"chat","kr":"채팅","level":3,"transcription":null}
@@ -2317,7 +2317,7 @@
 {"es":"ducha","kr":"샤워","level":2,"transcription":null}
 {"es":"experimento","kr":"실험","level":3,"transcription":null}
 {"es":"factura","kr":"청구서","level":2,"transcription":null}
-{"es":"globo","kr":"지구","level":2,"transcription":null}
+{"es":"globo","kr":"지우개","level":2,"transcription":null}
 {"es":"goma","kr":"지우개","level":2,"transcription":null}
 {"es":"incapaz","kr":"할 수 없는","level":3,"transcription":null}
 {"es":"instalar","kr":"설치하다","level":2,"transcription":null}
@@ -2339,8 +2339,8 @@
 {"es":"tabaco","kr":"담배","level":2,"transcription":null}
 {"es":"tender","kr":"추세","level":3,"transcription":null}
 {"es":"verificar","kr":"확인하다","level":3,"transcription":null}
-{"es":"vínculo","kr":"노예","level":3,"transcription":null}
-{"es":"aficionado","kr":"아마추어","level":3,"transcription":null}
+{"es":"vínculo","kr":"연결","level":3,"transcription":null}
+{"es":"aficionado","kr":"애호가","level":3,"transcription":null}
 {"es":"algodón","kr":"면","level":2,"transcription":null}
 {"es":"anciano","kr":"노인","level":2,"transcription":null}
 {"es":"arresto","kr":"체포","level":3,"transcription":null}
@@ -2356,7 +2356,7 @@
 {"es":"huracán","kr":"허리케인","level":3,"transcription":null}
 {"es":"jugada","kr":"이동하다","level":3,"transcription":null}
 {"es":"opera","kr":"오페라","level":3,"transcription":null}
-{"es":"productivo","kr":"생기게 하는","level":3,"transcription":null}
+{"es":"productivo","kr":"생산하는","level":3,"transcription":null}
 {"es":"prohibir","kr":"금지하다","level":3,"transcription":null}
 {"es":"práctico","kr":"현실적인","level":2,"transcription":null}
 {"es":"retraso","kr":"지연","level":3,"transcription":null}
@@ -2398,7 +2398,7 @@
 {"es":"casar","kr":"결혼하다","level":2,"transcription":null}
 {"es":"caña","kr":"지팡이","level":3,"transcription":null}
 {"es":"cinturón","kr":"벨트","level":2,"transcription":null}
-{"es":"consultar","kr":"찾다","level":3,"transcription":null}
+{"es":"consultar","kr":"확인하다","level":3,"transcription":null}
 {"es":"despierto","kr":"깨어 있는","level":2,"transcription":null}
 {"es":"disminuir","kr":"감소하다","level":3,"transcription":null}
 {"es":"divorcio","kr":"이혼","level":3,"transcription":null}
@@ -2472,11 +2472,11 @@
 {"es":"junior","kr":"후진","level":3,"transcription":null}
 {"es":"lente","kr":"렌즈","level":3,"transcription":null}
 {"es":"mochila","kr":"배낭","level":2,"transcription":null}
-{"es":"nativo","kr":"토종의","level":3,"transcription":null}
+{"es":"nativo","kr":"토종","level":3,"transcription":null}
 {"es":"nombrar","kr":"이름","level":3,"transcription":null}
 {"es":"policia","kr":"경찰","level":2,"transcription":null}
 {"es":"reparación","kr":"수리하다","level":3,"transcription":null}
-{"es":"robot","kr":"기계 인간","level":3,"transcription":null}
+{"es":"robot","kr":"기계","level":3,"transcription":null}
 {"es":"satélite","kr":"위성","level":3,"transcription":null}
 {"es":"tio","kr":"삼촌","level":1,"transcription":null}
 {"es":"trigo","kr":"밀","level":3,"transcription":null}
@@ -2488,15 +2488,15 @@
 {"es":"coincidencia","kr":"우연의 일치","level":3,"transcription":null}
 {"es":"derivado","kr":"유도체","level":3,"transcription":null}
 {"es":"diosa","kr":"여신","level":3,"transcription":null}
-{"es":"especialidad","kr":"전문","level":3,"transcription":null}
+{"es":"especialidad","kr":"전문가","level":3,"transcription":null}
 {"es":"exponer","kr":"폭로하다","level":3,"transcription":null}
 {"es":"expuesto","kr":"노출된","level":3,"transcription":null}
 {"es":"fantástico","kr":"환상적인","level":2,"transcription":null}
-{"es":"flaco","kr":"정보","level":2,"transcription":null}
+{"es":"flaco","kr":"아름답다","level":2,"transcription":null}
 {"es":"foco","kr":"집중하다","level":3,"transcription":null}
-{"es":"gala","kr":"축제","level":3,"transcription":null}
-{"es":"historiador","kr":"역사가","level":3,"transcription":null}
-{"es":"mascota","kr":"애완 동물","level":2,"transcription":null}
+{"es":"gala","kr":"축일","level":3,"transcription":null}
+{"es":"historiador","kr":"역사학자","level":3,"transcription":null}
+{"es":"mascota","kr":"애완동물","level":2,"transcription":null}
 {"es":"parroquia","kr":"교구","level":3,"transcription":null}
 {"es":"pila","kr":"스택","level":2,"transcription":null}
 {"es":"portero","kr":"골키퍼","level":3,"transcription":null}
@@ -2584,15 +2584,15 @@
 {"es":"practica","kr":"관행","level":2,"transcription":null}
 {"es":"pájaro","kr":"새","level":1,"transcription":null}
 {"es":"rancho","kr":"농장","level":3,"transcription":null}
-{"es":"rechazar","kr":"감소","level":3,"transcription":null}
+{"es":"rechazar","kr":"거부하다","level":3,"transcription":null}
 {"es":"resistir","kr":"저항하다","level":3,"transcription":null}
-{"es":"reunirse","kr":"만나다","level":2,"transcription":null}
+{"es":"reunirse","kr":"모임에 참석하다","level":2,"transcription":null}
 {"es":"satisfecho","kr":"만족하는","level":3,"transcription":null}
 {"es":"socorro","kr":"안도","level":3,"transcription":null}
 {"es":"tropical","kr":"열렬한","level":3,"transcription":null}
 {"es":"vestir","kr":"드레스","level":2,"transcription":null}
 {"es":"alivio","kr":"안도","level":3,"transcription":null}
-{"es":"atento","kr":"친절한","level":3,"transcription":null}
+{"es":"atento","kr":"주의하는","level":3,"transcription":null}
 {"es":"cancelar","kr":"취소","level":2,"transcription":null}
 {"es":"cañón","kr":"정경","level":3,"transcription":null}
 {"es":"comedor","kr":"식당","level":2,"transcription":null}
@@ -2607,36 +2607,36 @@
 {"es":"entrenar","kr":"기차","level":2,"transcription":null}
 {"es":"especializado","kr":"전문화된","level":3,"transcription":null}
 {"es":"estacionamiento","kr":"주차장","level":2,"transcription":null}
-{"es":"fino","kr":"괜찮은","level":3,"transcription":null}
-{"es":"finca","kr":"사유지","level":3,"transcription":null}
+{"es":"fino","kr":"괜찮다","level":3,"transcription":null}
+{"es":"finca","kr":"농장","level":3,"transcription":null}
 {"es":"hierba","kr":"잔디","level":2,"transcription":null}
 {"es":"inspector","kr":"검사관","level":3,"transcription":null}
 {"es":"jazz","kr":"재즈","level":2,"transcription":null}
 {"es":"latín","kr":"라틴어","level":3,"transcription":null}
 {"es":"listado","kr":"목록","level":3,"transcription":null}
-{"es":"noroeste","kr":"북서","level":3,"transcription":null}
+{"es":"noroeste","kr":"북서쪽","level":3,"transcription":null}
 {"es":"noruega","kr":"노르웨이","level":3,"transcription":null}
-{"es":"operador","kr":"연산자","level":3,"transcription":null}
-{"es":"pasear","kr":"관광","level":1,"transcription":null}
-{"es":"plantilla","kr":"주형","level":3,"transcription":null}
+{"es":"operador","kr":"운영자","level":3,"transcription":null}
+{"es":"pasear","kr":"여행하다","level":1,"transcription":null}
+{"es":"plantilla","kr":"형식","level":3,"transcription":null}
 {"es":"regularmente","kr":"정기적으로","level":2,"transcription":null}
-{"es":"reportaje","kr":"르포르타주","level":3,"transcription":null}
-{"es":"respectar","kr":"존경","level":2,"transcription":null}
-{"es":"setenta","kr":"칠십","level":1,"transcription":null}
-{"es":"tontería","kr":"폐가 되는 행위","level":3,"transcription":null}
+{"es":"reportaje","kr":"보도","level":3,"transcription":null}
+{"es":"respectar","kr":"존경하다","level":2,"transcription":null}
+{"es":"setenta","kr":"七十","level":1,"transcription":null}
+{"es":"tontería","kr":"수공예","level":3,"transcription":null}
 {"es":"túnel","kr":"터널","level":2,"transcription":null}
 {"es":"valioso","kr":"귀중한","level":3,"transcription":null}
-{"es":"vino","kr":"왔다","level":2,"transcription":null}
+{"es":"vino","kr":"ไวน์","level":2,"transcription":null}
 {"es":"activamente","kr":"적극적으로","level":3,"transcription":null}
-{"es":"agradecido","kr":"고마워하는","level":3,"transcription":null}
+{"es":"agradecido","kr":"고마운다","level":3,"transcription":null}
 {"es":"autorizar","kr":"승인하다","level":3,"transcription":null}
-{"es":"brillo","kr":"불타는 듯한 빛깔","level":2,"transcription":null}
+{"es":"brillo","kr":"빛깔","level":2,"transcription":null}
 {"es":"canadiense","kr":"캐나다 사람","level":1,"transcription":null}
-{"es":"centenario","kr":"백간","level":3,"transcription":null}
+{"es":"centenario","kr":"백년차","level":3,"transcription":null}
 {"es":"cobarde","kr":"겁쟁이","level":3,"transcription":null}
-{"es":"cobro","kr":"수집","level":3,"transcription":null}
+{"es":"cobro","kr":"수취","level":3,"transcription":null}
 {"es":"cuadrar","kr":"정사각형","level":3,"transcription":null}
-{"es":"delegado","kr":"대리자","level":3,"transcription":null}
+{"es":"delegado","kr":"대리인","level":3,"transcription":null}
 {"es":"dj","kr":"디제이","level":3,"transcription":null}
 {"es":"dragón","kr":"용","level":2,"transcription":null}
 {"es":"editar","kr":"편집하다","level":3,"transcription":null}
@@ -2648,7 +2648,7 @@
 {"es":"lejano","kr":"멀리","level":3,"transcription":null}
 {"es":"muñeca","kr":"인형","level":2,"transcription":null}
 {"es":"máscara","kr":"마스크","level":2,"transcription":null}
-{"es":"perseguir","kr":"뒤쫓다다","level":3,"transcription":null}
+{"es":"perseguir","kr":"뒤쫓다","level":3,"transcription":null}
 {"es":"postre","kr":"디저트","level":1,"transcription":null}
 {"es":"potable","kr":"음료수","level":3,"transcription":null}
 {"es":"rescatar","kr":"구조하다","level":3,"transcription":null}
@@ -2667,20 +2667,20 @@
 {"es":"checo","kr":"체코 사람","level":3,"transcription":null}
 {"es":"colorado","kr":"콜로라도","level":3,"transcription":null}
 {"es":"cordero","kr":"양고기","level":3,"transcription":null}
-{"es":"curar","kr":"치유법","level":2,"transcription":null}
+{"es":"curar","kr":"치유","level":2,"transcription":null}
 {"es":"dado","kr":"주어진","level":2,"transcription":null}
-{"es":"dependiente","kr":"매달린","level":3,"transcription":null}
+{"es":"dependiente","kr":"매달리는","level":3,"transcription":null}
 {"es":"encargar","kr":"주문하다","level":3,"transcription":null}
 {"es":"enterar","kr":"알아내다","level":3,"transcription":null}
 {"es":"farmacia","kr":"약국","level":1,"transcription":null}
-{"es":"frenar","kr":"연석","level":3,"transcription":null}
+{"es":"frenar","kr":"제동","level":3,"transcription":null}
 {"es":"ingrediente","kr":"재료","level":3,"transcription":null}
 {"es":"jersey","kr":"저지","level":3,"transcription":null}
 {"es":"leve","kr":"경증","level":3,"transcription":null}
 {"es":"magnífico","kr":"웅장한","level":3,"transcription":null}
-{"es":"marchar","kr":"3월","level":2,"transcription":null}
+{"es":"marchar","kr":"가다","level":2,"transcription":null}
 {"es":"marino","kr":"선박","level":3,"transcription":null}
-{"es":"molestia","kr":"불편","level":3,"transcription":null}
+{"es":"molestia","kr":"불편함","level":3,"transcription":null}
 {"es":"monitor","kr":"감시 장치","level":3,"transcription":null}
 {"es":"músculo","kr":"근","level":3,"transcription":null}
 {"es":"opinion","kr":"의견","level":2,"transcription":null}
@@ -2761,7 +2761,7 @@
 {"es":"proteína","kr":"단백질","level":3,"transcription":null}
 {"es":"reparar","kr":"고치다","level":3,"transcription":null}
 {"es":"serpiente","kr":"뱀","level":2,"transcription":null}
-{"es":"sinónimo","kr":"동의어","level":3,"transcription":null}
+{"es":"sinónimo","kr":"동사","level":3,"transcription":null}
 {"es":"sofá","kr":"침상","level":1,"transcription":null}
 {"es":"vacuna","kr":"백신","level":3,"transcription":null}
 {"es":"verso","kr":"절","level":3,"transcription":null}
@@ -2773,12 +2773,12 @@
 {"es":"automático","kr":"오토매틱","level":3,"transcription":null}
 {"es":"boxeo","kr":"권투","level":3,"transcription":null}
 {"es":"béisbol","kr":"야구","level":2,"transcription":null}
-{"es":"calcular","kr":"믿다","level":3,"transcription":null}
-{"es":"comodidad","kr":"편안","level":3,"transcription":null}
+{"es":"calcular","kr":"계산하다","level":3,"transcription":null}
+{"es":"comodidad","kr":"편안함","level":3,"transcription":null}
 {"es":"conducción","kr":"운전","level":3,"transcription":null}
 {"es":"confirmación","kr":"확인","level":3,"transcription":null}
 {"es":"estudiantil","kr":"학생","level":3,"transcription":null}
-{"es":"magdalena","kr":"컵케이크","level":3,"transcription":null}
+{"es":"magdalena","kr":"마그dale나","level":3,"transcription":null}
 {"es":"niñez","kr":"어린 시절","level":3,"transcription":null}
 {"es":"notificación","kr":"공고","level":3,"transcription":null}
 {"es":"pato","kr":"오리","level":2,"transcription":null}
@@ -2789,21 +2789,21 @@
 {"es":"verbo","kr":"동사","level":2,"transcription":null}
 {"es":"volcán","kr":"화산","level":2,"transcription":null}
 {"es":"activista","kr":"활동가","level":3,"transcription":null}
-{"es":"adelantar","kr":"통과하다","level":3,"transcription":null}
+{"es":"adelantar","kr":"앞으로 나아가다","level":3,"transcription":null}
 {"es":"administrar","kr":"관리하다","level":3,"transcription":null}
-{"es":"campana","kr":"운동","level":2,"transcription":null}
+{"es":"campana","kr":"소각기","level":2,"transcription":null}
 {"es":"comisaría","kr":"경찰서","level":3,"transcription":null}
-{"es":"educar","kr":"기르다","level":2,"transcription":null}
+{"es":"educar","kr":"교육하다","level":2,"transcription":null}
 {"es":"emprender","kr":"맡다","level":3,"transcription":null}
-{"es":"enojar","kr":"화","level":2,"transcription":null}
-{"es":"fijar","kr":"세트","level":3,"transcription":null}
+{"es":"enojar","kr":"불쾌하게 하다","level":2,"transcription":null}
+{"es":"fijar","kr":"정리하다","level":3,"transcription":null}
 {"es":"futbolista","kr":"축구선수","level":2,"transcription":null}
 {"es":"gallego","kr":"갈리시아어","level":3,"transcription":null}
 {"es":"gallina","kr":"암탉","level":1,"transcription":null}
 {"es":"incómodo","kr":"불편한","level":3,"transcription":null}
 {"es":"informacion","kr":"정보","level":1,"transcription":null}
 {"es":"informativo","kr":"유익한","level":3,"transcription":null}
-{"es":"israelí","kr":"이스라엘 인","level":3,"transcription":null}
+{"es":"israelí","kr":"이스라엘인","level":3,"transcription":null}
 {"es":"maniobra","kr":"운동","level":3,"transcription":null}
 {"es":"marea","kr":"조류","level":3,"transcription":null}
 {"es":"marrón","kr":"갈색","level":1,"transcription":null}
@@ -2847,8 +2847,8 @@
 {"es":"abrigo","kr":"코트","level":1,"transcription":null}
 {"es":"adolescencia","kr":"청년기","level":3,"transcription":null}
 {"es":"ajedrez","kr":"체스","level":3,"transcription":null}
-{"es":"aplauso","kr":"박수 갈채","level":3,"transcription":null}
-{"es":"apostar","kr":"내기","level":3,"transcription":null}
+{"es":"aplauso","kr":"박수","level":3,"transcription":null}
+{"es":"apostar","kr":" apostar ","level":3,"transcription":null}
 {"es":"bancario","kr":"은행업","level":3,"transcription":null}
 {"es":"callar","kr":"입 다물어","level":2,"transcription":null}
 {"es":"cazador","kr":"사냥꾼","level":3,"transcription":null}
@@ -2860,7 +2860,7 @@
 {"es":"cuadra","kr":"차단하다","level":2,"transcription":null}
 {"es":"debatir","kr":"논의하다","level":3,"transcription":null}
 {"es":"ecuatoriano","kr":"에콰도르 사람","level":3,"transcription":null}
-{"es":"encontrado","kr":"설립하다","level":3,"transcription":null}
+{"es":"encontrado","kr":"찾다","level":3,"transcription":null}
 {"es":"favorecer","kr":"호의","level":3,"transcription":null}
 {"es":"ignorante","kr":"무식한","level":3,"transcription":null}
 {"es":"insultar","kr":"모욕","level":3,"transcription":null}
@@ -2868,7 +2868,7 @@
 {"es":"paloma","kr":"비둘기","level":2,"transcription":null}
 {"es":"pulso","kr":"맥박","level":3,"transcription":null}
 {"es":"seda","kr":"명주","level":3,"transcription":null}
-{"es":"soltero","kr":"하나의","level":2,"transcription":null}
+{"es":"soltero","kr":"혼자 있는 사람","level":2,"transcription":null}
 {"es":"spam","kr":"스팸","level":3,"transcription":null}
 {"es":"sudeste","kr":"남동","level":3,"transcription":null}
 {"es":"temporalmente","kr":"일시적으로","level":3,"transcription":null}
@@ -2956,7 +2956,7 @@
 {"es":"forzado","kr":"강요된","level":3,"transcription":null}
 {"es":"freno","kr":"브레이크","level":2,"transcription":null}
 {"es":"incorporar","kr":"포함하다","level":3,"transcription":null}
-{"es":"navegar","kr":"먹다","level":2,"transcription":null}
+{"es":"navegar","kr":"가다","level":2,"transcription":null}
 {"es":"pabellón","kr":"누각","level":3,"transcription":null}
 {"es":"pausa","kr":"정지시키다","level":2,"transcription":null}
 {"es":"perfume","kr":"향수","level":2,"transcription":null}
@@ -2969,14 +2969,14 @@
 {"es":"redondo","kr":"둥근","level":2,"transcription":null}
 {"es":"relleno","kr":"채워진 것","level":3,"transcription":null}
 {"es":"sendero","kr":"길","level":3,"transcription":null}
-{"es":"soltar","kr":"떨어지다","level":3,"transcription":null}
+{"es":"soltar","kr":"떨어뜨리다","level":3,"transcription":null}
 {"es":"suspender","kr":"유예하다","level":3,"transcription":null}
-{"es":"telefono","kr":"핸드폰","level":1,"transcription":null}
+{"es":"telefono","kr":"전화기","level":1,"transcription":null}
 {"es":"trozo","kr":"조각","level":3,"transcription":null}
 {"es":"valenciano","kr":"발렌시아","level":3,"transcription":null}
 {"es":"vigilar","kr":"보다","level":3,"transcription":null}
 {"es":"adonde","kr":"어디로","level":3,"transcription":null}
-{"es":"amado","kr":"인기 많은","level":3,"transcription":null}
+{"es":"amado","kr":"사랑하는","level":3,"transcription":null}
 {"es":"apetecer","kr":"갈망하다","level":3,"transcription":null}
 {"es":"ausente","kr":"결석한","level":3,"transcription":null}
 {"es":"cajón","kr":"서랍","level":2,"transcription":null}
@@ -2994,7 +2994,7 @@
 {"es":"look","kr":"바라보다","level":3,"transcription":null}
 {"es":"medianoche","kr":"자정","level":2,"transcription":null}
 {"es":"mercurio","kr":"수은","level":3,"transcription":null}
-{"es":"molino","kr":"풍차 비슷한 것","level":3,"transcription":null}
+{"es":"molino","kr":"풍차","level":3,"transcription":null}
 {"es":"muelle","kr":"독","level":3,"transcription":null}
 {"es":"ortografía","kr":"철자","level":3,"transcription":null}
 {"es":"prenda","kr":"외피","level":2,"transcription":null}
@@ -3036,7 +3036,7 @@
 {"es":"vago","kr":"게으른","level":3,"transcription":null}
 {"es":"variante","kr":"변종","level":3,"transcription":null}
 {"es":"vocabulario","kr":"어휘","level":2,"transcription":null}
-{"es":"accesorio","kr":"종범","level":3,"transcription":null}
+{"es":"accesorio","kr":"장식물","level":3,"transcription":null}
 {"es":"acondicionado","kr":"조절된","level":3,"transcription":null}
 {"es":"armario","kr":"찬장","level":2,"transcription":null}
 {"es":"ascensor","kr":"엘리베이터","level":2,"transcription":null}
@@ -3060,23 +3060,23 @@
 {"es":"lote","kr":"일괄","level":3,"transcription":null}
 {"es":"madero","kr":"통나무","level":3,"transcription":null}
 {"es":"mango","kr":"망고","level":2,"transcription":null}
-{"es":"moderado","kr":"보통의","level":3,"transcription":null}
+{"es":"moderado","kr":"보통한","level":3,"transcription":null}
 {"es":"neutral","kr":"중립적","level":3,"transcription":null}
-{"es":"ofender","kr":"긁다","level":3,"transcription":null}
+{"es":"ofender","kr":"죄를 범다","level":3,"transcription":null}
 {"es":"pescador","kr":"어부","level":2,"transcription":null}
-{"es":"puñado","kr":"줌","level":3,"transcription":null}
+{"es":"puñado","kr":"손질","level":3,"transcription":null}
 {"es":"record","kr":"기록","level":3,"transcription":null}
 {"es":"regalar","kr":"선물을 주다","level":2,"transcription":null}
-{"es":"saca","kr":"테이크아웃","level":3,"transcription":null}
+{"es":"saca","kr":"내려다","level":3,"transcription":null}
 {"es":"saludar","kr":"환영하다","level":1,"transcription":null}
-{"es":"sinceridad","kr":"성실","level":3,"transcription":null}
+{"es":"sinceridad","kr":"성실함","level":3,"transcription":null}
 {"es":"tango","kr":"탱고","level":2,"transcription":null}
 {"es":"trago","kr":"마시다","level":3,"transcription":null}
 {"es":"vegetación","kr":"초목","level":3,"transcription":null}
 {"es":"vendido","kr":"판매된","level":3,"transcription":null}
-{"es":"visibilidad","kr":"시계","level":3,"transcription":null}
+{"es":"visibilidad","kr":"시각적 가능성","level":3,"transcription":null}
 {"es":"vocal","kr":"보컬","level":3,"transcription":null}
-{"es":"andaluz","kr":"안달루시아","level":3,"transcription":null}
+{"es":"andaluz","kr":"아들루시아","level":3,"transcription":null}
 {"es":"apunte","kr":"메모","level":3,"transcription":null}
 {"es":"asado","kr":"구운","level":2,"transcription":null}
 {"es":"atrapado","kr":"갇힌","level":3,"transcription":null}
@@ -3208,30 +3208,30 @@
 {"es":"siembra","kr":"파종","level":3,"transcription":null}
 {"es":"sumado","kr":"추가됨","level":3,"transcription":null}
 {"es":"terraza","kr":"테라스","level":2,"transcription":null}
-{"es":"timbre","kr":"반지","level":2,"transcription":null}
+{"es":"timbre","kr":"타이밍","level":2,"transcription":null}
 {"es":"toalla","kr":"수건","level":1,"transcription":null}
 {"es":"trágico","kr":"비참한","level":3,"transcription":null}
 {"es":"verguenza","kr":"창피","level":3,"transcription":null}
-{"es":"activar","kr":"활성화하다","level":3,"transcription":null}
-{"es":"aerolínea","kr":"공기 호스","level":3,"transcription":null}
-{"es":"bicho","kr":"벌레","level":3,"transcription":null}
-{"es":"cheque","kr":"확인하다","level":3,"transcription":null}
-{"es":"clavo","kr":"못","level":2,"transcription":null}
+{"es":"activar","kr":"활성화","level":3,"transcription":null}
+{"es":"aerolínea","kr":"항공사","level":3,"transcription":null}
+{"es":"bicho","kr":"동물","level":3,"transcription":null}
+{"es":"cheque","kr":"지갑","level":3,"transcription":null}
+{"es":"clavo","kr":"고리","level":2,"transcription":null}
 {"es":"compositor","kr":"작곡가","level":3,"transcription":null}
-{"es":"comprendido","kr":"이해했다","level":3,"transcription":null}
+{"es":"comprendido","kr":"이해한","level":3,"transcription":null}
 {"es":"cuaderno","kr":"공책","level":1,"transcription":null}
-{"es":"cuerno","kr":"뿔","level":3,"transcription":null}
+{"es":"cuerno","kr":"뿔새","level":3,"transcription":null}
 {"es":"cálido","kr":"따뜻한","level":3,"transcription":null}
 {"es":"decepcionado","kr":"속상한","level":3,"transcription":null}
 {"es":"dragon","kr":"용","level":3,"transcription":null}
-{"es":"emocionado","kr":"흥분한","level":2,"transcription":null}
+{"es":"emocionado","kr":"흥분된","level":2,"transcription":null}
 {"es":"encabezado","kr":"헤더","level":3,"transcription":null}
 {"es":"enojado","kr":"화난","level":2,"transcription":null}
 {"es":"enviado","kr":"전송된","level":3,"transcription":null}
 {"es":"fallado","kr":"실패한","level":3,"transcription":null}
 {"es":"felicitar","kr":"축하하다","level":2,"transcription":null}
 {"es":"fingir","kr":"~인 척하다","level":3,"transcription":null}
-{"es":"forzar","kr":"힘","level":3,"transcription":null}
+{"es":"forzar","kr":"힘내다","level":3,"transcription":null}
 {"es":"fracasado","kr":"실패한","level":3,"transcription":null}
 {"es":"frito","kr":"볶은 것","level":2,"transcription":null}
 {"es":"gramática","kr":"문법","level":2,"transcription":null}
@@ -3270,7 +3270,7 @@
 {"es":"puño","kr":"주먹","level":3,"transcription":null}
 {"es":"restaurar","kr":"복원하다","level":3,"transcription":null}
 {"es":"roble","kr":"참나무","level":3,"transcription":null}
-{"es":"siesta","kr":"스냅","level":2,"transcription":null}
+{"es":"siesta","kr":"잠시","level":2,"transcription":null}
 {"es":"sillón","kr":"안락의자","level":2,"transcription":null}
 {"es":"submarino","kr":"잠수함","level":3,"transcription":null}
 {"es":"sujetar","kr":"잡고 있다","level":3,"transcription":null}
@@ -3328,7 +3328,7 @@
 {"es":"clasificar","kr":"나누다","level":3,"transcription":null}
 {"es":"comunión","kr":"친교","level":3,"transcription":null}
 {"es":"césped","kr":"잔디","level":2,"transcription":null}
-{"es":"cómico","kr":"만화 잡지","level":3,"transcription":null}
+{"es":"cómico","kr":"만화","level":3,"transcription":null}
 {"es":"decirse","kr":"말하다","level":3,"transcription":null}
 {"es":"desayunar","kr":"아침을 먹다","level":1,"transcription":null}
 {"es":"despedir","kr":"해고하다","level":3,"transcription":null}
@@ -3482,7 +3482,7 @@
 {"es":"repartir","kr":"분배하다","level":3,"transcription":null}
 {"es":"solidario","kr":"연대","level":3,"transcription":null}
 {"es":"sport","kr":"스포츠","level":2,"transcription":null}
-{"es":"televisor","kr":"tv","level":2,"transcription":null}
+{"es":"televisor","kr":"TV","level":2,"transcription":null}
 {"es":"trío","kr":"트리오","level":3,"transcription":null}
 {"es":"abeja","kr":"벌","level":2,"transcription":null}
 {"es":"adicto","kr":"중독된","level":3,"transcription":null}
@@ -3538,20 +3538,20 @@
 {"es":"espina","kr":"가시","level":3,"transcription":null}
 {"es":"estatura","kr":"키","level":2,"transcription":null}
 {"es":"festividad","kr":"축제","level":3,"transcription":null}
-{"es":"heroína","kr":"헤로인","level":3,"transcription":null}
-{"es":"húngaro","kr":"헝가리 인","level":3,"transcription":null}
-{"es":"incorrecto","kr":"잘못된","level":2,"transcription":null}
-{"es":"interactuar","kr":"상호작용하다","level":3,"transcription":null}
+{"es":"heroína","kr":"여인","level":3,"transcription":null}
+{"es":"húngaro","kr":"헝가리","level":3,"transcription":null}
+{"es":"incorrecto","kr":"오답","level":2,"transcription":null}
+{"es":"interactuar","kr":"상호작용","level":3,"transcription":null}
 {"es":"jaula","kr":"새장","level":3,"transcription":null}
 {"es":"jueza","kr":"판사","level":3,"transcription":null}
 {"es":"masaje","kr":"마사지","level":3,"transcription":null}
 {"es":"mezclar","kr":"섞다","level":2,"transcription":null}
 {"es":"navegador","kr":"브라우저","level":3,"transcription":null}
 {"es":"pala","kr":"삽","level":2,"transcription":null}
-{"es":"persa","kr":"페르시아 인","level":3,"transcription":null}
+{"es":"persa","kr":"페르시아","level":3,"transcription":null}
 {"es":"polar","kr":"극선","level":3,"transcription":null}
 {"es":"rana","kr":"개구리","level":2,"transcription":null}
-{"es":"sembrar","kr":"암퇘지","level":3,"transcription":null}
+{"es":"sembrar","kr":"농种","level":3,"transcription":null}
 {"es":"torpe","kr":"어설픈","level":3,"transcription":null}
 {"es":"valla","kr":"울타리","level":3,"transcription":null}
 {"es":"anécdota","kr":"일화","level":3,"transcription":null}
@@ -3569,12 +3569,12 @@
 {"es":"imaginado","kr":"상상한","level":3,"transcription":null}
 {"es":"interes","kr":"관심","level":2,"transcription":null}
 {"es":"invención","kr":"발명","level":3,"transcription":null}
-{"es":"lomo","kr":"뒤쪽에","level":3,"transcription":null}
+{"es":"lomo","kr":"등","level":3,"transcription":null}
 {"es":"monja","kr":"수녀","level":3,"transcription":null}
 {"es":"movido","kr":"움직이는","level":3,"transcription":null}
 {"es":"mural","kr":"벽화","level":3,"transcription":null}
 {"es":"nevada","kr":"강설량","level":3,"transcription":null}
-{"es":"noticiero","kr":"뉴스 영화","level":3,"transcription":null}
+{"es":"noticiero","kr":"뉴스","level":3,"transcription":null}
 {"es":"novelista","kr":"소설가","level":3,"transcription":null}
 {"es":"ofendido","kr":"모욕을 당하다","level":3,"transcription":null}
 {"es":"panda","kr":"팬더","level":3,"transcription":null}
@@ -3598,20 +3598,20 @@
 {"es":"bebe","kr":"아기","level":1,"transcription":null}
 {"es":"chiquito","kr":"어린이","level":2,"transcription":null}
 {"es":"continuado","kr":"계속되는","level":3,"transcription":null}
-{"es":"demandar","kr":"여자 이름","level":3,"transcription":null}
+{"es":"demandar","kr":"요청하다","level":3,"transcription":null}
 {"es":"dieciséis","kr":"열여섯","level":1,"transcription":null}
-{"es":"diploma","kr":"졸업 증서","level":3,"transcription":null}
-{"es":"discoteca","kr":"디스코","level":2,"transcription":null}
-{"es":"dni","kr":"id","level":2,"transcription":null}
-{"es":"embarcación","kr":"보트","level":3,"transcription":null}
-{"es":"espiral","kr":"나선","level":3,"transcription":null}
+{"es":"diploma","kr":"졸업증서","level":3,"transcription":null}
+{"es":"discoteca","kr":"디스코터룸","level":2,"transcription":null}
+{"es":"dni","kr":"이민자등록번호","level":2,"transcription":null}
+{"es":"embarcación","kr":"선박","level":3,"transcription":null}
+{"es":"espiral","kr":"나사","level":3,"transcription":null}
 {"es":"exagerado","kr":"과장된","level":3,"transcription":null}
 {"es":"formula","kr":"공식","level":3,"transcription":null}
 {"es":"fotográfico","kr":"사진의","level":3,"transcription":null}
-{"es":"guardián","kr":"보호자 ","level":3,"transcription":null}
+{"es":"guardián","kr":"보호자","level":3,"transcription":null}
 {"es":"hada","kr":"요정","level":2,"transcription":null}
 {"es":"hormigón","kr":"콘크리트","level":3,"transcription":null}
-{"es":"imitar","kr":"모조품","level":3,"transcription":null}
+{"es":"imitar","kr":"모사","level":3,"transcription":null}
 {"es":"meditación","kr":"심사 숙고","level":3,"transcription":null}
 {"es":"metálico","kr":"금속","level":3,"transcription":null}
 {"es":"mudar","kr":"이동하다","level":3,"transcription":null}
@@ -3619,8 +3619,8 @@
 {"es":"paraguayo","kr":"파라과이 사람","level":3,"transcription":null}
 {"es":"presumir","kr":"자랑하다","level":3,"transcription":null}
 {"es":"próximamente","kr":"곧","level":3,"transcription":null}
-{"es":"retroceder","kr":"뒤쪽에","level":3,"transcription":null}
-{"es":"revisado","kr":"개정됨","level":3,"transcription":null}
+{"es":"retroceder","kr":"뒤로 이동","level":3,"transcription":null}
+{"es":"revisado","kr":"개정된","level":3,"transcription":null}
 {"es":"rugby","kr":"럭비","level":3,"transcription":null}
 {"es":"streaming","kr":"스트리밍","level":3,"transcription":null}
 {"es":"sueco","kr":"스웨덴어","level":3,"transcription":null}
@@ -3628,7 +3628,7 @@
 {"es":"tristemente","kr":"슬프게도","level":3,"transcription":null}
 {"es":"videoclip","kr":"비디오 클립","level":3,"transcription":null}
 {"es":"aconsejar","kr":"권하다","level":3,"transcription":null}
-{"es":"amigable","kr":"친숙한","level":2,"transcription":null}
+{"es":"amigable","kr":"친근한","level":2,"transcription":null}
 {"es":"arrepentir","kr":"후회","level":3,"transcription":null}
 {"es":"asustado","kr":"무서운","level":2,"transcription":null}
 {"es":"atentamente","kr":"감사합니다","level":3,"transcription":null}
@@ -3657,9 +3657,9 @@
 {"es":"quebrado","kr":"고장난","level":3,"transcription":null}
 {"es":"reir","kr":"웃다","level":2,"transcription":null}
 {"es":"reposo","kr":"휴식","level":3,"transcription":null}
-{"es":"short","kr":"반바지","level":2,"transcription":null}
-{"es":"simpático","kr":"교감 신경","level":1,"transcription":null}
-{"es":"suroeste","kr":"남서","level":3,"transcription":null}
+{"es":"short","kr":"짧은","level":2,"transcription":null}
+{"es":"simpático","kr":"친절한","level":1,"transcription":null}
+{"es":"suroeste","kr":"남서부","level":3,"transcription":null}
 {"es":"troll","kr":"트롤","level":3,"transcription":null}
 {"es":"zorro","kr":"여우","level":2,"transcription":null}
 {"es":"acierto","kr":"성공","level":3,"transcription":null}
@@ -3667,7 +3667,7 @@
 {"es":"asociar","kr":"연관짓다","level":3,"transcription":null}
 {"es":"bobo","kr":"바보","level":3,"transcription":null}
 {"es":"brisa","kr":"미풍","level":2,"transcription":null}
-{"es":"calentar","kr":"열","level":2,"transcription":null}
+{"es":"calentar","kr":"열히다","level":2,"transcription":null}
 {"es":"caricatura","kr":"만화","level":3,"transcription":null}
 {"es":"causado","kr":"원인","level":3,"transcription":null}
 {"es":"chapa","kr":"시트","level":3,"transcription":null}
@@ -3678,7 +3678,7 @@
 {"es":"dañado","kr":"손상된","level":3,"transcription":null}
 {"es":"dron","kr":"무인 비행기","level":3,"transcription":null}
 {"es":"dureza","kr":"경도","level":3,"transcription":null}
-{"es":"eclipse","kr":"식","level":3,"transcription":null}
+{"es":"eclipse","kr":"식광","level":3,"transcription":null}
 {"es":"engañado","kr":"속인","level":3,"transcription":null}
 {"es":"especificar","kr":"지정하다","level":3,"transcription":null}
 {"es":"fé","kr":"믿음","level":3,"transcription":null}
@@ -3688,7 +3688,7 @@
 {"es":"macedonia","kr":"마케도니아","level":2,"transcription":null}
 {"es":"mandíbula","kr":"턱","level":3,"transcription":null}
 {"es":"manteca","kr":"버터","level":2,"transcription":null}
-{"es":"marcado","kr":"두드러진","level":3,"transcription":null}
+{"es":"marcado","kr":"표시된","level":3,"transcription":null}
 {"es":"mensajero","kr":"전령","level":3,"transcription":null}
 {"es":"motivado","kr":"동기 부여","level":3,"transcription":null}
 {"es":"pandilla","kr":"가다","level":3,"transcription":null}
@@ -3780,21 +3780,21 @@
 {"es":"adición","kr":"덧셈","level":3,"transcription":null}
 {"es":"adorable","kr":"사랑스러운","level":2,"transcription":null}
 {"es":"alejado","kr":"떨어져 있는","level":3,"transcription":null}
-{"es":"almacenar","kr":"가게","level":3,"transcription":null}
-{"es":"amabilidad","kr":"친절","level":3,"transcription":null}
+{"es":"almacenar","kr":"저장하다","level":3,"transcription":null}
+{"es":"amabilidad","kr":"친절성","level":3,"transcription":null}
 {"es":"arrojar","kr":"던지다","level":3,"transcription":null}
 {"es":"atún","kr":"참치","level":2,"transcription":null}
 {"es":"caldera","kr":"보일러","level":3,"transcription":null}
-{"es":"callejero","kr":"거리","level":3,"transcription":null}
-{"es":"callejón","kr":"골목","level":3,"transcription":null}
+{"es":"callejero","kr":"거리꾼","level":3,"transcription":null}
+{"es":"callejón","kr":"골목길","level":3,"transcription":null}
 {"es":"caracol","kr":"달팽이","level":2,"transcription":null}
-{"es":"cigarro","kr":"시가","level":2,"transcription":null}
+{"es":"cigarro","kr":"흡연재","level":2,"transcription":null}
 {"es":"combo","kr":"콤보","level":3,"transcription":null}
-{"es":"cortado","kr":"자르다","level":3,"transcription":null}
-{"es":"costoso","kr":"값비싼","level":3,"transcription":null}
-{"es":"criar","kr":"새끼를 낳다","level":3,"transcription":null}
+{"es":"cortado","kr":"절단한","level":3,"transcription":null}
+{"es":"costoso","kr":"가치 있는","level":3,"transcription":null}
+{"es":"criar","kr":"양육하다","level":3,"transcription":null}
 {"es":"diarrea","kr":"설사","level":3,"transcription":null}
-{"es":"distribuido","kr":"분산","level":3,"transcription":null}
+{"es":"distribuido","kr":"분산된","level":3,"transcription":null}
 {"es":"dúo","kr":"듀오","level":3,"transcription":null}
 {"es":"elemental","kr":"초등학교","level":3,"transcription":null}
 {"es":"exito","kr":"성공","level":2,"transcription":null}
@@ -3803,7 +3803,7 @@
 {"es":"imitación","kr":"모방","level":3,"transcription":null}
 {"es":"laurel","kr":"명예","level":3,"transcription":null}
 {"es":"licor","kr":"리큐어","level":2,"transcription":null}
-{"es":"llegado","kr":"도착했다","level":3,"transcription":null}
+{"es":"llegado","kr":"도착한","level":3,"transcription":null}
 {"es":"lógicamente","kr":"논리적으로","level":3,"transcription":null}
 {"es":"matemático","kr":"매우 정확한","level":3,"transcription":null}
 {"es":"milímetro","kr":"밀리미터","level":2,"transcription":null}
@@ -3818,7 +3818,7 @@
 {"es":"retrasado","kr":"지연","level":3,"transcription":null}
 {"es":"ring","kr":"반지","level":3,"transcription":null}
 {"es":"semanario","kr":"주간","level":3,"transcription":null}
-{"es":"sordo","kr":"청각 장애인","level":2,"transcription":null}
+{"es":"sordo","kr":"청각장애인","level":2,"transcription":null}
 {"es":"suegra","kr":"시어머니","level":2,"transcription":null}
 {"es":"sábana","kr":"시트","level":2,"transcription":null}
 {"es":"sótano","kr":"최하부","level":2,"transcription":null}
@@ -3837,10 +3837,10 @@
 {"es":"blues","kr":"블루스","level":3,"transcription":null}
 {"es":"capitan","kr":"선장","level":3,"transcription":null}
 {"es":"caramelo","kr":"사탕","level":1,"transcription":null}
-{"es":"carpa","kr":"대형 텐트","level":3,"transcription":null}
+{"es":"carpa","kr":"텐트","level":3,"transcription":null}
 {"es":"conocerse","kr":"만나다","level":2,"transcription":null}
 {"es":"contable","kr":"회계사","level":3,"transcription":null}
-{"es":"divertir","kr":"쁘게 하다","level":2,"transcription":null}
+{"es":"divertir","kr":"즐겁다","level":2,"transcription":null}
 {"es":"entusiasta","kr":"열렬한","level":3,"transcription":null}
 {"es":"exportar","kr":"내보내다","level":3,"transcription":null}
 {"es":"frustrado","kr":"좌절스러운","level":3,"transcription":null}
@@ -3868,15 +3868,15 @@
 {"es":"apagado","kr":"끄다","level":2,"transcription":null}
 {"es":"arce","kr":"단풍나무","level":3,"transcription":null}
 {"es":"bastón","kr":"지팡이","level":3,"transcription":null}
-{"es":"boliche","kr":"잭","level":3,"transcription":null}
-{"es":"cadera","kr":"잘 알고 있기","level":3,"transcription":null}
+{"es":"boliche","kr":"스케이트보드","level":3,"transcription":null}
+{"es":"cadera","kr":"허리","level":3,"transcription":null}
 {"es":"casamiento","kr":"결혼","level":3,"transcription":null}
-{"es":"cresta","kr":"문장","level":3,"transcription":null}
+{"es":"cresta","kr":"머리","level":3,"transcription":null}
 {"es":"creíble","kr":"신뢰할 수 있는","level":3,"transcription":null}
 {"es":"desviar","kr":"방향을 바꾸다","level":3,"transcription":null}
 {"es":"encantador","kr":"매력적인","level":3,"transcription":null}
-{"es":"equipado","kr":"갖추게 하는","level":3,"transcription":null}
-{"es":"facial","kr":"얼굴 마사지","level":3,"transcription":null}
+{"es":"equipado","kr":"준비된","level":3,"transcription":null}
+{"es":"facial","kr":"얼굴","level":3,"transcription":null}
 {"es":"festejar","kr":"축하하다","level":3,"transcription":null}
 {"es":"flamenco","kr":"플라멩코","level":3,"transcription":null}
 {"es":"iraní","kr":"이란","level":3,"transcription":null}
@@ -3890,7 +3890,7 @@
 {"es":"recipiente","kr":"그릇","level":3,"transcription":null}
 {"es":"repentinamente","kr":"갑자기","level":3,"transcription":null}
 {"es":"salado","kr":"짠","level":2,"transcription":null}
-{"es":"suizo","kr":"스위스","level":3,"transcription":null}
+{"es":"suizo","kr":"스위즈","level":3,"transcription":null}
 {"es":"vigilante","kr":"자지 않고 지키는","level":3,"transcription":null}
 {"es":"accidentalmente","kr":"우연히","level":3,"transcription":null}
 {"es":"antorcha","kr":"토치","level":3,"transcription":null}
@@ -3927,8 +3927,8 @@
 {"es":"programador","kr":"프로그램 제작자","level":3,"transcription":null}
 {"es":"proximo","kr":"다음","level":2,"transcription":null}
 {"es":"proyectar","kr":"프로젝트","level":3,"transcription":null}
-{"es":"separarse","kr":"분리된","level":3,"transcription":null}
-{"es":"suspenso","kr":"미결","level":3,"transcription":null}
+{"es":"separarse","kr":"분리","level":3,"transcription":null}
+{"es":"suspenso","kr":"미결정","level":3,"transcription":null}
 {"es":"talvez","kr":"아마도","level":2,"transcription":null}
 {"es":"tráiler","kr":"트레일러","level":3,"transcription":null}
 {"es":"tóxico","kr":"독성","level":3,"transcription":null}
@@ -3987,7 +3987,7 @@
 {"es":"apretar","kr":"짜내다","level":3,"transcription":null}
 {"es":"baba","kr":"더러운 것","level":3,"transcription":null}
 {"es":"barriga","kr":"배","level":2,"transcription":null}
-{"es":"cajero","kr":"atm","level":2,"transcription":null}
+{"es":"cajero","kr":"ATM","level":2,"transcription":null}
 {"es":"carrito","kr":"카트","level":2,"transcription":null}
 {"es":"cel","kr":"셀","level":2,"transcription":null}
 {"es":"centroamericano","kr":"중앙 아메리카","level":3,"transcription":null}
@@ -4017,52 +4017,52 @@
 {"es":"sugerido","kr":"제안됨","level":3,"transcription":null}
 {"es":"tortilla","kr":"옥수수","level":1,"transcription":null}
 {"es":"tragar","kr":"삼키다","level":3,"transcription":null}
-{"es":"veinticinco","kr":"스물다섯","level":1,"transcription":null}
-{"es":"vinagre","kr":"식초","level":2,"transcription":null}
-{"es":"abrazar","kr":"포옹하다","level":2,"transcription":null}
-{"es":"adorno","kr":"장식","level":3,"transcription":null}
-{"es":"ajustado","kr":"단단한","level":3,"transcription":null}
-{"es":"ballena","kr":"고래","level":3,"transcription":null}
-{"es":"banana","kr":"바나나","level":1,"transcription":null}
-{"es":"bate","kr":"박쥐","level":3,"transcription":null}
-{"es":"bañera","kr":"목욕통","level":2,"transcription":null}
-{"es":"callado","kr":"예약된","level":3,"transcription":null}
-{"es":"croata","kr":"크로아티아어","level":3,"transcription":null}
-{"es":"descrito","kr":"설명","level":3,"transcription":null}
-{"es":"economia","kr":"경제","level":3,"transcription":null}
-{"es":"empujar","kr":"푸시","level":2,"transcription":null}
-{"es":"fideo","kr":"누들","level":2,"transcription":null}
-{"es":"geometría","kr":"기하학","level":3,"transcription":null}
-{"es":"habitacion","kr":"방","level":1,"transcription":null}
-{"es":"higiénico","kr":"위생","level":3,"transcription":null}
-{"es":"liberado","kr":"출시된","level":3,"transcription":null}
-{"es":"libreta","kr":"공책","level":2,"transcription":null}
-{"es":"medicación","kr":"약물","level":3,"transcription":null}
-{"es":"necesitado","kr":"아주 가난한","level":3,"transcription":null}
-{"es":"nuez","kr":"너트","level":2,"transcription":null}
-{"es":"operado","kr":"움직이는","level":3,"transcription":null}
-{"es":"parche","kr":"반점","level":3,"transcription":null}
-{"es":"puntaje","kr":"점수","level":3,"transcription":null}
-{"es":"quieto","kr":"아직","level":2,"transcription":null}
-{"es":"rebaño","kr":"떼","level":3,"transcription":null}
-{"es":"tecnologia","kr":"기술","level":3,"transcription":null}
-{"es":"tibio","kr":"따뜻한","level":3,"transcription":null}
+{"es":"veinticinco","kr":"二十五","level":1,"transcription":null}
+{"es":"vinagre","kr":"醋","level":2,"transcription":null}
+{"es":"abrazar","kr":"拥抱","level":2,"transcription":null}
+{"es":"adorno","kr":"装饰品","level":3,"transcription":null}
+{"es":"ajustado","kr":"调整好的","level":3,"transcription":null}
+{"es":"ballena","kr":"鲸鱼","level":3,"transcription":null}
+{"es":"banana","kr":"香蕉","level":1,"transcription":null}
+{"es":"bate","kr":"捕鸟兽者","level":3,"transcription":null}
+{"es":"bañera","kr":"浴缸","level":2,"transcription":null}
+{"es":"callado","kr":"沉默的","level":3,"transcription":null}
+{"es":"croata","kr":"克罗地亚语","level":3,"transcription":null}
+{"es":"descrito","kr":"描述的","level":3,"transcription":null}
+{"es":"economia","kr":"经济","level":3,"transcription":null}
+{"es":"empujar","kr":"推动","level":2,"transcription":null}
+{"es":"fideo","kr":"面条","level":2,"transcription":null}
+{"es":"geometría","kr":"几何学","level":3,"transcription":null}
+{"es":"habitacion","kr":"房间","level":1,"transcription":null}
+{"es":"higiénico","kr":"卫生的","level":3,"transcription":null}
+{"es":"liberado","kr":"释放的","level":3,"transcription":null}
+{"es":"libreta","kr":"笔记本","level":2,"transcription":null}
+{"es":"medicación","kr":"药品","level":3,"transcription":null}
+{"es":"necesitado","kr":"需要的人","level":3,"transcription":null}
+{"es":"nuez","kr":"杏仁","level":2,"transcription":null}
+{"es":"operado","kr":"被动的","level":3,"transcription":null}
+{"es":"parche","kr":"创可贴","level":3,"transcription":null}
+{"es":"puntaje","kr":"分数","level":3,"transcription":null}
+{"es":"quieto","kr":"安静的","level":2,"transcription":null}
+{"es":"rebaño","kr":"羊群","level":3,"transcription":null}
+{"es":"tecnologia","kr":"技术","level":3,"transcription":null}
+{"es":"tibio","kr":"温暖的","level":3,"transcription":null}
 {"es":"tobillo","kr":"발목","level":2,"transcription":null}
-{"es":"ucraniano","kr":"우크라이나 말","level":3,"transcription":null}
-{"es":"ventilación","kr":"통풍","level":3,"transcription":null}
+{"es":"ucraniano","kr":"우크라이나어","level":3,"transcription":null}
+{"es":"ventilación","kr":"환기","level":3,"transcription":null}
 {"es":"abusar","kr":"남용","level":3,"transcription":null}
-{"es":"aprendiz","kr":"도제","level":3,"transcription":null}
+{"es":"aprendiz","kr":"학생","level":3,"transcription":null}
 {"es":"atacante","kr":"공격자","level":3,"transcription":null}
-{"es":"atraído","kr":"끌렸다","level":3,"transcription":null}
+{"es":"atraído","kr":"끌려온다","level":3,"transcription":null}
 {"es":"bandido","kr":"적기","level":3,"transcription":null}
 {"es":"cuestionario","kr":"설문지","level":3,"transcription":null}
 {"es":"cápsula","kr":"캡슐","level":3,"transcription":null}
 {"es":"descender","kr":"하강하다","level":3,"transcription":null}
-{"es":"doblar","kr":"겹","level":2,"transcription":null}
+{"es":"doblar","kr":"겹치다","level":2,"transcription":null}
 {"es":"eleccion","kr":"선택","level":3,"transcription":null}
 {"es":"ene","kr":"얀","level":1,"transcription":null}
 {"es":"esponja","kr":"스펀지","level":2,"transcription":null}
-{"es":"finalizado","kr":"확정","level":3,"transcription":null}
+{"es":"finalizado","kr":"완료된 상태","level":3,"transcription":null}
 {"es":"frasco","kr":"항아리","level":3,"transcription":null}
 {"es":"guia","kr":"가이드","level":2,"transcription":null}
 {"es":"impresora","kr":"인쇄기","level":2,"transcription":null}
@@ -4093,9 +4093,9 @@
 {"es":"cocinero","kr":"요리사","level":1,"transcription":null}
 {"es":"colorido","kr":"화려한","level":3,"transcription":null}
 {"es":"crespo","kr":"곱슬곱슬한","level":3,"transcription":null}
-{"es":"deducir","kr":"빼다","level":3,"transcription":null}
+{"es":"deducir","kr":"추론하다","level":3,"transcription":null}
 {"es":"delicia","kr":"기쁨","level":3,"transcription":null}
-{"es":"devuelto","kr":"반환","level":3,"transcription":null}
+{"es":"devuelto","kr":"반환됨","level":3,"transcription":null}
 {"es":"diesel","kr":"디젤","level":3,"transcription":null}
 {"es":"educador","kr":"교육자","level":3,"transcription":null}
 {"es":"festivo","kr":"축제의","level":3,"transcription":null}
@@ -4104,7 +4104,7 @@
 {"es":"guarda","kr":"경비원","level":3,"transcription":null}
 {"es":"gym","kr":"체육관","level":2,"transcription":null}
 {"es":"hacha","kr":"도끼","level":3,"transcription":null}
-{"es":"hit","kr":"때리다","level":3,"transcription":null}
+{"es":"hit","kr":"때리기","level":3,"transcription":null}
 {"es":"hospitalidad","kr":"환대","level":3,"transcription":null}
 {"es":"ilustrar","kr":"설명하다","level":3,"transcription":null}
 {"es":"inodoro","kr":"화장실","level":3,"transcription":null}
@@ -4188,12 +4188,12 @@
 {"es":"concentrarse","kr":"집중하다","level":3,"transcription":null}
 {"es":"costarricense","kr":"코스타리카","level":3,"transcription":null}
 {"es":"danés","kr":"덴마크 말","level":3,"transcription":null}
-{"es":"dudoso","kr":"못 미더운","level":3,"transcription":null}
-{"es":"entrevistar","kr":"회견","level":3,"transcription":null}
-{"es":"envio","kr":"선적","level":2,"transcription":null}
-{"es":"epoca","kr":"시간","level":3,"transcription":null}
+{"es":"dudoso","kr":"불확실한","level":3,"transcription":null}
+{"es":"entrevistar","kr":"면접하다","level":3,"transcription":null}
+{"es":"envio","kr":"보내기","level":2,"transcription":null}
+{"es":"epoca","kr":"시기","level":3,"transcription":null}
 {"es":"especia","kr":"기미","level":2,"transcription":null}
-{"es":"fijate","kr":"바라보다","level":2,"transcription":null}
+{"es":"fijate","kr":"주의하다","level":2,"transcription":null}
 {"es":"fracasar","kr":"실패하다","level":3,"transcription":null}
 {"es":"fértil","kr":"비옥한","level":3,"transcription":null}
 {"es":"gancho","kr":"훅","level":3,"transcription":null}
@@ -4201,7 +4201,7 @@
 {"es":"historieta","kr":"만화","level":3,"transcription":null}
 {"es":"hocico","kr":"주둥이","level":3,"transcription":null}
 {"es":"hoguera","kr":"모닥불","level":3,"transcription":null}
-{"es":"hundir","kr":"싱크대","level":3,"transcription":null}
+{"es":"hundir","kr":"다시다","level":3,"transcription":null}
 {"es":"imán","kr":"자석","level":3,"transcription":null}
 {"es":"inscribirse","kr":"등록하다","level":3,"transcription":null}
 {"es":"laptop","kr":"랩탑","level":2,"transcription":null}
@@ -4230,15 +4230,15 @@
 {"es":"albergue","kr":"숙박소","level":3,"transcription":null}
 {"es":"alergia","kr":"알레르기","level":2,"transcription":null}
 {"es":"anteojo","kr":"안경","level":3,"transcription":null}
-{"es":"antibiótico","kr":"항생 물질","level":3,"transcription":null}
+{"es":"antibiótico","kr":"항생제","level":3,"transcription":null}
 {"es":"apagón","kr":"정전","level":3,"transcription":null}
-{"es":"banquillo","kr":"독","level":3,"transcription":null}
-{"es":"bautismo","kr":"세례","level":3,"transcription":null}
-{"es":"boxeador","kr":"복서","level":3,"transcription":null}
+{"es":"banquillo","kr":"독자석","level":3,"transcription":null}
+{"es":"bautismo","kr":"세례식","level":3,"transcription":null}
+{"es":"boxeador","kr":"복서사","level":3,"transcription":null}
 {"es":"calabaza","kr":"호박","level":2,"transcription":null}
 {"es":"chistoso","kr":"재미있는","level":3,"transcription":null}
-{"es":"comportarse","kr":"행동하다","level":3,"transcription":null}
-{"es":"confort","kr":"편안","level":3,"transcription":null}
+{"es":"comportarse","kr":"행동하는","level":3,"transcription":null}
+{"es":"confort","kr":"편안함","level":3,"transcription":null}
 {"es":"consultorio","kr":"사무실","level":3,"transcription":null}
 {"es":"cover","kr":"씌우다","level":3,"transcription":null}
 {"es":"cuñada","kr":"시누이","level":2,"transcription":null}
@@ -4257,7 +4257,7 @@
 {"es":"notario","kr":"공증인","level":3,"transcription":null}
 {"es":"olvidado","kr":"잊혀진","level":3,"transcription":null}
 {"es":"peluquería","kr":"미용실","level":2,"transcription":null}
-{"es":"pereza","kr":"게으름","level":3,"transcription":null}
+{"es":"pereza","kr":"슬픔","level":3,"transcription":null}
 {"es":"pestaña","kr":"속눈썹","level":2,"transcription":null}
 {"es":"pileta","kr":"싱크대","level":3,"transcription":null}
 {"es":"púrpura","kr":"보라","level":3,"transcription":null}
@@ -4277,7 +4277,7 @@
 {"es":"comentarista","kr":"시사 해설자","level":3,"transcription":null}
 {"es":"computador","kr":"컴퓨터","level":2,"transcription":null}
 {"es":"empeorar","kr":"더 나쁘게 하다","level":3,"transcription":null}
-{"es":"enterrar","kr":"묻다 ","level":3,"transcription":null}
+{"es":"enterrar","kr":"묻다","level":3,"transcription":null}
 {"es":"flojo","kr":"헐렁한","level":3,"transcription":null}
 {"es":"guardería","kr":"보육원","level":2,"transcription":null}
 {"es":"guitarrista","kr":"기타리스트","level":3,"transcription":null}
@@ -4287,18 +4287,18 @@
 {"es":"loro","kr":"앵무새","level":2,"transcription":null}
 {"es":"marine","kr":"선박","level":3,"transcription":null}
 {"es":"marroquí","kr":"모로코 사람","level":2,"transcription":null}
-{"es":"navaja","kr":"면도칼","level":3,"transcription":null}
+{"es":"navaja","kr":"칼","level":3,"transcription":null}
 {"es":"pesa","kr":"무게","level":2,"transcription":null}
 {"es":"porcelana","kr":"도자기","level":3,"transcription":null}
-{"es":"quemadura","kr":"불타다","level":3,"transcription":null}
+{"es":"quemadura","kr":"화상","level":3,"transcription":null}
 {"es":"ratito","kr":"잠깐","level":2,"transcription":null}
-{"es":"relax","kr":"안심하다","level":3,"transcription":null}
+{"es":"relax","kr":"안심","level":3,"transcription":null}
 {"es":"respetuoso","kr":"존경하는","level":3,"transcription":null}
 {"es":"revolucion","kr":"혁명","level":3,"transcription":null}
 {"es":"rima","kr":"운","level":3,"transcription":null}
 {"es":"solucion","kr":"해결책","level":2,"transcription":null}
 {"es":"tardío","kr":"늦은","level":3,"transcription":null}
-{"es":"tenso","kr":"시제","level":3,"transcription":null}
+{"es":"tenso","kr":"긴장된","level":3,"transcription":null}
 {"es":"tímido","kr":"수줍은","level":2,"transcription":null}
 {"es":"vainilla","kr":"바닐라","level":2,"transcription":null}
 {"es":"yerno","kr":"사위","level":3,"transcription":null}
@@ -4306,8 +4306,8 @@
 {"es":"alegria","kr":"행복","level":2,"transcription":null}
 {"es":"amablemente","kr":"친절한","level":3,"transcription":null}
 {"es":"anotación","kr":"주석","level":3,"transcription":null}
-{"es":"aproximar","kr":"근사치를 내다","level":3,"transcription":null}
-{"es":"asignar","kr":"양수인","level":3,"transcription":null}
+{"es":"aproximar","kr":"가까워지는","level":3,"transcription":null}
+{"es":"asignar","kr":"배정","level":3,"transcription":null}
 {"es":"batido","kr":"밟아 다진","level":2,"transcription":null}
 {"es":"blusa","kr":"블라우스","level":2,"transcription":null}
 {"es":"bulto","kr":"대부분","level":3,"transcription":null}
@@ -4342,14 +4342,14 @@
 {"es":"solista","kr":"독주자","level":3,"transcription":null}
 {"es":"trazar","kr":"그리다","level":3,"transcription":null}
 {"es":"ventanilla","kr":"창문","level":2,"transcription":null}
-{"es":"alameda","kr":"쇼핑 센터","level":3,"transcription":null}
-{"es":"aparcamiento","kr":"주차","level":2,"transcription":null}
+{"es":"alameda","kr":"숲길","level":3,"transcription":null}
+{"es":"aparcamiento","kr":"주차장","level":2,"transcription":null}
 {"es":"arrastrar","kr":"견인","level":3,"transcription":null}
 {"es":"aseo","kr":"화장실","level":2,"transcription":null}
 {"es":"ateo","kr":"무신론자","level":3,"transcription":null}
-{"es":"budista","kr":"불교의","level":3,"transcription":null}
+{"es":"budista","kr":"불교","level":3,"transcription":null}
 {"es":"calculado","kr":"계획된","level":3,"transcription":null}
-{"es":"caracter","kr":"성격","level":3,"transcription":null}
+{"es":"caracter","kr":"특징","level":3,"transcription":null}
 {"es":"chiva","kr":"염소","level":3,"transcription":null}
 {"es":"compás","kr":"나침반","level":3,"transcription":null}
 {"es":"constructor","kr":"건축업자","level":3,"transcription":null}
@@ -4363,7 +4363,7 @@
 {"es":"heladera","kr":"냉장고","level":2,"transcription":null}
 {"es":"hermanito","kr":"남동생","level":1,"transcription":null}
 {"es":"inseguro","kr":"불안정한","level":3,"transcription":null}
-{"es":"mall","kr":"쇼핑 센터","level":2,"transcription":null}
+{"es":"mall","kr":"쇼핑센터","level":2,"transcription":null}
 {"es":"manía","kr":"열광","level":3,"transcription":null}
 {"es":"mermelada","kr":"잼","level":2,"transcription":null}
 {"es":"opcion","kr":"옵션","level":2,"transcription":null}
@@ -4379,21 +4379,21 @@
 {"es":"sellado","kr":"봉인된","level":3,"transcription":null}
 {"es":"sermón","kr":"설교","level":3,"transcription":null}
 {"es":"tubería","kr":"관로","level":3,"transcription":null}
-{"es":"abdominal","kr":"복부의","level":3,"transcription":null}
-{"es":"artesanía","kr":"선박","level":3,"transcription":null}
+{"es":"abdominal","kr":"복부","level":3,"transcription":null}
+{"es":"artesanía","kr":"선물","level":3,"transcription":null}
 {"es":"bata","kr":"코트","level":2,"transcription":null}
 {"es":"beneficioso","kr":"유익한","level":3,"transcription":null}
-{"es":"calcetín","kr":"때리다","level":1,"transcription":null}
+{"es":"calcetín","kr":"가죽바지","level":1,"transcription":null}
 {"es":"catarata","kr":"백내장","level":3,"transcription":null}
 {"es":"condón","kr":"콘돔","level":3,"transcription":null}
-{"es":"depositar","kr":"보증금","level":3,"transcription":null}
+{"es":"depositar","kr":"보관","level":3,"transcription":null}
 {"es":"deseado","kr":"원하는","level":3,"transcription":null}
-{"es":"desempleado","kr":"한가한","level":3,"transcription":null}
+{"es":"desempleado","kr":"고용이 없는","level":3,"transcription":null}
 {"es":"escalón","kr":"단계","level":3,"transcription":null}
 {"es":"flotar","kr":"뜨다","level":3,"transcription":null}
-{"es":"gentil","kr":"이방인","level":3,"transcription":null}
-{"es":"hindú","kr":"힌두 인","level":3,"transcription":null}
-{"es":"localmente","kr":"장소 상에서","level":3,"transcription":null}
+{"es":"gentil","kr":"친절한","level":3,"transcription":null}
+{"es":"hindú","kr":"힌두","level":3,"transcription":null}
+{"es":"localmente","kr":"장소에서","level":3,"transcription":null}
 {"es":"mostaza","kr":"겨자","level":2,"transcription":null}
 {"es":"ombligo","kr":"배꼽","level":3,"transcription":null}
 {"es":"peatonal","kr":"보행자","level":3,"transcription":null}
@@ -4405,11 +4405,11 @@
 {"es":"tutorial","kr":"지도 시간","level":3,"transcription":null}
 {"es":"vaquero","kr":"카우보이","level":2,"transcription":null}
 {"es":"vinilo","kr":"비닐","level":3,"transcription":null}
-{"es":"water","kr":"화장실","level":2,"transcription":null}
-{"es":"western","kr":"서부 사람","level":3,"transcription":null}
+{"es":"water","kr":"물","level":2,"transcription":null}
+{"es":"western","kr":"서양인","level":3,"transcription":null}
 {"es":"zumo","kr":"주스","level":1,"transcription":null}
 {"es":"alumbrado","kr":"조명","level":3,"transcription":null}
-{"es":"apartar","kr":"따로 보관하다","level":3,"transcription":null}
+{"es":"apartar","kr":"분리하다","level":3,"transcription":null}
 {"es":"arbol","kr":"나무","level":1,"transcription":null}
 {"es":"birra","kr":"맥주","level":3,"transcription":null}
 {"es":"carpintero","kr":"목수","level":2,"transcription":null}
@@ -4419,37 +4419,37 @@
 {"es":"cortometraje","kr":"짧은 영화","level":3,"transcription":null}
 {"es":"cosita","kr":"작은 것","level":2,"transcription":null}
 {"es":"desactivar","kr":"비활성화하다","level":3,"transcription":null}
-{"es":"deshacer","kr":"끄르다","level":3,"transcription":null}
+{"es":"deshacer","kr":"끄다","level":3,"transcription":null}
 {"es":"despegar","kr":"이륙하다","level":3,"transcription":null}
 {"es":"diagonal","kr":"대각선","level":3,"transcription":null}
 {"es":"envuelto","kr":"감싸인","level":3,"transcription":null}
 {"es":"fundido","kr":"녹은","level":3,"transcription":null}
 {"es":"gorila","kr":"고릴라","level":2,"transcription":null}
-{"es":"grieta","kr":"금이 가다","level":3,"transcription":null}
+{"es":"grieta","kr":"가공된 틈새","level":3,"transcription":null}
 {"es":"indignado","kr":"분개한","level":3,"transcription":null}
 {"es":"jinete","kr":"타는 사람","level":3,"transcription":null}
 {"es":"lechuga","kr":"상추","level":1,"transcription":null}
-{"es":"meditar","kr":"꾀하다","level":3,"transcription":null}
+{"es":"meditar","kr":"기도하다","level":3,"transcription":null}
 {"es":"ocasional","kr":"가끔","level":3,"transcription":null}
 {"es":"orar","kr":"기도하다","level":3,"transcription":null}
 {"es":"pillado","kr":"잡았다","level":3,"transcription":null}
 {"es":"preferentemente","kr":"즐겨","level":3,"transcription":null}
 {"es":"progresar","kr":"진전","level":3,"transcription":null}
 {"es":"puma","kr":"퓨마","level":3,"transcription":null}
-{"es":"rezo","kr":"나는 기도한다","level":3,"transcription":null}
+{"es":"rezo","kr":"기도하다","level":3,"transcription":null}
 {"es":"salmón","kr":"연어","level":2,"transcription":null}
-{"es":"sonriente","kr":"웃고있는","level":3,"transcription":null}
+{"es":"sonriente","kr":"웃는","level":3,"transcription":null}
 {"es":"subrayar","kr":"밑줄","level":3,"transcription":null}
-{"es":"suciedad","kr":"흙","level":3,"transcription":null}
+{"es":"suciedad","kr":"오래된 것","level":3,"transcription":null}
 {"es":"tipico","kr":"전형적인","level":2,"transcription":null}
 {"es":"abasto","kr":"공급","level":3,"transcription":null}
-{"es":"adelgazar","kr":"얇은","level":3,"transcription":null}
+{"es":"adelgazar","kr":"얇게 만드는","level":3,"transcription":null}
 {"es":"adónde","kr":"어디로","level":2,"transcription":null}
 {"es":"ahogado","kr":"익사","level":3,"transcription":null}
-{"es":"barbacoa","kr":"야외 파티","level":2,"transcription":null}
+{"es":"barbacoa","kr":"바베큐","level":2,"transcription":null}
 {"es":"cana","kr":"지팡이","level":3,"transcription":null}
 {"es":"capacitado","kr":"훈련받은","level":3,"transcription":null}
-{"es":"castigado","kr":"처벌","level":3,"transcription":null}
+{"es":"castigado","kr":"처벌받음","level":3,"transcription":null}
 {"es":"compu","kr":"컴퓨터","level":3,"transcription":null}
 {"es":"cuidadoso","kr":"주의 깊은","level":3,"transcription":null}
 {"es":"curado","kr":"치료됨","level":3,"transcription":null}
@@ -4474,7 +4474,7 @@
 {"es":"regimen","kr":"정권","level":3,"transcription":null}
 {"es":"selectivo","kr":"선택적","level":3,"transcription":null}
 {"es":"tornado","kr":"폭풍","level":3,"transcription":null}
-{"es":"tranvía","kr":"시가 전차","level":3,"transcription":null}
+{"es":"tranvía","kr":"전차","level":3,"transcription":null}
 {"es":"trescientos","kr":"삼백","level":2,"transcription":null}
 {"es":"trueno","kr":"우뢰","level":3,"transcription":null}
 {"es":"veinticuatro","kr":"스물넷","level":1,"transcription":null}
@@ -4528,9 +4528,9 @@
 {"es":"enfado","kr":"화","level":3,"transcription":null}
 {"es":"forum","kr":"법정","level":3,"transcription":null}
 {"es":"frustrante","kr":"불만스러운","level":3,"transcription":null}
-{"es":"gel","kr":"젤라틴","level":2,"transcription":null}
+{"es":"gel","kr":"젤","level":2,"transcription":null}
 {"es":"guiado","kr":"안내됨","level":3,"transcription":null}
-{"es":"halcón","kr":"매","level":3,"transcription":null}
+{"es":"halcón","kr":"매우","level":3,"transcription":null}
 {"es":"hortaliza","kr":"채소","level":3,"transcription":null}
 {"es":"jungla","kr":"밀림","level":3,"transcription":null}
 {"es":"lona","kr":"캔버스","level":3,"transcription":null}
@@ -4556,11 +4556,11 @@
 {"es":"circulo","kr":"원","level":1,"transcription":null}
 {"es":"cocodrilo","kr":"악어","level":2,"transcription":null}
 {"es":"concordar","kr":"동의하다","level":3,"transcription":null}
-{"es":"congelado","kr":"언","level":2,"transcription":null}
+{"es":"congelado","kr":"얼어붙은","level":2,"transcription":null}
 {"es":"conquistado","kr":"정복하다","level":3,"transcription":null}
 {"es":"controlador","kr":"제어 장치","level":3,"transcription":null}
 {"es":"coser","kr":"꿰매다","level":2,"transcription":null}
-{"es":"cpu","kr":"cpu","level":3,"transcription":null}
+{"es":"cpu","kr":"CPU","level":3,"transcription":null}
 {"es":"doncella","kr":"하녀","level":3,"transcription":null}
 {"es":"duende","kr":"꼬마 요정","level":3,"transcription":null}
 {"es":"emperatriz","kr":"황후","level":3,"transcription":null}
@@ -4628,7 +4628,7 @@
 {"es":"soga","kr":"로프","level":3,"transcription":null}
 {"es":"solito","kr":"홀로","level":2,"transcription":null}
 {"es":"subterraneo","kr":"지하철","level":3,"transcription":null}
-{"es":"talentoso","kr":"재간 있는","level":3,"transcription":null}
+{"es":"talentoso","kr":"재능 있는","level":3,"transcription":null}
 {"es":"tinte","kr":"먹이다","level":3,"transcription":null}
 {"es":"tornillo","kr":"나사","level":3,"transcription":null}
 {"es":"tricolor","kr":"삼색기","level":3,"transcription":null}
@@ -4737,7 +4737,7 @@
 {"es":"pepino","kr":"오이","level":2,"transcription":null}
 {"es":"permitido","kr":"허용됨","level":3,"transcription":null}
 {"es":"pijama","kr":"파자마","level":2,"transcription":null}
-{"es":"potro","kr":"낳다","level":3,"transcription":null}
+{"es":"potro","kr":"아들","level":3,"transcription":null}
 {"es":"pétalo","kr":"꽃잎","level":3,"transcription":null}
 {"es":"rascacielos","kr":"마천루","level":3,"transcription":null}
 {"es":"relajar","kr":"안심하다","level":3,"transcription":null}
@@ -4768,7 +4768,7 @@
 {"es":"nata","kr":"크림","level":2,"transcription":null}
 {"es":"ofrecido","kr":"제공","level":3,"transcription":null}
 {"es":"puntero","kr":"바늘","level":3,"transcription":null}
-{"es":"rambla","kr":"람블라","level":3,"transcription":null}
+{"es":"rambla","kr":"길다","level":3,"transcription":null}
 {"es":"retratar","kr":"그리다","level":3,"transcription":null}
 {"es":"sacudir","kr":"떨림","level":3,"transcription":null}
 {"es":"secar","kr":"마른","level":2,"transcription":null}
@@ -4778,7 +4778,7 @@
 {"es":"tijera","kr":"가위","level":2,"transcription":null}
 {"es":"torero","kr":"투우사","level":3,"transcription":null}
 {"es":"trompeta","kr":"트럼펫","level":2,"transcription":null}
-{"es":"yegua","kr":"바다","level":3,"transcription":null}
+{"es":"yegua","kr":"여우","level":3,"transcription":null}
 {"es":"agitado","kr":"흥분한","level":3,"transcription":null}
 {"es":"analisis","kr":"분석","level":3,"transcription":null}
 {"es":"antivirus","kr":"바이러스 백신","level":3,"transcription":null}
@@ -4860,31 +4860,31 @@
 {"es":"caverna","kr":"동굴","level":3,"transcription":null}
 {"es":"ciervo","kr":"사슴","level":3,"transcription":null}
 {"es":"cisne","kr":"백조","level":3,"transcription":null}
-{"es":"contestación","kr":"회신하다","level":3,"transcription":null}
+{"es":"contestación","kr":"회신","level":3,"transcription":null}
 {"es":"cosmético","kr":"화장품","level":3,"transcription":null}
-{"es":"cuchilla","kr":"잎","level":3,"transcription":null}
+{"es":"cuchilla","kr":"칼","level":3,"transcription":null}
 {"es":"cupón","kr":"쿠폰","level":2,"transcription":null}
-{"es":"desbloquear","kr":"터놓다","level":3,"transcription":null}
+{"es":"desbloquear","kr":"해체","level":3,"transcription":null}
 {"es":"ecologista","kr":"생태학자","level":3,"transcription":null}
-{"es":"ejercitar","kr":"운동","level":2,"transcription":null}
+{"es":"ejercitar","kr":"운동하다","level":2,"transcription":null}
 {"es":"exportador","kr":"수출업자","level":3,"transcription":null}
-{"es":"fraile","kr":"탁발 수도사","level":3,"transcription":null}
-{"es":"gordito","kr":"통통한","level":2,"transcription":null}
+{"es":"fraile","kr":"목사","level":3,"transcription":null}
+{"es":"gordito","kr":"살찐","level":2,"transcription":null}
 {"es":"granjero","kr":"농장주","level":2,"transcription":null}
 {"es":"hispánico","kr":"히스패닉","level":3,"transcription":null}
-{"es":"idealista","kr":"이상주의적인","level":3,"transcription":null}
+{"es":"idealista","kr":"이상주의자","level":3,"transcription":null}
 {"es":"inadecuado","kr":"부적절하다","level":3,"transcription":null}
-{"es":"invernal","kr":"냉랭한","level":3,"transcription":null}
+{"es":"invernal","kr":"겨울철","level":3,"transcription":null}
 {"es":"karate","kr":"카라테","level":3,"transcription":null}
 {"es":"lagarto","kr":"도마뱀","level":2,"transcription":null}
 {"es":"lila","kr":"라일락 꽃","level":2,"transcription":null}
-{"es":"mayúscula","kr":"수도","level":2,"transcription":null}
+{"es":"mayúscula","kr":"대문자","level":2,"transcription":null}
 {"es":"mestizo","kr":"메스티소","level":3,"transcription":null}
 {"es":"motel","kr":"모텔","level":2,"transcription":null}
 {"es":"mugre","kr":"흙","level":3,"transcription":null}
 {"es":"negrita","kr":"굵은 글씨체","level":3,"transcription":null}
-{"es":"pegamento","kr":"아교","level":2,"transcription":null}
-{"es":"plantado","kr":"심었다","level":3,"transcription":null}
+{"es":"pegamento","kr":"접착제","level":2,"transcription":null}
+{"es":"plantado","kr":"심어린","level":3,"transcription":null}
 {"es":"preescolar","kr":"취학 전의","level":3,"transcription":null}
 {"es":"presion","kr":"압력","level":3,"transcription":null}
 {"es":"puntualmente","kr":"즉시","level":3,"transcription":null}
@@ -4949,8 +4949,8 @@
 {"es":"cómodamente","kr":"편안하게","level":3,"transcription":null}
 {"es":"decorar","kr":"장식하다","level":2,"transcription":null}
 {"es":"desperdiciar","kr":"쓰레기","level":3,"transcription":null}
-{"es":"escondite","kr":"은신처","level":3,"transcription":null}
-{"es":"frescura","kr":"선도","level":3,"transcription":null}
+{"es":"escondite","kr":"숨겨두다","level":3,"transcription":null}
+{"es":"frescura","kr":"청량감","level":3,"transcription":null}
 {"es":"guardado","kr":"저장됨","level":3,"transcription":null}
 {"es":"hambriento","kr":"배고픈","level":3,"transcription":null}
 {"es":"lavadora","kr":"세탁기","level":2,"transcription":null}
@@ -5037,7 +5037,7 @@
 {"es":"manualmente","kr":"수동으로","level":3,"transcription":null}
 {"es":"marioneta","kr":"인형","level":3,"transcription":null}
 {"es":"muela","kr":"어금니","level":2,"transcription":null}
-{"es":"pajarito","kr":"버디","level":2,"transcription":null}
+{"es":"pajarito","kr":"새끼","level":2,"transcription":null}
 {"es":"papeleo","kr":"서류작업","level":3,"transcription":null}
 {"es":"pingüino","kr":"펭귄","level":3,"transcription":null}
 {"es":"poro","kr":"기공","level":3,"transcription":null}
@@ -5048,7 +5048,7 @@
 {"es":"silenciar","kr":"무음","level":3,"transcription":null}
 {"es":"transportista","kr":"담체","level":3,"transcription":null}
 {"es":"vocalista","kr":"가수","level":3,"transcription":null}
-{"es":"volador","kr":"나는","level":3,"transcription":null}
+{"es":"volador","kr":"비행자","level":3,"transcription":null}
 {"es":"acidez","kr":"신맛","level":3,"transcription":null}
 {"es":"acre","kr":"에이커","level":3,"transcription":null}
 {"es":"ancla","kr":"닻","level":3,"transcription":null}
@@ -5108,9 +5108,9 @@
 {"es":"caseta","kr":"서다","level":3,"transcription":null}
 {"es":"chalet","kr":"샬레","level":3,"transcription":null}
 {"es":"coach","kr":"코치","level":3,"transcription":null}
-{"es":"decepcionar","kr":"어긋나게 하다","level":3,"transcription":null}
+{"es":"decepcionar","kr":"불쾌하게 하다","level":3,"transcription":null}
 {"es":"fascinar","kr":"호리다","level":3,"transcription":null}
-{"es":"fotografiar","kr":"사진","level":2,"transcription":null}
+{"es":"fotografiar","kr":"사진 찍기","level":2,"transcription":null}
 {"es":"gong","kr":"징","level":3,"transcription":null}
 {"es":"irritación","kr":"짜증나게 하는 것","level":3,"transcription":null}
 {"es":"joker","kr":"조커","level":3,"transcription":null}
@@ -5165,7 +5165,7 @@
 {"es":"zanja","kr":"도랑","level":3,"transcription":null}
 {"es":"álgebra","kr":"대수학","level":3,"transcription":null}
 {"es":"acústico","kr":"음향학","level":3,"transcription":null}
-{"es":"ahogar","kr":"안 들리게 하다","level":3,"transcription":null}
+{"es":"ahogar","kr":"안치다","level":3,"transcription":null}
 {"es":"alargar","kr":"길게 하다","level":3,"transcription":null}
 {"es":"becario","kr":"학자","level":3,"transcription":null}
 {"es":"broche","kr":"브로치","level":3,"transcription":null}
@@ -5221,7 +5221,7 @@
 {"es":"canoa","kr":"카누","level":2,"transcription":null}
 {"es":"categoria","kr":"범주","level":3,"transcription":null}
 {"es":"cinema","kr":"영화","level":3,"transcription":null}
-{"es":"contaminado","kr":"더럽히는","level":3,"transcription":null}
+{"es":"contaminado","kr":"오염된","level":3,"transcription":null}
 {"es":"copiloto","kr":"부조종사","level":3,"transcription":null}
 {"es":"drone","kr":"무인 비행기","level":3,"transcription":null}
 {"es":"elfo","kr":"꼬마 요정","level":3,"transcription":null}
@@ -5236,7 +5236,7 @@
 {"es":"manzano","kr":"사과나무","level":2,"transcription":null}
 {"es":"mimo","kr":"몸짓 광대극","level":3,"transcription":null}
 {"es":"notificar","kr":"통지하다","level":3,"transcription":null}
-{"es":"ovni","kr":"ufo","level":3,"transcription":null}
+{"es":"ovni","kr":"우포","level":3,"transcription":null}
 {"es":"parabrisas","kr":"바람막이 유리","level":2,"transcription":null}
 {"es":"paraiso","kr":"천국","level":3,"transcription":null}
 {"es":"pedal","kr":"페달","level":2,"transcription":null}
@@ -5245,18 +5245,18 @@
 {"es":"proposito","kr":"목적","level":3,"transcription":null}
 {"es":"resina","kr":"수지","level":3,"transcription":null}
 {"es":"share","kr":"공유하다","level":3,"transcription":null}
-{"es":"sinagoga","kr":"유태 교회당","level":3,"transcription":null}
+{"es":"sinagoga","kr":"신가당","level":3,"transcription":null}
 {"es":"sound","kr":"소리","level":3,"transcription":null}
 {"es":"studies","kr":"연구","level":3,"transcription":null}
 {"es":"tenista","kr":"테니스 선수","level":2,"transcription":null}
 {"es":"timidez","kr":"수줍음","level":3,"transcription":null}
 {"es":"trazo","kr":"줄","level":3,"transcription":null}
-{"es":"voltear","kr":"튀기다","level":3,"transcription":null}
-{"es":"vómito","kr":"토하다","level":3,"transcription":null}
+{"es":"voltear","kr":"돌리기","level":3,"transcription":null}
+{"es":"vómito","kr":"토스","level":3,"transcription":null}
 {"es":"ámbar","kr":"호박색","level":3,"transcription":null}
 {"es":"ícono","kr":"상","level":3,"transcription":null}
-{"es":"aguardar","kr":"기다리다","level":3,"transcription":null}
-{"es":"avería","kr":"잘못","level":3,"transcription":null}
+{"es":"aguardar","kr":"기다리기","level":3,"transcription":null}
+{"es":"avería","kr":"오류","level":3,"transcription":null}
 {"es":"bacalao","kr":"대구","level":3,"transcription":null}
 {"es":"baraja","kr":"갑판","level":3,"transcription":null}
 {"es":"barbilla","kr":"턱","level":3,"transcription":null}
@@ -5265,16 +5265,16 @@
 {"es":"chófer","kr":"운전사","level":3,"transcription":null}
 {"es":"cucharada","kr":"큰 스푼","level":2,"transcription":null}
 {"es":"digestión","kr":"소화","level":3,"transcription":null}
-{"es":"equipar","kr":"갖추게 하다","level":3,"transcription":null}
+{"es":"equipar","kr":"갖추기","level":3,"transcription":null}
 {"es":"escalofrío","kr":"냉기","level":3,"transcription":null}
 {"es":"fango","kr":"진흙","level":3,"transcription":null}
-{"es":"florecer","kr":"융성","level":3,"transcription":null}
+{"es":"florecer","kr":"꽃 피다","level":3,"transcription":null}
 {"es":"gema","kr":"보석","level":3,"transcription":null}
 {"es":"girasol","kr":"해바라기","level":2,"transcription":null}
 {"es":"granero","kr":"헛간","level":3,"transcription":null}
 {"es":"hoz","kr":"낫","level":3,"transcription":null}
 {"es":"langosta","kr":"새우","level":3,"transcription":null}
-{"es":"lluvioso","kr":"비오는","level":2,"transcription":null}
+{"es":"lluvioso","kr":"비 오는","level":2,"transcription":null}
 {"es":"magnifico","kr":"웅장한","level":3,"transcription":null}
 {"es":"manso","kr":"순한","level":3,"transcription":null}
 {"es":"mascarilla","kr":"마스크","level":2,"transcription":null}
@@ -5311,10 +5311,10 @@
 {"es":"impaciencia","kr":"조바심","level":3,"transcription":null}
 {"es":"impactado","kr":"충격을 받은","level":3,"transcription":null}
 {"es":"irritante","kr":"짜증 나는","level":3,"transcription":null}
-{"es":"leído","kr":"읽다","level":3,"transcription":null}
+{"es":"leído","kr":"읽은","level":3,"transcription":null}
 {"es":"madrastra","kr":"계모","level":3,"transcription":null}
 {"es":"maiz","kr":"옥수수","level":2,"transcription":null}
-{"es":"mudado","kr":"움직이는","level":3,"transcription":null}
+{"es":"mudado","kr":"변한","level":3,"transcription":null}
 {"es":"olmo","kr":"느릅나무","level":3,"transcription":null}
 {"es":"panfleto","kr":"팸플릿","level":3,"transcription":null}
 {"es":"peine","kr":"빗","level":2,"transcription":null}
@@ -5367,14 +5367,14 @@
 {"es":"nerviosismo","kr":"신경질","level":3,"transcription":null}
 {"es":"nochebuena","kr":"크리스마스 이브","level":2,"transcription":null}
 {"es":"panadero","kr":"빵 굽는 사람","level":2,"transcription":null}
-{"es":"patin","kr":"홍어","level":2,"transcription":null}
+{"es":"patin","kr":"공기","level":2,"transcription":null}
 {"es":"primogénito","kr":"맏아들","level":3,"transcription":null}
 {"es":"prior","kr":"이전의","level":3,"transcription":null}
 {"es":"reapertura","kr":"재개","level":3,"transcription":null}
 {"es":"riel","kr":"레일","level":3,"transcription":null}
 {"es":"ruidoso","kr":"시끄러운","level":2,"transcription":null}
 {"es":"salvamento","kr":"구조하다","level":3,"transcription":null}
-{"es":"soñador","kr":"꿈 꾸는 사람","level":3,"transcription":null}
+{"es":"soñador","kr":"꿈꾸는 사람","level":3,"transcription":null}
 {"es":"stadium","kr":"경기장","level":3,"transcription":null}
 {"es":"talle","kr":"허리","level":3,"transcription":null}
 {"es":"tilde","kr":"악센트","level":3,"transcription":null}
@@ -5519,7 +5519,7 @@
 {"es":"enérgico","kr":"정력적인","level":3,"transcription":null}
 {"es":"estaño","kr":"주석","level":3,"transcription":null}
 {"es":"estresado","kr":"스트레스를 받은","level":3,"transcription":null}
-{"es":"estéreo","kr":"스테레오 재생","level":3,"transcription":null}
+{"es":"estéreo","kr":"스테레오","level":3,"transcription":null}
 {"es":"inclinado","kr":"기울어진","level":3,"transcription":null}
 {"es":"inversion","kr":"투자","level":3,"transcription":null}
 {"es":"largar","kr":"풀어 주다","level":3,"transcription":null}
@@ -5580,20 +5580,20 @@
 {"es":"resorte","kr":"봄","level":3,"transcription":null}
 {"es":"rubí","kr":"루비","level":3,"transcription":null}
 {"es":"sesion","kr":"세션","level":2,"transcription":null}
-{"es":"sociable","kr":"간친회","level":3,"transcription":null}
+{"es":"sociable","kr":"친구들 모임","level":3,"transcription":null}
 {"es":"sudafricano","kr":"남아프리카공화국","level":3,"transcription":null}
 {"es":"sujetador","kr":"브래지어","level":3,"transcription":null}
-{"es":"taladro","kr":"송곳","level":3,"transcription":null}
-{"es":"tauro","kr":"황소자리","level":3,"transcription":null}
+{"es":"taladro","kr":"드릴","level":3,"transcription":null}
+{"es":"tauro","kr":"황소","level":3,"transcription":null}
 {"es":"termómetro","kr":"온도계","level":2,"transcription":null}
 {"es":"transbordador","kr":"나룻배","level":3,"transcription":null}
 {"es":"util","kr":"유용한","level":2,"transcription":null}
 {"es":"varita","kr":"지팡이","level":3,"transcription":null}
 {"es":"zumbido","kr":"버저 소리","level":3,"transcription":null}
-{"es":"acariciar","kr":"뇌졸중","level":3,"transcription":null}
+{"es":"acariciar","kr":"애교","level":3,"transcription":null}
 {"es":"amazonía","kr":"아마존","level":3,"transcription":null}
-{"es":"autovía","kr":"이중 차도","level":3,"transcription":null}
-{"es":"añadido","kr":"추가됨","level":3,"transcription":null}
+{"es":"autovía","kr":"고속도로","level":3,"transcription":null}
+{"es":"añadido","kr":"추가된","level":3,"transcription":null}
 {"es":"boceto","kr":"스케치","level":3,"transcription":null}
 {"es":"casona","kr":"맨션","level":3,"transcription":null}
 {"es":"champaña","kr":"샴페인","level":3,"transcription":null}
@@ -5640,7 +5640,7 @@
 {"es":"atajo","kr":"지름길","level":3,"transcription":null}
 {"es":"biólogo","kr":"생물학자","level":3,"transcription":null}
 {"es":"boton","kr":"단추","level":1,"transcription":null}
-{"es":"bronceado","kr":"검게 그을린","level":3,"transcription":null}
+{"es":"bronceado","kr":"검은 그을림","level":3,"transcription":null}
 {"es":"bulevar","kr":"큰길","level":3,"transcription":null}
 {"es":"buró","kr":"국","level":3,"transcription":null}
 {"es":"cambiado","kr":"변경됨","level":2,"transcription":null}
@@ -5649,7 +5649,7 @@
 {"es":"choza","kr":"오두막","level":3,"transcription":null}
 {"es":"dominico","kr":"도미니카인의","level":3,"transcription":null}
 {"es":"excitar","kr":"일으키다","level":3,"transcription":null}
-{"es":"fechado","kr":"날짜가 있는","level":3,"transcription":null}
+{"es":"fechado","kr":"닫힌","level":3,"transcription":null}
 {"es":"ferretería","kr":"하드웨어","level":2,"transcription":null}
 {"es":"fijado","kr":"결정된","level":3,"transcription":null}
 {"es":"flan","kr":"커스터드","level":1,"transcription":null}
@@ -5697,10 +5697,10 @@
 {"es":"grabadora","kr":"기록계","level":2,"transcription":null}
 {"es":"hipódromo","kr":"경주장","level":3,"transcription":null}
 {"es":"horroroso","kr":"소름끼치는","level":3,"transcription":null}
-{"es":"infeccioso","kr":"전염성이 있는","level":3,"transcription":null}
+{"es":"infeccioso","kr":"전염병이 있는","level":3,"transcription":null}
 {"es":"internauta","kr":"인터넷 사용자","level":3,"transcription":null}
 {"es":"lavabo","kr":"세면기","level":2,"transcription":null}
-{"es":"lavadero","kr":"빨래","level":3,"transcription":null}
+{"es":"lavadero","kr":"빨래장","level":3,"transcription":null}
 {"es":"lencería","kr":"란제리","level":3,"transcription":null}
 {"es":"marciano","kr":"화성인","level":3,"transcription":null}
 {"es":"moño","kr":"혈액 요소 질소","level":2,"transcription":null}
@@ -5800,42 +5800,42 @@
 {"es":"tumbado","kr":"거짓말하는","level":3,"transcription":null}
 {"es":"verter","kr":"붓다","level":3,"transcription":null}
 {"es":"webcam","kr":"웹캠","level":3,"transcription":null}
-{"es":"afirmativo","kr":"긍정","level":3,"transcription":null}
+{"es":"afirmativo","kr":"긍정적","level":3,"transcription":null}
 {"es":"alcantarilla","kr":"하수","level":3,"transcription":null}
 {"es":"asno","kr":"나귀","level":3,"transcription":null}
 {"es":"autógrafo","kr":"자필","level":3,"transcription":null}
-{"es":"basicamente","kr":"원래","level":3,"transcription":null}
+{"es":"basicamente","kr":"기본적으로","level":3,"transcription":null}
 {"es":"baya","kr":"말린 씨앗","level":3,"transcription":null}
 {"es":"cañon","kr":"정경","level":3,"transcription":null}
 {"es":"chatear","kr":"채팅","level":2,"transcription":null}
 {"es":"chato","kr":"평평한","level":3,"transcription":null}
 {"es":"comino","kr":"커민","level":3,"transcription":null}
-{"es":"céntrico","kr":"본부","level":3,"transcription":null}
-{"es":"disgustar","kr":"싫음","level":3,"transcription":null}
+{"es":"céntrico","kr":"중앙","level":3,"transcription":null}
+{"es":"disgustar","kr":"싫어하다","level":3,"transcription":null}
 {"es":"dosciento","kr":"이백","level":1,"transcription":null}
-{"es":"escapada","kr":"탈출하다","level":3,"transcription":null}
-{"es":"explicado","kr":"설명했다","level":3,"transcription":null}
+{"es":"escapada","kr":"탈출","level":3,"transcription":null}
+{"es":"explicado","kr":"설명해달라","level":3,"transcription":null}
 {"es":"garbanzo","kr":"병아리콩","level":2,"transcription":null}
 {"es":"georgiano","kr":"그루지야 사람","level":3,"transcription":null}
 {"es":"grupito","kr":"작은 그룹","level":3,"transcription":null}
-{"es":"insistente","kr":"두드러진","level":3,"transcription":null}
-{"es":"juntado","kr":"합류했다","level":3,"transcription":null}
+{"es":"insistente","kr":"강하게 요구하는","level":3,"transcription":null}
+{"es":"juntado","kr":"합류한","level":3,"transcription":null}
 {"es":"loto","kr":"로터스","level":3,"transcription":null}
 {"es":"matematica","kr":"수학","level":2,"transcription":null}
-{"es":"matricula","kr":"수업료","level":3,"transcription":null}
-{"es":"moderar","kr":"보통의","level":3,"transcription":null}
+{"es":"matricula","kr":"등록금","level":3,"transcription":null}
+{"es":"moderar","kr":"감독하다","level":3,"transcription":null}
 {"es":"negrito","kr":"검은색","level":3,"transcription":null}
 {"es":"nica","kr":"니카","level":3,"transcription":null}
-{"es":"néctar","kr":"넥타","level":3,"transcription":null}
+{"es":"néctar","kr":"꿀","level":3,"transcription":null}
 {"es":"osito","kr":"작은 곰","level":2,"transcription":null}
 {"es":"oval","kr":"타원형","level":3,"transcription":null}
-{"es":"perdiz","kr":"자고","level":3,"transcription":null}
+{"es":"perdiz","kr":"새우","level":3,"transcription":null}
 {"es":"portado","kr":"이식된","level":3,"transcription":null}
-{"es":"publicacion","kr":"출판","level":3,"transcription":null}
+{"es":"publicacion","kr":"출판물","level":3,"transcription":null}
 {"es":"racimo","kr":"다발","level":3,"transcription":null}
 {"es":"remolacha","kr":"사탕무","level":3,"transcription":null}
 {"es":"rizado","kr":"곱슬곱슬한","level":3,"transcription":null}
-{"es":"sorbo","kr":"한모금","level":3,"transcription":null}
+{"es":"sorbo","kr":"한 모금","level":3,"transcription":null}
 {"es":"sota","kr":"잭","level":3,"transcription":null}
 {"es":"torcer","kr":"트위스트","level":3,"transcription":null}
 {"es":"tuerca","kr":"너트","level":3,"transcription":null}
@@ -5852,9 +5852,9 @@
 {"es":"conector","kr":"커넥터","level":3,"transcription":null}
 {"es":"conexion","kr":"연결","level":2,"transcription":null}
 {"es":"descripcion","kr":"설명","level":2,"transcription":null}
-{"es":"desembarcar","kr":"땅","level":3,"transcription":null}
+{"es":"desembarcar","kr":" landen","level":3,"transcription":null}
 {"es":"detergente","kr":"세정제","level":2,"transcription":null}
-{"es":"electrico","kr":"전기 같은","level":2,"transcription":null}
+{"es":"electrico","kr":"전기","level":2,"transcription":null}
 {"es":"emplearse","kr":"취업하다","level":3,"transcription":null}
 {"es":"escarabajo","kr":"갑충","level":3,"transcription":null}
 {"es":"fichero","kr":"파일","level":3,"transcription":null}
@@ -5863,7 +5863,7 @@
 {"es":"hotelero","kr":"호텔리어","level":3,"transcription":null}
 {"es":"institucion","kr":"기관","level":3,"transcription":null}
 {"es":"jacuzzi","kr":"자쿠지","level":3,"transcription":null}
-{"es":"jugoso","kr":"흥미 진진한","level":3,"transcription":null}
+{"es":"jugoso","kr":"흥미진진한","level":3,"transcription":null}
 {"es":"lamer","kr":"핥다","level":3,"transcription":null}
 {"es":"licuado","kr":"액화된","level":2,"transcription":null}
 {"es":"loba","kr":"늑대","level":3,"transcription":null}
@@ -5876,8 +5876,8 @@
 {"es":"pudrir","kr":"썩음","level":3,"transcription":null}
 {"es":"retar","kr":"도전","level":3,"transcription":null}
 {"es":"sauna","kr":"사우나","level":3,"transcription":null}
-{"es":"servilleta","kr":"냅킨","level":2,"transcription":null}
-{"es":"sien","kr":"절","level":3,"transcription":null}
+{"es":"servilleta","kr":"서프리테라","level":2,"transcription":null}
+{"es":"sien","kr":"눈","level":3,"transcription":null}
 {"es":"soltado","kr":"출시된","level":3,"transcription":null}
 {"es":"sticker","kr":"상표","level":2,"transcription":null}
 {"es":"sudadera","kr":"까마귀","level":2,"transcription":null}
@@ -5995,7 +5995,7 @@
 {"es":"ají","kr":"칠리","level":2,"transcription":null}
 {"es":"amplificador","kr":"증폭기","level":3,"transcription":null}
 {"es":"avioneta","kr":"작은 비행기","level":3,"transcription":null}
-{"es":"borrado","kr":"문질러 지우는","level":3,"transcription":null}
+{"es":"borrado","kr":"문질러 지우다","level":3,"transcription":null}
 {"es":"borroso","kr":"흐릿한","level":3,"transcription":null}
 {"es":"cabecita","kr":"작은 머리","level":2,"transcription":null}
 {"es":"certificar","kr":"인증하다","level":3,"transcription":null}
@@ -6057,18 +6057,18 @@
 {"es":"tranquilizar","kr":"안심시키다","level":3,"transcription":null}
 {"es":"trébol","kr":"클로버","level":3,"transcription":null}
 {"es":"afiche","kr":"포스터","level":3,"transcription":null}
-{"es":"alargado","kr":"길다","level":3,"transcription":null}
+{"es":"alargado","kr":"확대된","level":3,"transcription":null}
 {"es":"anguila","kr":"뱀장어","level":3,"transcription":null}
 {"es":"arepa","kr":"옥수수 케이크","level":3,"transcription":null}
 {"es":"básquetbol","kr":"농구","level":2,"transcription":null}
 {"es":"calamar","kr":"오징어","level":3,"transcription":null}
 {"es":"caries","kr":"카리에스","level":3,"transcription":null}
-{"es":"cogido","kr":"찍은","level":3,"transcription":null}
+{"es":"cogido","kr":"잡은","level":3,"transcription":null}
 {"es":"croqueta","kr":"크로켓","level":2,"transcription":null}
 {"es":"debil","kr":"약한","level":2,"transcription":null}
 {"es":"definicion","kr":"정의","level":3,"transcription":null}
-{"es":"divorciado","kr":"이혼하다","level":3,"transcription":null}
-{"es":"estampado","kr":"인쇄","level":3,"transcription":null}
+{"es":"divorciado","kr":"이혼자","level":3,"transcription":null}
+{"es":"estampado","kr":"인쇄물","level":3,"transcription":null}
 {"es":"etíope","kr":"에티오피아 사람","level":3,"transcription":null}
 {"es":"filete","kr":"스테이크","level":3,"transcription":null}
 {"es":"gastado","kr":"지출","level":3,"transcription":null}
@@ -6206,39 +6206,39 @@
 {"es":"cilantro","kr":"고수","level":2,"transcription":null}
 {"es":"cinto","kr":"벨트","level":2,"transcription":null}
 {"es":"clarificar","kr":"밝히다","level":3,"transcription":null}
-{"es":"combi","kr":"콤비","level":3,"transcription":null}
-{"es":"compartimento","kr":"구획","level":3,"transcription":null}
-{"es":"cubeta","kr":"쟁반","level":2,"transcription":null}
-{"es":"destapar","kr":"폭로하다","level":3,"transcription":null}
-{"es":"divorciar","kr":"이혼","level":3,"transcription":null}
-{"es":"enfurecido","kr":"성나게 하는","level":3,"transcription":null}
-{"es":"entreno","kr":"나는 훈련한다","level":3,"transcription":null}
-{"es":"espectaculo","kr":"보여주다","level":2,"transcription":null}
-{"es":"estantería","kr":"고문","level":3,"transcription":null}
-{"es":"exprés","kr":"표현하다","level":3,"transcription":null}
-{"es":"extension","kr":"확대","level":3,"transcription":null}
-{"es":"grandote","kr":"거대한","level":3,"transcription":null}
-{"es":"jovencito","kr":"어린이","level":3,"transcription":null}
-{"es":"kurdo","kr":"쿠르드어","level":3,"transcription":null}
-{"es":"lacio","kr":"절름발이","level":3,"transcription":null}
-{"es":"lactosa","kr":"유당","level":3,"transcription":null}
-{"es":"lechero","kr":"낙농","level":3,"transcription":null}
-{"es":"libanés","kr":"레바논 인","level":3,"transcription":null}
-{"es":"muleta","kr":"버팀목","level":3,"transcription":null}
-{"es":"nutricionista","kr":"영양사","level":3,"transcription":null}
-{"es":"nutritivo","kr":"영양가 있는","level":3,"transcription":null}
-{"es":"pequeñito","kr":"쉬","level":2,"transcription":null}
-{"es":"picadura","kr":"찌르기","level":3,"transcription":null}
-{"es":"pina","kr":"파인애플","level":2,"transcription":null}
-{"es":"polilla","kr":"나방","level":3,"transcription":null}
-{"es":"pomo","kr":"손잡이","level":3,"transcription":null}
-{"es":"psicologia","kr":"심리학","level":3,"transcription":null}
-{"es":"retrete","kr":"화장실","level":3,"transcription":null}
-{"es":"ruiseñor","kr":"나이팅게일","level":3,"transcription":null}
+{"es":"combi","kr":"","level":3,"transcription":null}
+{"es":"compartimento","kr":"","level":3,"transcription":null}
+{"es":"cubeta","kr":"","level":2,"transcription":null}
+{"es":"destapar","kr":"","level":3,"transcription":null}
+{"es":"divorciar","kr":"","level":3,"transcription":null}
+{"es":"enfurecido","kr":"","level":3,"transcription":null}
+{"es":"entreno","kr":"","level":3,"transcription":null}
+{"es":"espectaculo","kr":"","level":2,"transcription":null}
+{"es":"estantería","kr":"","level":3,"transcription":null}
+{"es":"exprés","kr":"","level":3,"transcription":null}
+{"es":"extension","kr":"","level":3,"transcription":null}
+{"es":"grandote","kr":"","level":3,"transcription":null}
+{"es":"jovencito","kr":"","level":3,"transcription":null}
+{"es":"kurdo","kr":"","level":3,"transcription":null}
+{"es":"lacio","kr":"","level":3,"transcription":null}
+{"es":"lactosa","kr":"","level":3,"transcription":null}
+{"es":"lechero","kr":"","level":3,"transcription":null}
+{"es":"libanés","kr":"","level":3,"transcription":null}
+{"es":"muleta","kr":"","level":3,"transcription":null}
+{"es":"nutricionista","kr":"","level":3,"transcription":null}
+{"es":"nutritivo","kr":"","level":3,"transcription":null}
+{"es":"pequeñito","kr":"","level":2,"transcription":null}
+{"es":"picadura","kr":"","level":3,"transcription":null}
+{"es":"pina","kr":"","level":2,"transcription":null}
+{"es":"polilla","kr":"","level":3,"transcription":null}
+{"es":"pomo","kr":"","level":3,"transcription":null}
+{"es":"psicologia","kr":"","level":3,"transcription":null}
+{"es":"retrete","kr":"","level":3,"transcription":null}
+{"es":"ruiseñor","kr":"","level":3,"transcription":null}
 {"es":"tajada","kr":"촙","level":3,"transcription":null}
 {"es":"tecno","kr":"테크노","level":3,"transcription":null}
 {"es":"transportador","kr":"컨베이어","level":3,"transcription":null}
-{"es":"turquesa","kr":"터키 옥","level":3,"transcription":null}
+{"es":"turquesa","kr":"터키옥","level":3,"transcription":null}
 {"es":"vasija","kr":"선박","level":3,"transcription":null}
 {"es":"afectuoso","kr":"다정한","level":3,"transcription":null}
 {"es":"agusto","kr":"편안하게","level":3,"transcription":null}
@@ -6266,10 +6266,10 @@
 {"es":"lesionar","kr":"해치다","level":3,"transcription":null}
 {"es":"librito","kr":"작은 책","level":2,"transcription":null}
 {"es":"limpiador","kr":"청소기","level":3,"transcription":null}
-{"es":"llavero","kr":"열쇠 고리","level":2,"transcription":null}
+{"es":"llavero","kr":"열쇠고리","level":2,"transcription":null}
 {"es":"llorona","kr":"울보","level":3,"transcription":null}
-{"es":"malayo","kr":"말레이 사람","level":3,"transcription":null}
-{"es":"manita","kr":"작은 손","level":2,"transcription":null}
+{"es":"malayo","kr":"말레이","level":3,"transcription":null}
+{"es":"manita","kr":"작은손","level":2,"transcription":null}
 {"es":"masajista","kr":"안마사","level":3,"transcription":null}
 {"es":"melody","kr":"멜로디","level":2,"transcription":null}
 {"es":"melon","kr":"멜론","level":1,"transcription":null}
@@ -6281,7 +6281,7 @@
 {"es":"porciento","kr":"퍼센트","level":2,"transcription":null}
 {"es":"pote","kr":"냄비","level":2,"transcription":null}
 {"es":"quilla","kr":"용골","level":3,"transcription":null}
-{"es":"refrescar","kr":"새로 고치다","level":3,"transcription":null}
+{"es":"refrescar","kr":"새로고치다","level":3,"transcription":null}
 {"es":"renglón","kr":"열","level":3,"transcription":null}
 {"es":"vaselina","kr":"바셀린","level":3,"transcription":null}
 {"es":"aloe","kr":"노회","level":3,"transcription":null}
@@ -6385,7 +6385,7 @@
 {"es":"albanés","kr":"알바니아","level":3,"transcription":null}
 {"es":"alcoba","kr":"침실","level":3,"transcription":null}
 {"es":"aromático","kr":"향긋한","level":3,"transcription":null}
-{"es":"austríaco","kr":"오스트리아 사람","level":3,"transcription":null}
+{"es":"austríaco","kr":"오스트리아인","level":3,"transcription":null}
 {"es":"calentador","kr":"히터","level":3,"transcription":null}
 {"es":"chiquillo","kr":"어린이","level":3,"transcription":null}
 {"es":"clavel","kr":"카네이션","level":3,"transcription":null}
@@ -6507,12 +6507,12 @@
 {"es":"ramen","kr":"라면","level":3,"transcription":null}
 {"es":"servido","kr":"봉사","level":2,"transcription":null}
 {"es":"silbato","kr":"휘파람","level":2,"transcription":null}
-{"es":"simplificado","kr":"쉽게 한","level":3,"transcription":null}
+{"es":"simplificado","kr":"간소화","level":3,"transcription":null}
 {"es":"ski","kr":"스키","level":2,"transcription":null}
 {"es":"solapa","kr":"플랩","level":3,"transcription":null}
 {"es":"sorpresivamente","kr":"놀랍게도","level":3,"transcription":null}
 {"es":"trabado","kr":"갇힌","level":3,"transcription":null}
-{"es":"trabajado","kr":"일했다","level":3,"transcription":null}
+{"es":"trabajado","kr":"일한","level":3,"transcription":null}
 {"es":"verdoso","kr":"녹색을 띤","level":3,"transcription":null}
 {"es":"abrirse","kr":"열려 있는","level":2,"transcription":null}
 {"es":"adhesivo","kr":"점착제","level":3,"transcription":null}
@@ -6716,11 +6716,11 @@
 {"es":"fome","kr":"거품","level":3,"transcription":null}
 {"es":"frutilla","kr":"딸기","level":2,"transcription":null}
 {"es":"gata","kr":"고양이","level":1,"transcription":null}
-{"es":"grafiti","kr":"낙서","level":3,"transcription":null}
+{"es":"grafiti","kr":"그라피티","level":3,"transcription":null}
 {"es":"guayaba","kr":"구아바","level":3,"transcription":null}
-{"es":"jubilar","kr":"은퇴하다","level":3,"transcription":null}
+{"es":"jubilar","kr":"퇴직하다","level":3,"transcription":null}
 {"es":"lagartija","kr":"도마뱀","level":3,"transcription":null}
-{"es":"loteria","kr":"운","level":2,"transcription":null}
+{"es":"loteria","kr":"로테리오","level":2,"transcription":null}
 {"es":"mantención","kr":"유지","level":3,"transcription":null}
 {"es":"mánager","kr":"관리자","level":3,"transcription":null}
 {"es":"nylon","kr":"나일론","level":3,"transcription":null}
@@ -6835,12 +6835,12 @@
 {"es":"telar","kr":"직조기","level":3,"transcription":null}
 {"es":"televisado","kr":"텔레비전으로 중계된","level":3,"transcription":null}
 {"es":"termita","kr":"흰개미","level":3,"transcription":null}
-{"es":"trasmitir","kr":"부치다","level":3,"transcription":null}
+{"es":"trasmitir","kr":"전달하다","level":3,"transcription":null}
 {"es":"trípode","kr":"삼각대","level":3,"transcription":null}
 {"es":"tunel","kr":"터널","level":2,"transcription":null}
 {"es":"varon","kr":"남성","level":3,"transcription":null}
 {"es":"vestidor","kr":"탈의실","level":3,"transcription":null}
-{"es":"vinculo","kr":"노예","level":3,"transcription":null}
+{"es":"vinculo","kr":"연결","level":3,"transcription":null}
 {"es":"violin","kr":"바이올린","level":2,"transcription":null}
 {"es":"acertijo","kr":"수수께끼","level":3,"transcription":null}
 {"es":"alfalfa","kr":"알팔파","level":3,"transcription":null}
@@ -6866,20 +6866,20 @@
 {"es":"lombriz","kr":"벌레","level":3,"transcription":null}
 {"es":"maquillar","kr":"조립","level":3,"transcription":null}
 {"es":"mascar","kr":"씹다","level":2,"transcription":null}
-{"es":"matricular","kr":"싸다","level":3,"transcription":null}
+{"es":"matricular","kr":"입학하다","level":3,"transcription":null}
 {"es":"monótono","kr":"단조로운","level":3,"transcription":null}
-{"es":"multicolor","kr":"여러 가지 빛깔의","level":3,"transcription":null}
+{"es":"multicolor","kr":"다채로운","level":3,"transcription":null}
 {"es":"nausea","kr":"메스꺼움","level":3,"transcription":null}
 {"es":"ocre","kr":"황토","level":3,"transcription":null}
 {"es":"pajaro","kr":"새","level":1,"transcription":null}
 {"es":"pantufla","kr":"덧신","level":2,"transcription":null}
 {"es":"papiro","kr":"파피루스","level":3,"transcription":null}
-{"es":"pinto","kr":"나는 그림을 그린다","level":3,"transcription":null}
+{"es":"pinto","kr":"그림을 그리는 사람","level":3,"transcription":null}
 {"es":"preposición","kr":"전치사","level":3,"transcription":null}
-{"es":"rayar","kr":"할퀴다","level":3,"transcription":null}
+{"es":"rayar","kr":"갈퀴다","level":3,"transcription":null}
 {"es":"rebanada","kr":"일부분","level":3,"transcription":null}
 {"es":"reutilizar","kr":"재사용","level":3,"transcription":null}
-{"es":"suv","kr":"suv","level":3,"transcription":null}
+{"es":"suv","kr":"스윙","level":3,"transcription":null}
 {"es":"taburete","kr":"발판","level":2,"transcription":null}
 {"es":"tension","kr":"부담","level":3,"transcription":null}
 {"es":"transportación","kr":"운송","level":3,"transcription":null}
@@ -6896,7 +6896,7 @@
 {"es":"chupete","kr":"고무 젖꼭지","level":2,"transcription":null}
 {"es":"colegiala","kr":"여학생","level":3,"transcription":null}
 {"es":"desinfectante","kr":"살균제","level":3,"transcription":null}
-{"es":"destornillador","kr":"드라이버","level":2,"transcription":null}
+{"es":"destornillador","kr":"드릴러","level":2,"transcription":null}
 {"es":"estomacal","kr":"위","level":3,"transcription":null}
 {"es":"expiración","kr":"만료","level":3,"transcription":null}
 {"es":"facilitado","kr":"촉진","level":3,"transcription":null}
@@ -6926,7 +6926,7 @@
 {"es":"reservación","kr":"예약","level":2,"transcription":null}
 {"es":"rockero","kr":"흔들리는 것","level":3,"transcription":null}
 {"es":"rótulo","kr":"상표","level":3,"transcription":null}
-{"es":"sintonizar","kr":"맞춰봐","level":3,"transcription":null}
+{"es":"sintonizar","kr":"조정하다","level":3,"transcription":null}
 {"es":"somalí","kr":"소말리아어","level":3,"transcription":null}
 {"es":"tachar","kr":"줄을 그어 지우다","level":3,"transcription":null}
 {"es":"tallarín","kr":"국수","level":2,"transcription":null}
@@ -6952,40 +6952,40 @@
 {"es":"lilia","kr":"릴리아","level":3,"transcription":null}
 {"es":"llovizna","kr":"이슬비","level":3,"transcription":null}
 {"es":"maniquí","kr":"마네킹","level":3,"transcription":null}
-{"es":"mejicano","kr":"멕시코 인","level":2,"transcription":null}
+{"es":"mejicano","kr":"멕시코인","level":2,"transcription":null}
 {"es":"membrillo","kr":"모과","level":3,"transcription":null}
 {"es":"mensualidad","kr":"월별 결제","level":3,"transcription":null}
 {"es":"monito","kr":"작은 원숭이","level":2,"transcription":null}
-{"es":"pedida","kr":"요청됨","level":3,"transcription":null}
-{"es":"placard","kr":"옷장","level":3,"transcription":null}
+{"es":"pedida","kr":"요청","level":3,"transcription":null}
+{"es":"placard","kr":"장고","level":3,"transcription":null}
 {"es":"plug","kr":"플러그","level":3,"transcription":null}
 {"es":"posesivo","kr":"소유격","level":3,"transcription":null}
 {"es":"programacion","kr":"프로그램 작성","level":3,"transcription":null}
 {"es":"raqueta","kr":"라켓","level":2,"transcription":null}
 {"es":"simbolo","kr":"상징","level":3,"transcription":null}
 {"es":"sólamente","kr":"오직","level":2,"transcription":null}
-{"es":"teñir","kr":"먹이다","level":3,"transcription":null}
-{"es":"vendado","kr":"붕대를 감은","level":3,"transcription":null}
+{"es":"teñir","kr":"색칠하다","level":3,"transcription":null}
+{"es":"vendado","kr":"붕대 감은","level":3,"transcription":null}
 {"es":"whiskey","kr":"위스키","level":3,"transcription":null}
 {"es":"admirado","kr":"존경받는","level":3,"transcription":null}
-{"es":"aficion","kr":"남편","level":3,"transcription":null}
+{"es":"aficion","kr":"호기심","level":3,"transcription":null}
 {"es":"albahaca","kr":"바질","level":3,"transcription":null}
 {"es":"albanes","kr":"알바니아","level":3,"transcription":null}
-{"es":"aparcado","kr":"주차","level":3,"transcription":null}
+{"es":"aparcado","kr":"주차장","level":3,"transcription":null}
 {"es":"basquetbol","kr":"농구","level":2,"transcription":null}
 {"es":"boli","kr":"펜","level":2,"transcription":null}
-{"es":"botiquín","kr":"전부","level":3,"transcription":null}
-{"es":"buñuelo","kr":"잘게 부수다","level":3,"transcription":null}
+{"es":"botiquín","kr":"약상대기","level":3,"transcription":null}
+{"es":"buñuelo","kr":"안경","level":3,"transcription":null}
 {"es":"colita","kr":"꼬리","level":2,"transcription":null}
 {"es":"conejito","kr":"토끼","level":2,"transcription":null}
 {"es":"cortito","kr":"짧은","level":3,"transcription":null}
 {"es":"dancing","kr":"댄스","level":3,"transcription":null}
-{"es":"degustar","kr":"맛","level":3,"transcription":null}
+{"es":"degustar","kr":"맛내다","level":3,"transcription":null}
 {"es":"delicadamente","kr":"섬세하게","level":3,"transcription":null}
-{"es":"desnudar","kr":"조각","level":3,"transcription":null}
-{"es":"electronics","kr":"전자 제품","level":3,"transcription":null}
+{"es":"desnudar","kr":"벗기다","level":3,"transcription":null}
+{"es":"electronics","kr":"전자제품","level":3,"transcription":null}
 {"es":"empacar","kr":"팩","level":2,"transcription":null}
-{"es":"esférico","kr":"구의","level":3,"transcription":null}
+{"es":"esférico","kr":"구형","level":3,"transcription":null}
 {"es":"events","kr":"이벤트","level":3,"transcription":null}
 {"es":"fiambre","kr":"뻣뻣한","level":3,"transcription":null}
 {"es":"frambuesa","kr":"산딸기","level":2,"transcription":null}
@@ -7016,10 +7016,10 @@
 {"es":"sincronizado","kr":"동기화됨","level":3,"transcription":null}
 {"es":"tenido","kr":"가졌다","level":2,"transcription":null}
 {"es":"trasmisión","kr":"전염","level":3,"transcription":null}
-{"es":"veintinueve","kr":"스물아홉","level":1,"transcription":null}
-{"es":"veintiuno","kr":"스물하나","level":1,"transcription":null}
+{"es":"veintinueve","kr":"아홉","level":1,"transcription":null}
+{"es":"veintiuno","kr":"하나","level":1,"transcription":null}
 {"es":"vendaje","kr":"붕대","level":3,"transcription":null}
-{"es":"veneciano","kr":"베네치아 풍의","level":3,"transcription":null}
+{"es":"veneciano","kr":"베네치아","level":3,"transcription":null}
 {"es":"visera","kr":"챙","level":3,"transcription":null}
 {"es":"amarre","kr":"계선","level":3,"transcription":null}
 {"es":"balompié","kr":"축구","level":3,"transcription":null}
@@ -7047,7 +7047,7 @@
 {"es":"habanero","kr":"하바네로","level":3,"transcription":null}
 {"es":"hablado","kr":"말한","level":3,"transcription":null}
 {"es":"herrería","kr":"대장간","level":3,"transcription":null}
-{"es":"hiedra","kr":"여자 이름","level":3,"transcription":null}
+{"es":"hiedra","kr":"여름","level":3,"transcription":null}
 {"es":"impersonal","kr":"비인격적인","level":3,"transcription":null}
 {"es":"impresor","kr":"인쇄기","level":3,"transcription":null}
 {"es":"inflar","kr":"부풀게 하다","level":3,"transcription":null}
@@ -7064,7 +7064,7 @@
 {"es":"rugir","kr":"노호","level":3,"transcription":null}
 {"es":"talent","kr":"재능","level":3,"transcription":null}
 {"es":"tostadora","kr":"빵 굽는 기구","level":2,"transcription":null}
-{"es":"transmision","kr":"전염","level":3,"transcription":null}
+{"es":"transmision","kr":"전송","level":3,"transcription":null}
 {"es":"triciclo","kr":"세발자전거","level":2,"transcription":null}
 {"es":"ahijado","kr":"대자","level":3,"transcription":null}
 {"es":"alacena","kr":"찬장","level":2,"transcription":null}
@@ -7076,15 +7076,15 @@
 {"es":"bisagra","kr":"돌쩌귀","level":3,"transcription":null}
 {"es":"catalá","kr":"카탈로니아 사람","level":3,"transcription":null}
 {"es":"chorrito","kr":"물방울","level":3,"transcription":null}
-{"es":"criticado","kr":"비판하다","level":3,"transcription":null}
-{"es":"cronómetro","kr":"메트로놈","level":3,"transcription":null}
+{"es":"criticado","kr":"비판받다","level":3,"transcription":null}
+{"es":"cronómetro","kr":"시계","level":3,"transcription":null}
 {"es":"decada","kr":"10년","level":3,"transcription":null}
 {"es":"desmayado","kr":"희미한","level":3,"transcription":null}
 {"es":"detallista","kr":"소매점","level":3,"transcription":null}
 {"es":"escuelita","kr":"작은 학교","level":2,"transcription":null}
 {"es":"estiramiento","kr":"뻗기","level":3,"transcription":null}
-{"es":"felicitado","kr":"축하한다","level":3,"transcription":null}
-{"es":"frotar","kr":"장애","level":3,"transcription":null}
+{"es":"felicitado","kr":"축하받다","level":3,"transcription":null}
+{"es":"frotar","kr":"마찰","level":3,"transcription":null}
 {"es":"gaita","kr":"백파이프","level":3,"transcription":null}
 {"es":"guirnalda","kr":"화환","level":3,"transcription":null}
 {"es":"guisado","kr":"스튜","level":3,"transcription":null}
@@ -7095,13 +7095,13 @@
 {"es":"marchitar","kr":"시들다","level":3,"transcription":null}
 {"es":"miniserie","kr":"미니시리즈","level":3,"transcription":null}
 {"es":"monada","kr":"귀여운","level":3,"transcription":null}
-{"es":"newsletter","kr":"회람 신문","level":3,"transcription":null}
-{"es":"peinar","kr":"빗","level":1,"transcription":null}
+{"es":"newsletter","kr":"뉴스레터","level":3,"transcription":null}
+{"es":"peinar","kr":"빗질","level":1,"transcription":null}
 {"es":"pelín","kr":"펠린","level":3,"transcription":null}
-{"es":"perdonado","kr":"용서받은","level":3,"transcription":null}
+{"es":"perdonado","kr":"용서받다","level":3,"transcription":null}
 {"es":"pibito","kr":"어린 소년","level":3,"transcription":null}
 {"es":"refri","kr":"냉장고","level":3,"transcription":null}
-{"es":"remodelado","kr":"리모델링된","level":3,"transcription":null}
+{"es":"remodelado","kr":"리모델링","level":3,"transcription":null}
 {"es":"simpatizar","kr":"동정하다","level":3,"transcription":null}
 {"es":"souvenir","kr":"기념품","level":3,"transcription":null}
 {"es":"superestrella","kr":"슈퍼스타","level":3,"transcription":null}
@@ -7181,7 +7181,7 @@
 {"es":"estandar","kr":"기준","level":3,"transcription":null}
 {"es":"fajo","kr":"뭉치","level":3,"transcription":null}
 {"es":"fedora","kr":"페도라","level":3,"transcription":null}
-{"es":"fenomeno","kr":"괴물 ","level":3,"transcription":null}
+{"es":"fenomeno","kr":"괴물","level":3,"transcription":null}
 {"es":"fisicamente","kr":"육체적으로","level":3,"transcription":null}
 {"es":"gentío","kr":"군중","level":3,"transcription":null}
 {"es":"handball","kr":"핸드볼","level":3,"transcription":null}

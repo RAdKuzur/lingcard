@@ -2,7 +2,7 @@
 {"kz":"ағайынды","sa":"الاخوة","level":2,"transcription":null}
 {"kz":"ағайын-туған","sa":"الأقارب","level":2,"transcription":null}
 {"kz":"ағалы-інілі","sa":"إخوة","level":2,"transcription":null}
-{"kz":"ақсүйек","sa":"الأرستقراطي","level":4,"transcription":null}
+{"kz":"ақсүйек","sa":"أرستقراطي","level":4,"transcription":null}
 {"kz":"ана","sa":"الأم","level":1,"transcription":null}
 {"kz":"апалы-сіңілі","sa":"إخوة","level":2,"transcription":null}
 {"kz":"армандаушы","sa":"حالم","level":3,"transcription":null}
@@ -17,7 +17,7 @@
 {"kz":"бажа","sa":"أزواج الأخوات لبعضهم البعض","level":5,"transcription":null}
 {"kz":"бала","sa":"طفل، صبي","level":1,"transcription":null}
 {"kz":"балдыз","sa":"الإخوة والأخوات الأصغر للزوجة","level":5,"transcription":null}
-{"kz":"бауыр","sa":"الكبد","level":3,"transcription":null}
+{"kz":"бауыр","sa":"قريب الدم","level":3,"transcription":null}
 {"kz":"бәсекелес","sa":"منافس، منافس","level":4,"transcription":null}
 {"kz":"бозбала","sa":"شاب","level":3,"transcription":null}
 {"kz":"бойжеткен","sa":"امرأة شابة","level":3,"transcription":null}
@@ -59,7 +59,7 @@
 {"kz":"қиялшыл","sa":"حالم","level":4,"transcription":null}
 {"kz":"құрбы","sa":"صديقة","level":2,"transcription":null}
 {"kz":"құрдас","sa":"نظير","level":3,"transcription":null}
-{"kz":"қыз","sa":"فتاة، ابنة","level":1,"transcription":null}
+{"kz":"қыз","sa":"فتاة","level":1,"transcription":null}
 {"kz":"нағашы","sa":"قريب الأم","level":4,"transcription":null}
 {"kz":"нәресте","sa":"طفل","level":3,"transcription":null}
 {"kz":"негізін салушы","sa":"مؤسس","level":5,"transcription":null}
@@ -88,11 +88,11 @@
 {"kz":"ауылдық жер","sa":"الريف","level":3,"transcription":null}
 {"kz":"аяқ киім жөндеу","sa":"إصلاح الأحذية","level":3,"transcription":null}
 {"kz":"аялдама","sa":"قف","level":2,"transcription":null}
-{"kz":"әкімдік","sa":"أكيمات","level":4,"transcription":null}
+{"kz":"әкімдік","sa":"الإدارة","level":4,"transcription":null}
 {"kz":"бағдаршам","sa":"إشارة المرور","level":3,"transcription":null}
 {"kz":"бақ","sa":"حديقة","level":1,"transcription":null}
 {"kz":"бақша","sa":"حديقة","level":2,"transcription":null}
-{"kz":"балабақша","sa":"روضة أطفال","level":2,"transcription":null}
+{"kz":"балабақша","sa":"مدرسة أطفال","level":2,"transcription":null}
 {"kz":"банк","sa":"بنك","level":1,"transcription":null}
 {"kz":"ғимарат","sa":"مبنى","level":3,"transcription":null}
 {"kz":"даңғыл","sa":"شارع","level":3,"transcription":null}
@@ -107,7 +107,7 @@
 {"kz":"жедел жәрдем","sa":"سيارة إسعاف","level":3,"transcription":null}
 {"kz":"зауыт","sa":"مصنع","level":3,"transcription":null}
 {"kz":"институт","sa":"معهد","level":3,"transcription":null}
-{"kz":"көлік","sa":"ينقل","level":2,"transcription":null}
+{"kz":"көлік","sa":"النقل","level":2,"transcription":null}
 {"kz":"көше","sa":"شارع","level":1,"transcription":null}
 {"kz":"көшірме орталығы","sa":"مركز النسخ","level":4,"transcription":null}
 {"kz":"кітап дүкені","sa":"مكتبة","level":3,"transcription":null}
@@ -160,7 +160,7 @@
 {"kz":"бесік","sa":"مهد","level":4,"transcription":null}
 {"kz":"бөлме","sa":"غرفة","level":2,"transcription":null}
 {"kz":"бөшке","sa":"برميل","level":3,"transcription":null}
-{"kz":"бұрыш","sa":"الفلفل","level":2,"transcription":null}
+{"kz":"бұрыш","sa":"ركن","level":2,"transcription":null}
 {"kz":"газ баллоны","sa":"اسطوانة غاز","level":4,"transcription":null}
 {"kz":"газ плитасы","sa":"موقد غاز","level":3,"transcription":null}
 {"kz":"дәліз","sa":"الممر","level":3,"transcription":null}
@@ -182,7 +182,7 @@
 {"kz":"картон жәшік","sa":"صندوق من الورق المقوى","level":4,"transcription":null}
 {"kz":"кәрзеңке","sa":"سلة","level":3,"transcription":null}
 {"kz":"кереует","sa":"سرير","level":2,"transcription":null}
-{"kz":"кесе","sa":"صَحن","level":3,"transcription":null}
+{"kz":"кесе","sa":"صحن","level":3,"transcription":null}
 {"kz":"көрпе","sa":"بطانية","level":3,"transcription":null}
 {"kz":"кілем","sa":"سجادة","level":2,"transcription":null}
 {"kz":"кілт","sa":"مفتاح","level":2,"transcription":null}
@@ -257,15 +257,15 @@
 {"kz":"ес, жады","sa":"ذاكرة","level":3,"transcription":null}
 {"kz":"жақ","sa":"خدّ","level":2,"transcription":null}
 {"kz":"желке","sa":"الجزء الخلفي من الرأس","level":4,"transcription":null}
-{"kz":"жүз","sa":"مائة","level":1,"transcription":null}
+{"kz":"жүз","sa":"الوجه والمظهر","level":1,"transcription":null}
 {"kz":"жүрек","sa":"قلب","level":2,"transcription":null}
 {"kz":"иек","sa":"ذقن","level":3,"transcription":null}
 {"kz":"иық","sa":"كتف","level":2,"transcription":null}
 {"kz":"кекіл","sa":"انفجار","level":4,"transcription":null}
 {"kz":"кеуде","sa":"صدر","level":3,"transcription":null}
 {"kz":"көз","sa":"عين","level":1,"transcription":null}
-{"kz":"көзқарас","sa":"انظر يا رأي","level":4,"transcription":null}
-{"kz":"көкірек","sa":".القفص الصدري","level":4,"transcription":null}
+{"kz":"көзқарас","sa":"رأي","level":4,"transcription":null}
+{"kz":"көкірек","sa":"الحنجرة","level":4,"transcription":null}
 {"kz":"көңіл күй","sa":"مزاج","level":3,"transcription":null}
 {"kz":"кірпік","sa":"الرموش","level":4,"transcription":null}
 {"kz":"қабақ","sa":"جفن","level":4,"transcription":null}
@@ -286,7 +286,7 @@
 {"kz":"мінез","sa":"شخصية","level":3,"transcription":null}
 {"kz":"назар","sa":"انتباه","level":2,"transcription":null}
 {"kz":"несеп жолы","sa":"الحالب","level":6,"transcription":null}
-{"kz":"өкпе","sa":"استياء","level":3,"transcription":null}
+{"kz":"өкпе","sa":"الرئتين","level":3,"transcription":null}
 {"kz":"өкше","sa":"كعب","level":3,"transcription":null}
 {"kz":"парасат, интеллект","sa":"ذكاء","level":4,"transcription":null}
 {"kz":"пікір","sa":"رأي","level":3,"transcription":null}
@@ -296,8 +296,8 @@
 {"kz":"сезім","sa":"إحساس","level":3,"transcription":null}
 {"kz":"соқырішек","sa":"التهاب الزائدة الدودية","level":5,"transcription":null}
 {"kz":"сүйек","sa":"عظم","level":2,"transcription":null}
-{"kz":"тамақ","sa":"حُلقُوم","level":2,"transcription":null}
-{"kz":"тамыр","sa":"جذر (نبات)","level":3,"transcription":null}
+{"kz":"тамақ","sa":"حلق","level":2,"transcription":null}
+{"kz":"тамыр","sa":"الوريد","level":3,"transcription":null}
 {"kz":"түсінік","sa":"فهم","level":3,"transcription":null}
 {"kz":"тырнақ","sa":"مسمار","level":2,"transcription":null}
 {"kz":"тізе","sa":"ركبة","level":2,"transcription":null}
@@ -308,23 +308,23 @@
 {"kz":"іш","sa":"معدة","level":2,"transcription":null}
 {"kz":"ішек","sa":"أمعاء","level":4,"transcription":null}
 {"kz":"әліпби","sa":"الأبجدية","level":3,"transcription":null}
-{"kz":"әліппе","sa":"اي بي سي","level":3,"transcription":null}
-{"kz":"әріп","sa":"خطاب","level":2,"transcription":null}
-{"kz":"бaстауыш мектеп","sa":"مدرسة إبتدائية","level":3,"transcription":null}
+{"kz":"әліппе","sa":"الكتاب","level":3,"transcription":null}
+{"kz":"әріп","sa":"حرف","level":2,"transcription":null}
+{"kz":"бaстауыш мектеп","sa":"مدرسة ابتدائية","level":3,"transcription":null}
 {"kz":"баға","sa":"سعر","level":2,"transcription":null}
-{"kz":"белгі","sa":"لافتة","level":2,"transcription":null}
+{"kz":"белгі","sa":"رمز","level":2,"transcription":null}
 {"kz":"бестік","sa":"خمسة","level":3,"transcription":null}
-{"kz":"биіктік","sa":"ارتفاع","level":3,"transcription":null}
-{"kz":"бояу","sa":"لون","level":2,"transcription":null}
-{"kz":"бөлшек","sa":"جزء، جزء","level":3,"transcription":null}
-{"kz":"білім","sa":"معرفة","level":2,"transcription":null}
+{"kz":"биіктік","sa":"الارتفاع","level":3,"transcription":null}
+{"kz":"бояу","sa":"صبغة","level":2,"transcription":null}
+{"kz":"бөлшек","sa":"جزء","level":3,"transcription":null}
+{"kz":"білім","sa":"التعليم","level":2,"transcription":null}
 {"kz":"білім ордасы","sa":"مؤسسة تعليمية","level":4,"transcription":null}
-{"kz":"білім ісі","sa":"مسألة التعليم","level":4,"transcription":null}
+{"kz":"білім ісі","sa":"مسألة","level":4,"transcription":null}
 {"kz":"білімді ұрпақ","sa":"جيل متعلم","level":4,"transcription":null}
 {"kz":"грант иесі","sa":"صاحب المنحة","level":5,"transcription":null}
 {"kz":"ғылым негіздері","sa":"أساسيات العلوم","level":4,"transcription":null}
 {"kz":"ғылыми мақала","sa":"مقالة علمية","level":4,"transcription":null}
-{"kz":"дауыс ырғағы","sa":"التجويد","level":5,"transcription":null}
+{"kz":"дауыс ырғағы","sa":"التنغيم","level":5,"transcription":null}
 {"kz":"дәйекше, апостроф","sa":"الفاصلة العليا","level":5,"transcription":null}
 {"kz":"дәптер","sa":"دفتر","level":2,"transcription":null}
 {"kz":"дәріс","sa":"محاضرة","level":3,"transcription":null}
@@ -346,8 +346,8 @@
 {"kz":"инициал","sa":"أولي","level":4,"transcription":null}
 {"kz":"кәмелеттік аттестат","sa":"شهادة الثانوية العامة","level":5,"transcription":null}
 {"kz":"келі","sa":"كيلوغرام","level":2,"transcription":null}
-{"kz":"кесте","sa":"تطريز","level":4,"transcription":null}
-{"kz":"кесте","sa":"تطريز","level":4,"transcription":null}
+{"kz":"кесте","sa":"الجدول الزمني، الجدول الزمني","level":4,"transcription":null}
+{"kz":"кесте","sa":"الرسم البياني، الجدول","level":4,"transcription":null}
 {"kz":"килограмм","sa":"كيلوغرام","level":2,"transcription":null}
 {"kz":"компьютер","sa":"حاسوب","level":2,"transcription":null}
 {"kz":"күнделік","sa":"مذكرة","level":3,"transcription":null}
@@ -356,9 +356,9 @@
 {"kz":"қазақ жазуы","sa":"الكتابة الكازاخستانية","level":4,"transcription":null}
 {"kz":"қаламсап","sa":"قلم","level":2,"transcription":null}
 {"kz":"қанат белгісі","sa":"علامة الاختيار","level":4,"transcription":null}
-{"kz":"қарындаш","sa":"قلم رصاص","level":2,"transcription":null}
+{"kz":"қарындаш","sa":"رصاص","level":2,"transcription":null}
 {"kz":"қате","sa":"خطأ","level":2,"transcription":null}
-{"kz":"мақам, дикция","sa":"الالقاء","level":4,"transcription":null}
+{"kz":"мақам, дикция","sa":"الاعتماد","level":4,"transcription":null}
 {"kz":"метр","sa":"متر","level":2,"transcription":null}
 {"kz":"нөмір","sa":"رقم","level":2,"transcription":null}
 {"kz":"ойын","sa":"لعبة","level":1,"transcription":null}
@@ -366,32 +366,32 @@
 {"kz":"оқу құралдары","sa":"الوسائل التعليمية","level":4,"transcription":null}
 {"kz":"оқу мерзімі","sa":"مدة الدراسة","level":4,"transcription":null}
 {"kz":"оқулық","sa":"كتاب مدرسي","level":3,"transcription":null}
-{"kz":"оқушы","sa":"طلاب)","level":2,"transcription":null}
+{"kz":"оқушы","sa":"طالب","level":2,"transcription":null}
 {"kz":"орта білім","sa":"التعليم الثانوي","level":3,"transcription":null}
 {"kz":"орта мектеп","sa":"مدرسة ثانوية","level":3,"transcription":null}
-{"kz":"өлшеуіш","sa":"شريط قياس، قياس","level":3,"transcription":null}
+{"kz":"өлшеуіш","sa":"قياس","level":3,"transcription":null}
 {"kz":"өшіргіш","sa":"ممحاة","level":3,"transcription":null}
 {"kz":"парта","sa":"مكتب","level":3,"transcription":null}
-{"kz":"пән","sa":"غرض","level":2,"transcription":null}
-{"kz":"практика","sa":"يمارس","level":3,"transcription":null}
-{"kz":"сабақ","sa":"ينبع","level":3,"transcription":null}
+{"kz":"пән","sa":"مادة","level":2,"transcription":null}
+{"kz":"практика","sa":"الممارسة","level":3,"transcription":null}
+{"kz":"сабақ","sa":"درس","level":3,"transcription":null}
 {"kz":"сабақ кестесі","sa":"جدول الدرس","level":3,"transcription":null}
 {"kz":"сан","sa":"رقم","level":2,"transcription":null}
 {"kz":"сандар","sa":"أرقام","level":2,"transcription":null}
 {"kz":"сөз","sa":"كلمة","level":1,"transcription":null}
-{"kz":"сөйлем","sa":"يعرض","level":3,"transcription":null}
-{"kz":"сөйленіс","sa":"يتحدث","level":4,"transcription":null}
+{"kz":"сөйлем","sa":"جملة","level":3,"transcription":null}
+{"kz":"сөйленіс","sa":"تحدث","level":4,"transcription":null}
 {"kz":"сурет салу","sa":"رسم","level":3,"transcription":null}
 {"kz":"сұхбат, диалог","sa":"حوار","level":3,"transcription":null}
 {"kz":"сызғыш","sa":"حاكم","level":3,"transcription":null}
-{"kz":"сызу","sa":"يرسم","level":3,"transcription":null}
+{"kz":"сызу","sa":"رسم","level":3,"transcription":null}
 {"kz":"сызық","sa":"خط","level":2,"transcription":null}
 {"kz":"сынақ","sa":"امتحان","level":3,"transcription":null}
 {"kz":"сынып","sa":"فصل","level":2,"transcription":null}
-{"kz":"табысты тапсыру","sa":"الانتهاء بنجاح","level":4,"transcription":null}
+{"kz":"табысты тапсыру","sa":"العمل في المنزل","level":4,"transcription":null}
 {"kz":"тақта","sa":"سبورة","level":2,"transcription":null}
 {"kz":"тақырып","sa":"عنوان","level":2,"transcription":null}
-{"kz":"таңба","sa":"بصمة، علامة، علامة","level":4,"transcription":null}
+{"kz":"таңба","sa":"بصمة","level":4,"transcription":null}
 {"kz":"тапсырма","sa":"يمارس","level":3,"transcription":null}
 {"kz":"тарих","sa":"قصة","level":2,"transcription":null}
 {"kz":"тереңдік","sa":"عمق","level":3,"transcription":null}
@@ -413,9 +413,9 @@
 {"kz":"шеңбер","sa":"دائرة","level":2,"transcription":null}
 {"kz":"шет тілі","sa":"لغة اجنبية","level":3,"transcription":null}
 {"kz":"азық-түлік","sa":"طعام","level":3,"transcription":null}
-{"kz":"айран","sa":"الكفير","level":2,"transcription":null}
+{"kz":"айран","sa":"الايوان","level":2,"transcription":null}
 {"kz":"алма","sa":"تفاحة","level":1,"transcription":null}
-{"kz":"алмұрт","sa":"كُمَّثرَى","level":2,"transcription":null}
+{"kz":"алмұрт","sa":"الموز","level":2,"transcription":null}
 {"kz":"алхоры, қараөрік","sa":"البرقوق","level":3,"transcription":null}
 {"kz":"арпа","sa":"الشعير","level":4,"transcription":null}
 {"kz":"асқабақ","sa":"اليقطين","level":3,"transcription":null}
@@ -429,7 +429,7 @@
 {"kz":"бәліш","sa":"فطيرة","level":3,"transcription":null}
 {"kz":"бидай","sa":"قمح","level":3,"transcription":null}
 {"kz":"ботқа","sa":"عصيدة","level":2,"transcription":null}
-{"kz":"бұршақ","sa":"يشيد","level":3,"transcription":null}
+{"kz":"бұршақ","sa":"البازلاء","level":3,"transcription":null}
 {"kz":"бұрыш","sa":"الفلفل","level":2,"transcription":null}
 {"kz":"бүлдірген","sa":"الفراولة","level":4,"transcription":null}
 {"kz":"бір қайнатым","sa":"لحام","level":4,"transcription":null}
@@ -470,7 +470,7 @@
 {"kz":"құлпынай","sa":"الفراولة","level":3,"transcription":null}
 {"kz":"қызанақ","sa":"طماطم","level":2,"transcription":null}
 {"kz":"қызылша","sa":"بنجر","level":3,"transcription":null}
-{"kz":"қымыз","sa":"كوميس","level":4,"transcription":null}
+{"kz":"қымыз","sa":"الزيت","level":4,"transcription":null}
 {"kz":"қырыққабат","sa":"كرنب","level":3,"transcription":null}
 {"kz":"қыша","sa":"الخردل","level":4,"transcription":null}
 {"kz":"май","sa":"زيت","level":1,"transcription":null}
@@ -499,7 +499,7 @@
 {"kz":"табиғи өнім","sa":"منتج طبيعي","level":4,"transcription":null}
 {"kz":"тағам","sa":"طبق (طعام)","level":3,"transcription":null}
 {"kz":"таңғы ас","sa":"إفطار","level":2,"transcription":null}
-{"kz":"таңқурай","sa":"توت العُليق","level":3,"transcription":null}
+{"kz":"таңқурай","sa":"توت العليق","level":3,"transcription":null}
 {"kz":"тары","sa":"الدخن","level":4,"transcription":null}
 {"kz":"тәттілер","sa":"حلويات","level":2,"transcription":null}
 {"kz":"тез дайын болатын тағамдар","sa":"الوجبات السريعة","level":5,"transcription":null}
@@ -518,9 +518,9 @@
 {"kz":"шұжық","sa":"سجق","level":3,"transcription":null}
 {"kz":"шырын","sa":"عصير","level":2,"transcription":null}
 {"kz":"ірімшік","sa":"جبن","level":3,"transcription":null}
-{"kz":"ағаш","sa":"خشب","level":3,"transcription":null}
+{"kz":"ағаш","sa":"شجرة","level":3,"transcription":null}
 {"kz":"ағыс","sa":"تدفق","level":3,"transcription":null}
-{"kz":"ай","sa":"شهر","level":1,"transcription":null}
+{"kz":"ай","sa":"قمر","level":1,"transcription":null}
 {"kz":"айдың тұтылуы","sa":"خسوف القمر","level":5,"transcription":null}
 {"kz":"айлақ","sa":"ميناء","level":4,"transcription":null}
 {"kz":"ақ жауын","sa":"مطر خفيف","level":3,"transcription":null}
@@ -528,16 +528,16 @@
 {"kz":"арал","sa":"جزيرة","level":2,"transcription":null}
 {"kz":"аспан","sa":"سماء","level":1,"transcription":null}
 {"kz":"астық тұқымдастар","sa":"الحبوب","level":5,"transcription":null}
-{"kz":"атмосфера","sa":"أَجواء","level":4,"transcription":null}
-{"kz":"атмосфера қысымы","sa":"الضغط الجوي","level":5,"transcription":null}
+{"kz":"атмосфера","sa":"الفضاء","level":4,"transcription":null}
+{"kz":"атмосфера қысымы","sa":"ضغط الهواء","level":5,"transcription":null}
 {"kz":"ауа","sa":"هواء","level":1,"transcription":null}
 {"kz":"ауа райы","sa":"طقس","level":2,"transcription":null}
-{"kz":"ашық күн","sa":"يوم واضح","level":2,"transcription":null}
-{"kz":"балды өсімдіктер","sa":"نباتات العسل","level":5,"transcription":null}
-{"kz":"барқан, шағыл","sa":"برخان","level":5,"transcription":null}
+{"kz":"ашық күн","sa":"يوم صاف","level":2,"transcription":null}
+{"kz":"балды өсімдіктер","sa":"النباتات المائية","level":5,"transcription":null}
+{"kz":"барқан, шағыл","sa":"بركان","level":5,"transcription":null}
 {"kz":"бастау","sa":"مصدر","level":3,"transcription":null}
 {"kz":"батпақ","sa":"مستنقع","level":4,"transcription":null}
-{"kz":"баяу жел, самал","sa":"نسيم، نسيم خفيف","level":4,"transcription":null}
+{"kz":"баяу жел, самал","sa":"نسيم خفيف","level":4,"transcription":null}
 {"kz":"боран","sa":"عاصفة ثلجية","level":4,"transcription":null}
 {"kz":"бұлақ","sa":"مفتاح","level":3,"transcription":null}
 {"kz":"біржылдық өсімдіктер","sa":"النباتات السنوية","level":5,"transcription":null}
@@ -566,7 +566,7 @@
 {"kz":"көлдің бетін тұман басты","sa":"الضباب فوق البحيرة","level":4,"transcription":null}
 {"kz":"көлеңке","sa":"الظل","level":3,"transcription":null}
 {"kz":"көпжылдық өсімдіктер","sa":"النباتات المعمرة","level":5,"transcription":null}
-{"kz":"күн","sa":"يوم","level":1,"transcription":null}
+{"kz":"күн","sa":"شمس","level":1,"transcription":null}
 {"kz":"күннің батуы","sa":"غروب","level":3,"transcription":null}
 {"kz":"күннің тұтылуы","sa":"كسوف الشمس","level":5,"transcription":null}
 {"kz":"күннің шығуы","sa":"شروق الشمس","level":3,"transcription":null}
@@ -580,7 +580,7 @@
 {"kz":"қуаңшылықпен күресу","sa":"السيطرة على الجفاف","level":5,"transcription":null}
 {"kz":"құз, шыңырау","sa":"هاوية","level":4,"transcription":null}
 {"kz":"құйын","sa":"دوامة","level":4,"transcription":null}
-{"kz":"құрғақшылық","sa":"جفاف، قحط، قحط","level":4,"transcription":null}
+{"kz":"құрғақшылық","sa":"جفاف، قحط","level":4,"transcription":null}
 {"kz":"ластану","sa":"تلوث","level":3,"transcription":null}
 {"kz":"мұхит","sa":"محيط","level":3,"transcription":null}
 {"kz":"найзағай","sa":"البرق","level":3,"transcription":null}
@@ -615,7 +615,7 @@
 {"kz":"температура","sa":"درجة حرارة","level":3,"transcription":null}
 {"kz":"теңіз","sa":"بحر","level":1,"transcription":null}
 {"kz":"теңіз жағалауы","sa":"ساحل البحر","level":4,"transcription":null}
-{"kz":"термометр","sa":"ميزان الحرارة","level":3,"transcription":null}
+{"kz":"термометр","sa":"مقياس الحرارة","level":3,"transcription":null}
 {"kz":"толқын","sa":"موجة","level":2,"transcription":null}
 {"kz":"төбе","sa":"تلة","level":3,"transcription":null}
 {"kz":"тұман","sa":"ضباب","level":2,"transcription":null}
@@ -629,7 +629,7 @@
 {"kz":"шөл","sa":"صحراء","level":3,"transcription":null}
 {"kz":"шұңқыр","sa":"الاكتئاب والعطلة","level":4,"transcription":null}
 {"kz":"шың","sa":"قمة الرأس","level":3,"transcription":null}
-{"kz":"ақбалық","sa":"asp","level":5,"transcription":null}
+{"kz":"ақбалық","sa":"أسماك","level":5,"transcription":null}
 {"kz":"аққу","sa":"بجعة","level":3,"transcription":null}
 {"kz":"ақсерке","sa":"بيلوغا","level":5,"transcription":null}
 {"kz":"ақтабан","sa":"الدنيس","level":5,"transcription":null}
@@ -740,7 +740,7 @@
 {"kz":"алға басу","sa":"تقدم","level":4,"transcription":null}
 {"kz":"алғышарт","sa":"فرضية","level":5,"transcription":null}
 {"kz":"амал, тәсіл","sa":"طريق","level":3,"transcription":null}
-{"kz":"анықтау, нақтылау","sa":"وضح، وضح","level":4,"transcription":null}
+{"kz":"анықтау, нақтылау","sa":"إيضاح","level":4,"transcription":null}
 {"kz":"аспаз","sa":"يطبخ","level":3,"transcription":null}
 {"kz":"аудармашы","sa":"مترجم","level":3,"transcription":null}
 {"kz":"бағалау","sa":"درجة","level":3,"transcription":null}
@@ -772,7 +772,7 @@
 {"kz":"жаңашыл педагог","sa":"المعلم المبتكر","level":5,"transcription":null}
 {"kz":"жаратылу","sa":"الخلق","level":4,"transcription":null}
 {"kz":"жетіспеушілік","sa":"عيب","level":4,"transcription":null}
-{"kz":"жиналыс","sa":"اجتماع، اجتماع","level":3,"transcription":null}
+{"kz":"жиналыс","sa":"اجتماع","level":3,"transcription":null}
 {"kz":"жоба","sa":"مشروع","level":3,"transcription":null}
 {"kz":"жоғары көрсеткіш","sa":"معدل مرتفع","level":4,"transcription":null}
 {"kz":"жұмыс","sa":"وظيفة","level":1,"transcription":null}
@@ -783,22 +783,22 @@
 {"kz":"жұмысбастылық","sa":"توظيف","level":5,"transcription":null}
 {"kz":"жұмыссыздық","sa":"البطالة","level":4,"transcription":null}
 {"kz":"жұмысшы","sa":"عامل","level":3,"transcription":null}
-{"kz":"жүргізуші","sa":"driver","level":3,"transcription":null}
+{"kz":"жүргізуші","sa":"مدير","level":3,"transcription":null}
 {"kz":"заңгер","sa":"محامي","level":4,"transcription":null}
 {"kz":"заңтану","sa":"الفقه","level":5,"transcription":null}
 {"kz":"зерттеуші","sa":"الباحث","level":4,"transcription":null}
 {"kz":"иелену","sa":"تملُّك","level":4,"transcription":null}
-{"kz":"кәсіп","sa":"المهنة والاحتلال","level":3,"transcription":null}
-{"kz":"кәсіпкер","sa":"مُقَاوِل","level":4,"transcription":null}
+{"kz":"кәсіп","sa":"المهنة","level":3,"transcription":null}
+{"kz":"кәсіпкер","sa":"مؤسس","level":4,"transcription":null}
 {"kz":"кәсіпорын","sa":"مَشرُوع","level":4,"transcription":null}
 {"kz":"кедергі","sa":"عائق، حاجز","level":4,"transcription":null}
-{"kz":"кездесу","sa":"يقابل","level":2,"transcription":null}
+{"kz":"кездесу","sa":"مقابلة","level":2,"transcription":null}
 {"kz":"келіссөз","sa":"التفاوض","level":4,"transcription":null}
 {"kz":"кепілдік","sa":"يضمن","level":4,"transcription":null}
 {"kz":"көмекші","sa":"مساعد","level":3,"transcription":null}
 {"kz":"көп тіл білуші","sa":"متعدد اللغات","level":5,"transcription":null}
 {"kz":"күнтізбе","sa":"تقويم","level":3,"transcription":null}
-{"kz":"қабылдау","sa":"يقبل","level":2,"transcription":null}
+{"kz":"қабылдау","sa":"استقبال","level":2,"transcription":null}
 {"kz":"қаржыгер","sa":"ممول","level":5,"transcription":null}
 {"kz":"қиындық","sa":"صعوبة","level":3,"transcription":null}
 {"kz":"қорытынды","sa":"الاستنتاج، الاستنتاج","level":4,"transcription":null}
@@ -821,7 +821,7 @@
 {"kz":"оқытушы","sa":"مدرس","level":4,"transcription":null}
 {"kz":"орынбасар","sa":"نائب","level":4,"transcription":null}
 {"kz":"өмірбаян","sa":"السيرة الذاتية","level":4,"transcription":null}
-{"kz":"өтіл","sa":"خبرة","level":4,"transcription":null}
+{"kz":"өтіл","sa":"الخبرة","level":4,"transcription":null}
 {"kz":"өтініш","sa":"إفادة","level":3,"transcription":null}
 {"kz":"профессор","sa":"أستاذ","level":4,"transcription":null}
 {"kz":"ректор","sa":"رئيس الجامعة","level":4,"transcription":null}
@@ -829,7 +829,7 @@
 {"kz":"сатушы","sa":"بائع","level":2,"transcription":null}
 {"kz":"саудагер","sa":"تاجر","level":3,"transcription":null}
 {"kz":"сәнгер","sa":"مصمم أزياء","level":4,"transcription":null}
-{"kz":"сәулет","sa":"بنيان","level":4,"transcription":null}
+{"kz":"сәулет","sa":"معمار","level":4,"transcription":null}
 {"kz":"сәулетші","sa":"مهندس معماري","level":4,"transcription":null}
 {"kz":"сенімділік","sa":"ثقة","level":4,"transcription":null}
 {"kz":"сипаттау","sa":"وصف","level":3,"transcription":null}
@@ -879,36 +879,36 @@
 {"kz":"вагон","sa":"النقل","level":2,"transcription":null}
 {"kz":"велосипед","sa":"دراجة","level":2,"transcription":null}
 {"kz":"виза","sa":"فيزا","level":3,"transcription":null}
-{"kz":"волейбол","sa":"الكرة الطائرة","level":2,"transcription":null}
-{"kz":"гимнастшы","sa":"لاعبة جمباز","level":4,"transcription":null}
-{"kz":"ғаламтор","sa":"إنترنت","level":2,"transcription":null}
+{"kz":"волейбол","sa":"كرة الطائرة","level":2,"transcription":null}
+{"kz":"гимнастшы","sa":"لاعب جمباز","level":4,"transcription":null}
+{"kz":"ғаламтор","sa":"","level":2,"transcription":null}
 {"kz":"демалыс орны","sa":"منطقة ترفيهية","level":3,"transcription":null}
 {"kz":"екікісілік бөлме","sa":"غرفة مزدوجة","level":4,"transcription":null}
 {"kz":"жайлылық","sa":"راحة","level":4,"transcription":null}
-{"kz":"жалдамалы пәтер","sa":"شقة للإيجار","level":4,"transcription":null}
+{"kz":"жалдамалы пәтер","sa":"","level":4,"transcription":null}
 {"kz":"жанкүйер","sa":"معجب","level":3,"transcription":null}
 {"kz":"жарыс","sa":"مسابقة","level":3,"transcription":null}
 {"kz":"жауапкершілік","sa":"مسؤولية","level":4,"transcription":null}
 {"kz":"жеңіл атлетика","sa":"ألعاب القوى","level":4,"transcription":null}
 {"kz":"жеткізу","sa":"توصيل","level":3,"transcription":null}
 {"kz":"жол","sa":"طريق","level":1,"transcription":null}
-{"kz":"жолақы","sa":"أجرة","level":4,"transcription":null}
+{"kz":"жолақы","sa":"","level":4,"transcription":null}
 {"kz":"жолаушы","sa":"راكب","level":3,"transcription":null}
-{"kz":"жолсерік","sa":"موصل","level":4,"transcription":null}
-{"kz":"жүгіру","sa":"يجري","level":2,"transcription":null}
+{"kz":"жолсерік","sa":"","level":4,"transcription":null}
+{"kz":"жүгіру","sa":"جري","level":2,"transcription":null}
 {"kz":"жүзу бассейні","sa":"حمام السباحة","level":4,"transcription":null}
 {"kz":"жүк","sa":"البضائع","level":3,"transcription":null}
 {"kz":"залал, зиян","sa":"ضرر","level":3,"transcription":null}
-{"kz":"зияндылық","sa":"ضرر","level":4,"transcription":null}
+{"kz":"зияндылық","sa":"","level":4,"transcription":null}
 {"kz":"капитан, жетекші","sa":"قبطان","level":3,"transcription":null}
-{"kz":"кеден","sa":"جمارك","level":4,"transcription":null}
+{"kz":"кеден","sa":"","level":4,"transcription":null}
 {"kz":"кеме","sa":"سفينة","level":2,"transcription":null}
-{"kz":"кептеліс","sa":"الفلين","level":3,"transcription":null}
-{"kz":"коньки","sa":"الزلاجات","level":2,"transcription":null}
+{"kz":"кептеліс","sa":"","level":3,"transcription":null}
+{"kz":"коньки","sa":"","level":2,"transcription":null}
 {"kz":"көркем сырғанау","sa":"التزلج على الجليد","level":4,"transcription":null}
 {"kz":"көрініс","sa":"منظر","level":3,"transcription":null}
 {"kz":"күрес","sa":"كفاح","level":3,"transcription":null}
-{"kz":"күту залы","sa":"غرفة الانتظار","level":3,"transcription":null}
+{"kz":"күту залы","sa":"","level":3,"transcription":null}
 {"kz":"қайық","sa":"قارب","level":3,"transcription":null}
 {"kz":"қалашық","sa":"بلدة","level":3,"transcription":null}
 {"kz":"қалғаны","sa":"استراحة","level":3,"transcription":null}
@@ -924,18 +924,18 @@
 {"kz":"мәре","sa":"أخير","level":4,"transcription":null}
 {"kz":"медаль","sa":"ميدالية","level":3,"transcription":null}
 {"kz":"мұз айдыны","sa":"حلبة للتزلج على الجليد","level":4,"transcription":null}
-{"kz":"нәрсе","sa":"شيء، كائن، أي شيء","level":2,"transcription":null}
+{"kz":"нәрсе","sa":"شيء، كائن, أي شيء","level":2,"transcription":null}
 {"kz":"орналасу","sa":"إقامة","level":4,"transcription":null}
 {"kz":"орта","sa":"الأربعاء","level":2,"transcription":null}
 {"kz":"орын","sa":"مكان","level":1,"transcription":null}
-{"kz":"өзгешелік","sa":"الميزة، الفرق","level":4,"transcription":null}
+{"kz":"өзгешелік","sa":"الميزة, الفرق","level":4,"transcription":null}
 {"kz":"рейс, сапар","sa":"رحلة جوية","level":3,"transcription":null}
-{"kz":"сапарға шығу","sa":"اذهب في رحلة","level":3,"transcription":null}
+{"kz":"сапарға шығу","sa":"السفر والسياحة","level":3,"transcription":null}
 {"kz":"саяхат","sa":"رحلة","level":3,"transcription":null}
 {"kz":"саяхатшы","sa":"مسافر","level":3,"transcription":null}
 {"kz":"спортшы","sa":"رياضي","level":3,"transcription":null}
 {"kz":"стадион","sa":"الملعب","level":2,"transcription":null}
-{"kz":"сүйікті іс","sa":"النشاط المفضل، هواية","level":4,"transcription":null}
+{"kz":"сүйікті іс","sa":"النشاط المفضل, هواية","level":4,"transcription":null}
 {"kz":"сый","sa":"حاضر","level":2,"transcription":null}
 {"kz":"табиғат аясында","sa":"في الهواء الطلق","level":3,"transcription":null}
 {"kz":"таза ауа","sa":"الهواء النقي","level":2,"transcription":null}
@@ -949,10 +949,10 @@
 {"kz":"тіркелу","sa":"تسجيل","level":3,"transcription":null}
 {"kz":"тіркеуші","sa":"المسجل","level":4,"transcription":null}
 {"kz":"ұлттық құрама","sa":"المنتخب الوطني","level":4,"transcription":null}
-{"kz":"ұпай","sa":"نقطة، نقطة","level":3,"transcription":null}
+{"kz":"ұпай","sa":"نقطة","level":3,"transcription":null}
 {"kz":"ұстаным","sa":"موضع","level":4,"transcription":null}
 {"kz":"ұшақ","sa":"طائرة","level":2,"transcription":null}
-{"kz":"ұшу","sa":"سافر","level":2,"transcription":null}
+{"kz":"ұшу","sa":"رحيل","level":2,"transcription":null}
 {"kz":"футбол","sa":"كرة القدم","level":1,"transcription":null}
 {"kz":"хабарлама","sa":"إعلان","level":3,"transcription":null}
 {"kz":"халықаралық ұшу","sa":"رحلة دولية","level":4,"transcription":null}
@@ -963,19 +963,19 @@
 {"kz":"шашылу","sa":"نثر","level":5,"transcription":null}
 {"kz":"іздеу","sa":"يبحث","level":2,"transcription":null}
 {"kz":"электр қуаты","sa":"كهرباء","level":4,"transcription":null}
-{"kz":"айтыс","sa":"aitys، مسابقة شعرية","level":5,"transcription":null}
-{"kz":"айтыскер","sa":"akyn مرتجل في aitys","level":5,"transcription":null}
-{"kz":"айырмашылық","sa":"الفرق، الفرق","level":4,"transcription":null}
+{"kz":"айтыс","sa":"مسابقة شعرية","level":5,"transcription":null}
+{"kz":"айтыскер","sa":"أكيان مرتجل في مسابقة شعرية","level":5,"transcription":null}
+{"kz":"айырмашылық","sa":"الفرق","level":4,"transcription":null}
 {"kz":"ақын","sa":"شاعر","level":3,"transcription":null}
 {"kz":"аспап","sa":"أداة","level":3,"transcription":null}
 {"kz":"әдебиет","sa":"الأدب","level":3,"transcription":null}
 {"kz":"әнші","sa":"مغني","level":2,"transcription":null}
-{"kz":"әңгіме","sa":"محادثة","level":3,"transcription":null}
+{"kz":"әңгіме","sa":"قصة","level":3,"transcription":null}
 {"kz":"әртіс","sa":"فنان","level":3,"transcription":null}
 {"kz":"әсемдік, көркемдік, сұлулық","sa":"جمال","level":3,"transcription":null}
 {"kz":"әуен","sa":"لحن","level":4,"transcription":null}
 {"kz":"бағдарлама","sa":"برنامج","level":3,"transcription":null}
-{"kz":"байқау","sa":"لاحظ، اتبع","level":3,"transcription":null}
+{"kz":"байқау","sa":"منافسة","level":3,"transcription":null}
 {"kz":"басты рөл","sa":"الدور الرئيسي","level":4,"transcription":null}
 {"kz":"басылым","sa":"طبعة","level":4,"transcription":null}
 {"kz":"бейне","sa":"صورة","level":3,"transcription":null}
@@ -1083,7 +1083,7 @@
 {"kz":"жаздық киім","sa":"ملابس الصيف","level":3,"transcription":null}
 {"kz":"жапсырма","sa":"ملصق، رقعة","level":4,"transcription":null}
 {"kz":"жейде","sa":"قميص","level":2,"transcription":null}
-{"kz":"желпуіш, веер","sa":"معجب","level":5,"transcription":null}
+{"kz":"желпуіш, веер","sa":"محبوب","level":5,"transcription":null}
 {"kz":"жемпір","sa":"سترة","level":3,"transcription":null}
 {"kz":"жең","sa":"كم","level":3,"transcription":null}
 {"kz":"жең бүкпесі","sa":"صفعة","level":5,"transcription":null}
@@ -1098,7 +1098,7 @@
 {"kz":"көзілдірік","sa":"نظارات","level":3,"transcription":null}
 {"kz":"көйлек","sa":"فستان","level":2,"transcription":null}
 {"kz":"көне, тозған киім","sa":"ملابس رثة ومهترئة","level":5,"transcription":null}
-{"kz":"кубанка бөрік","sa":"كوبانكا","level":5,"transcription":null}
+{"kz":"кубанка бөрік","sa":"كوبанка","level":5,"transcription":null}
 {"kz":"күнделікті киім","sa":"ملابس غير رسمية","level":3,"transcription":null}
 {"kz":"күнқағар","sa":"قناع","level":5,"transcription":null}
 {"kz":"күрте","sa":"سترة","level":2,"transcription":null}
@@ -1111,7 +1111,7 @@
 {"kz":"қол сөмке","sa":"حقيبة يد","level":3,"transcription":null}
 {"kz":"қолғап","sa":"قفازات","level":3,"transcription":null}
 {"kz":"құлақшын","sa":"أغطية الأذن","level":5,"transcription":null}
-{"kz":"қымбат киім","sa":"ملابس باهظة الثمن","level":3,"transcription":null}
+{"kz":"қымбат киім","sa":"الملابس باهظة الثمن","level":3,"transcription":null}
 {"kz":"қыстық киім","sa":"ملابس الشتاء","level":3,"transcription":null}
 {"kz":"қыстық пальто","sa":"معطف الشتاء","level":3,"transcription":null}
 {"kz":"малақай","sa":"قبعة ملاخاي","level":4,"transcription":null}
@@ -1159,7 +1159,7 @@
 {"kz":"американдық","sa":"أمريكي","level":3,"transcription":null}
 {"kz":"ардагер","sa":"محارب قديم","level":4,"transcription":null}
 {"kz":"атақ","sa":"الشهرة، الشهرة","level":4,"transcription":null}
-{"kz":"аты, есімі","sa":"(اسمه).","level":2,"transcription":null}
+{"kz":"аты, есімі","sa":"(اسمه)","level":2,"transcription":null}
 {"kz":"аты-жөні","sa":"الاسم الأخير، الاسم الأول، اسم العائلة","level":3,"transcription":null}
 {"kz":"әлеумет","sa":"الناس، الجمهور","level":4,"transcription":null}
 {"kz":"әлеуметтік көмек","sa":"المساعدة الاجتماعية","level":4,"transcription":null}
@@ -1171,7 +1171,7 @@
 {"kz":"бейімдеу орталығы","sa":"مركز التكيف","level":5,"transcription":null}
 {"kz":"білімі терең адам","sa":"شخص متعلم","level":4,"transcription":null}
 {"kz":"гимн","sa":"ترنيمة","level":4,"transcription":null}
-{"kz":"ғұлама","sa":"متعدد الثقافات، متذوق عظيم","level":5,"transcription":null}
+{"kz":"ғұлама","sa":"متعلم","level":5,"transcription":null}
 {"kz":"қарыз","sa":"واجب","level":3,"transcription":null}
 {"kz":"қатысу","sa":"مشاركة","level":3,"transcription":null}
 {"kz":"Қиыр Шығыс","sa":"الشرق الأقصى","level":4,"transcription":null}
@@ -1180,7 +1180,7 @@
 {"kz":"қошемет","sa":"الاحترام والشرف","level":4,"transcription":null}
 {"kz":"Құрбан айт","sa":"عطلة دينية إسلامية","level":5,"transcription":null}
 {"kz":"құрметті жан","sa":"رجل محترم","level":3,"transcription":null}
-{"kz":"құрылтай","sa":"الكونغرس، الكونغرس","level":5,"transcription":null}
+{"kz":"құрылтай","sa":"الكونغرس","level":5,"transcription":null}
 {"kz":"қылмыс","sa":"جريمة","level":4,"transcription":null}
 {"kz":"қытай","sa":"الصينية","level":3,"transcription":null}
 {"kz":"мемлекет","sa":"ولاية","level":3,"transcription":null}
@@ -1215,7 +1215,7 @@
 {"kz":"туған күн","sa":"عيد ميلاد","level":2,"transcription":null}
 {"kz":"тұрмыста","sa":"متزوج","level":3,"transcription":null}
 {"kz":"ұлттық тағамдар","sa":"الأطباق الوطنية","level":4,"transcription":null}
-{"kz":"ұлты","sa":"(جنسيته).","level":3,"transcription":null}
+{"kz":"ұлты","sa":"(جنسيته)","level":3,"transcription":null}
 {"kz":"үйленген","sa":"متزوج","level":3,"transcription":null}
 {"kz":"үйлену тойы","sa":"قِرَان","level":3,"transcription":null}
 {"kz":"үкімет","sa":"حكومة","level":4,"transcription":null}
@@ -1230,7 +1230,7 @@
 {"kz":"шенеунік","sa":"رسمي","level":4,"transcription":null}
 {"kz":"шетелдік","sa":"أجنبي","level":3,"transcription":null}
 {"kz":"шығыс, күншығыс","sa":"شرق","level":3,"transcription":null}
-{"kz":"шілдехана","sa":"عطلة على شرف المولود الجديد","level":5,"transcription":null}
+{"kz":"шілдехана","sa":"عيد ميلاد","level":5,"transcription":null}
 {"kz":"абыр-сабыр","sa":"الاضطرابات والفوضى","level":5,"transcription":null}
 {"kz":"ақиқат, шындық","sa":"حقيقي","level":4,"transcription":null}
 {"kz":"алмасу","sa":"يتغير","level":3,"transcription":null}
@@ -1259,7 +1259,7 @@
 {"kz":"жігерлендіруші күш","sa":"قوة ملهمة","level":5,"transcription":null}
 {"kz":"игі тілек","sa":"التمنيات الطيبة","level":4,"transcription":null}
 {"kz":"интуиция арқылы","sa":"عن طريق الحدس","level":5,"transcription":null}
-{"kz":"келіспеушілік","sa":"الخلاف والخلاف","level":5,"transcription":null}
+{"kz":"келіспеушілік","sa":"الضغينة","level":5,"transcription":null}
 {"kz":"кеңес","sa":"نصيحة","level":3,"transcription":null}
 {"kz":"кері әсерін тигізу","sa":"رد فعل عنيف","level":5,"transcription":null}
 {"kz":"кері кету","sa":"تدهور","level":5,"transcription":null}
@@ -1279,7 +1279,7 @@
 {"kz":"қарым-қатынас","sa":"علاقة","level":4,"transcription":null}
 {"kz":"қауіп","sa":"خطر","level":3,"transcription":null}
 {"kz":"қауіпсіздік","sa":"أمان","level":4,"transcription":null}
-{"kz":"қоштасу","sa":"قل وداعا","level":2,"transcription":null}
+{"kz":"қоштасу","sa":"فراق","level":2,"transcription":null}
 {"kz":"қуаныш","sa":"مرح","level":2,"transcription":null}
 {"kz":"құлшыныс","sa":"حماسة","level":5,"transcription":null}
 {"kz":"қызығушылық","sa":"اهتمام","level":3,"transcription":null}
@@ -1289,10 +1289,10 @@
 {"kz":"махаббат","sa":"حب","level":3,"transcription":null}
 {"kz":"мүмкіндік","sa":"فرصة","level":3,"transcription":null}
 {"kz":"мысал","sa":"مثال","level":2,"transcription":null}
-{"kz":"несібе","sa":"جيد، مصير، مصير","level":5,"transcription":null}
+{"kz":"несібе","sa":"جيد","level":5,"transcription":null}
 {"kz":"ниет","sa":"النية الصادقة","level":4,"transcription":null}
-{"kz":"нұсқа","sa":"الإصدار، الخيار","level":4,"transcription":null}
-{"kz":"нығаю","sa":"تعزيز، تعزيز","level":4,"transcription":null}
+{"kz":"нұсқа","sa":"الإصدار","level":4,"transcription":null}
+{"kz":"нығаю","sa":"تعزيز","level":4,"transcription":null}
 {"kz":"ой тұжырымы","sa":"الاستدلال","level":5,"transcription":null}
 {"kz":"ойдан шығарылған","sa":"خيالي","level":4,"transcription":null}
 {"kz":"ой-өріс","sa":"الأفق","level":4,"transcription":null}
@@ -1310,15 +1310,15 @@
 {"kz":"себеп","sa":"سبب","level":3,"transcription":null}
 {"kz":"сенім","sa":"إيمان","level":3,"transcription":null}
 {"kz":"тағдыр","sa":"قدر","level":3,"transcription":null}
-{"kz":"тазалық","sa":"النظافة والنظافة","level":4,"transcription":null}
+{"kz":"тазалық","sa":"النظافة","level":4,"transcription":null}
 {"kz":"таным","sa":"الإدراك","level":4,"transcription":null}
 {"kz":"танымдылық","sa":"الإدراك","level":5,"transcription":null}
 {"kz":"танысу","sa":"معرفة","level":3,"transcription":null}
 {"kz":"тапқырлық","sa":"خفة دم","level":5,"transcription":null}
-{"kz":"тосқауыл","sa":"عقبة، عقبة","level":4,"transcription":null}
+{"kz":"тосқауыл","sa":"عقبة","level":4,"transcription":null}
 {"kz":"төзімділік","sa":"الصبر","level":4,"transcription":null}
 {"kz":"төңкеріс","sa":"انقلاب","level":5,"transcription":null}
-{"kz":"тұрмыс","sa":"الحياة اليومية","level":3,"transcription":null}
+{"kz":"тұрмыс","sa":"الحياة","level":3,"transcription":null}
 {"kz":"тыныштық","sa":"الصمت","level":3,"transcription":null}
 {"kz":"тіршілік","sa":"وجود","level":4,"transcription":null}
 {"kz":"үлгі","sa":"عينة","level":3,"transcription":null}
@@ -1345,7 +1345,7 @@
 {"kz":"әлдеқашан","sa":"منذ وقت طويل، منذ وقت طويل","level":3,"transcription":null}
 {"kz":"әрдайым","sa":"دائماً","level":1,"transcription":null}
 {"kz":"басында","sa":"في البداية","level":2,"transcription":null}
-{"kz":"баяғыда","sa":"لفترة طويلة","level":3,"transcription":null}
+{"kz":"баяғыда","sa":"في فترة طويلة","level":3,"transcription":null}
 {"kz":"бейсенбі","sa":"يوم الخميس","level":2,"transcription":null}
 {"kz":"беске қарай","sa":"أقرب إلى خمسة","level":3,"transcription":null}
 {"kz":"биыл","sa":"هذا العام","level":3,"transcription":null}
@@ -1370,7 +1370,7 @@
 {"kz":"жартыжылдық","sa":"نصف سنة","level":4,"transcription":null}
 {"kz":"жексенбі","sa":"الأحد","level":2,"transcription":null}
 {"kz":"желтоқсан","sa":"ديسمبر","level":3,"transcription":null}
-{"kz":"жиі","sa":"متكرر","level":2,"transcription":null}
+{"kz":"жиі","sa":"غالباً","level":2,"transcription":null}
 {"kz":"жұма","sa":"جمعة","level":2,"transcription":null}
 {"kz":"жыл","sa":"سنة","level":1,"transcription":null}
 {"kz":"жыл басы","sa":"بداية العام","level":3,"transcription":null}
@@ -1407,13 +1407,13 @@
 {"kz":"қас қағым","sa":"فوري","level":4,"transcription":null}
 {"kz":"қыркүйек","sa":"سبتمبر","level":3,"transcription":null}
 {"kz":"қыс","sa":"شتاء","level":1,"transcription":null}
-{"kz":"мамыр","sa":"يمكن","level":2,"transcription":null}
-{"kz":"маусым","sa":"يونيو، الموسم","level":3,"transcription":null}
+{"kz":"мамыр","sa":"مارس","level":2,"transcription":null}
+{"kz":"маусым","sa":"يونيو","level":3,"transcription":null}
 {"kz":"мәңгілік","sa":"الخلود","level":4,"transcription":null}
 {"kz":"мейрам қарсаңында","sa":"عشية العطلة","level":4,"transcription":null}
 {"kz":"минут","sa":"دقيقة","level":1,"transcription":null}
 {"kz":"мыңжылдық","sa":"الألفية","level":4,"transcription":null}
-{"kz":"наурыз","sa":"يمشي","level":3,"transcription":null}
+{"kz":"наурыз","sa":"يناير","level":3,"transcription":null}
 {"kz":"одан кейін","sa":"ثم بعد ذلك","level":2,"transcription":null}
 {"kz":"онға жуық","sa":"حوالي عشرة","level":3,"transcription":null}
 {"kz":"онкүндік","sa":"عقد","level":4,"transcription":null}
@@ -1429,7 +1429,7 @@
 {"kz":"тамыз","sa":"أغسطس","level":3,"transcription":null}
 {"kz":"таңертең","sa":"في الصباح","level":2,"transcription":null}
 {"kz":"тәулік","sa":"يوم","level":3,"transcription":null}
-{"kz":"тоқсан","sa":"تسعون","level":2,"transcription":null}
+{"kz":"тоқсан","sa":"ربع","level":2,"transcription":null}
 {"kz":"түн","sa":"ليلة","level":1,"transcription":null}
 {"kz":"түнде","sa":"في الليل","level":2,"transcription":null}
 {"kz":"түсте","sa":"في الغداء","level":2,"transcription":null}
@@ -1443,7 +1443,7 @@
 {"kz":"автотұрақ","sa":"وقوف السيارات","level":4,"transcription":null}
 {"kz":"арнаулы тілші","sa":"مراسل خاص","level":5,"transcription":null}
 {"kz":"атақты әртіс","sa":"فنان مشهور","level":4,"transcription":null}
-{"kz":"атау","sa":"يتصل","level":3,"transcription":null}
+{"kz":"атау","sa":"اسم","level":3,"transcription":null}
 {"kz":"аяқталу","sa":"الانتهاء، الانتهاء","level":3,"transcription":null}
 {"kz":"әңгіме","sa":"محادثة","level":3,"transcription":null}
 {"kz":"БАҚ (бұқаралық ақпарат құралдары)","sa":"وسائط","level":4,"transcription":null}
@@ -1462,7 +1462,7 @@
 {"kz":"есептеудегі қате","sa":"خطأ حسابي","level":5,"transcription":null}
 {"kz":"естелік","sa":"ذاكرة","level":4,"transcription":null}
 {"kz":"естелікнама","sa":"مذكرات","level":5,"transcription":null}
-{"kz":"жағымды ақпарат","sa":"معلومات إيجابية","level":4,"transcription":null}
+{"kz":"жағымды ақпарат","sa":"أخبار إيجابية","level":4,"transcription":null}
 {"kz":"жақсы жаңалық","sa":"أخبار جيدة","level":3,"transcription":null}
 {"kz":"жалған мәлімет","sa":"معلومات كاذبة","level":5,"transcription":null}
 {"kz":"жаңа бағдарлама","sa":"برنامج جديد","level":3,"transcription":null}
@@ -1478,11 +1478,11 @@
 {"kz":"корректура","sa":"التدقيق اللغوي","level":5,"transcription":null}
 {"kz":"көңілді кино","sa":"فيلم مضحك","level":3,"transcription":null}
 {"kz":"көпшілік","sa":"المجتمع، الجمهور","level":3,"transcription":null}
-{"kz":"көрсетілім","sa":"بث، عرض","level":4,"transcription":null}
+{"kz":"көрсетілім","sa":"يعرض","level":4,"transcription":null}
 {"kz":"күлкілі әңгіме","sa":"نكتة","level":4,"transcription":null}
 {"kz":"күтпеген оқиға","sa":"حدث غير متوقع","level":4,"transcription":null}
 {"kz":"кіріспе","sa":"مقدمة","level":3,"transcription":null}
-{"kz":"кітап бастыру","sa":"نشر الكتاب، نشر الكتاب","level":5,"transcription":null}
+{"kz":"кітап бастыру","sa":"نشر الكتاب","level":5,"transcription":null}
 {"kz":"кітапқа енген","sa":"المدرجة في الكتاب","level":4,"transcription":null}
 {"kz":"қанатты сөз","sa":"قول مأثور","level":5,"transcription":null}
 {"kz":"қателік","sa":"خطأ","level":3,"transcription":null}
@@ -1490,9 +1490,9 @@
 {"kz":"құрал","sa":"وسائل","level":3,"transcription":null}
 {"kz":"қызық бағдарлама","sa":"برنامج مثير للاهتمام","level":3,"transcription":null}
 {"kz":"қызық телешоу","sa":"برنامج تلفزيوني مثير للاهتمام","level":3,"transcription":null}
-{"kz":"қызықты мәліметтер","sa":"حقائق مثيرة للاهتمام","level":3,"transcription":null}
+{"kz":"қызықты мәліметтер","sa":"معلومات مفيدة","level":3,"transcription":null}
 {"kz":"қызықты оқиға","sa":"حدث مثير للاهتمام","level":3,"transcription":null}
-{"kz":"мазмұны","sa":"(محتوياته).","level":3,"transcription":null}
+{"kz":"мазмұны","sa":"(محتويات)","level":3,"transcription":null}
 {"kz":"мақала","sa":"شرط","level":3,"transcription":null}
 {"kz":"мәтін","sa":"نص","level":3,"transcription":null}
 {"kz":"меншікті тілші","sa":"مراسل الخاص","level":5,"transcription":null}
@@ -1519,14 +1519,14 @@
 {"kz":"телехикая","sa":"مسلسل تلفزيوني","level":4,"transcription":null}
 {"kz":"техникалық қиындықтар","sa":"الصعوبات التقنية","level":5,"transcription":null}
 {"kz":"түйін","sa":"خاتمة","level":4,"transcription":null}
-{"kz":"түсіндірме","sa":"تعليق، شرح","level":4,"transcription":null}
+{"kz":"түсіндірме","sa":"شرح","level":4,"transcription":null}
 {"kz":"түсінік беруші","sa":"المعلق","level":4,"transcription":null}
 {"kz":"тікелей эфир","sa":"بث مباشر","level":4,"transcription":null}
 {"kz":"тіркеу қатесі","sa":"خطأ في التسجيل","level":5,"transcription":null}
-{"kz":"ұсыныс","sa":"يعرض","level":3,"transcription":null}
+{"kz":"ұсыныс","sa":"عرض","level":3,"transcription":null}
 {"kz":"фильм түсіру","sa":"تصوير","level":4,"transcription":null}
 {"kz":"фотосурет","sa":"صورة","level":3,"transcription":null}
-{"kz":"хабар","sa":"أخبار، أخبار","level":3,"transcription":null}
+{"kz":"хабар","sa":"أخبار","level":3,"transcription":null}
 {"kz":"шебер","sa":"يتقن","level":3,"transcription":null}
 {"kz":"шолушы","sa":"مراجع","level":5,"transcription":null}
 {"kz":"шығу мерзімі","sa":"تاريخ الافراج عنه","level":4,"transcription":null}
@@ -1536,7 +1536,7 @@
 {"kz":"апиын","sa":"الأفيون","level":5,"transcription":null}
 {"kz":"артериялық қан қысымы","sa":"ضغط الدم","level":5,"transcription":null}
 {"kz":"асқазан ауруы","sa":"التهاب المعدة","level":4,"transcription":null}
-{"kz":"ауру","sa":"مرض، مريض","level":2,"transcription":null}
+{"kz":"ауру","sa":"مرض","level":2,"transcription":null}
 {"kz":"аурудың алдын алу","sa":"وقاية","level":5,"transcription":null}
 {"kz":"аштық","sa":"الجوع","level":3,"transcription":null}
 {"kz":"бас ауру","sa":"صداع","level":3,"transcription":null}
@@ -1557,7 +1557,7 @@
 {"kz":"майсана","sa":"زيت الخروع","level":5,"transcription":null}
 {"kz":"медицина қызметкерлері","sa":"الطاقم الطبي","level":5,"transcription":null}
 {"kz":"медициналық көрсеткіштер","sa":"المؤشرات الطبية","level":5,"transcription":null}
-{"kz":"мейіргер","sa":"ممرضة، ممرضة","level":3,"transcription":null}
+{"kz":"мейіргер","sa":"ممرضة","level":3,"transcription":null}
 {"kz":"минералды дәрі","sa":"الطب المعدني","level":5,"transcription":null}
 {"kz":"нәтижені құптау\/растау","sa":"تأكيد النتيجة","level":5,"transcription":null}
 {"kz":"ота","sa":"عملية","level":3,"transcription":null}
@@ -1581,7 +1581,7 @@
 {"kz":"ұйқы бұзылу","sa":"اضطراب النوم","level":4,"transcription":null}
 {"kz":"ұмытшақтық","sa":"فقدان الذاكرة","level":5,"transcription":null}
 {"kz":"шаншу","sa":"مغص","level":5,"transcription":null}
-{"kz":"шипа","sa":"الشفاء والشفاء","level":4,"transcription":null}
+{"kz":"шипа","sa":"الشفاء","level":4,"transcription":null}
 {"kz":"шипалы батпақ","sa":"الطين الشفاء","level":5,"transcription":null}
 {"kz":"шөл, шөлдеу","sa":"العطش","level":3,"transcription":null}
 {"kz":"шөппен емдеуші","sa":"المعالج بالأعشاب","level":5,"transcription":null}
@@ -1607,13 +1607,13 @@
 {"kz":"бор","sa":"الطباشير","level":2,"transcription":null}
 {"kz":"бөз","sa":"كاليكو","level":5,"transcription":null}
 {"kz":"бу","sa":"بخار","level":2,"transcription":null}
-{"kz":"бұтақ","sa":"فرع، فرع","level":4,"transcription":null}
-{"kz":"бұтақ","sa":"فرع، فرع","level":4,"transcription":null}
+{"kz":"бұтақ","sa":"فرع","level":4,"transcription":null}
+{"kz":"бұтақ","sa":"فرع","level":4,"transcription":null}
 {"kz":"бүртік","sa":"بوكلي","level":6,"transcription":null}
 {"kz":"бүршік","sa":"برعم","level":3,"transcription":null}
 {"kz":"былғары","sa":"جلد","level":3,"transcription":null}
 {"kz":"ватин","sa":"الضرب","level":5,"transcription":null}
-{"kz":"газ","sa":"الغازات","level":3,"transcription":null}
+{"kz":"газ","sa":"غاز","level":3,"transcription":null}
 {"kz":"гауһар","sa":"الماس","level":4,"transcription":null}
 {"kz":"гипс","sa":"جبس","level":4,"transcription":null}
 {"kz":"гүлшоқ","sa":"باقة من الزهور","level":4,"transcription":null}
@@ -1652,7 +1652,7 @@
 {"kz":"қыжым","sa":"أفخم","level":5,"transcription":null}
 {"kz":"қызғалдақ, жауқазын","sa":"الخزامى","level":4,"transcription":null}
 {"kz":"қымыздық","sa":"حميض","level":5,"transcription":null}
-{"kz":"қышқыл","sa":"حامِض","level":3,"transcription":null}
+{"kz":"қышқыл","sa":"حامض","level":3,"transcription":null}
 {"kz":"лавсан","sa":"لافسان","level":5,"transcription":null}
 {"kz":"лалагүл","sa":"زنبق","level":4,"transcription":null}
 {"kz":"майлы заттар","sa":"المواد الزيتية","level":5,"transcription":null}
@@ -1669,9 +1669,9 @@
 {"kz":"өртелген кірпіш","sa":"الطوب المحروق","level":5,"transcription":null}
 {"kz":"өсімдік","sa":"نبات","level":2,"transcription":null}
 {"kz":"пластмасса","sa":"بلاستيك","level":4,"transcription":null}
-{"kz":"помази","sa":"bumazea","level":6,"transcription":null}
-{"kz":"раушан гүлі","sa":"وَردَة","level":3,"transcription":null}
-{"kz":"сабақ","sa":"ينبع","level":3,"transcription":null}
+{"kz":"помази","sa":"مراهم","level":6,"transcription":null}
+{"kz":"раушан гүлі","sa":"الزهور","level":3,"transcription":null}
+{"kz":"сабақ","sa":"درس","level":3,"transcription":null}
 {"kz":"сәтен","sa":"صقيل","level":4,"transcription":null}
 {"kz":"сия","sa":"حبر","level":3,"transcription":null}
 {"kz":"спирт","sa":"الكحول","level":4,"transcription":null}
@@ -1743,7 +1743,7 @@
 {"kz":"құрылыста жұмыс істеу","sa":"العمل في البناء","level":4,"transcription":null}
 {"kz":"мал шаруашылығы саласы","sa":"صناعة الماشية","level":5,"transcription":null}
 {"kz":"машина жасау","sa":"الهندسة الميكانيكية","level":5,"transcription":null}
-{"kz":"мезгілі өтті","sa":"منتهية الصلاحية، منتهية الصلاحية","level":4,"transcription":null}
+{"kz":"мезгілі өтті","sa":"منتهية الصلاحية","level":4,"transcription":null}
 {"kz":"мезгілінде орындалды","sa":"الانتهاء في الوقت المحدد","level":4,"transcription":null}
 {"kz":"мерзімі өткенше","sa":"قبل الموعد النهائي","level":4,"transcription":null}
 {"kz":"мерзімі өтіп барады","sa":"انتهاء الموعد النهائي","level":4,"transcription":null}
@@ -1754,10 +1754,10 @@
 {"kz":"орманшаруашылығы","sa":"الغابات","level":5,"transcription":null}
 {"kz":"орындалу мерзімі","sa":"تاريخ الاستحقاق","level":4,"transcription":null}
 {"kz":"отандық өндіруші","sa":"الشركة المصنعة المحلية","level":5,"transcription":null}
-{"kz":"өндіруші","sa":"الشركة المصنعة","level":4,"transcription":null}
+{"kz":"өндіруші","sa":"المصنع","level":4,"transcription":null}
 {"kz":"өндіріс","sa":"إنتاج","level":3,"transcription":null}
 {"kz":"өнертабыс","sa":"اختراع","level":5,"transcription":null}
-{"kz":"өнім","sa":"منتجات","level":3,"transcription":null}
+{"kz":"өнім","sa":"منتج","level":3,"transcription":null}
 {"kz":"өңір","sa":"منطقة","level":3,"transcription":null}
 {"kz":"пайдалану мерзімі","sa":"خدمة الحياة","level":5,"transcription":null}
 {"kz":"сабын қайнату\/жасау","sa":"صنع الصابون","level":5,"transcription":null}
@@ -1778,13 +1778,13 @@
 {"kz":"ұзақтық","sa":"مدة","level":4,"transcription":null}
 {"kz":"ұқсастық","sa":"تشابه","level":4,"transcription":null}
 {"kz":"ұлттық байқау","sa":"المنافسة الوطنية","level":4,"transcription":null}
-{"kz":"ұлттық нақыш","sa":"اللون الوطني","level":5,"transcription":null}
-{"kz":"ұрлық","sa":"سرقة، سرقة","level":4,"transcription":null}
-{"kz":"ұсталу","sa":"الاحتجاز","level":4,"transcription":null}
+{"kz":"ұлттық нақыш","sa":"النمط الوطني","level":5,"transcription":null}
+{"kz":"ұрлық","sa":"سرقة","level":4,"transcription":null}
+{"kz":"ұсталу","sa":"احتجاز","level":4,"transcription":null}
 {"kz":"үзіліссіз","sa":"دون انقطاع","level":3,"transcription":null}
 {"kz":"үлес","sa":"يشارك","level":3,"transcription":null}
 {"kz":"үміткер","sa":"منافس","level":4,"transcription":null}
-{"kz":"шағым","sa":"شكوى، طلب","level":4,"transcription":null}
+{"kz":"шағым","sa":"شكوى","level":4,"transcription":null}
 {"kz":"шарап ашытушылық","sa":"صناعة النبيذ","level":5,"transcription":null}
 {"kz":"ың-шың, абыр-дабыр","sa":"الدين والضوضاء","level":5,"transcription":null}
 {"kz":"ізім-қайым жоғалу","sa":"مفتقد","level":5,"transcription":null}
@@ -1806,12 +1806,12 @@
 {"kz":"делдал","sa":"وسيط، وسيط","level":5,"transcription":null}
 {"kz":"депозит салушы","sa":"المودع","level":6,"transcription":null}
 {"kz":"ереуілші","sa":"مهاجم","level":5,"transcription":null}
-{"kz":"жалдаушы","sa":"مستأجر، مستأجر","level":4,"transcription":null}
-{"kz":"жалпы саны","sa":"الكمية الإجمالية","level":3,"transcription":null}
-{"kz":"жанама салық, акциз","sa":"الضريبة غير المباشرة","level":5,"transcription":null}
+{"kz":"жалдаушы","sa":"مستأجر","level":4,"transcription":null}
+{"kz":"жалпы саны","sa":"العدد الكلي","level":3,"transcription":null}
+{"kz":"жанама салық, акциз","sa":"ضريبة غير مباشرة","level":5,"transcription":null}
 {"kz":"жарна","sa":"المساهمات","level":4,"transcription":null}
 {"kz":"жарнашы","sa":"المساهم","level":5,"transcription":null}
-{"kz":"жәрдемақы","sa":"بدل","level":4,"transcription":null}
+{"kz":"жәрдемақы","sa":"البدل","level":4,"transcription":null}
 {"kz":"жеке меншік иесі","sa":"مالك","level":5,"transcription":null}
 {"kz":"жекешелендіру","sa":"الخصخصة","level":5,"transcription":null}
 {"kz":"жеңілдік","sa":"تخفيض","level":3,"transcription":null}
@@ -1868,9 +1868,9 @@
 {"kz":"үстеме баға","sa":"العلامات","level":5,"transcription":null}
 {"kz":"шегеру","sa":"خصم","level":5,"transcription":null}
 {"kz":"шек, шекара","sa":"حدود","level":3,"transcription":null}
-{"kz":"шеттен әкелу, импорт","sa":"يستورد","level":4,"transcription":null}
+{"kz":"шеттен әкелу, импорт","sa":"استيراد","level":4,"transcription":null}
 {"kz":"шығын","sa":"استهلاك","level":3,"transcription":null}
-{"kz":"іріктеу негізі","sa":"إطار أخذ العينات","level":6,"transcription":null}
+{"kz":"іріктеу негізі","sa":"إطار الاختيار","level":6,"transcription":null}
 {"kz":"айлық, жалақы","sa":"أجور","level":3,"transcription":null}
 {"kz":"айыппұл","sa":"بخير","level":4,"transcription":null}
 {"kz":"ақша аудару","sa":"تحويلات الأموال","level":4,"transcription":null}
@@ -1890,7 +1890,7 @@
 {"kz":"бюджеттен тыс","sa":"خارج الميزانية","level":5,"transcription":null}
 {"kz":"ғылыми дәреже","sa":"درجة أكاديمية","level":5,"transcription":null}
 {"kz":"ғылыми еңбек","sa":"العمل العلمي","level":5,"transcription":null}
-{"kz":"дана","sa":"حكيم","level":3,"transcription":null}
+{"kz":"дана","sa":"ينسخ","level":3,"transcription":null}
 {"kz":"дәлелді себеп","sa":"سبب وجيه","level":4,"transcription":null}
 {"kz":"еңбек дауы","sa":"النزاع العمالي","level":5,"transcription":null}
 {"kz":"еңбек келісімі","sa":"اتفاقية العمل","level":5,"transcription":null}
@@ -1898,13 +1898,13 @@
 {"kz":"еңбек қауіпсіздігі","sa":"سلامة العمل","level":5,"transcription":null}
 {"kz":"еңбек тәртібі","sa":"الانضباط العمالي","level":5,"transcription":null}
 {"kz":"еңбекақы","sa":"أجور","level":4,"transcription":null}
-{"kz":"ереже","sa":"موقف، حكم","level":3,"transcription":null}
+{"kz":"ереже","sa":"قاعدة","level":3,"transcription":null}
 {"kz":"ерекше жағдай","sa":"حالة خاصة","level":4,"transcription":null}
 {"kz":"еркін форма","sa":"شكل حر","level":4,"transcription":null}
-{"kz":"есепшот","sa":"يفحص","level":4,"transcription":null}
+{"kz":"есепшот","sa":"إعادة فحص","level":4,"transcription":null}
 {"kz":"ескерту","sa":"تعليق","level":3,"transcription":null}
 {"kz":"жазбаша түрде","sa":"في الكتابة","level":4,"transcription":null}
-{"kz":"жалдау","sa":"يؤجر","level":3,"transcription":null}
+{"kz":"жалдау","sa":"إيجار","level":3,"transcription":null}
 {"kz":"жарғы","sa":"مرسوم","level":4,"transcription":null}
 {"kz":"жарияланған күн","sa":"تاريخ النشر","level":4,"transcription":null}
 {"kz":"жауапкершілігі шектеулі","sa":"مسؤولية محدودة","level":5,"transcription":null}
@@ -1937,7 +1937,7 @@
 {"kz":"лауазымдық нұсқаулық","sa":"الأوصاف الوظيفية","level":6,"transcription":null}
 {"kz":"мағлұмат","sa":"معلومة","level":3,"transcription":null}
 {"kz":"материалдық көтермелеу","sa":"الحافز المالي","level":5,"transcription":null}
-{"kz":"мәміле","sa":"اتفاق، اتفاق","level":5,"transcription":null}
+{"kz":"мәміле","sa":"اتفاق, اتفاق","level":5,"transcription":null}
 {"kz":"мөр","sa":"ختم","level":3,"transcription":null}
 {"kz":"мүлік","sa":"ملكية","level":4,"transcription":null}
 {"kz":"мінездеме","sa":"مميزة","level":4,"transcription":null}
@@ -1957,11 +1957,11 @@
 {"kz":"сенімхат","sa":"تفويض","level":4,"transcription":null}
 {"kz":"сипат","sa":"ملكية","level":4,"transcription":null}
 {"kz":"сөгіс","sa":"توبيخ","level":4,"transcription":null}
-{"kz":"сыйақы","sa":"علاوة","level":4,"transcription":null}
-{"kz":"сынақ мерзімі","sa":"تحت المراقبة","level":5,"transcription":null}
-{"kz":"тармақ","sa":"فقرة","level":4,"transcription":null}
-{"kz":"тәжірибе","sa":"الخبرة والممارسة","level":3,"transcription":null}
-{"kz":"тексеру","sa":"يفحص","level":2,"transcription":null}
+{"kz":"сыйақы","sa":"مكافأة","level":4,"transcription":null}
+{"kz":"сынақ мерзімі","sa":"تاريخ الاختبار","level":5,"transcription":null}
+{"kz":"тармақ","sa":"قلم","level":4,"transcription":null}
+{"kz":"тәжірибе","sa":"التجربة والممارسة","level":3,"transcription":null}
+{"kz":"тексеру","sa":"التحقق","level":2,"transcription":null}
 {"kz":"тоқтату","sa":"الإنهاء","level":4,"transcription":null}
 {"kz":"толық мәлімет","sa":"معلومات كاملة","level":3,"transcription":null}
 {"kz":"төлқұжат","sa":"جواز سفر","level":3,"transcription":null}
@@ -1998,7 +1998,7 @@
 {"kz":"Бәрі ойдағыдай.","sa":"كل شيء حسب الخطة.","level":3,"transcription":null}
 {"kz":"Бәрі сәтті болсын!","sa":"أطيب التمنيات!","level":2,"transcription":null}
 {"kz":"бұрынғыға қарағанда","sa":"مقارنة بالماضي","level":4,"transcription":null}
-{"kz":"Бұрынғыдай.","sa":"كما كان من قبل. \/ بالطريقة القديمة.","level":2,"transcription":null}
+{"kz":"Бұрынғыдай.","sa":"كما كان من قبل.","level":2,"transcription":null}
 {"kz":"Бүгін бос емеспін.","sa":"أنا مشغول اليوم.","level":2,"transcription":null}
 {"kz":"Бүгін кешке хабарласыңызшы.","sa":"اتصل هذا المساء.","level":3,"transcription":null}
 {"kz":"Біз әлі кездесеміз!","sa":"سوف نلتقي مرة أخرى!","level":2,"transcription":null}
@@ -2009,7 +2009,7 @@
 {"kz":"біріншіден","sa":"أولاً","level":2,"transcription":null}
 {"kz":"дегенмен","sa":"لا يزال، على الرغم من","level":3,"transcription":null}
 {"kz":"екіншіден","sa":"ثانيًا","level":2,"transcription":null}
-{"kz":"Ештеңе етпейді.","sa":"لا بأس. \/ من دواعي سروري.","level":2,"transcription":null}
+{"kz":"Ештеңе етпейді.","sa":"لا بأس.","level":2,"transcription":null}
 {"kz":"Жақсы, хабарласамын.","sa":"حسنًا، سأتصل بك.","level":2,"transcription":null}
 {"kz":"жалпы айтқанда","sa":"عمومًا","level":3,"transcription":null}
 {"kz":"Жаман емес.","sa":"ليس سيئًا.","level":2,"transcription":null}
@@ -2076,15 +2076,15 @@
 {"kz":"Сізді бір жерден кездестіргенмін.","sa":"لقد التقيت بك بالفعل في مكان ما.","level":3,"transcription":null}
 {"kz":"Сізді бір жерден көргенмін.","sa":"لقد رأيتك بالفعل في مكان ما.","level":3,"transcription":null}
 {"kz":"Сіздің есіміңіз кім?","sa":"ما اسمك؟","level":2,"transcription":null}
-{"kz":"таныс болайық","sa":"دعونا نتعرف","level":2,"transcription":null}
+{"kz":"таныс болайық","sa":"دعونا نتعرف على بعضنا البعض.","level":2,"transcription":null}
 {"kz":"Танысуға рұқсат етіңізші.","sa":"دعني أتعرف عليك.","level":2,"transcription":null}
 {"kz":"Телефон шалуға рұқсат етіңізші.","sa":"اسمحوا لي أن أتصل.","level":3,"transcription":null}
 {"kz":"Түк те емес.","sa":"لا شئ. \/ ليست مشكلة.","level":2,"transcription":null}
 {"kz":"Уақытым болмай тұр.","sa":"ليس لدي وقت.","level":2,"transcription":null}
 {"kz":"Ұмытпаңыздар!","sa":"لا تنسى!","level":2,"transcription":null}
 {"kz":"Үйде бәрі жақсы ма?","sa":"هل كل شيء على ما يرام في المنزل؟","level":2,"transcription":null}
-{"kz":"халықтың айтуынша","sa":"وفقا للناس","level":3,"transcription":null}
-{"kz":"шын жүректен","sa":"من كل قلبي","level":3,"transcription":null}
+{"kz":"халықтың айтуынша","sa":"وفقا للناس.","level":3,"transcription":null}
+{"kz":"шын жүректен","sa":"من كل قلبي.","level":3,"transcription":null}
 {"kz":"аз","sa":"عدد قليل","level":1,"transcription":null}
 {"kz":"айналасы","sa":"حول","level":2,"transcription":null}
 {"kz":"айтарлықтай","sa":"بشكل كبير","level":4,"transcription":null}
@@ -2123,7 +2123,7 @@
 {"kz":"ешбір кем емес","sa":"لا أقل","level":4,"transcription":null}
 {"kz":"ешкім","sa":"لا أحد","level":2,"transcription":null}
 {"kz":"жазбаша","sa":"كتابيا، مكتوبا","level":3,"transcription":null}
-{"kz":"жақсы","sa":"جيد","level":1,"transcription":null}
+{"kz":"жақсы","sa":"بخير","level":1,"transcription":null}
 {"kz":"жақын","sa":"يغلق","level":2,"transcription":null}
 {"kz":"жаман","sa":"بشكل سيء","level":1,"transcription":null}
 {"kz":"жанында","sa":"قريب، قريب","level":2,"transcription":null}
@@ -2132,23 +2132,23 @@
 {"kz":"жарым","sa":"نصف","level":2,"transcription":null}
 {"kz":"және","sa":"و","level":1,"transcription":null}
 {"kz":"жоқ","sa":"لا","level":1,"transcription":null}
-{"kz":"жөн","sa":"الحق، الحق","level":2,"transcription":null}
-{"kz":"зерттеу жүргізген","sa":"أجريت البحوث","level":4,"transcription":null}
+{"kz":"жөн","sa":"الحق","level":2,"transcription":null}
+{"kz":"зерттеу жүргізген","sa":"أجرت البحوث","level":4,"transcription":null}
 {"kz":"иә","sa":"نعم","level":1,"transcription":null}
 {"kz":"керек, қажет","sa":"ضروري","level":1,"transcription":null}
 {"kz":"керісінше","sa":"والعكس صحيح","level":3,"transcription":null}
 {"kz":"көп","sa":"كثير","level":1,"transcription":null}
 {"kz":"қайсыбір","sa":"البعض الآخر","level":3,"transcription":null}
-{"kz":"қайтадан","sa":"مرة أخرى، مرة أخرى","level":2,"transcription":null}
+{"kz":"қайтадан","sa":"مرة أخرى","level":2,"transcription":null}
 {"kz":"қатысы бар","sa":"مناسب","level":3,"transcription":null}
-{"kz":"қысқаша","sa":"لفترة وجيزة، لفترة وجيزة","level":2,"transcription":null}
-{"kz":"лезде","sa":"بسرعة، على الفور","level":3,"transcription":null}
-{"kz":"мәселен","sa":"على سبيل المثال، على سبيل المثال","level":3,"transcription":null}
+{"kz":"қысқаша","sa":"لفترة وجيزة","level":2,"transcription":null}
+{"kz":"лезде","sa":"بسرعة","level":3,"transcription":null}
+{"kz":"мәселен","sa":"على سبيل المثال","level":3,"transcription":null}
 {"kz":"мезгілінен бұрын","sa":"قبل الأوان","level":4,"transcription":null}
 {"kz":"меніңше","sa":"في رأيي","level":2,"transcription":null}
 {"kz":"мол, көп","sa":"كثير","level":2,"transcription":null}
-{"kz":"мұқият","sa":"أنيق وشامل","level":3,"transcription":null}
-{"kz":"мүлде","sa":"على الإطلاق، على الإطلاق","level":3,"transcription":null}
+{"kz":"мұқият","sa":"كاملاً","level":3,"transcription":null}
+{"kz":"мүлде","sa":"على الإطلاق","level":3,"transcription":null}
 {"kz":"мүмкін","sa":"ربما","level":2,"transcription":null}
 {"kz":"мүмкін емес","sa":"لا يمكن أن يكون","level":3,"transcription":null}
 {"kz":"одан басқа","sa":"بجانب","level":3,"transcription":null}
@@ -2156,17 +2156,17 @@
 {"kz":"онша емес","sa":"ليس كثيرا","level":3,"transcription":null}
 {"kz":"оң жақ","sa":"الجانب الأيمن","level":2,"transcription":null}
 {"kz":"өз бетімен","sa":"من تلقاء نفسه","level":3,"transcription":null}
-{"kz":"өзара","sa":"بعضها البعض، المتبادل","level":3,"transcription":null}
-{"kz":"пайдасы бар","sa":"مفيد، مفيد","level":3,"transcription":null}
+{"kz":"өзара","sa":"بعضها البعض","level":3,"transcription":null}
+{"kz":"пайдасы бар","sa":"مفيد","level":3,"transcription":null}
 {"kz":"рақмет","sa":"شكرًا لك","level":1,"transcription":null}
 {"kz":"салқын","sa":"بارد","level":2,"transcription":null}
 {"kz":"себебі, өйткені","sa":"لأن","level":2,"transcription":null}
 {"kz":"сенуі қиын","sa":"من الصعب تصديق","level":3,"transcription":null}
 {"kz":"сияқты, секілді","sa":"مثل","level":2,"transcription":null}
-{"kz":"сол жақ","sa":"الجانب الأيسر","level":2,"transcription":null}
+{"kz":"сол жақ","sa":"الجانب الأيمن","level":2,"transcription":null}
 {"kz":"сондай-ақ","sa":"وأيضا","level":2,"transcription":null}
 {"kz":"сондықтан, сол себепті","sa":"لهذا السبب","level":2,"transcription":null}
-{"kz":"сонымен қатар","sa":"مع هذا، وأيضا","level":3,"transcription":null}
+{"kz":"сонымен қатар","sa":"مع هذا","level":3,"transcription":null}
 {"kz":"талдай келе","sa":"بعد أن تم تحليلها","level":4,"transcription":null}
 {"kz":"тамаша","sa":"عظيم","level":2,"transcription":null}
 {"kz":"тезірек","sa":"أسرع","level":2,"transcription":null}
@@ -2192,29 +2192,29 @@
 {"kz":"дәлелдеу","sa":"يثبت","level":4,"transcription":null}
 {"kz":"дәрігерді шақыру","sa":"اتصل بالطبيب","level":3,"transcription":null}
 {"kz":"достасу","sa":"تكوين صداقات","level":3,"transcription":null}
-{"kz":"еліктеу","sa":"قلد","level":4,"transcription":null}
-{"kz":"еңбектену","sa":"للعمل والكدح","level":3,"transcription":null}
-{"kz":"жамылу","sa":"احتمي","level":4,"transcription":null}
+{"kz":"еліктеу","sa":"إلزام","level":4,"transcription":null}
+{"kz":"еңбектену","sa":"العمل","level":3,"transcription":null}
+{"kz":"жамылу","sa":"احتمال","level":4,"transcription":null}
 {"kz":"жарысу","sa":"تنافس","level":3,"transcription":null}
-{"kz":"жату","sa":"اذهب إلى الفراش","level":2,"transcription":null}
-{"kz":"жинақтау","sa":"جمع، تتراكم","level":3,"transcription":null}
-{"kz":"жиналу","sa":"اجمع واستعد","level":2,"transcription":null}
+{"kz":"жату","sa":"يذهب إلى الفراش","level":2,"transcription":null}
+{"kz":"жинақтау","sa":"جمع","level":3,"transcription":null}
+{"kz":"жиналу","sa":"اجمع","level":2,"transcription":null}
 {"kz":"жуыну","sa":"غسل","level":2,"transcription":null}
 {"kz":"жіберу","sa":"يرسل","level":2,"transcription":null}
 {"kz":"зейнетақы тағайындау","sa":"تعيين معاش","level":5,"transcription":null}
-{"kz":"игеру","sa":"سيد، سيد","level":4,"transcription":null}
-{"kz":"кездестіру","sa":"ترتيب لقاء","level":3,"transcription":null}
+{"kz":"игеру","sa":"سيد","level":4,"transcription":null}
+{"kz":"кездестіру","sa":"ترتيب","level":3,"transcription":null}
 {"kz":"кездесу","sa":"يقابل","level":2,"transcription":null}
 {"kz":"келісу","sa":"التوصل إلى اتفاق","level":4,"transcription":null}
 {"kz":"кемшілігін кешіру","sa":"يغفر العيوب","level":5,"transcription":null}
 {"kz":"кию","sa":"وضعت على","level":2,"transcription":null}
 {"kz":"көңілде кірбің қалу","sa":"ترك شعور سيء في روحي","level":5,"transcription":null}
 {"kz":"көрсету","sa":"يعرض","level":2,"transcription":null}
-{"kz":"көшу","sa":"تحرك، تحرك","level":3,"transcription":null}
+{"kz":"көшу","sa":"تحرك","level":3,"transcription":null}
 {"kz":"күресу","sa":"يعارك","level":3,"transcription":null}
 {"kz":"күш-қуат жұмсау","sa":"طاقة النفايات","level":4,"transcription":null}
 {"kz":"кіру","sa":"يدخل","level":1,"transcription":null}
-{"kz":"қадірін білу","sa":"تعرف الكرامة، نقدر","level":4,"transcription":null}
+{"kz":"қадірін білу","sa":"تعرف الكرامة","level":4,"transcription":null}
 {"kz":"қайнату","sa":"يغلي","level":3,"transcription":null}
 {"kz":"қайталау","sa":"يكرر","level":2,"transcription":null}
 {"kz":"қайтыс болу","sa":"يموت","level":3,"transcription":null}
@@ -2223,37 +2223,37 @@
 {"kz":"қоштасу","sa":"قل وداعا","level":2,"transcription":null}
 {"kz":"қою","sa":"يضع","level":1,"transcription":null}
 {"kz":"қуанышын білдіру","sa":"التعبير عن الفرح","level":4,"transcription":null}
-{"kz":"қуыру","sa":"جمهورية يوغوسلافيا الاتحادية","level":3,"transcription":null}
-{"kz":"қызықтыру","sa":"اهتمام","level":4,"transcription":null}
-{"kz":"мақтан ету","sa":"كن فخورا","level":3,"transcription":null}
-{"kz":"микрофонды өшіру","sa":"قم بإيقاف تشغيل الميكروفون","level":4,"transcription":null}
-{"kz":"негізін қалау","sa":"وضع الأساس","level":5,"transcription":null}
-{"kz":"ойлау","sa":"يفكر","level":1,"transcription":null}
-{"kz":"ойнау","sa":"يلعب","level":1,"transcription":null}
-{"kz":"оқу","sa":"علم، اقرأ","level":1,"transcription":null}
-{"kz":"оқыту, үйрету","sa":"تعليم","level":3,"transcription":null}
-{"kz":"отыру","sa":"اجلس","level":1,"transcription":null}
-{"kz":"ояну","sa":"استيقظ","level":2,"transcription":null}
-{"kz":"өзгеру","sa":"يتغير","level":3,"transcription":null}
-{"kz":"өту","sa":"يمر","level":2,"transcription":null}
-{"kz":"өтініш айту","sa":"تقديم طلب","level":4,"transcription":null}
-{"kz":"өшіру","sa":"محو، إيقاف","level":2,"transcription":null}
-{"kz":"пісіру","sa":"يطبخ","level":2,"transcription":null}
-{"kz":"салу","sa":"يضع","level":2,"transcription":null}
-{"kz":"санау","sa":"عدد","level":2,"transcription":null}
-{"kz":"сапарға шығу","sa":"اذهب في رحلة","level":3,"transcription":null}
-{"kz":"сендіру","sa":"يقنع","level":3,"transcription":null}
-{"kz":"сөзін ұмытып қалу","sa":"ننسى الكلمات","level":4,"transcription":null}
-{"kz":"спортпен айналысу","sa":"يمارس","level":3,"transcription":null}
-{"kz":"суық тию","sa":"اصابة بالبرد","level":3,"transcription":null}
-{"kz":"сұраққа жауап беру","sa":"الإجابة على الأسئلة","level":3,"transcription":null}
-{"kz":"сұрау","sa":"بسأل","level":1,"transcription":null}
-{"kz":"сүрту","sa":"يمسح","level":2,"transcription":null}
-{"kz":"сызу","sa":"يرسم","level":3,"transcription":null}
-{"kz":"сыйлау","sa":"احترام","level":3,"transcription":null}
-{"kz":"табысқа жету","sa":"تحقيق النجاح","level":4,"transcription":null}
-{"kz":"тазалау","sa":"ينظف","level":2,"transcription":null}
-{"kz":"таңдау","sa":"يختار","level":2,"transcription":null}
+{"kz":"қуыру","sa":"","level":3,"transcription":null}
+{"kz":"қызықтыру","sa":"","level":4,"transcription":null}
+{"kz":"мақтан ету","sa":"","level":3,"transcription":null}
+{"kz":"микрофонды өшіру","sa":"","level":4,"transcription":null}
+{"kz":"негізін қалау","sa":"","level":5,"transcription":null}
+{"kz":"ойлау","sa":"","level":1,"transcription":null}
+{"kz":"ойнау","sa":"","level":1,"transcription":null}
+{"kz":"оқу","sa":"","level":1,"transcription":null}
+{"kz":"оқыту, үйрету","sa":"","level":3,"transcription":null}
+{"kz":"отыру","sa":"","level":1,"transcription":null}
+{"kz":"ояну","sa":"","level":2,"transcription":null}
+{"kz":"өзгеру","sa":"","level":3,"transcription":null}
+{"kz":"өту","sa":"","level":2,"transcription":null}
+{"kz":"өтініш айту","sa":"","level":4,"transcription":null}
+{"kz":"өшіру","sa":"","level":2,"transcription":null}
+{"kz":"пісіру","sa":"","level":2,"transcription":null}
+{"kz":"салу","sa":"","level":2,"transcription":null}
+{"kz":"санау","sa":"","level":2,"transcription":null}
+{"kz":"сапарға шығу","sa":"","level":3,"transcription":null}
+{"kz":"сендіру","sa":"","level":3,"transcription":null}
+{"kz":"сөзін ұмытып қалу","sa":"","level":4,"transcription":null}
+{"kz":"спортпен айналысу","sa":"","level":3,"transcription":null}
+{"kz":"суық тию","sa":"","level":3,"transcription":null}
+{"kz":"сұраққа жауап беру","sa":"","level":3,"transcription":null}
+{"kz":"сұрау","sa":"","level":1,"transcription":null}
+{"kz":"сүрту","sa":"","level":2,"transcription":null}
+{"kz":"сызу","sa":"","level":3,"transcription":null}
+{"kz":"сыйлау","sa":"","level":3,"transcription":null}
+{"kz":"табысқа жету","sa":"","level":4,"transcription":null}
+{"kz":"тазалау","sa":"تنظيف","level":2,"transcription":null}
+{"kz":"таңдау","sa":"اختيار","level":2,"transcription":null}
 {"kz":"тарату","sa":"توزيع","level":3,"transcription":null}
 {"kz":"татуласу","sa":"ضع","level":4,"transcription":null}
 {"kz":"тексеру","sa":"يفحص","level":2,"transcription":null}
@@ -2280,13 +2280,13 @@
 {"kz":"ішу","sa":"شرب","level":1,"transcription":null}
 {"kz":"эфирге шығу","sa":"اذهب على الهواء","level":4,"transcription":null}
 {"kz":"ағаш отырғызу","sa":"زراعة الأشجار","level":3,"transcription":null}
-{"kz":"айналысу","sa":"الانخراط، التورط","level":3,"transcription":null}
-{"kz":"алу","sa":"اطرح، خذ","level":3,"transcription":null}
+{"kz":"айналысу","sa":"التورط","level":3,"transcription":null}
+{"kz":"алу","sa":"يأخذ","level":3,"transcription":null}
 {"kz":"аудару","sa":"تحويل","level":3,"transcription":null}
 {"kz":"ауыру","sa":"يمرض","level":2,"transcription":null}
 {"kz":"ашу","sa":"يفتح","level":1,"transcription":null}
 {"kz":"аялау","sa":"حماية، رعاية","level":3,"transcription":null}
-{"kz":"әлемге таныту","sa":"الحاضر للعالم كله","level":4,"transcription":null}
+{"kz":"әлемге таныту","sa":"تعارف بالكلية","level":4,"transcription":null}
 {"kz":"ән айту","sa":"يغني","level":1,"transcription":null}
 {"kz":"әуестену","sa":"نبتعد","level":3,"transcription":null}
 {"kz":"бағындыру","sa":"إخضاع","level":4,"transcription":null}
@@ -2310,8 +2310,8 @@
 {"kz":"жариялау","sa":"نشر","level":4,"transcription":null}
 {"kz":"жасау","sa":"افعل، صنع","level":2,"transcription":null}
 {"kz":"жауап беру","sa":"رد","level":2,"transcription":null}
-{"kz":"жаяу қыдыру","sa":"يمشي","level":3,"transcription":null}
-{"kz":"жеу","sa":"أكل، أكل","level":1,"transcription":null}
+{"kz":"жаяу қыдыру","sa":"يتمشي","level":3,"transcription":null}
+{"kz":"жеу","sa":"أكل","level":1,"transcription":null}
 {"kz":"жинау","sa":"تنظيف","level":2,"transcription":null}
 {"kz":"жөтелу","sa":"سعال","level":3,"transcription":null}
 {"kz":"жуу","sa":"غسل","level":1,"transcription":null}
@@ -2342,12 +2342,12 @@
 {"kz":"музыка тыңдау","sa":"استمع إلى الموسيقى","level":2,"transcription":null}
 {"kz":"ниеттену","sa":"يقصد","level":4,"transcription":null}
 {"kz":"ойлану","sa":"يفكر","level":2,"transcription":null}
-{"kz":"орындау","sa":"بكمل","level":3,"transcription":null}
+{"kz":"орындау","sa":"يبدأ","level":3,"transcription":null}
 {"kz":"өз-өзіңді алдау","sa":"تخدع نفسك","level":5,"transcription":null}
 {"kz":"өлең жазу","sa":"اكتب الشعر","level":3,"transcription":null}
 {"kz":"өмір сүру","sa":"يعيش","level":2,"transcription":null}
 {"kz":"өнер көрсету","sa":"يؤدي","level":4,"transcription":null}
-{"kz":"өткізу","sa":"سلوك","level":2,"transcription":null}
+{"kz":"өткізу","sa":"تدبير","level":2,"transcription":null}
 {"kz":"пайдалану","sa":"يتقدم","level":3,"transcription":null}
 {"kz":"сараптау","sa":"إجراء الفحص","level":5,"transcription":null}
 {"kz":"сәнді киіну","sa":"فستان عصري","level":3,"transcription":null}
@@ -2373,8 +2373,8 @@
 {"kz":"ұсыну","sa":"يقترح","level":3,"transcription":null}
 {"kz":"ұшырау","sa":"تخضع ل","level":4,"transcription":null}
 {"kz":"ұятқа қалдыру","sa":"للعار، وليس للارتقاء إلى مستوى الأمل","level":5,"transcription":null}
-{"kz":"үлес қосу","sa":"للمساهمة، للمساهمة","level":4,"transcription":null}
-{"kz":"үнемдеу","sa":"حفظ، ورعاية","level":3,"transcription":null}
+{"kz":"үлес қосу","sa":"للمساهمة","level":4,"transcription":null}
+{"kz":"үнемдеу","sa":"حفظ","level":3,"transcription":null}
 {"kz":"хабар алу","sa":"الحصول على الأخبار","level":3,"transcription":null}
 {"kz":"шақыру","sa":"يدعو","level":2,"transcription":null}
 {"kz":"шығарып салу","sa":"وداعا","level":3,"transcription":null}
@@ -2397,26 +2397,26 @@
 {"kz":"жапсыру","sa":"غراء","level":3,"transcription":null}
 {"kz":"жарасу","sa":"لتناسب، لتنسيق","level":4,"transcription":null}
 {"kz":"жарнамалау","sa":"أعلن","level":4,"transcription":null}
-{"kz":"жасалу","sa":"يجب القيام به، ليتم القيام به","level":3,"transcription":null}
+{"kz":"жасалу","sa":"يجب القيام به","level":3,"transcription":null}
 {"kz":"жету","sa":"الوصول إلى هناك","level":2,"transcription":null}
 {"kz":"жоғалту","sa":"يخسر","level":3,"transcription":null}
-{"kz":"жолға шығу","sa":"يترك","level":3,"transcription":null}
-{"kz":"жолықтыру","sa":"يقابل","level":3,"transcription":null}
-{"kz":"жою","sa":"إلغاء وتدمير","level":4,"transcription":null}
+{"kz":"жолға шығу","sa":"يخرج","level":3,"transcription":null}
+{"kz":"жолықтыру","sa":"يركض","level":3,"transcription":null}
+{"kz":"жою","sa":"إلغاء","level":4,"transcription":null}
 {"kz":"жөнелту","sa":"يرسل","level":3,"transcription":null}
 {"kz":"жұмысқа кірісу","sa":"اذهب إلى العمل","level":4,"transcription":null}
-{"kz":"жүктеу","sa":"تحميل، تحميل","level":3,"transcription":null}
+{"kz":"жүктеу","sa":"تحميل","level":3,"transcription":null}
 {"kz":"жылдам жүру","sa":"المشي بسرعة","level":2,"transcription":null}
 {"kz":"келу","sa":"يأتي","level":1,"transcription":null}
 {"kz":"кептіру","sa":"جاف","level":3,"transcription":null}
 {"kz":"кесу, турау","sa":"يقطع","level":2,"transcription":null}
-{"kz":"кету","sa":"ارحل، ارحل","level":1,"transcription":null}
+{"kz":"кету","sa":"ارحل","level":1,"transcription":null}
 {"kz":"кешігу","sa":"كن متأخرا","level":3,"transcription":null}
 {"kz":"киіну","sa":"فستان","level":2,"transcription":null}
 {"kz":"көмек беру","sa":"تقديم المساعدة","level":3,"transcription":null}
 {"kz":"көңіл көтеру","sa":"ابتهج","level":4,"transcription":null}
-{"kz":"көру","sa":"انظر، شاهد","level":1,"transcription":null}
-{"kz":"көшіру","sa":"ينسخ","level":3,"transcription":null}
+{"kz":"көру","sa":"انظر","level":1,"transcription":null}
+{"kz":"көшіру","sa":"أعد الكتابة","level":3,"transcription":null}
 {"kz":"күлу","sa":"يضحك","level":2,"transcription":null}
 {"kz":"күмбірлеу","sa":"الصوت مكتوما","level":5,"transcription":null}
 {"kz":"кір жуу","sa":"اغسل الأشياء","level":3,"transcription":null}
@@ -2460,7 +2460,7 @@
 {"kz":"таңғалу","sa":"تفاجأ","level":3,"transcription":null}
 {"kz":"тапсыру","sa":"يسند، يسلم","level":3,"transcription":null}
 {"kz":"тауға шығу","sa":"تسلق الجبال","level":3,"transcription":null}
-{"kz":"тәуелді болу","sa":"تعتمد","level":4,"transcription":null}
+{"kz":"тәуелді болу","sa":"يعتمد","level":4,"transcription":null}
 {"kz":"тесу","sa":"اصنع ثقوبًا","level":4,"transcription":null}
 {"kz":"топтастыру","sa":"مجموعة","level":4,"transcription":null}
 {"kz":"түзету","sa":"صحيح، صحيح","level":3,"transcription":null}
@@ -2486,11 +2486,11 @@
 {"kz":"атау","sa":"يتصل","level":3,"transcription":null}
 {"kz":"ауысып отыру","sa":"القيام بعملية زرع","level":4,"transcription":null}
 {"kz":"әйнектеу","sa":"زجاج","level":5,"transcription":null}
-{"kz":"әріптес болу","sa":"يكون الزملاء","level":4,"transcription":null}
-{"kz":"бағаламау","sa":"نقلل","level":4,"transcription":null}
-{"kz":"бас қосу","sa":"اتحدوا، اجمعوا","level":4,"transcription":null}
-{"kz":"басып шығару","sa":"مطبعة","level":3,"transcription":null}
-{"kz":"бұзылу","sa":"تتدهور وتتحلل","level":3,"transcription":null}
+{"kz":"әріптес болу","sa":"الزملاء","level":4,"transcription":null}
+{"kz":"бағаламау","sa":"تقليل","level":4,"transcription":null}
+{"kz":"бас қосу","sa":"إضافة","level":4,"transcription":null}
+{"kz":"басып шығару","sa":"طباعة","level":3,"transcription":null}
+{"kz":"бұзылу","sa":"كسر","level":3,"transcription":null}
 {"kz":"ғашық болу","sa":"اقع في الحب","level":3,"transcription":null}
 {"kz":"дауыс көтермеу","sa":"لا ترفع صوتك","level":4,"transcription":null}
 {"kz":"демдеу","sa":"الشراب (الشاي)","level":4,"transcription":null}
@@ -2545,40 +2545,40 @@
 {"kz":"сақтау","sa":"حفظ وحماية","level":3,"transcription":null}
 {"kz":"сапар шегу","sa":"يسافر","level":4,"transcription":null}
 {"kz":"сұхбат алу","sa":"مقابلة","level":4,"transcription":null}
-{"kz":"сүртіну","sa":"تجف","level":3,"transcription":null}
-{"kz":"сығу","sa":"ضغط","level":3,"transcription":null}
-{"kz":"сыпыру","sa":"اكتساح","level":4,"transcription":null}
-{"kz":"сыр жасырмау","sa":"لا تخفي، لا تخفي","level":5,"transcription":null}
-{"kz":"табылу","sa":"تظهر، تجد","level":4,"transcription":null}
+{"kz":"сүртіну","sa":"","level":3,"transcription":null}
+{"kz":"сығу","sa":"","level":3,"transcription":null}
+{"kz":"сыпыру","sa":"","level":4,"transcription":null}
+{"kz":"сыр жасырмау","sa":"لا تخفي","level":5,"transcription":null}
+{"kz":"табылу","sa":"تظهر","level":4,"transcription":null}
 {"kz":"талдау, саралау","sa":"تحليل","level":5,"transcription":null}
-{"kz":"таңбалау","sa":"علامة، علامة","level":5,"transcription":null}
-{"kz":"тарту","sa":"يحذب","level":2,"transcription":null}
-{"kz":"тәмамдау","sa":"أنهي، أنهي","level":4,"transcription":null}
-{"kz":"темекі тарту","sa":"دخان","level":3,"transcription":null}
+{"kz":"таңбалау","sa":"","level":5,"transcription":null}
+{"kz":"тарту","sa":"","level":2,"transcription":null}
+{"kz":"тәмамдау","sa":"","level":4,"transcription":null}
+{"kz":"темекі тарту","sa":"","level":3,"transcription":null}
 {"kz":"терлеу","sa":"يعرق","level":4,"transcription":null}
 {"kz":"тоқтатпау","sa":"لا تتوقف","level":3,"transcription":null}
-{"kz":"төгу","sa":"تصب","level":3,"transcription":null}
-{"kz":"тістеу","sa":"يعض","level":3,"transcription":null}
+{"kz":"төгу","sa":"","level":3,"transcription":null}
+{"kz":"тістеу","sa":"","level":3,"transcription":null}
 {"kz":"уақыт өткізу","sa":"قضاء بعض الوقت","level":3,"transcription":null}
 {"kz":"ұйықтап кету","sa":"تغفو","level":2,"transcription":null}
-{"kz":"ұнату","sa":"الحب، مثل","level":2,"transcription":null}
-{"kz":"ұнтақ салу","sa":"أضف مسحوق","level":5,"transcription":null}
+{"kz":"ұнату","sa":"الحب, مثل","level":2,"transcription":null}
+{"kz":"ұнтақ салу","sa":"","level":5,"transcription":null}
 {"kz":"ұрлау","sa":"يسرق","level":3,"transcription":null}
 {"kz":"ұрыспау","sa":"لا تأنيب","level":3,"transcription":null}
 {"kz":"ұшып келу","sa":"يطير في","level":3,"transcription":null}
 {"kz":"ұшып кету","sa":"يطير بعيدا","level":3,"transcription":null}
-{"kz":"үміт ақтау","sa":"ترقى إلى مستوى التوقعات","level":5,"transcription":null}
-{"kz":"шайнау","sa":"مضغ","level":2,"transcription":null}
+{"kz":"үміт ақтау","sa":"","level":5,"transcription":null}
+{"kz":"шайнау","sa":"","level":2,"transcription":null}
 {"kz":"шешім қабылдау","sa":"اتخاذ قرار","level":4,"transcription":null}
 {"kz":"шолу жасау","sa":"مراجعة","level":5,"transcription":null}
-{"kz":"шынығу, жаттығу","sa":"يدرب","level":3,"transcription":null}
+{"kz":"шынығу, жаттығу","sa":"","level":3,"transcription":null}
 {"kz":"ықшамдау","sa":"ضغط، تقليل","level":5,"transcription":null}
 {"kz":"айғайлау","sa":"تصرخ","level":2,"transcription":null}
 {"kz":"айналу","sa":"تناوب","level":3,"transcription":null}
 {"kz":"алмастыру","sa":"يستبدل","level":4,"transcription":null}
 {"kz":"алу","sa":"اطرح، خذ","level":3,"transcription":null}
-{"kz":"аралау","sa":"للتجول، للتجول","level":4,"transcription":null}
-{"kz":"ауыстыру","sa":"يستبدل","level":4,"transcription":null}
+{"kz":"аралау","sa":"التجول","level":4,"transcription":null}
+{"kz":"ауыстыру","sa":"يتم استبدال","level":4,"transcription":null}
 {"kz":"әсер ету","sa":"تأثير","level":4,"transcription":null}
 {"kz":"байлау","sa":"ضمادة","level":3,"transcription":null}
 {"kz":"басталу","sa":"ابدأ","level":2,"transcription":null}
@@ -2634,7 +2634,7 @@
 {"kz":"ойлап табу","sa":"يخترع","level":4,"transcription":null}
 {"kz":"орын алу","sa":"تأخذ مساحة","level":4,"transcription":null}
 {"kz":"өзгеріс енгізу","sa":"إجراء تغييرات","level":5,"transcription":null}
-{"kz":"өшіп қалу","sa":"إيقاف، إيقاف","level":3,"transcription":null}
+{"kz":"өшіп қалу","sa":"إيقاف","level":3,"transcription":null}
 {"kz":"пікірлесу","sa":"تبادل وجهات النظر","level":4,"transcription":null}
 {"kz":"ренжісу","sa":"أن يتعرضوا للإهانة من قبل بعضهم البعض","level":4,"transcription":null}
 {"kz":"ренжіту","sa":"الإساءة","level":3,"transcription":null}
@@ -2667,7 +2667,7 @@
 {"kz":"шағымдану","sa":"تقديم شكوى","level":5,"transcription":null}
 {"kz":"шешімін табу","sa":"العثور على حل","level":4,"transcription":null}
 {"kz":"іздеп табу","sa":"يجد","level":3,"transcription":null}
-{"kz":"адал","sa":"أمين","level":2,"transcription":null}
+{"kz":"адал","sa":"عدل","level":2,"transcription":null}
 {"kz":"ақкөңіл","sa":"مخلص","level":3,"transcription":null}
 {"kz":"ақылды","sa":"ذكي","level":1,"transcription":null}
 {"kz":"алғыр","sa":"عنيد","level":4,"transcription":null}
@@ -2681,11 +2681,11 @@
 {"kz":"әділ","sa":"عدل","level":3,"transcription":null}
 {"kz":"әйгілі","sa":"مشهور","level":3,"transcription":null}
 {"kz":"бақытты","sa":"سعيد","level":2,"transcription":null}
-{"kz":"белгілі","sa":"معروف، مؤكد","level":2,"transcription":null}
+{"kz":"белгілі","sa":"مشهور","level":2,"transcription":null}
 {"kz":"белсенді","sa":"نشيط","level":3,"transcription":null}
 {"kz":"бөлек","sa":"منفصل، منفصل","level":3,"transcription":null}
 {"kz":"бұлтсыз","sa":"صافية","level":3,"transcription":null}
-{"kz":"бұлтты","sa":"غائم","level":3,"transcription":null}
+{"kz":"бұлтты","sa":"غائم، مغطى بالغيوم","level":3,"transcription":null}
 {"kz":"білімді","sa":"متعلمين","level":3,"transcription":null}
 {"kz":"дарынды","sa":"موهوب","level":3,"transcription":null}
 {"kz":"дөңгелек","sa":"دائري","level":2,"transcription":null}
@@ -2716,7 +2716,7 @@
 {"kz":"кіші","sa":"أصغر سنا","level":2,"transcription":null}
 {"kz":"қайғылы","sa":"حزين","level":3,"transcription":null}
 {"kz":"қайырымды","sa":"عطوف","level":2,"transcription":null}
-{"kz":"қалың","sa":"سميك","level":2,"transcription":null}
+{"kz":"қалың","sa":"سميكة وكثيفة","level":2,"transcription":null}
 {"kz":"қарапайым","sa":"متواضع وبسيط","level":3,"transcription":null}
 {"kz":"қатыгез","sa":"فظ","level":4,"transcription":null}
 {"kz":"қауіпті","sa":"خطير","level":3,"transcription":null}
@@ -2724,16 +2724,16 @@
 {"kz":"қолданбалы","sa":"مُطبَّق","level":4,"transcription":null}
 {"kz":"құқылы","sa":"الأهلية القانونية","level":5,"transcription":null}
 {"kz":"құрметті","sa":"عزيزي","level":3,"transcription":null}
-{"kz":"қызықты","sa":"مثير للاهتمام","level":2,"transcription":null}
+{"kz":"қызықты","sa":"متفائل","level":2,"transcription":null}
 {"kz":"қымбат","sa":"غالي","level":2,"transcription":null}
 {"kz":"қысқы","sa":"شتاء","level":2,"transcription":null}
 {"kz":"лас","sa":"قذرة","level":2,"transcription":null}
-{"kz":"мазасыз","sa":"مثيرة للقلق","level":4,"transcription":null}
+{"kz":"мазасыз","sa":"مضغوط","level":4,"transcription":null}
 {"kz":"майлы","sa":"الدهنية","level":2,"transcription":null}
-{"kz":"мейірімді","sa":"إنسانية","level":4,"transcription":null}
-{"kz":"мемлекеттік","sa":"ولاية","level":3,"transcription":null}
-{"kz":"мылжың","sa":"ثرثرة، الثرثار","level":4,"transcription":null}
-{"kz":"міндетті","sa":"ملزم","level":3,"transcription":null}
+{"kz":"мейірімді","sa":"إنساني","level":4,"transcription":null}
+{"kz":"мемлекеттік","sa":"دولة","level":3,"transcription":null}
+{"kz":"мылжың","sa":"ثرثرة","level":4,"transcription":null}
+{"kz":"міндетті","sa":"مستحب","level":3,"transcription":null}
 {"kz":"нағыз","sa":"حقيقي","level":3,"transcription":null}
 {"kz":"нәтижелі","sa":"مثمرة وفعالة","level":4,"transcription":null}
 {"kz":"негізгі","sa":"أساسي","level":2,"transcription":null}
@@ -2747,7 +2747,7 @@
 {"kz":"сыпайы","sa":"مؤدب","level":3,"transcription":null}
 {"kz":"сыртқы","sa":"الخارجي، العلوي","level":3,"transcription":null}
 {"kz":"таза","sa":"ينظف","level":1,"transcription":null}
-{"kz":"талғампаз","sa":"من الصعب إرضاءه، من الصعب إرضاءه","level":4,"transcription":null}
+{"kz":"талғампаз","sa":"من الصعب إرضاءه","level":4,"transcription":null}
 {"kz":"танымал","sa":"شائع","level":3,"transcription":null}
 {"kz":"таңғажайып, ғажап","sa":"رائع، مذهل","level":4,"transcription":null}
 {"kz":"тапқыр","sa":"بارع","level":4,"transcription":null}
@@ -2839,7 +2839,7 @@
 {"kz":"сапалы","sa":"نوعي","level":3,"transcription":null}
 {"kz":"суық","sa":"بارد","level":2,"transcription":null}
 {"kz":"сұлу","sa":"جميل","level":2,"transcription":null}
-{"kz":"сұсты","sa":"هائل وصارم","level":4,"transcription":null}
+{"kz":"сұсты","sa":"مستعجل، متهيج","level":4,"transcription":null}
 {"kz":"табанды","sa":"مستمر، عنيد","level":4,"transcription":null}
 {"kz":"тегін","sa":"حر","level":3,"transcription":null}
 {"kz":"тиянақты","sa":"شاملة وفعالة","level":5,"transcription":null}
@@ -2856,7 +2856,7 @@
 {"kz":"ылғалды","sa":"رطبة، رطبة","level":3,"transcription":null}
 {"kz":"ыстық","sa":"حار","level":2,"transcription":null}
 {"kz":"ақ","sa":"أبيض","level":1,"transcription":null}
-{"kz":"ақысыз","sa":"مجاني، مجاني","level":3,"transcription":null}
+{"kz":"ақысыз","sa":"مجاني, مجاني","level":3,"transcription":null}
 {"kz":"алтын","sa":"ذهب","level":2,"transcription":null}
 {"kz":"арнаулы","sa":"خاص، مقصود","level":4,"transcription":null}
 {"kz":"ауыр","sa":"ثقيل","level":2,"transcription":null}
@@ -2865,7 +2865,7 @@
 {"kz":"бағалы","sa":"قيّم","level":3,"transcription":null}
 {"kz":"бай","sa":"ثري","level":2,"transcription":null}
 {"kz":"бейресми","sa":"غير رسمي","level":4,"transcription":null}
-{"kz":"белгілі","sa":"معروف، مؤكد","level":2,"transcription":null}
+{"kz":"белгілі","sa":"معروف","level":2,"transcription":null}
 {"kz":"белгісіз","sa":"مجهول","level":3,"transcription":null}
 {"kz":"биік","sa":"عالي","level":2,"transcription":null}
 {"kz":"брендті","sa":"وصفت","level":4,"transcription":null}
@@ -2921,7 +2921,7 @@
 {"kz":"қызметтік","sa":"رسمي","level":4,"transcription":null}
 {"kz":"қызыл","sa":"أحمر","level":1,"transcription":null}
 {"kz":"маусымдық","sa":"موسمي","level":4,"transcription":null}
-{"kz":"мерекелік","sa":"احتفالي، رسمي","level":3,"transcription":null}
+{"kz":"мерекелік","sa":"احتفالي","level":3,"transcription":null}
 {"kz":"мұқият","sa":"أنيق وشامل","level":3,"transcription":null}
 {"kz":"оң","sa":"يمين","level":1,"transcription":null}
 {"kz":"өмірге құштар","sa":"مبتهج","level":4,"transcription":null}
@@ -2951,7 +2951,7 @@
 {"kz":"ұқсас","sa":"مشابه","level":3,"transcription":null}
 {"kz":"үздік","sa":"أفضل","level":2,"transcription":null}
 {"kz":"халықаралық","sa":"دولي","level":4,"transcription":null}
-{"kz":"шартты","sa":"شرطي","level":4,"transcription":null}
+{"kz":"шартты","sa":"شرط","level":4,"transcription":null}
 {"kz":"шектен тыс","sa":"مُبَالَغ فيه","level":4,"transcription":null}
 {"kz":"алпыс","sa":"ستين","level":2,"transcription":null}
 {"kz":"алпысыншы","sa":"الستين","level":3,"transcription":null}
@@ -3008,12 +3008,12 @@
 {"kz":"он жеті","sa":"سبعة عشر","level":2,"transcription":null}
 {"kz":"он сегіз","sa":"ثمانية عشر","level":2,"transcription":null}
 {"kz":"он тоғыз","sa":"تسعة عشر","level":2,"transcription":null}
-{"kz":"он төрт","sa":"أربعة عشر","level":2,"transcription":null}
-{"kz":"он үш","sa":"ثلاثة عشر","level":2,"transcription":null}
+{"kz":"он төрт","sa":"أربعة","level":2,"transcription":null}
+{"kz":"он үш","sa":"ثلاثة","level":2,"transcription":null}
 {"kz":"ондаған","sa":"عشرات","level":3,"transcription":null}
 {"kz":"он-оннан","sa":"عشرة، عشرات","level":3,"transcription":null}
 {"kz":"оныншы","sa":"العاشر","level":2,"transcription":null}
-{"kz":"оның","sa":"له، لها","level":2,"transcription":null}
+{"kz":"оның","sa":"له","level":2,"transcription":null}
 {"kz":"отыз","sa":"ثلاثين","level":2,"transcription":null}
 {"kz":"отызыншы","sa":"الثلاثون","level":3,"transcription":null}
 {"kz":"өздерің, өздеріңіз","sa":"نفسك (الجمع)","level":3,"transcription":null}

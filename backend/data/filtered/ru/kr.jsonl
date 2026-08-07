@@ -8,7 +8,7 @@
 {"ru":"что","kr":"무엇","level":1,"transcription":null}
 {"ru":"а","kr":"에이","level":1,"transcription":null}
 {"ru":"этот","kr":"이것","level":1,"transcription":null}
-{"ru":"к","kr":"에게","level":1,"transcription":null}
+{"ru":"к","kr":"~에게","level":1,"transcription":null}
 {"ru":"который","kr":"어느","level":2,"transcription":null}
 {"ru":"из","kr":"~에서","level":1,"transcription":null}
 {"ru":"это","kr":"이것","level":1,"transcription":null}
@@ -30,25 +30,25 @@
 {"ru":"у","kr":"~에","level":1,"transcription":null}
 {"ru":"мочь","kr":"할 수 있다","level":1,"transcription":null}
 {"ru":"один","kr":"하나","level":1,"transcription":null}
-{"ru":"до","kr":"에게","level":1,"transcription":null}
+{"ru":"до","kr":"~에","level":1,"transcription":null}
 {"ru":"только","kr":"오직","level":1,"transcription":null}
 {"ru":"же","kr":"또는","level":2,"transcription":null}
 {"ru":"время","kr":"시간","level":1,"transcription":null}
 {"ru":"все","kr":"모두","level":1,"transcription":null}
-{"ru":"другой","kr":"또 다른","level":1,"transcription":null}
+{"ru":"другой","kr":"다른","level":1,"transcription":null}
 {"ru":"уже","kr":"이미","level":1,"transcription":null}
 {"ru":"его","kr":"그의","level":1,"transcription":null}
 {"ru":"еще","kr":"더","level":1,"transcription":null}
-{"ru":"или","kr":"또는","level":1,"transcription":null}
+{"ru":"или","kr":"~에","level":1,"transcription":null}
 {"ru":"она","kr":"그녀","level":1,"transcription":null}
 {"ru":"мы","kr":"우리","level":1,"transcription":null}
 {"ru":"при","kr":"~에","level":2,"transcription":null}
-{"ru":"если","kr":"만약에","level":1,"transcription":null}
+{"ru":"если","kr":"만약","level":1,"transcription":null}
 {"ru":"первый","kr":"첫 번째","level":1,"transcription":null}
 {"ru":"стать","kr":"~이 되다","level":2,"transcription":null}
 {"ru":"новый","kr":"새로운","level":1,"transcription":null}
 {"ru":"сам","kr":"내 자신","level":1,"transcription":null}
-{"ru":"себя","kr":"내 자신","level":2,"transcription":null}
+{"ru":"себя","kr":"자신을","level":2,"transcription":null}
 {"ru":"человек","kr":"인간","level":1,"transcription":null}
 {"ru":"два","kr":"둘","level":1,"transcription":null}
 {"ru":"можно","kr":"할 수 있다","level":1,"transcription":null}
@@ -73,7 +73,7 @@
 {"ru":"между","kr":"~ 사이","level":2,"transcription":null}
 {"ru":"часть","kr":"부분","level":1,"transcription":null}
 {"ru":"сторона","kr":"옆","level":2,"transcription":null}
-{"ru":"знать","kr":"알다 ","level":1,"transcription":null}
+{"ru":"знать","kr":"알다","level":1,"transcription":null}
 {"ru":"через","kr":"~을 통해","level":2,"transcription":null}
 {"ru":"работать","kr":"일하다","level":1,"transcription":null}
 {"ru":"три","kr":"삼","level":1,"transcription":null}
@@ -153,7 +153,7 @@
 {"ru":"хороший","kr":"좋은","level":1,"transcription":null}
 {"ru":"давать","kr":"주다","level":1,"transcription":null}
 {"ru":"видеть","kr":"보다","level":1,"transcription":null}
-{"ru":"пора","kr":"시간이다","level":2,"transcription":null}
+{"ru":"пора","kr":"~ 시간이다","level":2,"transcription":null}
 {"ru":"хорошо","kr":"괜찮은","level":1,"transcription":null}
 {"ru":"разный","kr":"다른","level":2,"transcription":null}
 {"ru":"вместе","kr":"함께","level":1,"transcription":null}
@@ -170,17 +170,17 @@
 {"ru":"собственный","kr":"소유하다","level":3,"transcription":null}
 {"ru":"деньги","kr":"돈","level":1,"transcription":null}
 {"ru":"вообще","kr":"조금도","level":2,"transcription":null}
-{"ru":"подобный","kr":"좋다","level":3,"transcription":null}
+{"ru":"подобный","kr":"~ 좋은","level":3,"transcription":null}
 {"ru":"да","kr":"예","level":1,"transcription":null}
 {"ru":"имя","kr":"이름","level":1,"transcription":null}
 {"ru":"цель","kr":"목표","level":2,"transcription":null}
 {"ru":"известный","kr":"유명한","level":2,"transcription":null}
-{"ru":"какой-то","kr":"어떤 종류의","level":2,"transcription":null}
+{"ru":"какой-то","kr":"~ 어떤 종류의","level":2,"transcription":null}
 {"ru":"создать","kr":"만들다","level":3,"transcription":null}
 {"ru":"прийти","kr":"오다","level":2,"transcription":null}
-{"ru":"среди","kr":"~ 중에","level":2,"transcription":null}
+{"ru":"среди","kr":"~중에","level":2,"transcription":null}
 {"ru":"внимание","kr":"주목","level":2,"transcription":null}
-{"ru":"взять","kr":"가져가다","level":1,"transcription":null}
+{"ru":"взять","kr":"가져다","level":1,"transcription":null}
 {"ru":"думать","kr":"생각하다","level":1,"transcription":null}
 {"ru":"важный","kr":"중요한","level":2,"transcription":null}
 {"ru":"развитие","kr":"개발","level":3,"transcription":null}
@@ -238,9 +238,9 @@
 {"ru":"закон","kr":"법","level":2,"transcription":null}
 {"ru":"порядок","kr":"주문하다","level":2,"transcription":null}
 {"ru":"программа","kr":"프로그램","level":2,"transcription":null}
-{"ru":"задача","kr":"일","level":3,"transcription":null}
+{"ru":"задача","kr":"문제","level":3,"transcription":null}
 {"ru":"необходимый","kr":"필요한","level":3,"transcription":null}
-{"ru":"что-то","kr":"무엇","level":1,"transcription":null}
+{"ru":"что-то","kr":"무엇이든","level":1,"transcription":null}
 {"ru":"причина","kr":"원인","level":2,"transcription":null}
 {"ru":"показать","kr":"보여주다","level":2,"transcription":null}
 {"ru":"количество","kr":"수량","level":3,"transcription":null}
@@ -250,7 +250,7 @@
 {"ru":"прийтись","kr":"오다","level":3,"transcription":null}
 {"ru":"ваш","kr":"당신의","level":1,"transcription":null}
 {"ru":"ребенок","kr":"어린이","level":1,"transcription":null}
-{"ru":"нельзя","kr":"그것은 금지되어 있다","level":2,"transcription":null}
+{"ru":"нельзя","kr":"금지된다는 것","level":2,"transcription":null}
 {"ru":"происходить","kr":"일어나다","level":3,"transcription":null}
 {"ru":"достаточно","kr":"충분한","level":2,"transcription":null}
 {"ru":"московский","kr":"모스크바","level":2,"transcription":null}
@@ -261,7 +261,7 @@
 {"ru":"становиться","kr":"~이 되다","level":2,"transcription":null}
 {"ru":"поставить","kr":"놓다","level":2,"transcription":null}
 {"ru":"из-за","kr":"때문에","level":2,"transcription":null}
-{"ru":"готовый","kr":"준비가 된","level":2,"transcription":null}
+{"ru":"готовый","kr":"준비된 것","level":2,"transcription":null}
 {"ru":"равный","kr":"동일한","level":2,"transcription":null}
 {"ru":"ну","kr":"잘","level":1,"transcription":null}
 {"ru":"прошлый","kr":"마지막","level":2,"transcription":null}
@@ -299,14 +299,14 @@
 {"ru":"давно","kr":"오랫동안","level":2,"transcription":null}
 {"ru":"практически","kr":"거의","level":3,"transcription":null}
 {"ru":"информация","kr":"정보","level":3,"transcription":null}
-{"ru":"причем","kr":"그리고","level":3,"transcription":null}
+{"ru":"причем","kr":"그때","level":3,"transcription":null}
 {"ru":"четыре","kr":"네","level":1,"transcription":null}
-{"ru":"возможный","kr":"가능한","level":3,"transcription":null}
+{"ru":"возможный","kr":"가능하다","level":3,"transcription":null}
 {"ru":"различный","kr":"다른","level":3,"transcription":null}
 {"ru":"всякий","kr":"어느","level":2,"transcription":null}
-{"ru":"ход","kr":"이동하다","level":2,"transcription":null}
+{"ru":"ход","kr":"이동","level":2,"transcription":null}
 {"ru":"материал","kr":"재료","level":3,"transcription":null}
-{"ru":"земля","kr":"지구","level":1,"transcription":null}
+{"ru":"земля","kr":"지하","level":1,"transcription":null}
 {"ru":"старый","kr":"오래된","level":1,"transcription":null}
 {"ru":"опыт","kr":"경험","level":2,"transcription":null}
 {"ru":"данный","kr":"주어진","level":2,"transcription":null}
@@ -320,15 +320,15 @@
 {"ru":"поскольку","kr":"왜냐하면","level":3,"transcription":null}
 {"ru":"течение","kr":"흐름","level":3,"transcription":null}
 {"ru":"назвать","kr":"이름","level":2,"transcription":null}
-{"ru":"требовать","kr":"수요","level":3,"transcription":null}
+{"ru":"требовать","kr":"요구하다","level":3,"transcription":null}
 {"ru":"всего","kr":"총","level":2,"transcription":null}
 {"ru":"затем","kr":"그 다음에","level":2,"transcription":null}
-{"ru":"удаться","kr":"성공하다","level":3,"transcription":null}
+{"ru":"удаться","kr":"성공할 수 있다","level":3,"transcription":null}
 {"ru":"сей","kr":"이것","level":4,"transcription":null}
 {"ru":"труд","kr":"일하다","level":2,"transcription":null}
 {"ru":"рубль","kr":"루블","level":1,"transcription":null}
 {"ru":"куда","kr":"어디","level":1,"transcription":null}
-{"ru":"ждать","kr":"기다리다","level":1,"transcription":null}
+{"ru":"ждать","kr":"기다리기","level":1,"transcription":null}
 {"ru":"увидеть","kr":"보다","level":1,"transcription":null}
 {"ru":"проект","kr":"프로젝트","level":2,"transcription":null}
 {"ru":"рынок","kr":"시장","level":2,"transcription":null}
@@ -359,9 +359,9 @@
 {"ru":"состав","kr":"화합물","level":3,"transcription":null}
 {"ru":"относиться","kr":"대하다","level":3,"transcription":null}
 {"ru":"серьезный","kr":"심각한","level":2,"transcription":null}
-{"ru":"срок","kr":"용어","level":3,"transcription":null}
+{"ru":"срок","kr":"기간","level":3,"transcription":null}
 {"ru":"небольшой","kr":"작은","level":1,"transcription":null}
-{"ru":"отметить","kr":"메모","level":3,"transcription":null}
+{"ru":"отметить","kr":"표시하다","level":3,"transcription":null}
 {"ru":"позволить","kr":"허용하다","level":3,"transcription":null}
 {"ru":"целый","kr":"전체","level":1,"transcription":null}
 {"ru":"отдельный","kr":"분리된","level":3,"transcription":null}
@@ -369,7 +369,7 @@
 {"ru":"период","kr":"기간","level":3,"transcription":null}
 {"ru":"принцип","kr":"원칙","level":3,"transcription":null}
 {"ru":"данные","kr":"데이터","level":3,"transcription":null}
-{"ru":"отвечать","kr":"회신하다","level":2,"transcription":null}
+{"ru":"отвечать","kr":"답변하다","level":2,"transcription":null}
 {"ru":"вода","kr":"물","level":1,"transcription":null}
 {"ru":"сколько","kr":"얼마나","level":1,"transcription":null}
 {"ru":"ранний","kr":"일찍","level":2,"transcription":null}
@@ -379,7 +379,7 @@
 {"ru":"улица","kr":"거리","level":1,"transcription":null}
 {"ru":"свет","kr":"빛","level":2,"transcription":null}
 {"ru":"производство","kr":"생산","level":4,"transcription":null}
-{"ru":"произойти","kr":"일어나다","level":3,"transcription":null}
+{"ru":"произойти","kr":"발생하다","level":3,"transcription":null}
 {"ru":"касаться","kr":"만지다","level":3,"transcription":null}
 {"ru":"предлагать","kr":"제안하다","level":3,"transcription":null}
 {"ru":"приходиться","kr":"~해야 한다","level":3,"transcription":null}
@@ -430,7 +430,7 @@
 {"ru":"низкий","kr":"짧은","level":2,"transcription":null}
 {"ru":"документ","kr":"문서","level":3,"transcription":null}
 {"ru":"член","kr":"회원","level":2,"transcription":null}
-{"ru":"близкий","kr":"닫다","level":2,"transcription":null}
+{"ru":"близкий","kr":"접근할 수 있는 사람","level":2,"transcription":null}
 {"ru":"реальный","kr":"진짜","level":3,"transcription":null}
 {"ru":"школа","kr":"학교","level":1,"transcription":null}
 {"ru":"написать","kr":"쓰다","level":1,"transcription":null}
@@ -439,11 +439,11 @@
 {"ru":"дорога","kr":"도로","level":1,"transcription":null}
 {"ru":"все-таки","kr":"결국","level":2,"transcription":null}
 {"ru":"женщина","kr":"여성","level":1,"transcription":null}
-{"ru":"орган","kr":"오르간","level":3,"transcription":null}
-{"ru":"советский","kr":"옛 소련","level":2,"transcription":null}
+{"ru":"орган","kr":"기관","level":3,"transcription":null}
+{"ru":"советский","kr":"소련의","level":2,"transcription":null}
 {"ru":"территория","kr":"지역","level":3,"transcription":null}
 {"ru":"весьма","kr":"매우","level":2,"transcription":null}
-{"ru":"рост","kr":"키","level":2,"transcription":null}
+{"ru":"рост","kr":"크기","level":2,"transcription":null}
 {"ru":"определенный","kr":"명확한","level":3,"transcription":null}
 {"ru":"сидеть","kr":"앉다","level":1,"transcription":null}
 {"ru":"характер","kr":"성격","level":3,"transcription":null}
@@ -568,7 +568,7 @@
 {"ru":"национальный","kr":"국가의","level":3,"transcription":null}
 {"ru":"очередной","kr":"또 다른","level":3,"transcription":null}
 {"ru":"база","kr":"베이스","level":3,"transcription":null}
-{"ru":"иметься","kr":"이용 가능하다","level":3,"transcription":null}
+{"ru":"иметься","kr":"사용 가능","level":3,"transcription":null}
 {"ru":"любовь","kr":"사랑","level":2,"transcription":null}
 {"ru":"возникать","kr":"생기다","level":4,"transcription":null}
 {"ru":"прямой","kr":"직접","level":2,"transcription":null}
@@ -669,9 +669,9 @@
 {"ru":"надеяться","kr":"희망","level":2,"transcription":null}
 {"ru":"рано","kr":"일찍","level":1,"transcription":null}
 {"ru":"будущий","kr":"미래","level":2,"transcription":null}
-{"ru":"дополнительный","kr":"추가의","level":4,"transcription":null}
+{"ru":"дополнительный","kr":"추가적인","level":4,"transcription":null}
 {"ru":"поле","kr":"필드","level":2,"transcription":null}
-{"ru":"технический","kr":"인위적인","level":3,"transcription":null}
+{"ru":"технический","kr":"기술적","level":3,"transcription":null}
 {"ru":"называться","kr":"부름을 받다","level":3,"transcription":null}
 {"ru":"вспомнить","kr":"상기하다","level":2,"transcription":null}
 {"ru":"похожий","kr":"비슷한","level":2,"transcription":null}
@@ -808,17 +808,17 @@
 {"ru":"желать","kr":"원하다","level":2,"transcription":null}
 {"ru":"разработать","kr":"개발하다","level":4,"transcription":null}
 {"ru":"федерация","kr":"연합","level":3,"transcription":null}
-{"ru":"никак","kr":"안 돼요","level":2,"transcription":null}
-{"ru":"отдать","kr":"포기하다","level":2,"transcription":null}
-{"ru":"наличие","kr":"유효성","level":4,"transcription":null}
+{"ru":"никак","kr":"아니요","level":2,"transcription":null}
+{"ru":"отдать","kr":"기피하다","level":2,"transcription":null}
+{"ru":"наличие","kr":"존재","level":4,"transcription":null}
 {"ru":"согласиться","kr":"동의하다","level":3,"transcription":null}
 {"ru":"носить","kr":"입다","level":1,"transcription":null}
 {"ru":"западный","kr":"서쪽","level":2,"transcription":null}
 {"ru":"признать","kr":"인정하다","level":3,"transcription":null}
 {"ru":"пространство","kr":"공간","level":4,"transcription":null}
 {"ru":"принести","kr":"가져오다","level":2,"transcription":null}
-{"ru":"курс","kr":"잘","level":3,"transcription":null}
-{"ru":"означать","kr":"평균","level":3,"transcription":null}
+{"ru":"курс","kr":"방법","level":3,"transcription":null}
+{"ru":"означать","kr":"표시하다","level":3,"transcription":null}
 {"ru":"прочий","kr":"다른","level":3,"transcription":null}
 {"ru":"бизнес","kr":"사업","level":2,"transcription":null}
 {"ru":"немного","kr":"조금","level":1,"transcription":null}
@@ -838,7 +838,7 @@
 {"ru":"обеспечение","kr":"보안","level":4,"transcription":null}
 {"ru":"выполнять","kr":"다하다","level":4,"transcription":null}
 {"ru":"министерство","kr":"내각","level":3,"transcription":null}
-{"ru":"видимо","kr":"보기에","level":2,"transcription":null}
+{"ru":"видимо","kr":"보이는","level":2,"transcription":null}
 {"ru":"бюджет","kr":"예산","level":3,"transcription":null}
 {"ru":"повышение","kr":"홍보","level":3,"transcription":null}
 {"ru":"поиск","kr":"찾다","level":3,"transcription":null}
@@ -857,7 +857,7 @@
 {"ru":"расчет","kr":"계산","level":3,"transcription":null}
 {"ru":"некий","kr":"일부","level":3,"transcription":null}
 {"ru":"старший","kr":"상위","level":2,"transcription":null}
-{"ru":"европейский","kr":"유럽 ​​사람","level":2,"transcription":null}
+{"ru":"европейский","kr":"유럽 사람","level":2,"transcription":null}
 {"ru":"обращаться","kr":"주소","level":4,"transcription":null}
 {"ru":"столица","kr":"수도","level":2,"transcription":null}
 {"ru":"меньше","kr":"더 적은","level":1,"transcription":null}
@@ -873,7 +873,7 @@
 {"ru":"разве","kr":"그렇지 않나요?","level":2,"transcription":null}
 {"ru":"рассматривать","kr":"고려하다","level":4,"transcription":null}
 {"ru":"герой","kr":"영웅","level":2,"transcription":null}
-{"ru":"родной","kr":"토종의","level":2,"transcription":null}
+{"ru":"родной","kr":"토종","level":2,"transcription":null}
 {"ru":"операция","kr":"작업","level":4,"transcription":null}
 {"ru":"завод","kr":"공장","level":2,"transcription":null}
 {"ru":"фонд","kr":"축적","level":3,"transcription":null}
@@ -931,7 +931,7 @@
 {"ru":"текст","kr":"텍스트","level":2,"transcription":null}
 {"ru":"комитет","kr":"위원회","level":3,"transcription":null}
 {"ru":"здоровье","kr":"건강","level":2,"transcription":null}
-{"ru":"сентябрь","kr":"구월","level":1,"transcription":null}
+{"ru":"сентябрь","kr":"9월","level":1,"transcription":null}
 {"ru":"традиция","kr":"전통","level":3,"transcription":null}
 {"ru":"норма","kr":"표준","level":3,"transcription":null}
 {"ru":"традиционный","kr":"전통적인","level":3,"transcription":null}
@@ -942,7 +942,7 @@
 {"ru":"учитывать","kr":"고려하다","level":4,"transcription":null}
 {"ru":"странный","kr":"이상한","level":2,"transcription":null}
 {"ru":"измениться","kr":"변화","level":3,"transcription":null}
-{"ru":"поступить","kr":"싸다","level":3,"transcription":null}
+{"ru":"поступить","kr":"입학","level":3,"transcription":null}
 {"ru":"обещать","kr":"약속하다","level":2,"transcription":null}
 {"ru":"платить","kr":"지불하다","level":1,"transcription":null}
 {"ru":"литература","kr":"문학","level":2,"transcription":null}
@@ -958,7 +958,7 @@
 {"ru":"поднять","kr":"들어올리다","level":2,"transcription":null}
 {"ru":"здание","kr":"건물","level":2,"transcription":null}
 {"ru":"декабрь","kr":"12월","level":1,"transcription":null}
-{"ru":"использоваться","kr":"사용되다","level":3,"transcription":null}
+{"ru":"использоваться","kr":"사용하다","level":3,"transcription":null}
 {"ru":"нравиться","kr":"좋다","level":2,"transcription":null}
 {"ru":"достижение","kr":"성취","level":4,"transcription":null}
 {"ru":"возвращаться","kr":"돌아와","level":2,"transcription":null}
@@ -984,15 +984,15 @@
 {"ru":"мелкий","kr":"작은","level":2,"transcription":null}
 {"ru":"явно","kr":"확실히","level":3,"transcription":null}
 {"ru":"прежний","kr":"이전의","level":3,"transcription":null}
-{"ru":"умереть","kr":"주사위","level":2,"transcription":null}
+{"ru":"умереть","kr":"죽다","level":2,"transcription":null}
 {"ru":"абсолютно","kr":"전적으로","level":3,"transcription":null}
-{"ru":"получение","kr":"전수","level":3,"transcription":null}
+{"ru":"получение","kr":"수취","level":3,"transcription":null}
 {"ru":"собственно","kr":"실제로","level":3,"transcription":null}
 {"ru":"родитель","kr":"조상","level":2,"transcription":null}
 {"ru":"подойти","kr":"일어나다","level":2,"transcription":null}
 {"ru":"добавить","kr":"추가하다","level":2,"transcription":null}
 {"ru":"продажа","kr":"판매","level":2,"transcription":null}
-{"ru":"понятно","kr":"분명하다","level":2,"transcription":null}
+{"ru":"понятно","kr":"분명히","level":2,"transcription":null}
 {"ru":"насколько","kr":"얼마나 많이","level":3,"transcription":null}
 {"ru":"дома","kr":"주택","level":1,"transcription":null}
 {"ru":"праздник","kr":"휴일","level":1,"transcription":null}
@@ -1054,7 +1054,7 @@
 {"ru":"мешать","kr":"간섭하다","level":2,"transcription":null}
 {"ru":"автомобиль","kr":"자동차","level":1,"transcription":null}
 {"ru":"передача","kr":"방송","level":4,"transcription":null}
-{"ru":"домой","kr":"집","level":1,"transcription":null}
+{"ru":"домой","kr":"집으로","level":1,"transcription":null}
 {"ru":"объяснять","kr":"설명하다","level":3,"transcription":null}
 {"ru":"музыка","kr":"음악","level":1,"transcription":null}
 {"ru":"редакция","kr":"편집실","level":3,"transcription":null}
@@ -1066,25 +1066,25 @@
 {"ru":"полезный","kr":"유용한","level":2,"transcription":null}
 {"ru":"март","kr":"3월","level":1,"transcription":null}
 {"ru":"ввести","kr":"입력하다","level":3,"transcription":null}
-{"ru":"настолько","kr":"그래서","level":3,"transcription":null}
+{"ru":"настолько","kr":"그렇게","level":3,"transcription":null}
 {"ru":"слабый","kr":"약한","level":2,"transcription":null}
 {"ru":"проводиться","kr":"수행되다","level":4,"transcription":null}
 {"ru":"постепенно","kr":"서서히","level":3,"transcription":null}
 {"ru":"организовать","kr":"정리하다","level":3,"transcription":null}
-{"ru":"девушка","kr":"젊은 숙녀","level":1,"transcription":null}
+{"ru":"девушка","kr":"젊은 여자","level":1,"transcription":null}
 {"ru":"высоко","kr":"높은","level":1,"transcription":null}
-{"ru":"продолжаться","kr":"계속하다","level":3,"transcription":null}
-{"ru":"поступать","kr":"행동","level":3,"transcription":null}
+{"ru":"продолжаться","kr":"계속되다","level":3,"transcription":null}
+{"ru":"поступать","kr":"행동하다","level":3,"transcription":null}
 {"ru":"строить","kr":"짓다","level":2,"transcription":null}
 {"ru":"врач","kr":"의사","level":1,"transcription":null}
 {"ru":"небо","kr":"하늘","level":1,"transcription":null}
 {"ru":"где-то","kr":"어딘가에","level":1,"transcription":null}
-{"ru":"менять","kr":"변화","level":2,"transcription":null}
+{"ru":"менять","kr":"바꾸다","level":2,"transcription":null}
 {"ru":"пить","kr":"마시다","level":1,"transcription":null}
 {"ru":"лучше","kr":"더 나은","level":1,"transcription":null}
 {"ru":"встретить","kr":"만나다","level":2,"transcription":null}
-{"ru":"способствовать","kr":"홍보하다","level":4,"transcription":null}
-{"ru":"бросить","kr":"그만두다","level":2,"transcription":null}
+{"ru":"способствовать","kr":"지원하다","level":4,"transcription":null}
+{"ru":"бросить","kr":"버리다","level":2,"transcription":null}
 {"ru":"фактор","kr":"요인","level":3,"transcription":null}
 {"ru":"реформа","kr":"개정","level":3,"transcription":null}
 {"ru":"июнь","kr":"6월","level":1,"transcription":null}
@@ -1109,11 +1109,11 @@
 {"ru":"оценить","kr":"평가하다","level":3,"transcription":null}
 {"ru":"муж","kr":"남편","level":1,"transcription":null}
 {"ru":"разумеется","kr":"물론","level":2,"transcription":null}
-{"ru":"увеличение","kr":"증가하다","level":4,"transcription":null}
-{"ru":"попросить","kr":"묻다","level":1,"transcription":null}
-{"ru":"мероприятие","kr":"이벤트","level":3,"transcription":null}
-{"ru":"внести","kr":"기여하다","level":3,"transcription":null}
-{"ru":"лишний","kr":"추가의","level":3,"transcription":null}
+{"ru":"увеличение","kr":"증가","level":4,"transcription":null}
+{"ru":"попросить","kr":"요청하다","level":1,"transcription":null}
+{"ru":"мероприятие","kr":"행동","level":3,"transcription":null}
+{"ru":"внести","kr":"기여","level":3,"transcription":null}
+{"ru":"лишний","kr":"추가","level":3,"transcription":null}
 {"ru":"редкий","kr":"희귀한","level":2,"transcription":null}
 {"ru":"показатель","kr":"지시자","level":4,"transcription":null}
 {"ru":"свидетельствовать","kr":"증언하다","level":4,"transcription":null}
@@ -1268,7 +1268,7 @@
 {"ru":"последующий","kr":"후속","level":4,"transcription":null}
 {"ru":"реакция","kr":"반응","level":3,"transcription":null}
 {"ru":"свойство","kr":"재산","level":4,"transcription":null}
-{"ru":"минимум","kr":"최저한의","level":3,"transcription":null}
+{"ru":"минимум","kr":"최저한","level":3,"transcription":null}
 {"ru":"предстоять","kr":"올","level":3,"transcription":null}
 {"ru":"здоровый","kr":"건강한","level":2,"transcription":null}
 {"ru":"университет","kr":"대학교","level":2,"transcription":null}
@@ -1290,7 +1290,7 @@
 {"ru":"закрыть","kr":"닫다","level":1,"transcription":null}
 {"ru":"ездить","kr":"타다","level":1,"transcription":null}
 {"ru":"занятие","kr":"수업","level":3,"transcription":null}
-{"ru":"французский","kr":"프랑스 국민","level":2,"transcription":null}
+{"ru":"французский","kr":"프랑스어","level":2,"transcription":null}
 {"ru":"поведение","kr":"행동","level":4,"transcription":null}
 {"ru":"аппарат","kr":"기구","level":4,"transcription":null}
 {"ru":"сообщение","kr":"메시지","level":2,"transcription":null}
@@ -1349,28 +1349,28 @@
 {"ru":"сосед","kr":"이웃","level":2,"transcription":null}
 {"ru":"обстановка","kr":"상황","level":4,"transcription":null}
 {"ru":"владелец","kr":"소유자","level":3,"transcription":null}
-{"ru":"берег","kr":"지주","level":2,"transcription":null}
+{"ru":"берег","kr":"해안선","level":2,"transcription":null}
 {"ru":"домашний","kr":"집","level":2,"transcription":null}
 {"ru":"страх","kr":"두려움","level":2,"transcription":null}
 {"ru":"приносить","kr":"가져오다","level":2,"transcription":null}
 {"ru":"эффект","kr":"효과","level":3,"transcription":null}
 {"ru":"женский","kr":"여성","level":2,"transcription":null}
-{"ru":"понравиться","kr":"좋아요","level":2,"transcription":null}
+{"ru":"понравиться","kr":"좋아하다","level":2,"transcription":null}
 {"ru":"доказать","kr":"입증하다","level":3,"transcription":null}
 {"ru":"обязанность","kr":"의무","level":4,"transcription":null}
-{"ru":"пост","kr":"빠른","level":3,"transcription":null}
-{"ru":"превратиться","kr":"로 변하다","level":4,"transcription":null}
+{"ru":"пост","kr":"건물","level":3,"transcription":null}
+{"ru":"превратиться","kr":"변화되다","level":4,"transcription":null}
 {"ru":"конфликт","kr":"갈등","level":3,"transcription":null}
 {"ru":"гора","kr":"산","level":1,"transcription":null}
 {"ru":"вера","kr":"믿음","level":2,"transcription":null}
-{"ru":"меньший","kr":"더 적은","level":2,"transcription":null}
+{"ru":"меньший","kr":"작은","level":2,"transcription":null}
 {"ru":"достоинство","kr":"위엄","level":4,"transcription":null}
 {"ru":"красота","kr":"아름다움","level":2,"transcription":null}
 {"ru":"свежий","kr":"신선한","level":2,"transcription":null}
 {"ru":"эксперт","kr":"전문가","level":3,"transcription":null}
 {"ru":"акт","kr":"행동","level":3,"transcription":null}
 {"ru":"верхний","kr":"높은","level":2,"transcription":null}
-{"ru":"спина","kr":"뒤쪽에","level":1,"transcription":null}
+{"ru":"спина","kr":"뒤쪽","level":1,"transcription":null}
 {"ru":"двое","kr":"둘","level":2,"transcription":null}
 {"ru":"фигура","kr":"수치","level":3,"transcription":null}
 {"ru":"сыграть","kr":"놀다","level":1,"transcription":null}
@@ -1439,8 +1439,8 @@
 {"ru":"словно","kr":"마치","level":2,"transcription":null}
 {"ru":"эпоха","kr":"연대","level":3,"transcription":null}
 {"ru":"вкус","kr":"맛","level":2,"transcription":null}
-{"ru":"зарубежный","kr":"외국의","level":3,"transcription":null}
-{"ru":"следить","kr":"길","level":3,"transcription":null}
+{"ru":"зарубежный","kr":"외국인","level":3,"transcription":null}
+{"ru":"следить","kr":"관찰하다","level":3,"transcription":null}
 {"ru":"ветер","kr":"바람","level":1,"transcription":null}
 {"ru":"выразить","kr":"표현하다","level":3,"transcription":null}
 {"ru":"процедура","kr":"절차","level":4,"transcription":null}
@@ -1556,7 +1556,7 @@
 {"ru":"вестись","kr":"실시되다","level":4,"transcription":null}
 {"ru":"восточный","kr":"동양인","level":2,"transcription":null}
 {"ru":"нуждаться","kr":"필요","level":3,"transcription":null}
-{"ru":"чтоб","kr":"~하도록 하다","level":2,"transcription":null}
+{"ru":"чтоб","kr":"~도록 하다","level":2,"transcription":null}
 {"ru":"устраивать","kr":"마련하다","level":3,"transcription":null}
 {"ru":"десятилетие","kr":"10년","level":3,"transcription":null}
 {"ru":"перевод","kr":"번역","level":3,"transcription":null}
@@ -1678,9 +1678,9 @@
 {"ru":"есть","kr":"있다","level":1,"transcription":null}
 {"ru":"победить","kr":"이기다","level":3,"transcription":null}
 {"ru":"молодежь","kr":"청년","level":2,"transcription":null}
-{"ru":"производитель","kr":"제조업체","level":4,"transcription":null}
-{"ru":"милиция","kr":"경찰","level":2,"transcription":null}
-{"ru":"выдать","kr":"문제","level":3,"transcription":null}
+{"ru":"производитель","kr":"제조업","level":4,"transcription":null}
+{"ru":"милиция","kr":"경찰청","level":2,"transcription":null}
+{"ru":"выдать","kr":"제출하다","level":3,"transcription":null}
 {"ru":"предпочитать","kr":"선호하다","level":4,"transcription":null}
 {"ru":"цветок","kr":"꽃","level":1,"transcription":null}
 {"ru":"округ","kr":"구역","level":3,"transcription":null}
@@ -1688,9 +1688,9 @@
 {"ru":"видный","kr":"중요한","level":3,"transcription":null}
 {"ru":"том","kr":"용량","level":3,"transcription":null}
 {"ru":"публика","kr":"공공의","level":3,"transcription":null}
-{"ru":"взаимодействие","kr":"상호 작용","level":5,"transcription":null}
-{"ru":"позвонить","kr":"부르다","level":2,"transcription":null}
-{"ru":"этаж","kr":"바닥","level":1,"transcription":null}
+{"ru":"взаимодействие","kr":"상호작용","level":5,"transcription":null}
+{"ru":"позвонить","kr":"통화하다","level":2,"transcription":null}
+{"ru":"этаж","kr":"층","level":1,"transcription":null}
 {"ru":"успешный","kr":"성공적인","level":3,"transcription":null}
 {"ru":"собака","kr":"개","level":1,"transcription":null}
 {"ru":"тень","kr":"그림자","level":2,"transcription":null}
@@ -1703,12 +1703,12 @@
 {"ru":"смеяться","kr":"웃다","level":1,"transcription":null}
 {"ru":"оборот","kr":"회전율","level":3,"transcription":null}
 {"ru":"текущий","kr":"현재의","level":3,"transcription":null}
-{"ru":"контакт","kr":"연락하다","level":3,"transcription":null}
-{"ru":"родственник","kr":"상대적인","level":2,"transcription":null}
+{"ru":"контакт","kr":"연락처","level":3,"transcription":null}
+{"ru":"родственник","kr":"상대자","level":2,"transcription":null}
 {"ru":"церковь","kr":"교회","level":2,"transcription":null}
 {"ru":"сквозь","kr":"~을 통해","level":3,"transcription":null}
 {"ru":"неизвестный","kr":"알려지지 않은","level":3,"transcription":null}
-{"ru":"блок","kr":"차단하다","level":3,"transcription":null}
+{"ru":"блок","kr":"차단","level":3,"transcription":null}
 {"ru":"температура","kr":"온도","level":2,"transcription":null}
 {"ru":"оттуда","kr":"거기에서","level":2,"transcription":null}
 {"ru":"нечего","kr":"아무것도 아님","level":2,"transcription":null}
@@ -1859,10 +1859,10 @@
 {"ru":"оценивать","kr":"평가하다","level":3,"transcription":null}
 {"ru":"сельский","kr":"시골의","level":2,"transcription":null}
 {"ru":"эксперимент","kr":"실험","level":4,"transcription":null}
-{"ru":"сохранять","kr":"구하다","level":3,"transcription":null}
+{"ru":"сохранять","kr":"보유하다","level":3,"transcription":null}
 {"ru":"внимательно","kr":"주의 깊게","level":3,"transcription":null}
-{"ru":"вынудить","kr":"힘","level":4,"transcription":null}
-{"ru":"намерен","kr":"의도하다","level":3,"transcription":null}
+{"ru":"вынудить","kr":"압박하다","level":4,"transcription":null}
+{"ru":"намерен","kr":"의도하는","level":3,"transcription":null}
 {"ru":"плакать","kr":"울다","level":1,"transcription":null}
 {"ru":"утверждение","kr":"성명","level":4,"transcription":null}
 {"ru":"предположить","kr":"추정하다","level":4,"transcription":null}
@@ -1878,7 +1878,7 @@
 {"ru":"трудовой","kr":"노동","level":3,"transcription":null}
 {"ru":"договориться","kr":"마련하다","level":3,"transcription":null}
 {"ru":"американец","kr":"미국 사람","level":2,"transcription":null}
-{"ru":"денежный","kr":"통화의","level":3,"transcription":null}
+{"ru":"денежный","kr":"통화","level":3,"transcription":null}
 {"ru":"длительный","kr":"긴","level":3,"transcription":null}
 {"ru":"вход","kr":"입구","level":1,"transcription":null}
 {"ru":"расстояние","kr":"거리","level":3,"transcription":null}
@@ -1918,7 +1918,7 @@
 {"ru":"давайте","kr":"하자","level":1,"transcription":null}
 {"ru":"распоряжение","kr":"주문하다","level":4,"transcription":null}
 {"ru":"спешить","kr":"서두르다","level":2,"transcription":null}
-{"ru":"вслед","kr":"수행원","level":3,"transcription":null}
+{"ru":"вслед","kr":"수행","level":3,"transcription":null}
 {"ru":"публикация","kr":"출판","level":4,"transcription":null}
 {"ru":"выяснить","kr":"알아내다","level":3,"transcription":null}
 {"ru":"сочетание","kr":"콤비네이션","level":4,"transcription":null}
@@ -1953,7 +1953,7 @@
 {"ru":"дикий","kr":"야생의","level":2,"transcription":null}
 {"ru":"сомневаться","kr":"의심","level":3,"transcription":null}
 {"ru":"оплата","kr":"지불","level":3,"transcription":null}
-{"ru":"предварительный","kr":"예비의","level":4,"transcription":null}
+{"ru":"предварительный","kr":"예비","level":4,"transcription":null}
 {"ru":"строиться","kr":"건설되다","level":3,"transcription":null}
 {"ru":"разнообразный","kr":"다양한","level":4,"transcription":null}
 {"ru":"распространить","kr":"분배하다","level":4,"transcription":null}
@@ -2147,7 +2147,7 @@
 {"ru":"добро","kr":"좋은","level":2,"transcription":null}
 {"ru":"недостаточно","kr":"충분하지 않다","level":4,"transcription":null}
 {"ru":"устойчивый","kr":"안정적인","level":4,"transcription":null}
-{"ru":"музыкальный","kr":"뮤지컬","level":2,"transcription":null}
+{"ru":"музыкальный","kr":"음악적","level":2,"transcription":null}
 {"ru":"задуматься","kr":"그것에 대해 생각해보세요","level":3,"transcription":null}
 {"ru":"генерал","kr":"일반적인","level":2,"transcription":null}
 {"ru":"прозрачный","kr":"투명한","level":3,"transcription":null}
@@ -2339,7 +2339,7 @@
 {"ru":"отпустить","kr":"놓아줘","level":2,"transcription":null}
 {"ru":"звание","kr":"계급","level":3,"transcription":null}
 {"ru":"оригинальный","kr":"원래의","level":4,"transcription":null}
-{"ru":"храм","kr":"절","level":2,"transcription":null}
+{"ru":"храм","kr":"성당","level":2,"transcription":null}
 {"ru":"ящик","kr":"상자","level":1,"transcription":null}
 {"ru":"справедливый","kr":"공정한","level":3,"transcription":null}
 {"ru":"стул","kr":"의자","level":1,"transcription":null}
@@ -2374,7 +2374,7 @@
 {"ru":"село","kr":"마을","level":1,"transcription":null}
 {"ru":"водитель","kr":"운전사","level":1,"transcription":null}
 {"ru":"сократить","kr":"줄이다","level":3,"transcription":null}
-{"ru":"талантливый","kr":"재간 있는","level":2,"transcription":null}
+{"ru":"талантливый","kr":"재능 있는","level":2,"transcription":null}
 {"ru":"цикл","kr":"주기","level":3,"transcription":null}
 {"ru":"браться","kr":"맡다","level":4,"transcription":null}
 {"ru":"приступить","kr":"시작","level":3,"transcription":null}
@@ -2398,7 +2398,7 @@
 {"ru":"уважать","kr":"존경","level":3,"transcription":null}
 {"ru":"увеличиться","kr":"증가하다","level":3,"transcription":null}
 {"ru":"прочесть","kr":"읽다","level":2,"transcription":null}
-{"ru":"отдыхать","kr":"나머지","level":2,"transcription":null}
+{"ru":"отдыхать","kr":"휴식하다","level":2,"transcription":null}
 {"ru":"благо","kr":"좋은","level":3,"transcription":null}
 {"ru":"корабль","kr":"배","level":1,"transcription":null}
 {"ru":"психологический","kr":"심리적","level":5,"transcription":null}
@@ -2678,7 +2678,7 @@
 {"ru":"сопровождать","kr":"따르게 하다","level":4,"transcription":null}
 {"ru":"горе","kr":"고통","level":2,"transcription":null}
 {"ru":"облик","kr":"모습","level":4,"transcription":null}
-{"ru":"перечень","kr":"스크롤","level":3,"transcription":null}
+{"ru":"перечень","kr":"목록","level":3,"transcription":null}
 {"ru":"молодость","kr":"청년","level":2,"transcription":null}
 {"ru":"путешествие","kr":"여행","level":2,"transcription":null}
 {"ru":"горный","kr":"산","level":2,"transcription":null}
@@ -2735,7 +2735,7 @@
 {"ru":"награда","kr":"보상","level":3,"transcription":null}
 {"ru":"стакан","kr":"컵","level":1,"transcription":null}
 {"ru":"рекламный","kr":"광고","level":3,"transcription":null}
-{"ru":"유дивить","kr":"유토 서프라이즈","level":3,"transcription":null}
+{"ru":"유дивить","kr":"","level":3,"transcription":null}
 {"ru":"чистота","kr":"청정","level":3,"transcription":null}
 {"ru":"летать","kr":"파리","level":2,"transcription":null}
 {"ru":"доходить","kr":"도달하다","level":3,"transcription":null}
@@ -2883,7 +2883,7 @@
 {"ru":"уголок","kr":"모서리","level":2,"transcription":null}
 {"ru":"финансы","kr":"재원","level":4,"transcription":null}
 {"ru":"нация","kr":"국가","level":3,"transcription":null}
-{"ru":"глухой","kr":"청각 장애인","level":2,"transcription":null}
+{"ru":"глухой","kr":"청각장애인","level":2,"transcription":null}
 {"ru":"оттого","kr":"그렇기 때문에","level":3,"transcription":null}
 {"ru":"толк","kr":"감각","level":2,"transcription":null}
 {"ru":"спасать","kr":"구하다","level":2,"transcription":null}
@@ -2938,8 +2938,8 @@
 {"ru":"заслуга","kr":"장점","level":3,"transcription":null}
 {"ru":"танец","kr":"춤","level":1,"transcription":null}
 {"ru":"салон","kr":"가게","level":2,"transcription":null}
-{"ru":"великолепный","kr":"굉장한","level":3,"transcription":null}
-{"ru":"коллективный","kr":"집단","level":3,"transcription":null}
+{"ru":"великолепный","kr":"훌륭한","level":3,"transcription":null}
+{"ru":"коллективный","kr":"집단적인","level":3,"transcription":null}
 {"ru":"соглашаться","kr":"동의하다","level":3,"transcription":null}
 {"ru":"свыше","kr":"~ 위에","level":3,"transcription":null}
 {"ru":"фантазия","kr":"공상","level":3,"transcription":null}
@@ -2968,7 +2968,7 @@
 {"ru":"предпринять","kr":"맡다","level":4,"transcription":null}
 {"ru":"популярность","kr":"인기","level":4,"transcription":null}
 {"ru":"специфический","kr":"특정한","level":4,"transcription":null}
-{"ru":"быт","kr":"일상 생활","level":3,"transcription":null}
+{"ru":"быт","kr":"일상생활","level":3,"transcription":null}
 {"ru":"постель","kr":"침대","level":1,"transcription":null}
 {"ru":"внук","kr":"손자","level":1,"transcription":null}
 {"ru":"почта","kr":"우편","level":1,"transcription":null}
@@ -2979,8 +2979,8 @@
 {"ru":"верховный","kr":"최고","level":3,"transcription":null}
 {"ru":"расположение","kr":"위치","level":4,"transcription":null}
 {"ru":"непростой","kr":"어려운","level":2,"transcription":null}
-{"ru":"хозяйка","kr":"정부","level":2,"transcription":null}
-{"ru":"милиционер","kr":"경관","level":2,"transcription":null}
+{"ru":"хозяйка","kr":"주부","level":2,"transcription":null}
+{"ru":"милиционер","kr":"경찰관","level":2,"transcription":null}
 {"ru":"отчего","kr":"왜","level":2,"transcription":null}
 {"ru":"мгновенно","kr":"곧","level":3,"transcription":null}
 {"ru":"беседовать","kr":"말하다","level":3,"transcription":null}
@@ -3121,7 +3121,7 @@
 {"ru":"регулирование","kr":"규제","level":5,"transcription":null}
 {"ru":"приглашение","kr":"초대","level":2,"transcription":null}
 {"ru":"торжество","kr":"축하","level":3,"transcription":null}
-{"ru":"прочный","kr":"일종의 튼튼한 나사","level":3,"transcription":null}
+{"ru":"прочный","kr":"일종","level":3,"transcription":null}
 {"ru":"выпасть","kr":"떨어지다","level":2,"transcription":null}
 {"ru":"по-другому","kr":"다르게","level":2,"transcription":null}
 {"ru":"приказать","kr":"주문하다","level":3,"transcription":null}
@@ -3132,13 +3132,13 @@
 {"ru":"командир","kr":"사령관","level":2,"transcription":null}
 {"ru":"течь","kr":"흐름","level":2,"transcription":null}
 {"ru":"окружить","kr":"서라운드","level":3,"transcription":null}
-{"ru":"усиление","kr":"얻다","level":4,"transcription":null}
+{"ru":"усиление","kr":"강화","level":4,"transcription":null}
 {"ru":"биться","kr":"싸움","level":2,"transcription":null}
 {"ru":"инструкция","kr":"지침","level":4,"transcription":null}
 {"ru":"менеджер","kr":"관리자","level":2,"transcription":null}
-{"ru":"препятствие","kr":"허락하다","level":4,"transcription":null}
+{"ru":"препятствие","kr":"벽","level":4,"transcription":null}
 {"ru":"мэр","kr":"시장","level":2,"transcription":null}
-{"ru":"образовывать","kr":"형태","level":4,"transcription":null}
+{"ru":"образовывать","kr":"생성","level":4,"transcription":null}
 {"ru":"районный","kr":"구역","level":3,"transcription":null}
 {"ru":"столик","kr":"테이블","level":1,"transcription":null}
 {"ru":"демократия","kr":"민주주의","level":3,"transcription":null}
@@ -3178,8 +3178,8 @@
 {"ru":"страдание","kr":"고통","level":4,"transcription":null}
 {"ru":"контекст","kr":"문맥","level":4,"transcription":null}
 {"ru":"рождаться","kr":"태어나다","level":3,"transcription":null}
-{"ru":"близость","kr":"근사","level":3,"transcription":null}
-{"ru":"преследовать","kr":"뒤쫓다다","level":4,"transcription":null}
+{"ru":"близость","kr":"근접","level":3,"transcription":null}
+{"ru":"преследовать","kr":"쫓다","level":4,"transcription":null}
 {"ru":"профиль","kr":"윤곽","level":3,"transcription":null}
 {"ru":"шутить","kr":"농담","level":1,"transcription":null}
 {"ru":"одеть","kr":"드레스","level":2,"transcription":null}
@@ -3193,7 +3193,7 @@
 {"ru":"собеседник","kr":"동반자","level":3,"transcription":null}
 {"ru":"занятый","kr":"바쁘다","level":2,"transcription":null}
 {"ru":"ветеран","kr":"재향 군인","level":3,"transcription":null}
-{"ru":"понести","kr":"곰","level":3,"transcription":null}
+{"ru":"понести","kr":"포상하다","level":3,"transcription":null}
 {"ru":"праздничный","kr":"축제의","level":2,"transcription":null}
 {"ru":"диван","kr":"소파","level":1,"transcription":null}
 {"ru":"незаметно","kr":"눈에 띄지 않는","level":3,"transcription":null}
@@ -3270,7 +3270,7 @@
 {"ru":"подробный","kr":"상세한","level":3,"transcription":null}
 {"ru":"инвестор","kr":"투자자","level":4,"transcription":null}
 {"ru":"чудесный","kr":"아주 멋진","level":2,"transcription":null}
-{"ru":"опора","kr":"지원하다","level":3,"transcription":null}
+{"ru":"опора","kr":"지지점","level":3,"transcription":null}
 {"ru":"наверно","kr":"아마도","level":2,"transcription":null}
 {"ru":"учебник","kr":"교과서","level":2,"transcription":null}
 {"ru":"осознать","kr":"깨닫다","level":4,"transcription":null}
@@ -3282,7 +3282,7 @@
 {"ru":"рядовой","kr":"사적인","level":3,"transcription":null}
 {"ru":"стабильный","kr":"안정적인","level":4,"transcription":null}
 {"ru":"сумка","kr":"가방","level":1,"transcription":null}
-{"ru":"ломать","kr":"부서지다","level":2,"transcription":null}
+{"ru":"ломать","kr":"부수다","level":2,"transcription":null}
 {"ru":"радовать","kr":"제발","level":2,"transcription":null}
 {"ru":"выбросить","kr":"버리다","level":2,"transcription":null}
 {"ru":"возрождение","kr":"회복","level":4,"transcription":null}
@@ -3416,8 +3416,8 @@
 {"ru":"пожалеть","kr":"후회","level":2,"transcription":null}
 {"ru":"финал","kr":"결정적인","level":3,"transcription":null}
 {"ru":"тариф","kr":"비율","level":4,"transcription":null}
-{"ru":"возражать","kr":"정신","level":4,"transcription":null}
-{"ru":"специализированный","kr":"전문화된","level":5,"transcription":null}
+{"ru":"возражать","kr":"반대하다","level":4,"transcription":null}
+{"ru":"специализированный","kr":"전문적인","level":5,"transcription":null}
 {"ru":"тарелка","kr":"그릇","level":1,"transcription":null}
 {"ru":"натура","kr":"자연","level":3,"transcription":null}
 {"ru":"неудача","kr":"실패","level":3,"transcription":null}
@@ -3446,9 +3446,9 @@
 {"ru":"уменьшение","kr":"감소하다","level":4,"transcription":null}
 {"ru":"полноценный","kr":"본격적인","level":4,"transcription":null}
 {"ru":"автоматически","kr":"자동으로","level":3,"transcription":null}
-{"ru":"плыть","kr":"헤엄","level":1,"transcription":null}
+{"ru":"плыть","kr":"헤엄치다","level":1,"transcription":null}
 {"ru":"небесный","kr":"천국 같은","level":2,"transcription":null}
-{"ru":"прогулка","kr":"걷다","level":2,"transcription":null}
+{"ru":"прогулка","kr":"걷기","level":2,"transcription":null}
 {"ru":"выскочить","kr":"뛰어내리다","level":2,"transcription":null}
 {"ru":"мастерская","kr":"작업장","level":3,"transcription":null}
 {"ru":"малейший","kr":"사소한","level":3,"transcription":null}
@@ -3671,7 +3671,7 @@
 {"ru":"в-третьих","kr":"세 번째로","level":2,"transcription":null}
 {"ru":"крестьянин","kr":"농부","level":2,"transcription":null}
 {"ru":"агент","kr":"대리인","level":3,"transcription":null}
-{"ru":"француз","kr":"프랑스 선박","level":2,"transcription":null}
+{"ru":"француз","kr":"프랑스 사람","level":2,"transcription":null}
 {"ru":"пребывать","kr":"머물다","level":3,"transcription":null}
 {"ru":"сосредоточить","kr":"집중하다","level":5,"transcription":null}
 {"ru":"тащить","kr":"견인","level":2,"transcription":null}
@@ -3833,11 +3833,11 @@
 {"ru":"посчитать","kr":"세다","level":2,"transcription":null}
 {"ru":"размышлять","kr":"숙고하다","level":4,"transcription":null}
 {"ru":"забить","kr":"점수","level":2,"transcription":null}
-{"ru":"оснастить","kr":"갖추게 하다","level":4,"transcription":null}
+{"ru":"оснастить","kr":"갖추다","level":4,"transcription":null}
 {"ru":"вдвоем","kr":"함께","level":2,"transcription":null}
 {"ru":"бледный","kr":"창백한","level":2,"transcription":null}
 {"ru":"прятать","kr":"숨다","level":2,"transcription":null}
-{"ru":"неподалеку","kr":"가까운","level":2,"transcription":null}
+{"ru":"неподалеку","kr":"가까이","level":2,"transcription":null}
 {"ru":"конкретно","kr":"구체적으로","level":3,"transcription":null}
 {"ru":"бандит","kr":"적기","level":2,"transcription":null}
 {"ru":"филиал","kr":"나뭇가지","level":3,"transcription":null}
@@ -3866,17 +3866,17 @@
 {"ru":"биологический","kr":"생물학적","level":4,"transcription":null}
 {"ru":"беспокоиться","kr":"걱정하다","level":3,"transcription":null}
 {"ru":"облегчение","kr":"안도","level":4,"transcription":null}
-{"ru":"сомнительный","kr":"못 미더운","level":4,"transcription":null}
-{"ru":"справляться","kr":"코프","level":4,"transcription":null}
+{"ru":"сомнительный","kr":"불확실한","level":4,"transcription":null}
+{"ru":"справляться","kr":"관리하다","level":4,"transcription":null}
 {"ru":"мышление","kr":"생각","level":4,"transcription":null}
-{"ru":"экспорт","kr":"내보내다","level":4,"transcription":null}
-{"ru":"сборник","kr":"수집","level":3,"transcription":null}
-{"ru":"дескать","kr":"그들은 말한다","level":3,"transcription":null}
+{"ru":"экспорт","kr":"내보내기","level":4,"transcription":null}
+{"ru":"сборник","kr":"수집물","level":3,"transcription":null}
+{"ru":"дескать","kr":"그들은 말하다","level":3,"transcription":null}
 {"ru":"прислушиваться","kr":"듣다","level":4,"transcription":null}
 {"ru":"скучно","kr":"지루한","level":1,"transcription":null}
 {"ru":"спутник","kr":"위성","level":3,"transcription":null}
 {"ru":"аж","kr":"만큼","level":2,"transcription":null}
-{"ru":"констатировать","kr":"상태","level":4,"transcription":null}
+{"ru":"констатировать","kr":"상태를 나타내다","level":4,"transcription":null}
 {"ru":"одиннадцать","kr":"열하나","level":1,"transcription":null}
 {"ru":"поделать","kr":"할 일","level":2,"transcription":null}
 {"ru":"вытекать","kr":"흘러나오다","level":3,"transcription":null}
@@ -3893,9 +3893,9 @@
 {"ru":"демонстрация","kr":"데모","level":3,"transcription":null}
 {"ru":"поработать","kr":"일 좀 해라","level":1,"transcription":null}
 {"ru":"драгоценный","kr":"귀중한","level":3,"transcription":null}
-{"ru":"беспокоить","kr":"신경 쓰다","level":3,"transcription":null}
+{"ru":"беспокоить","kr":"불안하게 하다","level":3,"transcription":null}
 {"ru":"столкновение","kr":"충돌","level":4,"transcription":null}
-{"ru":"освободиться","kr":"너 자신을 자유롭게 해라","level":3,"transcription":null}
+{"ru":"освободиться","kr":"자신을 자유롭게 해라","level":3,"transcription":null}
 {"ru":"рецепт","kr":"레시피","level":2,"transcription":null}
 {"ru":"исправить","kr":"교정하다","level":3,"transcription":null}
 {"ru":"вытянуть","kr":"빼다","level":2,"transcription":null}
@@ -3910,7 +3910,7 @@
 {"ru":"актив","kr":"자산","level":4,"transcription":null}
 {"ru":"революционный","kr":"혁명적","level":4,"transcription":null}
 {"ru":"ссылаться","kr":"나타내다","level":4,"transcription":null}
-{"ru":"похоронить","kr":"묻다 ","level":2,"transcription":null}
+{"ru":"похоронить","kr":"묻다","level":2,"transcription":null}
 {"ru":"недаром","kr":"당연하지","level":3,"transcription":null}
 {"ru":"ставиться","kr":"놓다","level":4,"transcription":null}
 {"ru":"подводить","kr":"실망시키다","level":3,"transcription":null}
@@ -4013,7 +4013,7 @@
 {"ru":"флаг","kr":"깃발","level":1,"transcription":null}
 {"ru":"переживание","kr":"경험","level":4,"transcription":null}
 {"ru":"снижаться","kr":"감소","level":4,"transcription":null}
-{"ru":"препарат","kr":"준비","level":4,"transcription":null}
+{"ru":"препарат","kr":"약","level":4,"transcription":null}
 {"ru":"весть","kr":"소식","level":3,"transcription":null}
 {"ru":"сдерживать","kr":"참아라","level":4,"transcription":null}
 {"ru":"инвалид","kr":"장애인","level":3,"transcription":null}
@@ -4023,12 +4023,12 @@
 {"ru":"противостоять","kr":"저항하다","level":5,"transcription":null}
 {"ru":"пистолет","kr":"총","level":2,"transcription":null}
 {"ru":"кафедра","kr":"부서","level":3,"transcription":null}
-{"ru":"территориальный","kr":"지방 수비병","level":4,"transcription":null}
-{"ru":"неведомый","kr":"알려지지 않은","level":3,"transcription":null}
+{"ru":"территориальный","kr":"지방수비병","level":4,"transcription":null}
+{"ru":"неведомый","kr":"알려지지않은","level":3,"transcription":null}
 {"ru":"всюду","kr":"어디에나","level":2,"transcription":null}
 {"ru":"отходить","kr":"떠나다","level":3,"transcription":null}
 {"ru":"воплощение","kr":"구체화","level":4,"transcription":null}
-{"ru":"безумный","kr":"정신 이상의","level":2,"transcription":null}
+{"ru":"безумный","kr":"정신이상","level":2,"transcription":null}
 {"ru":"вождь","kr":"지도자","level":2,"transcription":null}
 {"ru":"ковер","kr":"양탄자","level":1,"transcription":null}
 {"ru":"относительный","kr":"상대적인","level":4,"transcription":null}
@@ -4044,7 +4044,7 @@
 {"ru":"лицензия","kr":"특허","level":4,"transcription":null}
 {"ru":"застать","kr":"잡다","level":3,"transcription":null}
 {"ru":"оглянуться","kr":"뒤돌아봐","level":2,"transcription":null}
-{"ru":"сперва","kr":"첫 번째","level":2,"transcription":null}
+{"ru":"сперва","kr":"먼저","level":2,"transcription":null}
 {"ru":"отъезд","kr":"출발","level":3,"transcription":null}
 {"ru":"вылететь","kr":"날아가다","level":2,"transcription":null}
 {"ru":"сажать","kr":"식물","level":2,"transcription":null}
@@ -4226,7 +4226,7 @@
 {"ru":"седой","kr":"백발의","level":2,"transcription":null}
 {"ru":"убийца","kr":"살인자","level":3,"transcription":null}
 {"ru":"сельскохозяйственный","kr":"농업","level":5,"transcription":null}
-{"ru":"либеральный","kr":"많은","level":4,"transcription":null}
+{"ru":"либеральный","kr":"자유로운","level":4,"transcription":null}
 {"ru":"жирный","kr":"지방이 많은","level":1,"transcription":null}
 {"ru":"мусор","kr":"쓰레기","level":1,"transcription":null}
 {"ru":"пешком","kr":"도보로","level":1,"transcription":null}
@@ -4257,7 +4257,7 @@
 {"ru":"халат","kr":"옷","level":2,"transcription":null}
 {"ru":"обожать","kr":"좋아하다","level":2,"transcription":null}
 {"ru":"командировка","kr":"출장","level":3,"transcription":null}
-{"ru":"напрасно","kr":"헛된","level":2,"transcription":null}
+{"ru":"напрасно","kr":"쓸모 없는","level":2,"transcription":null}
 {"ru":"кончать","kr":"마치다","level":2,"transcription":null}
 {"ru":"опоздать","kr":"늦다","level":2,"transcription":null}
 {"ru":"совпадение","kr":"우연의 일치","level":4,"transcription":null}
@@ -4374,10 +4374,10 @@
 {"ru":"нить","kr":"실","level":2,"transcription":null}
 {"ru":"энергетика","kr":"에너지","level":4,"transcription":null}
 {"ru":"наблюдатель","kr":"관찰자","level":3,"transcription":null}
-{"ru":"твориться","kr":"계속되는","level":3,"transcription":null}
+{"ru":"твориться","kr":"계속되다","level":3,"transcription":null}
 {"ru":"премьер-министр","kr":"총리","level":3,"transcription":null}
 {"ru":"старушка","kr":"노부인","level":1,"transcription":null}
-{"ru":"каша","kr":"죽","level":1,"transcription":null}
+{"ru":"каша","kr":"죽은 것","level":1,"transcription":null}
 {"ru":"сетка","kr":"그물","level":2,"transcription":null}
 {"ru":"действительный","kr":"유효한","level":4,"transcription":null}
 {"ru":"осудить","kr":"비난하다","level":3,"transcription":null}
@@ -4494,7 +4494,7 @@
 {"ru":"печатать","kr":"인쇄","level":2,"transcription":null}
 {"ru":"шуметь","kr":"소음을 내다","level":1,"transcription":null}
 {"ru":"травма","kr":"부상","level":3,"transcription":null}
-{"ru":"долгосрочный","kr":"장기","level":4,"transcription":null}
+{"ru":"долгосрочный","kr":"장기적","level":4,"transcription":null}
 {"ru":"колоссальный","kr":"거대한","level":3,"transcription":null}
 {"ru":"останавливать","kr":"멈추다","level":3,"transcription":null}
 {"ru":"последовательно","kr":"순차적으로","level":4,"transcription":null}
@@ -4703,7 +4703,7 @@
 {"ru":"бормотать","kr":"중얼거리다","level":2,"transcription":null}
 {"ru":"армейский","kr":"군대","level":3,"transcription":null}
 {"ru":"аромат","kr":"방향","level":2,"transcription":null}
-{"ru":"вертикальный","kr":"수직의","level":3,"transcription":null}
+{"ru":"вертикальный","kr":"수직","level":3,"transcription":null}
 {"ru":"недоступный","kr":"접근할 수 없는","level":4,"transcription":null}
 {"ru":"удовлетворять","kr":"풀다","level":4,"transcription":null}
 {"ru":"доложить","kr":"보고서","level":3,"transcription":null}
@@ -4734,7 +4734,7 @@
 {"ru":"хрупкий","kr":"부서지기 쉬운","level":3,"transcription":null}
 {"ru":"вмешиваться","kr":"간섭하다","level":4,"transcription":null}
 {"ru":"запереть","kr":"잠그다","level":2,"transcription":null}
-{"ru":"нота","kr":"메모","level":3,"transcription":null}
+{"ru":"нота","kr":"음표","level":3,"transcription":null}
 {"ru":"неловко","kr":"어색한","level":3,"transcription":null}
 {"ru":"локальный","kr":"현지의","level":4,"transcription":null}
 {"ru":"печально","kr":"슬프게도","level":2,"transcription":null}
@@ -4747,7 +4747,7 @@
 {"ru":"атомный","kr":"원자","level":3,"transcription":null}
 {"ru":"рассвет","kr":"새벽","level":2,"transcription":null}
 {"ru":"ночевать","kr":"밤을 보내다","level":2,"transcription":null}
-{"ru":"кипеть","kr":"종기","level":2,"transcription":null}
+{"ru":"кипеть","kr":"끓이다","level":2,"transcription":null}
 {"ru":"куда-нибудь","kr":"어딘가에","level":1,"transcription":null}
 {"ru":"условно","kr":"조건부로","level":4,"transcription":null}
 {"ru":"балкон","kr":"발코니","level":1,"transcription":null}
@@ -4793,7 +4793,7 @@
 {"ru":"расстрелять","kr":"사격","level":3,"transcription":null}
 {"ru":"инженерный","kr":"공학","level":3,"transcription":null}
 {"ru":"портить","kr":"약탈","level":2,"transcription":null}
-{"ru":"желательно","kr":"즐겨","level":3,"transcription":null}
+{"ru":"желательно","kr":"즐겨하다","level":3,"transcription":null}
 {"ru":"экипаж","kr":"승무원","level":3,"transcription":null}
 {"ru":"кран","kr":"수도꼭지","level":1,"transcription":null}
 {"ru":"лампочка","kr":"구근","level":1,"transcription":null}
@@ -4825,7 +4825,7 @@
 {"ru":"нажать","kr":"누르다","level":2,"transcription":null}
 {"ru":"неизменно","kr":"변함없이","level":3,"transcription":null}
 {"ru":"прочность","kr":"힘","level":4,"transcription":null}
-{"ru":"диктовать","kr":"명령","level":3,"transcription":null}
+{"ru":"диктовать","kr":"명령하다","level":3,"transcription":null}
 {"ru":"подсчет","kr":"세다","level":3,"transcription":null}
 {"ru":"таможенный","kr":"세관","level":4,"transcription":null}
 {"ru":"раб","kr":"노예","level":2,"transcription":null}
@@ -4835,9 +4835,9 @@
 {"ru":"разочарование","kr":"실망","level":4,"transcription":null}
 {"ru":"певец","kr":"가수","level":2,"transcription":null}
 {"ru":"молния","kr":"번개","level":2,"transcription":null}
-{"ru":"вылезти","kr":"나가세요","level":2,"transcription":null}
+{"ru":"вылезти","kr":"나가지다","level":2,"transcription":null}
 {"ru":"гордо","kr":"자랑스럽게","level":2,"transcription":null}
-{"ru":"стрельба","kr":"촬영","level":2,"transcription":null}
+{"ru":"стрельба","kr":"발사","level":2,"transcription":null}
 {"ru":"звон","kr":"울리는","level":2,"transcription":null}
 {"ru":"цитировать","kr":"인용하다","level":4,"transcription":null}
 {"ru":"заведовать","kr":"관리하다","level":3,"transcription":null}
@@ -4855,21 +4855,21 @@
 {"ru":"стук","kr":"노크","level":1,"transcription":null}
 {"ru":"диагноз","kr":"진단","level":4,"transcription":null}
 {"ru":"примета","kr":"전조","level":3,"transcription":null}
-{"ru":"выложить","kr":"우편","level":2,"transcription":null}
+{"ru":"выложить","kr":"출발하다","level":2,"transcription":null}
 {"ru":"различать","kr":"구별하다","level":4,"transcription":null}
 {"ru":"организованный","kr":"조직적인","level":3,"transcription":null}
-{"ru":"неважно","kr":"상관없어","level":2,"transcription":null}
+{"ru":"неважно","kr":"상관없다","level":2,"transcription":null}
 {"ru":"проживание","kr":"숙소","level":3,"transcription":null}
 {"ru":"компенсировать","kr":"보상하다","level":5,"transcription":null}
-{"ru":"двадцатый","kr":"스물번째","level":1,"transcription":null}
+{"ru":"двадцатый","kr":"아홉째","level":1,"transcription":null}
 {"ru":"пробка","kr":"코르크","level":2,"transcription":null}
-{"ru":"русло","kr":"침대","level":3,"transcription":null}
-{"ru":"всячески","kr":"가능한 모든 방법으로","level":3,"transcription":null}
+{"ru":"русло","kr":"줄","level":3,"transcription":null}
+{"ru":"всячески","kr":"모든 방법으로","level":3,"transcription":null}
 {"ru":"новое","kr":"새로운","level":1,"transcription":null}
 {"ru":"приоритетный","kr":"우선 사항","level":4,"transcription":null}
-{"ru":"востребовать","kr":"주장하다","level":4,"transcription":null}
+{"ru":"востребовать","kr":"요청하다","level":4,"transcription":null}
 {"ru":"эра","kr":"연대","level":3,"transcription":null}
-{"ru":"галерея","kr":"갱도","level":3,"transcription":null}
+{"ru":"галерея","kr":"전광판","level":3,"transcription":null}
 {"ru":"пышный","kr":"풍부한","level":3,"transcription":null}
 {"ru":"предшественник","kr":"전임자","level":4,"transcription":null}
 {"ru":"расширять","kr":"확장하다","level":4,"transcription":null}
@@ -4923,7 +4923,7 @@
 {"ru":"семя","kr":"씨앗","level":2,"transcription":null}
 {"ru":"драматический","kr":"극적인","level":4,"transcription":null}
 {"ru":"желудок","kr":"위","level":2,"transcription":null}
-{"ru":"плоскость","kr":"비행기","level":4,"transcription":null}
+{"ru":"плоскость","kr":"평면","level":4,"transcription":null}
 {"ru":"величайший","kr":"가장 큰","level":3,"transcription":null}
 {"ru":"задеть","kr":"아프다","level":2,"transcription":null}
 {"ru":"слышный","kr":"들리는","level":3,"transcription":null}
@@ -5097,7 +5097,7 @@
 {"ru":"оболочка","kr":"껍데기","level":4,"transcription":null}
 {"ru":"гараж","kr":"차고","level":1,"transcription":null}
 {"ru":"ванна","kr":"욕조","level":1,"transcription":null}
-{"ru":"прыжок","kr":"되튐","level":2,"transcription":null}
+{"ru":"прыжок","kr":"뛰다","level":2,"transcription":null}
 {"ru":"газетный","kr":"신문","level":2,"transcription":null}
 {"ru":"поспешить","kr":"서둘러요","level":2,"transcription":null}
 {"ru":"запросто","kr":"쉽게","level":2,"transcription":null}
@@ -5123,9 +5123,9 @@
 {"ru":"промежуточный","kr":"중급","level":4,"transcription":null}
 {"ru":"альтернатива","kr":"대안","level":4,"transcription":null}
 {"ru":"доводить","kr":"가져오다","level":4,"transcription":null}
-{"ru":"обосновать","kr":"신이 옳다고 하다","level":5,"transcription":null}
-{"ru":"грохот","kr":"볼트","level":2,"transcription":null}
-{"ru":"окрестность","kr":"이웃","level":4,"transcription":null}
+{"ru":"обосновать","kr":"이유를 제시하다","level":5,"transcription":null}
+{"ru":"грохот","kr":"거친 소리","level":2,"transcription":null}
+{"ru":"окрестность","kr":"주변","level":4,"transcription":null}
 {"ru":"отметка","kr":"표시","level":3,"transcription":null}
 {"ru":"выбрасывать","kr":"버리다","level":2,"transcription":null}
 {"ru":"сталинский","kr":"스탈린주의자","level":3,"transcription":null}
@@ -5185,7 +5185,7 @@
 {"ru":"усмехнуться","kr":"이를 드러내고 웃다","level":3,"transcription":null}
 {"ru":"тетка","kr":"이모","level":1,"transcription":null}
 {"ru":"девица","kr":"소녀","level":2,"transcription":null}
-{"ru":"римский","kr":"로마 인","level":3,"transcription":null}
+{"ru":"римский","kr":"로마인","level":3,"transcription":null}
 {"ru":"минеральный","kr":"광물","level":3,"transcription":null}
 {"ru":"убегать","kr":"도망가다","level":2,"transcription":null}
 {"ru":"опять-таки","kr":"다시","level":2,"transcription":null}
@@ -5193,17 +5193,17 @@
 {"ru":"тормоз","kr":"브레이크","level":2,"transcription":null}
 {"ru":"фиксировать","kr":"고치다","level":4,"transcription":null}
 {"ru":"нитка","kr":"실","level":1,"transcription":null}
-{"ru":"очаг","kr":"난로 바닥","level":3,"transcription":null}
+{"ru":"очаг","kr":"난로바닥","level":3,"transcription":null}
 {"ru":"страстный","kr":"열렬한","level":3,"transcription":null}
 {"ru":"вторичный","kr":"반성","level":4,"transcription":null}
 {"ru":"изобрести","kr":"꾸미다","level":4,"transcription":null}
 {"ru":"сходный","kr":"비슷한","level":4,"transcription":null}
 {"ru":"давность","kr":"처방","level":4,"transcription":null}
-{"ru":"авторитетный","kr":"권위 있는","level":4,"transcription":null}
+{"ru":"авторитетный","kr":"권위있는","level":4,"transcription":null}
 {"ru":"задумчиво","kr":"신중하게","level":3,"transcription":null}
 {"ru":"палочка","kr":"지팡이","level":1,"transcription":null}
-{"ru":"всяческий","kr":"모든 종류","level":3,"transcription":null}
-{"ru":"влиятельный","kr":"힘 있는","level":4,"transcription":null}
+{"ru":"всяческий","kr":"모든종류","level":3,"transcription":null}
+{"ru":"влиятельный","kr":"힘있는","level":4,"transcription":null}
 {"ru":"распоряжаться","kr":"처분하다","level":5,"transcription":null}
 {"ru":"кружок","kr":"원","level":2,"transcription":null}
 {"ru":"уговорить","kr":"설득하다","level":4,"transcription":null}
@@ -5365,7 +5365,7 @@
 {"ru":"хлопнуть","kr":"박수","level":2,"transcription":null}
 {"ru":"здешний","kr":"현지의","level":2,"transcription":null}
 {"ru":"пуговица","kr":"단추","level":1,"transcription":null}
-{"ru":"ведать","kr":"알다 ","level":3,"transcription":null}
+{"ru":"ведать","kr":"알다","level":3,"transcription":null}
 {"ru":"ухаживать","kr":"돌보다","level":3,"transcription":null}
 {"ru":"возмущаться","kr":"분개하다","level":4,"transcription":null}
 {"ru":"изъять","kr":"잡다","level":4,"transcription":null}
@@ -5459,7 +5459,7 @@
 {"ru":"смелость","kr":"용기","level":3,"transcription":null}
 {"ru":"повторный","kr":"반복","level":3,"transcription":null}
 {"ru":"страхование","kr":"보험","level":4,"transcription":null}
-{"ru":"сжать","kr":"압박 붕대","level":3,"transcription":null}
+{"ru":"сжать","kr":"압박","level":3,"transcription":null}
 {"ru":"крестьянский","kr":"농부","level":2,"transcription":null}
 {"ru":"казенный","kr":"공식적인","level":3,"transcription":null}
 {"ru":"греметь","kr":"딸랑이","level":2,"transcription":null}
@@ -5483,8 +5483,8 @@
 {"ru":"сыр","kr":"치즈","level":1,"transcription":null}
 {"ru":"донести","kr":"전달하다","level":3,"transcription":null}
 {"ru":"исчезновение","kr":"소실","level":4,"transcription":null}
-{"ru":"вложение","kr":"부착","level":5,"transcription":null}
-{"ru":"наилучший","kr":"최상의","level":3,"transcription":null}
+{"ru":"вложение","kr":"접착","level":5,"transcription":null}
+{"ru":"наилучший","kr":"최고의","level":3,"transcription":null}
 {"ru":"рог","kr":"뿔","level":1,"transcription":null}
 {"ru":"комедия","kr":"코메디","level":2,"transcription":null}
 {"ru":"совпасть","kr":"일치하다","level":3,"transcription":null}
@@ -5503,7 +5503,7 @@
 {"ru":"обеспечиваться","kr":"제공받다","level":5,"transcription":null}
 {"ru":"пес","kr":"개","level":1,"transcription":null}
 {"ru":"духи","kr":"향수","level":1,"transcription":null}
-{"ru":"мелькнуть","kr":"플래시","level":3,"transcription":null}
+{"ru":"мелькнуть","kr":"闪一闪","level":3,"transcription":null}
 {"ru":"классификация","kr":"분류","level":5,"transcription":null}
 {"ru":"восемнадцать","kr":"십팔","level":1,"transcription":null}
 {"ru":"спустить","kr":"낮추다","level":2,"transcription":null}
@@ -5544,7 +5544,7 @@
 {"ru":"высказываться","kr":"말하다","level":4,"transcription":null}
 {"ru":"избавить","kr":"제거하다","level":4,"transcription":null}
 {"ru":"задействовать","kr":"관계를 맺다","level":4,"transcription":null}
-{"ru":"хрен","kr":"양 고추 냉이","level":2,"transcription":null}
+{"ru":"хрен","kr":"아주","level":2,"transcription":null}
 {"ru":"фокус","kr":"집중하다","level":3,"transcription":null}
 {"ru":"модификация","kr":"가감","level":5,"transcription":null}
 {"ru":"твердить","kr":"반복하다","level":3,"transcription":null}
@@ -5574,7 +5574,7 @@
 {"ru":"инстинкт","kr":"본능","level":3,"transcription":null}
 {"ru":"плюнуть","kr":"침","level":2,"transcription":null}
 {"ru":"кое-кто","kr":"누구","level":1,"transcription":null}
-{"ru":"складывать","kr":"겹","level":2,"transcription":null}
+{"ru":"складывать","kr":"겹치다","level":2,"transcription":null}
 {"ru":"различаться","kr":"달라지다","level":4,"transcription":null}
 {"ru":"числиться","kr":"숫자","level":4,"transcription":null}
 {"ru":"приблизить","kr":"가까이 다가가다","level":4,"transcription":null}
@@ -5603,7 +5603,7 @@
 {"ru":"закрыться","kr":"닫다","level":2,"transcription":null}
 {"ru":"смешанный","kr":"혼합된","level":3,"transcription":null}
 {"ru":"сосредоточиться","kr":"집중하다","level":5,"transcription":null}
-{"ru":"выбираться","kr":"나가세요","level":3,"transcription":null}
+{"ru":"выбираться","kr":"나가지다","level":3,"transcription":null}
 {"ru":"одобрение","kr":"좋아요","level":4,"transcription":null}
 {"ru":"бедро","kr":"잘 알고 있기","level":2,"transcription":null}
 {"ru":"приподнять","kr":"들어올리다","level":2,"transcription":null}
@@ -5693,9 +5693,9 @@
 {"ru":"изба","kr":"오두막","level":2,"transcription":null}
 {"ru":"меж","kr":"~ 사이","level":2,"transcription":null}
 {"ru":"дежурный","kr":"의무","level":2,"transcription":null}
-{"ru":"дремать","kr":"선잠","level":2,"transcription":null}
+{"ru":"дремать","kr":"잠들다","level":2,"transcription":null}
 {"ru":"житейский","kr":"세속적인","level":3,"transcription":null}
-{"ru":"отрываться","kr":"즐거운 시간을 보내세요","level":3,"transcription":null}
+{"ru":"отрываться","kr":"시간을 보내다","level":3,"transcription":null}
 {"ru":"посредник","kr":"중개인","level":4,"transcription":null}
 {"ru":"откровение","kr":"시현","level":4,"transcription":null}
 {"ru":"бодрый","kr":"쾌활한","level":2,"transcription":null}
