@@ -46,7 +46,7 @@ jobs:
           docker compose down -v
 
   deploy:
-    need: test
+    needs: test
     runs-on: self-hosted
     environment: "production"
     steps:
