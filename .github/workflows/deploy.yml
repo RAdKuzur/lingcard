@@ -43,7 +43,7 @@ jobs:
       - name: Docker down
         run: |
           cd /root/test/lingcard
-          docker compose down -v
+          docker compose down
 
   deploy:
     needs: test
