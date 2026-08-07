@@ -4,7 +4,49 @@ on:
   workflow_dispatch:
 
 jobs:
+  test:
+    runs-on: self-hosted
+    environment: "production"
+    steps:
+      - name: Pull test
+        run: |
+          cd /root/test/lingcard
+          git pull
+
+      - name: Prepare backend environment
+        run: |
+          cd /root/test/lingcard/backend
+          cp .env.testing .env
+          sed -i "s|^DB_USERNAME=.*|DB_USERNAME=${{ vars.DB_USERNAME }}|" .env
+          sed -i "s|^DB_PASSWORD=.*|DB_PASSWORD=${{ vars.DB_PASSWORD }}|" .env
+          sed -i "s|^DB_DATABASE=.*|DB_DATABASE=${{ vars.DB_DATABASE }}|" .env
+          sed -i "s|^SESSION_DOMAIN=.*|SESSION_DOMAIN=${{ vars.SESSION_DOMAIN }}|" .env
+          sed -i "s|^REVERB_APP_ID=.*|REVERB_APP_ID=${{ vars.REVERB_APP_ID }}|" .env
+          sed -i "s|^REVERB_APP_KEY=.*|REVERB_APP_KEY=${{ vars.VITE_REVERB_APP_KEY }}|" .env
+          sed -i "s|^REVERB_PORT=.*|REVERB_PORT=${{ vars.VITE_REVERB_PORT }}|" .env
+          sed -i "s|^JWT_SECRET=.*|JWT_SECRET=${{ vars.JWT_SECRET }}|" .env
+          sed -i "s|^APP_KEY=.*|APP_KEY=${{ vars.APP_KEY }}|" .env
+          sed -i "s|^APP_URL=.*|APP_URL=${{ vars.APP_URL }}|" .env
+          sed -i "s|^APP_ENV=.*|APP_ENV=${{ vars.APP_ENV }}|" .env
+          sed -i "s|^APP_DEBUG=.*|APP_DEBUG=${{ vars.APP_DEBUG }}|" .env
+
+      - name: Docker run
+        run: |
+          cd /root/test/lingcard
+          docker compose -f docker-compose.test.yml up --build -d
+
+      - name: Test
+        run: |
+          cd /root/test/lingcard
+          docker compose exec backend php artisan test
+
+      - name: Docker down
+        run: |
+          cd /root/test/lingcard
+          docker compose down -v
+
   deploy:
+    need: test
     runs-on: self-hosted
     environment: "production"
     steps:

@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    command: serve --port=8080 --host=0.0.0.0
+    networks:
+      - network
+
+  redis:
+    image: redis:latest
+    restart: always
+    ports:
+      - "6380:6380"
+    command: redis-server --port 6380
+    volumes:
+      - redis_data:/data
+    networks:
+      - network
+
+volumes:
+  redis_data:
+
+networks:
+  network:
+    driver: bridge
