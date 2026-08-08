@@ -19,6 +19,29 @@ services:
       timeout: 10s
       retries: 3
 
+  pgbouncer:
+    image: edoburu/pgbouncer:latest
+    environment:
+      - DB_USER=${DB_USERNAME}
+      - DB_PASSWORD=${DB_PASSWORD}
+      - DB_HOST=db
+      - DB_NAME=${DB_DATABASE}
+      - AUTH_TYPE=scram-sha-256
+      - POOL_MODE=transaction
+      - ADMIN_USERS=${DB_USERNAME}
+    ports:
+      - "6432:5432"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - network
+    healthcheck:
+      test: [ "CMD", "pg_isready", "-h", "localhost", "-p", "5432" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
   frontend:
     build:
       context: ./frontend
@@ -44,7 +67,7 @@ services:
     networks:
       - network
     depends_on:
-      db:
+      pgbouncer:
         condition: service_healthy
       backend:
         condition: service_started
@@ -59,7 +82,7 @@ services:
     networks:
       - network
     depends_on:
-      - db
+      - pgbouncer
 
   queue:
     build:
@@ -72,7 +95,7 @@ services:
     depends_on:
       backend:
         condition: service_started
-      db:
+      pgbouncer:
         condition: service_healthy
       migrator:
         condition: service_completed_successfully
