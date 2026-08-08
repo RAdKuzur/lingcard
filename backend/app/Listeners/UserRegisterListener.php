@@ -3,6 +3,7 @@
 namespace App\Listeners;
 
 use App\Events\UserRegistered;
+use App\Jobs\InitProgressJob;
 use App\Jobs\SendEmailJob;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Queue\InteractsWithQueue;
@@ -22,9 +23,6 @@ class UserRegisterListener
      */
     public function handle(UserRegistered $event): void
     {
-        $subject = 'Регистрация пользователя. LingCard.';
-        $text = '';
-        $html = "Поздравляю, {$event->name}! Вы зарегистрировались на LingCard, надеюсь Вы получите удовольствие в ходе изучение новых языков!";
-        SendEmailJob::dispatch($event->email, $subject, $text, $html);
+        InitProgressJob::dispatch($event->user->base_language_id, $event->user->target_language_id, $event->user->id);
     }
 }

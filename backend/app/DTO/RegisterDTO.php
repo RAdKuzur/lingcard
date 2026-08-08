@@ -4,6 +4,7 @@ namespace App\DTO;
 
 use App\Dictionaries\RoleDictionary;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Hash;
 
 class RegisterDTO implements BaseDTO
 {
@@ -31,7 +32,7 @@ class RegisterDTO implements BaseDTO
         return [
             'email' => $this->email,
             'name' => $this->name,
-            'password' => $this->password,
+            'password' => Hash::make($this->password),
             'role' => RoleDictionary::USER,
             'target_language_id' => $this->targetLangId,
             'base_language_id' => $this->baseLangId,

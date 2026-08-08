@@ -69,7 +69,10 @@ class AuthService
             DB::beginTransaction();
             try {
                 $this->userRepository->insert($registerDTO->toArray());
-                //UserRegistered::dispatch($registerDTO->email, $registerDTO->name);
+                $user = $this->userRepository->getUserByCredentials($registerDTO->email, $registerDTO->password);
+                if ($user) {
+                    UserRegistered::dispatch($user);
+                }
                 DB::commit();
             }
             catch (\Exception $e) {

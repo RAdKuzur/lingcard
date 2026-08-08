@@ -2,6 +2,7 @@
 
 namespace App\Events;
 
+use App\Models\User;
 use Illuminate\Broadcasting\Channel;
 use Illuminate\Broadcasting\InteractsWithSockets;
 use Illuminate\Broadcasting\PresenceChannel;
@@ -17,16 +18,12 @@ class UserRegistered
     /**
      * Create a new event instance.
      */
-    public string $email;
-    public string $name;
-
+    public User $user;
     public function __construct(
-        string $email,
-        string $name
+        User $user
     )
     {
-        $this->email = $email;
-        $this->name = $name;
+        $this->user = $user;
     }
 
     /**
