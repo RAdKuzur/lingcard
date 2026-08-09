@@ -23,7 +23,8 @@ export const apiRoutes = {
     voice: apiUrl + '/voices',
     cancelVoice: apiUrl + '/cancel-voices',
     suggestions: apiUrl + '/suggestions',
-    langMap: apiUrl + '/map-languages'
+    langMap: apiUrl + '/map-languages',
+    comments: apiUrl + '/comments'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {

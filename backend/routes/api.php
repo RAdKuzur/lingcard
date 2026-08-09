@@ -37,6 +37,7 @@ Route::middleware(['throttle:api'])->group(function () {
             Route::get('/articles/{id}', [PostController::class, 'one'])->name('article');
             Route::post('/posts/{postId}/comments', [PostController::class, 'createComment'])->name('create-comment');
             Route::post('/posts', [PostController::class, 'create'])->name('create');
+            Route::delete('/comments/{commentId}', [PostController::class, 'deleteComment'])->name('delete-comment');
 
             Route::post('/likes/{postId}', [ReactionController::class , 'like'])->name('like');
             Route::post('/dislikes/{postId}', [ReactionController::class , 'dislike'])->name('dislike');

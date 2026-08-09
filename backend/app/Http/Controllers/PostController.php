@@ -46,4 +46,11 @@ class PostController extends Controller
             'success' => true
         ]);
     }
+
+    public function deleteComment($commentId) {
+        $this->postService->deleteComment($commentId);
+        return response()->json([
+            'success' => true
+        ]);
+    }
 }

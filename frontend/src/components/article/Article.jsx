@@ -1,5 +1,5 @@
 import {useEffect, useState} from "react";
-import {get, post} from "../../plugins/request.js";
+import {get, post, del} from "../../plugins/request.js";
 import {apiCreateComment, apiRoutes} from "../../plugins/apiRoutes.js";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import {getText, lang} from "../../lang/lang.js";
@@ -8,6 +8,8 @@ import View from "../svg/View.jsx";
 import Like from "../svg/Like.jsx";
 import Dislike from "../svg/Dislike.jsx";
 import Pin from "../svg/Pin.jsx";
+import Bin from "../svg/Bin.jsx";
+import {useAuth} from "../../plugins/AuthContext.jsx";
 export default function Article() {
     const [article, setArticle] = useState([])
     const [isLike, setLike] = useState(false)
@@ -16,6 +18,7 @@ export default function Article() {
     const [dislikeCount, setDislikeCount] = useState(0)
     const [comments, setComments] = useState([])
     const [textComment, setTextComment] = useState('')
+    const auth = useAuth();
     useEffect(() => {
         const fetchArticle = async () => {
             const id = window.location.pathname.split('/').pop();
@@ -92,6 +95,12 @@ export default function Article() {
             window.location.reload()
         }
     }
+
+    async function handleDeleteComment(id) {
+        await del(apiRoutes.comments + '/' + id, {withCredentials: true})
+        window.location.reload()
+    }
+
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
             <div className="flex max-w-5xl mx-auto justify-start mb-6">
@@ -170,7 +179,7 @@ export default function Article() {
                         {comments.length > 0 ? (
                             comments.map((e) => (
                                 <div key={e.id}
-                                     className="bg-white items-center p-8 transition-all">
+                                     className="bg-white items-center p-5 transition-all">
                                     <div className={'flex justify-between items-start'}>
                                         <div className="flex items-center gap-3 mb-4">
                                             <h6 className="font-bold text-slate-800">{e.username}</h6>
@@ -190,6 +199,14 @@ export default function Article() {
                                             <span className="text-sm text-slate-500 ml-1">
                                                 {e.time}
                                             </span>
+                                            {
+                                                auth.user?.username === e.username ? (<button
+                                                    className="flex items-center gap-2 p-1 rounded-xl bg-gradient-to-r from-red-500 to-rose-500 text-white text-sm font-medium shadow-sm hover:shadow-md hover:scale-105 hover:from-red-600 hover:to-rose-600 active:scale-95 transition-all duration-200 cursor-pointer"
+                                                    onClick={() => handleDeleteComment(e.id)}
+                                                >
+                                                    <Bin/>
+                                                </button>) : <></>
+                                            }
                                         </div>
                                     </div>
                                     <div>

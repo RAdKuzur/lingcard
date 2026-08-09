@@ -156,4 +156,21 @@ class PostService
             LogHelper::errorLog($e->getTrace(), $e->getMessage());
         }
     }
+
+    public function deleteComment($commentId)
+    {
+        DB::beginTransaction();
+        try{
+            $user = AuthHelper::user();
+            $comment = $this->commentRepository->find($commentId);
+            if ($comment->user_id === $user->id) {
+                $this->commentRepository->delete($commentId);
+            }
+            DB::commit();
+        }
+        catch (\Exception $e) {
+            DB::rollBack();
+            LogHelper::errorLog($e->getTrace(), $e->getMessage());
+        }
+    }
 }
