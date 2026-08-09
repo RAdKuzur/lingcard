@@ -7,6 +7,7 @@ import {useRedirect} from "../../hooks/useRedirect.js";
 import ArrowDown from "../svg/ArrowDown.jsx";
 import Choose from "../svg/Choose.jsx";
 import Location from "../svg/Location.jsx";
+import View from "../svg/View.jsx";
 
 export default function Home() {
     const {redirect} = useRedirect()
@@ -152,14 +153,22 @@ export default function Home() {
                                 <div className="mt-4 pt-4 border-t border-slate-100 flex justify-between items-center">
                                     <div className="flex items-center gap-2">
                                         <span className="text-sm text-slate-600 font-medium">
-                                            Автор: {e.username}
+                                            {e.username}
                                         </span>
                                     </div>
-                                    <div className="flex items-center gap-2">
-                                        <Location/>
-                                        <span className="text-sm text-slate-500">
-                                            {e.address}
-                                        </span>
+                                    <div className="flex items-center gap-6">
+                                        <div className={"flex gap-4 items-center"}>
+                                            <span className="text-sm text-slate-600 font-medium flex items-center gap-2">
+                                                <View/>
+                                                {e.views_count ?? 0}
+                                            </span>
+                                        </div>
+                                        <div className="flex items-center">
+                                            <Location/>
+                                            <span className="text-sm text-slate-500">
+                                                {e.address}
+                                            </span>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

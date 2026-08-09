@@ -1,10 +1,10 @@
 import {innerRoutes} from "../../plugins/routes.js";
-import ButtonBack from "../layouts/ButtonBack.jsx";
 import {useState} from "react";
 import {get} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
 import {getLabel, getText, lang} from "../../lang/lang.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
+import VoiceIcon from "../svg/VoiceIcon.jsx";
 
 export default function Vote() {
     const {redirect} = useRedirect()
@@ -37,6 +37,14 @@ export default function Vote() {
                                         <p className="text-slate-600 leading-relaxed text-lg">
                                             {getLabel(e.content)}
                                         </p>
+                                    </div>
+                                    <div className={'flex justify-end border-t pt-3 mt-3'}>
+                                        <div className={'flex '}>
+                                            <span className="text-sm text-slate-600 font-medium flex items-center gap-2">
+                                                <VoiceIcon/>
+                                                {e.voices ?? 0}
+                                            </span>
+                                        </div>
                                     </div>
                                 </div>
                             )))

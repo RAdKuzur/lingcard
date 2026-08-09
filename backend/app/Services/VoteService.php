@@ -37,6 +37,7 @@ class VoteService
                 id: $vote->id,
                 title: $vote->title,
                 content: $vote->content,
+                voices: $this->voiceRepository->getCountVoices($vote->id),
             ))->toArray();
         }
         return $data;

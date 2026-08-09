@@ -38,5 +38,12 @@ class VoiceRepository implements VoiceRepositoryInterface
     public function findUserVoices($userId, array $voteOptionIds) {
         return DB::table('voices')->where('user_id', $userId)->whereIn('vote_option_id', $voteOptionIds)->first();
     }
+    public function getCountVoices($voteId) : int {
+        return DB::table('voices')
+            ->join('vote_options', 'vote_options.id', '=', 'voices.vote_option_id')
+            ->join('votes', 'votes.id', '=', 'vote_options.vote_id')
+            ->where('votes.id', $voteId)
+            ->count();
+    }
 
 }

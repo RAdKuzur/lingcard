@@ -113,6 +113,9 @@ class PostService
                     username: $post->user->name,
                     address: $post->address,
                     status: StatusPostDictionary::get($post->status),
+                    viewsCount: $post->views_count,
+                    likesCount: $this->reactionRepository->countLikes($post->id),
+                    dislikesCount: $this->reactionRepository->countDislikes($post->id)
                 ))->toArray();
             }
         }
