@@ -74,6 +74,7 @@ jobs:
           sed -i "s|^VITE_REVERB_HOST=.*|VITE_REVERB_HOST=${{ vars.VITE_REVERB_HOST }}|" .env
           sed -i "s|^VITE_REVERB_PORT=.*|VITE_REVERB_PORT=${{ vars.VITE_REVERB_PORT }}|" .env
           sed -i "s|^VITE_DA_LINK=.*|VITE_DA_LINK=${{ vars.VITE_DA_LINK }}|" .env
+          sed -i "s|^VITE_BOOSTY_LINK=.*|VITE_BOOSTY_LINK=${{ vars.VITE_BOOSTY_LINK }}|" .env
 
       - name: Prepare backend environment
         run: |

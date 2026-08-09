@@ -21,7 +21,8 @@ export default function Support() {
                         {getText(lang.support.content)} <br/><br/>
                     </p>
                     <div className={'flex gap-3'}>
-                        <ButtonLink link={donations.DA.link} color={'orange'} label={donations.DA.label}></ButtonLink>
+                        <ButtonLink link={donations.DA.link} color={'white'} label={donations.DA.label} icon={donations.DA.icon}></ButtonLink>
+                        <ButtonLink link={donations.BOOSTY.link} color={'white'} label={donations.BOOSTY.label} icon={donations.BOOSTY.icon}></ButtonLink>
                     </div>
                 </div>
                 <div
