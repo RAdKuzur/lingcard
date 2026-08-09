@@ -2,12 +2,11 @@ import { innerRoutes } from "../../plugins/routes.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
 
 export default function Logo() {
-    const {redirectIfAuth} = useRedirect();
+    const {redirect} = useRedirect();
 
     function goHome() {
-        redirectIfAuth(innerRoutes.home);
+        redirect(innerRoutes.home);
     }
-
     return (
         <div
             className="flex items-center gap-2 cursor-pointer transition-all duration-300 hover:scale-105" onClick={goHome}>

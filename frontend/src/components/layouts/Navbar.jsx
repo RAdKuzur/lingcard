@@ -164,16 +164,16 @@ export default function Navbar() {
                                     </div>
                                 )}
                             </div>
-                            <div className={'hidden md:flex'}>
-                                <ProfileBar/>
-                            </div>
-                            <button
-                                onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-                                className="md:hidden p-2 rounded-lg hover:bg-slate-100 transition-colors duration-200"
-                                aria-label="Toggle menu"
-                            >
-                                <Burger isMobileMenuOpen={isMobileMenuOpen}/>
-                            </button>
+                            {!auth.isAuthenticated() ? <ProfileBar/> : <></>}
+                            {auth.isAuthenticated() ? (
+                                <button
+                                    onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+                                    className="md:hidden p-2 rounded-lg hover:bg-slate-100 transition-colors duration-200"
+                                    aria-label="Toggle menu"
+                                >
+                                    <Burger isMobileMenuOpen={isMobileMenuOpen}/>
+                                </button>
+                            ) : (<></>)}
                         </div>
                     </div>
                 </div>
