@@ -3,6 +3,8 @@ import {getText, lang} from "../../lang/lang.js";
 import {useEffect, useState} from "react";
 import {get, post} from "../../plugins/request.js";
 import {apiRoutes} from "../../plugins/apiRoutes.js";
+import ButtonLink from "../layouts/ButtonLink.jsx";
+import {donations} from "../../plugins/donation.js";
 
 export default function About() {
     const [map, setMap] = useState([])
@@ -66,6 +68,7 @@ export default function About() {
                             drive16052003@gmail.com
                         </span>
                         </a>
+                        <ButtonLink link={'https://www.reddit.com/r/lingcard/'} color={'white'} label={'Reddit'} icon={'/icons/Reddit.svg'}></ButtonLink>
                     </div>
                     <div className="mt-4">
                         {!isHidden && (

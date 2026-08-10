@@ -108,7 +108,10 @@ export default function Card({opacityCard, direction, status, repeat, translatio
                             } text-white`}
                             onMouseEnter={() => setHoverNo(true)}
                             onMouseLeave={() => setHoverNo(false)}
-                            onClick={() => swipe('left')}
+                            onClick={() => {
+                                swipe('left')
+                                setProblem(false)
+                            }}
                         >
                             {getText(lang.training.unknown)}
                         </button>
@@ -132,7 +135,10 @@ export default function Card({opacityCard, direction, status, repeat, translatio
                             } text-white`}
                             onMouseEnter={() => setHoverYes(true)}
                             onMouseLeave={() => setHoverYes(false)}
-                            onClick={() => swipe('right')}
+                            onClick={() => {
+                                swipe('right')
+                                setProblem(false)
+                            }}
                         >
                             {getText(lang.training.known)}
                         </button>
