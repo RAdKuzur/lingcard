@@ -132,11 +132,11 @@ export default function Article() {
                             {article.content}
                         </p>
                     </div>
-                    <div className="mt-4 pt-4 border-t border-slate-100 flex gap-4 justify-between items-center">
-                        <div className="flex gap-4 items-center">
+                    <div className="mt-4 pt-4 border-t border-slate-100 flex flex-wrap gap-4 justify-between items-center">
+                        <div className="flex flex-wrap gap-4 items-center">
                             <div className="flex items-center gap-2">
                                 <span className="text-sm text-slate-600 font-medium">
-                                Автор: {article.username}
+                                    {article.username}
                                 </span>
                             </div>
                             <div className="flex items-center gap-2">
@@ -146,7 +146,7 @@ export default function Article() {
                                 </span>
                             </div>
                         </div>
-                        <div className={"flex gap-4 items-center"}>
+                        <div className="flex flex-wrap gap-4 items-center">
                             <span className="text-sm text-slate-600 font-medium flex items-center gap-2">
                                 <View/>
                                 {article.views_count ?? 0}
@@ -162,14 +162,18 @@ export default function Article() {
                         </div>
                     </div>
                 </div>
-                <div id={"comments"} className={"bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"}>
+                <div id={"comments"}
+                     className={"bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"}>
                     <div>
                         <div className="flex items-center gap-3 mb-4">
                             <h1 className="text-xl font-bold text-slate-800">{getText(lang.article.comments)}</h1>
                         </div>
                         <div className="flex items-center gap-3 mb-4">
-                            <input className={'w-full rounded-2xl p-2 outline-2 border-black'} onInput={(e) => {setTextComment(e.target.value)}}></input>
-                            <button className={'bg-indigo-500 p-2 rounded-2xl cursor-pointer'} onClick={() => handleSendComment(textComment)}>
+                            <input className={'w-full rounded-2xl p-2 outline-2 border-black'} onInput={(e) => {
+                                setTextComment(e.target.value)
+                            }}></input>
+                            <button className={'bg-indigo-500 p-2 rounded-2xl cursor-pointer'}
+                                    onClick={() => handleSendComment(textComment)}>
                                 <span className={'text-white font-bold'}>
                                     {getText(lang.article.send)}
                                 </span>
