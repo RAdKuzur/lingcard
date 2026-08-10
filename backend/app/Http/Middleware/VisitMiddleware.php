@@ -10,14 +10,11 @@ use Symfony\Component\HttpFoundation\Response;
 
 class VisitMiddleware
 {
-    private VisitRepositoryInterface $visitRepository;
     private PrometheusServiceInterface $prometheusService;
     public function __construct(
-        VisitRepositoryInterface $visitRepository,
         PrometheusServiceInterface $prometheusService
     )
     {
-        $this->visitRepository = $visitRepository;
         $this->prometheusService = $prometheusService;
     }
 
@@ -29,12 +26,6 @@ class VisitMiddleware
     public function handle(Request $request, Closure $next): Response
     {
         $this->prometheusService->incHttpTotalRequests();
-        $this->visitRepository->insert([
-            'path' => request()->path(),
-            'ip' => $request->header('X-Real-IP') ?? 'test_ip',
-            'user_agent' => request()->userAgent(),
-            'time' => now()
-        ]);
         $startTime = microtime(true) * 1000;
         $response = $next($request);
         $duration = (microtime(true) * 1000) - $startTime;
