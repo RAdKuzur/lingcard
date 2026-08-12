@@ -14,13 +14,16 @@ class CheckLocationJob implements ShouldQueue
     /**
      * Create a new job instance.
      */
-    public string $path;
-    public string $ip;
-    public string $userAgent;
+    public ?string $path = null;
+    public ?string $ip = null;
+    public ?string $userAgent  = null;
 
-    public $time;
+    public $time = null;
     public function __construct(
-        string $path, string $ip, string $userAgent, $time
+        string $path = null,
+        string $ip = null,
+        string $userAgent  = null,
+        $time = null
     )
     {
         $this->path = $path;
