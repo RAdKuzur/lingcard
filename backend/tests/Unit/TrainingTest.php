@@ -58,18 +58,4 @@ class TrainingTest extends TestCase
         (new CourseRepository())->deleteProgress($user->id);
         $this->assertEquals(count(Course::all()), 0);
     }
-
-    public function test_clear_word_progress(): void
-    {
-        $this->seed(LanguageSeeder::class);
-        $this->seed(TestWordSeeder::class);
-        $this->seed(TestUserSeeder::class);
-        $this->seed(TestCourseSeeder::class);
-
-        $course = Course::first();
-        Course::where('id', $course->id)->update(['status' => StatusWordDictionary::LEARNED]);
-        (new CourseRepository())->deleteWordProgress($course->id);
-        $this->assertEquals(Course::where('id', $course->id)->first()->status, StatusWordDictionary::NONE);
-    }
-
 }

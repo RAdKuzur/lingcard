@@ -24,9 +24,6 @@ class WordTranslationRepository implements WordTranslationRepositoryInterface
     public function delete($id) : int {
         return DB::table('word_translations')->where('id', $id)->delete();
     }
-    public function getAllWithWords() {
-        return WordTranslation::with('word')->get();
-    }
 
     public function getByTargetLanguageIdAndBaseLanguageId($baseLanguageId, $targetLanguageId) {
         return WordTranslation::with('word')
@@ -52,6 +49,51 @@ class WordTranslationRepository implements WordTranslationRepositoryInterface
             ->where('words.language_id', $baseLanguageId)
             ->where('words.text', 'LIKE', '%' . $search . '%')
             ->select('word_translations.*', 'word_translations.id as translation_id')
+            ->count();
+    }
+
+    public function getNewWord($baseLanguageId, $targetLanguageId, array $exceptId = [])
+    {
+        return WordTranslation::with('word')
+            ->join('words', 'word_translations.word_id', '=', 'words.id')
+            ->where('word_translations.target_language_id', $baseLanguageId)
+            ->where('words.language_id', $targetLanguageId)
+            ->whereNotIn('words.id', $exceptId)
+            ->select('word_translations.*')
+            ->inRandomOrder()
+            ->first();
+    }
+    public function getNewWords($baseLanguageId, $targetLanguageId, array $exceptId = [])
+    {
+        return WordTranslation::with('word')
+            ->join('words', 'word_translations.word_id', '=', 'words.id')
+            ->where('word_translations.target_language_id', $baseLanguageId)
+            ->where('words.language_id', $targetLanguageId)
+            ->whereNotIn('words.id', $exceptId)
+            ->select('word_translations.*')
+            ->get();
+    }
+
+    public function getSearchNewWords($baseLanguageId, $targetLanguageId, array $exceptId = [], $page = 1, $limit = 10, $search = '')
+    {
+        return WordTranslation::with('word')
+            ->join('words', 'word_translations.word_id', '=', 'words.id')
+            ->where('word_translations.target_language_id', $baseLanguageId)
+            ->where('words.language_id', $targetLanguageId)
+            ->where('words.text', 'LIKE', '%' . $search . '%')
+            ->whereNotIn('words.id', $exceptId)
+            ->select('word_translations.*')
+            ->paginate($limit, ['*'], 'page', $page);
+    }
+    public function countSearchNewWords($baseLanguageId, $targetLanguageId, array $exceptId = [], $search = '')
+    {
+        return WordTranslation::with('word')
+            ->join('words', 'word_translations.word_id', '=', 'words.id')
+            ->where('word_translations.target_language_id', $baseLanguageId)
+            ->where('words.language_id', $targetLanguageId)
+            ->where('words.text', 'LIKE', '%' . $search . '%')
+            ->whereNotIn('words.id', $exceptId)
+            ->select('word_translations.*')
             ->count();
     }
 }

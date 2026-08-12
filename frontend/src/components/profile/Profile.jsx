@@ -83,6 +83,7 @@ export default function Profile() {
         const response = await del(apiRoutes.progress, {
             withCredentials: true
         });
+        window.location.reload()
     }
 
     useEffect(() => {

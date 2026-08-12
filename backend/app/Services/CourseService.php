@@ -12,37 +12,77 @@ use App\Helpers\RepeatHelper;
 use App\Jobs\InitProgressJob;
 use App\Models\Course;
 use App\Repositories\Interfaces\CourseRepositoryInterface;
+use App\Repositories\Interfaces\WordTranslationRepositoryInterface;
 use DateTime;
 use Illuminate\Support\Facades\DB;
 
 class CourseService
 {
     private CourseRepositoryInterface $courseRepository;
+    private WordTranslationRepositoryInterface $wordTranslationRepository;
     public function __construct(
         CourseRepositoryInterface $courseRepository,
+        WordTranslationRepositoryInterface $wordTranslationRepository
     )
     {
         $this->courseRepository = $courseRepository;
+        $this->wordTranslationRepository = $wordTranslationRepository;
     }
 
     public function wordsByStatus($status, $page, $limit, $search) : array
     {
         $data = [];
         $user = AuthHelper::user();
-        $courses = $this->courseRepository->getByStatus($status, $user->id, $page, $limit, $search);
-        foreach ($courses as $course) {
-            $data[] = (new WordProgressDTO(
-                id: $course->id,
-                text: $course->wordTranslation->word->text,
-                translation: $course->wordTranslation->translation,
-                transcription: $course->wordTranslation->word->transcription,
-                level: LevelDictionary::get($course->wordTranslation->word->level),
-                repeatTime: (new DateTime($course->last_time_repeated))->format('d.m.Y H:i:s')
-            ))->toArray();
+        switch ($status) {
+            case StatusWordDictionary::NONE:
+                $courses = $this->courseRepository->getCoursesByStatus($user->id, [StatusWordDictionary::LEARNING, StatusWordDictionary::LEARNED]);
+                $wordTranslations = $this->wordTranslationRepository->getSearchNewWords(
+                    $user->base_language_id,
+                    $user->target_language_id,
+                    array_column($courses->toArray(), 'word_translation_id'),
+                    $page,
+                    $limit,
+                    $search
+                );
+                foreach ($wordTranslations as $wordTranslation) {
+                    $data[] = (new WordProgressDTO(
+                        id: $wordTranslation->id,
+                        text: $wordTranslation->word->text,
+                        translation: $wordTranslation->translation,
+                        transcription: $wordTranslation->word->transcription,
+                        level: LevelDictionary::get($wordTranslation->word->level),
+                        repeatTime: null
+                    ))->toArray();
+                }
+                $amountWords = $this->wordTranslationRepository->countSearchNewWords(
+                    $user->base_language_id,
+                    $user->target_language_id,
+                    array_column($courses->toArray(), 'word_translation_id'),
+                    $search
+                );
+                break;
+            case StatusWordDictionary::LEARNED:
+            case StatusWordDictionary::LEARNING:
+                $courses = $this->courseRepository->getByStatus($status, $user->id, $page, $limit, $search);
+                foreach ($courses as $course) {
+                    $data[] = (new WordProgressDTO(
+                        id: $course->id,
+                        text: $course->wordTranslation->word->text,
+                        translation: $course->wordTranslation->translation,
+                        transcription: $course->wordTranslation->word->transcription,
+                        level: LevelDictionary::get($course->wordTranslation->word->level),
+                        repeatTime: (new DateTime($course->last_time_repeated))->format('d.m.Y H:i:s')
+                    ))->toArray();
+                }
+                $amountWords = $this->courseRepository->countByStatus($status, $user->id, $search);
+                break;
+            default:
+                $amountWords = 0;
+                break;
         }
         return [
             'data' => $data,
-            'amountWords' => $this->courseRepository->countByStatus($status, $user->id, $search),
+            'amountWords' => $amountWords,
         ];
     }
     public function clearProgress() : void
@@ -72,24 +112,13 @@ class CourseService
         }
     }
 
-    public function init() : bool
-    {
-        $user = AuthHelper::user();
-        if($user && count($this->courseRepository->getUserCourses($user->id)) === 0) {
-            InitProgressJob::dispatch($user->base_language_id, $user->target_language_id, $user->id);
-            return true;
-        }
-        return false;
-    }
-
     public function newWord() : array|null
     {
-
         $user = AuthHelper::user();
-        $course = $this->courseRepository->getOldLearningWords($user->id);
-        if($course) {
+        if (count($this->courseRepository->getRepeatWords($user->id)) > 0) {
+            $course = $this->courseRepository->getOldLearningWords($user->id);
             $data = (new WordTrainingDTO(
-                id: $course->id,
+                id: $course->word_translation_id,
                 text: $course->wordTranslation->word->text,
                 translation: $course->wordTranslation->translation,
                 transcription: $course->wordTranslation->word->transcription,
@@ -97,9 +126,21 @@ class CourseService
                 status: $course->status,
                 repeat: $course->repeat
             ))->toArray();
-            return $data;
         }
-        return null;
+        else {
+            $courses = $this->courseRepository->getCoursesByStatus($user->id, [StatusWordDictionary::LEARNING, StatusWordDictionary::LEARNED]);
+            $wordTranslation = $this->wordTranslationRepository->getNewWord($user->base_language_id, $user->target_language_id, array_column($courses->toArray(), 'word_translation_id'));
+            $data = (new WordTrainingDTO(
+                id: $wordTranslation->id,
+                text: $wordTranslation->word->text,
+                translation: $wordTranslation->translation,
+                transcription: $wordTranslation->word->transcription,
+                level: LevelDictionary::get($wordTranslation->word->level),
+                status: StatusWordDictionary::NONE,
+                repeat: 0
+            ))->toArray();
+        }
+        return $data;
     }
 
     public function repeat($id, $status) : void
@@ -107,44 +148,40 @@ class CourseService
         DB::beginTransaction();
         try {
             $user = AuthHelper::user();
-            $course = $this->courseRepository->find($id);
-            if ($user && $course) {
-                if ($status) {
-                    switch ($course->status) {
-                        case StatusWordDictionary::NONE:
-                            $this->courseRepository->update($id, [
-                                'repeat' => $course->repeat,
-                                'status' => StatusWordDictionary::LEARNED,
-                                'last_time_repeated' => now()
-                            ]);
-                            break;
-                        case StatusWordDictionary::LEARNING:
-                            $this->courseRepository->update($id, [
-                                'repeat' => $course->repeat + 1,
-                                'status' => $course->repeat > Course::REPEAT_TIME ? StatusWordDictionary::LEARNED : StatusWordDictionary::LEARNING,
-                                'last_time_repeated' => RepeatHelper::repeat($course->repeat)
-                            ]);
-                            break;
-                        default:
-                            break;
-                    }
+            $course = $this->courseRepository->getCourseByWordTranslationIdAndUserId($id, $user->id);
+            if ($course) {
+                if($status) {
+                    $this->courseRepository->update($course->id, [
+                        'repeat' => $course->repeat + 1,
+                        'status' => $course->repeat > Course::REPEAT_TIME ? StatusWordDictionary::LEARNED : StatusWordDictionary::LEARNING,
+                        'last_time_repeated' => RepeatHelper::repeat($course->repeat)
+                    ]);
                 }
                 else {
-                    switch ($course->status) {
-                        case StatusWordDictionary::NONE:
-                            $this->courseRepository->update($id, [
-                                'status' => StatusWordDictionary::LEARNING,
-                                'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
-                            ]);
-                            break;
-                        case StatusWordDictionary::LEARNING:
-                            $this->courseRepository->update($id, [
-                                'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
-                            ]);
-                            break;
-                        default:
-                            break;
-                    }
+                    $this->courseRepository->update($course->id, [
+                        'status' => StatusWordDictionary::LEARNING,
+                        'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
+                    ]);
+                }
+            }
+            else {
+                if($status) {
+                    $this->courseRepository->insert([
+                        'word_translation_id' => $id,
+                        'user_id' => $user->id,
+                        'status' => StatusWordDictionary::LEARNED,
+                        'repeat' => 0,
+                        'last_time_repeated' => now()
+                    ]);
+                }
+                else {
+                    $this->courseRepository->insert([
+                        'word_translation_id' => $id,
+                        'user_id' => $user->id,
+                        'status' => StatusWordDictionary::LEARNING,
+                        'repeat' => 0,
+                        'last_time_repeated' => RepeatHelper::repeat(0)
+                    ]);
                 }
             }
             DB::commit();
@@ -158,25 +195,29 @@ class CourseService
     public function status() : array
     {
         $user = AuthHelper::user();
-        $amountCourses = count($this->courseRepository->getUserCourses($user->id));
-        if($amountCourses > 0) {
-            if ($amountCourses === $this->courseRepository->countUserStats($user->id, StatusWordDictionary::LEARNED)) {
-                return [
-                    'language' => $user->targetLanguage->code,
-                    'training' => StatusWordDictionary::LEARNED,
-                ];
-            }
-            else {
+        $allWordsAmount = count($this->wordTranslationRepository->getByTargetLanguageIdAndBaseLanguageId($user->base_language_id, $user->target_language_id));
+        $amountLearnedWords = count($this->courseRepository->getCoursesByStatus($user->id, [StatusWordDictionary::LEARNED]));
+        $amountLearningWords = count($this->courseRepository->getRepeatWords($user->id));
+        if($amountLearnedWords === $allWordsAmount) {
+            return [
+                'language' => $user->targetLanguage->code,
+                'training' => StatusWordDictionary::LEARNED,
+            ];
+        }
+        else {
+            if ($amountLearningWords === 0 && $allWordsAmount === count($this->courseRepository->getCoursesByStatus($user->id, [StatusWordDictionary::LEARNED, StatusWordDictionary::LEARNING]))) {
                 return [
                     'language' => $user->targetLanguage->code,
                     'training' => StatusWordDictionary::LEARNING,
                 ];
             }
-
+            else {
+                //есть невыученные/ещё не повторенные слова (ещё даже не показанные)
+                return [
+                    'language' => $user->targetLanguage->code,
+                    'training' => StatusWordDictionary::NONE,
+                ];
+            }
         }
-        return [
-            'language' => $user->targetLanguage->code,
-            'training' => StatusWordDictionary::NONE,
-        ];
     }
 }

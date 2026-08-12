@@ -35,7 +35,6 @@ class ProfileController extends Controller
         $this->courseService->clearProgress();
         $dto = $request->toDTO();
         $this->userService->update(AuthHelper::user()->id, $dto);
-        $this->courseService->init();
         return response()->json([
             'success' => true,
         ]);

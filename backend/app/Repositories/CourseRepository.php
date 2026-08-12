@@ -15,18 +15,9 @@ class CourseRepository implements CourseRepositoryInterface
     public function find($id) {
         return Course::where('id', $id)->first();
     }
-    public function getUserCourses($userId) {
-        return Course::where(['user_id' => $userId])->get();
-    }
-
     public function getOldLearningWords($userId)
     {
-        return DB::table('courses')
-                ->where('user_id', $userId)
-                ->where('status', StatusWordDictionary::LEARNING)
-                ->where('last_time_repeated', '<', now())
-                ->count() > 0 ?
-            Course::with('wordTranslation.word')
+        return Course::with('wordTranslation.word')
                 ->join('word_translations', 'courses.word_translation_id', '=', 'word_translations.id')
                 ->join('words', 'word_translations.word_id', '=', 'words.id')
                 ->where('courses.user_id', $userId)
@@ -36,15 +27,6 @@ class CourseRepository implements CourseRepositoryInterface
                 ->orderBy('words.level' , 'asc')
                 ->orderBy('courses.last_time_repeated', 'desc')
                 ->select('courses.*')
-                ->first() :
-            Course::with('wordTranslation.word')
-                ->join('word_translations', 'courses.word_translation_id', '=', 'word_translations.id')
-                ->join('words', 'word_translations.word_id', '=', 'words.id')
-                ->where('courses.user_id', $userId)
-                ->where('courses.last_time_repeated', '<', now())
-                ->where('courses.status', StatusWordDictionary::NONE)
-                ->select('courses.*')
-                ->inRandomOrder()
                 ->first();
     }
 
@@ -83,11 +65,7 @@ class CourseRepository implements CourseRepositoryInterface
     }
 
     public function deleteWordProgress($courseId) {
-        return DB::table('courses')->where(['id' => $courseId])->update([
-            'status' => StatusWordDictionary::NONE,
-            'repeat' => 0,
-            'last_time_repeated' => now()
-        ]);
+        return DB::table('courses')->where(['id' => $courseId])->delete();
     }
 
     public function insert($data) : bool
@@ -102,5 +80,20 @@ class CourseRepository implements CourseRepositoryInterface
     public function delete($id) : int
     {
         return DB::table('courses')->where('id', $id)->delete();
+    }
+    public function getRepeatWords($userId) {
+        return DB::table('courses')
+            ->where('user_id', $userId)
+            ->where('status', StatusWordDictionary::LEARNING)
+            ->where('last_time_repeated', '<', now())
+            ->get();
+    }
+    public function getCourseByWordTranslationIdAndUserId($wordTranslationId, $userId)
+    {
+        return Course::where(['word_translation_id' => $wordTranslationId, 'user_id' => $userId])->first();
+    }
+    public function getCoursesByStatus($userId, $statuses)
+    {
+        return Course::where(['user_id' => $userId])->whereIn('status', $statuses)->get();
     }
 }
