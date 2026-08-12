@@ -130,15 +130,20 @@ class CourseService
         else {
             $courses = $this->courseRepository->getCoursesByStatus($user->id, [StatusWordDictionary::LEARNING, StatusWordDictionary::LEARNED]);
             $wordTranslation = $this->wordTranslationRepository->getNewWord($user->base_language_id, $user->target_language_id, array_column($courses->toArray(), 'word_translation_id'));
-            $data = (new WordTrainingDTO(
-                id: $wordTranslation->id,
-                text: $wordTranslation->word->text,
-                translation: $wordTranslation->translation,
-                transcription: $wordTranslation->word->transcription,
-                level: LevelDictionary::get($wordTranslation->word->level),
-                status: StatusWordDictionary::NONE,
-                repeat: 0
-            ))->toArray();
+            if ($wordTranslation) {
+                $data = (new WordTrainingDTO(
+                    id: $wordTranslation->id,
+                    text: $wordTranslation->word->text,
+                    translation: $wordTranslation->translation,
+                    transcription: $wordTranslation->word->transcription,
+                    level: LevelDictionary::get($wordTranslation->word->level),
+                    status: StatusWordDictionary::NONE,
+                    repeat: 0
+                ))->toArray();
+            }
+            else {
+                return null;
+            }
         }
         return $data;
     }
