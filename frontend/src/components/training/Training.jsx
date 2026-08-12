@@ -2,7 +2,6 @@ import {useEffect, useState} from "react";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 import { get, patch } from "../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
-import InitWindow from "./InitWindow.jsx";
 import {getText, lang} from "../../lang/lang.js";
 import {studyStatuses} from "../../plugins/studyStatus.js";
 import EndTraining from "./EndTraining.jsx";
@@ -81,7 +80,7 @@ export default function Training() {
         const fetchData = async () => {
             setIsLoading(true)
             const status = await handleCheckTrainingStatus()
-            if (status === studyStatuses.learning) {
+            if (status === studyStatuses.none) {
                 setIsLoading(true)
                 newWord()
             }
@@ -123,9 +122,7 @@ export default function Training() {
             className="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 flex flex-col items-center justify-center p-6">
             {isLoading ? (
                 <Loading/>
-            ) : isTraining === studyStatuses.none ? (
-                <InitWindow countryCode={countryCode} setTraining={handleSetTraining}/>
-            ) : isTraining === studyStatuses.waiting ? (
+            ) : isTraining === studyStatuses.learning ? (
                 <WaitingTraining />
             ) : isTraining === studyStatuses.learned ? (
                 <EndTraining/>
