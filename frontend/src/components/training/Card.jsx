@@ -30,7 +30,7 @@ export default function Card({opacityCard, direction, status, repeat, translatio
     }
     return (
         <div className="w-full max-w-md">
-            <div className="flex w-1/5 mb-6">
+            <div className={`flex w-1/5 mb-6 ${opacityCard ? 'opacity-100' : 'opacity-0'}`}>
                 <ButtonBack/>
             </div>
 

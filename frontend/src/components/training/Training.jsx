@@ -64,6 +64,7 @@ export default function Training() {
 
     async function handleCheckTrainingStatus() {
         try {
+            setIsLoading(true)
             const response = await get(apiRoutes.teachable, {}, {withCredentials: true})
             const data = await response.data
             setTraining(response.data.training)
@@ -78,20 +79,16 @@ export default function Training() {
 
     useEffect(() => {
         const fetchData = async () => {
-            setIsLoading(true)
             const status = await handleCheckTrainingStatus()
             if (status === studyStatuses.none) {
-                setIsLoading(true)
                 newWord()
             }
-            setTimeout(() => {
-                setIsLoading(false)
-            }, 200)
         }
         fetchData()
     }, [])
 
     async function newWord() {
+        setIsLoading(true)
         const response = await get(apiRoutes.training, null, {withCredentials: true});
         const data = await response.data;
         if(data) {
@@ -104,17 +101,9 @@ export default function Training() {
             setTranscription(data.transcription)
         }
         else {
-            setTraining(studyStatuses.waiting)
+            setTraining(studyStatuses.learning)
         }
-    }
-
-    function handleSetTraining(status) {
-        setIsLoading(true)
-        setTimeout(() => {
-            newWord()
-            setTraining(status)
-            setIsLoading(false)
-        }, 6000)
+        setIsLoading(false)
     }
 
     return (
