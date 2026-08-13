@@ -6,8 +6,6 @@ import {AuthProvider} from "./plugins/AuthContext.jsx";
 
 createRoot(document.getElementById('root')).render(
     <>
-        <title>LingCard</title>
-        <link rel="icon" href="/icon.svg"/>
         <BrowserRouter>
             <AuthProvider>
                 <App/>
