@@ -26,37 +26,48 @@ export default function Card({setTraining}) {
     const [status, setStatus] = useState('')
     const [repeat, setRepeat] = useState(0)
     const [transcription, setTranscription] = useState('')
+    const [isSwiping, setIsSwiping] = useState(false)
+
     async function trainingRepeat(status) {
         const response = await patch(apiRoutes.training + '/' + cardId, {
             status: status
         }, {withCredentials: true})
     }
+
     async function newWord() {
         setLoading(true)
-        const response = await get(apiRoutes.training, null, {withCredentials: true});
-        const data = await response.data;
-        if(data) {
-            setCardId(data.id)
-            setText(data.text)
-            setTranslation(data.translation)
-            setLevel(data.level)
-            setStatus(data.status)
-            setRepeat(data.repeat)
-            setTranscription(data.transcription)
+        try {
+            const response = await get(apiRoutes.training, null, {withCredentials: true});
+            const data = await response.data;
+            if(data) {
+                setCardId(data.id)
+                setText(data.text)
+                setTranslation(data.translation)
+                setLevel(data.level)
+                setStatus(data.status)
+                setRepeat(data.repeat)
+                setTranscription(data.transcription)
+                setWord(true)
+                setOpacityTranslation(false)
+                setDirection('')
+                setOpacityCard(true)
+                setIsSwiping(false)
+            }
+            else {
+                setTraining(studyStatuses.learning)
+            }
+        } catch (error) {
+            console.error('Error loading new word:', error)
+        } finally {
+            setLoading(false)
         }
-        else {
-            setTraining(studyStatuses.learning)
-        }
-        setLoading(false)
     }
-
 
     async function handleCheckTrainingStatus() {
         try {
             const response = await get(apiRoutes.teachable, {}, {withCredentials: true})
             const data = await response.data
             setTraining(response.data.training)
-            // setCountryCode(response.data.language)
             return response.data.training
         } catch (error) {
             return false
@@ -67,13 +78,16 @@ export default function Card({setTraining}) {
         const fetchData = async () => {
             const status = await handleCheckTrainingStatus()
             if(status === studyStatuses.none) {
-                newWord();
+                await newWord();
             }
         }
         fetchData()
-
     }, []);
+
     function swipe(way){
+        if (isSwiping) return;
+
+        setIsSwiping(true)
         setDirection(way)
         setOpacityCard(false)
 
@@ -85,42 +99,50 @@ export default function Card({setTraining}) {
         }
 
         setTimeout(async () => {
-            setOpacityTranslation(false)
-            setWord(true)
-            setDirection('')
             const status = await handleCheckTrainingStatus()
             if (status === studyStatuses.none) {
-                newWord();
+                await newWord();
+            } else {
+                setDirection('')
+                setOpacityCard(true)
+                setIsSwiping(false)
+                setWord(true)
+                setOpacityTranslation(false)
             }
-        }, 1000)
-        setTimeout(() => {
-            setOpacityCard(true)
-        }, 1500)
+        }, 500)
     }
+
     function show() {
         setWord(!word);
         setOpacityTranslation(!opacityTranslation)
-        return word
     }
 
     function handleProblem() {
         setProblem(!isProblem)
+        if (isProblem) {
+            setTextProblem('')
+        }
     }
 
     async function sendProblem(problemText) {
         if (problemText) {
-            const response = await post(apiRoutes.suggestions, {
-                message: JSON.stringify({
-                    word: text,
-                    translation: translation,
-                    transcription: transcription,
-                    problem: problemText
-                })
-            }, {withCredentials: true})
-            setTextProblem('')
-            handleProblem()
+            try {
+                const response = await post(apiRoutes.suggestions, {
+                    message: JSON.stringify({
+                        word: text,
+                        translation: translation,
+                        transcription: transcription,
+                        problem: problemText
+                    })
+                }, {withCredentials: true})
+                setTextProblem('')
+                handleProblem()
+            } catch (error) {
+                console.error('Error sending problem:', error)
+            }
         }
     }
+
     return (
         <div className="w-full max-w-md">
             {!loading ? (
@@ -139,24 +161,17 @@ export default function Card({setTraining}) {
                                     <div className={'flex justify-start items-center w-3/5'}>
                                         {status === 1 ? (
                                             <span className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-emerald-400 to-emerald-500 text-white shadow-lg shadow-emerald-500/25">
-                                    {getText(lang.training.newWord)}
-                                </span>
+                                                {getText(lang.training.newWord)}
+                                            </span>
                                         ) : (
-                                            <span
-                                                className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
-                                    {getText(lang.training.amountRepeat)} {repeat}
-                                </span>
+                                            <span className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
+                                                {getText(lang.training.amountRepeat)} {repeat}
+                                            </span>
                                         )}
                                     </div>
                                 }
                                 <div className={'flex cursor-pointer justify-end w-2/5'} onClick={handleProblem}>
-                                    {
-                                        !isProblem ? (
-                                            <Cancel/>
-                                        ) : (
-                                            <Flag/>
-                                        )
-                                    }
+                                    {!isProblem ? <Cancel/> : <Flag/>}
                                 </div>
                             </div>
 
@@ -164,35 +179,34 @@ export default function Card({setTraining}) {
                                 <div className="text-4xl font-bold text-slate-800 mb-4 tracking-tight">
                                     {text}
                                 </div>
-                                {transcription === '' || transcription === null ? '' : (<div
-                                    className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
-                                    [{transcription}]
-                                </div>)}
-                                <div
-                                    className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
+                                {transcription !== '' && transcription !== null && (
+                                    <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
+                                        [{transcription}]
+                                    </div>
+                                )}
+                                <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
                                     {translation}
                                 </div>
                             </div>
-                            {
-                                isProblem ? (
-                                    <>
-                                   <textarea
-                                       className="border-2 border-black-300 focus:border-black-500 outline-none w-full rounded-2xl p-2 sm:p-4 min-h-[100px] sm:min-h-[120px] text-base"
-                                       onInput={(e) => setTextProblem(e.target.value)}
-                                       placeholder={getText(lang.training.problem)}
-                                   />
-                                        <button
-                                            className={`active:scale-95 p-3 rounded-2xl sm:w-auto transition-all duration-200 shadow-md hover:shadow-lg ${textProblem === '' ? 'bg-gray-500 cursor-not-allowed' : 'bg-blue-500 hover:bg-blue-600 cursor-pointer'}`}
-                                            onClick={() => sendProblem(textProblem)}
-                                            aria-label="Отправить"
-                                        >
-                                            <PaperPlane/>
-                                        </button>
-                                    </>
-                                ) : (
-                                    <></>
-                                )
-                            }
+
+                            {isProblem && (
+                                <>
+                                    <textarea
+                                        className="border-2 border-black-300 focus:border-black-500 outline-none w-full rounded-2xl p-2 sm:p-4 min-h-[100px] sm:min-h-[120px] text-base"
+                                        onInput={(e) => setTextProblem(e.target.value)}
+                                        placeholder={getText(lang.training.problem)}
+                                        value={textProblem}
+                                    />
+                                    <button
+                                        className={`active:scale-95 p-3 rounded-2xl sm:w-auto transition-all duration-200 shadow-md hover:shadow-lg ${textProblem === '' ? 'bg-gray-500 cursor-not-allowed' : 'bg-blue-500 hover:bg-blue-600 cursor-pointer'}`}
+                                        onClick={() => sendProblem(textProblem)}
+                                        disabled={textProblem === ''}
+                                    >
+                                        <PaperPlane/>
+                                    </button>
+                                </>
+                            )}
+
                             <div className="flex gap-3 mt-8">
                                 <button
                                     className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
@@ -206,6 +220,7 @@ export default function Card({setTraining}) {
                                         swipe('left')
                                         setProblem(false)
                                     }}
+                                    disabled={isSwiping}
                                 >
                                     {getText(lang.training.unknown)}
                                 </button>
@@ -218,6 +233,7 @@ export default function Card({setTraining}) {
                                     onMouseEnter={() => setHoverShow(true)}
                                     onMouseLeave={() => setHoverShow(false)}
                                     onClick={show}
+                                    disabled={isSwiping}
                                 >
                                     {word ? getText(lang.training.show) : getText(lang.training.hide)}
                                 </button>
@@ -233,6 +249,7 @@ export default function Card({setTraining}) {
                                         swipe('right')
                                         setProblem(false)
                                     }}
+                                    disabled={isSwiping}
                                 >
                                     {getText(lang.training.known)}
                                 </button>
@@ -240,7 +257,11 @@ export default function Card({setTraining}) {
                         </div>
                     </div>
                 </>
-            ) : (<></>)}
+            ) : (
+                <div className="flex justify-center items-center h-64">
+                    <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-500"></div>
+                </div>
+            )}
         </div>
     );
 }
