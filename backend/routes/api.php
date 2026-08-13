@@ -16,7 +16,7 @@ use App\Http\Middleware\StatMiddleware;
 use App\Http\Middleware\VisitMiddleware;
 use Illuminate\Support\Facades\Route;
 
-Route::middleware([''])->group(function () {
+Route::middleware(['throttle:api'])->group(function () {
     Route::get('/metrics', [TelemetryController::class, 'metrics'])->name('metrics');
     Route::post('/auth/broadcasting', [AuthController::class, 'broadcast'])->name('auth.broadcasting');
     Route::group(['middleware' => VisitMiddleware::class], function () {
