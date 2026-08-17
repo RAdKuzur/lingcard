@@ -144,8 +144,8 @@ export default function Register() {
                     </h2>
                     <p className="text-sm text-slate-500 mt-1">
                         {step === 1 && getText(language.register.hintLabelStep1)}
-                        {step === 2 && getText(language.register.hintLabelStep1)}
-                        {step === 3 && getText(language.register.hintLabelStep1)}
+                        {step === 2 && getText(language.register.hintLabelStep2)}
+                        {step === 3 && getText(language.register.hintLabelStep3)}
                     </p>
                 </div>
 
