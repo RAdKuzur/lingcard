@@ -1,24 +1,47 @@
-import { useState } from "react";
+import {useEffect, useState} from "react";
 import axios from "axios";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import { getText, lang as language } from "../../lang/lang.js";
-import SelectLanguage from "../layouts/SelectLanguage.jsx";
 import ConfirmRegister from "./ConfirmRegister.jsx";
+import ColorChoose from "../svg/ColorChoose.jsx";
+import {get} from "../../plugins/request.js";
+import Loading from "../layouts/Loading.jsx";
+
 export default function Register() {
     const [step, setStep] = useState(1);
-    const [lang, setLang] = useState(0);
-    const [targetLang, setTargetLang] = useState(0);
+    const [lang, setLang] = useState(null);
+    const [targetLang, setTargetLang] = useState(null);
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
     const [message, setMessage] = useState('');
     const [isSuccess, setIsSuccess] = useState(false);
+    const [baseLanguages, setBaseLanguages] = useState([])
+    const [targetLanguages, setTargetLanguages] = useState([])
+    const [selectedOptionId, setSelectedOptionId] = useState(null);
+    const [selectedTargetLanguageId, setSelectedTargetLanguageId] = useState(null);
 
     const isStepValid = () => {
-        if (step === 1) return lang !== 0;
-        if (step === 2) return targetLang !== 0 && targetLang !== lang;
+        if (step === 1) return lang !== null;
+        if (step === 2) return targetLang !== null && targetLang !== lang;
         if (step === 3) return username.length >= 3 && password.length >= 6;
         return false;
     };
+
+    useEffect(() => {
+        handleBaseLanguages()
+    }, []);
+
+    async function handleBaseLanguages() {
+        const response = await get(apiRoutes.languages, null, {withCredentials: true})
+        const data = await response.data
+        setBaseLanguages(data)
+    }
+
+    async function handleTargetLanguages(id) {
+        const response = await get(apiRoutes.exceptLanguage + '/' + id, null, {withCredentials: true})
+        const data = await response.data
+        setTargetLanguages(data)
+    }
 
     const nextStep = () => {
         if (isStepValid()) {
@@ -37,6 +60,27 @@ export default function Register() {
             setMessage('');
         }
     };
+
+    function handlePick(optionId) {
+        if (selectedOptionId === optionId) {
+            setLang(null)
+            setSelectedOptionId(null)
+        } else {
+            setLang(optionId)
+            handleTargetLanguages(optionId);
+            setSelectedOptionId(optionId);
+        }
+    }
+
+    function handleTargetPick(optionId) {
+        if (selectedTargetLanguageId === optionId) {
+            setTargetLang(null)
+            setSelectedTargetLanguageId(null)
+        } else {
+            setTargetLang(optionId)
+            setSelectedTargetLanguageId(optionId);
+        }
+    }
 
     async function signUp() {
         setMessage('');
@@ -79,7 +123,7 @@ export default function Register() {
 
     return (
         <main className="flex flex-1 bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 items-center justify-center p-4">
-            <div className="flex flex-col w-96 min-h-96 bg-white/80 backdrop-blur-sm rounded-3xl shadow-2xl shadow-indigo-500/10 p-8 border border-white/50">
+            <div className="flex flex-col w-full max-w-2xl min-h-96 bg-white/80 backdrop-blur-sm rounded-3xl shadow-2xl shadow-indigo-500/10 p-8 border border-white/50">
                 <div className="flex justify-center gap-2 mb-6">
                     {[1, 2, 3].map((i) => (
                         <div
@@ -114,30 +158,133 @@ export default function Register() {
                 <div className="flex-1">
                     {step === 1 && (
                         <div>
-                            <div className="text-sm font-medium text-slate-600 mb-1.5">
+                            <div className="text-sm font-medium text-slate-600 mb-3">
                                 {getText(language.register.yourLang)}
                             </div>
-                            <SelectLanguage
-                                setLang={setLang}
-                                value={lang}
-                                extraEmptyField={true}
-                                placeholder="Выберите язык обучения"
-                            />
+                            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                                {baseLanguages.length > 0 ? (
+                                    baseLanguages.map((e) => {
+                                        const isSelected = selectedOptionId === e.id;
+                                        return (
+                                            <div
+                                                key={e.id}
+                                                onClick={() => handlePick(e.id)}
+                                                className={`
+                                                    group relative overflow-hidden rounded-2xl 
+                                                    bg-white/80 backdrop-blur-sm 
+                                                    border-2 transition-all duration-300 
+                                                    hover:shadow-xl hover:scale-[1.03] active:scale-[0.97] 
+                                                    cursor-pointer p-4
+                                                    ${isSelected
+                                                    ? 'border-indigo-500 shadow-lg shadow-indigo-200/50 ring-2 ring-indigo-300/30'
+                                                    : 'border-slate-200/70 hover:border-indigo-300'
+                                                }
+                                                `}
+                                            >
+                                                <div className="flex flex-col items-center text-center">
+                                                    <div className="relative">
+                                                        <div className={`
+                                                            w-14 h-14 rounded-full overflow-hidden 
+                                                            border-3 transition-all duration-300
+                                                            ${isSelected
+                                                            ? 'border-indigo-500 shadow-lg shadow-indigo-300/50'
+                                                            : 'border-slate-200 group-hover:border-indigo-300'
+                                                        }
+                                                        `}>
+                                                            <img
+                                                                src={`/flags/${e.code}.svg`}
+                                                                alt={e.code}
+                                                                className="w-full h-full object-cover"
+                                                            />
+                                                        </div>
+                                                        {isSelected && (
+                                                            <div className="absolute -top-1 -right-1 w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center shadow-lg shadow-indigo-400/50">
+                                                                <ColorChoose />
+                                                            </div>
+                                                        )}
+                                                    </div>
+                                                    <h3 className="mt-3 text-sm font-semibold text-slate-800 leading-tight line-clamp-2">
+                                                        {e.name}
+                                                    </h3>
+                                                    {e.code && (
+                                                        <span className="mt-1 text-[10px] font-medium text-slate-400 bg-slate-100 px-2 py-0.5 rounded-full">
+                                                            {e.code}
+                                                        </span>
+                                                    )}
+                                                </div>
+                                            </div>
+                                        );
+                                    })
+                                ) : (
+                                    <Loading></Loading>
+                                )}
+                            </div>
                         </div>
                     )}
 
                     {step === 2 && (
                         <div>
-                            <div className="text-sm font-medium text-slate-600 mb-1.5">
+                            <div className="text-sm font-medium text-slate-600 mb-3">
                                 {getText(language.register.targetLang)}
                             </div>
-                            <SelectLanguage
-                                setLang={setTargetLang}
-                                value={targetLang}
-                                exceptId={lang}
-                                extraEmptyField={true}
-                                placeholder="Выберите язык для изучения"
-                            />
+                            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                                {targetLanguages.length > 0 ? (
+                                    targetLanguages.map((e) => {
+                                        const isSelected = selectedTargetLanguageId === e.id;
+                                        return (
+                                            <div
+                                                key={e.id}
+                                                onClick={() => handleTargetPick(e.id)}
+                                                className={`
+                                                    group relative overflow-hidden rounded-2xl 
+                                                    bg-white/80 backdrop-blur-sm 
+                                                    border-2 transition-all duration-300 
+                                                    hover:shadow-xl hover:scale-[1.03] active:scale-[0.97] 
+                                                    cursor-pointer p-4
+                                                    ${isSelected
+                                                    ? 'border-indigo-500 shadow-lg shadow-indigo-200/50 ring-2 ring-indigo-300/30'
+                                                    : 'border-slate-200/70 hover:border-indigo-300'
+                                                }
+                                                `}
+                                            >
+                                                <div className="flex flex-col items-center text-center">
+                                                    <div className="relative">
+                                                        <div className={`
+                                                            w-14 h-14 rounded-full overflow-hidden 
+                                                            border-3 transition-all duration-300
+                                                            ${isSelected
+                                                            ? 'border-indigo-500 shadow-lg shadow-indigo-300/50'
+                                                            : 'border-slate-200 group-hover:border-indigo-300'
+                                                        }
+                                                        `}>
+                                                            <img
+                                                                src={`/flags/${e.code}.svg`}
+                                                                alt={e.code}
+                                                                className="w-full h-full object-cover"
+                                                            />
+                                                        </div>
+                                                        {isSelected && (
+                                                            <div className="absolute -top-1 -right-1 w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center shadow-lg shadow-indigo-400/50">
+                                                                <ColorChoose />
+                                                            </div>
+                                                        )}
+                                                    </div>
+                                                    <h3 className="mt-3 text-sm font-semibold text-slate-800 leading-tight line-clamp-2">
+                                                        {e.name}
+                                                    </h3>
+                                                    {e.code && (
+                                                        <span className="mt-1 text-[10px] font-medium text-slate-400 bg-slate-100 px-2 py-0.5 rounded-full">
+                                                            {e.code}
+                                                        </span>
+                                                    )}
+                                                </div>
+                                            </div>
+                                        );
+                                    })
+                                ) : (
+                                    <Loading></Loading>
+                                )}
+                            </div>
                         </div>
                     )}
 
