@@ -16,8 +16,8 @@ class UserRepository implements UserRepositoryInterface
     public function find($id) {
         return User::find($id);
     }
-    public function getUserByCredentials($email, $password) {
-        $user = User::where('email', $email)->where('is_banned', false)->first();
+    public function getUserByCredentials($name, $password) {
+        $user = User::where('name', $name)->where('is_banned', false)->first();
         if ($user && Hash::check($password, $user->password)) {
             return $user;
         }
@@ -33,7 +33,7 @@ class UserRepository implements UserRepositoryInterface
     public function delete($id) : int {
         return DB::table('users')->where('id', $id)->delete();
     }
-    public function unique($email, $name) : int {
-        return !DB::table('users')->where('email', $email)->orWhere('name', $name)->exists();
+    public function unique($name) : bool {
+        return !DB::table('users')->orWhere('name', $name)->exists();
     }
 }

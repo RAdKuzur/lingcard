@@ -138,7 +138,7 @@ export const kr = {
             kr: "사용자명 및/또는 비밀번호가 잘못되었습니다"
         },
         email: {
-            kr: "이메일"
+            kr: "사용자명"
         },
         password: {
             kr: "비밀번호"
@@ -151,35 +151,6 @@ export const kr = {
         },
         signUp: {
             kr: "가입하기"
-        }
-    },
-    register: {
-        registerLabel: {
-            kr: "회원가입"
-        },
-        email: {
-            kr: "이메일"
-        },
-        username: {
-            kr: "사용자명"
-        },
-        password: {
-            kr: "비밀번호"
-        },
-        baseLang: {
-            kr: "내 언어"
-        },
-        targetLang: {
-            kr: "목표 언어"
-        },
-        createAccount: {
-            kr: "계정 만들기"
-        },
-        success: {
-            kr: "계정이 성공적으로 생성되었습니다!"
-        },
-        failed: {
-            kr: "계정 생성에 실패했습니다!"
         }
     },
     dictionary: {
@@ -211,7 +182,7 @@ export const kr = {
             kr: "단어 검색 (기본 언어로)"
         }
     },
-    home: {
+    news: {
         news: {
             kr: "뉴스"
         },
@@ -390,6 +361,73 @@ export const kr = {
         },
         voters: {
             kr: "투표자"
+        }
+    },
+    home: {
+        mainLabel: {
+            kr: "LingCard는 인터랙티브 플래시카드를 통해 전 세계 사람들이 언어를 배울 수 있도록 돕는 프로젝트입니다.\n우리의 사명은 언어 학습을 누구에게나 접근 가능하고, 흥미롭고, 효과적으로 만드는 것입니다.\n학습에는 간격 반복법이 사용됩니다."
+        },
+        startTraining: {
+            kr: "훈련 시작"
+        },
+        login: {
+            kr: "로그인"
+        },
+        availableLang: {
+            kr: "사용 가능한 언어"
+        }
+    },
+    register: {
+        chooseBaseLang: {
+            kr: "학습 언어를 선택해주세요"
+        },
+        chooseTargetLang: {
+            kr: "목표 언어를 선택해주세요 (학습 언어와 다른 언어)"
+        },
+        inputUsername: {
+            kr: "사용자 이름 및 비밀번호"
+        },
+        back: {
+            kr: "뒤로"
+        },
+        next: {
+            kr: "다음"
+        },
+        createAccount: {
+            kr: "계정 만들기"
+        },
+        username: {
+            kr: "사용자 이름"
+        },
+        password: {
+            kr: "비밀번호"
+        },
+        yourLang: {
+            kr: "내 언어"
+        },
+        targetLang: {
+            kr: "배울 언어"
+        },
+        failed: {
+            kr: "문제가 발생했습니다! 다른 사용자 이름을 시도해보세요!"
+        },
+        mainLabelStep1: {
+            kr: "학습 언어를 선택하세요"
+        },
+        mainLabelStep2: {
+            kr: "어떤 언어를 배우고 싶으신가요?"
+        },
+        mainLabelStep3: {
+            kr: "계정을 생성하세요"
+        },
+        hintLabelStep1: {
+            kr: "이 언어로 힌트와 인터페이스가 표시됩니다"
+        },
+        hintLabelStep2: {
+            kr: "배우고 싶은 언어를 선택하세요"
+        },
+        hintLabelStep3: {
+            kr: "로그인할 닉네임과 비밀번호를 만드세요"
         }
     }
 }

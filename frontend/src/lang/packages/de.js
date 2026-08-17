@@ -138,7 +138,7 @@ export const de = {
             de: "Ungültiger Benutzername und/oder Passwort"
         },
         email: {
-            de: "E-Mail"
+            de: "Benutzername"
         },
         password: {
             de: "Passwort"
@@ -151,35 +151,6 @@ export const de = {
         },
         signUp: {
             de: "Registrieren"
-        }
-    },
-    register: {
-        registerLabel: {
-            de: "Registrierung"
-        },
-        email: {
-            de: "E-Mail"
-        },
-        username: {
-            de: "Benutzername"
-        },
-        password: {
-            de: "Passwort"
-        },
-        baseLang: {
-            de: "Deine Sprache"
-        },
-        targetLang: {
-            de: "Zielsprache"
-        },
-        createAccount: {
-            de: "Konto erstellen"
-        },
-        success: {
-            de: "Konto erfolgreich erstellt!"
-        },
-        failed: {
-            de: "Kontoerstellung fehlgeschlagen!"
         }
     },
     dictionary: {
@@ -211,7 +182,7 @@ export const de = {
             de: "Nach Wort suchen (in der Ausgangssprache)"
         }
     },
-    home: {
+    news: {
         news: {
             de: "Neuigkeiten"
         },
@@ -390,6 +361,73 @@ export const de = {
         },
         voters: {
             de: "Wähler"
+        }
+    },
+    home: {
+        mainLabel: {
+            de: "LingCard ist ein Projekt, das Menschen auf der ganzen Welt hilft, Sprachen mit interaktiven Karteikarten zu lernen.\nUnsere Mission ist es, das Sprachenlernen für jeden zugänglich, unterhaltsam und effektiv zu gestalten.\nIm Training wird die Methode des verteilten Wiederholens verwendet."
+        },
+        startTraining: {
+            de: "Training beginnen"
+        },
+        login: {
+            de: "Anmelden"
+        },
+        availableLang: {
+            de: "Verfügbare Sprachen"
+        }
+    },
+    register: {
+        chooseBaseLang: {
+            de: "Bitte wählen Sie Ihre Lernsprache"
+        },
+        chooseTargetLang: {
+            de: "Bitte wählen Sie Ihre Zielsprache (abweichend von Ihrer Lernsprache)"
+        },
+        inputUsername: {
+            de: "Benutzername und Passwort"
+        },
+        back: {
+            de: "Zurück"
+        },
+        next: {
+            de: "Weiter"
+        },
+        createAccount: {
+            de: "Konto erstellen"
+        },
+        username: {
+            de: "Benutzername"
+        },
+        password: {
+            de: "Passwort"
+        },
+        yourLang: {
+            de: "Ihre Sprache"
+        },
+        targetLang: {
+            de: "Zu lernende Sprache"
+        },
+        failed: {
+            de: "Etwas ist schiefgelaufen! Versuchen Sie einen anderen Benutzernamen!"
+        },
+        mainLabelStep1: {
+            de: "Wählen Sie Ihre Lernsprache"
+        },
+        mainLabelStep2: {
+            de: "Welche Sprache möchten Sie lernen?"
+        },
+        mainLabelStep3: {
+            de: "Erstellen Sie ein Konto"
+        },
+        hintLabelStep1: {
+            de: "Hinweise und Oberfläche werden in dieser Sprache angezeigt"
+        },
+        hintLabelStep2: {
+            de: "Wählen Sie die Sprache, die Sie lernen möchten"
+        },
+        hintLabelStep3: {
+            de: "Erstellen Sie einen Benutzernamen und ein Passwort für die Anmeldung"
         }
     }
 }

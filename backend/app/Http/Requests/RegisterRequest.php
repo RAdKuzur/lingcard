@@ -25,7 +25,6 @@ class RegisterRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'email' => 'required|string|email',
             'password' => 'required|string',
             'name' => 'required|string',
             'base_language_id' => 'required|integer',
@@ -37,7 +36,6 @@ class RegisterRequest extends FormRequest
     public function toDTO() : RegisterDTO
     {
         return new RegisterDTO(
-            email: $this->validated('email'),
             name: $this->validated('name'),
             password: $this->validated('password'),
             baseLangId: $this->validated('base_language_id'),

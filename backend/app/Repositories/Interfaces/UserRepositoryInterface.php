@@ -4,6 +4,6 @@ namespace App\Repositories\Interfaces;
 
 interface UserRepositoryInterface extends BaseRepositoryInterface
 {
-    public function getUserByCredentials($email, $password);
-    public function unique($email, $name);
+    public function getUserByCredentials($name, $password);
+    public function unique($name);
 }

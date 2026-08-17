@@ -31,7 +31,7 @@ class AuthService
     public function login(LoginDTO $loginDTO) : array|bool
     {
         $user = $this->userRepository->getUserByCredentials(
-            email: $loginDTO->email,
+            name: $loginDTO->name,
             password: $loginDTO->password
         );
         if ($user) {
@@ -63,21 +63,38 @@ class AuthService
         return false;
     }
 
-    public function register(RegisterDTO $registerDTO) : bool
+    public function register(RegisterDTO $registerDTO)
     {
-        if ($this->userRepository->unique($registerDTO->email, $registerDTO->name)) {
+        if ($this->userRepository->unique($registerDTO->name)) {
             DB::beginTransaction();
             try {
                 $this->userRepository->insert($registerDTO->toArray());
+                $user = $this->userRepository->getUserByCredentials($registerDTO->name, $registerDTO->password);
+                $refreshToken = JWTAuth::claims([
+                    'time' => now()
+                ])->fromUser($user);
+                $accessToken = JWTAuth::claims([
+                    'username' => $user->name,
+                    'time' => now()
+                ])->fromUser($user);
+                $this->tokenRepository->createToken($refreshToken, $user->id);
                 DB::commit();
+                return [
+                    'status' => true,
+                    'refresh_token' => $refreshToken,
+                    'access_token' => $accessToken,
+                ];
             }
             catch (\Exception $e) {
                 DB::rollBack();
                 LogHelper::errorLog($e->getTrace(), $e->getMessage());
             }
-            return true;
         }
-        return false;
+        return [
+            'status' => false,
+            'refresh_token' => null,
+            'access_token' => null,
+        ];
     }
 
     public function logout(Request $request) : void
@@ -101,7 +118,7 @@ class AuthService
     public function getAuthUserDTO(LoginDTO $loginDTO) : array
     {
         $user = $this->userRepository->getUserByCredentials(
-            email: $loginDTO->email,
+            name: $loginDTO->name,
             password: $loginDTO->password
         );
         return (new AuthUserDTO(

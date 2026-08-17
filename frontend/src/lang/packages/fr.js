@@ -139,7 +139,7 @@ export const fr = {
             "fr": "Nom d'utilisateur et/ou mot de passe incorrects"
         },
         "email": {
-            "fr": "E-mail"
+            "fr": "Nom d'utilisateur"
         },
         "password": {
             "fr": "Mot de passe"
@@ -152,35 +152,6 @@ export const fr = {
         },
         "signUp": {
             "fr": "S'inscrire"
-        }
-    },
-    "register": {
-        "registerLabel": {
-            "fr": "Inscription"
-        },
-        "email": {
-            "fr": "E-mail"
-        },
-        "username": {
-            "fr": "Nom d'utilisateur"
-        },
-        "password": {
-            "fr": "Mot de passe"
-        },
-        "baseLang": {
-            "fr": "Votre langue"
-        },
-        "targetLang": {
-            "fr": "Langue cible"
-        },
-        "createAccount": {
-            "fr": "Créer un compte"
-        },
-        "success": {
-            "fr": "Compte créé avec succès !"
-        },
-        "failed": {
-            "fr": "Échec de la création du compte !"
         }
     },
     "dictionary": {
@@ -212,7 +183,7 @@ export const fr = {
             "fr": "Rechercher par mot (dans la langue de base)"
         }
     },
-    "home": {
+    "news": {
         "news": {
             "fr": "Actualités"
         },
@@ -391,6 +362,73 @@ export const fr = {
         },
         "voters": {
             "fr": "votants"
+        }
+    },
+    home: {
+        mainLabel: {
+            fr: "LingCard est un projet qui aide les personnes du monde entier à apprendre des langues à l'aide de cartes interactives.\nNotre mission est de rendre l'apprentissage des langues accessible, agréable et efficace pour chacun.\nLa formation utilise la méthode de répétition espacée."
+        },
+        startTraining: {
+            fr: "Commencer l'entraînement"
+        },
+        login: {
+            fr: "Se connecter"
+        },
+        availableLang: {
+            fr: "Langues disponibles"
+        }
+    },
+    register: {
+        chooseBaseLang: {
+            fr: "Veuillez choisir votre langue d'apprentissage"
+        },
+        chooseTargetLang: {
+            fr: "Veuillez choisir votre langue cible (différente de votre langue d'apprentissage)"
+        },
+        inputUsername: {
+            fr: "Nom d'utilisateur et mot de passe"
+        },
+        back: {
+            fr: "Retour"
+        },
+        next: {
+            fr: "Suivant"
+        },
+        createAccount: {
+            fr: "Créer un compte"
+        },
+        username: {
+            fr: "Nom d'utilisateur"
+        },
+        password: {
+            fr: "Mot de passe"
+        },
+        yourLang: {
+            fr: "Votre langue"
+        },
+        targetLang: {
+            fr: "Langue à apprendre"
+        },
+        failed: {
+            fr: "Quelque chose s'est mal passé ! Essayez un autre nom d'utilisateur !"
+        },
+        mainLabelStep1: {
+            fr: "Choisissez votre langue d'apprentissage"
+        },
+        mainLabelStep2: {
+            fr: "Quelle langue voulez-vous apprendre ?"
+        },
+        mainLabelStep3: {
+            fr: "Créez un compte"
+        },
+        hintLabelStep1: {
+            fr: "Les indices et l'interface seront affichés dans cette langue"
+        },
+        hintLabelStep2: {
+            fr: "Choisissez la langue que vous souhaitez apprendre"
+        },
+        hintLabelStep3: {
+            fr: "Créez un pseudo et un mot de passe pour vous connecter"
         }
     }
 }

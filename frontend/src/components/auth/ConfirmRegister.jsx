@@ -2,9 +2,8 @@ import {useRedirect} from "../../hooks/useRedirect.js";
 import {innerRoutes} from "../../plugins/routes.js";
 import {getText, lang} from "../../lang/lang.js";
 export default function ConfirmRegister() {
-    const {redirect} = useRedirect()
     function handleLogin() {
-        redirect(innerRoutes.login)
+        window.location.href = innerRoutes.news;
     }
     return (
         <main className="flex flex-1 bg-white items-center justify-center p-4">

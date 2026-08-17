@@ -138,7 +138,7 @@ export const cn = {
             cn: "用户名和/或密码无效"
         },
         email: {
-            cn: "电子邮箱"
+            cn: "用户名"
         },
         password: {
             cn: "密码"
@@ -151,35 +151,6 @@ export const cn = {
         },
         signUp: {
             cn: "注册"
-        }
-    },
-    register: {
-        registerLabel: {
-            cn: "注册"
-        },
-        email: {
-            cn: "电子邮箱"
-        },
-        username: {
-            cn: "用户名"
-        },
-        password: {
-            cn: "密码"
-        },
-        baseLang: {
-            cn: "您的语言"
-        },
-        targetLang: {
-            cn: "目标语言"
-        },
-        createAccount: {
-            cn: "创建账户"
-        },
-        success: {
-            cn: "账户创建成功！"
-        },
-        failed: {
-            cn: "账户创建失败！"
         }
     },
     dictionary: {
@@ -211,7 +182,7 @@ export const cn = {
             cn: "按单词搜索（使用基础语言）"
         }
     },
-    home: {
+    news: {
         news: {
             cn: "新闻"
         },
@@ -390,6 +361,73 @@ export const cn = {
         },
         voters: {
             cn: "投票者"
+        }
+    },
+    home: {
+        mainLabel: {
+            cn: "LingCard 是一个通过互动卡片帮助世界各地的人们学习语言的项目。\n我们的使命是让语言学习对每个人都变得可及、有趣且高效。\n培训中使用了间隔重复法。"
+        },
+        startTraining: {
+            cn: "开始训练"
+        },
+        login: {
+            cn: "登录"
+        },
+        availableLang: {
+            cn: "可用语言"
+        }
+    },
+    register: {
+        chooseBaseLang: {
+            cn: "请选择您的学习语言"
+        },
+        chooseTargetLang: {
+            cn: "请选择您的目标语言（不同于学习语言）"
+        },
+        inputUsername: {
+            cn: "用户名和密码"
+        },
+        back: {
+            cn: "返回"
+        },
+        next: {
+            cn: "下一步"
+        },
+        createAccount: {
+            cn: "创建账户"
+        },
+        username: {
+            cn: "用户名"
+        },
+        password: {
+            cn: "密码"
+        },
+        yourLang: {
+            cn: "您的语言"
+        },
+        targetLang: {
+            cn: "要学习的语言"
+        },
+        failed: {
+            cn: "出错了！请尝试使用其他用户名！"
+        },
+        mainLabelStep1: {
+            cn: "选择您的学习语言"
+        },
+        mainLabelStep2: {
+            cn: "您想学习哪种语言？"
+        },
+        mainLabelStep3: {
+            cn: "创建账户"
+        },
+        hintLabelStep1: {
+            cn: "提示和界面将以此语言显示"
+        },
+        hintLabelStep2: {
+            cn: "选择您想学习的语言"
+        },
+        hintLabelStep3: {
+            cn: "创建昵称和密码以登录"
         }
     }
 }

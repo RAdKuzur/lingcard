@@ -1,183 +1,93 @@
-import {innerRoutes} from "../../plugins/routes.js";
-import {useEffect, useRef, useState} from "react";
-import {get} from "../../plugins/request.js";
+import { useState, useEffect } from 'react';
 import {apiRoutes} from "../../plugins/apiRoutes.js";
-import {getText, lang, languageOptions} from "../../lang/lang.js";
+import {get} from "../../plugins/request.js";
 import {useRedirect} from "../../hooks/useRedirect.js";
-import ArrowDown from "../svg/ArrowDown.jsx";
-import Choose from "../svg/Choose.jsx";
-import Location from "../svg/Location.jsx";
-import View from "../svg/View.jsx";
+import {innerRoutes} from "../../plugins/routes.js";
+import {useAuth} from "../../plugins/AuthContext.jsx";
+import {getText, lang} from "../../lang/lang.js";
 
 export default function Home() {
-    const {redirect} = useRedirect()
-    const [language, setLanguage] = useState('')
-    const [languagePost, setLanguagePost] = useState(localStorage.getItem('lang') ?? 'en')
-    const [posts, setPosts] = useState([])
-    const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false);
-    const languageDropdownRef = useRef(null);
-
+    const [map, setMap] = useState([]);
+    const {redirect} = useRedirect();
+    const auth = useAuth();
     useEffect(() => {
-        const fetchPosts = async () => {
-            try {
-                const lang1 = languagePost;
-                const response = await get(apiRoutes.posts + '/' + lang1, {}, {withCredentials: true});
-                const data = await response.data;
-                setPosts(data);
-                setLanguage(lang1);
-            } catch (error) {
-                console.error('Error fetching posts:', error);
-            }
-        };
-        fetchPosts();
-    }, [languagePost]);
-
-    useEffect(() => {
-        const handleClickOutside = (e) => {
-            if (languageDropdownRef.current && !languageDropdownRef.current.contains(e.target)) {
-                setIsLanguageDropdownOpen(false);
-            }
-        };
-        document.addEventListener('click', handleClickOutside);
-        return () => document.removeEventListener('click', handleClickOutside);
+        async function Languages() {
+            const response = await get(apiRoutes.langMap, {}, { withCredentials: true });
+            const data = await response.data;
+            setMap(data.map);
+        }
+        Languages();
     }, []);
 
-    function goToArticle(id) {
-        redirect(innerRoutes.article + '/' + id);
+    function goLogin() {
+        return redirect(innerRoutes.login)
     }
-
-    const handleLanguageChange = (value) => {
-        setLanguagePost(value);
-        setIsLanguageDropdownOpen(false);
-    };
-
-    function handleCreatePost() {
-        redirect(innerRoutes.article)
+    function goRegister() {
+        return redirect(innerRoutes.register)
     }
-
-    const selectedLanguage = languageOptions.find(l => l.value === languagePost);
-
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
-            <div className="max-w-5xl mx-auto space-y-8">
-                <div>
-                    <div className={"flex justify-between items-center mb-3"}>
-                        <div className="flex items-center gap-3 pl-4">
-                            <h1 className="text-2xl font-bold text-slate-800">{getText(lang.home.news)}</h1>
-                        </div>
-                        <div className={'flex items-center gap-4 justify-between'}>
-                            {/*<div className="flex items-center gap-3">*/}
-                            {/*    <button className={'bg-indigo-500 font-bold p-2 text-white rounded-2xl cursor-pointer'} onClick={handleCreatePost}>{getText(lang.home.createPost)}</button>*/}
-                            {/*</div>*/}
-                            <div className="flex items-center gap-2 sm:gap-4">
-                                <div className="relative" ref={languageDropdownRef}>
-                                    <button
-                                        onClick={() => setIsLanguageDropdownOpen(!isLanguageDropdownOpen)}
-                                        className="flex items-center gap-2 border border-slate-200 rounded-lg
-                                                 pl-2 sm:pl-2 pr-2 sm:pr-2 py-1 sm:py-1.5
-                                                 text-xs sm:text-sm font-medium text-slate-700
-                                                 hover:border-indigo-400 focus:outline-none focus:ring-2
-                                                 focus:ring-indigo-500/20 focus:border-indigo-500
-                                                 transition-all duration-200 cursor-pointer
-                                                 min-w-[60px] sm:min-w-[80px] md:min-w-[120px]
-                                                 bg-transparent bg-white"
-                                    >
-                                        <img
-                                            src={selectedLanguage?.flag}
-                                            alt={selectedLanguage?.name}
-                                            className="w-4 h-4 sm:w-5 sm:h-5 rounded-sm object-cover"
-                                        />
-                                        <span className="hidden md:inline">{selectedLanguage?.name}</span>
-                                        <ArrowDown/>
-                                    </button>
-                                    {isLanguageDropdownOpen && (
-                                        <div className="absolute left-0 mt-1 min-w-[160px] bg-white
-                                                  border border-slate-200 rounded-lg shadow-lg
-                                                  py-1 z-50 animate-fadeIn">
-                                            {languageOptions.map((lang) => (
-                                                <button
-                                                    key={lang.value}
-                                                    onClick={() => handleLanguageChange(lang.value)}
-                                                    className="w-full flex items-center gap-3 px-4 py-2
-                                                         text-sm text-slate-700 hover:bg-indigo-50
-                                                         transition-colors duration-150"
-                                                >
-                                                    <img
-                                                        src={lang.flag}
-                                                        alt={lang.name}
-                                                        className="w-5 h-5 rounded-sm object-cover"
-                                                    />
-                                                    <span>{lang.name}</span>
-                                                    {lang.value === languagePost && (
-                                                       <Choose/>
-                                                    )}
-                                                </button>
-                                            ))}
-                                        </div>
-                                    )}
-                                </div>
-                            </div>
-                        </div>
+            <div className="max-w-6xl mx-auto">
+                <div className="text-center mb-8">
+                    <h1 className="text-4xl sm:text-5xl font-bold text-slate-800 mb-4">
+                        LingCard
+                    </h1>
+                    <p className="text-lg sm:text-xl text-slate-600 max-w-3xl mx-auto mb-6">
+                        {getText(lang.home.mainLabel)}
+                    </p>
+                    {!auth.isAuthenticated() ? (
+                        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+                            <button className="cursor-pointer px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition-all duration-200 shadow-md hover:shadow-lg transform hover:scale-105"
+                                    onClick={goRegister}
+                            >
+                                {getText(lang.home.startTraining)}
+                            </button>
+                            <button className="cursor-pointer px-8 py-3 bg-white hover:bg-slate-50 text-slate-700 font-semibold rounded-lg transition-all duration-200 shadow-md hover:shadow-lg border border-slate-200 transform hover:scale-105"
+                                    onClick={goLogin}
+                            >
+                                {getText(lang.home.login)}
+                            </button>
+                        </div>)
+                        :
+                    <></>}
+                </div>
+                <div className="bg-white rounded-xl shadow-sm overflow-hidden">
+                    <div className="px-4 sm:px-6 py-4 bg-slate-50 border-b border-slate-200">
+                        <h2 className="text-lg font-semibold text-slate-700">
+                            {getText(lang.home.availableLang)}
+                        </h2>
                     </div>
-                    {posts.length > 0 ? (
-                        posts.map((e) => (
-                            <div key={e.id}
-                                 className="cursor-pointer bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"
-                                 onClick={() => goToArticle(e.id)}>
-                                <div className={'flex justify-between items-start'}>
-                                    <div className="flex items-center gap-3 mb-4">
-                                        <h1 className="text-xl font-bold text-slate-800">{e.title}</h1>
-                                    </div>
-                                    <div className="flex items-center gap-2 mb-4">
+                    <div className="divide-y divide-slate-100">
+                        {map.map((language) => (
+                            <div
+                                key={language.code}
+                                className="p-4 sm:p-6 hover:bg-slate-50 transition-colors"
+                            >
+                                <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-4">
+                                    <div className="flex items-center gap-3 sm:w-1/3">
                                         <img
-                                            src={`/flags/${language}.svg`}
-                                            alt={language}
-                                            className="w-6 h-6 rounded-sm object-cover"
-                                            onError={(e) => {
-                                                e.target.style.display = 'none';
-                                            }}
+                                            src={`/flags/${language.code}.svg`}
+                                            alt={language.code}
+                                            className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover border-2 border-slate-200 flex-shrink-0"
                                         />
-                                        <span className="text-sm font-medium text-slate-700">
-                                            {language}
-                                        </span>
-                                        <span className="text-sm text-slate-500 ml-1">
-                                            {e.date}
+                                        <span className="text-sm sm:text-base font-medium text-slate-700">
+                                            {language.label}
                                         </span>
                                     </div>
-                                </div>
-                                <div>
-                                    <p className="text-slate-600 leading-relaxed text-lg">
-                                        {e.content}
-                                    </p>
-                                </div>
-                                <div className="mt-4 pt-4 border-t border-slate-100 flex justify-between items-center">
-                                    <div className="flex items-center gap-2">
-                                        <span className="text-sm text-slate-600 font-medium">
-                                            {e.username}
-                                        </span>
-                                    </div>
-                                    <div className="flex items-center gap-6">
-                                        <div className={"flex gap-4 items-center"}>
-                                            <span className="text-sm text-slate-600 font-medium flex items-center gap-2">
-                                                <View/>
-                                                {e.views_count ?? 0}
-                                            </span>
-                                        </div>
-                                        <div className="flex items-center">
-                                            <Location/>
-                                            <span className="text-sm text-slate-500">
-                                                {e.address}
-                                            </span>
-                                        </div>
+                                    <div className="flex flex-wrap items-center gap-2 sm:gap-3 sm:flex-1">
+                                        {language.available_codes.map((code) => (
+                                            <img
+                                                key={code}
+                                                src={`/flags/${code}.svg`}
+                                                alt={code}
+                                                className="w-8 h-8 sm:w-10 sm:h-10 rounded-full object-cover border-2 border-slate-200 flex-shrink-0 hover:scale-110 transition-transform"
+                                            />
+                                        ))}
                                     </div>
                                 </div>
                             </div>
-                        ))
-                    ) : (
-                        <div className="text-center py-12">
-                            <p className="text-slate-500 text-lg">{getText(lang.home.noNews)}</p>
-                        </div>
-                    )}
+                        ))}
+                    </div>
                 </div>
             </div>
         </main>

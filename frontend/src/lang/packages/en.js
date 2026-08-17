@@ -138,7 +138,7 @@ export const en = {
             en: "Invalid username and/or password"
         },
         email: {
-            en: "Email"
+            en: "Username"
         },
         password: {
             en: "Password"
@@ -151,35 +151,6 @@ export const en = {
         },
         signUp: {
             en: "Sign up"
-        }
-    },
-    register: {
-        registerLabel: {
-            en: "Registration"
-        },
-        email: {
-            en: "Email"
-        },
-        username: {
-            en: "Username"
-        },
-        password: {
-            en: "Password"
-        },
-        baseLang: {
-            en: "Your language"
-        },
-        targetLang: {
-            en: "Target language"
-        },
-        createAccount: {
-            en: "Create account"
-        },
-        success: {
-            en: "Account created successfully!"
-        },
-        failed: {
-            en: "Account creation failed!"
         }
     },
     dictionary: {
@@ -211,7 +182,7 @@ export const en = {
             en: "Search by word (in base language)"
         }
     },
-    home: {
+    news: {
         news: {
             en: "News"
         },
@@ -390,6 +361,73 @@ export const en = {
         },
         voters: {
             en: "voters"
+        }
+    },
+    home: {
+        mainLabel: {
+            en: "LingCard is a project that helps people from all over the world learn languages through interactive flashcards.\nOur mission is to make language learning accessible, engaging, and effective for everyone.\nThe training uses the spaced repetition method."
+        },
+        startTraining: {
+            en: "Start training"
+        },
+        login: {
+            en: "Log in"
+        },
+        availableLang: {
+            en: "Available languages"
+        }
+    },
+    register: {
+        chooseBaseLang: {
+            en: "Please choose your learning language"
+        },
+        chooseTargetLang: {
+            en: "Please choose your target language (different from your learning language)"
+        },
+        inputUsername: {
+            en: "Username and password"
+        },
+        back: {
+            en: "Back"
+        },
+        next: {
+            en: "Next"
+        },
+        createAccount: {
+            en: "Create account"
+        },
+        username: {
+            en: "Username"
+        },
+        password: {
+            en: "Password"
+        },
+        yourLang: {
+            en: "Your language"
+        },
+        targetLang: {
+            en: "Language to learn"
+        },
+        failed: {
+            en: "Something went wrong! Try using a different username!"
+        },
+        mainLabelStep1: {
+            en: "Choose your learning language"
+        },
+        mainLabelStep2: {
+            en: "Which language do you want to learn?"
+        },
+        mainLabelStep3: {
+            en: "Create an account"
+        },
+        hintLabelStep1: {
+            en: "Hints and interface will be displayed in this language"
+        },
+        hintLabelStep2: {
+            en: "Choose the language you want to learn"
+        },
+        hintLabelStep3: {
+            en: "Create a nickname and password to log in"
         }
     }
 }

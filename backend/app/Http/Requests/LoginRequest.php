@@ -24,7 +24,7 @@ class LoginRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'email' => 'required|string|email',
+            'name' => 'required|string',
             'password' => 'required|string'
         ];
     }
@@ -32,7 +32,7 @@ class LoginRequest extends FormRequest
     public function toDTO() : LoginDTO
     {
         return new LoginDTO(
-            email: $this->validated('email'),
+            name: $this->validated('name'),
             password: $this->validated('password')
         );
     }

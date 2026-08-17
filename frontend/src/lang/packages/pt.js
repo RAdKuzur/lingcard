@@ -138,7 +138,7 @@ export const pt = {
             pt: "Nome de usuário e/ou senha inválidos"
         },
         email: {
-            pt: "E-mail"
+            pt: "Nome de usuário"
         },
         password: {
             pt: "Senha"
@@ -151,35 +151,6 @@ export const pt = {
         },
         signUp: {
             pt: "Cadastrar"
-        }
-    },
-    register: {
-        registerLabel: {
-            pt: "Cadastro"
-        },
-        email: {
-            pt: "E-mail"
-        },
-        username: {
-            pt: "Nome de usuário"
-        },
-        password: {
-            pt: "Senha"
-        },
-        baseLang: {
-            pt: "Seu idioma"
-        },
-        targetLang: {
-            pt: "Idioma alvo"
-        },
-        createAccount: {
-            pt: "Criar conta"
-        },
-        success: {
-            pt: "Conta criada com sucesso!"
-        },
-        failed: {
-            pt: "Falha ao criar conta!"
         }
     },
     dictionary: {
@@ -211,7 +182,7 @@ export const pt = {
             pt: "Pesquisar por palavra (no idioma base)"
         }
     },
-    home: {
+    news: {
         news: {
             pt: "Notícias"
         },
@@ -390,6 +361,73 @@ export const pt = {
         },
         voters: {
             pt: "votantes"
+        }
+    },
+    home: {
+        mainLabel: {
+            pt: "LingCard é um projeto que ajuda pessoas de todo o mundo a aprender idiomas por meio de cartões interativos.\nNossa missão é tornar o aprendizado de idiomas acessível, envolvente e eficaz para todos.\nO treinamento utiliza o método de repetição espaçada."
+        },
+        startTraining: {
+            pt: "Iniciar treinamento"
+        },
+        login: {
+            pt: "Entrar"
+        },
+        availableLang: {
+            pt: "Idiomas disponíveis"
+        }
+    },
+    register: {
+        chooseBaseLang: {
+            pt: "Por favor, escolha seu idioma de aprendizagem"
+        },
+        chooseTargetLang: {
+            pt: "Por favor, escolha seu idioma alvo (diferente do idioma de aprendizagem)"
+        },
+        inputUsername: {
+            pt: "Nome de usuário e senha"
+        },
+        back: {
+            pt: "Voltar"
+        },
+        next: {
+            pt: "Próximo"
+        },
+        createAccount: {
+            pt: "Criar conta"
+        },
+        username: {
+            pt: "Nome de usuário"
+        },
+        password: {
+            pt: "Senha"
+        },
+        yourLang: {
+            pt: "Seu idioma"
+        },
+        targetLang: {
+            pt: "Idioma para aprender"
+        },
+        failed: {
+            pt: "Algo deu errado! Tente usar outro nome de usuário!"
+        },
+        mainLabelStep1: {
+            pt: "Escolha seu idioma de aprendizagem"
+        },
+        mainLabelStep2: {
+            pt: "Qual idioma você quer aprender?"
+        },
+        mainLabelStep3: {
+            pt: "Crie uma conta"
+        },
+        hintLabelStep1: {
+            pt: "As dicas e a interface serão exibidas neste idioma"
+        },
+        hintLabelStep2: {
+            pt: "Escolha o idioma que você quer aprender"
+        },
+        hintLabelStep3: {
+            pt: "Crie um apelido e senha para fazer login"
         }
     }
 }

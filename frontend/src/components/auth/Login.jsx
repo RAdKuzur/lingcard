@@ -11,13 +11,13 @@ export default function Login() {
     const auth = useAuth()
     const navigate = useNavigate();
     const [isHover, setHover] = useState(false);
-    const [email, setEmail] = useState('');
+    const [name, setName] = useState('');
     const [password, setPassword] = useState('');
     const [error, setError] = useState('');
 
     async function signIn() {
         setError('');
-        const result = await loginAxios(email, password, auth, redirect);
+        const result = await loginAxios(name, password, auth, redirect);
         if (!result.success) {
             setError(getText(lang.login.invalidCredentials));
         }
@@ -38,8 +38,8 @@ export default function Login() {
                         <div className="text-sm font-medium text-slate-600 mb-1.5 text-left">{getText(lang.login.email)}</div>
                         <input
                             className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
-                            onInput={(e) => setEmail(e.target.value)}
-                            value={email}
+                            onInput={(e) => setName(e.target.value)}
+                            value={name}
                         />
                     </div>
                     <div>

@@ -1,7 +1,7 @@
 import {useState} from "react";
 import {useRedirect} from "../../hooks/useRedirect.js";
 
-export default function PanelHome({title, link}) {
+export default function PanelNews({title, link}) {
     const [isHover, setHover] = useState(false)
     const {redirectIfAuth} = useRedirect()
 

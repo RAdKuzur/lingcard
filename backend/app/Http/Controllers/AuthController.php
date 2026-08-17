@@ -47,12 +47,22 @@ class AuthController extends Controller
     public function register(RegisterRequest $request)
     {
         $dto = $request->toDTO();
-        $status = $this->authService->register($dto);
+        $tokens = $this->authService->register($dto);
         return response()->json([
             'data' => [
-                'status' => $status
+                'status' => $tokens['status'],
             ]
-        ]);
+        ])
+            ->cookie(
+                'access_token',
+                $tokens['access_token'],
+                (int)env("ACCESS_TOKEN_TIME_EXPIRE"),
+            )
+            ->cookie(
+                'refresh_token',
+                $tokens['refresh_token'],
+                (int)env("REFRESH_TOKEN_TIME_EXPIRE"),
+            );;
     }
 
     public function logout(Request $request) {

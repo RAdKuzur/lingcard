@@ -4,7 +4,7 @@ import Navbar from "./components/layouts/Navbar.jsx";
 import Footer from "./components/layouts/Footer.jsx";
 import Login from "./components/auth/Login.jsx";
 import {Route, Routes, Navigate} from "react-router-dom";
-import Home from "./components/home/Home.jsx";
+import News from "./components/home/News.jsx";
 import {innerRoutes} from "./plugins/routes.js";
 import Training from "./components/training/Training.jsx";
 import Dictionary from "./components/dictionary/Dictionary.jsx";
@@ -21,6 +21,7 @@ import Vote from "./components/vote/Vote.jsx";
 import VotePage from "./components/vote/VotePage.jsx";
 import CreateArticle from "./components/article/CreateArticle.jsx";
 import Support from "./components/support/Support.jsx";
+import Home from "./components/home/Home.jsx";
 function App() {
     const auth = useAuth()
     const username = auth.user?.username;
@@ -43,6 +44,9 @@ function App() {
         <div className="flex flex-col min-h-screen">
             <Navbar/>
             <Routes>
+                <Route path={innerRoutes.home} element={
+                    <Home/>
+                }/>
                 <Route path={innerRoutes.register} element={
                     <UnprotectedRoute>
                         <Register/>
@@ -54,8 +58,8 @@ function App() {
                     </UnprotectedRoute>
                 }/>
                 <Route path={innerRoutes.all} element={<Navigate to={innerRoutes.home} replace />} />
-                <Route path={innerRoutes.home} element={
-                    <Home/>
+                <Route path={innerRoutes.news} element={
+                    <News/>
                 }/>
                 <Route path={innerRoutes.articlePath} element={
                     <ProtectedRoute>

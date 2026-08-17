@@ -18,7 +18,7 @@ const ProtectedRoute = ({ children, requiredRole = null }) => {
     const isAuth = auth.isAuthenticated();
     if (!isAuth) {
         auth.logout();
-        return <Navigate to={innerRoutes.login} replace />;
+        return <Navigate to={innerRoutes.home} replace />;
     }
     return children;
 };

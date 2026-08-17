@@ -138,7 +138,7 @@ export const jp = {
             jp: "ユーザー名またはパスワードが無効です"
         },
         email: {
-            jp: "メールアドレス"
+            jp: "ユーザー名"
         },
         password: {
             jp: "パスワード"
@@ -151,35 +151,6 @@ export const jp = {
         },
         signUp: {
             jp: "登録"
-        }
-    },
-    register: {
-        registerLabel: {
-            jp: "登録"
-        },
-        email: {
-            jp: "メールアドレス"
-        },
-        username: {
-            jp: "ユーザー名"
-        },
-        password: {
-            jp: "パスワード"
-        },
-        baseLang: {
-            jp: "あなたの言語"
-        },
-        targetLang: {
-            jp: "目標言語"
-        },
-        createAccount: {
-            jp: "アカウントを作成"
-        },
-        success: {
-            jp: "アカウントが正常に作成されました！"
-        },
-        failed: {
-            jp: "アカウントの作成に失敗しました！"
         }
     },
     dictionary: {
@@ -211,7 +182,7 @@ export const jp = {
             jp: "単語を検索（ベース言語で）"
         }
     },
-    home: {
+    news: {
         news: {
             jp: "ニュース"
         },
@@ -390,6 +361,73 @@ export const jp = {
         },
         voters: {
             jp: "投票者"
+        }
+    },
+    home: {
+        mainLabel: {
+            jp: "LingCardは、インタラクティブなフラッシュカードを使って世界中の人々が言語を学べるようにするプロジェクトです。\n私たちの使命は、言語学習を誰にとってもアクセスしやすく、魅力的で、効果的なものにすることです。\n学習では間隔反復法が使用されています。"
+        },
+        startTraining: {
+            jp: "トレーニングを開始"
+        },
+        login: {
+            jp: "ログイン"
+        },
+        availableLang: {
+            jp: "利用可能な言語"
+        }
+    },
+    register: {
+        chooseBaseLang: {
+            jp: "学習言語を選択してください"
+        },
+        chooseTargetLang: {
+            jp: "目標言語を選択してください（学習言語とは異なるもの）"
+        },
+        inputUsername: {
+            jp: "ユーザー名とパスワード"
+        },
+        back: {
+            jp: "戻る"
+        },
+        next: {
+            jp: "次へ"
+        },
+        createAccount: {
+            jp: "アカウントを作成"
+        },
+        username: {
+            jp: "ユーザー名"
+        },
+        password: {
+            jp: "パスワード"
+        },
+        yourLang: {
+            jp: "あなたの言語"
+        },
+        targetLang: {
+            jp: "学びたい言語"
+        },
+        failed: {
+            jp: "問題が発生しました！別のユーザー名をお試しください！"
+        },
+        mainLabelStep1: {
+            jp: "学習言語を選択してください"
+        },
+        mainLabelStep2: {
+            jp: "どの言語を学びたいですか？"
+        },
+        mainLabelStep3: {
+            jp: "アカウントを作成してください"
+        },
+        hintLabelStep1: {
+            jp: "ヒントとインターフェースはこの言語で表示されます"
+        },
+        hintLabelStep2: {
+            jp: "学びたい言語を選択してください"
+        },
+        hintLabelStep3: {
+            jp: "ログイン用のニックネームとパスワードを作成してください"
         }
     }
 }

@@ -18,7 +18,7 @@ export default function Navbar() {
 
     const menuOptions = {
         news: {
-            link: innerRoutes.home,
+            link: innerRoutes.news,
             label: getText(lang.navbar.options.news)
         },
         training: {

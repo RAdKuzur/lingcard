@@ -4,12 +4,12 @@ import { apiRoutes } from "./apiRoutes.js";
 import { post } from "./request.js";
 import {innerRoutes} from "./routes.js";
 
-export async function loginAxios(email, password, authContext, redirect) {
+export async function loginAxios(name, password, authContext, redirect) {
     try {
         const response = await axios.post(
             apiRoutes.login,
             {
-                email: email,
+                name: name,
                 password: password
             },
             {

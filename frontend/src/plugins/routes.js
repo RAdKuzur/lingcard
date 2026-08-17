@@ -1,6 +1,7 @@
 export const innerRoutes = {
     all: '/*',
     login: '/login',
+    news: '/news',
     home: '/home',
     training: '/training',
     dictionary: '/dictionary',
