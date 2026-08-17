@@ -9,11 +9,9 @@ export default function ConfirmRegister() {
         <main className="flex flex-1 bg-white items-center justify-center p-4">
             <div className="flex flex-col w-96 min-h-96 bg-white/90 backdrop-blur-sm rounded-3xl shadow-xl text-center justify-center items-center gap-8 p-10 border border-white/60 transition-all">
                 <div
-                    className="w-20 h-20 bg-gradient-to-br from-emerald-500 to-teal-600 rounded-2xl flex items-center justify-center shadow-lg shadow-emerald-500/30 cursor-default"
+                    className="w-30 h-30 rounded-2xl flex items-center justify-center cursor-default"
                 >
-                    <span className="text-white font-black text-4xl tracking-tight">
-                        L
-                    </span>
+                    <img className={'w-full h-full'} src={'/icons/Logo.svg'} alt={'LingCard'}/>
                 </div>
 
                 <h2 className="text-2xl font-bold text-gray-800">{getText(lang.confirmRegister.welcome)}</h2>
