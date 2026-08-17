@@ -1,10 +1,4 @@
-import {innerRoutes} from "../../plugins/routes.js";
-import ButtonBack from "../layouts/ButtonBack.jsx";
-import {useState} from "react";
-import {get} from "../../plugins/request.js";
-import {apiRoutes} from "../../plugins/apiRoutes.js";
 import {getText, lang} from "../../lang/lang.js";
-import {useRedirect} from "../../hooks/useRedirect.js";
 import ButtonLink from "../layouts/ButtonLink.jsx";
 import {donations} from "../../plugins/donation.js";
 
@@ -32,8 +26,9 @@ export default function Support() {
                             {getText(lang.support.heroes)}
                         </h1>
                     </div>
-                    <p className="text-slate-600 leading-relaxed text-lg text-center mt-12 mb-12">
-                        {getText(lang.support.beFirst)} <br/>
+                    <p className="text-slate-600 leading-relaxed text-lg mt-12 mb-12">
+                        <span className="block">1. RKuzur - LingCard's creator</span>
+                        <span className="block">2. Rin - UI/UX, designer</span>
                     </p>
                 </div>
             </div>
