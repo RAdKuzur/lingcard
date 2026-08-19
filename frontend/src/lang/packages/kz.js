@@ -108,6 +108,9 @@ export const kz = {
             },
             support: {
                 kz: 'Бізді қолдаңыз!'
+            },
+            profile: {
+                kz: "Профиль"
             }
         }
     },

@@ -109,6 +109,9 @@ export const en = {
             support: {
                 en: 'Support Us!'
             },
+            profile: {
+                en: "Profile"
+            }
         }
     },
     profileBar: {

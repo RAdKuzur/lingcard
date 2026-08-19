@@ -109,6 +109,9 @@ export const cn = {
             support: {
                 cn: '支持我们！'
             },
+            profile: {
+                cn: "个人资料"
+            },
         }
     },
     profileBar: {

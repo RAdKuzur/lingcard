@@ -109,6 +109,9 @@ export const jp = {
             support: {
                 jp: 'サポートする！'
             },
+            profile: {
+                jp: "プロフィール"
+            }
         }
     },
     profileBar: {

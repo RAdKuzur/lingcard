@@ -108,6 +108,9 @@ export const ru = {
             },
             support: {
                 ru: "Поддержите нас!"
+            },
+            profile: {
+                ru: "Профиль"
             }
         }
     },

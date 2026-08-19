@@ -11,7 +11,7 @@ import Choose from "../svg/Choose.jsx";
 
 export default function Navbar() {
     const auth = useAuth();
-    const [currentLang, setCurrentLang] = useState('ru');
+    const [currentLang, setCurrentLang] = useState('en');
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
     const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false);
     const languageDropdownRef = useRef(null);
@@ -47,7 +47,7 @@ export default function Navbar() {
         },
         profile: {
             link: innerRoutes.profile,
-            label: auth.user?.username
+            label: getText(lang.navbar.options.profile)
         }
     }
 
@@ -168,7 +168,7 @@ export default function Navbar() {
                                     </div>
                                 )}
                             </div>
-                            {!auth.isAuthenticated() ? <ProfileBar/> : <></>}
+                            {(!auth.isAuthenticated() && !auth.isLoading) ? <ProfileBar/> : <></>}
                             {auth.isAuthenticated() ? (
                                 <button
                                     onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}

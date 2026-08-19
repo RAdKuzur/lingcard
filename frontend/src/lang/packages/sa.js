@@ -109,6 +109,9 @@ export const sa = {
             support: {
                 sa: 'ادعمنا!'
             },
+            profile: {
+                sa: "الملف الشخصي"
+            }
         }
     },
     profileBar: {

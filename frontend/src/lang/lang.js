@@ -13,9 +13,9 @@ import {kr} from "./packages/kr.js";
 export function getText(label) {
     const lang = localStorage.getItem('lang');
     if (lang) {
-        return label[lang]
+        return label[lang] ?? "-"
     }
-    return label.en
+    return label.en ?? "-"
 }
 
 export function init() {
@@ -55,7 +55,6 @@ export const languageOptions = [
     { name: 'Русский', flag: '/flags/ru.svg', value: 'ru' },
     { name: 'English', flag: '/flags/en.svg', value: 'en' },
     { name: 'Français', flag: '/flags/fr.svg', value: 'fr' },
-
     { name: 'Español', flag: '/flags/es.svg', value: 'es' },
     { name: 'Deutsch', flag: '/flags/de.svg', value: 'de' },
     { name: 'العربية', flag: '/flags/sa.svg', value: 'sa' },

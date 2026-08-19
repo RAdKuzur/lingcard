@@ -109,6 +109,9 @@ export const kr = {
             support: {
                 kr: '후원하기!'
             },
+            profile: {
+                kr: "프로필"
+            }
         }
     },
     profileBar: {

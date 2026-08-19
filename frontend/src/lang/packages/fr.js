@@ -109,6 +109,9 @@ export const fr = {
             },
             "support": {
                 "fr": "Soutenez-nous !"
+            },
+            "profile": {
+                "fr": "Profil"
             }
         }
     },
