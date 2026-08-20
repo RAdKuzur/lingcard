@@ -1,436 +1,184 @@
 export const sa = {
     footer: {
-        about: {
-            sa: 'معلومات عنا'
-        },
-        support: {
-            sa: 'ادعمنا!'
-        }
+        about: "معلومات عنا",
+        support: "ادعمنا!"
     },
     support: {
-        label: {
-            sa: 'ادعمنا!'
-        },
-        content: {
-            sa: 'شكراً لاستخدامك مشروعنا، نحن موجودون فقط بفضلك! ادعمنا لمساعدة مشروعنا على النمو:'
-        },
-        heroes: {
-            sa: 'أبطالنا'
-        },
-        beFirst: {
-            sa: 'كن بطلنا الأول'
-        }
+        label: "ادعمنا!",
+        content: "شكراً لاستخدامك مشروعنا، نحن موجودون فقط بفضلك! ادعمنا لمساعدة مشروعنا على النمو:",
+        heroes: "أبطالنا",
+        beFirst: "كن بطلنا الأول"
     },
     createArticle: {
-        create: {
-            sa: 'نشر خبر'
-        },
-        title: {
-            sa: 'عنوان الخبر'
-        },
-        content: {
-            sa: 'محتوى المنشور'
-        },
-        address: {
-            sa: 'العنوان / الموقع'
-        },
-        language: {
-            sa: 'لغة المنشور'
-        },
-        button: {
-            sa: 'نشر'
-        },
-        article: {
-            sa: 'تم إرسال منشورك للمراجعة من قبل مسؤول LingCard! بمجرد اجتيازه للتدقيق، سيظهر المنشور على الصفحة الرئيسية.'
-        }
+        create: "نشر خبر",
+        title: "عنوان الخبر",
+        content: "محتوى المنشور",
+        address: "العنوان / الموقع",
+        language: "لغة المنشور",
+        button: "نشر",
+        article: "تم إرسال منشورك للمراجعة من قبل مسؤول LingCard! بمجرد اجتيازه للتدقيق، سيظهر المنشور على الصفحة الرئيسية."
     },
     article: {
-        comments: {
-            sa: "التعليقات"
-        },
-        noComments: {
-            sa: "لا توجد تعليقات"
-        },
-        send: {
-            sa: "إرسال"
-        }
+        comments: "التعليقات",
+        noComments: "لا توجد تعليقات",
+        send: "إرسال"
     },
     about: {
-        me: {
-            sa: "معلومات عنا"
-        },
-        mission: {
-            sa: "LingCard هو مشروع يساعد الناس حول العالم على تعلم اللغات باستخدام بطاقات تعليمية تفاعلية. مهمتنا هي جعل تعلم اللغات متاحاً وجذاباً وفعالاً للجميع. تستخدم عملية التعلم طريقة التكرار المتباعد."
-        },
-        contacts: {
-            sa: "جهات الاتصال"
-        },
-        languages: {
-            sa: "اللغات المتاحة"
-        },
-        feedback: {
-            sa: "اتصل بنا"
-        },
-        sendFeedback: {
-            sa: "إرسال"
-        },
-        hide: {
-            sa: "إخفاء"
-        },
-        success: {
-            sa: "تم تقديم اقتراحك بنجاح!"
-        }
+        me: "معلومات عنا",
+        mission: "LingCard هو مشروع يساعد الناس حول العالم على تعلم اللغات باستخدام بطاقات تعليمية تفاعلية. مهمتنا هي جعل تعلم اللغات متاحاً وجذاباً وفعالاً للجميع. تستخدم عملية التعلم طريقة التكرار المتباعد.",
+        contacts: "جهات الاتصال",
+        languages: "اللغات المتاحة",
+        feedback: "اتصل بنا",
+        sendFeedback: "إرسال",
+        hide: "إخفاء",
+        success: "تم تقديم اقتراحك بنجاح!"
     },
     back: {
-        button: {
-            sa: "رجوع"
-        }
+        button: "رجوع"
     },
     navbar: {
         options: {
-            news: {
-                sa: "الأخبار"
-            },
-            training: {
-                sa: "التدريب"
-            },
-            progress: {
-                sa: "التقدم"
-            },
-            dictionary: {
-                sa: "القاموس"
-            },
-            votes: {
-                sa: "أضف لغتك!"
-            },
-            about: {
-                sa: "معلومات عنا"
-            },
-            support: {
-                sa: 'ادعمنا!'
-            },
-            profile: {
-                sa: "الملف الشخصي"
-            }
+            news: "الأخبار",
+            training: "التدريب",
+            progress: "التقدم",
+            dictionary: "القاموس",
+            votes: "أضف لغتك!",
+            about: "معلومات عنا",
+            support: "ادعمنا!",
+            profile: "الملف الشخصي"
         }
     },
     profileBar: {
-        signIn: {
-            sa: "تسجيل الدخول"
-        },
-        guest: {
-            sa: "زائر"
-        }
+        signIn: "تسجيل الدخول",
+        guest: "زائر"
     },
     confirmRegister: {
-        welcome: {
-            sa: "مرحباً بك في LingCard!"
-        },
-        successfulCreated: {
-            sa: "تم إنشاء حسابك بنجاح!"
-        },
-        startTraining: {
-            sa: "ابدأ التدريب"
-        }
+        welcome: "مرحباً بك في LingCard!",
+        successfulCreated: "تم إنشاء حسابك بنجاح!",
+        startTraining: "ابدأ التدريب"
     },
     login: {
-        mainLabel: {
-            sa: "تسجيل الدخول"
-        },
-        invalidCredentials: {
-            sa: "اسم المستخدم و/أو كلمة المرور غير صحيحة"
-        },
-        email: {
-            sa: "اسم المستخدم"
-        },
-        password: {
-            sa: "كلمة المرور"
-        },
-        signIn: {
-            sa: "تسجيل الدخول"
-        },
-        noAccount: {
-            sa: "ليس لديك حساب؟"
-        },
-        signUp: {
-            sa: "إنشاء حساب"
-        }
+        mainLabel: "تسجيل الدخول",
+        invalidCredentials: "اسم المستخدم و/أو كلمة المرور غير صحيحة",
+        email: "اسم المستخدم",
+        password: "كلمة المرور",
+        signIn: "تسجيل الدخول",
+        noAccount: "ليس لديك حساب؟",
+        signUp: "إنشاء حساب"
     },
     dictionary: {
-        dictionary: {
-            sa: "القاموس"
-        },
-        lang1: {
-            sa: "اللغة 1"
-        },
-        lang2: {
-            sa: "اللغة 2"
-        },
-        show: {
-            sa: "عرض"
-        },
-        chooseLabel: {
-            sa: "اختر اللغات وانقر على \"عرض\""
-        },
-        prev: {
-            sa: "السابق"
-        },
-        next: {
-            sa: "التالي"
-        },
-        words: {
-            sa: "الكلمات"
-        },
-        searchPlaceholder: {
-            sa: "البحث عن كلمة (باللغة الأساسية)"
-        }
+        dictionary: "القاموس",
+        lang1: "اللغة 1",
+        lang2: "اللغة 2",
+        show: "عرض",
+        chooseLabel: "اختر اللغات وانقر على \"عرض\"",
+        prev: "السابق",
+        next: "التالي",
+        words: "الكلمات",
+        searchPlaceholder: "البحث عن كلمة (باللغة الأساسية)"
     },
     news: {
-        news: {
-            sa: "الأخبار"
-        },
-        noNews: {
-            sa: 'لا توجد أخبار متاحة'
-        },
-        createPost: {
-            sa: 'نشر خبر'
-        }
+        news: "الأخبار",
+        noNews: "لا توجد أخبار متاحة",
+        createPost: "نشر خبر"
     },
     selectedLanguage: {
-        loading: {
-            sa: "جاري التحميل..."
-        },
-        errorLoading: {
-            sa: "خطأ في التحميل"
-        },
-        chooseLanguage: {
-            sa: "اختر اللغة..."
-        }
+        loading: "جاري التحميل...",
+        errorLoading: "خطأ في التحميل",
+        chooseLanguage: "اختر اللغة..."
     },
     protectedRoute: {
-        loading: {
-            sa: "جاري التحميل..."
-        }
+        loading: "جاري التحميل..."
     },
     unprotectedRoute: {
-        loading: {
-            sa: "جاري التحميل..."
-        }
+        loading: "جاري التحميل..."
     },
     word: {
-        clearProgress: {
-            sa: "مسح التقدم"
-        }
+        clearProgress: "مسح التقدم"
     },
     profile: {
         error: {
-            sameLanguages: {
-                sa: "لا يمكن أن تكون لغتك واللغة المستهدفة متماثلتين"
-            },
-            bothLanguages: {
-                sa: "يرجى اختيار كلتا اللغتين"
-            },
-            notChanged: {
-                sa: "لم يتم تغيير اللغات"
-            },
-            failedUpdate: {
-                sa: "فشل تحديث الإعدادات"
-            }
+            sameLanguages: "لا يمكن أن تكون لغتك واللغة المستهدفة متماثلتين",
+            bothLanguages: "يرجى اختيار كلتا اللغتين",
+            notChanged: "لم يتم تغيير اللغات",
+            failedUpdate: "فشل تحديث الإعدادات"
         },
         success: {
-            successChanged: {
-                sa: "تم تحديث الإعدادات بنجاح!"
-            }
+            successChanged: "تم تحديث الإعدادات بنجاح!"
         },
-        profileLabel: {
-            sa: "الملف الشخصي"
-        },
-        baseLang: {
-            sa: "لغتك"
-        },
-        targetLang: {
-            sa: "اللغة المستهدفة"
-        },
-        noChanged: {
-            sa: "لا توجد تغييرات"
-        },
-        buttonChange: {
-            sa: "تغيير"
-        },
-        stats: {
-            sa: "الإحصائيات"
-        },
-        alreadyLearned: {
-            sa: "الكلمات المتعلمة"
-        },
-        learning: {
-            sa: "الكلمات قيد التعلم"
-        },
-        noLearning: {
-            sa: "لم تتعلم بعد"
-        },
-        signOut: {
-            sa: "تسجيل الخروج"
-        },
-        clearProgress: {
-            sa: "مسح التقدم"
-        }
+        profileLabel: "الملف الشخصي",
+        baseLang: "لغتك",
+        targetLang: "اللغة المستهدفة",
+        noChanged: "لا توجد تغييرات",
+        buttonChange: "تغيير",
+        stats: "الإحصائيات",
+        alreadyLearned: "الكلمات المتعلمة",
+        learning: "الكلمات قيد التعلم",
+        noLearning: "لم تتعلم بعد",
+        signOut: "تسجيل الخروج",
+        clearProgress: "مسح التقدم"
     },
     progress: {
-        newWords: {
-            sa: "كلمات جديدة"
-        },
-        learningWords: {
-            sa: "كلمات قيد التعلم"
-        },
-        learnedWords: {
-            sa: "كلمات متعلمة"
-        },
-        progressLabel: {
-            sa: "التقدم"
-        },
-        chooseLabel: {
-            sa: "اختر اللغات وانقر على \"عرض\""
-        },
-        noWords: {
-            sa: "لا توجد كلمات"
-        },
-        words: {
-            sa: "الكلمات"
-        },
-        prev: {
-            sa: "السابق"
-        },
-        next: {
-            sa: "التالي"
-        }
+        newWords: "كلمات جديدة",
+        learningWords: "كلمات قيد التعلم",
+        learnedWords: "كلمات متعلمة",
+        progressLabel: "التقدم",
+        chooseLabel: "اختر اللغات وانقر على \"عرض\"",
+        noWords: "لا توجد كلمات",
+        words: "الكلمات",
+        prev: "السابق",
+        next: "التالي"
     },
     endTraining: {
-        congratulations: {
-            sa: "مبروك!"
-        },
-        message: {
-            sa: "لقد أكملت التدريب!"
-        },
-        continue: {
-            sa: "التالي"
-        }
+        congratulations: "مبروك!",
+        message: "لقد أكملت التدريب!",
+        continue: "التالي"
     },
     waitingTraining: {
-        alreadyWords: {
-            sa: "لقد تعلمت جميع الكلمات في الوقت الحالي."
-        },
-        newWords: {
-            sa: "ستظهر كلمات جديدة بعد بعض الوقت."
-        },
-        continue: {
-            sa: "التالي"
-        }
+        alreadyWords: "لقد تعلمت جميع الكلمات في الوقت الحالي.",
+        newWords: "ستظهر كلمات جديدة بعد بعض الوقت.",
+        continue: "التالي"
     },
     initWindows: {
-        start: {
-            sa: "ابدأ التعلم"
-        }
+        start: "ابدأ التعلم"
     },
     training: {
-        problem: {
-            sa: "إذا كنت لا توافق على الترجمة/التفسير للكلمة، اكتب لنا!"
-        },
-        loading: {
-            sa: "جاري التحميل..."
-        },
-        unknown: {
-            sa: "لا أعرف"
-        },
-        show: {
-            sa: "عرض"
-        },
-        known: {
-            sa: "أعرف"
-        },
-        newWord: {
-            sa: "كلمة جديدة"
-        },
-        amountRepeat: {
-            sa: "التكرارات: "
-        },
-        hide: {
-            sa: "إخفاء"
-        }
+        problem: "إذا كنت لا توافق على الترجمة/التفسير للكلمة، اكتب لنا!",
+        loading: "جاري التحميل...",
+        unknown: "لا أعرف",
+        show: "عرض",
+        known: "أعرف",
+        newWord: "كلمة جديدة",
+        amountRepeat: "التكرارات: ",
+        hide: "إخفاء"
     },
     votes: {
-        mainLabel: {
-            sa: "التصويت"
-        },
-        voters: {
-            sa: "المصوتون"
-        }
+        mainLabel: "التصويت",
+        voters: "المصوتون"
     },
     home: {
-        mainLabel: {
-            sa: "LingCard هو مشروع يساعد الناس من جميع أنحاء العالم على تعلم اللغات من خلال بطاقات تفاعلية.\nمهمتنا هي جعل تعلم اللغات في متناول الجميع، وممتعًا، وفعالًا للجميع.\nفي إطار التدريب، يتم استخدام طريقة التكرار المتباعد."
-        },
-        startTraining: {
-            sa: "ابدأ التدريب"
-        },
-        login: {
-            sa: "تسجيل الدخول"
-        },
-        availableLang: {
-            sa: "اللغات المتاحة"
-        }
+        mainLabel: "LingCard هو مشروع يساعد الناس من جميع أنحاء العالم على تعلم اللغات من خلال بطاقات تفاعلية.\nمهمتنا هي جعل تعلم اللغات في متناول الجميع، وممتعًا، وفعالًا للجميع.\nفي إطار التدريب، يتم استخدام طريقة التكرار المتباعد.",
+        startTraining: "ابدأ التدريب",
+        login: "تسجيل الدخول",
+        availableLang: "اللغات المتاحة"
     },
     register: {
-        chooseBaseLang: {
-            sa: "يرجى اختيار لغة التعلم"
-        },
-        chooseTargetLang: {
-            sa: "يرجى اختيار اللغة الهدف (مختلفة عن لغة التعلم)"
-        },
-        inputUsername: {
-            sa: "اسم المستخدم وكلمة المرور"
-        },
-        back: {
-            sa: "رجوع"
-        },
-        next: {
-            sa: "التالي"
-        },
-        createAccount: {
-            sa: "إنشاء حساب"
-        },
-        username: {
-            sa: "اسم المستخدم"
-        },
-        password: {
-            sa: "كلمة المرور"
-        },
-        yourLang: {
-            sa: "لغتك"
-        },
-        targetLang: {
-            sa: "اللغة المراد تعلمها"
-        },
-        failed: {
-            sa: "حدث خطأ ما! حاول استخدام اسم مستخدم آخر!"
-        },
-        mainLabelStep1: {
-            sa: "اختر لغة التعلم"
-        },
-        mainLabelStep2: {
-            sa: "ما هي اللغة التي تريد تعلمها؟"
-        },
-        mainLabelStep3: {
-            sa: "أنشئ حسابًا"
-        },
-        hintLabelStep1: {
-            sa: "سيتم عرض التلميحات والواجهة بهذه اللغة"
-        },
-        hintLabelStep2: {
-            sa: "اختر اللغة التي تريد تعلمها"
-        },
-        hintLabelStep3: {
-            sa: "ابتكر اسم مستخدم وكلمة مرور لتسجيل الدخول"
-        }
+        chooseBaseLang: "يرجى اختيار لغة التعلم",
+        chooseTargetLang: "يرجى اختيار اللغة الهدف (مختلفة عن لغة التعلم)",
+        inputUsername: "اسم المستخدم وكلمة المرور",
+        back: "رجوع",
+        next: "التالي",
+        createAccount: "إنشاء حساب",
+        username: "اسم المستخدم",
+        password: "كلمة المرور",
+        yourLang: "لغتك",
+        targetLang: "اللغة المراد تعلمها",
+        failed: "حدث خطأ ما! حاول استخدام اسم مستخدم آخر!",
+        mainLabelStep1: "اختر لغة التعلم",
+        mainLabelStep2: "ما هي اللغة التي تريد تعلمها؟",
+        mainLabelStep3: "أنشئ حسابًا",
+        hintLabelStep1: "سيتم عرض التلميحات والواجهة بهذه اللغة",
+        hintLabelStep2: "اختر اللغة التي تريد تعلمها",
+        hintLabelStep3: "ابتكر اسم مستخدم وكلمة مرور لتسجيل الدخول"
     }
 }

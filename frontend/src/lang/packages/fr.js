@@ -1,437 +1,184 @@
-
 export const fr = {
-    "footer": {
-        "about": {
-            "fr": "À propos de nous"
-        },
-        "support": {
-            "fr": "Soutenez-nous !"
+    footer: {
+        about: "À propos de nous",
+        support: "Soutenez-nous !"
+    },
+    support: {
+        label: "Soutenez-nous !",
+        content: "Merci d'utiliser notre projet, nous n'existons que grâce à vous ! Soutenez-nous pour aider notre projet à grandir :",
+        heroes: "Nos héros",
+        beFirst: "Devenez notre premier héros"
+    },
+    createArticle: {
+        create: "Publier une actualité",
+        title: "Titre de l'actualité",
+        content: "Contenu de la publication",
+        address: "Adresse / lieu",
+        language: "Langue de publication",
+        button: "Publier",
+        article: "Votre publication a été soumise à l'examen de l'administrateur LingCard ! Une fois modérée, elle apparaîtra sur la page principale."
+    },
+    article: {
+        comments: "Commentaires",
+        noComments: "Aucun commentaire",
+        send: "Envoyer"
+    },
+    about: {
+        me: "À propos de nous",
+        mission: "LingCard est un projet qui aide les gens du monde entier à apprendre des langues à l'aide de flashcards interactifs. Notre mission est de rendre l'apprentissage des langues accessible, engageant et efficace pour tous. Le processus d'apprentissage utilise la méthode de répétition espacée.",
+        contacts: "Contacts",
+        languages: "Langues disponibles",
+        feedback: "Contactez-nous",
+        sendFeedback: "Envoyer",
+        hide: "Masquer",
+        success: "Votre proposition a été soumise avec succès !"
+    },
+    back: {
+        button: "Retour"
+    },
+    navbar: {
+        options: {
+            news: "Actualités",
+            training: "Entraînement",
+            progress: "Progrès",
+            dictionary: "Dictionnaire",
+            votes: "Ajoutez votre langue !",
+            about: "À propos de nous",
+            support: "Soutenez-nous !",
+            profile: "Profil"
         }
     },
-    "support": {
-        "label": {
-            "fr": "Soutenez-nous !"
-        },
-        "content": {
-            "fr": "Merci d'utiliser notre projet, nous n'existons que grâce à vous ! Soutenez-nous pour aider notre projet à grandir :"
-        },
-        "heroes": {
-            "fr": "Nos héros"
-        },
-        "beFirst": {
-            "fr": "Devenez notre premier héros"
-        }
+    profileBar: {
+        signIn: "Se connecter",
+        guest: "Invité"
     },
-    "createArticle": {
-        "create": {
-            "fr": "Publier une actualité"
-        },
-        "title": {
-            "fr": "Titre de l'actualité"
-        },
-        "content": {
-            "fr": "Contenu de la publication"
-        },
-        "address": {
-            "fr": "Adresse / lieu"
-        },
-        "language": {
-            "fr": "Langue de publication"
-        },
-        "button": {
-            "fr": "Publier"
-        },
-        "article": {
-            "fr": "Votre publication a été soumise à l'examen de l'administrateur LingCard ! Une fois modérée, elle apparaîtra sur la page principale."
-        }
+    confirmRegister: {
+        welcome: "Bienvenue sur LingCard !",
+        successfulCreated: "Votre compte a été créé avec succès !",
+        startTraining: "Commencer l'entraînement"
     },
-    "article": {
-        "comments": {
-            "fr": "Commentaires"
-        },
-        "noComments": {
-            "fr": "Aucun commentaire"
-        },
-        "send": {
-            "fr": "Envoyer"
-        }
+    login: {
+        mainLabel: "Connexion",
+        invalidCredentials: "Nom d'utilisateur et/ou mot de passe incorrects",
+        email: "Nom d'utilisateur",
+        password: "Mot de passe",
+        signIn: "Se connecter",
+        noAccount: "Vous n'avez pas de compte ?",
+        signUp: "S'inscrire"
     },
-    "about": {
-        "me": {
-            "fr": "À propos de nous"
-        },
-        "mission": {
-            "fr": "LingCard est un projet qui aide les gens du monde entier à apprendre des langues à l'aide de flashcards interactifs. Notre mission est de rendre l'apprentissage des langues accessible, engageant et efficace pour tous. Le processus d'apprentissage utilise la méthode de répétition espacée."
-        },
-        "contacts": {
-            "fr": "Contacts"
-        },
-        "languages": {
-            "fr": "Langues disponibles"
-        },
-        "feedback": {
-            "fr": "Contactez-nous"
-        },
-        "sendFeedback": {
-            "fr": "Envoyer"
-        },
-        "hide": {
-            "fr": "Masquer"
-        },
-        "success": {
-            "fr": "Votre proposition a été soumise avec succès !"
-        }
+    dictionary: {
+        dictionary: "Dictionnaire",
+        lang1: "Langue 1",
+        lang2: "Langue 2",
+        show: "Afficher",
+        chooseLabel: "Sélectionnez les langues et cliquez sur \"Afficher\"",
+        prev: "Préc.",
+        next: "Suiv.",
+        words: "Mots",
+        searchPlaceholder: "Rechercher par mot (dans la langue de base)"
     },
-    "back": {
-        "button": {
-            "fr": "Retour"
-        }
+    news: {
+        news: "Actualités",
+        noNews: "Aucune actualité disponible",
+        createPost: "Publier une actualité"
     },
-    "navbar": {
-        "options": {
-            "news": {
-                "fr": "Actualités"
-            },
-            "training": {
-                "fr": "Entraînement"
-            },
-            "progress": {
-                "fr": "Progrès"
-            },
-            "dictionary": {
-                "fr": "Dictionnaire"
-            },
-            "votes": {
-                "fr": "Ajoutez votre langue !"
-            },
-            "about": {
-                "fr": "À propos de nous"
-            },
-            "support": {
-                "fr": "Soutenez-nous !"
-            },
-            "profile": {
-                "fr": "Profil"
-            }
-        }
+    selectedLanguage: {
+        loading: "Chargement...",
+        errorLoading: "Erreur de chargement",
+        chooseLanguage: "Sélectionner la langue..."
     },
-    "profileBar": {
-        "signIn": {
-            "fr": "Se connecter"
-        },
-        "guest": {
-            "fr": "Invité"
-        }
+    protectedRoute: {
+        loading: "Chargement..."
     },
-    "confirmRegister": {
-        "welcome": {
-            "fr": "Bienvenue sur LingCard !"
-        },
-        "successfulCreated": {
-            "fr": "Votre compte a été créé avec succès !"
-        },
-        "startTraining": {
-            "fr": "Commencer l'entraînement"
-        }
+    unprotectedRoute: {
+        loading: "Chargement..."
     },
-    "login": {
-        "mainLabel": {
-            "fr": "Connexion"
-        },
-        "invalidCredentials": {
-            "fr": "Nom d'utilisateur et/ou mot de passe incorrects"
-        },
-        "email": {
-            "fr": "Nom d'utilisateur"
-        },
-        "password": {
-            "fr": "Mot de passe"
-        },
-        "signIn": {
-            "fr": "Se connecter"
-        },
-        "noAccount": {
-            "fr": "Vous n'avez pas de compte ?"
-        },
-        "signUp": {
-            "fr": "S'inscrire"
-        }
+    word: {
+        clearProgress: "Effacer la progression"
     },
-    "dictionary": {
-        "dictionary": {
-            "fr": "Dictionnaire"
+    profile: {
+        error: {
+            sameLanguages: "Votre langue et la langue cible ne peuvent pas être les mêmes",
+            bothLanguages: "Veuillez sélectionner les deux langues",
+            notChanged: "Les langues n'ont pas été modifiées",
+            failedUpdate: "Échec de la mise à jour des paramètres"
         },
-        "lang1": {
-            "fr": "Langue 1"
+        success: {
+            successChanged: "Paramètres mis à jour avec succès !"
         },
-        "lang2": {
-            "fr": "Langue 2"
-        },
-        "show": {
-            "fr": "Afficher"
-        },
-        "chooseLabel": {
-            "fr": "Sélectionnez les langues et cliquez sur \"Afficher\""
-        },
-        "prev": {
-            "fr": "Préc."
-        },
-        "next": {
-            "fr": "Suiv."
-        },
-        "words": {
-            "fr": "Mots"
-        },
-        "searchPlaceholder": {
-            "fr": "Rechercher par mot (dans la langue de base)"
-        }
+        profileLabel: "Profil",
+        baseLang: "Votre langue",
+        targetLang: "Langue cible",
+        noChanged: "Aucun changement",
+        buttonChange: "Modifier",
+        stats: "Statistiques",
+        alreadyLearned: "Mots appris",
+        learning: "Mots en cours d'apprentissage",
+        noLearning: "Pas encore appris",
+        signOut: "Se déconnecter",
+        clearProgress: "Effacer la progression"
     },
-    "news": {
-        "news": {
-            "fr": "Actualités"
-        },
-        "noNews": {
-            "fr": "Aucune actualité disponible"
-        },
-        "createPost": {
-            "fr": "Publier une actualité"
-        }
+    progress: {
+        newWords: "Nouveaux mots",
+        learningWords: "Mots en cours d'apprentissage",
+        learnedWords: "Mots appris",
+        progressLabel: "Progression",
+        chooseLabel: "Sélectionnez les langues et cliquez sur \"Afficher\"",
+        noWords: "Aucun mot",
+        words: "Mots",
+        prev: "Préc.",
+        next: "Suiv."
     },
-    "selectedLanguage": {
-        "loading": {
-            "fr": "Chargement..."
-        },
-        "errorLoading": {
-            "fr": "Erreur de chargement"
-        },
-        "chooseLanguage": {
-            "fr": "Sélectionner la langue..."
-        }
+    endTraining: {
+        congratulations: "Félicitations !",
+        message: "Vous avez terminé l'entraînement !",
+        continue: "Suivant"
     },
-    "protectedRoute": {
-        "loading": {
-            "fr": "Chargement..."
-        }
+    waitingTraining: {
+        alreadyWords: "Vous avez appris tous les mots pour l'instant.",
+        newWords: "De nouveaux apparaîtront après un certain temps.",
+        continue: "Suivant"
     },
-    "unprotectedRoute": {
-        "loading": {
-            "fr": "Chargement..."
-        }
+    initWindows: {
+        start: "Commencer l'apprentissage"
     },
-    "word": {
-        "clearProgress": {
-            "fr": "Effacer la progression"
-        }
+    training: {
+        problem: "Si vous n'êtes pas d'accord avec la traduction/l'interprétation du mot, écrivez-nous !",
+        loading: "Chargement...",
+        unknown: "Je ne sais pas",
+        show: "Afficher",
+        known: "Je sais",
+        newWord: "Nouveau mot",
+        amountRepeat: "Répétitions : ",
+        hide: "Masquer"
     },
-    "profile": {
-        "error": {
-            "sameLanguages": {
-                "fr": "Votre langue et la langue cible ne peuvent pas être les mêmes"
-            },
-            "bothLanguages": {
-                "fr": "Veuillez sélectionner les deux langues"
-            },
-            "notChanged": {
-                "fr": "Les langues n'ont pas été modifiées"
-            },
-            "failedUpdate": {
-                "fr": "Échec de la mise à jour des paramètres"
-            }
-        },
-        "success": {
-            "successChanged": {
-                "fr": "Paramètres mis à jour avec succès !"
-            }
-        },
-        "profileLabel": {
-            "fr": "Profil"
-        },
-        "baseLang": {
-            "fr": "Votre langue"
-        },
-        "targetLang": {
-            "fr": "Langue cible"
-        },
-        "noChanged": {
-            "fr": "Aucun changement"
-        },
-        "buttonChange": {
-            "fr": "Modifier"
-        },
-        "stats": {
-            "fr": "Statistiques"
-        },
-        "alreadyLearned": {
-            "fr": "Mots appris"
-        },
-        "learning": {
-            "fr": "Mots en cours d'apprentissage"
-        },
-        "noLearning": {
-            "fr": "Pas encore appris"
-        },
-        "signOut": {
-            "fr": "Se déconnecter"
-        },
-        "clearProgress": {
-            "fr": "Effacer la progression"
-        }
-    },
-    "progress": {
-        "newWords": {
-            "fr": "Nouveaux mots"
-        },
-        "learningWords": {
-            "fr": "Mots en cours d'apprentissage"
-        },
-        "learnedWords": {
-            "fr": "Mots appris"
-        },
-        "progressLabel": {
-            "fr": "Progression"
-        },
-        "chooseLabel": {
-            "fr": "Sélectionnez les langues et cliquez sur \"Afficher\""
-        },
-        "noWords": {
-            "fr": "Aucun mot"
-        },
-        "words": {
-            "fr": "Mots"
-        },
-        "prev": {
-            "fr": "Préc."
-        },
-        "next": {
-            "fr": "Suiv."
-        }
-    },
-    "endTraining": {
-        "congratulations": {
-            "fr": "Félicitations !"
-        },
-        "message": {
-            "fr": "Vous avez terminé l'entraînement !"
-        },
-        "continue": {
-            "fr": "Suivant"
-        }
-    },
-    "waitingTraining": {
-        "alreadyWords": {
-            "fr": "Vous avez appris tous les mots pour l'instant."
-        },
-        "newWords": {
-            "fr": "De nouveaux apparaîtront après un certain temps."
-        },
-        "continue": {
-            "fr": "Suivant"
-        }
-    },
-    "initWindows": {
-        "start": {
-            "fr": "Commencer l'apprentissage"
-        }
-    },
-    "training": {
-        problem: {
-            fr: "Si vous n'êtes pas d'accord avec la traduction/l'interprétation du mot, écrivez-nous !"
-        },
-        "loading": {
-            "fr": "Chargement..."
-        },
-        "unknown": {
-            "fr": "Je ne sais pas"
-        },
-        "show": {
-            "fr": "Afficher"
-        },
-        "known": {
-            "fr": "Je sais"
-        },
-        "newWord": {
-            "fr": "Nouveau mot"
-        },
-        "amountRepeat": {
-            "fr": "Répétitions : "
-        },
-        "hide": {
-            "fr": "Masquer"
-        }
-    },
-    "votes": {
-        "mainLabel": {
-            "fr": "Vote"
-        },
-        "voters": {
-            "fr": "votants"
-        }
+    votes: {
+        mainLabel: "Vote",
+        voters: "votants"
     },
     home: {
-        mainLabel: {
-            fr: "LingCard est un projet qui aide les personnes du monde entier à apprendre des langues à l'aide de cartes interactives.\nNotre mission est de rendre l'apprentissage des langues accessible, agréable et efficace pour chacun.\nLa formation utilise la méthode de répétition espacée."
-        },
-        startTraining: {
-            fr: "Commencer l'entraînement"
-        },
-        login: {
-            fr: "Se connecter"
-        },
-        availableLang: {
-            fr: "Langues disponibles"
-        }
+        mainLabel: "LingCard est un projet qui aide les personnes du monde entier à apprendre des langues à l'aide de cartes interactives.\nNotre mission est de rendre l'apprentissage des langues accessible, agréable et efficace pour chacun.\nLa formation utilise la méthode de répétition espacée.",
+        startTraining: "Commencer l'entraînement",
+        login: "Se connecter",
+        availableLang: "Langues disponibles"
     },
     register: {
-        chooseBaseLang: {
-            fr: "Veuillez choisir votre langue d'apprentissage"
-        },
-        chooseTargetLang: {
-            fr: "Veuillez choisir votre langue cible (différente de votre langue d'apprentissage)"
-        },
-        inputUsername: {
-            fr: "Nom d'utilisateur et mot de passe"
-        },
-        back: {
-            fr: "Retour"
-        },
-        next: {
-            fr: "Suivant"
-        },
-        createAccount: {
-            fr: "Créer un compte"
-        },
-        username: {
-            fr: "Nom d'utilisateur"
-        },
-        password: {
-            fr: "Mot de passe"
-        },
-        yourLang: {
-            fr: "Votre langue"
-        },
-        targetLang: {
-            fr: "Langue à apprendre"
-        },
-        failed: {
-            fr: "Quelque chose s'est mal passé ! Essayez un autre nom d'utilisateur !"
-        },
-        mainLabelStep1: {
-            fr: "Choisissez votre langue d'apprentissage"
-        },
-        mainLabelStep2: {
-            fr: "Quelle langue voulez-vous apprendre ?"
-        },
-        mainLabelStep3: {
-            fr: "Créez un compte"
-        },
-        hintLabelStep1: {
-            fr: "Les indices et l'interface seront affichés dans cette langue"
-        },
-        hintLabelStep2: {
-            fr: "Choisissez la langue que vous souhaitez apprendre"
-        },
-        hintLabelStep3: {
-            fr: "Créez un pseudo et un mot de passe pour vous connecter"
-        }
+        chooseBaseLang: "Veuillez choisir votre langue d'apprentissage",
+        chooseTargetLang: "Veuillez choisir votre langue cible (différente de votre langue d'apprentissage)",
+        inputUsername: "Nom d'utilisateur et mot de passe",
+        back: "Retour",
+        next: "Suivant",
+        createAccount: "Créer un compte",
+        username: "Nom d'utilisateur",
+        password: "Mot de passe",
+        yourLang: "Votre langue",
+        targetLang: "Langue à apprendre",
+        failed: "Quelque chose s'est mal passé ! Essayez un autre nom d'utilisateur !",
+        mainLabelStep1: "Choisissez votre langue d'apprentissage",
+        mainLabelStep2: "Quelle langue voulez-vous apprendre ?",
+        mainLabelStep3: "Créez un compte",
+        hintLabelStep1: "Les indices et l'interface seront affichés dans cette langue",
+        hintLabelStep2: "Choisissez la langue que vous souhaitez apprendre",
+        hintLabelStep3: "Créez un pseudo et un mot de passe pour vous connecter"
     }
 }
