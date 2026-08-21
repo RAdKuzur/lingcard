@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import ProfileBar from "./ProfileBar.jsx";
 import Logo from "./Logo.jsx";
 import {innerRoutes} from "../../plugins/routes.js";
@@ -11,6 +11,7 @@ import Choose from "../svg/Choose.jsx";
 
 export default function Navbar() {
     const auth = useAuth();
+    const location = useLocation();
     const [currentLang, setCurrentLang] = useState('en');
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
     const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false);
@@ -51,6 +52,12 @@ export default function Navbar() {
         }
     }
 
+    const isActivePath = (path) => {
+        if (path === innerRoutes.news) {
+            return location.pathname === path;
+        }
+        return location.pathname.startsWith(path);
+    };
 
     useEffect(() => {
         const language = localStorage.getItem('lang') ?? 'en';
@@ -107,17 +114,23 @@ export default function Navbar() {
                             <Logo />
                         </div>
                         <div className="hidden md:flex items-center gap-4 lg:gap-8">
-                            {auth.isAuthenticated() && Object.values(menuOptions).map((item) => (
-                                <Link
-                                    key={item.label}
-                                    to={item.link}
-                                    className="text-sm font-medium text-slate-700 hover:text-indigo-600
-                                             transition-colors duration-200 border-b-2 border-transparent
-                                             hover:border-indigo-600 pb-1 whitespace-nowrap"
-                                >
-                                    {item.label}
-                                </Link>
-                            ))}
+                            {auth.isAuthenticated() && Object.values(menuOptions).map((item) => {
+                                const isActive = isActivePath(item.link);
+                                return (
+                                    <Link
+                                        key={item.label}
+                                        to={item.link}
+                                        className={`text-sm font-medium transition-colors duration-200 
+                                            pb-1 whitespace-nowrap
+                                            ${isActive
+                                            ? 'text-indigo-600 border-b-2 border-indigo-600'
+                                            : 'text-slate-700 hover:text-indigo-600 border-b-2 border-transparent hover:border-indigo-600'
+                                        }`}
+                                    >
+                                        {item.label}
+                                    </Link>
+                                );
+                            })}
                         </div>
 
                         <div className="flex items-center gap-2 sm:gap-4">
@@ -186,22 +199,27 @@ export default function Navbar() {
                 <div className="md:hidden fixed inset-0 z-40 bg-black/20 backdrop-blur-sm animate-fadeIn">
                     <div className="fixed inset-x-0 top-16 bg-white shadow-xl border-b border-slate-200 animate-slideDown">
                         <div className="px-4 py-3 space-y-1 max-h-[calc(100vh-4rem)] overflow-y-auto">
-                            {Object.values(menuOptions).map((item, index) => (
-                                <Link
-                                    key={item.label}
-                                    to={item.link}
-                                    onClick={() => setIsMobileMenuOpen(false)}
-                                    className="block px-4 py-3 rounded-lg text-base font-medium
-                                             text-slate-700 hover:bg-indigo-50 hover:text-indigo-600
-                                             transition-all duration-200 border-l-4 border-transparent
-                                             hover:border-indigo-500"
-                                    style={{
-                                        animationDelay: `${index * 50}ms`
-                                    }}
-                                >
-                                    {item.label}
-                                </Link>
-                            ))}
+                            {Object.values(menuOptions).map((item, index) => {
+                                const isActive = isActivePath(item.link);
+                                return (
+                                    <Link
+                                        key={item.label}
+                                        to={item.link}
+                                        onClick={() => setIsMobileMenuOpen(false)}
+                                        className={`block px-4 py-3 rounded-lg text-base font-medium
+                                             transition-all duration-200 border-l-4
+                                             ${isActive
+                                            ? 'text-indigo-600 bg-indigo-50 border-indigo-500'
+                                            : 'text-slate-700 hover:bg-indigo-50 hover:text-indigo-600 border-transparent hover:border-indigo-500'
+                                        }`}
+                                        style={{
+                                            animationDelay: `${index * 50}ms`
+                                        }}
+                                    >
+                                        {item.label}
+                                    </Link>
+                                );
+                            })}
                         </div>
                     </div>
                 </div>
