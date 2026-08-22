@@ -24,7 +24,8 @@ export const apiRoutes = {
     cancelVoice: apiUrl + '/cancel-voices',
     suggestions: apiUrl + '/suggestions',
     langMap: apiUrl + '/map-languages',
-    comments: apiUrl + '/comments'
+    comments: apiUrl + '/comments',
+    packages: apiUrl + '/packages'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {

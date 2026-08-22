@@ -45,7 +45,8 @@ export const pt = {
             votes: "Adicione seu idioma!",
             about: "Sobre nós",
             support: "Apoie-nos!",
-            profile: "Perfil"
+            profile: "Perfil",
+            knowledge: "Base de conhecimento",
         }
     },
     profileBar: {
@@ -180,5 +181,9 @@ export const pt = {
         hintLabelStep1: "As dicas e a interface serão exibidas neste idioma",
         hintLabelStep2: "Escolha o idioma que você quer aprender",
         hintLabelStep3: "Crie um apelido e senha para fazer login"
+    },
+    knowledge: {
+        label: "Base de conhecimento",
+        downloadJSON: "Baixar como JSONL"
     }
 }

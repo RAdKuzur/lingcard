@@ -45,7 +45,8 @@ export const sa = {
             votes: "أضف لغتك!",
             about: "معلومات عنا",
             support: "ادعمنا!",
-            profile: "الملف الشخصي"
+            profile: "الملف الشخصي",
+            knowledge: "قاعدة المعرفة",
         }
     },
     profileBar: {
@@ -180,5 +181,9 @@ export const sa = {
         hintLabelStep1: "سيتم عرض التلميحات والواجهة بهذه اللغة",
         hintLabelStep2: "اختر اللغة التي تريد تعلمها",
         hintLabelStep3: "ابتكر اسم مستخدم وكلمة مرور لتسجيل الدخول"
+    },
+    knowledge: {
+        label: "قاعدة المعرفة",
+        downloadJSON: "تنزيل بصيغة JSONL"
     }
 }

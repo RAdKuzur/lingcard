@@ -45,7 +45,8 @@ export const jp = {
             votes: "あなたの言語を追加！",
             about: "私たちについて",
             support: "サポートする！",
-            profile: "プロフィール"
+            profile: "プロフィール",
+            knowledge: "ナレッジベース",
         }
     },
     profileBar: {
@@ -180,5 +181,9 @@ export const jp = {
         hintLabelStep1: "ヒントとインターフェースはこの言語で表示されます",
         hintLabelStep2: "学びたい言語を選択してください",
         hintLabelStep3: "ログイン用のニックネームとパスワードを作成してください"
+    },
+    knowledge: {
+        label: "ナレッジベース",
+        downloadJSON: "JSONLとしてダウンロード"
     }
 }

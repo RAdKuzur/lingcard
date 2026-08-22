@@ -13,5 +13,6 @@ export const innerRoutes = {
     articlePath: '/articles/:id',
     votes: '/votes',
     votesPath: '/votes/:id',
-    support: '/support'
+    support: '/support',
+    knowledge: '/knowledge'
 }

@@ -45,7 +45,8 @@ export const kr = {
             votes: "언어 추가하기!",
             about: "회사 소개",
             support: "후원하기!",
-            profile: "프로필"
+            profile: "프로필",
+            knowledge: "지식 베이스"
         }
     },
     profileBar: {
@@ -180,5 +181,9 @@ export const kr = {
         hintLabelStep1: "이 언어로 힌트와 인터페이스가 표시됩니다",
         hintLabelStep2: "배우고 싶은 언어를 선택하세요",
         hintLabelStep3: "로그인할 닉네임과 비밀번호를 만드세요"
+    },
+    knowledge: {
+        label: "지식 베이스",
+        downloadJSON: "JSONL로 다운로드"
     }
 }

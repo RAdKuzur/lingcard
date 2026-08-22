@@ -45,7 +45,9 @@ export const en = {
             votes: "Add your language!",
             about: "About us",
             support: "Support Us!",
-            profile: "Profile"
+            profile: "Profile",
+            knowledge: "Knowledge base",
+
         }
     },
     profileBar: {
@@ -180,5 +182,9 @@ export const en = {
         hintLabelStep1: "Hints and interface will be displayed in this language",
         hintLabelStep2: "Choose the language you want to learn",
         hintLabelStep3: "Create a nickname and password to log in"
+    },
+    knowledge: {
+        label: "Knowledge base",
+        downloadJSON: "Download as JSONL"
     }
 }

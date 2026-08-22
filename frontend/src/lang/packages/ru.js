@@ -45,7 +45,8 @@ export const ru = {
             votes: "Добавьте ваш язык!",
             about: "О нас",
             support: "Поддержите нас!",
-            profile: "Профиль"
+            profile: "Профиль",
+            knowledge: "База знаний"
         }
     },
     profileBar: {
@@ -180,5 +181,9 @@ export const ru = {
         hintLabelStep1: "На этом языке будут отображаться подсказки и интерфейс",
         hintLabelStep2: "Выберите язык, который хотите изучать",
         hintLabelStep3: "Придумайте никнейм и пароль для входа"
+    },
+    knowledge: {
+        label: "База знаний",
+        downloadJSON: "Загрузить в JSONL",
     }
 }

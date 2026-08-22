@@ -22,6 +22,7 @@ import VotePage from "./components/vote/VotePage.jsx";
 import CreateArticle from "./components/article/CreateArticle.jsx";
 import Support from "./components/support/Support.jsx";
 import Home from "./components/home/Home.jsx";
+import Knowledge from "./components/knowledge/Knowledge.jsx";
 function App() {
     const auth = useAuth()
     const username = auth.user?.username;
@@ -84,6 +85,11 @@ function App() {
                 <Route path={innerRoutes.dictionary} element={
                     <ProtectedRoute>
                         <Dictionary/>
+                    </ProtectedRoute>
+                }/>
+                <Route path={innerRoutes.knowledge} element={
+                    <ProtectedRoute>
+                        <Knowledge/>
                     </ProtectedRoute>
                 }/>
                 <Route path={innerRoutes.profile} element={

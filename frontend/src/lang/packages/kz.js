@@ -45,7 +45,8 @@ export const kz = {
             votes: "Тіліңізді қосыңыз!",
             about: "Біз туралы",
             support: "Бізді қолдаңыз!",
-            profile: "Профиль"
+            profile: "Профиль",
+            knowledge: "Білім базасы",
         }
     },
     profileBar: {
@@ -180,5 +181,9 @@ export const kz = {
         hintLabelStep1: "Осы тілде кеңестер мен интерфейс көрсетіледі",
         hintLabelStep2: "Үйренгіңіз келетін тілді таңдаңыз",
         hintLabelStep3: "Кіру үшін никнейм және құпия сөз ойлап табыңыз"
+    },
+    knowledge: {
+        label: "Білім базасы",
+        downloadJSON: "JSONL-ға жүктеу"
     }
 }

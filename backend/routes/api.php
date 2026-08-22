@@ -11,6 +11,7 @@ use App\Http\Controllers\SuggestionController;
 use App\Http\Controllers\TelemetryController;
 use App\Http\Controllers\TrainingController;
 use App\Http\Controllers\VoteController;
+use App\Http\Controllers\WordController;
 use App\Http\Middleware\AuthMiddleware;
 use App\Http\Middleware\StatMiddleware;
 use App\Http\Middleware\VisitMiddleware;
@@ -29,6 +30,7 @@ Route::middleware(['throttle:api'])->group(function () {
         Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');
         Route::post('/user', [AuthController::class, 'user'])->name('user');
         Route::get('/posts/{code?}', [PostController::class, 'all'])->name('posts');
+        Route::get('/packages/{code}', [WordController::class, 'package'])->name('packages');
         Route::group(['middleware' => AuthMiddleware::class], function () {
             Route::group(['middleware' => StatMiddleware::class], function () {
                 Route::get('/articles/{id}', [PostController::class, 'one'])->name('article');

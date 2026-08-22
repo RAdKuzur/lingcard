@@ -46,6 +46,10 @@ export default function Navbar() {
             link: innerRoutes.support,
             label: getText(lang.navbar.options.support)
         },
+        knowledge: {
+            link: innerRoutes.knowledge,
+            label: getText(lang.navbar.options.knowledge)
+        },
         profile: {
             link: innerRoutes.profile,
             label: getText(lang.navbar.options.profile)

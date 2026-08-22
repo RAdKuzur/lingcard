@@ -45,7 +45,8 @@ export const cn = {
             votes: "添加您的语言！",
             about: "关于我们",
             support: "支持我们！",
-            profile: "个人资料"
+            profile: "个人资料",
+            knowledge: "知识库"
         }
     },
     profileBar: {
@@ -180,5 +181,9 @@ export const cn = {
         hintLabelStep1: "提示和界面将以此语言显示",
         hintLabelStep2: "选择您想学习的语言",
         hintLabelStep3: "创建昵称和密码以登录"
+    },
+    knowledge: {
+        label: "知识库",
+        downloadJSON: "下载为JSONL"
     }
 }

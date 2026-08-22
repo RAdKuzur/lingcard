@@ -45,7 +45,8 @@ export const fr = {
             votes: "Ajoutez votre langue !",
             about: "À propos de nous",
             support: "Soutenez-nous !",
-            profile: "Profil"
+            profile: "Profil",
+            knowledge: "Base de connaissances"
         }
     },
     profileBar: {
@@ -180,5 +181,9 @@ export const fr = {
         hintLabelStep1: "Les indices et l'interface seront affichés dans cette langue",
         hintLabelStep2: "Choisissez la langue que vous souhaitez apprendre",
         hintLabelStep3: "Créez un pseudo et un mot de passe pour vous connecter"
+    },
+    knowledge: {
+        label: "Base de connaissances",
+        downloadJSON: "Télécharger en JSONL"
     }
 }
