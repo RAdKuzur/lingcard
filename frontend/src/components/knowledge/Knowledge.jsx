@@ -1,5 +1,4 @@
 import {useEffect, useState} from "react";
-import ButtonBack from "../layouts/ButtonBack.jsx";
 import {getText, lang as language, lang} from "../../lang/lang.js";
 import LanguageKnowledge from "./LanguageKnowledge.jsx";
 import ColorChoose from "../svg/ColorChoose.jsx";
@@ -34,11 +33,10 @@ export default function Knowledge() {
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
             <div className="max-w-5xl mx-auto space-y-6">
                 <div className="flex items-center gap-4">
-                    <ButtonBack/>
                     <h1 className="text-2xl font-bold text-slate-800">{getText(lang.knowledge.label)}</h1>
                 </div>
             </div>
-
+            <LanguageKnowledge code={code}/>
             <div className="max-w-5xl mx-auto space-y-6 p-8 bg-white mt-5 rounded-2xl">
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
                     {baseLanguages.length > 0 ? (
@@ -101,8 +99,6 @@ export default function Knowledge() {
                     )}
                 </div>
             </div>
-
-            <LanguageKnowledge code={code}/>
         </main>
     )
 }
