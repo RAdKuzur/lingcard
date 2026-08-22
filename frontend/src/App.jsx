@@ -88,9 +88,7 @@ function App() {
                     </ProtectedRoute>
                 }/>
                 <Route path={innerRoutes.knowledge} element={
-                    <ProtectedRoute>
-                        <Knowledge/>
-                    </ProtectedRoute>
+                    <Knowledge/>
                 }/>
                 <Route path={innerRoutes.profile} element={
                     <ProtectedRoute>
@@ -111,9 +109,7 @@ function App() {
                     <About/>
                 }/>
                 <Route path={innerRoutes.support} element={
-                    <ProtectedRoute>
-                        <Support/>
-                    </ProtectedRoute>
+                    <Support/>
                 }/>
             </Routes>
             {notification && (

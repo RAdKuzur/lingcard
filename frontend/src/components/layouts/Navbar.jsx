@@ -56,6 +56,21 @@ export default function Navbar() {
         }
     }
 
+    const menuGuestOptions = {
+        about: {
+            link: innerRoutes.about,
+            label: getText(lang.navbar.options.about)
+        },
+        support: {
+            link: innerRoutes.support,
+            label: getText(lang.navbar.options.support)
+        },
+        knowledge: {
+            link: innerRoutes.knowledge,
+            label: getText(lang.navbar.options.knowledge)
+        },
+    }
+
     const isActivePath = (path) => {
         if (path === innerRoutes.news) {
             return location.pathname === path;
@@ -118,7 +133,7 @@ export default function Navbar() {
                             <Logo />
                         </div>
                         <div className="hidden md:flex items-center gap-4 lg:gap-8">
-                            {auth.isAuthenticated() && Object.values(menuOptions).map((item) => {
+                            {auth.isAuthenticated() ? Object.values(menuOptions).map((item) => {
                                 const isActive = isActivePath(item.link);
                                 return (
                                     <Link
@@ -134,7 +149,26 @@ export default function Navbar() {
                                         {item.label}
                                     </Link>
                                 );
-                            })}
+                            }) :
+                                Object.values(menuGuestOptions).map((item) => {
+                                    const isActive = isActivePath(item.link);
+                                    return (
+                                        <Link
+                                            key={item.label}
+                                            to={item.link}
+                                            className={`text-sm font-medium transition-colors duration-200 
+                                            pb-1 whitespace-nowrap
+                                            ${isActive
+                                                ? 'text-indigo-600 border-b-2 border-indigo-600'
+                                                : 'text-slate-700 hover:text-indigo-600 border-b-2 border-transparent hover:border-indigo-600'
+                                            }`}
+                                        >
+                                            {item.label}
+                                        </Link>
+                                    );
+                                })
+
+                            }
                         </div>
 
                         <div className="flex items-center gap-2 sm:gap-4">
