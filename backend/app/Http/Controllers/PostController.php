@@ -16,7 +16,7 @@ class PostController extends Controller
         $this->postService = $postService;
     }
 
-    public function all($code = 'ru')
+    public function all($code = 'en')
     {
         $data = $this->postService->postsByCode($code);
         return response()->json([
