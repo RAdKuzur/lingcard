@@ -61,8 +61,8 @@ export default function Profile() {
 
         try {
             const response = await patch(apiRoutes.profile, {
-                base_language_id: baseLang,
-                target_language_id: targetLang
+                base_language_id: Number(baseLang),
+                target_language_id: Number(targetLang)
             }, {
                 withCredentials: true
             });
