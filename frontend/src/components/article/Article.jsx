@@ -35,43 +35,43 @@ export default function Article() {
     }, [])
 
 
-    function like() {
+    async function like() {
         const id = window.location.pathname.split('/').pop();
         if (isDislike) {
             setDislike(false)
             setDislikeCount(prev => prev - 1)
-            reactUnset(id)
+            await reactUnset(id)
             setLike(true)
             setLikeCount(prev => prev + 1)
-            reactLike(id)
+            await reactLike(id)
         } else if (!isLike) {
             setLike(true)
             setLikeCount(prev => prev + 1)
-            reactLike(id)
+            await reactLike(id)
         } else {
             setLike(false)
             setLikeCount(prev => prev - 1)
-            reactUnset(id)
+            await reactUnset(id)
         }
     }
 
-    function dislike() {
+    async function dislike() {
         const id = window.location.pathname.split('/').pop();
         if (isLike) {
             setLike(false)
             setLikeCount(prev => prev - 1)
-            reactUnset(id)
+            await reactUnset(id)
             setDislike(true)
             setDislikeCount(prev => prev + 1)
-            reactDislike(id)
+            await reactDislike(id)
         } else if (!isDislike) {
             setDislike(true)
             setDislikeCount(prev => prev + 1)
-            reactDislike(id)
+            await reactDislike(id)
         } else {
             setDislike(false)
             setDislikeCount(prev => prev - 1)
-            reactUnset(id)
+            await reactUnset(id)
         }
     }
 

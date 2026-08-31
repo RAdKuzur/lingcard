@@ -60,7 +60,7 @@ class WordTranslationRepository implements WordTranslationRepositoryInterface
             ->where('words.language_id', $targetLanguageId)
             ->whereNotIn('words.id', $exceptId)
             ->select('word_translations.*')
-            ->inRandomOrder()
+            ->orderBy('words.level' , 'asc')
             ->first();
     }
     public function getNewWords($baseLanguageId, $targetLanguageId, array $exceptId = [])
