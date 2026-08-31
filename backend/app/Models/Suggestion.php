@@ -20,6 +20,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Suggestion extends Model
 {
+    protected $table = 'suggestions';
+
     protected $fillable = [
         'message',
         'date',

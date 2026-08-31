@@ -50,7 +50,7 @@ Route::middleware(['throttle:api'])->group(function () {
             Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
             Route::get('/profile', [ProfileController::class, 'profile'])->name('profile');
             Route::patch('/profile', [ProfileController::class, 'update'])->name('profile-update');
-            Route::get('/dictionary/{baseTrainingId}/language/{targetLanguageId}', [DictionaryController::class, 'translate'])->name('translate');
+            Route::get('/dictionary/{baseLanguageId}/language/{targetLanguageId}', [DictionaryController::class, 'translate'])->name('translate');
             Route::get('/progress/{status}', [ProgressController::class, 'progress'])->name('progress');
             Route::delete('/progress', [ProgressController::class, 'clearProgress'])->name('progress-clear');
             Route::delete('/words/{id}/progress', [ProgressController::class, 'clearWordProgress'])->name('progress-clear-word');

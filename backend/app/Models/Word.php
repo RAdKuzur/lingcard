@@ -23,6 +23,7 @@ use Illuminate\Support\Carbon;
 class Word extends Model
 {
     use HasFactory;
+    protected $table = 'words';
 
     protected $fillable = [
         'text',

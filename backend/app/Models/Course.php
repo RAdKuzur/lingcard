@@ -23,7 +23,7 @@ use Illuminate\Support\Carbon;
  */
 class Course extends Model
 {
-
+    protected $table = 'courses';
     public const REPEAT_TIME = 6;
     use HasFactory;
 

@@ -18,7 +18,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 class Voice extends Model
 {
     use HasFactory;
-
+    protected $table = 'voices';
     protected $fillable = [
         'user_id',
         'vote_option_id',

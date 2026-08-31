@@ -23,7 +23,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 class Token extends Model
 {
     use HasFactory;
-
+    protected $table = 'tokens';
     /**
      * The attributes that are mass assignable.
      *

@@ -26,6 +26,8 @@ class Language extends Model
 {
     use HasFactory;
 
+    protected $table = 'languages';
+
     protected $fillable = [
         'name',
         'code',

@@ -23,7 +23,7 @@ use Illuminate\Support\Carbon;
 class WordTranslation extends Model
 {
     use HasFactory;
-
+    protected $table = 'word_translations';
     protected $fillable = [
         'word_id',
         'target_language_id',

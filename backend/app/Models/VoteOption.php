@@ -18,7 +18,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class VoteOption extends Model
 {
     use HasFactory;
-
+    protected $table = 'vote_options';
     protected $fillable = [
         'vote_id',
         'title',
