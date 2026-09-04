@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::table('tokens', function (Blueprint $table) {
             $table->dropColumn('expires_at');
-            $table->dateTime('expires_at');
+            $table->dateTime('expires_at')->nullable();
         });
     }
 
@@ -21,7 +21,7 @@ return new class extends Migration
     {
         Schema::table('tokens', function (Blueprint $table) {
             $table->dropColumn('expires_at');
-            $table->string('expires_at');
+            $table->string('expires_at')->nullable();
         });
     }
 };
