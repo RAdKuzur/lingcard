@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 /**
  * @property int $id
  * @property string $refresh_token
- * @property string $expires_at
+ * @property $expires_at
  * @property int $user_id
  * @property string $ip_address
  * @property string $user_agent
