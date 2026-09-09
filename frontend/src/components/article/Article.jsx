@@ -172,7 +172,7 @@ export default function Article() {
                             <input className={'w-full rounded-2xl p-2 outline-2 border-black'} onInput={(e) => {
                                 setTextComment(e.target.value)
                             }}></input>
-                            <button className={'bg-indigo-500 p-2 rounded-2xl cursor-pointer'}
+                            <button className={'bg-emerald-500 p-2 rounded-2xl cursor-pointer hover:bg-emerald-600'}
                                     onClick={() => handleSendComment(textComment)}>
                                 <span className={'text-white font-bold'}>
                                     {getText(lang.article.send)}

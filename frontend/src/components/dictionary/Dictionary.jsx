@@ -67,7 +67,7 @@ export default function Dictionary() {
                     </div>
                     <button
                         onClick={() => handleSearch(search, page, limit)}
-                        className="mt-4 w-full px-6 py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-medium rounded-xl transition-all duration-200 shadow-lg shadow-orange-500/25 hover:shadow-orange-500/35 cursor-pointer"
+                        className="mt-4 w-full px-6 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-xl transition-all duration-200 shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/35 cursor-pointer"
                     >
                         {getText(language.dictionary.show)}
                     </button>
@@ -75,7 +75,7 @@ export default function Dictionary() {
 
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <div className="flex items-center justify-between mb-4 gap-4 flex-wrap">
-                        <h2 className="text-sm font-medium text-slate-500">{getText(language.dictionary.words)}</h2>
+                        <h2 className="text-sm font-medium text-slate-500">{getText(language.dictionary.words)} ({words.length > 0 ? amountWords : 0})</h2>
                         <div className="flex-1 max-w-xs">
                             <input
                                 type="text"

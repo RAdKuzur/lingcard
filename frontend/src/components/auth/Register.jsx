@@ -129,8 +129,8 @@ export default function Register() {
                         <div
                             key={i}
                             className={`h-2 rounded-full transition-all duration-300 ${
-                                i === step ? 'w-12 bg-indigo-600' :
-                                    i < step ? 'w-8 bg-green-500' : 'w-8 bg-slate-200'
+                                i === step ? 'w-12 bg-blue-600' :
+                                    i < step ? 'w-8 bg-emerald-500' : 'w-8 bg-slate-200'
                             }`}
                         />
                     ))}
@@ -176,8 +176,8 @@ export default function Register() {
                                                     hover:shadow-xl hover:scale-[1.03] active:scale-[0.97] 
                                                     cursor-pointer p-4
                                                     ${isSelected
-                                                    ? 'border-indigo-500 shadow-lg shadow-indigo-200/50 ring-2 ring-indigo-300/30'
-                                                    : 'border-slate-200/70 hover:border-indigo-300'
+                                                    ? 'border-emerald-500 shadow-lg shadow-emerald-200/50 ring-2 ring-emerald-300/30'
+                                                    : 'border-slate-200/70 hover:border-emerald-300'
                                                 }
                                                 `}
                                             >
@@ -187,8 +187,8 @@ export default function Register() {
                                                             w-14 h-14 rounded-full overflow-hidden 
                                                             border-3 transition-all duration-300
                                                             ${isSelected
-                                                            ? 'border-indigo-500 shadow-lg shadow-indigo-300/50'
-                                                            : 'border-slate-200 group-hover:border-indigo-300'
+                                                            ? 'border-emerald-500 shadow-lg shadow-emerald-300/50'
+                                                            : 'border-slate-200 group-hover:border-emerald-300'
                                                         }
                                                         `}>
                                                             <img
@@ -198,7 +198,7 @@ export default function Register() {
                                                             />
                                                         </div>
                                                         {isSelected && (
-                                                            <div className="absolute -top-1 -right-1 w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center shadow-lg shadow-indigo-400/50">
+                                                            <div className="absolute -top-1 -right-1 w-6 h-6 bg-emerald-500 rounded-full flex items-center justify-center shadow-lg shadow-emerald-400/50">
                                                                 <ColorChoose />
                                                             </div>
                                                         )}
@@ -242,8 +242,8 @@ export default function Register() {
                                                     hover:shadow-xl hover:scale-[1.03] active:scale-[0.97] 
                                                     cursor-pointer p-4
                                                     ${isSelected
-                                                    ? 'border-indigo-500 shadow-lg shadow-indigo-200/50 ring-2 ring-indigo-300/30'
-                                                    : 'border-slate-200/70 hover:border-indigo-300'
+                                                    ? 'border-emerald-500 shadow-lg shadow-emerald-200/50 ring-2 ring-emerald-300/30'
+                                                    : 'border-slate-200/70 hover:border-emerald-300'
                                                 }
                                                 `}
                                             >
@@ -253,8 +253,8 @@ export default function Register() {
                                                             w-14 h-14 rounded-full overflow-hidden 
                                                             border-3 transition-all duration-300
                                                             ${isSelected
-                                                            ? 'border-indigo-500 shadow-lg shadow-indigo-300/50'
-                                                            : 'border-slate-200 group-hover:border-indigo-300'
+                                                            ? 'border-emerald-500 shadow-lg shadow-emerald-300/50'
+                                                            : 'border-slate-200 group-hover:border-emerald-300'
                                                         }
                                                         `}>
                                                             <img
@@ -264,7 +264,7 @@ export default function Register() {
                                                             />
                                                         </div>
                                                         {isSelected && (
-                                                            <div className="absolute -top-1 -right-1 w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center shadow-lg shadow-indigo-400/50">
+                                                            <div className="absolute -top-1 -right-1 w-6 h-6 bg-emerald-500 rounded-full flex items-center justify-center shadow-lg shadow-emerald-400/50">
                                                                 <ColorChoose />
                                                             </div>
                                                         )}
@@ -295,7 +295,7 @@ export default function Register() {
                                     {getText(language.register.username)}
                                 </div>
                                 <input
-                                    className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
+                                    className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-emerald-400 focus:ring-2 focus:ring-emerald-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
                                     onInput={(e) => {
                                         const latinAndNumbers = e.target.value.replace(/[^a-zA-Z0-9]/g, '');
                                         e.target.value = latinAndNumbers;
@@ -309,7 +309,7 @@ export default function Register() {
                                     {getText(language.register.password)}
                                 </div>
                                 <input
-                                    className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
+                                    className="w-full rounded-xl px-4 py-3 border border-slate-200 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-400/20 outline-none transition-all duration-200 bg-white/50 focus:bg-white"
                                     type="password"
                                     onInput={(e) => setPassword(e.target.value)}
                                 />
@@ -332,7 +332,7 @@ export default function Register() {
                     {step < 3 ? (
                         <button
                             onClick={nextStep}
-                            className={`flex-1 py-3 rounded-xl bg-gradient-to-r from-indigo-500 to-purple-500 text-white font-bold transition-all duration-200 shadow-lg shadow-indigo-500/25 hover:shadow-indigo-500/40 cursor-pointer hover:scale-[1.02] active:scale-[0.98] ${
+                            className={`flex-1 py-3 rounded-xl bg-gradient-to-r from-emerald-500 to-emerald-600 text-white font-bold transition-all duration-200 shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/40 cursor-pointer hover:scale-[1.02] active:scale-[0.98] ${
                                 step === 1 ? 'flex-1' : ''
                             }`}
                         >
@@ -341,7 +341,7 @@ export default function Register() {
                     ) : (
                         <button
                             onClick={signUp}
-                            className="flex-1 py-3 rounded-xl bg-gradient-to-r from-green-500 to-green-600 text-white font-bold transition-all duration-200 shadow-lg shadow-green-500/25 hover:shadow-green-500/40 cursor-pointer hover:scale-[1.02] active:scale-[0.98]"
+                            className="flex-1 py-3 rounded-xl bg-gradient-to-r from-emerald-500 to-emerald-600 text-white font-bold transition-all duration-200 shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/40 cursor-pointer hover:scale-[1.02] active:scale-[0.98]"
                         >
                             {getText(language.register.createAccount)}
                         </button>

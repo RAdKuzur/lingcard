@@ -37,7 +37,7 @@ export default function Home() {
                     </p>
                     {!auth.isAuthenticated() ? (
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <button className="cursor-pointer px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition-all duration-200 shadow-md hover:shadow-lg transform hover:scale-105"
+                            <button className="cursor-pointer px-8 py-3 bg-emerald-500 hover:bg-emerald-600 text-white font-semibold rounded-lg transition-all duration-200 shadow-md hover:shadow-lg transform hover:scale-105"
                                     onClick={goRegister}
                             >
                                 {getText(lang.home.startTraining)}

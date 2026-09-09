@@ -72,15 +72,15 @@ export default function Progress() {
         const baseStyles = "flex-1 px-4 py-2.5 rounded-lg font-medium transition-all duration-200 cursor-pointer";
 
         const activeStyles = {
-            red: "bg-red-500 text-white shadow-md shadow-red-500/25",
-            blue: "bg-blue-500 text-white shadow-md shadow-blue-500/25",
-            green: "bg-green-500 text-white shadow-md shadow-green-500/25"
+            red: "bg-red-600 text-white shadow-md shadow-red-500/25",
+            blue: "bg-blue-600 text-white shadow-md shadow-blue-500/25",
+            green: "bg-emerald-600 text-white shadow-md shadow-emerald-500/25"
         };
 
         const inactiveStyles = {
-            red: "bg-red-200 text-red-800 hover:bg-red-300",
-            blue: "bg-blue-200 text-blue-800 hover:bg-blue-300",
-            green: "bg-green-200 text-green-800 hover:bg-green-300"
+            red: "bg-red-400 text-white hover:bg-red-600",
+            blue: "bg-blue-400 text-white hover:bg-blue-600",
+            green: "bg-emerald-400 text-white hover:bg-emerald-600"
         };
 
         return `${baseStyles} ${isActive ? activeStyles[color] : inactiveStyles[color]}`;
@@ -108,7 +108,7 @@ export default function Progress() {
 
                 <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
                     <div className="flex items-center justify-between mb-4 gap-4 flex-wrap">
-                        <h2 className="text-sm font-medium text-slate-500">{getText(lang.progress.words)}</h2>
+                        <h2 className="text-sm font-medium text-slate-500">{getText(lang.progress.words)} ({words.length > 0 ? amountWords : 0})</h2>
                         <div className="flex-1 max-w-xs">
                             <input
                                 type="text"

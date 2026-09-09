@@ -211,8 +211,8 @@ export default function Card({setTraining}) {
                                 <button
                                     className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
                                         isHoverNo
-                                            ? 'bg-rose-600 shadow-rose-500/40 transform scale-[1.02]'
-                                            : 'bg-rose-500 shadow-rose-500/30 hover:bg-rose-600'
+                                            ? 'bg-red-600 shadow-red-500/40 transform scale-[1.02]'
+                                            : 'bg-red-500 shadow-red-500/30 hover:bg-red-600'
                                     } text-white`}
                                     onMouseEnter={() => setHoverNo(true)}
                                     onMouseLeave={() => setHoverNo(false)}
@@ -227,8 +227,8 @@ export default function Card({setTraining}) {
                                 <button
                                     className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
                                         isHoverShow
-                                            ? 'bg-cyan-600 shadow-cyan-500/40 transform scale-[1.02]'
-                                            : 'bg-cyan-500 shadow-cyan-500/30 hover:bg-cyan-600'
+                                            ? 'bg-blue-600 shadow-blue-500/40 transform scale-[1.02]'
+                                            : 'bg-blue-500 shadow-blue-500/30 hover:bg-blue-600'
                                     } text-white`}
                                     onMouseEnter={() => setHoverShow(true)}
                                     onMouseLeave={() => setHoverShow(false)}

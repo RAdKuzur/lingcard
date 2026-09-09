@@ -39,14 +39,14 @@ export default function VotePage() {
     }
 
     return (
-        <main className="min-h-screen bg-gradient-to-br from-indigo-50 via-white to-purple-50 p-6">
+        <main className="min-h-screen bg-gradient-to-br via-white p-6">
             <div className="flex max-w-7xl mx-auto justify-start mb-6">
                 <ButtonBack/>
             </div>
             <div className="max-w-7xl mx-auto">
                 <div className="space-y-8">
                     <div className="px-4">
-                        <h1 className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">
+                        <h1 className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-emerald-600">
                             {getLabel(vote.title)}
                         </h1>
                     </div>
@@ -71,14 +71,14 @@ export default function VotePage() {
                                         hover:shadow-xl hover:scale-[1.05] active:scale-[0.95] 
                                         cursor-pointer
                                         ${isSelected
-                                            ? 'border-indigo-500 shadow-lg shadow-indigo-200/50 ring-2 ring-indigo-300/30'
-                                            : 'border-slate-200/70 hover:border-indigo-300'
+                                            ? 'border-emerald-500 shadow-lg shadow-emerald-200/50 ring-2 ring-emerald-300/30'
+                                            : 'border-slate-200/70 hover:border-emerald-300'
                                         }
                                     `}
                                     >
                                         <div className={`
                                         absolute inset-0 transition-opacity duration-300 
-                                        bg-gradient-to-br from-indigo-50/0 to-purple-50/0 
+                                        bg-gradient-to-br from-emerald-50/0 to-emerald-50/0 
                                         ${isSelected ? 'opacity-100' : 'group-hover:opacity-100'}
                                     `}/>
 
@@ -88,8 +88,8 @@ export default function VotePage() {
                                                 w-14 h-14 rounded-full overflow-hidden 
                                                 border-3 transition-all duration-300
                                                 ${isSelected
-                                                    ? 'border-indigo-500 shadow-lg shadow-indigo-300/50'
-                                                    : 'border-slate-200 group-hover:border-indigo-300'
+                                                    ? 'border-emerald-500 shadow-lg shadow-emerald-300/50'
+                                                    : 'border-slate-200 group-hover:border-emerald-300'
                                                 }
                                             `}>
                                                     <img
@@ -100,7 +100,7 @@ export default function VotePage() {
                                                 </div>
                                                 {isSelected && (
                                                     <div
-                                                        className="absolute -top-1 -right-1 w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center shadow-lg shadow-indigo-400/50 animate-in zoom-in duration-300">
+                                                        className="absolute -top-1 -right-1 w-6 h-6 bg-emerald-500 rounded-full flex items-center justify-center shadow-lg shadow-emerald-400/50 animate-in zoom-in duration-300">
                                                         <ColorChoose></ColorChoose>
                                                     </div>
                                                 )}

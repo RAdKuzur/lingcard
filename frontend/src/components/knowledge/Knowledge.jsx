@@ -53,8 +53,8 @@ export default function Knowledge() {
                                                     hover:shadow-xl hover:scale-[1.03] active:scale-[0.97] 
                                                     cursor-pointer p-4
                                                     ${isSelected
-                                        ? 'border-indigo-500 shadow-lg shadow-indigo-200/50 ring-2 ring-indigo-300/30'
-                                        : 'border-slate-200/70 hover:border-indigo-300'
+                                        ? 'border-emerald-500 shadow-lg shadow-emerald-200/50 ring-2 ring-emerald-300/30'
+                                        : 'border-slate-200/70 hover:border-emerald-300'
                                     }
                                                 `}
                                 >
@@ -64,8 +64,8 @@ export default function Knowledge() {
                                                             w-14 h-14 rounded-full overflow-hidden 
                                                             border-3 transition-all duration-300
                                                             ${isSelected
-                                                ? 'border-indigo-500 shadow-lg shadow-indigo-300/50'
-                                                : 'border-slate-200 group-hover:border-indigo-300'
+                                                ? 'border-emerald-500 shadow-lg shadow-emerald-300/50'
+                                                : 'border-slate-200 group-hover:border-emerald-300'
                                             }
                                                         `}>
                                                 <img
@@ -76,7 +76,7 @@ export default function Knowledge() {
                                             </div>
                                             {isSelected && (
                                                 <div
-                                                    className="absolute -top-1 -right-1 w-6 h-6 bg-indigo-500 rounded-full flex items-center justify-center shadow-lg shadow-indigo-400/50">
+                                                    className="absolute -top-1 -right-1 w-6 h-6 bg-emerald-500 rounded-full flex items-center justify-center shadow-lg shadow-emerald-400/50">
                                                     <ColorChoose/>
                                                 </div>
                                             )}

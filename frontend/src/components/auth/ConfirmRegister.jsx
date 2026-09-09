@@ -19,7 +19,7 @@ export default function ConfirmRegister() {
 
                 <button
                     onClick={handleLogin}
-                    className="w-full py-4 px-6 bg-gradient-to-r from-emerald-600 to-emerald-600 text-white font-semibold rounded-2xl shadow-lg shadow-emerald-500/30 hover:shadow-xl hover:shadow-emerald-500/40 hover:scale-[1.02] active:scale-95 transition-all duration-200"
+                    className="w-full py-4 cursor-pointer px-6 bg-gradient-to-r from-emerald-500 to-emerald-600 text-white font-semibold rounded-2xl shadow-lg shadow-emerald-500/30 hover:shadow-xl hover:shadow-emerald-500/40 hover:scale-[1.02] active:scale-95 transition-all duration-200"
                 >
                     {getText(lang.confirmRegister.startTraining)}
                 </button>

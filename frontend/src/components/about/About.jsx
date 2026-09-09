@@ -74,7 +74,7 @@ export default function About() {
                         {!isHidden && (
                             <div>
                             <textarea
-                                className="border-2 border-indigo-300 focus:border-indigo-500 outline-none w-full rounded-2xl p-3 sm:p-4 min-h-[100px] sm:min-h-[120px] text-base"
+                                className="border-2 border-black-300 focus:border-black-500 outline-none w-full rounded-2xl p-3 sm:p-4 min-h-[100px] sm:min-h-[120px] text-base"
                                 onInput={(e) => setInput(e.target.value)}
                             />
                             </div>
@@ -89,7 +89,7 @@ export default function About() {
                         <div className="flex flex-col sm:flex-row gap-3 mt-3">
                             {isHidden ? (
                                 <button
-                                    className="bg-indigo-600 cursor-pointer p-3 rounded-2xl w-full sm:w-auto hover:bg-indigo-700 transition-colors"
+                                    className="bg-emerald-500 cursor-pointer p-3 rounded-2xl w-full sm:w-auto hover:bg-emerald-600 transition-colors"
                                     onClick={handleFeedback}
                                 >
                                 <span className="font-bold text-white text-sm sm:text-base">
@@ -99,7 +99,7 @@ export default function About() {
                             ) : (
                                 <>
                                     <button
-                                        className="bg-green-600 cursor-pointer p-3 rounded-2xl w-full sm:w-auto hover:bg-green-700 transition-colors"
+                                        className="bg-emerald-500 cursor-pointer p-3 rounded-2xl w-full sm:w-auto hover:bg-emerald-600 transition-colors"
                                         onClick={(e) => sendFeedback(e.target.value)}
                                     >
                                     <span className="font-bold text-white text-sm sm:text-base">
@@ -107,7 +107,7 @@ export default function About() {
                                     </span>
                                     </button>
                                     <button
-                                        className="bg-red-600 cursor-pointer p-3 rounded-2xl w-full sm:w-auto hover:bg-red-700 transition-colors"
+                                        className="bg-red-500 cursor-pointer p-3 rounded-2xl w-full sm:w-auto hover:bg-red-600 transition-colors"
                                         onClick={hideFeedback}
                                     >
                                     <span className="font-bold text-white text-sm sm:text-base">
