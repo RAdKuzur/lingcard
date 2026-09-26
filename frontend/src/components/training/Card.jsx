@@ -129,7 +129,7 @@ export default function Card({setTraining}) {
     }
     function checkWord(w1, w2) {
         setAnswerWord(w1)
-        if (w1 === w2) {
+        if (w1.toLowerCase() === w2.toLowerCase()) {
             setOpacityTranslation(true)
             setWord(false)
             setInputEnable(false)
