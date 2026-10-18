@@ -27,8 +27,6 @@ export default function Card({setTraining}) {
     const [repeat, setRepeat] = useState(0)
     const [transcription, setTranscription] = useState('')
     const [isSwiping, setIsSwiping] = useState(false)
-    const [isInputEnable, setInputEnable] = useState(true)
-    const [answerWord, setAnswerWord] = useState("")
 
     async function trainingRepeat(status) {
         const response = await patch(apiRoutes.training + '/' + cardId, {
@@ -39,8 +37,6 @@ export default function Card({setTraining}) {
     async function newWord() {
         setLoading(true)
         try {
-            setInputEnable(true)
-            setAnswerWord("")
             const response = await get(apiRoutes.training, null, {withCredentials: true});
             const data = await response.data;
             if(data) {
@@ -127,18 +123,6 @@ export default function Card({setTraining}) {
             setTextProblem('')
         }
     }
-    function checkWord(w1, w2) {
-        setAnswerWord(w1)
-        if (w1.toLowerCase() === w2.toLowerCase()) {
-            setOpacityTranslation(true)
-            setWord(false)
-            setInputEnable(false)
-            setAnswerWord("")
-            return true
-        }
-        setInputEnable(true)
-        return false
-    }
 
     async function sendProblem(problemText) {
         if (problemText) {
@@ -193,27 +177,15 @@ export default function Card({setTraining}) {
 
                             <div className="py-8">
                                 <div className="text-4xl font-bold text-slate-800 mb-4 tracking-tight">
-                                    {status === studyStatuses.none || !isInputEnable ? text : translation}
+                                    {text}
                                 </div>
                                 {transcription !== '' && transcription !== null && (
                                     <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
                                         [{transcription}]
                                     </div>
                                 )}
-                                {
-                                    status !== studyStatuses.none && isInputEnable ? (
-                                        <div className={"w-full"}>
-                                            <input
-                                                className="border-2 border-black-300 focus:border-black-500 w-5/6 outline-none rounded-2xl p-1 sm:p-2 text-base"
-                                                onInput={(e) => checkWord(e.target.value, text)}
-                                                value={answerWord}
-                                            />
-                                        </div>
-                                    ) : ''
-                                }
-                                <div
-                                    className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
-                                    {status === studyStatuses.none || !isInputEnable ? translation : text}
+                                <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
+                                    {translation}
                                 </div>
                             </div>
 
