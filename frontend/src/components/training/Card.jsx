@@ -204,7 +204,7 @@ export default function Card({setTraining}) {
 
                             <div className="py-8">
                                 <div className="text-4xl font-bold text-slate-800 mb-4 tracking-tight">
-                                    {text}
+                                    {status === studyStatuses.none ? text : translation}
                                 </div>
                                 {transcription !== '' && transcription !== null && (
                                     <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
@@ -212,7 +212,7 @@ export default function Card({setTraining}) {
                                     </div>
                                 )}
                                 <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
-                                    {translation}
+                                    {status === studyStatuses.none ? translation : text}
                                 </div>
                             </div>
 
