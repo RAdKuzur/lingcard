@@ -7,6 +7,7 @@ import Cancel from "../svg/Cancel.jsx";
 import Flag from "../svg/Flag.jsx";
 import PaperPlane from "../svg/PaperPlane.jsx";
 import {studyStatuses} from "../../plugins/studyStatus.js";
+import Pen from "../svg/Pen.jsx";
 
 export default function Card({setTraining}) {
     const [isProblem, setProblem] = useState(false)
@@ -27,6 +28,8 @@ export default function Card({setTraining}) {
     const [repeat, setRepeat] = useState(0)
     const [transcription, setTranscription] = useState('')
     const [isSwiping, setIsSwiping] = useState(false)
+    const [isInputEnable, setInputEnable] = useState(false)
+    const [answerWord, setAnswerWord] = useState("")
 
     async function trainingRepeat(status) {
         const response = await patch(apiRoutes.training + '/' + cardId, {
@@ -37,6 +40,8 @@ export default function Card({setTraining}) {
     async function newWord() {
         setLoading(true)
         try {
+            setInputEnable(false)
+            setAnswerWord("")
             const response = await get(apiRoutes.training, null, {withCredentials: true});
             const data = await response.data;
             if(data) {
@@ -143,6 +148,24 @@ export default function Card({setTraining}) {
         }
     }
 
+    function checkWord(w1, w2) {
+        setAnswerWord(w1)
+        if (w1.toLowerCase() === w2.toLowerCase()) {
+            setOpacityTranslation(true)
+            setWord(false)
+            setInputEnable(false)
+            setAnswerWord("")
+            return true
+        }
+        setInputEnable(true)
+        return false
+    }
+
+    function enableInput() {
+        setAnswerWord("")
+        setInputEnable(!isInputEnable)
+    }
+
     return (
         <div className="w-full max-w-md">
             {!loading ? (
@@ -164,9 +187,13 @@ export default function Card({setTraining}) {
                                                 {getText(lang.training.newWord)}
                                             </span>
                                         ) : (
-                                            <span className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
-                                                {getText(lang.training.amountRepeat)} {repeat}
-                                            </span>
+                                            <>
+                                                <span
+                                                    className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
+                                                    {getText(lang.training.amountRepeat)} {repeat}
+                                                </span>
+                                                <Pen className="w-6 h-6 shrink-0 ml-4 cursor-pointer" onClick={enableInput}/>
+                                            </>
                                         )}
                                     </div>
                                 }
@@ -206,7 +233,17 @@ export default function Card({setTraining}) {
                                     </button>
                                 </>
                             )}
-
+                            {
+                                isInputEnable ? (
+                                    <div className={"w-full"}>
+                                        <input
+                                            className="border-2 border-black-300 focus:border-black-500 w-5/6 outline-none rounded-2xl p-1 sm:p-2 text-base"
+                                            onInput={(e) => checkWord(e.target.value, text)}
+                                            value={answerWord}
+                                        />
+                                    </div>
+                                ) : <></>
+                            }
                             <div className="flex gap-3 mt-8">
                                 <button
                                     className={`flex-1 py-3.5 rounded-xl font-semibold transition-all duration-200 shadow-lg cursor-pointer ${
