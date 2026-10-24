@@ -55,7 +55,7 @@ export default function About() {
                 </div>
                 <div
                     className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
-                    <div className="flex items-center justify-center gap-3 mb-4">
+                    <div className="flex items-center gap-3 mb-4">
                         <h1 className="text-2xl font-bold text-slate-800 text-center">
                             {getText(lang.support.heroes)}
                         </h1>
