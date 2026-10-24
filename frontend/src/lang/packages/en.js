@@ -3,6 +3,12 @@ export const en = {
         about: "About Us",
         support: "Support Us!"
     },
+    books: {
+        title: "Books",
+        noBooks: "No books",
+        noChapters: "No chapters",
+        emptyChapter: "Empty chapter"
+    },
     support: {
         label: "Support Us!",
         content: "Thank you for using our project, we exist only thanks to you! Support us to help our project grow:",
@@ -47,7 +53,7 @@ export const en = {
             support: "Support Us!",
             profile: "Profile",
             knowledge: "Knowledge base",
-
+            books: "Books"
         }
     },
     profileBar: {

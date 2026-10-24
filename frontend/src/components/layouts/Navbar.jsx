@@ -26,6 +26,10 @@ export default function Navbar() {
             link: innerRoutes.training,
             label: getText(lang.navbar.options.training)
         },
+        books: {
+            link: innerRoutes.books,
+            label: getText(lang.navbar.options.books)
+        },
         progress: {
             link: innerRoutes.progress,
             label: getText(lang.navbar.options.progress)
@@ -57,6 +61,10 @@ export default function Navbar() {
     }
 
     const menuGuestOptions = {
+        books: {
+            link: innerRoutes.books,
+            label: getText(lang.navbar.options.books)
+        },
         about: {
             link: innerRoutes.about,
             label: getText(lang.navbar.options.about)

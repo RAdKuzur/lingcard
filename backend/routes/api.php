@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\BookController;
 use App\Http\Controllers\DictionaryController;
 use App\Http\Controllers\LanguageController;
 use App\Http\Controllers\PostController;
@@ -25,6 +26,9 @@ Route::middleware(['throttle:api'])->group(function () {
         Route::get('/active-languages', [LanguageController::class, 'allActive'])->name('active-languages');
         Route::get('/except-languages/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
         Route::get('/map-languages', [LanguageController::class, 'map'])->name('map-languages');
+        Route::get('/books', [BookController::class, 'all'])->name('books');
+        Route::get('/books/{id}', [BookController::class, 'one'])->name('book');
+        Route::get('/chapters/{id}', [BookController::class, 'chapter'])->name('chapter');
         Route::post('/login', [AuthController::class, 'login'])->name('login');
         Route::post('/register', [AuthController::class, 'register'])->name('register');
         Route::post('/refresh', [AuthController::class, 'refresh'])->name('refresh');

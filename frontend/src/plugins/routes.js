@@ -14,5 +14,9 @@ export const innerRoutes = {
     votes: '/votes',
     votesPath: '/votes/:id',
     support: '/support',
-    knowledge: '/knowledge'
+    knowledge: '/knowledge',
+    books: '/books',
+    bookPath: '/books/:id',
+    chapters: '/chapters',
+    chapterPath: '/chapters/:id'
 }

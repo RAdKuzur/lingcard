@@ -3,6 +3,12 @@ export const ru = {
         about: "О нас",
         support: "Поддержите нас!"
     },
+    books: {
+        title: "Книги",
+        noBooks: "Нет книг",
+        noChapters: "Нет глав",
+        emptyChapter: "Пустая глава"
+    },
     support: {
         label: "Поддержите нас!",
         content: "Спасибо, что Вы пользуетесь нашим проектом, мы существуем только благодаря Вам! Поддержите нас, чтобы наш проект развивался:",
@@ -46,7 +52,8 @@ export const ru = {
             about: "О нас",
             support: "Поддержите нас!",
             profile: "Профиль",
-            knowledge: "База знаний"
+            knowledge: "База знаний",
+            books: "Книги"
         }
     },
     profileBar: {

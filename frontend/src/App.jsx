@@ -23,6 +23,9 @@ import CreateArticle from "./components/article/CreateArticle.jsx";
 import Support from "./components/support/Support.jsx";
 import Home from "./components/home/Home.jsx";
 import Knowledge from "./components/knowledge/Knowledge.jsx";
+import CatalogBook from "./components/book/CatalogBook.jsx";
+import Book from "./components/book/Book.jsx";
+import Chapter from "./components/book/Chapter.jsx";
 function App() {
     const auth = useAuth()
     const username = auth.user?.username;
@@ -105,6 +108,15 @@ function App() {
                 {/*        <VotePage/>*/}
                 {/*    </ProtectedRoute>*/}
                 {/*}/>*/}
+                <Route path={innerRoutes.books} element={
+                    <CatalogBook/>
+                }/>
+                <Route path={innerRoutes.bookPath} element={
+                    <Book/>
+                }/>
+                <Route path={innerRoutes.chapterPath} element={
+                    <Chapter/>
+                }/>
                 <Route path={innerRoutes.about} element={
                     <About/>
                 }/>

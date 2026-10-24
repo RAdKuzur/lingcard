@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
             UserSeeder::class,
             WordSeeder::class,
             PostSeeder::class,
-            VoteSeeder::class
+            BookSeeder::class
         ]);
     }
 }

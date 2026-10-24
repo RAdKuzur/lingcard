@@ -25,7 +25,9 @@ export const apiRoutes = {
     suggestions: apiUrl + '/suggestions',
     langMap: apiUrl + '/map-languages',
     comments: apiUrl + '/comments',
-    packages: apiUrl + '/packages'
+    packages: apiUrl + '/packages',
+    books: apiUrl + '/books',
+    chapters: apiUrl + '/chapters'
 }
 
 export function apiDictionary(baseLangId, targetLangId, page, limit, search = null) {
