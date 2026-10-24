@@ -3,9 +3,13 @@
 namespace App\Providers;
 
 use App\Repositories\AvailableLanguageRepository;
+use App\Repositories\BookRepository;
+use App\Repositories\ChapterRepository;
 use App\Repositories\CommentRepository;
 use App\Repositories\CourseRepository;
 use App\Repositories\Interfaces\AvailableLanguageRepositoryInterface;
+use App\Repositories\Interfaces\BookRepositoryInterface;
+use App\Repositories\Interfaces\ChapterRepositoryInterface;
 use App\Repositories\Interfaces\CommentRepositoryInterface;
 use App\Repositories\Interfaces\CourseRepositoryInterface;
 use App\Repositories\Interfaces\LanguageRepositoryInterface;
@@ -58,6 +62,8 @@ class AppServiceProvider extends ServiceProvider
         $this->app->bind(VoteOptionRepositoryInterface::class, VoteOptionRepository::class);
         $this->app->bind(VoiceRepositoryInterface::class, VoiceRepository::class);
         $this->app->bind(CommentRepositoryInterface::class, CommentRepository::class);
+        $this->app->bind(BookRepositoryInterface::class, BookRepository::class);
+        $this->app->bind(ChapterRepositoryInterface::class, ChapterRepository::class);
     }
 
     /**

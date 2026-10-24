@@ -6,16 +6,16 @@ use App\DTO\BookDTO;
 use App\DTO\BookExtendedDTO;
 use App\DTO\ChapterDTO;
 use App\DTO\ChapterExtendedDTO;
-use App\Repositories\BookRepository;
-use App\Repositories\ChapterRepository;
+use App\Repositories\Interfaces\BookRepositoryInterface;
+use App\Repositories\Interfaces\ChapterRepositoryInterface;
 
 class BookService
 {
-    public BookRepository $bookRepository;
-    public ChapterRepository $chapterRepository;
+    public BookRepositoryInterface $bookRepository;
+    public ChapterRepositoryInterface $chapterRepository;
     public function __construct(
-        BookRepository $bookRepository,
-        ChapterRepository $chapterRepository
+        BookRepositoryInterface $bookRepository,
+        ChapterRepositoryInterface $chapterRepository
     )
     {
         $this->bookRepository = $bookRepository;
