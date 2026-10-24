@@ -30,26 +30,26 @@ export default function Navbar() {
             link: innerRoutes.progress,
             label: getText(lang.navbar.options.progress)
         },
-        dictionary: {
-            link: innerRoutes.dictionary,
-            label: getText(lang.navbar.options.dictionary)
-        },
-        newLanguage: {
-            link: innerRoutes.votes,
-            label: getText(lang.navbar.options.votes)
-        },
+        // dictionary: {
+        //     link: innerRoutes.dictionary,
+        //     label: getText(lang.navbar.options.dictionary)
+        // },
+        // newLanguage: {
+        //     link: innerRoutes.votes,
+        //     label: getText(lang.navbar.options.votes)
+        // },
         about: {
             link: innerRoutes.about,
             label: getText(lang.navbar.options.about)
         },
-        support: {
-            link: innerRoutes.support,
-            label: getText(lang.navbar.options.support)
-        },
-        knowledge: {
-            link: innerRoutes.knowledge,
-            label: getText(lang.navbar.options.knowledge)
-        },
+        // support: {
+        //     link: innerRoutes.support,
+        //     label: getText(lang.navbar.options.support)
+        // },
+        // knowledge: {
+        //     link: innerRoutes.knowledge,
+        //     label: getText(lang.navbar.options.knowledge)
+        // },
         profile: {
             link: innerRoutes.profile,
             label: getText(lang.navbar.options.profile)
@@ -61,14 +61,14 @@ export default function Navbar() {
             link: innerRoutes.about,
             label: getText(lang.navbar.options.about)
         },
-        support: {
-            link: innerRoutes.support,
-            label: getText(lang.navbar.options.support)
-        },
-        knowledge: {
-            link: innerRoutes.knowledge,
-            label: getText(lang.navbar.options.knowledge)
-        },
+        // support: {
+        //     link: innerRoutes.support,
+        //     label: getText(lang.navbar.options.support)
+        // },
+        // knowledge: {
+        //     link: innerRoutes.knowledge,
+        //     label: getText(lang.navbar.options.knowledge)
+        // },
     }
 
     const isActivePath = (path) => {

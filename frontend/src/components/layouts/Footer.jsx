@@ -10,9 +10,9 @@ export default function Footer() {
                     <a href={innerRoutes.about} className="hover:text-slate-700 transition-colors">
                         {getText(lang.footer.about)}
                     </a>
-                    <a href={innerRoutes.support} className="hover:text-slate-700 transition-colors">
-                        {getText(lang.footer.support)}
-                    </a>
+                    {/*<a href={innerRoutes.support} className="hover:text-slate-700 transition-colors">*/}
+                    {/*    {getText(lang.footer.support)}*/}
+                    {/*</a>*/}
                 </div>
             </div>
         </footer>

@@ -67,11 +67,11 @@ function App() {
                         <Article/>
                     </ProtectedRoute>
                 }/>
-                <Route path={innerRoutes.article} element={
-                    <ProtectedRoute>
-                        <CreateArticle/>
-                    </ProtectedRoute>
-                }/>
+                {/*<Route path={innerRoutes.article} element={*/}
+                {/*    <ProtectedRoute>*/}
+                {/*        <CreateArticle/>*/}
+                {/*    </ProtectedRoute>*/}
+                {/*}/>*/}
                 <Route path={innerRoutes.training} element={
                     <ProtectedRoute>
                         <Training/>
@@ -82,35 +82,35 @@ function App() {
                         <Progress/>
                     </ProtectedRoute>
                 }/>
-                <Route path={innerRoutes.dictionary} element={
-                    <ProtectedRoute>
-                        <Dictionary/>
-                    </ProtectedRoute>
-                }/>
-                <Route path={innerRoutes.knowledge} element={
-                    <Knowledge/>
-                }/>
+                {/*<Route path={innerRoutes.dictionary} element={*/}
+                {/*    <ProtectedRoute>*/}
+                {/*        <Dictionary/>*/}
+                {/*    </ProtectedRoute>*/}
+                {/*}/>*/}
+                {/*<Route path={innerRoutes.knowledge} element={*/}
+                {/*    <Knowledge/>*/}
+                {/*}/>*/}
                 <Route path={innerRoutes.profile} element={
                     <ProtectedRoute>
                         <Profile/>
                     </ProtectedRoute>
                 }/>
-                <Route path={innerRoutes.votes} element={
-                    <ProtectedRoute>
-                        <Vote/>
-                    </ProtectedRoute>
-                }/>
-                <Route path={innerRoutes.votesPath} element={
-                    <ProtectedRoute>
-                        <VotePage/>
-                    </ProtectedRoute>
-                }/>
+                {/*<Route path={innerRoutes.votes} element={*/}
+                {/*    <ProtectedRoute>*/}
+                {/*        <Vote/>*/}
+                {/*    </ProtectedRoute>*/}
+                {/*}/>*/}
+                {/*<Route path={innerRoutes.votesPath} element={*/}
+                {/*    <ProtectedRoute>*/}
+                {/*        <VotePage/>*/}
+                {/*    </ProtectedRoute>*/}
+                {/*}/>*/}
                 <Route path={innerRoutes.about} element={
                     <About/>
                 }/>
-                <Route path={innerRoutes.support} element={
-                    <Support/>
-                }/>
+                {/*<Route path={innerRoutes.support} element={*/}
+                {/*    <Support/>*/}
+                {/*}/>*/}
             </Routes>
             {notification && (
                 <div className="fixed bottom-5 right-5 bg-green-600 text-white px-4 py-3 rounded-lg shadow-lg">

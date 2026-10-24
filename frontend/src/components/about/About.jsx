@@ -42,7 +42,8 @@ export default function About() {
                 <ButtonBack />
             </div>
             <div className="max-w-5xl mx-auto space-y-4 sm:space-y-6">
-                <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-4 sm:p-6 md:p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
+                <div
+                    className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-4 sm:p-6 md:p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
                     <div className="flex items-center gap-3 mb-3 sm:mb-4">
                         <h1 className="text-xl sm:text-2xl font-bold text-slate-800">
                             {getText(lang.about.me)}
@@ -52,8 +53,20 @@ export default function About() {
                         {getText(lang.about.mission)}
                     </p>
                 </div>
-
-                <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-4 sm:p-6 md:p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
+                <div
+                    className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
+                    <div className="flex items-center justify-center gap-3 mb-4">
+                        <h1 className="text-2xl font-bold text-slate-800 text-center">
+                            {getText(lang.support.heroes)}
+                        </h1>
+                    </div>
+                    <p className="text-slate-600 leading-relaxed text-lg mt-12 mb-12">
+                        <span className="block">1. RKuzur - LingCard's creator</span>
+                        <span className="block">2. Rin - UI/UX, designer</span>
+                    </p>
+                </div>
+                <div
+                    className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-4 sm:p-6 md:p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
                     <div className="flex items-center gap-3 mb-4">
                         <h1 className="text-xl sm:text-2xl font-bold text-slate-800">
                             {getText(lang.about.contacts)}
@@ -119,45 +132,59 @@ export default function About() {
                         </div>
                     </div>
                 </div>
-                <div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 overflow-hidden">
-                    <div className="p-4 sm:p-6">
-                        <h1 className="text-xl sm:text-2xl font-bold text-slate-800 text-center mb-4">
-                            {getText(lang.about.languages)}
-                        </h1>
+                <div
+                    className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-8 transition-all hover:shadow-xl hover:shadow-slate-300/50">
+                    <div className="flex items-center gap-3 mb-4">
+                        <h1 className="text-2xl font-bold text-slate-800">{getText(lang.support.label)}</h1>
                     </div>
-
-                    <div className="divide-y divide-slate-100">
-                        {map.map((language) => (
-                            <div
-                                key={language.code}
-                                className="p-4 sm:p-6 hover:bg-slate-50 transition-colors"
-                            >
-                                <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-4">
-                                    <div className="flex items-center gap-3 sm:w-1/3">
-                                        <img
-                                            src={`/flags/${language.code}.svg`}
-                                            alt={language.code}
-                                            className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover border-2 border-slate-200 flex-shrink-0"
-                                        />
-                                        <span className="text-sm sm:text-base">
-                                        {language.label}
-                                    </span>
-                                    </div>
-                                    <div className="flex flex-wrap items-center gap-2 sm:gap-3 sm:flex-1">
-                                        {language.available_codes.map((code) => (
-                                            <img
-                                                key={code}
-                                                src={`/flags/${code}.svg`}
-                                                alt={code}
-                                                className="w-8 h-8 sm:w-10 sm:h-10 rounded-full object-cover border-2 border-slate-200 flex-shrink-0 hover:scale-110 transition-transform"
-                                            />
-                                        ))}
-                                    </div>
-                                </div>
-                            </div>
-                        ))}
+                    <p className="text-slate-600 leading-relaxed text-lg">
+                        {getText(lang.support.content)} <br/><br/>
+                    </p>
+                    <div className={'flex gap-3'}>
+                        <ButtonLink link={donations.DA.link} color={'white'} label={donations.DA.label}
+                                    icon={donations.DA.icon}></ButtonLink>
+                        <ButtonLink link={donations.BOOSTY.link} color={'white'} label={donations.BOOSTY.label}
+                                    icon={donations.BOOSTY.icon}></ButtonLink>
                     </div>
                 </div>
+                {/*<div className="bg-white rounded-2xl shadow-lg shadow-slate-200/50 overflow-hidden">*/}
+                {/*    <div className="p-4 sm:p-6">*/}
+                {/*        <h1 className="text-xl sm:text-2xl font-bold text-slate-800 text-center mb-4">*/}
+                {/*            {getText(lang.about.languages)}*/}
+                {/*        </h1>*/}
+                {/*    </div>*/}
+                {/*    <div className="divide-y divide-slate-100">*/}
+                {/*        {map.map((language) => (*/}
+                {/*            <div*/}
+                {/*                key={language.code}*/}
+                {/*                className="p-4 sm:p-6 hover:bg-slate-50 transition-colors"*/}
+                {/*            >*/}
+                {/*                <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-4">*/}
+                {/*                    <div className="flex items-center gap-3 sm:w-1/3">*/}
+                {/*                        <img*/}
+                {/*                            src={`/flags/${language.code}.svg`}*/}
+                {/*                            alt={language.code}*/}
+                {/*                            className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover border-2 border-slate-200 flex-shrink-0"*/}
+                {/*                        />*/}
+                {/*                        <span className="text-sm sm:text-base">*/}
+                {/*                        {language.label}*/}
+                {/*                    </span>*/}
+                {/*                    </div>*/}
+                {/*                    <div className="flex flex-wrap items-center gap-2 sm:gap-3 sm:flex-1">*/}
+                {/*                        {language.available_codes.map((code) => (*/}
+                {/*                            <img*/}
+                {/*                                key={code}*/}
+                {/*                                src={`/flags/${code}.svg`}*/}
+                {/*                                alt={code}*/}
+                {/*                                className="w-8 h-8 sm:w-10 sm:h-10 rounded-full object-cover border-2 border-slate-200 flex-shrink-0 hover:scale-110 transition-transform"*/}
+                {/*                            />*/}
+                {/*                        ))}*/}
+                {/*                    </div>*/}
+                {/*                </div>*/}
+                {/*            </div>*/}
+                {/*        ))}*/}
+                {/*    </div>*/}
+                {/*</div>*/}
             </div>
         </main>
     );
