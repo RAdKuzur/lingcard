@@ -15,7 +15,7 @@ class ChapterRepository implements ChapterRepositoryInterface
         return Chapter::find($id);
     }
     public function findByBookID($bookID) {
-        return Chapter::where('book_id', $bookID)->get();
+        return Chapter::where('book_id', $bookID)->orderBy('number', 'ASC')->get();
     }
     public function insert(array $data) : bool {
         return DB::table('chapters')->insert($data);
