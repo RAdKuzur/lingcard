@@ -1,0 +1,20 @@
+name: Seed
+
+on:
+  workflow_dispatch:
+
+jobs:
+  seed:
+    runs-on: self-hosted
+    environment: "production"
+    steps:
+      - name: Migrate
+        run: |
+          cd /root/lingcard
+          docker compose exec backend php artisan migrate:reset
+          docker compose exec backend php artisan migrate
+
+      - name: Seed
+        run: |
+          cd /root/lingcard
+          docker compose exec backend php artisan db:seed
