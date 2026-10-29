@@ -10,6 +10,7 @@ export default function Book() {
     const {redirect} = useRedirect()
     const [title, setTitle] = useState('')
     const [chapters, setChapters] = useState([])
+    const [year, setYear] = useState('')
 
     useEffect(() => {
         const fetchPosts = async () => {
@@ -18,6 +19,7 @@ export default function Book() {
                 const response = await get(apiRoutes.books + '/' + id, {}, {withCredentials: true});
                 const data = await response.data;
                 setTitle(data.title)
+                setYear(data.year)
                 setChapters(data.chapters)
 
             } catch (error) {
@@ -37,23 +39,25 @@ export default function Book() {
                     <div className={"flex justify-between items-center mb-3"}>
                         <div className="flex items-center gap-4">
                             <ButtonBack/>
-                            <h1 className="text-2xl font-bold text-slate-800">{title}</h1>
+                            <h1 className="text-2xl font-bold text-slate-800">{title + ' ' + '(' + year + ')'}</h1>
                         </div>
                         <div className={'flex items-center gap-4 justify-between'}>
                         </div>
                     </div>
                     {chapters.length > 0 ? (
                         chapters.map((e) => (
-                            <div key={e.id} className="cursor-pointer bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"
+                            <div key={e.id} className="cursor-pointer bg-white items-center gap-3 mb-4 shadow rounded-3xl p-3 transition-all"
                                  onClick={() => goToChapter(e.id)}>
-                                <div className={'flex justify-between items-start'}>
-                                    <div className="flex items-center gap-3 mb-4">
-                                        <h1 className="text-xl font-bold text-slate-800">{e.name}</h1>
-                                    </div>
-                                    <div className="flex items-center gap-2 mb-4">
+                                <div className={'flex gap-2'}>
+                                    <div className="flex items-center ">
                                         <span className="text-sm font-medium text-slate-700">
                                             # {e.number}
                                         </span>
+                                    </div>
+                                    <div className={"border-l border-gray-500"}>
+                                    </div>
+                                    <div className="flex items-center">
+                                        <h1 className="text-xl font-bold text-slate-800">{e.name}</h1>
                                     </div>
                                 </div>
                             </div>
