@@ -4,7 +4,7 @@ import { apiRoutes } from "../../plugins/apiRoutes.js";
 import { getText, lang } from "../../lang/lang.js";
 import ButtonBack from "../layouts/ButtonBack.jsx";
 
-function WordWithHint({ word, hints }) {
+function WordWithHint({ word, hints, help }) {
     const [open, setOpen] = useState(false);
     const ref = useRef(null);
 
@@ -18,7 +18,7 @@ function WordWithHint({ word, hints }) {
     }, [open]);
 
     return (
-        <span ref={ref} className="relative inline-block">
+        help ? (<span ref={ref} className="relative inline-block">
             <button
                 type="button"
                 onClick={() => setOpen((v) => !v)}
@@ -30,24 +30,31 @@ function WordWithHint({ word, hints }) {
             >
                 {word}
             </button>
-
             {open && (
                 <span
                     role="tooltip"
                     className="pointer-events-none absolute left-1/2 bottom-full z-20 mb-2 -translate-x-1/2 w-max max-w-[80vw] whitespace-normal text-center rounded-lg bg-slate-800 px-2.5 py-1 text-xs font-normal text-white shadow-lg"
                 >
-                    {hints}
-                    <span className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800" />
-                </span>
+                {hints}
+                    <span
+                        className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"/>
+            </span>
             )}
+        </span>) :
+        <span ref={ref} className="relative inline-block">
+            {word}
         </span>
     );
 }
 
 export default function Chapter() {
+    const [help, setHelp] = useState(false)
     const [chapter, setChapter] = useState(null);
     const [textChapter, setTextChapter] = useState(null);
-
+    const [hover, setHover] = useState(false);
+    function changeStatus(status) {
+        setHelp(!status)
+    }
     useEffect(() => {
         const fetchPosts = async () => {
             try {
@@ -55,7 +62,7 @@ export default function Chapter() {
                 const response = await get(
                     apiRoutes.chapters + "/" + id,
                     {},
-                    { withCredentials: true }
+                    {withCredentials: true}
                 );
                 const data = await response.data;
                 setChapter(data);
@@ -73,7 +80,24 @@ export default function Chapter() {
                 <div>
                     <div className={"flex justify-between items-center mb-3"}>
                         <div className="flex items-center gap-4">
-                            <ButtonBack />
+                            <ButtonBack/>
+                        </div>
+                        <div className="flex items-center gap-4">
+                            <div
+                                className={[
+                                    'flex items-center gap-2 px-4 py-2 rounded-xl cursor-pointer',
+                                    'transition-all duration-200 border font-bold',
+                                    hover
+                                        ? 'bg-slate-100 border-slate-300 shadow'
+                                        : 'bg-white border-slate-200 shadow-sm',
+                                    help ? 'text-blue-500' : 'text-slate-600',
+                                ].join(' ')}
+                                onClick={() => changeStatus(help)}
+                                onMouseEnter={() => setHover(true)}
+                                onMouseLeave={() => setHover(false)}
+                            >
+                                ?
+                            </div>
                         </div>
                     </div>
                     {chapter ? (
@@ -105,7 +129,7 @@ export default function Chapter() {
                                                 <span key={index}>
                                                     {isPunct ? "" : " "}
                                                     {e.hints ? (
-                                                        <WordWithHint word={e.word} hints={e.hints} />
+                                                        <WordWithHint word={e.word} hints={e.hints} help={help} />
                                                     ) : (
                                                         e.word
                                                     )}
