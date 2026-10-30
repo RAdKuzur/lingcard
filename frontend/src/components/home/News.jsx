@@ -8,6 +8,7 @@ import ArrowDown from "../svg/ArrowDown.jsx";
 import Choose from "../svg/Choose.jsx";
 import Location from "../svg/Location.jsx";
 import View from "../svg/View.jsx";
+import Loading from "../layouts/Loading.jsx";
 
 export default function News() {
     const {redirect} = useRedirect()
@@ -15,6 +16,7 @@ export default function News() {
     const [languagePost, setLanguagePost] = useState(localStorage.getItem('lang') ?? 'en')
     const [posts, setPosts] = useState([])
     const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false);
+    const [loading, setLoading] = useState(true)
     const languageDropdownRef = useRef(null);
 
     useEffect(() => {
@@ -25,6 +27,7 @@ export default function News() {
                 const data = await response.data;
                 setPosts(data);
                 setLanguage(lang1);
+                setLoading(false)
             } catch (error) {
                 console.error('Error fetching posts:', error);
             }
@@ -60,7 +63,9 @@ export default function News() {
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
             <div className="max-w-5xl mx-auto space-y-8">
-                <div>
+                {
+                    loading ? <Loading/> :
+                    <div>
                     <div className={"flex justify-between items-center mb-3"}>
                         <div className="flex items-center gap-3 pl-4">
                             <h1 className="text-2xl font-bold text-slate-800">{getText(lang.news.news)}</h1>
@@ -179,6 +184,7 @@ export default function News() {
                         </div>
                     )}
                 </div>
+                }
             </div>
         </main>
     );

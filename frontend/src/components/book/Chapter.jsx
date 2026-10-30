@@ -3,6 +3,7 @@ import { get } from "../../plugins/request.js";
 import { apiRoutes } from "../../plugins/apiRoutes.js";
 import { getText, lang } from "../../lang/lang.js";
 import ButtonBack from "../layouts/ButtonBack.jsx";
+import Loading from "../layouts/Loading.jsx";
 
 function WordWithHint({ word, hints, help }) {
     const [open, setOpen] = useState(false);
@@ -52,6 +53,7 @@ export default function Chapter() {
     const [chapter, setChapter] = useState(null);
     const [textChapter, setTextChapter] = useState(null);
     const [hover, setHover] = useState(false);
+    const [loading, setLoading] = useState(true)
     function changeStatus(status) {
         setHelp(!status)
     }
@@ -67,6 +69,7 @@ export default function Chapter() {
                 const data = await response.data;
                 setChapter(data);
                 setTextChapter(JSON.parse(data.content));
+                setLoading(false)
             } catch (error) {
                 console.error("Error fetching chapter:", error);
             }
@@ -77,77 +80,79 @@ export default function Chapter() {
     return (
         <main className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 p-6">
             <div className="max-w-5xl mx-auto space-y-8">
-                <div>
-                    <div className={"flex justify-between items-center mb-3"}>
-                        <div className="flex items-center gap-4">
-                            <ButtonBack/>
+                { loading ? <Loading/> :
+                    <div>
+                        <div className={"flex justify-between items-center mb-3"}>
+                            <div className="flex items-center gap-4">
+                                <ButtonBack/>
+                            </div>
+                            <div className="flex items-center gap-4">
+                                <div
+                                    className={[
+                                        'flex items-center gap-2 px-4 py-2 rounded-xl cursor-pointer',
+                                        'transition-all duration-200 border font-bold',
+                                        hover
+                                            ? 'bg-slate-100 border-slate-300 shadow'
+                                            : 'bg-white border-slate-200 shadow-sm',
+                                        help ? 'text-blue-500' : 'text-slate-600',
+                                    ].join(' ')}
+                                    onClick={() => changeStatus(help)}
+                                    onMouseEnter={() => setHover(true)}
+                                    onMouseLeave={() => setHover(false)}
+                                >
+                                    ?
+                                </div>
+                            </div>
                         </div>
-                        <div className="flex items-center gap-4">
+                        {chapter ? (
                             <div
-                                className={[
-                                    'flex items-center gap-2 px-4 py-2 rounded-xl cursor-pointer',
-                                    'transition-all duration-200 border font-bold',
-                                    hover
-                                        ? 'bg-slate-100 border-slate-300 shadow'
-                                        : 'bg-white border-slate-200 shadow-sm',
-                                    help ? 'text-blue-500' : 'text-slate-600',
-                                ].join(' ')}
-                                onClick={() => changeStatus(help)}
-                                onMouseEnter={() => setHover(true)}
-                                onMouseLeave={() => setHover(false)}
+                                key={chapter.id}
+                                className="bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"
                             >
-                                ?
+                                <div className={"flex justify-between items-start"}>
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <h1 className="text-xl font-bold text-slate-800">
+                                            {chapter.author + ". " + chapter.book + ". " + chapter.name}
+                                        </h1>
+                                    </div>
+                                    <div className="flex items-center gap-2 mb-4">
+                                        <span className="text-sm font-medium text-slate-700">
+                                            # {chapter.number}
+                                        </span>
+                                    </div>
+                                </div>
+                                <div className="pt-4 border-t border-slate-100">
+                                    {textChapter.map((paragraph, pIndex) => (
+                                        <p
+                                            key={pIndex}
+                                            className="text-slate-600 font-medium mb-4 leading-relaxed"
+                                        >
+                                            {paragraph.map((e, index) => {
+                                                const isPunct = /^[.,;:!?–—-]+$/.test(e.word);
+                                                return (
+                                                    <span key={index}>
+                                                        {isPunct ? "" : " "}
+                                                        {e.hints ? (
+                                                            <WordWithHint word={e.word} hints={e.hints} help={help}/>
+                                                        ) : (
+                                                            e.word
+                                                        )}
+                                                    </span>
+                                                );
+                                            })}
+                                        </p>
+                                    ))}
+                                </div>
                             </div>
-                        </div>
+                        ) : (
+                            <div className="text-center py-12">
+                                <p className="text-slate-500 text-lg">
+                                    {getText(lang.books.emptyChapter)}
+                                </p>
+                            </div>
+                        )}
                     </div>
-                    {chapter ? (
-                        <div
-                            key={chapter.id}
-                            className="bg-white items-center gap-3 mb-4 shadow rounded-3xl p-8 transition-all"
-                        >
-                            <div className={"flex justify-between items-start"}>
-                                <div className="flex items-center gap-3 mb-4">
-                                    <h1 className="text-xl font-bold text-slate-800">
-                                        {chapter.author + ". " + chapter.book + ". " + chapter.name}
-                                    </h1>
-                                </div>
-                                <div className="flex items-center gap-2 mb-4">
-                                    <span className="text-sm font-medium text-slate-700">
-                                        # {chapter.number}
-                                    </span>
-                                </div>
-                            </div>
-                            <div className="pt-4 border-t border-slate-100">
-                                {textChapter.map((paragraph, pIndex) => (
-                                    <p
-                                        key={pIndex}
-                                        className="text-slate-600 font-medium mb-4 leading-relaxed"
-                                    >
-                                        {paragraph.map((e, index) => {
-                                            const isPunct = /^[.,;:!?–—-]+$/.test(e.word);
-                                            return (
-                                                <span key={index}>
-                                                    {isPunct ? "" : " "}
-                                                    {e.hints ? (
-                                                        <WordWithHint word={e.word} hints={e.hints} help={help} />
-                                                    ) : (
-                                                        e.word
-                                                    )}
-                                                </span>
-                                            );
-                                        })}
-                                    </p>
-                                ))}
-                            </div>
-                        </div>
-                    ) : (
-                        <div className="text-center py-12">
-                            <p className="text-slate-500 text-lg">
-                                {getText(lang.books.emptyChapter)}
-                            </p>
-                        </div>
-                    )}
-                </div>
+                }
             </div>
         </main>
     );
