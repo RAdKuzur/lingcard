@@ -33,7 +33,6 @@
 {"kz":"ер азамат, еркек","ru":"мужчина","level":2,"transcription":null}
 {"kz":"ерлі-зайыптылар","ru":"супруги","level":4,"transcription":null}
 {"kz":"жағымпаз","ru":"подхалим","level":5,"transcription":null}
-{"kz":"жалқау","ru":"лентяй","level":3,"transcription":null}
 {"kz":"жасөспірім","ru":"подросток","level":3,"transcription":null}
 {"kz":"жастар","ru":"молодёжь","level":2,"transcription":null}
 {"kz":"жау","ru":"враг","level":2,"transcription":null}
@@ -131,7 +130,6 @@
 {"kz":"мұражай","ru":"музей","level":2,"transcription":null}
 {"kz":"ойын-сауық орталығы","ru":"торгово-развлекательный центр","level":4,"transcription":null}
 {"kz":"орталық","ru":"центр","level":2,"transcription":null}
-{"kz":"орын","ru":"место","level":1,"transcription":null}
 {"kz":"пошта","ru":"почта","level":2,"transcription":null}
 {"kz":"сағат жөндеу","ru":"ремонт часов","level":3,"transcription":null}
 {"kz":"сауда орталығы","ru":"торговый центр","level":3,"transcription":null}
@@ -319,7 +317,7 @@
 {"kz":"белгі","ru":"знак","level":2,"transcription":null}
 {"kz":"бестік","ru":"пятёрка","level":3,"transcription":null}
 {"kz":"биіктік","ru":"высота","level":3,"transcription":null}
-{"kz":"бояу","ru":"краска","level":2,"transcription":null}
+{"kz":"бояу","ru":"краска, красить","level":2,"transcription":null}
 {"kz":"бөлшек","ru":"часть, дробь","level":3,"transcription":null}
 {"kz":"білім","ru":"знания","level":2,"transcription":null}
 {"kz":"білім ордасы","ru":"учебное заведение","level":4,"transcription":null}
@@ -350,8 +348,7 @@
 {"kz":"инициал","ru":"инициал","level":4,"transcription":null}
 {"kz":"кәмелеттік аттестат","ru":"аттестат зрелости","level":5,"transcription":null}
 {"kz":"келі","ru":"килограмм","level":2,"transcription":null}
-{"kz":"кесте","ru":"график, расписание","level":3,"transcription":null}
-{"kz":"кесте","ru":"график, таблица","level":3,"transcription":null}
+{"kz":"кесте","ru":"график, расписание, таблица","level":3,"transcription":null}
 {"kz":"килограмм","ru":"килограмм","level":2,"transcription":null}
 {"kz":"компьютер","ru":"компьютер","level":2,"transcription":null}
 {"kz":"күнделік","ru":"дневник","level":3,"transcription":null}
@@ -390,7 +387,6 @@
 {"kz":"сурет салу","ru":"рисование","level":3,"transcription":null}
 {"kz":"сұхбат, диалог","ru":"диалог","level":3,"transcription":null}
 {"kz":"сызғыш","ru":"линейка","level":3,"transcription":null}
-{"kz":"сызу","ru":"черчение","level":3,"transcription":null}
 {"kz":"сызық","ru":"линия","level":2,"transcription":null}
 {"kz":"сынақ","ru":"зачёт","level":3,"transcription":null}
 {"kz":"сынып","ru":"класс","level":2,"transcription":null}
@@ -528,7 +524,6 @@
 {"kz":"шұжық","ru":"колбаса","level":3,"transcription":null}
 {"kz":"шырын","ru":"сок","level":2,"transcription":null}
 {"kz":"ірімшік","ru":"сыр","level":3,"transcription":null}
-{"kz":"ағаш","ru":"дерево","level":1,"transcription":null}
 {"kz":"ағыс","ru":"течение","level":3,"transcription":null}
 {"kz":"ай","ru":"луна","level":1,"transcription":null}
 {"kz":"айдың тұтылуы","ru":"лунное затмение","level":5,"transcription":null}
@@ -540,7 +535,6 @@
 {"kz":"астық тұқымдастар","ru":"злаки","level":5,"transcription":null}
 {"kz":"атмосфера","ru":"атмосфера","level":4,"transcription":null}
 {"kz":"атмосфера қысымы","ru":"атмосферное давление","level":5,"transcription":null}
-{"kz":"ауа","ru":"воздух","level":1,"transcription":null}
 {"kz":"ауа райы","ru":"погода","level":2,"transcription":null}
 {"kz":"ашық күн","ru":"ясный день","level":2,"transcription":null}
 {"kz":"балды өсімдіктер","ru":"медоносные растения","level":5,"transcription":null}
@@ -657,7 +651,6 @@
 {"kz":"әтеш","ru":"петух","level":3,"transcription":null}
 {"kz":"бақа","ru":"лягушка","level":3,"transcription":null}
 {"kz":"балапан","ru":"цыплёнок","level":3,"transcription":null}
-{"kz":"балық","ru":"рыба","level":1,"transcription":null}
 {"kz":"барыс","ru":"барс","level":5,"transcription":null}
 {"kz":"бекіре","ru":"осётр","level":5,"transcription":null}
 {"kz":"бие","ru":"кобыла","level":4,"transcription":null}
@@ -701,7 +694,6 @@
 {"kz":"қарақұйрық","ru":"джейран","level":6,"transcription":null}
 {"kz":"қараторғай","ru":"скворец","level":4,"transcription":null}
 {"kz":"қарға","ru":"ворона","level":3,"transcription":null}
-{"kz":"қарға","ru":"ворона","level":3,"transcription":null}
 {"kz":"қаршыға","ru":"ястреб","level":4,"transcription":null}
 {"kz":"қасқыр","ru":"волк","level":2,"transcription":null}
 {"kz":"қозы","ru":"ягненок","level":3,"transcription":null}
@@ -718,7 +710,6 @@
 {"kz":"құс","ru":"птица","level":1,"transcription":null}
 {"kz":"қыран","ru":"орёл","level":3,"transcription":null}
 {"kz":"лақ","ru":"козлёнок","level":3,"transcription":null}
-{"kz":"маймыл","ru":"обезьяна","level":3,"transcription":null}
 {"kz":"маймыл","ru":"обезьяна","level":3,"transcription":null}
 {"kz":"маса","ru":"комар","level":2,"transcription":null}
 {"kz":"мысық","ru":"кошка","level":1,"transcription":null}
@@ -758,7 +749,6 @@
 {"kz":"алға басу","ru":"прогресс","level":4,"transcription":null}
 {"kz":"алғышарт","ru":"предпосылка","level":5,"transcription":null}
 {"kz":"амал, тәсіл","ru":"способ","level":3,"transcription":null}
-{"kz":"анықтау, нақтылау","ru":"уточнение","level":4,"transcription":null}
 {"kz":"аспаз","ru":"повар","level":3,"transcription":null}
 {"kz":"аудармашы","ru":"переводчик","level":3,"transcription":null}
 {"kz":"бағалау","ru":"оценка","level":3,"transcription":null}
@@ -810,13 +800,13 @@
 {"kz":"кәсіпкер","ru":"предприниматель","level":4,"transcription":null}
 {"kz":"кәсіпорын","ru":"предприятие","level":4,"transcription":null}
 {"kz":"кедергі","ru":"препятствие, преграда","level":4,"transcription":null}
-{"kz":"кездесу","ru":"встреча","level":2,"transcription":null}
+{"kz":"кездесу","ru":"встреча, встречаться","level":2,"transcription":null}
 {"kz":"келіссөз","ru":"переговоры","level":4,"transcription":null}
 {"kz":"кепілдік","ru":"гарантия","level":4,"transcription":null}
 {"kz":"көмекші","ru":"помощник","level":3,"transcription":null}
 {"kz":"көп тіл білуші","ru":"полиглот","level":5,"transcription":null}
 {"kz":"күнтізбе","ru":"календарь","level":3,"transcription":null}
-{"kz":"қабылдау","ru":"приём","level":3,"transcription":null}
+{"kz":"қабылдау","ru":"приём, принимать","level":3,"transcription":null}
 {"kz":"қаржыгер","ru":"финансист","level":5,"transcription":null}
 {"kz":"қиындық","ru":"трудность","level":3,"transcription":null}
 {"kz":"қорытынды","ru":"вывод, заключение","level":4,"transcription":null}
@@ -827,7 +817,6 @@
 {"kz":"құрылысшы","ru":"строитель","level":3,"transcription":null}
 {"kz":"маман","ru":"специалист","level":3,"transcription":null}
 {"kz":"мамандық","ru":"специальность","level":4,"transcription":null}
-{"kz":"мекеме","ru":"учреждение","level":3,"transcription":null}
 {"kz":"мектеп директоры","ru":"директор школы","level":4,"transcription":null}
 {"kz":"мұғалім","ru":"учитель","level":2,"transcription":null}
 {"kz":"мұнайшы","ru":"нефтяник","level":4,"transcription":null}
@@ -856,7 +845,7 @@
 {"kz":"табандылық","ru":"настойчивость","level":4,"transcription":null}
 {"kz":"табыс","ru":"доход","level":3,"transcription":null}
 {"kz":"талдамашы","ru":"аналитик","level":5,"transcription":null}
-{"kz":"талдау","ru":"анализ","level":4,"transcription":null}
+{"kz":"талдау","ru":"анализ, анализировать","level":4,"transcription":null}
 {"kz":"тапсырыс","ru":"заказ","level":3,"transcription":null}
 {"kz":"тәрбиеші","ru":"воспитатель","level":3,"transcription":null}
 {"kz":"тәртіп","ru":"порядок, распорядок","level":3,"transcription":null}
@@ -914,7 +903,7 @@
 {"kz":"жолақы","ru":"плата за проезд","level":4,"transcription":null}
 {"kz":"жолаушы","ru":"пассажир","level":3,"transcription":null}
 {"kz":"жолсерік","ru":"проводник","level":4,"transcription":null}
-{"kz":"жүгіру","ru":"бег","level":2,"transcription":null}
+{"kz":"жүгіру","ru":"бег, бегать","level":2,"transcription":null}
 {"kz":"жүзу бассейні","ru":"бассейн для плавания","level":4,"transcription":null}
 {"kz":"жүк","ru":"груз","level":3,"transcription":null}
 {"kz":"залал, зиян","ru":"вред","level":3,"transcription":null}
@@ -949,7 +938,7 @@
 {"kz":"орын","ru":"место","level":1,"transcription":null}
 {"kz":"өзгешелік","ru":"особенность, различие","level":4,"transcription":null}
 {"kz":"рейс, сапар","ru":"рейс","level":3,"transcription":null}
-{"kz":"сапарға шығу","ru":"путешествие, туризм","level":3,"transcription":null}
+{"kz":"сапарға шығу","ru":"путешествие, туризм, отправляться в путешествие","level":3,"transcription":null}
 {"kz":"саяхат","ru":"путешествие","level":3,"transcription":null}
 {"kz":"саяхатшы","ru":"путешественник","level":3,"transcription":null}
 {"kz":"спортшы","ru":"спортсмен","level":3,"transcription":null}
@@ -973,7 +962,6 @@
 {"kz":"ұпай","ru":"балл, очко","level":3,"transcription":null}
 {"kz":"ұстаным","ru":"позиция","level":4,"transcription":null}
 {"kz":"ұшақ","ru":"самолёт","level":2,"transcription":null}
-{"kz":"ұшу","ru":"вылет","level":3,"transcription":null}
 {"kz":"футбол","ru":"футбол","level":1,"transcription":null}
 {"kz":"хабарлама","ru":"объявление","level":3,"transcription":null}
 {"kz":"халықаралық ұшу","ru":"международный рейс","level":4,"transcription":null}
@@ -982,7 +970,7 @@
 {"kz":"шаңғы","ru":"лыжи","level":2,"transcription":null}
 {"kz":"шахматшы","ru":"шахматист","level":3,"transcription":null}
 {"kz":"шашылу","ru":"разбрасывание","level":5,"transcription":null}
-{"kz":"іздеу","ru":"поиск","level":2,"transcription":null}
+{"kz":"іздеу","ru":"поиск, искать","level":2,"transcription":null}
 {"kz":"электр қуаты","ru":"электроэнергия","level":4,"transcription":null}
 {"kz":"айтыс","ru":"айтыс, состязание поэтов","level":5,"transcription":null}
 {"kz":"айтыскер","ru":"акын-импровизатор в айтысе","level":5,"transcription":null}
@@ -1086,7 +1074,6 @@
 {"kz":"бейсболка","ru":"бейсболка","level":3,"transcription":null}
 {"kz":"белбеу","ru":"ремень","level":3,"transcription":null}
 {"kz":"белдемше","ru":"юбка","level":2,"transcription":null}
-{"kz":"белдемше","ru":"юбка","level":2,"transcription":null}
 {"kz":"белдік","ru":"пояс","level":3,"transcription":null}
 {"kz":"берет","ru":"берет","level":3,"transcription":null}
 {"kz":"бешпет","ru":"жакет, пиджак","level":4,"transcription":null}
@@ -1103,10 +1090,8 @@
 {"kz":"жаға","ru":"воротник","level":3,"transcription":null}
 {"kz":"жағалы","ru":"с воротником","level":3,"transcription":null}
 {"kz":"жадағай","ru":"плащ","level":4,"transcription":null}
-{"kz":"жадағай","ru":"плащ","level":4,"transcription":null}
 {"kz":"жаздық киім","ru":"летняя одежда","level":3,"transcription":null}
 {"kz":"жапсырма","ru":"наклейка, нашивка","level":4,"transcription":null}
-{"kz":"жейде","ru":"рубашка","level":2,"transcription":null}
 {"kz":"жейде","ru":"рубашка","level":2,"transcription":null}
 {"kz":"желпуіш, веер","ru":"веер","level":5,"transcription":null}
 {"kz":"жемпір","ru":"кофта","level":3,"transcription":null}
@@ -1134,7 +1119,6 @@
 {"kz":"қол жұмысымен тігілген киім","ru":"одежда ручной работы","level":5,"transcription":null}
 {"kz":"қол орамал","ru":"носовой платок","level":3,"transcription":null}
 {"kz":"қол сөмке","ru":"сумочка","level":3,"transcription":null}
-{"kz":"қолғап","ru":"перчатки","level":3,"transcription":null}
 {"kz":"қолғап","ru":"перчатки","level":3,"transcription":null}
 {"kz":"қолшатыр","ru":"зонт","level":3,"transcription":null}
 {"kz":"құлақшын","ru":"ушанка","level":5,"transcription":null}
@@ -1277,7 +1261,6 @@
 {"kz":"үйлену тойы","ru":"свадьба","level":3,"transcription":null}
 {"kz":"үкімет","ru":"правительство","level":4,"transcription":null}
 {"kz":"француз","ru":"француз","level":3,"transcription":null}
-{"kz":"француз","ru":"француз","level":3,"transcription":null}
 {"kz":"хабарландыру","ru":"объявление","level":4,"transcription":null}
 {"kz":"халық","ru":"народ","level":2,"transcription":null}
 {"kz":"халық саны","ru":"численность населения","level":4,"transcription":null}
@@ -1286,7 +1269,6 @@
 {"kz":"ханым","ru":"госпожа","level":4,"transcription":null}
 {"kz":"шекара","ru":"граница","level":4,"transcription":null}
 {"kz":"шенеунік","ru":"чиновник","level":4,"transcription":null}
-{"kz":"шетелдік","ru":"иностранец","level":4,"transcription":null}
 {"kz":"шығыс, күншығыс","ru":"восток","level":3,"transcription":null}
 {"kz":"шілдехана","ru":"праздник в честь новорождённого","level":5,"transcription":null}
 {"kz":"абыр-сабыр","ru":"суматоха, хаос","level":5,"transcription":null}
@@ -1340,7 +1322,7 @@
 {"kz":"қауіп","ru":"опасность","level":3,"transcription":null}
 {"kz":"қауіпсіздік","ru":"безопасность","level":4,"transcription":null}
 {"kz":"қиял","ru":"фантазия","level":3,"transcription":null}
-{"kz":"қоштасу","ru":"прощание","level":3,"transcription":null}
+{"kz":"қоштасу","ru":"прощание, прощаться","level":3,"transcription":null}
 {"kz":"қуаныш","ru":"радость","level":2,"transcription":null}
 {"kz":"құлшыныс","ru":"рвение","level":5,"transcription":null}
 {"kz":"қызығушылық","ru":"интерес","level":3,"transcription":null}
@@ -1421,7 +1403,6 @@
 {"kz":"бір күні, бірде","ru":"как-то раз, однажды","level":3,"transcription":null}
 {"kz":"бір сәтте","ru":"в одно мгновение","level":4,"transcription":null}
 {"kz":"ғасыр","ru":"век","level":3,"transcription":null}
-{"kz":"дейін, шейін","ru":"до","level":1,"transcription":null}
 {"kz":"дүйсенбі","ru":"понедельник","level":2,"transcription":null}
 {"kz":"ежелгі заман","ru":"древность","level":4,"transcription":null}
 {"kz":"енді, қазір","ru":"теперь, сейчас","level":2,"transcription":null}
@@ -1433,7 +1414,7 @@
 {"kz":"жартыжылдық","ru":"полугодие","level":4,"transcription":null}
 {"kz":"жексенбі","ru":"воскресенье","level":2,"transcription":null}
 {"kz":"желтоқсан","ru":"декабрь","level":3,"transcription":null}
-{"kz":"жиі","ru":"часто","level":2,"transcription":null}
+{"kz":"жиі","ru":"часто, частый","level":2,"transcription":null}
 {"kz":"жұма","ru":"пятница","level":2,"transcription":null}
 {"kz":"жыл","ru":"год","level":1,"transcription":null}
 {"kz":"жыл басы","ru":"начало года","level":3,"transcription":null}
@@ -1509,7 +1490,6 @@
 {"kz":"автотұрақ","ru":"автостоянка","level":4,"transcription":null}
 {"kz":"арнаулы тілші","ru":"специальный корреспондент","level":5,"transcription":null}
 {"kz":"атақты әртіс","ru":"знаменитый артист","level":4,"transcription":null}
-{"kz":"атау","ru":"наименование","level":4,"transcription":null}
 {"kz":"аяқталу","ru":"окончание, завершение","level":3,"transcription":null}
 {"kz":"әңгіме","ru":"беседа","level":3,"transcription":null}
 {"kz":"БАҚ (бұқаралық ақпарат құралдары)","ru":"СМИ","level":4,"transcription":null}
@@ -1545,7 +1525,6 @@
 {"kz":"корректура","ru":"корректура","level":5,"transcription":null}
 {"kz":"көңілді кино","ru":"забавный фильм","level":3,"transcription":null}
 {"kz":"көпшілік","ru":"общество, публика","level":3,"transcription":null}
-{"kz":"көрсетілім","ru":"показ","level":4,"transcription":null}
 {"kz":"көрсетілім","ru":"трансляция, показ","level":4,"transcription":null}
 {"kz":"күлкілі әңгіме","ru":"анекдот","level":4,"transcription":null}
 {"kz":"күтпеген оқиға","ru":"неожиданное событие","level":4,"transcription":null}
@@ -1558,8 +1537,7 @@
 {"kz":"құрал","ru":"средство","level":3,"transcription":null}
 {"kz":"қызық бағдарлама","ru":"интересная программа","level":3,"transcription":null}
 {"kz":"қызық телешоу","ru":"интересное телешоу","level":3,"transcription":null}
-{"kz":"қызықты мәліметтер","ru":"занимательная информация","level":4,"transcription":null}
-{"kz":"қызықты мәліметтер","ru":"интересные факты","level":3,"transcription":null}
+{"kz":"қызықты мәліметтер","ru":"занимательная информация, интересные факты","level":4,"transcription":null}
 {"kz":"қызықты оқиға","ru":"интересное событие","level":3,"transcription":null}
 {"kz":"мазмұны","ru":"(его) содержание","level":3,"transcription":null}
 {"kz":"мақала","ru":"статья","level":3,"transcription":null}
@@ -1598,7 +1576,6 @@
 {"kz":"фильм түсіру","ru":"съёмки фильма","level":4,"transcription":null}
 {"kz":"фотосурет","ru":"фотография","level":3,"transcription":null}
 {"kz":"хабар","ru":"весть, новости","level":3,"transcription":null}
-{"kz":"шебер","ru":"мастер","level":3,"transcription":null}
 {"kz":"шолушы","ru":"обозреватель","level":5,"transcription":null}
 {"kz":"шығу мерзімі","ru":"дата выпуска","level":4,"transcription":null}
 {"kz":"ағза","ru":"организм","level":4,"transcription":null}
@@ -1624,7 +1601,6 @@
 {"kz":"дәрігерлер кеңесі","ru":"врачебный консилиум","level":6,"transcription":null}
 {"kz":"дәрі-дәрмектер","ru":"медикаменты","level":4,"transcription":null}
 {"kz":"дәрілік қырмызыгүл","ru":"календула лекарственная","level":6,"transcription":null}
-{"kz":"дем алу","ru":"вдох","level":3,"transcription":null}
 {"kz":"дем шығару","ru":"выдох","level":3,"transcription":null}
 {"kz":"денсаулық, саулық","ru":"здоровье","level":2,"transcription":null}
 {"kz":"дұрыс тамақтану","ru":"правильное питание","level":4,"transcription":null}
@@ -1686,11 +1662,10 @@
 {"kz":"шөл, шөлдеу","ru":"жажда","level":3,"transcription":null}
 {"kz":"шөппен емдеуші","ru":"травник","level":5,"transcription":null}
 {"kz":"іріңдік","ru":"абсцесс","level":6,"transcription":null}
-{"kz":"ағаш","ru":"древесина","level":3,"transcription":null}
+{"kz":"ағаш","ru":"древесина, дерево","level":3,"transcription":null}
 {"kz":"ағаш спирті","ru":"древесный спирт","level":5,"transcription":null}
 {"kz":"ағаштың діңі","ru":"ствол дерева","level":4,"transcription":null}
 {"kz":"алма ағашы","ru":"яблоня","level":3,"transcription":null}
-{"kz":"алтын","ru":"золото","level":2,"transcription":null}
 {"kz":"алюминий","ru":"алюминий","level":4,"transcription":null}
 {"kz":"анартас, гранит","ru":"гранит","level":4,"transcription":null}
 {"kz":"асфальт","ru":"асфальт","level":3,"transcription":null}
@@ -1707,20 +1682,17 @@
 {"kz":"бор","ru":"мел","level":2,"transcription":null}
 {"kz":"бөз","ru":"бязь","level":5,"transcription":null}
 {"kz":"бу","ru":"пар","level":2,"transcription":null}
-{"kz":"бұтақ","ru":"ветка","level":3,"transcription":null}
 {"kz":"бұтақ","ru":"сук, ветка","level":4,"transcription":null}
 {"kz":"бүртік","ru":"букле","level":6,"transcription":null}
 {"kz":"бүршік","ru":"почка","level":3,"transcription":null}
 {"kz":"былғары","ru":"кожа","level":3,"transcription":null}
 {"kz":"ватин","ru":"ватин","level":5,"transcription":null}
-{"kz":"газ","ru":"газ","level":2,"transcription":null}
-{"kz":"газ","ru":"газы","level":3,"transcription":null}
+{"kz":"газ","ru":"газ, газы","level":2,"transcription":null}
 {"kz":"гауһар","ru":"бриллиант","level":4,"transcription":null}
 {"kz":"гипс","ru":"гипс","level":4,"transcription":null}
 {"kz":"гүлшоқ","ru":"букет цветов","level":4,"transcription":null}
 {"kz":"дәке","ru":"марля","level":4,"transcription":null}
 {"kz":"дің","ru":"ствол","level":3,"transcription":null}
-{"kz":"емен","ru":"дуб","level":3,"transcription":null}
 {"kz":"емен","ru":"дуб","level":3,"transcription":null}
 {"kz":"ерітінді","ru":"раствор","level":4,"transcription":null}
 {"kz":"жабайы алма ағашы","ru":"дикая яблоня","level":4,"transcription":null}
@@ -1730,7 +1702,6 @@
 {"kz":"жусан","ru":"полынь","level":4,"transcription":null}
 {"kz":"жұмсақ тері, күдері","ru":"замша","level":5,"transcription":null}
 {"kz":"жүн мата","ru":"шерсть","level":3,"transcription":null}
-{"kz":"жібек","ru":"шёлк","level":3,"transcription":null}
 {"kz":"жібек","ru":"шёлк","level":3,"transcription":null}
 {"kz":"зүбаржат","ru":"изумруд","level":5,"transcription":null}
 {"kz":"кәріптас","ru":"янтарь","level":5,"transcription":null}
@@ -1742,7 +1713,6 @@
 {"kz":"крепдешин","ru":"крепдешин","level":6,"transcription":null}
 {"kz":"күкіртті сутегі","ru":"сернистый водород","level":6,"transcription":null}
 {"kz":"күл","ru":"зола","level":3,"transcription":null}
-{"kz":"күміс","ru":"серебро","level":3,"transcription":null}
 {"kz":"кірпіш","ru":"кирпич","level":3,"transcription":null}
 {"kz":"қабық","ru":"кора","level":3,"transcription":null}
 {"kz":"қайың","ru":"берёза","level":3,"transcription":null}
@@ -1757,7 +1727,6 @@
 {"kz":"қыжым","ru":"плюш","level":5,"transcription":null}
 {"kz":"қызғалдақ, жауқазын","ru":"тюльпан","level":4,"transcription":null}
 {"kz":"қымыздық","ru":"щавель","level":5,"transcription":null}
-{"kz":"қышқыл","ru":"кислота","level":4,"transcription":null}
 {"kz":"лавсан","ru":"лавсан","level":5,"transcription":null}
 {"kz":"лалагүл","ru":"лилия","level":4,"transcription":null}
 {"kz":"майлы заттар","ru":"маслянистые вещества","level":5,"transcription":null}
@@ -1860,7 +1829,6 @@
 {"kz":"нарық","ru":"рынок","level":3,"transcription":null}
 {"kz":"озып шығу","ru":"опередить","level":4,"transcription":null}
 {"kz":"орманшаруашылығы","ru":"лесоводство","level":5,"transcription":null}
-{"kz":"орындалу мерзімі","ru":"срок исполнения","level":4,"transcription":null}
 {"kz":"отандық өндіруші","ru":"отечественный производитель","level":5,"transcription":null}
 {"kz":"өндіруші","ru":"производитель","level":4,"transcription":null}
 {"kz":"өндіріс","ru":"производство","level":3,"transcription":null}
@@ -1983,7 +1951,6 @@
 {"kz":"шығын","ru":"расход","level":3,"transcription":null}
 {"kz":"іріктеу негізі","ru":"основа выборки","level":6,"transcription":null}
 {"kz":"айлық, жалақы","ru":"заработная плата","level":3,"transcription":null}
-{"kz":"айыппұл","ru":"штраф","level":4,"transcription":null}
 {"kz":"ақша аудару","ru":"денежные переводы","level":4,"transcription":null}
 {"kz":"ақысыз еңбек демалысы","ru":"неоплачиваемый отпуск","level":5,"transcription":null}
 {"kz":"алғыс хат","ru":"благодарственное письмо","level":4,"transcription":null}
@@ -2015,7 +1982,6 @@
 {"kz":"есепшот","ru":"счёт","level":4,"transcription":null}
 {"kz":"ескерту","ru":"замечание","level":3,"transcription":null}
 {"kz":"жазбаша түрде","ru":"в письменной форме","level":4,"transcription":null}
-{"kz":"жалдау","ru":"аренда","level":4,"transcription":null}
 {"kz":"жарғы","ru":"указ","level":4,"transcription":null}
 {"kz":"жарияланған күн","ru":"дата публикации","level":4,"transcription":null}
 {"kz":"жауапкершілігі шектеулі","ru":"с ограниченной ответственностью","level":5,"transcription":null}
@@ -2062,7 +2028,6 @@
 {"kz":"өкім","ru":"приговор","level":4,"transcription":null}
 {"kz":"растау","ru":"подтверждение","level":4,"transcription":null}
 {"kz":"ресми құжат","ru":"официальный документ","level":4,"transcription":null}
-{"kz":"сақталу мерзімі","ru":"срок хранения","level":4,"transcription":null}
 {"kz":"сенім білдіруші","ru":"доверитель","level":5,"transcription":null}
 {"kz":"сенімді өкіл","ru":"надёжный представитель","level":4,"transcription":null}
 {"kz":"сенімхат","ru":"доверенность","level":4,"transcription":null}
@@ -2072,7 +2037,7 @@
 {"kz":"сынақ мерзімі","ru":"испытательный срок","level":5,"transcription":null}
 {"kz":"тармақ","ru":"пункт","level":4,"transcription":null}
 {"kz":"тәжірибе","ru":"опыт, практика","level":3,"transcription":null}
-{"kz":"тексеру","ru":"осмотр","level":3,"transcription":null}
+{"kz":"тексеру","ru":"осмотр, проверять","level":3,"transcription":null}
 {"kz":"тоқтату","ru":"прекращение","level":4,"transcription":null}
 {"kz":"толық мәлімет","ru":"полная информация","level":3,"transcription":null}
 {"kz":"төлқұжат","ru":"паспорт","level":3,"transcription":null}
@@ -2101,7 +2066,6 @@
 {"kz":"Әрине, көмектесе аламын.","ru":"Ну, конечно, я могу помочь.","level":2,"transcription":null}
 {"kz":"Әрине, рұқсат.","ru":"Конечно, можно.","level":1,"transcription":null}
 {"kz":"Әрине, уайымдамаңыз.","ru":"Конечно, не переживайте.","level":2,"transcription":null}
-{"kz":"Әрине, уайымдамаңыз.","ru":"Конечно, не переживайте.","level":2,"transcription":null}
 {"kz":"бабаларымыз айтқандай","ru":"как говорили наши предки","level":4,"transcription":null}
 {"kz":"бақытыма қарай","ru":"к счастью","level":3,"transcription":null}
 {"kz":"басқаша айтқанда","ru":"другими словами","level":3,"transcription":null}
@@ -2127,7 +2091,6 @@
 {"kz":"Жаман емес.","ru":"Неплохо.","level":2,"transcription":null}
 {"kz":"Жаңалық жоқ десе болады.","ru":"Новостей нет, можно сказать.","level":3,"transcription":null}
 {"kz":"Жолыңыз болсын!","ru":"Счастливого пути!","level":2,"transcription":null}
-{"kz":"Жолыңыз болсын!","ru":"Счастливого пути!","level":2,"transcription":null}
 {"kz":"Жұмыста бәрі жақсы ма?","ru":"На работе всё хорошо?","level":2,"transcription":null}
 {"kz":"жүз жасасын","ru":"пусть проживёт сто лет","level":3,"transcription":null}
 {"kz":"Кездескенше!","ru":"До встречи!","level":1,"transcription":null}
@@ -2148,7 +2111,6 @@
 {"kz":"Қайырлы түн!","ru":"Доброй ночи!","level":1,"transcription":null}
 {"kz":"Қалайсыз (қалайсың)?","ru":"Как вы (ты)?","level":1,"transcription":null}
 {"kz":"Қалыңыз қалай?","ru":"Как ваши дела?","level":2,"transcription":null}
-{"kz":"Қалыңыз қалай?","ru":"Как Вы?","level":2,"transcription":null}
 {"kz":"Қандай жақсы кездесу болды!","ru":"Какая приятная встреча!","level":3,"transcription":null}
 {"kz":"Қарсы алғаныңызға рақмет.","ru":"Спасибо, что встретили меня.","level":2,"transcription":null}
 {"kz":"Қолдағаныңызға рақмет.","ru":"Спасибо вам за поддержку.","level":3,"transcription":null}
@@ -2171,7 +2133,6 @@
 {"kz":"Менің сізді ренжіткім келген жоқ.","ru":"Я не хотел вас обидеть.","level":3,"transcription":null}
 {"kz":"назарларыңызға ұсынамыз","ru":"предлагаем вашему вниманию","level":3,"transcription":null}
 {"kz":"Не жаңалық бар?","ru":"Что нового?","level":2,"transcription":null}
-{"kz":"Өзімді таныстырайын.","ru":"Разрешите представиться.","level":2,"transcription":null}
 {"kz":"Өзімді таныстырайын.","ru":"Разрешите представиться.","level":2,"transcription":null}
 {"kz":"өйткені","ru":"потому что, ведь","level":3,"transcription":null}
 {"kz":"өкінішке қарай","ru":"к сожалению","level":3,"transcription":null}
@@ -2208,7 +2169,6 @@
 {"kz":"алайда","ru":"но","level":2,"transcription":null}
 {"kz":"алдын ала","ru":"заранее, предварительно","level":3,"transcription":null}
 {"kz":"алдында","ru":"впереди","level":2,"transcription":null}
-{"kz":"алыс","ru":"далеко","level":2,"transcription":null}
 {"kz":"анағұрлым","ru":"гораздо, значительно","level":4,"transcription":null}
 {"kz":"анау, ана","ru":"тот, та","level":2,"transcription":null}
 {"kz":"артында","ru":"позади","level":2,"transcription":null}
@@ -2239,8 +2199,6 @@
 {"kz":"ешбір кем емес","ru":"ничуть не меньше","level":4,"transcription":null}
 {"kz":"ешкім","ru":"никто","level":2,"transcription":null}
 {"kz":"жазбаша","ru":"письменно, письменный","level":3,"transcription":null}
-{"kz":"жақсы","ru":"хорошо","level":1,"transcription":null}
-{"kz":"жақын","ru":"близко","level":2,"transcription":null}
 {"kz":"жаман","ru":"плохо","level":1,"transcription":null}
 {"kz":"жанында","ru":"рядом, около","level":2,"transcription":null}
 {"kz":"жарайсың","ru":"молодец","level":2,"transcription":null}
@@ -2263,7 +2221,6 @@
 {"kz":"мезгілінен бұрын","ru":"преждевременно","level":4,"transcription":null}
 {"kz":"меніңше","ru":"по-моему","level":2,"transcription":null}
 {"kz":"мол, көп","ru":"много","level":2,"transcription":null}
-{"kz":"мұқият","ru":"тщательно","level":3,"transcription":null}
 {"kz":"мүлде","ru":"совсем, вообще","level":3,"transcription":null}
 {"kz":"мүмкін","ru":"возможно","level":2,"transcription":null}
 {"kz":"мүмкін емес","ru":"не может быть","level":3,"transcription":null}
@@ -2296,7 +2253,7 @@
 {"kz":"шынымен","ru":"на самом деле","level":3,"transcription":null}
 {"kz":"шынын айтқанда","ru":"по правде","level":3,"transcription":null}
 {"kz":"шіркін!","ru":"о! эх!","level":3,"transcription":null}
-{"kz":"ыстық","ru":"жарко","level":2,"transcription":null}
+{"kz":"ыстық","ru":"горячий, жарко","level":2,"transcription":null}
 {"kz":"айту, сөйлеу","ru":"говорить","level":1,"transcription":null}
 {"kz":"алғыс айту","ru":"благодарить","level":2,"transcription":null}
 {"kz":"алдау","ru":"обманывать","level":3,"transcription":null}
@@ -2320,7 +2277,6 @@
 {"kz":"зейнетақы тағайындау","ru":"назначить пенсию","level":5,"transcription":null}
 {"kz":"игеру","ru":"осваивать, овладевать","level":4,"transcription":null}
 {"kz":"кездестіру","ru":"устроить встречу","level":3,"transcription":null}
-{"kz":"кездесу","ru":"встречаться","level":2,"transcription":null}
 {"kz":"келісу","ru":"приходить к соглашению","level":4,"transcription":null}
 {"kz":"кемшілігін кешіру","ru":"прощать недостатки","level":5,"transcription":null}
 {"kz":"кию","ru":"надевать","level":2,"transcription":null}
@@ -2336,7 +2292,6 @@
 {"kz":"қайтыс болу","ru":"умереть","level":3,"transcription":null}
 {"kz":"қал-жағдай сұрау","ru":"спрашивать о делах","level":4,"transcription":null}
 {"kz":"қолдану","ru":"пользоваться","level":2,"transcription":null}
-{"kz":"қоштасу","ru":"прощаться","level":2,"transcription":null}
 {"kz":"қою","ru":"ставить","level":1,"transcription":null}
 {"kz":"қуанышын білдіру","ru":"выражать радость","level":4,"transcription":null}
 {"kz":"қуыру","ru":"жарить","level":3,"transcription":null}
@@ -2357,7 +2312,6 @@
 {"kz":"пісіру","ru":"варить","level":2,"transcription":null}
 {"kz":"салу","ru":"класть","level":2,"transcription":null}
 {"kz":"санау","ru":"считать","level":2,"transcription":null}
-{"kz":"сапарға шығу","ru":"отправляться в путешествие","level":3,"transcription":null}
 {"kz":"сендіру","ru":"убедить","level":3,"transcription":null}
 {"kz":"сөзін ұмытып қалу","ru":"забыть слова","level":4,"transcription":null}
 {"kz":"спортпен айналысу","ru":"заниматься спортом","level":3,"transcription":null}
@@ -2365,14 +2319,13 @@
 {"kz":"сұраққа жауап беру","ru":"отвечать на вопросы","level":3,"transcription":null}
 {"kz":"сұрау","ru":"спрашивать","level":1,"transcription":null}
 {"kz":"сүрту","ru":"вытирать","level":2,"transcription":null}
-{"kz":"сызу","ru":"чертить","level":3,"transcription":null}
+{"kz":"сызу","ru":"чертить, черчение","level":3,"transcription":null}
 {"kz":"сыйлау","ru":"уважать","level":3,"transcription":null}
 {"kz":"табысқа жету","ru":"добиваться успеха","level":4,"transcription":null}
 {"kz":"тазалау","ru":"чистить","level":2,"transcription":null}
 {"kz":"таңдау","ru":"выбирать","level":2,"transcription":null}
 {"kz":"тарату","ru":"распространять","level":3,"transcription":null}
 {"kz":"татуласу","ru":"мириться","level":4,"transcription":null}
-{"kz":"тексеру","ru":"проверять","level":2,"transcription":null}
 {"kz":"телесериал көру","ru":"смотреть телесериал","level":3,"transcription":null}
 {"kz":"тоқтау","ru":"остановиться","level":2,"transcription":null}
 {"kz":"толқу","ru":"волноваться","level":3,"transcription":null}
@@ -2382,7 +2335,7 @@
 {"kz":"түсіну","ru":"понимать","level":2,"transcription":null}
 {"kz":"ұйықтау","ru":"спать","level":1,"transcription":null}
 {"kz":"ұмыту","ru":"забывать","level":2,"transcription":null}
-{"kz":"ұшу","ru":"летать","level":2,"transcription":null}
+{"kz":"ұшу","ru":"летать, вылет","level":2,"transcription":null}
 {"kz":"үйлену","ru":"жениться","level":3,"transcription":null}
 {"kz":"үйрену","ru":"учиться","level":2,"transcription":null}
 {"kz":"үлгеру","ru":"успевать","level":3,"transcription":null}
@@ -2412,7 +2365,6 @@
 {"kz":"басымдық беру","ru":"отдавать предпочтение","level":4,"transcription":null}
 {"kz":"беру","ru":"дать","level":1,"transcription":null}
 {"kz":"бояну","ru":"краситься","level":3,"transcription":null}
-{"kz":"бояу","ru":"красить","level":2,"transcription":null}
 {"kz":"бөлісу","ru":"поделиться","level":3,"transcription":null}
 {"kz":"бұйрық шығару","ru":"издать приказ","level":5,"transcription":null}
 {"kz":"білу","ru":"знать","level":1,"transcription":null}
@@ -2434,7 +2386,6 @@
 {"kz":"жөтелу","ru":"кашлять","level":3,"transcription":null}
 {"kz":"жуу","ru":"мыть","level":1,"transcription":null}
 {"kz":"жұмыс істеу","ru":"работать","level":1,"transcription":null}
-{"kz":"жүгіру","ru":"бегать","level":2,"transcription":null}
 {"kz":"жүзуге бару","ru":"ходить на плавание","level":3,"transcription":null}
 {"kz":"жүктелу","ru":"быть нагруженным","level":4,"transcription":null}
 {"kz":"жүру","ru":"ходить","level":1,"transcription":null}
@@ -2475,7 +2426,6 @@
 {"kz":"созылу","ru":"продолжаться","level":4,"transcription":null}
 {"kz":"сырғанау","ru":"кататься","level":3,"transcription":null}
 {"kz":"сырқаттану","ru":"заболевать","level":4,"transcription":null}
-{"kz":"талдау","ru":"анализировать","level":4,"transcription":null}
 {"kz":"тамақ ішу","ru":"принимать пищу","level":3,"transcription":null}
 {"kz":"таң-тамаша болу","ru":"удивляться","level":3,"transcription":null}
 {"kz":"телефон соғу","ru":"звонить","level":2,"transcription":null}
@@ -2534,13 +2484,11 @@
 {"kz":"көмек беру","ru":"оказывать помощь","level":3,"transcription":null}
 {"kz":"көңіл көтеру","ru":"поднимать настроение","level":4,"transcription":null}
 {"kz":"көру","ru":"видеть, смотреть","level":1,"transcription":null}
-{"kz":"көшіру","ru":"переписывать","level":3,"transcription":null}
-{"kz":"көшіру","ru":"копировать","level":3,"transcription":null}
+{"kz":"көшіру","ru":"переписывать, копировать","level":3,"transcription":null}
 {"kz":"күлу","ru":"смеяться","level":2,"transcription":null}
 {"kz":"күмбірлеу","ru":"звучать приглушённо","level":5,"transcription":null}
 {"kz":"кір жуу","ru":"стирать вещи","level":3,"transcription":null}
 {"kz":"қабылдану","ru":"быть принятым","level":4,"transcription":null}
-{"kz":"қабылдау","ru":"принимать","level":2,"transcription":null}
 {"kz":"қағу","ru":"забивать, вбивать","level":3,"transcription":null}
 {"kz":"қалау","ru":"желать, класть, возводить","level":2,"transcription":null}
 {"kz":"қалу","ru":"оставаться","level":1,"transcription":null}
@@ -2595,7 +2543,6 @@
 {"kz":"шайқасу","ru":"сражаться","level":4,"transcription":null}
 {"kz":"шаңғы тебу","ru":"кататься на лыжах","level":3,"transcription":null}
 {"kz":"шөлін қандыру","ru":"утолять жажду","level":4,"transcription":null}
-{"kz":"іздеу","ru":"искать","level":2,"transcription":null}
 {"kz":"ілу","ru":"вешать","level":2,"transcription":null}
 {"kz":"айнымау","ru":"быть похожим","level":3,"transcription":null}
 {"kz":"ақша жұмсау","ru":"тратить деньги","level":3,"transcription":null}
@@ -2605,15 +2552,14 @@
 {"kz":"араластыру","ru":"перемешивать","level":4,"transcription":null}
 {"kz":"аршу","ru":"чистить (от кожуры)","level":4,"transcription":null}
 {"kz":"асығу","ru":"спешить","level":2,"transcription":null}
-{"kz":"атау","ru":"называть","level":3,"transcription":null}
+{"kz":"атау","ru":"называть, наименование","level":3,"transcription":null}
 {"kz":"ауысып отыру","ru":"делать пересадку","level":4,"transcription":null}
 {"kz":"әйнектеу","ru":"стеклить","level":5,"transcription":null}
 {"kz":"әріптес болу","ru":"быть коллегами","level":4,"transcription":null}
 {"kz":"бағаламау","ru":"недооценивать","level":4,"transcription":null}
 {"kz":"бас қосу","ru":"объединяться, собираться","level":4,"transcription":null}
 {"kz":"басып шығару","ru":"распечатывать","level":3,"transcription":null}
-{"kz":"бұзылу","ru":"ломаться, портиться","level":3,"transcription":null}
-{"kz":"бұзылу","ru":"портиться, разлагаться","level":3,"transcription":null}
+{"kz":"бұзылу","ru":"ломаться, портиться, разлагаться","level":3,"transcription":null}
 {"kz":"ғашық болу","ru":"влюбляться","level":3,"transcription":null}
 {"kz":"дауыс көтермеу","ru":"не повышать голос","level":4,"transcription":null}
 {"kz":"демдеу","ru":"заваривать (чай)","level":4,"transcription":null}
@@ -2674,7 +2620,7 @@
 {"kz":"сыпыру","ru":"подметать","level":4,"transcription":null}
 {"kz":"сыр жасырмау","ru":"не скрывать, не утаивать","level":5,"transcription":null}
 {"kz":"табылу","ru":"обнаружиться, найти","level":4,"transcription":null}
-{"kz":"талдау, саралау","ru":"анализировать","level":5,"transcription":null}
+{"kz":"саралау","ru":"анализировать","level":5,"transcription":null}
 {"kz":"таңбалау","ru":"маркировать, делать метку","level":5,"transcription":null}
 {"kz":"тарту","ru":"тянуть","level":2,"transcription":null}
 {"kz":"тәмамдау","ru":"завершать, заканчивать","level":4,"transcription":null}
@@ -2714,13 +2660,13 @@
 {"kz":"дәрі тамызу","ru":"капать лекарство","level":5,"transcription":null}
 {"kz":"дәрі ішу","ru":"принимать лекарство","level":3,"transcription":null}
 {"kz":"дәрігерге қаралу","ru":"показаться врачу","level":4,"transcription":null}
-{"kz":"дем алу","ru":"дышать","level":2,"transcription":null}
+{"kz":"дем алу","ru":"дышать, вдох","level":2,"transcription":null}
 {"kz":"демалыс алу","ru":"получить отпуск","level":3,"transcription":null}
 {"kz":"доғару","ru":"останавливать, прекращать","level":4,"transcription":null}
 {"kz":"есеп шығару","ru":"решать задачу","level":4,"transcription":null}
 {"kz":"еске түсіру","ru":"вспоминать","level":3,"transcription":null}
 {"kz":"жадыны өшіру","ru":"стереть память","level":5,"transcription":null}
-{"kz":"жалдау","ru":"нанимать","level":3,"transcription":null}
+{"kz":"жалдау","ru":"нанимать, аренда","level":3,"transcription":null}
 {"kz":"жалығып кету","ru":"утомиться, заскучать","level":4,"transcription":null}
 {"kz":"жанжалдасу","ru":"скандалить, конфликтовать","level":5,"transcription":null}
 {"kz":"жасыру","ru":"прятать, скрывать","level":3,"transcription":null}
@@ -2805,7 +2751,6 @@
 {"kz":"әділ","ru":"справедливый","level":3,"transcription":null}
 {"kz":"әйгілі","ru":"известный","level":3,"transcription":null}
 {"kz":"бақытты","ru":"счастливый","level":2,"transcription":null}
-{"kz":"белгілі","ru":"известный","level":2,"transcription":null}
 {"kz":"белсенді","ru":"активный","level":3,"transcription":null}
 {"kz":"бөлек","ru":"отдельный, раздельный","level":3,"transcription":null}
 {"kz":"бұлтсыз","ru":"безоблачный","level":3,"transcription":null}
@@ -2820,8 +2765,8 @@
 {"kz":"еңбекқор","ru":"трудолюбивый","level":3,"transcription":null}
 {"kz":"жағымсыз","ru":"неприятный, противный","level":3,"transcription":null}
 {"kz":"жазғы","ru":"летний","level":2,"transcription":null}
-{"kz":"жақсы","ru":"хороший","level":1,"transcription":null}
-{"kz":"жалқау","ru":"ленивый","level":2,"transcription":null}
+{"kz":"жақсы","ru":"хороший, хорошо","level":1,"transcription":null}
+{"kz":"жалқау","ru":"ленивый, лентяй","level":2,"transcription":null}
 {"kz":"жарасымды","ru":"подходящий, ладный","level":4,"transcription":null}
 {"kz":"жарқын","ru":"яркий","level":2,"transcription":null}
 {"kz":"жас","ru":"молодой","level":1,"transcription":null}
@@ -2887,7 +2832,7 @@
 {"kz":"шағын","ru":"небольшой","level":2,"transcription":null}
 {"kz":"шектеулі","ru":"ограниченный","level":4,"transcription":null}
 {"kz":"шетел","ru":"иностранный","level":3,"transcription":null}
-{"kz":"шетелдік","ru":"зарубежный","level":3,"transcription":null}
+{"kz":"шетелдік","ru":"зарубежный, иностранец", "level":3,"transcription":null}
 {"kz":"шулы","ru":"шумный","level":2,"transcription":null}
 {"kz":"шыдамды","ru":"терпеливый","level":3,"transcription":null}
 {"kz":"іргелі","ru":"фундаментальный","level":5,"transcription":null}
@@ -2895,7 +2840,7 @@
 {"kz":"абыройлы","ru":"авторитетный","level":4,"transcription":null}
 {"kz":"аққұба","ru":"светлый","level":3,"transcription":null}
 {"kz":"алаңғасар","ru":"рассеянный","level":4,"transcription":null}
-{"kz":"алыс","ru":"далёкий","level":2,"transcription":null}
+{"kz":"алыс","ru":"далёкий, далеко","level":2,"transcription":null}
 {"kz":"арнайы","ru":"специальный","level":3,"transcription":null}
 {"kz":"ашулы","ru":"сердитый","level":3,"transcription":null}
 {"kz":"ащы","ru":"горький","level":2,"transcription":null}
@@ -2915,7 +2860,7 @@
 {"kz":"ескі","ru":"старый","level":1,"transcription":null}
 {"kz":"жабайы","ru":"дикий","level":3,"transcription":null}
 {"kz":"жағымды","ru":"положительный","level":3,"transcription":null}
-{"kz":"жақын","ru":"близкий","level":2,"transcription":null}
+{"kz":"жақын","ru":"близкий, близко","level":2,"transcription":null}
 {"kz":"жаңа","ru":"новый","level":1,"transcription":null}
 {"kz":"жауапты","ru":"ответственный","level":3,"transcription":null}
 {"kz":"жұмсақ","ru":"мягкий","level":2,"transcription":null}
@@ -2935,7 +2880,6 @@
 {"kz":"қайратты","ru":"сильный, энергичный","level":3,"transcription":null}
 {"kz":"қайсар","ru":"настойчивый","level":4,"transcription":null}
 {"kz":"қалаулы, таңдаулы","ru":"избранный","level":4,"transcription":null}
-{"kz":"қалың","ru":"густой","level":2,"transcription":null}
 {"kz":"қара шашты","ru":"черноволосый","level":3,"transcription":null}
 {"kz":"қараторы","ru":"смуглый","level":4,"transcription":null}
 {"kz":"қатаң","ru":"строгий","level":3,"transcription":null}
@@ -2952,7 +2896,7 @@
 {"kz":"құнды","ru":"ценный","level":3,"transcription":null}
 {"kz":"қысқа","ru":"короткий","level":2,"transcription":null}
 {"kz":"қысқа бойлы","ru":"низкого роста","level":3,"transcription":null}
-{"kz":"қышқыл","ru":"кислый","level":3,"transcription":null}
+{"kz":"қышқыл","ru":"кислый, кислота","level":3,"transcription":null}
 {"kz":"лайықты","ru":"подходящий, соответствующий","level":4,"transcription":null}
 {"kz":"мақсатшыл","ru":"целеустремленный","level":4,"transcription":null}
 {"kz":"маңызды","ru":"важный","level":2,"transcription":null}
@@ -2990,10 +2934,9 @@
 {"kz":"шексіз","ru":"безграничный","level":4,"transcription":null}
 {"kz":"шынайы","ru":"настоящий, истинный","level":3,"transcription":null}
 {"kz":"ылғалды","ru":"влажный, сырой","level":3,"transcription":null}
-{"kz":"ыстық","ru":"горячий","level":2,"transcription":null}
 {"kz":"ақ","ru":"белый","level":1,"transcription":null}
 {"kz":"ақысыз","ru":"бесплатный, бесплатно","level":3,"transcription":null}
-{"kz":"алтын","ru":"золотой","level":2,"transcription":null}
+{"kz":"алтын","ru":"золотой, золото","level":2,"transcription":null}
 {"kz":"арнаулы","ru":"специальный, предназначенный","level":4,"transcription":null}
 {"kz":"арық","ru":"худощавый","level":3,"transcription":null}
 {"kz":"ауыр","ru":"тяжёлый","level":2,"transcription":null}
@@ -3007,7 +2950,6 @@
 {"kz":"биік","ru":"высокий","level":2,"transcription":null}
 {"kz":"брендті","ru":"брендовый","level":4,"transcription":null}
 {"kz":"буға піскен","ru":"приготовленный на пару","level":4,"transcription":null}
-{"kz":"бұлтты","ru":"облачный","level":3,"transcription":null}
 {"kz":"білікті","ru":"знающий, квалифицированный","level":3,"transcription":null}
 {"kz":"ғылыми","ru":"научный, учёный","level":3,"transcription":null}
 {"kz":"дамыған","ru":"развитый","level":3,"transcription":null}
@@ -3033,7 +2975,6 @@
 {"kz":"жасырын","ru":"тайный, скрытно","level":3,"transcription":null}
 {"kz":"жеңіл","ru":"лёгкий","level":2,"transcription":null}
 {"kz":"жеткілікті, жетерлік","ru":"достаточный, достаточно","level":3,"transcription":null}
-{"kz":"жиі","ru":"частый","level":2,"transcription":null}
 {"kz":"жүрдек","ru":"скорый","level":3,"transcription":null}
 {"kz":"жылы","ru":"тёплый","level":1,"transcription":null}
 {"kz":"заңды","ru":"законный, закономерный","level":4,"transcription":null}
@@ -3043,7 +2984,7 @@
 {"kz":"көгілдір","ru":"голубой","level":3,"transcription":null}
 {"kz":"көк","ru":"синий","level":1,"transcription":null}
 {"kz":"көтерме","ru":"оптовый","level":4,"transcription":null}
-{"kz":"күміс","ru":"серебряный","level":3,"transcription":null}
+{"kz":"күміс","ru":"серебряный, серебро","level":3,"transcription":null}
 {"kz":"күшті","ru":"сильный","level":2,"transcription":null}
 {"kz":"қажымас","ru":"неутомимый","level":5,"transcription":null}
 {"kz":"қазақы","ru":"свойственный казахам","level":4,"transcription":null}
