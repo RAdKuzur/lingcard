@@ -53,7 +53,6 @@ export default function Word({ word, translation, level = null, repeat = null , 
                     onClick={() => handleProgress(progressId)}
                 >
                     <Bin/>
-                    <span>{getText(lang.word.clearProgress)}</span>
                 </button>
             </div>
         </div>
