@@ -8,6 +8,7 @@ import Flag from "../svg/Flag.jsx";
 import PaperPlane from "../svg/PaperPlane.jsx";
 import {studyStatuses} from "../../plugins/studyStatus.js";
 import Pen from "../svg/Pen.jsx";
+import ButtonToggle from "../layouts/ButtonToggle.jsx";
 
 export default function Card({setTraining}) {
     const [isProblem, setProblem] = useState(false)
@@ -30,6 +31,7 @@ export default function Card({setTraining}) {
     const [isSwiping, setIsSwiping] = useState(false)
     const [isInputEnable, setInputEnable] = useState(false)
     const [answerWord, setAnswerWord] = useState("")
+    const [onTraining, setTrainingOn] = useState(true)
 
     async function trainingRepeat(status) {
         const response = await patch(apiRoutes.training + '/' + cardId, {
@@ -170,8 +172,13 @@ export default function Card({setTraining}) {
         <div className="w-full max-w-md">
             {!loading ? (
                 <>
-                    <div className={`flex w-1/5 transition-all duration-500 mb-6 ${opacityCard ? 'opacity-100' : 'opacity-0  pointer-events-none'}`}>
-                        <ButtonBack/>
+                    <div
+                        className={`flex items-center justify-between gap-2 w-full mb-6
+                        transition-all duration-500
+                        ${opacityCard ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
+                    >
+                        <ButtonBack />
+                        <ButtonToggle setOn={setTrainingOn} on={onTraining} />
                     </div>
                     <div className={`relative bg-white/80 backdrop-blur-sm rounded-3xl shadow-2xl shadow-indigo-500/10 p-8 transition-all duration-500 border border-white/50
                             ${direction === 'right' ? 'translate-x-full rotate-12 opacity-0 scale-90' : ''}
@@ -188,11 +195,11 @@ export default function Card({setTraining}) {
                                             </span>
                                         ) : (
                                             <>
-                                                <span
-                                                    className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
+                                                <span className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
                                                     {getText(lang.training.amountRepeat)} {repeat}
                                                 </span>
-                                                <Pen className="w-6 h-6 shrink-0 ml-4 cursor-pointer" onClick={enableInput}/>
+                                                {onTraining ? <Pen className="w-6 h-6 shrink-0 ml-4 cursor-pointer"
+                                                      onClick={enableInput}/> : <></>}
                                             </>
                                         )}
                                     </div>
@@ -204,7 +211,7 @@ export default function Card({setTraining}) {
 
                             <div className="py-8">
                                 <div className="text-4xl font-bold text-slate-800 mb-4 tracking-tight">
-                                    {text}
+                                    {!onTraining || status === studyStatuses.none ? text : translation}
                                 </div>
                                 {transcription !== '' && transcription !== null && (
                                     <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
@@ -212,7 +219,7 @@ export default function Card({setTraining}) {
                                     </div>
                                 )}
                                 <div className={`text-2xl text-slate-600 transition-all duration-300 ${opacityTranslation ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2'}`}>
-                                    {translation}
+                                    {!onTraining || status === studyStatuses.none ? translation : text}
                                 </div>
                             </div>
 
@@ -225,7 +232,7 @@ export default function Card({setTraining}) {
                                         value={textProblem}
                                     />
                                     <button
-                                        className={`active:scale-95 p-3 rounded-2xl sm:w-auto transition-all duration-200 shadow-md hover:shadow-lg ${textProblem === '' ? 'bg-gray-500 cursor-not-allowed' : 'bg-blue-500 hover:bg-blue-600 cursor-pointer'}`}
+                                        className={`active:scale-95 p-3 mb-2 rounded-2xl sm:w-auto transition-all duration-200 shadow-md hover:shadow-lg ${textProblem === '' ? 'bg-gray-500 cursor-not-allowed' : 'bg-blue-500 hover:bg-blue-600 cursor-pointer'}`}
                                         onClick={() => sendProblem(textProblem)}
                                         disabled={textProblem === ''}
                                     >
