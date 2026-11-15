@@ -1,11 +1,17 @@
 export const fr = {
     footer: {
-        about: "À propos de nous",
+        about: "À propos",
         support: "Soutenez-nous !"
+    },
+    books: {
+        title: "Livres",
+        noBooks: "Aucun livre",
+        noChapters: "Aucun chapitre",
+        emptyChapter: "Chapitre vide"
     },
     support: {
         label: "Soutenez-nous !",
-        content: "Merci d'utiliser notre projet, nous n'existons que grâce à vous ! Soutenez-nous pour aider notre projet à grandir :",
+        content: "Merci d'utiliser notre projet, nous n'existons que grâce à vous ! Soutenez-nous pour que notre projet continue de se développer :",
         heroes: "Nos héros",
         beFirst: "Devenez notre premier héros"
     },
@@ -13,10 +19,10 @@ export const fr = {
         create: "Publier une actualité",
         title: "Titre de l'actualité",
         content: "Contenu de la publication",
-        address: "Adresse / lieu",
+        address: "Adresse/lieu",
         language: "Langue de publication",
         button: "Publier",
-        article: "Votre publication a été soumise à l'examen de l'administrateur LingCard ! Une fois modérée, elle apparaîtra sur la page principale."
+        article: "Votre publication a été envoyée pour examen à l'administrateur de LingCard ! Dès qu'elle aura passé la modération, la publication s'affichera sur la page d'accueil."
     },
     article: {
         comments: "Commentaires",
@@ -24,14 +30,14 @@ export const fr = {
         send: "Envoyer"
     },
     about: {
-        me: "À propos de nous",
-        mission: "LingCard est un projet qui aide les gens du monde entier à apprendre des langues à l'aide de flashcards interactifs. Notre mission est de rendre l'apprentissage des langues accessible, engageant et efficace pour tous. Le processus d'apprentissage utilise la méthode de répétition espacée.",
+        me: "À propos",
+        mission: "LingCard est un projet qui aide les personnes du monde entier à apprendre des langues grâce à des cartes interactives. Notre mission est de rendre l'apprentissage des langues accessible, ludique et efficace pour tous. L'apprentissage utilise la méthode de la répétition espacée.",
         contacts: "Contacts",
         languages: "Langues disponibles",
         feedback: "Contactez-nous",
         sendFeedback: "Envoyer",
         hide: "Masquer",
-        success: "Votre proposition a été soumise avec succès !"
+        success: "Votre suggestion a été envoyée avec succès !"
     },
     back: {
         button: "Retour"
@@ -43,10 +49,11 @@ export const fr = {
             progress: "Progrès",
             dictionary: "Dictionnaire",
             votes: "Ajoutez votre langue !",
-            about: "À propos de nous",
+            about: "À propos",
             support: "Soutenez-nous !",
             profile: "Profil",
-            knowledge: "Base de connaissances"
+            knowledge: "Base de connaissances",
+            books: "Livres"
         }
     },
     profileBar: {
@@ -56,15 +63,15 @@ export const fr = {
     confirmRegister: {
         welcome: "Bienvenue sur LingCard !",
         successfulCreated: "Votre compte a été créé avec succès !",
-        startTraining: "Commencer l'entraînement"
+        startTraining: "Commencer l'apprentissage"
     },
     login: {
-        mainLabel: "Connexion",
-        invalidCredentials: "Nom d'utilisateur et/ou mot de passe incorrects",
+        mainLabel: "Connexion au système",
+        invalidCredentials: "Nom d'utilisateur et/ou mot de passe incorrect(s)",
         email: "Nom d'utilisateur",
         password: "Mot de passe",
         signIn: "Se connecter",
-        noAccount: "Vous n'avez pas de compte ?",
+        noAccount: "Pas encore de compte ?",
         signUp: "S'inscrire"
     },
     dictionary: {
@@ -72,7 +79,7 @@ export const fr = {
         lang1: "Langue 1",
         lang2: "Langue 2",
         show: "Afficher",
-        chooseLabel: "Sélectionnez les langues et cliquez sur \"Afficher\"",
+        chooseLabel: "Choisissez les langues et cliquez sur « Afficher »",
         prev: "Préc.",
         next: "Suiv.",
         words: "Mots",
@@ -86,7 +93,7 @@ export const fr = {
     selectedLanguage: {
         loading: "Chargement...",
         errorLoading: "Erreur de chargement",
-        chooseLanguage: "Sélectionner la langue..."
+        chooseLanguage: "Choisissez une langue..."
     },
     protectedRoute: {
         loading: "Chargement..."
@@ -95,21 +102,21 @@ export const fr = {
         loading: "Chargement..."
     },
     word: {
-        clearProgress: "Effacer la progression"
+        clearProgress: "Réinitialiser le progrès"
     },
     profile: {
         error: {
-            sameLanguages: "Votre langue et la langue cible ne peuvent pas être les mêmes",
+            sameLanguages: "Votre langue et la langue d'apprentissage ne peuvent pas être identiques",
             bothLanguages: "Veuillez sélectionner les deux langues",
             notChanged: "Les langues n'ont pas été modifiées",
-            failedUpdate: "Échec de la mise à jour des paramètres"
+            failedUpdate: "Erreur lors de la mise à jour des paramètres"
         },
         success: {
             successChanged: "Paramètres mis à jour avec succès !"
         },
         profileLabel: "Profil",
         baseLang: "Votre langue",
-        targetLang: "Langue cible",
+        targetLang: "Langue d'apprentissage",
         noChanged: "Aucun changement",
         buttonChange: "Modifier",
         stats: "Statistiques",
@@ -117,14 +124,14 @@ export const fr = {
         learning: "Mots en cours d'apprentissage",
         noLearning: "Pas encore appris",
         signOut: "Se déconnecter",
-        clearProgress: "Effacer la progression"
+        clearProgress: "Réinitialiser le progrès"
     },
     progress: {
         newWords: "Nouveaux mots",
         learningWords: "Mots en cours d'apprentissage",
         learnedWords: "Mots appris",
-        progressLabel: "Progression",
-        chooseLabel: "Sélectionnez les langues et cliquez sur \"Afficher\"",
+        progressLabel: "Progrès",
+        chooseLabel: "Choisissez les langues et cliquez sur « Afficher »",
         noWords: "Aucun mot",
         words: "Mots",
         prev: "Préc.",
@@ -132,19 +139,19 @@ export const fr = {
     },
     endTraining: {
         congratulations: "Félicitations !",
-        message: "Vous avez terminé l'entraînement !",
-        continue: "Suivant"
+        message: "Vous avez terminé l'apprentissage !",
+        continue: "Continuer"
     },
     waitingTraining: {
-        alreadyWords: "Vous avez appris tous les mots pour l'instant.",
-        newWords: "De nouveaux apparaîtront après un certain temps.",
-        continue: "Suivant"
+        alreadyWords: "Actuellement, vous avez appris tous les mots.",
+        newWords: "De nouveaux apparaîtront dans quelque temps.",
+        continue: "Continuer"
     },
     initWindows: {
         start: "Commencer l'apprentissage"
     },
     training: {
-        problem: "Si vous n'êtes pas d'accord avec la traduction/l'interprétation du mot, écrivez-nous !",
+        problem: "Si vous n'êtes pas d'accord avec la traduction/interprétation du mot, écrivez-nous !",
         loading: "Chargement...",
         unknown: "Je ne sais pas",
         show: "Afficher",
@@ -155,17 +162,17 @@ export const fr = {
     },
     votes: {
         mainLabel: "Vote",
-        voters: "votants"
+        voters: "pers."
     },
     home: {
-        mainLabel: "LingCard est un projet qui aide les personnes du monde entier à apprendre des langues à l'aide de cartes interactives.\nNotre mission est de rendre l'apprentissage des langues accessible, agréable et efficace pour chacun.\nLa formation utilise la méthode de répétition espacée.",
-        startTraining: "Commencer l'entraînement",
+        mainLabel: "LingCard est un projet qui aide les personnes du monde entier à apprendre des langues grâce à des cartes interactives.\nNotre mission est de rendre l'apprentissage des langues accessible, ludique et efficace pour tous.\nL'apprentissage utilise la méthode de la répétition espacée.",
+        startTraining: "Commencer l'apprentissage",
         login: "Se connecter",
         availableLang: "Langues disponibles"
     },
     register: {
-        chooseBaseLang: "Veuillez choisir votre langue d'apprentissage",
-        chooseTargetLang: "Veuillez choisir votre langue cible (différente de votre langue d'apprentissage)",
+        chooseBaseLang: "Veuillez choisir la langue d'apprentissage",
+        chooseTargetLang: "Veuillez choisir la langue cible (différente de la langue d'apprentissage)",
         inputUsername: "Nom d'utilisateur et mot de passe",
         back: "Retour",
         next: "Suivant",
@@ -174,16 +181,16 @@ export const fr = {
         password: "Mot de passe",
         yourLang: "Votre langue",
         targetLang: "Langue à apprendre",
-        failed: "Quelque chose s'est mal passé ! Essayez un autre nom d'utilisateur !",
-        mainLabelStep1: "Choisissez votre langue d'apprentissage",
+        failed: "Quelque chose s'est mal passé ! Essayez d'indiquer un autre nom d'utilisateur !",
+        mainLabelStep1: "Choisissez la langue d'apprentissage",
         mainLabelStep2: "Quelle langue voulez-vous apprendre ?",
         mainLabelStep3: "Créez un compte",
-        hintLabelStep1: "Les indices et l'interface seront affichés dans cette langue",
-        hintLabelStep2: "Choisissez la langue que vous souhaitez apprendre",
+        hintLabelStep1: "Les indices et l'interface s'afficheront dans cette langue",
+        hintLabelStep2: "Choisissez la langue que vous voulez apprendre",
         hintLabelStep3: "Créez un pseudo et un mot de passe pour vous connecter"
     },
     knowledge: {
         label: "Base de connaissances",
-        downloadJSON: "Télécharger en JSONL"
+        downloadJSON: "Télécharger en JSONL",
     }
 }

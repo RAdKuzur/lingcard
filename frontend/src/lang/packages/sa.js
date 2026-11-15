@@ -1,22 +1,28 @@
 export const sa = {
     footer: {
-        about: "معلومات عنا",
-        support: "ادعمنا!"
+        about: "من نحن",
+        support: "ادعمونا!"
+    },
+    books: {
+        title: "الكتب",
+        noBooks: "لا توجد كتب",
+        noChapters: "لا توجد فصول",
+        emptyChapter: "فصل فارغ"
     },
     support: {
-        label: "ادعمنا!",
-        content: "شكراً لاستخدامك مشروعنا، نحن موجودون فقط بفضلك! ادعمنا لمساعدة مشروعنا على النمو:",
+        label: "ادعمونا!",
+        content: "شكرًا لاستخدامكم مشروعنا، نحن موجودون فقط بفضلكم! ادعمونا حتى يستمر مشروعنا في التطور:",
         heroes: "أبطالنا",
-        beFirst: "كن بطلنا الأول"
+        beFirst: "كن أول أبطالنا"
     },
     createArticle: {
         create: "نشر خبر",
         title: "عنوان الخبر",
         content: "محتوى المنشور",
-        address: "العنوان / الموقع",
-        language: "لغة المنشور",
+        address: "العنوان/الموقع",
+        language: "لغة النشر",
         button: "نشر",
-        article: "تم إرسال منشورك للمراجعة من قبل مسؤول LingCard! بمجرد اجتيازه للتدقيق، سيظهر المنشور على الصفحة الرئيسية."
+        article: "تم إرسال منشورك إلى مشرف LingCard للمراجعة! بمجرد اجتيازه المراجعة، سيظهر المنشور على الصفحة الرئيسية."
     },
     article: {
         comments: "التعليقات",
@@ -24,14 +30,14 @@ export const sa = {
         send: "إرسال"
     },
     about: {
-        me: "معلومات عنا",
-        mission: "LingCard هو مشروع يساعد الناس حول العالم على تعلم اللغات باستخدام بطاقات تعليمية تفاعلية. مهمتنا هي جعل تعلم اللغات متاحاً وجذاباً وفعالاً للجميع. تستخدم عملية التعلم طريقة التكرار المتباعد.",
+        me: "من نحن",
+        mission: "LingCard هو مشروع يساعد الناس من جميع أنحاء العالم على تعلم اللغات باستخدام البطاقات التفاعلية. مهمتنا هي جعل تعلم اللغات متاحًا وممتعًا وفعالًا للجميع. يُستخدم في التعلم أسلوب التكرار المتباعد.",
         contacts: "جهات الاتصال",
         languages: "اللغات المتاحة",
-        feedback: "اتصل بنا",
+        feedback: "تواصلوا معنا",
         sendFeedback: "إرسال",
         hide: "إخفاء",
-        success: "تم تقديم اقتراحك بنجاح!"
+        success: "تم إرسال اقتراحك بنجاح!"
     },
     back: {
         button: "رجوع"
@@ -43,10 +49,11 @@ export const sa = {
             progress: "التقدم",
             dictionary: "القاموس",
             votes: "أضف لغتك!",
-            about: "معلومات عنا",
-            support: "ادعمنا!",
+            about: "من نحن",
+            support: "ادعمونا!",
             profile: "الملف الشخصي",
             knowledge: "قاعدة المعرفة",
+            books: "الكتب"
         }
     },
     profileBar: {
@@ -54,12 +61,12 @@ export const sa = {
         guest: "زائر"
     },
     confirmRegister: {
-        welcome: "مرحباً بك في LingCard!",
+        welcome: "مرحبًا بك في LingCard!",
         successfulCreated: "تم إنشاء حسابك بنجاح!",
-        startTraining: "ابدأ التدريب"
+        startTraining: "ابدأ التعلم"
     },
     login: {
-        mainLabel: "تسجيل الدخول",
+        mainLabel: "تسجيل الدخول إلى النظام",
         invalidCredentials: "اسم المستخدم و/أو كلمة المرور غير صحيحة",
         email: "اسم المستخدم",
         password: "كلمة المرور",
@@ -72,7 +79,7 @@ export const sa = {
         lang1: "اللغة 1",
         lang2: "اللغة 2",
         show: "عرض",
-        chooseLabel: "اختر اللغات وانقر على \"عرض\"",
+        chooseLabel: "اختر اللغات واضغط على \"عرض\"",
         prev: "السابق",
         next: "التالي",
         words: "الكلمات",
@@ -84,82 +91,82 @@ export const sa = {
         createPost: "نشر خبر"
     },
     selectedLanguage: {
-        loading: "جاري التحميل...",
+        loading: "جارٍ التحميل...",
         errorLoading: "خطأ في التحميل",
-        chooseLanguage: "اختر اللغة..."
+        chooseLanguage: "اختر لغة..."
     },
     protectedRoute: {
-        loading: "جاري التحميل..."
+        loading: "جارٍ التحميل..."
     },
     unprotectedRoute: {
-        loading: "جاري التحميل..."
+        loading: "جارٍ التحميل..."
     },
     word: {
-        clearProgress: "مسح التقدم"
+        clearProgress: "إعادة تعيين التقدم"
     },
     profile: {
         error: {
-            sameLanguages: "لا يمكن أن تكون لغتك واللغة المستهدفة متماثلتين",
+            sameLanguages: "لا يمكن أن تكون لغتك ولغة التعلم متطابقتين",
             bothLanguages: "يرجى اختيار كلتا اللغتين",
             notChanged: "لم يتم تغيير اللغات",
-            failedUpdate: "فشل تحديث الإعدادات"
+            failedUpdate: "خطأ أثناء تحديث الإعدادات"
         },
         success: {
             successChanged: "تم تحديث الإعدادات بنجاح!"
         },
         profileLabel: "الملف الشخصي",
         baseLang: "لغتك",
-        targetLang: "اللغة المستهدفة",
+        targetLang: "لغة التعلم",
         noChanged: "لا توجد تغييرات",
         buttonChange: "تغيير",
         stats: "الإحصائيات",
-        alreadyLearned: "الكلمات المتعلمة",
+        alreadyLearned: "الكلمات المتعلَّمة",
         learning: "الكلمات قيد التعلم",
-        noLearning: "لم تتعلم بعد",
+        noLearning: "لم يتم التعلم بعد",
         signOut: "تسجيل الخروج",
-        clearProgress: "مسح التقدم"
+        clearProgress: "إعادة تعيين التقدم"
     },
     progress: {
         newWords: "كلمات جديدة",
         learningWords: "كلمات قيد التعلم",
-        learnedWords: "كلمات متعلمة",
+        learnedWords: "كلمات متعلَّمة",
         progressLabel: "التقدم",
-        chooseLabel: "اختر اللغات وانقر على \"عرض\"",
+        chooseLabel: "اختر اللغات واضغط على \"عرض\"",
         noWords: "لا توجد كلمات",
         words: "الكلمات",
         prev: "السابق",
         next: "التالي"
     },
     endTraining: {
-        congratulations: "مبروك!",
-        message: "لقد أكملت التدريب!",
+        congratulations: "تهانينا!",
+        message: "لقد أكملت التعلم!",
         continue: "التالي"
     },
     waitingTraining: {
-        alreadyWords: "لقد تعلمت جميع الكلمات في الوقت الحالي.",
-        newWords: "ستظهر كلمات جديدة بعد بعض الوقت.",
+        alreadyWords: "في الوقت الحالي، لقد تعلمت جميع الكلمات.",
+        newWords: "ستظهر كلمات جديدة بعد فترة.",
         continue: "التالي"
     },
     initWindows: {
         start: "ابدأ التعلم"
     },
     training: {
-        problem: "إذا كنت لا توافق على الترجمة/التفسير للكلمة، اكتب لنا!",
-        loading: "جاري التحميل...",
+        problem: "إذا كنت لا توافق على ترجمة/تفسير الكلمة، فاكتب لنا!",
+        loading: "جارٍ التحميل...",
         unknown: "لا أعرف",
         show: "عرض",
         known: "أعرف",
         newWord: "كلمة جديدة",
-        amountRepeat: "التكرارات: ",
+        amountRepeat: "عدد التكرارات: ",
         hide: "إخفاء"
     },
     votes: {
         mainLabel: "التصويت",
-        voters: "المصوتون"
+        voters: "شخص"
     },
     home: {
-        mainLabel: "LingCard هو مشروع يساعد الناس من جميع أنحاء العالم على تعلم اللغات من خلال بطاقات تفاعلية.\nمهمتنا هي جعل تعلم اللغات في متناول الجميع، وممتعًا، وفعالًا للجميع.\nفي إطار التدريب، يتم استخدام طريقة التكرار المتباعد.",
-        startTraining: "ابدأ التدريب",
+        mainLabel: "LingCard هو مشروع يساعد الناس من جميع أنحاء العالم على تعلم اللغات باستخدام البطاقات التفاعلية.\nمهمتنا هي جعل تعلم اللغات متاحًا وممتعًا وفعالًا للجميع.\nيُستخدم في التعلم أسلوب التكرار المتباعد.",
+        startTraining: "ابدأ التعلم",
         login: "تسجيل الدخول",
         availableLang: "اللغات المتاحة"
     },
@@ -174,16 +181,16 @@ export const sa = {
         password: "كلمة المرور",
         yourLang: "لغتك",
         targetLang: "اللغة المراد تعلمها",
-        failed: "حدث خطأ ما! حاول استخدام اسم مستخدم آخر!",
+        failed: "حدث خطأ ما! حاول تحديد اسم مستخدم آخر!",
         mainLabelStep1: "اختر لغة التعلم",
-        mainLabelStep2: "ما هي اللغة التي تريد تعلمها؟",
+        mainLabelStep2: "ما اللغة التي تريد تعلمها؟",
         mainLabelStep3: "أنشئ حسابًا",
-        hintLabelStep1: "سيتم عرض التلميحات والواجهة بهذه اللغة",
+        hintLabelStep1: "ستُعرض التلميحات والواجهة بهذه اللغة",
         hintLabelStep2: "اختر اللغة التي تريد تعلمها",
-        hintLabelStep3: "ابتكر اسم مستخدم وكلمة مرور لتسجيل الدخول"
+        hintLabelStep3: "أنشئ لقبًا وكلمة مرور لتسجيل الدخول"
     },
     knowledge: {
         label: "قاعدة المعرفة",
-        downloadJSON: "تنزيل بصيغة JSONL"
+        downloadJSON: "تنزيل بصيغة JSONL",
     }
 }

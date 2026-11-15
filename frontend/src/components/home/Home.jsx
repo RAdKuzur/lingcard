@@ -57,42 +57,42 @@ export default function Home() {
                                 :
                             <></>}
                         </div>
-                        <div className="bg-white rounded-xl shadow-sm overflow-hidden">
-                            <div className="px-4 sm:px-6 py-4 bg-slate-50 border-b border-slate-200">
-                                <h2 className="text-lg font-semibold text-slate-700">
+                        <div className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden">
+                            <div
+                                className="px-1 sm:px-1 py-4 bg-gradient-to-r from-slate-50 to-white border-b border-slate-200">
+                                <h2 className="text-lg font-semibold text-slate-800 flex items-center gap-2">
+                                    <span className="w-1.5 h-5 rounded-full"/>
                                     {getText(lang.home.availableLang)}
                                 </h2>
                             </div>
-                            <div className="divide-y divide-slate-100">
-                                {map.map((language) => (
-                                    <div
-                                        key={language.code}
-                                        className="p-4 sm:p-6 hover:bg-slate-50 transition-colors"
-                                    >
-                                        <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-4">
-                                            <div className="flex items-center gap-3 sm:w-1/3">
+
+                            <div className="p-3 sm:p-4">
+                                <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3">
+                                    {map.map((language) => (
+                                        <div
+                                            key={language.code}
+                                            className="group relative flex items-center gap-3 p-3 rounded-xl
+                               border border-slate-200 bg-white
+                               hover:border-indigo-300 hover:bg-indigo-50/40
+                               hover:shadow-md hover:-translate-y-0.5
+                               transition-all duration-200"
+                                        >
+                                            <div className="relative flex-shrink-0">
                                                 <img
                                                     src={`/flags/${language.code}.svg`}
                                                     alt={language.code}
-                                                    className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover border-2 border-slate-200 flex-shrink-0"
+                                                    className="w-12 h-12 rounded-full object-cover ring-2 ring-white shadow-sm
+                                                       outline outline-1 outline-black/60"
                                                 />
-                                                <span className="text-sm sm:text-base font-medium text-slate-700">
-                                                    {language.label}
-                                                </span>
                                             </div>
-                                            <div className="flex flex-wrap items-center gap-2 sm:gap-3 sm:flex-1">
-                                                {language.available_codes.map((code) => (
-                                                    <img
-                                                        key={code}
-                                                        src={`/flags/${code}.svg`}
-                                                        alt={code}
-                                                        className="w-8 h-8 sm:w-10 sm:h-10 rounded-full object-cover border-2 border-slate-200 flex-shrink-0 hover:scale-110 transition-transform"
-                                                    />
-                                                ))}
+                                            <div className="flex-1 min-w-0">
+                                                <div className="text-sm font-semibold text-slate-800 truncate">
+                                                {language.label}
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                ))}
+                                    ))}
+                                </div>
                             </div>
                         </div>
                     </div>
