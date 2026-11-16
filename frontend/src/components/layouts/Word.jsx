@@ -43,7 +43,8 @@ export default function Word({ word, translation, level = null, repeat = null , 
             </div>
             <div className="flex items-center gap-2 flex-shrink-0">
                 {level !== null && (
-                    <span className={`px-3 py-3 rounded-full text-xs font-medium whitespace-nowrap ${setLevelColor(level)}`}>
+                    <span className={`inline-flex items-center justify-center min-w-[28px] h-7 px-3 rounded-full text-xs font-semibold tracking-wide shadow-sm ring-1 ring-inset ring-black/5 ${setLevelColor(level)}`}>
+                        {repeat !== null ? repeat : <></>}
                     </span>
                 )}
             </div>

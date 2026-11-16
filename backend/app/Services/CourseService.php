@@ -51,7 +51,8 @@ class CourseService
                         translation: $wordTranslation->translation,
                         transcription: $wordTranslation->word->transcription,
                         level: LevelDictionary::get($wordTranslation->word->level),
-                        repeatTime: null
+                        repeatTime: null,
+                        repeatCount: 0
                     ))->toArray();
                 }
                 $amountWords = $this->wordTranslationRepository->countSearchNewWords(
@@ -71,7 +72,8 @@ class CourseService
                         translation: $course->wordTranslation->translation,
                         transcription: $course->wordTranslation->word->transcription,
                         level: LevelDictionary::get($course->wordTranslation->word->level),
-                        repeatTime: (new DateTime($course->last_time_repeated))->format('d.m.Y H:i:s')
+                        repeatTime: (new DateTime($course->last_time_repeated))->format('d.m.Y H:i:s'),
+                        repeatCount: $course->repeat
                     ))->toArray();
                 }
                 $amountWords = $this->courseRepository->countByStatus($status, $user->id, $search);
@@ -164,6 +166,7 @@ class CourseService
                 }
                 else {
                     $this->courseRepository->update($course->id, [
+                        'repeat' => 0,
                         'status' => StatusWordDictionary::LEARNING,
                         'last_time_repeated' => date("Y-m-d H:i:s", strtotime("+10 minutes"))
                     ]);

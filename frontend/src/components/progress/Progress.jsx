@@ -127,7 +127,7 @@ export default function Progress() {
                                         word={e.text}
                                         translation={e.translation}
                                         level={e.level}
-                                        repeat={e.repeat_time}
+                                        repeat={activeTab === 2 ? e.repeat_count : null}
                                         progressId={e.id}
                                         activeTab={activeTab}
                                         transcription={e.transcription}
