@@ -198,14 +198,21 @@ export default function Card({setTraining}) {
                                                 <span className={`inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-sm font-semibold bg-gradient-to-r from-amber-400 to-amber-500 text-white shadow-lg shadow-amber-500/25`}>
                                                     {getText(lang.training.amountRepeat)} {repeat}
                                                 </span>
-                                                {onTraining ? <Pen className="w-6 h-6 shrink-0 ml-4 cursor-pointer"
-                                                      onClick={enableInput}/> : <></>}
+                                                {onTraining ?
+                                                    <div className={"ml-4 border-1 rounded-3xl p-2 border-solid border-black cursor-pointer"} onClick={enableInput}>
+                                                        <Pen className="w-6 h-6 shrink-0"
+                                                           />
+                                                    </div>
+                                                    : <></>
+                                                }
                                             </>
                                         )}
                                     </div>
                                 }
-                                <div className={'flex cursor-pointer justify-end w-2/5'} onClick={handleProblem}>
-                                    {!isProblem ? <Cancel/> : <Flag/>}
+                                <div className={'flex justify-end w-2/5'} >
+                                    <div className={"cursor-pointer"} onClick={handleProblem}>
+                                        {!isProblem ? <Cancel/> : <Flag/>}
+                                    </div>
                                 </div>
                             </div>
 
