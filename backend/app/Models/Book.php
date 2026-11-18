@@ -15,11 +15,13 @@ use Illuminate\Support\Carbon;
  * @property int|null $year
  * @property int $author_id
  * @property int $language_id
+ * @property int $translate_language_id
  * @property Carbon|null $created_at
  * @property Carbon|null $updated_at
  *
  * @property Author $author
  * @property Language $language
+ * @property Language $translateLanguage
  * @property Chapter[] $chapters
  *
  */
@@ -57,7 +59,11 @@ class Book extends Model
 
     public function language(): BelongsTo
     {
-        return $this->belongsTo(Language::class);
+        return $this->belongsTo(Language::class, 'language_id');
+    }
+    public function translateLanguage(): BelongsTo
+    {
+        return $this->belongsTo(Language::class, 'translate_language_id');
     }
 
     public function chapters()

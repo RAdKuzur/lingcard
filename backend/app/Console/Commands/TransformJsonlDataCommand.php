@@ -7,44 +7,35 @@ use Illuminate\Console\Attributes\Signature;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;
 
-#[Signature('app:transform-jsonl-data-command')]
+#[Signature('app:transform-jsonl-data-command {--base=} {--target=}')]
 #[Description('Command description')]
 class TransformJsonlDataCommand extends Command
 {
     public function handle()
     {
+        $baseLanguage = $this->option('base');
+        $targetLanguage = $this->option('target');
+
+        if (!$baseLanguage || !$targetLanguage) {
+            echo "No base or target option\n";
+            return;
+        }
+
         $baseFilePath = base_path('data/filtered');
-        $languages = array_diff(scandir($baseFilePath), ['.', '..', 'base']);
 
-        $languagesCache = [];
-        foreach (DB::table('languages')->get() as $language) {
-            $languagesCache[$language->code] = $language;
+        $firstLanguage = DB::table('languages')->where('code', $baseLanguage)->first();
+        $secondLanguage = DB::table('languages')->where('code', $targetLanguage)->first();
+
+        if (!$firstLanguage || !$secondLanguage) {
+            echo "No first base or target language\n";
+            return;
         }
 
-        foreach ($languages as $language) {
-            $firstLanguage = $languagesCache[$language] ?? null;
-            if (!$firstLanguage) {
-                echo "Язык {$language} не найден в БД\n";
-                continue;
-            }
+        $filePath = $baseFilePath . '/' . $baseLanguage . '/' . $targetLanguage . '.jsonl';
 
-            $baseLanguages = array_diff(scandir($baseFilePath . '/' . $language), ['.', '..']);
+        echo "Загружаю языковой пакет {$firstLanguage->code} - {$secondLanguage->code}\n";
 
-            foreach ($baseLanguages as $baseLanguage) {
-                $targetLanguage = str_replace('.jsonl', '', $baseLanguage);
-                $secondLanguage = $languagesCache[$targetLanguage] ?? null;
-
-                if (!$secondLanguage) {
-                    echo "Язык {$targetLanguage} не найден в БД\n";
-                    continue;
-                }
-
-                $filePath = $baseFilePath . '/' . $language . '/' . $baseLanguage;
-                echo "Загружаю языковой пакет {$firstLanguage->code} - {$secondLanguage->code}\n";
-
-                $this->processFileWithBatchInsert($filePath, $firstLanguage, $secondLanguage, $language, $targetLanguage);
-            }
-        }
+        $this->processFileWithBatchInsert($filePath, $firstLanguage, $secondLanguage, $baseLanguage, $targetLanguage);
     }
 
     private function processFileWithBatchInsert($filePath, $firstLanguage, $secondLanguage, $sourceField, $targetField)
