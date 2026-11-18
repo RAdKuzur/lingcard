@@ -1,0 +1,14 @@
+name: Clear
+
+on:
+  workflow_dispatch:
+
+jobs:
+  seed:
+    runs-on: self-hosted
+    environment: "production"
+    steps:
+      - name: Clear
+        run: |
+          cd /root/lingcard
+          docker compose exec backend php artisan database:clear
