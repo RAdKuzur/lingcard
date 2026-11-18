@@ -9,6 +9,8 @@ import {cn} from "./packages/cn.js";
 import {jp} from "./packages/jp.js";
 import {pt} from "./packages/pt.js";
 import {kr} from "./packages/kr.js";
+import {am} from "./packages/am.js";
+import {ge} from "./packages/ge.js";
 
 export function getText(label) {
     return label ?? ""
@@ -39,6 +41,10 @@ export function init() {
             return pt;
         case 'kr':
             return kr;
+        case 'am':
+            return am;
+        case 'ge':
+            return ge;
         default:
             return en;
     }
@@ -58,6 +64,8 @@ export const languageOptions = [
     { name: '日本語', flag: '/flags/jp.svg', value: 'jp' },
     { name: 'Português', flag: '/flags/pt.svg', value: 'pt' },
     { name: '한국어', flag: '/flags/kr.svg', value: 'kr' },
+    { name: 'ქართული', flag: '/flags/ge.svg', value: 'ge' },
+    { name: 'Հայերեն', flag: '/flags/am.svg', value: 'am' },
 ];
 
 export function getLabel(label) {
