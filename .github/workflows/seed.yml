@@ -11,10 +11,9 @@ jobs:
       - name: Migrate
         run: |
           cd /root/lingcard
-          docker compose exec backend php artisan migrate:reset --force
           docker compose exec backend php artisan migrate --force
 
       - name: Seed
         run: |
           cd /root/lingcard
-          docker compose exec backend php artisan db:seed --force
+          docker compose exec backend php artisan transfer
