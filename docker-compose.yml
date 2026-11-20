@@ -63,7 +63,7 @@ services:
     build:
       context: ./backend
       dockerfile: Dockerfile
-    command: db:seed
+    command: transfer
     networks:
       - network
     depends_on:
