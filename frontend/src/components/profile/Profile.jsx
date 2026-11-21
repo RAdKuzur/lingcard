@@ -13,6 +13,7 @@ export default function Profile() {
     const { redirectIfAuth } = useRedirect();
     const auth = useAuth()
 
+    const [username, setUsername] = useState('')
     const [isHover1, setHover1] = useState(false);
     const [isHover2, setHover2] = useState(false);
     const [baseLang, setBaseLang] = useState(0);
@@ -93,6 +94,7 @@ export default function Profile() {
             try {
                 const response = await get(apiRoutes.profile, {}, {withCredentials: true});
                 const data = response.data;
+                setUsername(data.username)
                 setTargetLang(data.target_language_id)
                 setBaseLang(data.base_language_id)
                 setInitialBaseLang(data.base_language_id)
@@ -123,7 +125,7 @@ export default function Profile() {
                     <>
                         <div className="flex w-full items-center gap-4">
                             <ButtonBack/>
-                            <h1 className="text-2xl font-bold text-slate-800">{getText(lang.profile.profileLabel)}</h1>
+                            <h1 className="text-2xl font-bold text-slate-800">{getText(lang.profile.profileLabel) + ' ' + username}</h1>
                         </div>
 
                         <div className="w-full bg-white rounded-2xl shadow-lg shadow-slate-200/50 p-6">
