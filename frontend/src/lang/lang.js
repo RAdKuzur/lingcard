@@ -11,6 +11,7 @@ import {pt} from "./packages/pt.js";
 import {kr} from "./packages/kr.js";
 import {am} from "./packages/am.js";
 import {ge} from "./packages/ge.js";
+import {lez} from "./packages/lez.js";
 
 export function getText(label) {
     return label ?? ""
@@ -45,6 +46,8 @@ export function init() {
             return am;
         case 'ge':
             return ge;
+        case 'lez':
+            return lez;
         default:
             return en;
     }
@@ -66,6 +69,7 @@ export const languageOptions = [
     { name: '한국어', flag: '/flags/kr.svg', value: 'kr' },
     { name: 'ქართული', flag: '/flags/ge.svg', value: 'ge' },
     { name: 'Հայերեն', flag: '/flags/am.svg', value: 'am' },
+    { name: 'Лезги чӏал', flag: '/flags/lez.svg', value: 'lez' },
 ];
 
 export function getLabel(label) {
