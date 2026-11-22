@@ -213,7 +213,7 @@
 {"lez":"тромбон","ru":"муз. тромбон","level":1, "transcription": null}
 {"lez":"президент","ru":"президент","level":1, "transcription": null}
 {"lez":"биолог","ru":"биолог (аналогично русскому слову)","level":1, "transcription": null}
-{"lez":"ботаник","ru":"ботаник [1, "transcription": null]","level":1, "transcription": null}
+{"lez":"ботаник","ru":"ботаник","level":1, "transcription": null}
 {"lez":"Науру","ru":"Науру (аналогично русскому слову)","level":1, "transcription": null}
 {"lez":"ананас","ru":"ботан. ананас (растение) (Ananas)","level":1, "transcription": null}
 {"lez":"ананас","ru":"ананас (плод)","level":1, "transcription": null}
@@ -223,13 +223,13 @@
 {"lez":"аксиома","ru":"матем. аксиома","level":1, "transcription": null}
 {"lez":"акционер","ru":"акционер","level":1, "transcription": null}
 {"lez":"альбатрос","ru":"орнитол. альбатрос","level":1, "transcription": null}
-{"lez":"фаянс","ru":"фаянс [1, "transcription": null]","level":1, "transcription": null}
+{"lez":"фаянс","ru":"фаянс","level":1, "transcription": null}
 {"lez":"энергия","ru":"физ. энергия","level":1, "transcription": null}
 {"lez":"продавец","ru":"продавец","level":1, "transcription": null}
 {"lez":"хер","ru":"рана","level":1, "transcription": null}
-{"lez":"рычаг","ru":"рычаг [1, "transcription": null]","level":1, "transcription": null}
+{"lez":"рычаг","ru":"рычаг","level":1, "transcription": null}
 {"lez":"металл","ru":"металл","level":1, "transcription": null}
-{"lez":"виолончель","ru":"муз. виолончель [1, "transcription": null]","level":1, "transcription": null}
+{"lez":"виолончель","ru":"муз. виолончель","level":1, "transcription": null}
 {"lez":"гитара","ru":"муз. гитара","level":1, "transcription": null}
 {"lez":"тар","ru":"дерево","level":1, "transcription": null}
 {"lez":"фортепиано","ru":"муз. фортепиано (фортепьяно)","level":1, "transcription": null}
@@ -238,8 +238,8 @@
 {"lez":"авиация","ru":"авиация, воздухоплавание","level":1, "transcription": null}
 {"lez":"лётчик","ru":"лётчик, пилот","level":1, "transcription": null}
 {"lez":"меланхолия","ru":"меланхолия","level":1, "transcription": null}
-{"lez":"веер","ru":"веер [1, "transcription": null]","level":1, "transcription": null}
-{"lez":"текст","ru":"текст [1, "transcription": null]","level":1, "transcription": null}
+{"lez":"веер","ru":"веер","level":1, "transcription": null}
+{"lez":"текст","ru":"текст","level":1, "transcription": null}
 {"lez":"механизм","ru":"механизм","level":1, "transcription": null}
 {"lez":"организм","ru":"организм (аналогично русскому слову)","level":1, "transcription": null}
 {"lez":"атмосфера","ru":"астрон. атмосфера","level":1, "transcription": null}
@@ -383,7 +383,7 @@
 {"lez":"молекула","ru":"хим. молекула","level":1, "transcription": null}
 {"lez":"компас","ru":"компас","level":1, "transcription": null}
 {"lez":"химик","ru":"химик","level":1, "transcription": null}
-{"lez":"физик","ru":"физик [1, "transcription": null]","level":1, "transcription": null}
+{"lez":"физик","ru":"физик","level":1, "transcription": null}
 {"lez":"этанол","ru":"хим. этанол, этиловый спирт","level":1, "transcription": null}
 {"lez":"Антарктида","ru":"геогр. Антарктида (аналогично русскому слову)","level":1, "transcription": null}
 {"lez":"афоризм","ru":"афоризм","level":1, "transcription": null}
@@ -513,7 +513,7 @@
 {"lez":"терапия","ru":"мед. терапия","level":1, "transcription": null}
 {"lez":"терминология","ru":"терминология","level":1, "transcription": null}
 {"lez":"термодинамика","ru":"физ. термодинамика","level":1, "transcription": null}
-{"lez":"топология","ru":"матем. топология [1, "transcription": null]","level":1, "transcription": null}
+{"lez":"топология","ru":"матем. топология","level":1, "transcription": null}
 {"lez":"трагикомедия","ru":"трагикомедия","level":1, "transcription": null}
 {"lez":"тычинка","ru":"ботан. тычинка (аналогично русскому слову)","level":1, "transcription": null}
 {"lez":"взвод","ru":"воен. взвод","level":1, "transcription": null}
@@ -532,7 +532,7 @@
 {"lez":"антициклон","ru":"метеорол. антициклон","level":1, "transcription": null}
 {"lez":"баббит","ru":"техн. баббит","level":1, "transcription": null}
 {"lez":"базальт","ru":"минер. базальт","level":1, "transcription": null}
-{"lez":"бант","ru":"бант [1, "transcription": null]","level":1, "transcription": null}
+{"lez":"бант","ru":"бант","level":1, "transcription": null}
 {"lez":"барельеф","ru":"искусств. барельеф","level":1, "transcription": null}
 {"lez":"барий","ru":"хим. барий","level":1, "transcription": null}
 {"lez":"барограф","ru":"барограф","level":1, "transcription": null}
