@@ -178,7 +178,7 @@ export default function Card({setTraining}) {
                         ${opacityCard ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
                     >
                         <ButtonBack />
-                        <ButtonToggle setOn={setTrainingOn} on={onTraining} />
+                        {status !== studyStatuses.none ? <ButtonToggle setOn={setTrainingOn} on={onTraining} /> : <></>}
                     </div>
                     <div className={`relative bg-white/80 backdrop-blur-sm rounded-3xl shadow-2xl shadow-indigo-500/10 p-8 transition-all duration-500 border border-white/50
                             ${direction === 'right' ? 'translate-x-full rotate-12 opacity-0 scale-90' : ''}
