@@ -12,6 +12,9 @@ import {kr} from "./packages/kr.js";
 import {am} from "./packages/am.js";
 import {ge} from "./packages/ge.js";
 import {lez} from "./packages/lez.js";
+import {ee} from "./packages/ee.js";
+import {lv} from "./packages/lv.js";
+import {lt} from "./packages/lt.js";
 
 export function getText(label) {
     return label ?? ""
@@ -48,6 +51,12 @@ export function init() {
             return ge;
         case 'lez':
             return lez;
+        case 'ee':
+            return ee;
+        case 'lv':
+            return lv;
+        case 'lt':
+            return lt;
         default:
             return en;
     }
@@ -70,6 +79,9 @@ export const languageOptions = [
     { name: 'ქართული', flag: '/flags/ge.svg', value: 'ge' },
     { name: 'Հայերեն', flag: '/flags/am.svg', value: 'am' },
     { name: 'Лезги чӏал', flag: '/flags/lez.svg', value: 'lez' },
+    { name: 'Eesti', flag: '/flags/ee.svg', value: 'ee' },
+    { name: 'Latviešu', flag: '/flags/lv.svg', value: 'lv' },
+    { name: 'Lietuvių', flag: '/flags/lt.svg', value: 'lt' },
 ];
 
 export function getLabel(label) {
