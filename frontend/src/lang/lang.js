@@ -15,6 +15,10 @@ import {lez} from "./packages/lez.js";
 import {ee} from "./packages/ee.js";
 import {lv} from "./packages/lv.js";
 import {lt} from "./packages/lt.js";
+import {uz} from "./packages/uz.js";
+import {mn} from "./packages/mn.js";
+import {hi} from "./packages/in.js";
+import {pk} from "./packages/pk.js";
 
 export function getText(label) {
     return label ?? ""
@@ -57,6 +61,14 @@ export function init() {
             return lv;
         case 'lt':
             return lt;
+        case 'uz':
+            return uz;
+        case 'mn':
+            return mn;
+        case 'in':
+            return hi;
+        case 'pk':
+            return pk;
         default:
             return en;
     }
@@ -79,9 +91,13 @@ export const languageOptions = [
     { name: 'ქართული', flag: '/flags/ge.svg', value: 'ge' },
     { name: 'Հայերեն', flag: '/flags/am.svg', value: 'am' },
     { name: 'Лезги чӏал', flag: '/flags/lez.svg', value: 'lez' },
+    { name: 'Oʻzbekcha', flag: '/flags/uz.svg', value: 'uz' },
+    { name: 'Монгол', flag: '/flags/mn.svg', value: 'mn' },
     { name: 'Eesti', flag: '/flags/ee.svg', value: 'ee' },
     { name: 'Latviešu', flag: '/flags/lv.svg', value: 'lv' },
     { name: 'Lietuvių', flag: '/flags/lt.svg', value: 'lt' },
+    { name: 'हिन्दी', flag: '/flags/in.svg', value: 'in' },
+    { name: 'اردو', flag: '/flags/pk.svg', value: 'pk' },
 ];
 
 export function getLabel(label) {
