@@ -1,0 +1,2129 @@
+{"ru":"Бельгия","bn":"বেলজিয়াম","transcription":null,"level":1}
+{"ru":"Германия","bn":"জার্মানি","transcription":null,"level":1}
+{"ru":"неон","bn":"নিয়ন","transcription":null,"level":1}
+{"ru":"словарь","bn":"অভিধান","transcription":null,"level":1}
+{"ru":"Болгария","bn":"বুলগেরিয়া","transcription":null,"level":1}
+{"ru":"свеча","bn":"মোমবাতি","transcription":null,"level":1}
+{"ru":"армия","bn":"থলেসনা","transcription":null,"level":1}
+{"ru":"восемь","bn":"আট","transcription":null,"level":1}
+{"ru":"девять","bn":"নয়","transcription":null,"level":1}
+{"ru":"деньги","bn":"অর্থ","transcription":null,"level":1}
+{"ru":"окно","bn":"জানালা","transcription":null,"level":1}
+{"ru":"мать","bn":"অম্বা","transcription":null,"level":1}
+{"ru":"рот","bn":"মুখ","transcription":null,"level":1}
+{"ru":"пять","bn":"পাঁচ","transcription":null,"level":1}
+{"ru":"два","bn":"দুই","transcription":null,"level":1}
+{"ru":"три","bn":"তিন","transcription":null,"level":1}
+{"ru":"птица","bn":"পাখী","transcription":null,"level":1}
+{"ru":"врач, лекарь; доктор; медик","bn":"ডাক্তার","transcription":null,"level":1}
+{"ru":"осень","bn":"শরত্","transcription":null,"level":1}
+{"ru":"понедельник","bn":"সোমবার","transcription":null,"level":1}
+{"ru":"вторник","bn":"মঙ্গলবার","transcription":null,"level":1}
+{"ru":"музыка","bn":"সঙ্গীত","transcription":null,"level":1}
+{"ru":"суббота","bn":"শনিবার","transcription":null,"level":1}
+{"ru":"хим.алюминий","bn":"অ্যালুমিনিয়াম","transcription":null,"level":1}
+{"ru":"воскресенье","bn":"ইতবার","transcription":null,"level":1}
+{"ru":"четверг","bn":"বৃহস্পতিবার","transcription":null,"level":1}
+{"ru":"среда (день недели)","bn":"বুধবার","transcription":null,"level":1}
+{"ru":"пятница","bn":"শুক্রবার","transcription":null,"level":1}
+{"ru":"шесть","bn":"ছয়","transcription":null,"level":1}
+{"ru":"кофе","bn":"কফি","transcription":null,"level":1}
+{"ru":"один","bn":"এক","transcription":null,"level":1}
+{"ru":"четыре","bn":"চার","transcription":null,"level":1}
+{"ru":"животное","bn":"জানোয়ার","transcription":null,"level":1}
+{"ru":"мыло","bn":"সাবান","transcription":null,"level":1}
+{"ru":"река","bn":"নদী","transcription":null,"level":1}
+{"ru":"зима","bn":"শীত","transcription":null,"level":1}
+{"ru":"зеркало","bn":"আয়না","transcription":null,"level":1}
+{"ru":"семья","bn":"পরিবার","transcription":null,"level":1}
+{"ru":"нос","bn":"নাক","transcription":null,"level":1}
+{"ru":"имя","bn":"নাম","transcription":null,"level":1}
+{"ru":"карандаш","bn":"পেনসিল","transcription":null,"level":1}
+{"ru":"дочь","bn":"মেয়ে","transcription":null,"level":1}
+{"ru":"дочь","bn":"বালিকা","transcription":null,"level":1}
+{"ru":"рыба","bn":"মাছ","transcription":null,"level":1}
+{"ru":"стрела","bn":"তীর","transcription":null,"level":1}
+{"ru":"муравей","bn":"পিপীলিকা","transcription":null,"level":1}
+{"ru":"яйцо","bn":"ডিম","transcription":null,"level":1}
+{"ru":"яйцо","bn":"ডীম","transcription":null,"level":1}
+{"ru":"смерть","bn":"মৃত্যু","transcription":null,"level":1}
+{"ru":"смерть","bn":"মরন","transcription":null,"level":1}
+{"ru":"смерть","bn":"মৃত্য়ু","transcription":null,"level":1}
+{"ru":"женщина","bn":"মহিলা","transcription":null,"level":1}
+{"ru":"песня","bn":"গান","transcription":null,"level":1}
+{"ru":"вода","bn":"পানি","transcription":null,"level":1}
+{"ru":"ухо","bn":"কান","transcription":null,"level":1}
+{"ru":"год","bn":"বছর","transcription":null,"level":1}
+{"ru":"год","bn":"সাল","transcription":null,"level":1}
+{"ru":"бог","bn":"খোদা","transcription":null,"level":1}
+{"ru":"слон","bn":"হাতী","transcription":null,"level":1}
+{"ru":"страх","bn":"ভয়","transcription":null,"level":1}
+{"ru":"страх","bn":"ডর","transcription":null,"level":1}
+{"ru":"ветер","bn":"হাওয়া","transcription":null,"level":1}
+{"ru":"погода","bn":"আবহাওয়া","transcription":null,"level":1}
+{"ru":"голос","bn":"সর","transcription":null,"level":1}
+{"ru":"неделя","bn":"সপ্তাহ","transcription":null,"level":1}
+{"ru":"час","bn":"ঘণ্টা","transcription":null,"level":1}
+{"ru":"вино","bn":"ওয়াইন","transcription":null,"level":1}
+{"ru":"зоол. червь, червяк","bn":"ঘুরঘুর","transcription":null,"level":1}
+{"ru":"бумага","bn":"কাগজ","transcription":null,"level":1}
+{"ru":"чёрный","bn":"কালো","transcription":null,"level":1}
+{"ru":"топор","bn":"কুড়াল","transcription":null,"level":1}
+{"ru":"мужчина, муж","bn":"পুরুষ","transcription":null,"level":1}
+{"ru":"воздух","bn":"বায়ু","transcription":null,"level":1}
+{"ru":"хим. золото","bn":"সোনা","transcription":null,"level":1}
+{"ru":"шоколад","bn":"চকলেট","transcription":null,"level":1}
+{"ru":"белый","bn":"সাদা","transcription":null,"level":1}
+{"ru":"десять","bn":"দশ","transcription":null,"level":1}
+{"ru":"боль","bn":"ব্যাথা","transcription":null,"level":1}
+{"ru":"камень","bn":"পাথর","transcription":null,"level":1}
+{"ru":"остров","bn":"দ্বীপ","transcription":null,"level":1}
+{"ru":"чай","bn":"চা","transcription":null,"level":1}
+{"ru":"война","bn":"আহব","transcription":null,"level":1}
+{"ru":"уксус","bn":"সির্কা","transcription":null,"level":1}
+{"ru":"хим. полоний","bn":"পোলোনিয়াম","transcription":null,"level":1}
+{"ru":"анат. рука","bn":"বাহু","transcription":null,"level":1}
+{"ru":"анат. рука (кисть)","bn":"হাত","transcription":null,"level":1}
+{"ru":"анат. нога","bn":"পা","transcription":null,"level":1}
+{"ru":"анат. голова","bn":"মাথা","transcription":null,"level":1}
+{"ru":"природа","bn":"প্রকৃতি","transcription":null,"level":1}
+{"ru":"молоко","bn":"দুধ","transcription":null,"level":1}
+{"ru":"анат. зуб","bn":"দাঁত","transcription":null,"level":1}
+{"ru":"архит. стена","bn":"দেওয়াল","transcription":null,"level":1}
+{"ru":"зоол. волк (Canis lupus)","bn":"নেকড়ে","transcription":null,"level":1}
+{"ru":"ложка","bn":"চামচ","transcription":null,"level":1}
+{"ru":"хим. серебро","bn":"রুপা","transcription":null,"level":1}
+{"ru":"лето","bn":"গ্রীষ্ম","transcription":null,"level":1}
+{"ru":"сталь","bn":"ইস্পাত","transcription":null,"level":1}
+{"ru":"песок","bn":"বালু","transcription":null,"level":1}
+{"ru":"сыр","bn":"পনির","transcription":null,"level":1}
+{"ru":"вулкан","bn":"আগ্নেয়গিরি","transcription":null,"level":1}
+{"ru":"молитва","bn":"নামাজ","transcription":null,"level":1}
+{"ru":"вопрос","bn":"প্রশ্ন","transcription":null,"level":1}
+{"ru":"снег","bn":"বরফ","transcription":null,"level":1}
+{"ru":"лёд","bn":"বরফ","transcription":null,"level":1}
+{"ru":"соль","bn":"লবন","transcription":null,"level":1}
+{"ru":"соль","bn":"নুন","transcription":null,"level":1}
+{"ru":"сын","bn":"পুত্র","transcription":null,"level":1}
+{"ru":"мальчик","bn":"ছেলে","transcription":null,"level":1}
+{"ru":"сын","bn":"ছেলে","transcription":null,"level":1}
+{"ru":"зоол. лягушка","bn":"দাদুর","transcription":null,"level":1}
+{"ru":"зоол. крокодил","bn":"কুমীর","transcription":null,"level":1}
+{"ru":"ножницы","bn":"কাঁচি","transcription":null,"level":1}
+{"ru":"мёд","bn":"মধু","transcription":null,"level":1}
+{"ru":"большой","bn":"বড়ো","transcription":null,"level":1}
+{"ru":"зоол. собака","bn":"কুকুর","transcription":null,"level":1}
+{"ru":"человек","bn":"মানুষ","transcription":null,"level":1}
+{"ru":"зоол. кролик","bn":"খরেগাশ","transcription":null,"level":1}
+{"ru":"лес","bn":"বন","transcription":null,"level":1}
+{"ru":"лес","bn":"জঙ্গল","transcription":null,"level":1}
+{"ru":"молодой","bn":"তরুণ","transcription":null,"level":1}
+{"ru":"молодой","bn":"জোয়ান","transcription":null,"level":1}
+{"ru":"сахар","bn":"চিনি","transcription":null,"level":1}
+{"ru":"друг","bn":"বন্ধু","transcription":null,"level":1}
+{"ru":"зоол. бабочка, мотылёк","bn":"প্রজাপতি","transcription":null,"level":1}
+{"ru":"город","bn":"শহর","transcription":null,"level":1}
+{"ru":"город","bn":"নগর","transcription":null,"level":1}
+{"ru":"враг","bn":"দুশমন","transcription":null,"level":1}
+{"ru":"зоол. орёл (Aquila)","bn":"ঈগল","transcription":null,"level":1}
+{"ru":"крыша","bn":"ছাদ","transcription":null,"level":1}
+{"ru":"хлеб","bn":"রুটি","transcription":null,"level":1}
+{"ru":"зоол. осёл, ишак (Equus asinus asinus)","bn":"গাধা","transcription":null,"level":1}
+{"ru":"зоол. змея (serpens)","bn":"সাপ","transcription":null,"level":1}
+{"ru":"ботан. помидор, томат (растение, Solanum lycopersicum)","bn":"টমেটো","transcription":null,"level":1}
+{"ru":"зоол. паук","bn":"মাকড়","transcription":null,"level":1}
+{"ru":"пиво","bn":"বিয়ার","transcription":null,"level":1}
+{"ru":"зоол. ворона (Corvus)","bn":"কাক","transcription":null,"level":1}
+{"ru":"девяносто","bn":"নব্বই","transcription":null,"level":1}
+{"ru":"сто","bn":"শত","transcription":null,"level":1}
+{"ru":"зоол. медведь (Ursus))","bn":"ভালুক","transcription":null,"level":1}
+{"ru":"шёлк","bn":"রেশম","transcription":null,"level":1}
+{"ru":"зоол. леопард (Panthera pardus L.)","bn":"চিতাবাঘ","transcription":null,"level":1}
+{"ru":"день","bn":"দিন","transcription":null,"level":1}
+{"ru":"ночь","bn":"রাত","transcription":null,"level":1}
+{"ru":"зоол. лев (Panthera leo)","bn":"সিংহ","transcription":null,"level":1}
+{"ru":"танцевать, плясать","bn":"নাচা","transcription":null,"level":1}
+{"ru":"ботан. тюльпан (Tulipa)","bn":"ঘন্টাকর্ণ","transcription":null,"level":1}
+{"ru":"страница","bn":"পৃষ্ঠা","transcription":null,"level":1}
+{"ru":"кровь","bn":"রক্ত","transcription":null,"level":1}
+{"ru":"дерево (растение)","bn":"গাছ","transcription":null,"level":1}
+{"ru":"облако","bn":"মেঘ","transcription":null,"level":1}
+{"ru":"зоол. лиса, лисица (vulpes)","bn":"শিয়াল","transcription":null,"level":1}
+{"ru":"Турция","bn":"তুরস্ক","transcription":null,"level":1}
+{"ru":"геогр. устье (реки)","bn":"মোহানা","transcription":null,"level":1}
+{"ru":"скрипка","bn":"বেহালা","transcription":null,"level":1}
+{"ru":"персик (плод)","bn":"পীচফশ","transcription":null,"level":1}
+{"ru":"зоол. гусь (Anser)","bn":"হংসী","transcription":null,"level":1}
+{"ru":"зоол. лебедь","bn":"রাজহাঁস","transcription":null,"level":1}
+{"ru":"я","bn":"আমি","transcription":null,"level":1}
+{"ru":"мы","bn":"আমরা","transcription":null,"level":1}
+{"ru":"язык (знаковая система, средство общения)","bn":"ভাষা","transcription":null,"level":1}
+{"ru":"язык (мышечный орган)","bn":"জিব","transcription":null,"level":1}
+{"ru":"апрель","bn":"এপ্রিল","transcription":null,"level":1}
+{"ru":"январь","bn":"জানুয়ারী","transcription":null,"level":1}
+{"ru":"двенадцать","bn":"বারো","transcription":null,"level":1}
+{"ru":"февраль","bn":"ফেব্রুয়ারী","transcription":null,"level":1}
+{"ru":"книга","bn":"বই","transcription":null,"level":1}
+{"ru":"анат. палец","bn":"আঙ্গুল","transcription":null,"level":1}
+{"ru":"хим. медь","bn":"তামা","transcription":null,"level":1}
+{"ru":"геометр. треугольник","bn":"ত্রিভুজ","transcription":null,"level":1}
+{"ru":"геогр. Перу","bn":"পেরু","transcription":null,"level":1}
+{"ru":"хим. озон","bn":"ওজোন","transcription":null,"level":1}
+{"ru":"геогр. Уругвай","bn":"উরুগুয়ে","transcription":null,"level":1}
+{"ru":"анат. губа","bn":"ঠোঁট","transcription":null,"level":1}
+{"ru":"анат. клюв","bn":"ঠোঁট","transcription":null,"level":1}
+{"ru":"астрономия","bn":"জ্যোতির্বিজ্ঞান","transcription":null,"level":1}
+{"ru":"шестой","bn":"ষষ্ঠ","transcription":null,"level":1}
+{"ru":"пятый","bn":"পঞ্চম","transcription":null,"level":1}
+{"ru":"июнь","bn":"জুন","transcription":null,"level":1}
+{"ru":"июль","bn":"জুলাই","transcription":null,"level":1}
+{"ru":"девятый","bn":"নবম","transcription":null,"level":1}
+{"ru":"восьмой","bn":"অষ্টম","transcription":null,"level":1}
+{"ru":"сестра (дочь тех же родителей)","bn":"বোন","transcription":null,"level":1}
+{"ru":"месяц","bn":"মাস","transcription":null,"level":1}
+{"ru":"тугрик","bn":"তুগরিক","transcription":null,"level":1}
+{"ru":"религия; вероисповедание","bn":"ধর্ম","transcription":null,"level":1}
+{"ru":"мост","bn":"সেতু","transcription":null,"level":1}
+{"ru":"зелёный","bn":"সবুজ","transcription":null,"level":1}
+{"ru":"астрон. планета","bn":"গ্রহ","transcription":null,"level":1}
+{"ru":"первый","bn":"প্রথম","transcription":null,"level":1}
+{"ru":"сентябрь","bn":"সেপ্টেম্বর","transcription":null,"level":1}
+{"ru":"Япония","bn":"জাপান","transcription":null,"level":1}
+{"ru":"километр","bn":"কিলোমিটার","transcription":null,"level":1}
+{"ru":"ведро","bn":"বালতি","transcription":null,"level":1}
+{"ru":"второй","bn":"দ্বিতীয়","transcription":null,"level":1}
+{"ru":"третий","bn":"তৃতীয়","transcription":null,"level":1}
+{"ru":"октябрь","bn":"অক্টোবর","transcription":null,"level":1}
+{"ru":"крыса (rattus)","bn":"ইঁদুর","transcription":null,"level":1}
+{"ru":"геогр. пустыня","bn":"মরুভূমি","transcription":null,"level":1}
+{"ru":"орнитол. дятел","bn":"কাঠেঠাকরা","transcription":null,"level":1}
+{"ru":"декабрь","bn":"ডিসেম্বর","transcription":null,"level":1}
+{"ru":"ноябрь","bn":"নভেম্বর","transcription":null,"level":1}
+{"ru":"зоол. стрекоза","bn":"ফড়িং","transcription":null,"level":1}
+{"ru":"метеорол. дождь","bn":"বৃষ্টি","transcription":null,"level":1}
+{"ru":"столица","bn":"রাজধানী","transcription":null,"level":1}
+{"ru":"огонь","bn":"আগুন","transcription":null,"level":1}
+{"ru":"истор. Австро-Венгрия","bn":"অস্ট্রিয়া-হাঙ্গেরি","transcription":null,"level":1}
+{"ru":"анат. колено","bn":"হাঁটু","transcription":null,"level":1}
+{"ru":"музыкант","bn":"বাদক","transcription":null,"level":1}
+{"ru":"жёлтый","bn":"হলদে","transcription":null,"level":1}
+{"ru":"яблоко (плод яблони)","bn":"আপেল","transcription":null,"level":1}
+{"ru":"яблоко (плод яблони)","bn":"সেব","transcription":null,"level":1}
+{"ru":"отец, папа","bn":"পিতা","transcription":null,"level":1}
+{"ru":"отец, папа","bn":"আব্বা","transcription":null,"level":1}
+{"ru":"отец, папа","bn":"বাবা","transcription":null,"level":1}
+{"ru":"зоол. оса","bn":"বোলতা","transcription":null,"level":1}
+{"ru":"техн. экскаватор","bn":"খনক","transcription":null,"level":1}
+{"ru":"анат. веко","bn":"পলক","transcription":null,"level":1}
+{"ru":"мифол. Клио (муза истории)","bn":"ক্লিও","transcription":null,"level":1}
+{"ru":"мифол. Каллиопа (муза эпической поэзии)","bn":"কাল্লিয়োপে","transcription":null,"level":1}
+{"ru":"мифол. Мельпомена (муза трагедии)","bn":"মেল্পোমেনে","transcription":null,"level":1}
+{"ru":"мифол. Полигимния (муза торжественных гимнов, сельского хозяйства и пантомимы)","bn":"পলিহিম্নিয়া","transcription":null,"level":1}
+{"ru":"улица","bn":"রাস্তা","transcription":null,"level":1}
+{"ru":"мифол. Терпсихора (муза танцев)","bn":"তের্প্সিকোরে","transcription":null,"level":1}
+{"ru":"мифол. Урания (муза астрономии)","bn":"উরানিয়া","transcription":null,"level":1}
+{"ru":"мифол. Эвтерпа (муза лирической поэзии и музыки)","bn":"এউতের্পে","transcription":null,"level":1}
+{"ru":"мифол. Эрато (муза любовной поэзии)","bn":"এরাতো","transcription":null,"level":1}
+{"ru":"слово","bn":"শব্দ","transcription":null,"level":1}
+{"ru":"физиол. беременность","bn":"গর্ভধারণ","transcription":null,"level":1}
+{"ru":"метеорол. град","bn":"শিলাবৃষ্টি","transcription":null,"level":1}
+{"ru":"анат. артерия","bn":"ধমনী","transcription":null,"level":1}
+{"ru":"анат. хвост","bn":"লেজ","transcription":null,"level":1}
+{"ru":"анат. хвост","bn":"ধন","transcription":null,"level":1}
+{"ru":"глаз","bn":"চোখ","transcription":null,"level":1}
+{"ru":"красный","bn":"লাল","transcription":null,"level":1}
+{"ru":"хим. химический элемент с атомным номером 99, обозначается химическим символом Es, радиоактивный металл из группы трансурановых актиноидов","bn":"আইনস্টাইনিয়াম","transcription":null,"level":1}
+{"ru":"анат. шея","bn":"গলা","transcription":null,"level":1}
+{"ru":"уран, хим. химический элемент с атомным номером 92, обозначается химическим символом U, радиоактивный металл из группы трансурановых актиноидов","bn":"ইউরেনিয়াম","transcription":null,"level":1}
+{"ru":"диалог","bn":"সংলাপ","transcription":null,"level":1}
+{"ru":"мед. грипп","bn":"ফ্লু","transcription":null,"level":1}
+{"ru":"медаль","bn":"পদক","transcription":null,"level":1}
+{"ru":"рюкзак","bn":"ব্যাকপ্যাক","transcription":null,"level":1}
+{"ru":"ветеринар","bn":"গোবৈদ্য","transcription":null,"level":1}
+{"ru":"качели","bn":"দোল","transcription":null,"level":1}
+{"ru":"рекорд","bn":"নথি","transcription":null,"level":1}
+{"ru":"лаборатория","bn":"পরীক্ষাগার","transcription":null,"level":1}
+{"ru":"август","bn":"আগস্ট","transcription":null,"level":1}
+{"ru":"зоол. ягуар","bn":"জাগুয়ার","transcription":null,"level":1}
+{"ru":"фокусник","bn":"ঐন্দ্রজালিক","transcription":null,"level":1}
+{"ru":"геол. известняк","bn":"চুনাপাথর","transcription":null,"level":1}
+{"ru":"абсент","bn":"সোমরস","transcription":null,"level":1}
+{"ru":"ботан. астра","bn":"তারাফুল","transcription":null,"level":1}
+{"ru":"ботан. мать-и-мачеха","bn":"ফুলবিশেষ","transcription":null,"level":1}
+{"ru":"ботан. пижма","bn":"ট্যান্জি","transcription":null,"level":1}
+{"ru":"ботан. хризантема","bn":"চন্দ্রমল্লিকা","transcription":null,"level":1}
+{"ru":"ботан. хризантема","bn":"ক্রিস্যানথেমাম","transcription":null,"level":1}
+{"ru":"ботан. георгин","bn":"ফ্ুলপাছ","transcription":null,"level":1}
+{"ru":"ж.-д. поезд","bn":"রেলগাড়ি","transcription":null,"level":1}
+{"ru":"цемент","bn":"সিমেন্ট","transcription":null,"level":1}
+{"ru":"зоол. блоха (Pulex)","bn":"উপমক্ষিকা","transcription":null,"level":1}
+{"ru":"кулин. тесто","bn":"ময়দা","transcription":null,"level":1}
+{"ru":"зоол. дельфин","bn":"শুশুক","transcription":null,"level":1}
+{"ru":"песчанистый","bn":"বালুময়","transcription":null,"level":1}
+{"ru":"анат. пищевод","bn":"অন্ননালী","transcription":null,"level":1}
+{"ru":"надежда","bn":"আশা","transcription":null,"level":1}
+{"ru":"облачность","bn":"কুয়াশাচ্ছন্নতা","transcription":null,"level":1}
+{"ru":"религ. иконоборческий","bn":"কালাপাহাড়ী","transcription":null,"level":1}
+{"ru":"шрам, рубец","bn":"ক্ষতচিহ্ন","transcription":null,"level":1}
+{"ru":"религ. ангел","bn":"দেব-দূত","transcription":null,"level":1}
+{"ru":"балет","bn":"ব্যালে","transcription":null,"level":1}
+{"ru":"фотография, фотоснимок, снимок","bn":"ফটো","transcription":null,"level":1}
+{"ru":"фотография, фотоснимок, снимок","bn":"ফটোগ্রাফ","transcription":null,"level":1}
+{"ru":"анат. ноготь","bn":"নখ","transcription":null,"level":1}
+{"ru":"зоол. жираф","bn":"জিরাফ","transcription":null,"level":1}
+{"ru":"анат. почка","bn":"বৃক্ক","transcription":null,"level":1}
+{"ru":"анат. почка","bn":"কিডনি","transcription":null,"level":1}
+{"ru":"анат. почка","bn":"অন্ত্র","transcription":null,"level":1}
+{"ru":"анат. печень","bn":"যকৃৎ","transcription":null,"level":1}
+{"ru":"волосы","bn":"চুল","transcription":null,"level":1}
+{"ru":"петь","bn":"গাওয়া","transcription":null,"level":1}
+{"ru":"астрон. звезда","bn":"তারা","transcription":null,"level":1}
+{"ru":"дверь","bn":"দরজা","transcription":null,"level":1}
+{"ru":"двадцать","bn":"কুড়ি","transcription":null,"level":1}
+{"ru":"двадцать","bn":"বিশ","transcription":null,"level":1}
+{"ru":"игла, иголка (швейная)","bn":"সূচি","transcription":null,"level":1}
+{"ru":"игла, иголка (швейная)","bn":"সুই","transcription":null,"level":1}
+{"ru":"посольство","bn":"দূতাবাস","transcription":null,"level":1}
+{"ru":"зоол. вошь","bn":"উকুন","transcription":null,"level":1}
+{"ru":"анат. зрачок","bn":"পিউপিল","transcription":null,"level":1}
+{"ru":"астрон. орбита","bn":"কক্ষপথ","transcription":null,"level":1}
+{"ru":"тёмный","bn":"অন্ধকার","transcription":null,"level":1}
+{"ru":"зоол. муха","bn":"মাছি","transcription":null,"level":1}
+{"ru":"хим. железо","bn":"লোহা","transcription":null,"level":1}
+{"ru":"анат. аппендикс (червеобразный отросток слепой кишки)","bn":"অ্যাপেন্ডিক্স","transcription":null,"level":1}
+{"ru":"наводнение","bn":"বন্যা","transcription":null,"level":1}
+{"ru":"хим. магний","bn":"ম্যাগনেসিয়াম","transcription":null,"level":1}
+{"ru":"тридцать","bn":"ত্রিশ","transcription":null,"level":1}
+{"ru":"хим. натрий","bn":"লবণক","transcription":null,"level":1}
+{"ru":"газета","bn":"সংবাদপত্র","transcription":null,"level":1}
+{"ru":"тридцать четыре","bn":"চৌঁতিরিশ","transcription":null,"level":1}
+{"ru":"лизать","bn":"চাটা","transcription":null,"level":1}
+{"ru":"шахматы","bn":"দাবা","transcription":null,"level":1}
+{"ru":"анат. подбородок","bn":"চিবুক","transcription":null,"level":1}
+{"ru":"литр","bn":"লিটার","transcription":null,"level":1}
+{"ru":"водка","bn":"ভদকা","transcription":null,"level":1}
+{"ru":"зоол. верблюд","bn":"উট","transcription":null,"level":1}
+{"ru":"анат. мозг","bn":"মস্তিষ্ক","transcription":null,"level":1}
+{"ru":"перечень, список","bn":"তালিকা","transcription":null,"level":1}
+{"ru":"пустой, порожний","bn":"খালি","transcription":null,"level":1}
+{"ru":"наука","bn":"বিজ্ঞান","transcription":null,"level":1}
+{"ru":"сегодня","bn":"আজকে","transcription":null,"level":1}
+{"ru":"температура","bn":"তাপমাত্রা","transcription":null,"level":1}
+{"ru":"хим. азот","bn":"যবক্ষারজান","transcription":null,"level":1}
+{"ru":"радуга","bn":"রংধনু","transcription":null,"level":1}
+{"ru":"морск. якорь","bn":"নঙ্গর","transcription":null,"level":1}
+{"ru":"плакать","bn":"কাঁদা","transcription":null,"level":1}
+{"ru":"плакать","bn":"কান্দা","transcription":null,"level":1}
+{"ru":"дым","bn":"ধোঁয়া","transcription":null,"level":1}
+{"ru":"ботан. арбуз","bn":"তরমুজ","transcription":null,"level":1}
+{"ru":"зоол. овца","bn":"ভেড়া","transcription":null,"level":1}
+{"ru":"местоимение","bn":"সর্বনাম","transcription":null,"level":1}
+{"ru":"библиотека","bn":"গ্রন্থাগার","transcription":null,"level":1}
+{"ru":"кулин. плов","bn":"পোলাও","transcription":null,"level":1}
+{"ru":"полночь","bn":"নিশীথ","transcription":null,"level":1}
+{"ru":"хим. никель","bn":"নিকেল","transcription":null,"level":1}
+{"ru":"свет","bn":"আলো","transcription":null,"level":1}
+{"ru":"рукав (деталь одежды)","bn":"আস্তিন","transcription":null,"level":1}
+{"ru":"хим. кальций","bn":"ক্যালসিয়াম","transcription":null,"level":1}
+{"ru":"биол. паразит","bn":"পরজীবী","transcription":null,"level":1}
+{"ru":"спелеол. пещера","bn":"গুহা","transcription":null,"level":1}
+{"ru":"зоол. комар","bn":"মশা","transcription":null,"level":1}
+{"ru":"Франция","bn":"ফ্রান্স","transcription":null,"level":1}
+{"ru":"ключ","bn":"চাবি","transcription":null,"level":1}
+{"ru":"университет","bn":"বিশ্ববিদ্যালয়","transcription":null,"level":1}
+{"ru":"хим. марганец","bn":"ম্যাঙ্গানিজ","transcription":null,"level":1}
+{"ru":"хим. хром","bn":"ক্রোমিয়াম","transcription":null,"level":1}
+{"ru":"хим. бром","bn":"ব্রোমিন","transcription":null,"level":1}
+{"ru":"хим. цинк","bn":"জিংক","transcription":null,"level":1}
+{"ru":"хим. цинк","bn":"দস্তা","transcription":null,"level":1}
+{"ru":"хим. свинец","bn":"সীসা","transcription":null,"level":1}
+{"ru":"зоол. корова","bn":"গাই","transcription":null,"level":1}
+{"ru":"астрон. парсек","bn":"পারসেক","transcription":null,"level":1}
+{"ru":"хим. сера","bn":"সালফার","transcription":null,"level":1}
+{"ru":"хим. сера","bn":"গন্ধক","transcription":null,"level":1}
+{"ru":"зоол. насекомое","bn":"পোকা","transcription":null,"level":1}
+{"ru":"хим. калий","bn":"পটাশিয়াম","transcription":null,"level":1}
+{"ru":"хим. платина","bn":"প্লাটিনাম","transcription":null,"level":1}
+{"ru":"хим. хлор","bn":"ক্লোরিন","transcription":null,"level":1}
+{"ru":"трава","bn":"ঘাস","transcription":null,"level":1}
+{"ru":"танцор","bn":"নর্তকী","transcription":null,"level":1}
+{"ru":"физ. магнит","bn":"চুম্বক","transcription":null,"level":1}
+{"ru":"озеро","bn":"হ্রদ","transcription":null,"level":1}
+{"ru":"Абхазия","bn":"আবখাজিয়া","transcription":null,"level":1}
+{"ru":"хим. глюкоза","bn":"গ্লুকোজ","transcription":null,"level":1}
+{"ru":"мед. корь","bn":"হাম","transcription":null,"level":1}
+{"ru":"лингв. синоним","bn":"প্রতিশব্দ","transcription":null,"level":1}
+{"ru":"мусульманин, магометанин","bn":"মুসলিম","transcription":null,"level":1}
+{"ru":"химия","bn":"রসায়ন","transcription":null,"level":1}
+{"ru":"полиция","bn":"পুলিশ","transcription":null,"level":1}
+{"ru":"хим. иридий","bn":"ঘনাতু","transcription":null,"level":1}
+{"ru":"здание","bn":"ভবন","transcription":null,"level":1}
+{"ru":"геометрия","bn":"জ্যামিতি","transcription":null,"level":1}
+{"ru":"матем. алгебра","bn":"বীজগণিত","transcription":null,"level":1}
+{"ru":"хим. цезий","bn":"সিজিয়াম","transcription":null,"level":1}
+{"ru":"голосование","bn":"ভোট","transcription":null,"level":1}
+{"ru":"хоккей","bn":"হকি","transcription":null,"level":1}
+{"ru":"минерал","bn":"খনিজ","transcription":null,"level":1}
+{"ru":"физ. полупроводник","bn":"অর্ধপরিবাহী","transcription":null,"level":1}
+{"ru":"кузнец","bn":"কামার","transcription":null,"level":1}
+{"ru":"графит","bn":"কৃষ্ণসীস","transcription":null,"level":1}
+{"ru":"стекло","bn":"কাঁচ","transcription":null,"level":1}
+{"ru":"цветок","bn":"ফুল","transcription":null,"level":1}
+{"ru":"хим. ион","bn":"স্থূলাণু","transcription":null,"level":1}
+{"ru":"муз. самба","bn":"সাম্বা","transcription":null,"level":1}
+{"ru":"хим. иод (йод)","bn":"আয়োডিন","transcription":null,"level":1}
+{"ru":"еженедельный","bn":"সাপ্তাহিক","transcription":null,"level":1}
+{"ru":"хим. фтор","bn":"ফ্লোরিন","transcription":null,"level":1}
+{"ru":"энтомол. пчела","bn":"মৌমাছি","transcription":null,"level":1}
+{"ru":"неизбежный, неминуемый","bn":"অনিবার্য","transcription":null,"level":1}
+{"ru":"тигр","bn":"বাঘ","transcription":null,"level":1}
+{"ru":"хим. кадмий","bn":"ক্যাডমিয়াম","transcription":null,"level":1}
+{"ru":"обычай","bn":"প্রথা","transcription":null,"level":1}
+{"ru":"хим. кобальт","bn":"কোবাল্ট","transcription":null,"level":1}
+{"ru":"хим. стронций","bn":"স্ট্রনশিয়াম","transcription":null,"level":1}
+{"ru":"банк","bn":"ব্যাংক","transcription":null,"level":1}
+{"ru":"бровь","bn":"ভুরু","transcription":null,"level":1}
+{"ru":"близнец","bn":"যমজ","transcription":null,"level":1}
+{"ru":"словарь (собрание языковых единиц с описаниями)","bn":"ডিকশনারী","transcription":null,"level":1}
+{"ru":"словарь (собрание языковых единиц с описаниями)","bn":"ডিকশনারি","transcription":null,"level":1}
+{"ru":"анат. крыло","bn":"ডানা","transcription":null,"level":1}
+{"ru":"принтер","bn":"প্রিন্টার","transcription":null,"level":1}
+{"ru":"глупец, дурак","bn":"মূর্খ","transcription":null,"level":1}
+{"ru":"календарь","bn":"পঞ্জিকা","transcription":null,"level":1}
+{"ru":"гектар","bn":"হেক্টর","transcription":null,"level":1}
+{"ru":"вчера","bn":"গতকাল","transcription":null,"level":1}
+{"ru":"восьмидесятый","bn":"অশীতিতম","transcription":null,"level":1}
+{"ru":"кролик","bn":"খরগোশ","transcription":null,"level":1}
+{"ru":"энциклопедия","bn":"বিশ্বকোষ","transcription":null,"level":1}
+{"ru":"шарф","bn":"স্কার্ফ","transcription":null,"level":1}
+{"ru":"лифт","bn":"লিফট","transcription":null,"level":1}
+{"ru":"висарга","bn":"বিসর্গ","transcription":null,"level":1}
+{"ru":"учебник","bn":"পাঠ্যপুস্তক","transcription":null,"level":1}
+{"ru":"писатель","bn":"লেখক","transcription":null,"level":1}
+{"ru":"писать","bn":"লেখা","transcription":null,"level":1}
+{"ru":"читать","bn":"পড়া","transcription":null,"level":1}
+{"ru":"хим. литий","bn":"লিথিযাম","transcription":null,"level":1}
+{"ru":"свобода","bn":"স্বাধীনতা","transcription":null,"level":1}
+{"ru":"жемчуг","bn":"মুক্তা","transcription":null,"level":1}
+{"ru":"продавать","bn":"বেচা","transcription":null,"level":1}
+{"ru":"демократия","bn":"গণতন্ত্র","transcription":null,"level":1}
+{"ru":"миллион","bn":"নুযুত","transcription":null,"level":1}
+{"ru":"восемнадцатый","bn":"অষ্টাদশ","transcription":null,"level":1}
+{"ru":"истор. халифат","bn":"খিলাফত","transcription":null,"level":1}
+{"ru":"мед. малярия","bn":"ম্যালেরিয়া","transcription":null,"level":1}
+{"ru":"зоол. осьминог","bn":"অক্টোপাস","transcription":null,"level":1}
+{"ru":"север","bn":"উত্তর","transcription":null,"level":1}
+{"ru":"ген","bn":"জিন","transcription":null,"level":1}
+{"ru":"Филиппины","bn":"ফিলিপাইন","transcription":null,"level":1}
+{"ru":"муз. фортепиано (фортепьяно)","bn":"পিয়ানো","transcription":null,"level":1}
+{"ru":"муз. саксофон","bn":"স্যাক্সোফোন","transcription":null,"level":1}
+{"ru":"астрон. затмение","bn":"গ্রহণ","transcription":null,"level":1}
+{"ru":"Европа","bn":"ইউরোপ","transcription":null,"level":1}
+{"ru":"бикини","bn":"বিকিনি","transcription":null,"level":1}
+{"ru":"тапиока","bn":"ট্যাপিওকা","transcription":null,"level":1}
+{"ru":"Дворжак","bn":"দ্ভরাক","transcription":null,"level":1}
+{"ru":"Википедия","bn":"উইকিপিডিয়া","transcription":null,"level":1}
+{"ru":"землетрясение","bn":"ভূমিকম্প","transcription":null,"level":1}
+{"ru":"говорить","bn":"বলা","transcription":null,"level":1}
+{"ru":"сказать","bn":"বলা","transcription":null,"level":1}
+{"ru":"лингвистика","bn":"ভাষাবিজ্ঞান","transcription":null,"level":1}
+{"ru":"Москва","bn":"মস্কো","transcription":null,"level":1}
+{"ru":"физ. термодинамика","bn":"তাপগতিবিজ্ঞান","transcription":null,"level":1}
+{"ru":"Париж","bn":"প্যারিস","transcription":null,"level":1}
+{"ru":"этимология","bn":"ব্যুৎপত্তি","transcription":null,"level":1}
+{"ru":"религ. грех","bn":"পাতক","transcription":null,"level":1}
+{"ru":"религ. грех","bn":"পাপ","transcription":null,"level":1}
+{"ru":"мифол. Сарасвати","bn":"সরস্বতী","transcription":null,"level":1}
+{"ru":"Стокгольм","bn":"স্টকহোম","transcription":null,"level":1}
+{"ru":"авиация","bn":"এভিয়েশন","transcription":null,"level":1}
+{"ru":"красный","bn":"লোহিত","transcription":null,"level":1}
+{"ru":"метеорология","bn":"আবহাওয়াবিদ্যা","transcription":null,"level":1}
+{"ru":"физ. графен","bn":"গ্রাফিন","transcription":null,"level":1}
+{"ru":"осторожный","bn":"সাবধান","transcription":null,"level":1}
+{"ru":"юр. преступление","bn":"অপরাধ","transcription":null,"level":1}
+{"ru":"сильный","bn":"শক্তিশালী","transcription":null,"level":1}
+{"ru":"ботан. чеснок (Allium sativum)","bn":"রসুন","transcription":null,"level":1}
+{"ru":"болото","bn":"জলা","transcription":null,"level":1}
+{"ru":"президент","bn":"রাষ্ট্রপতি","transcription":null,"level":1}
+{"ru":"биол. бактерия","bn":"ব্যাক্টেরিয়া","transcription":null,"level":1}
+{"ru":"учитель","bn":"শিক্ষক","transcription":null,"level":1}
+{"ru":"мед. анемия, малокровие","bn":"রক্তশূন্যতা","transcription":null,"level":1}
+{"ru":"хим. газ","bn":"গ্যাস","transcription":null,"level":1}
+{"ru":"джихад","bn":"জিহাদ","transcription":null,"level":1}
+{"ru":"анат. плечо","bn":"কান্ধ","transcription":null,"level":1}
+{"ru":"неврология","bn":"স্নায়ুবিজ্ঞান","transcription":null,"level":1}
+{"ru":"Камбоджа","bn":"কম্বোডিয়া","transcription":null,"level":1}
+{"ru":"Вьетнам","bn":"ভিয়েতনাম","transcription":null,"level":1}
+{"ru":"Катманду","bn":"কাঠমান্ডু","transcription":null,"level":1}
+{"ru":"Непал","bn":"নেপাল","transcription":null,"level":1}
+{"ru":"Фейсбук","bn":"ফেইসবুক","transcription":null,"level":1}
+{"ru":"Фейсбук","bn":"ফেসবুক","transcription":null,"level":1}
+{"ru":"Крым","bn":"ক্রিমিয়া","transcription":null,"level":1}
+{"ru":"Сингапур","bn":"সিঙ্গাপুর","transcription":null,"level":1}
+{"ru":"ботан. морковь (Daucus carota)","bn":"গাজর","transcription":null,"level":1}
+{"ru":"документ","bn":"প্রমাণপত্র","transcription":null,"level":1}
+{"ru":"документ","bn":"দলিল","transcription":null,"level":1}
+{"ru":"анат. селезёнка","bn":"প্লীহা","transcription":null,"level":1}
+{"ru":"литература","bn":"সাহিত্য","transcription":null,"level":1}
+{"ru":"сирота","bn":"তিম","transcription":null,"level":1}
+{"ru":"тридцать шесть","bn":"ছত্রিশ","transcription":null,"level":1}
+{"ru":"двадцать один","bn":"একুশ","transcription":null,"level":1}
+{"ru":"двадцать два","bn":"বাইশ","transcription":null,"level":1}
+{"ru":"двадцать три","bn":"তেইশ","transcription":null,"level":1}
+{"ru":"двадцать четыре","bn":"চব্বিশ","transcription":null,"level":1}
+{"ru":"двадцать пять","bn":"পঁচিশ","transcription":null,"level":1}
+{"ru":"двадцать шесть","bn":"ছাব্বিশ","transcription":null,"level":1}
+{"ru":"двадцать семь","bn":"সাতাশ","transcription":null,"level":1}
+{"ru":"двадцать восемь","bn":"আটাশ","transcription":null,"level":1}
+{"ru":"двадцать девять","bn":"উনতিরিশ","transcription":null,"level":1}
+{"ru":"тридцать один","bn":"একত্রিশ","transcription":null,"level":1}
+{"ru":"тридцать два","bn":"বত্রিশ","transcription":null,"level":1}
+{"ru":"тридцать три","bn":"তেত্রিশ","transcription":null,"level":1}
+{"ru":"тридцать четыре","bn":"চৌত্রিশ","transcription":null,"level":1}
+{"ru":"тридцать пять","bn":"পঁয়ত্রিশ","transcription":null,"level":1}
+{"ru":"тридцать семь","bn":"সাঁইত্রিশ","transcription":null,"level":1}
+{"ru":"тридцать восемь","bn":"আটত্রিশ","transcription":null,"level":1}
+{"ru":"тридцать девять","bn":"উনচল্লিশ","transcription":null,"level":1}
+{"ru":"сорок","bn":"চল্লিশ","transcription":null,"level":1}
+{"ru":"сорок один","bn":"একচল্লিশ","transcription":null,"level":1}
+{"ru":"сорок два","bn":"বিয়াল্লিশ","transcription":null,"level":1}
+{"ru":"сорок три","bn":"তেতাল্লিশ","transcription":null,"level":1}
+{"ru":"сорок четыре","bn":"চুয়াল্লিশ","transcription":null,"level":1}
+{"ru":"сорок пять","bn":"পঁয়তাল্লিশ","transcription":null,"level":1}
+{"ru":"сорок шесть","bn":"ছেচাল্লিশ","transcription":null,"level":1}
+{"ru":"сорок семь","bn":"সাতচল্লিশ","transcription":null,"level":1}
+{"ru":"сорок восемь","bn":"আটচল্লিশ","transcription":null,"level":1}
+{"ru":"сорок девять","bn":"উনপঞ্চাশ","transcription":null,"level":1}
+{"ru":"пятьдесят","bn":"পঞ্চাশ","transcription":null,"level":1}
+{"ru":"пятьдесят один","bn":"একান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят два","bn":"বাহান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят три","bn":"তিপ্পান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят три","bn":"তিপান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят четыре","bn":"চুয়ান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят пять","bn":"পঞ্চান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят шесть","bn":"ছাপ্পান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят семь","bn":"সাতান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят восемь","bn":"আটান্ন","transcription":null,"level":1}
+{"ru":"пятьдесят девять","bn":"উনষাট","transcription":null,"level":1}
+{"ru":"шестьдесят","bn":"ষাট","transcription":null,"level":1}
+{"ru":"шестьдесят один","bn":"একষট্টি","transcription":null,"level":1}
+{"ru":"шестьдесят два","bn":"বাষট্টি","transcription":null,"level":1}
+{"ru":"шестьдесят три","bn":"তেষট্টি","transcription":null,"level":1}
+{"ru":"шестьдесят четыре","bn":"চৌষট্টি","transcription":null,"level":1}
+{"ru":"шестьдесят пять","bn":"পঁয়ষট্টি","transcription":null,"level":1}
+{"ru":"шестьдесят шесть","bn":"ছেষট্টি","transcription":null,"level":1}
+{"ru":"шестьдесят семь","bn":"সাতষট্টি","transcription":null,"level":1}
+{"ru":"шестьдесят восемь","bn":"আটষট্টি","transcription":null,"level":1}
+{"ru":"шестьдесят девять","bn":"উনসত্তর","transcription":null,"level":1}
+{"ru":"семьдесят","bn":"সত্তর","transcription":null,"level":1}
+{"ru":"семьдесят один","bn":"একাত্তর","transcription":null,"level":1}
+{"ru":"семьдесят два","bn":"বাহাত্তর","transcription":null,"level":1}
+{"ru":"семьдесят три","bn":"তিয়াত্তর","transcription":null,"level":1}
+{"ru":"семьдесят четыре","bn":"চুয়াত্তর","transcription":null,"level":1}
+{"ru":"семьдесят пять","bn":"পঁচাত্তর","transcription":null,"level":1}
+{"ru":"семьдесят шесть","bn":"ছিয়াত্তর","transcription":null,"level":1}
+{"ru":"семьдесят семь","bn":"সাতাত্তর","transcription":null,"level":1}
+{"ru":"семьдесят восемь","bn":"আটাত্তর","transcription":null,"level":1}
+{"ru":"семьдесят девять","bn":"ঊনআশি","transcription":null,"level":1}
+{"ru":"восемьдесят","bn":"আশি","transcription":null,"level":1}
+{"ru":"восемьдесят один","bn":"একাশি","transcription":null,"level":1}
+{"ru":"восемьдесят два","bn":"বিরাশি","transcription":null,"level":1}
+{"ru":"восемьдесят три","bn":"তিরাশি","transcription":null,"level":1}
+{"ru":"восемьдесят четыре","bn":"চুরাশি","transcription":null,"level":1}
+{"ru":"восемьдесят пять","bn":"পঁচাশি","transcription":null,"level":1}
+{"ru":"восемьдесят шесть","bn":"ছিয়াশি","transcription":null,"level":1}
+{"ru":"восемьдесят семь","bn":"সাতাশি","transcription":null,"level":1}
+{"ru":"восемьдесят восемь","bn":"আটাশি","transcription":null,"level":1}
+{"ru":"восемьдесят девять","bn":"উননব্বই","transcription":null,"level":1}
+{"ru":"девяносто один","bn":"একানব্বই","transcription":null,"level":1}
+{"ru":"девяносто два","bn":"বিরানব্বই","transcription":null,"level":1}
+{"ru":"девяносто три","bn":"তিরানব্বই","transcription":null,"level":1}
+{"ru":"девяносто четыре","bn":"চুরানব্বই","transcription":null,"level":1}
+{"ru":"девяносто пять","bn":"পঁচানব্বই","transcription":null,"level":1}
+{"ru":"девяносто шесть","bn":"ছিয়ানব্বই","transcription":null,"level":1}
+{"ru":"девяносто семь","bn":"সাতানব্বই","transcription":null,"level":1}
+{"ru":"девяносто восемь","bn":"আটানব্বই","transcription":null,"level":1}
+{"ru":"девяносто девять","bn":"নিরানব্বই","transcription":null,"level":1}
+{"ru":"тридцать один","bn":"একতিরিশ","transcription":null,"level":1}
+{"ru":"гражданин","bn":"নাগরিক","transcription":null,"level":1}
+{"ru":"биология","bn":"জীববিজ্ঞান","transcription":null,"level":1}
+{"ru":"двигатель; мотор","bn":"ইঞ্জিন","transcription":null,"level":1}
+{"ru":"муз. барабан","bn":"ঢোল","transcription":null,"level":1}
+{"ru":"ресторан","bn":"রেস্টুরেন্ট","transcription":null,"level":1}
+{"ru":"ресторан","bn":"রেস্তোরাঁ","transcription":null,"level":1}
+{"ru":"будильник","bn":"অ্যালার্মঘড়ি","transcription":null,"level":1}
+{"ru":"аэропорт","bn":"বিমানবন্দর","transcription":null,"level":1}
+{"ru":"будущее","bn":"ভবিষ্যৎ","transcription":null,"level":1}
+{"ru":"мед. экзема","bn":"কাউর","transcription":null,"level":1}
+{"ru":"экономика","bn":"অর্থনীতি","transcription":null,"level":1}
+{"ru":"порнография","bn":"পর্নোগ্রাফি","transcription":null,"level":1}
+{"ru":"полит. социализм","bn":"সমাজতন্ত্র","transcription":null,"level":1}
+{"ru":"преувеличение","bn":"অতিরঞ্জন","transcription":null,"level":1}
+{"ru":"хим. ванадий","bn":"ভ্যানাডিয়াম","transcription":null,"level":1}
+{"ru":"физ. нейтрон","bn":"নিউট্রন","transcription":null,"level":1}
+{"ru":"христианин","bn":"খ্রীষ্টান","transcription":null,"level":1}
+{"ru":"космический корабль","bn":"কাশযান","transcription":null,"level":1}
+{"ru":"Екатеринбург","bn":"ইয়েকাতেরিনবুর্গ","transcription":null,"level":1}
+{"ru":"Андхра-Прадеш","bn":"অন্ধ্র প্রদেশ","transcription":null,"level":1}
+{"ru":"Андхра-Прадеш","bn":"অন্ধ্রপ্রদেশ","transcription":null,"level":1}
+{"ru":"Аруначал-Прадеш","bn":"অরুণাচল প্রদেশ","transcription":null,"level":1}
+{"ru":"Ассам","bn":"আসাম","transcription":null,"level":1}
+{"ru":"Бихар","bn":"বিহার","transcription":null,"level":1}
+{"ru":"Чхаттисгарх","bn":"ছত্তীসগঢ়","transcription":null,"level":1}
+{"ru":"Манипур","bn":"মণিপুর","transcription":null,"level":1}
+{"ru":"Уттаракханд","bn":"উত্তরাখণ্ড","transcription":null,"level":1}
+{"ru":"Махараштра","bn":"মহারাষ্ট্র","transcription":null,"level":1}
+{"ru":"Раджастхан","bn":"রাজস্থান","transcription":null,"level":1}
+{"ru":"Джаркханд","bn":"ঝাড়খণ্ড","transcription":null,"level":1}
+{"ru":"Гоа","bn":"গোয়া","transcription":null,"level":1}
+{"ru":"Гуджарат","bn":"গুজরাট","transcription":null,"level":1}
+{"ru":"Гуджарат","bn":"গুজরাত","transcription":null,"level":1}
+{"ru":"Карнатака","bn":"কর্ণাটক","transcription":null,"level":1}
+{"ru":"зоол. геккон","bn":"তক্ষক","transcription":null,"level":1}
+{"ru":"Мадхья-Прадеш","bn":"মধ্যপ্রদেশ","transcription":null,"level":1}
+{"ru":"Тамилнад","bn":"তামিলনাড়ু","transcription":null,"level":1}
+{"ru":"Западная Бенгалия","bn":"পশ্চিমবঙ্গ","transcription":null,"level":1}
+{"ru":"менди","bn":"জেতুকা","transcription":null,"level":1}
+{"ru":"Мегхалая","bn":"মেঘালয়","transcription":null,"level":1}
+{"ru":"учёный","bn":"বিগ্গানী","transcription":null,"level":1}
+{"ru":"Мизорам","bn":"মিজোরাম","transcription":null,"level":1}
+{"ru":"Уттар-Прадеш","bn":"উত্তরপ্রদেশ","transcription":null,"level":1}
+{"ru":"Орисса","bn":"ওড়িশা","transcription":null,"level":1}
+{"ru":"Пенджаб","bn":"পাঞ্জাব","transcription":null,"level":1}
+{"ru":"Челябинск","bn":"চেলিয়াবিন্‌স্ক","transcription":null,"level":1}
+{"ru":"физ. барион","bn":"ব্যারিয়ন","transcription":null,"level":1}
+{"ru":"разг. гугл, Google, название поисковой системы компании Google Inc.","bn":"গুগল","transcription":null,"level":1}
+{"ru":"хим. барий","bn":"বেরিয়াম","transcription":null,"level":1}
+{"ru":"родной язык","bn":"মাতৃভাষা","transcription":null,"level":1}
+{"ru":"комп. материнская плата","bn":"মাদারবোর্ড","transcription":null,"level":1}
+{"ru":"хим. торий","bn":"থোরিয়াম","transcription":null,"level":1}
+{"ru":"религ. Библия","bn":"বাইবেল","transcription":null,"level":1}
+{"ru":"терроризм","bn":"সন্ত্রাসবাদ","transcription":null,"level":1}
+{"ru":"монархия","bn":"রাজতন্ত্র","transcription":null,"level":1}
+{"ru":"Лесото","bn":"লেসোথো","transcription":null,"level":1}
+{"ru":"Токио","bn":"টোকিও","transcription":null,"level":1}
+{"ru":"Гвинея-Бисау","bn":"গিনি-বিসাউ","transcription":null,"level":1}
+{"ru":"Гренада","bn":"গ্রেনাডা","transcription":null,"level":1}
+{"ru":"зубная щётка","bn":"টুথব্রাশ","transcription":null,"level":1}
+{"ru":"Иерусалим","bn":"জেরুসালেম","transcription":null,"level":1}
+{"ru":"Пекин","bn":"বেইজিং","transcription":null,"level":1}
+{"ru":"телескоп","bn":"দূরবীন","transcription":null,"level":1}
+{"ru":"международный, интернациональный","bn":"আন্তর্জাতিক","transcription":null,"level":1}
+{"ru":"Чикаго","bn":"শিকাগো","transcription":null,"level":1}
+{"ru":"хим. хинин, хина","bn":"কুইনিন","transcription":null,"level":1}
+{"ru":"Яндекс","bn":"यांदेक्स","transcription":null,"level":1}
+{"ru":"хим. полимер","bn":"পলিমার","transcription":null,"level":1}
+{"ru":"запад","bn":"পশ্চিম","transcription":null,"level":1}
+{"ru":"западный","bn":"পশ্চিম","transcription":null,"level":1}
+{"ru":"Бенгалия","bn":"বঙ্গ","transcription":null,"level":1}
+{"ru":"бенгальский","bn":"বঙ্গ","transcription":null,"level":1}
+{"ru":"биол. микроб","bn":"জীবাণু","transcription":null,"level":1}
+{"ru":"воин, солдат","bn":"সৈনিক","transcription":null,"level":1}
+{"ru":"Голливуд","bn":"হলিউড","transcription":null,"level":1}
+{"ru":"Лас-Вегас","bn":"লাস ভেগাস","transcription":null,"level":1}
+{"ru":"исторический","bn":"ঐতিহাসিক","transcription":null,"level":1}
+{"ru":"аукцион","bn":"নিলাম","transcription":null,"level":1}
+{"ru":"пьяный","bn":"মাতাল","transcription":null,"level":1}
+{"ru":"арифметика","bn":"পাটীগণিত","transcription":null,"level":1}
+{"ru":"хим. теллур","bn":"টেলুরিয়াম","transcription":null,"level":1}
+{"ru":"лингв. пали","bn":"পালি","transcription":null,"level":1}
+{"ru":"семя","bn":"বীজ","transcription":null,"level":1}
+{"ru":"история","bn":"ইতিহাস","transcription":null,"level":1}
+{"ru":"религ. суфизм","bn":"সুফিবাদ","transcription":null,"level":1}
+{"ru":"Дамаск","bn":"দামেস্ক","transcription":null,"level":1}
+{"ru":"хим. галлий","bn":"গ্যালিয়াম","transcription":null,"level":1}
+{"ru":"Колизей","bn":"কলোসিয়াম","transcription":null,"level":1}
+{"ru":"жажда","bn":"তৃষ্ণা","transcription":null,"level":1}
+{"ru":"минер. магнезит","bn":"ম্যাগনেসাইট","transcription":null,"level":1}
+{"ru":"хинди","bn":"হিন্দি","transcription":null,"level":1}
+{"ru":"физ. механика","bn":"বলবিদ্যা","transcription":null,"level":1}
+{"ru":"вертолёт","bn":"হেলিকোপটার","transcription":null,"level":1}
+{"ru":"биохим. миоглобин","bn":"মায়োগ্লোবিন","transcription":null,"level":1}
+{"ru":"ботан. апельсин","bn":"কমলা","transcription":null,"level":1}
+{"ru":"ботан. ананас","bn":"আনারস","transcription":null,"level":1}
+{"ru":"ботан. лимон","bn":"লেবু","transcription":null,"level":1}
+{"ru":"Китай","bn":"চীন","transcription":null,"level":1}
+{"ru":"Китай","bn":"গণচীন","transcription":null,"level":1}
+{"ru":"холодильник","bn":"ফ্রিজ","transcription":null,"level":1}
+{"ru":"кулак","bn":"মুষ্টি","transcription":null,"level":1}
+{"ru":"кулак","bn":"কিল","transcription":null,"level":1}
+{"ru":"анат. пуп","bn":"নাভি","transcription":null,"level":1}
+{"ru":"политик","bn":"রাজনীতিজ্ঞ","transcription":null,"level":1}
+{"ru":"картофель","bn":"আলু","transcription":null,"level":1}
+{"ru":"враг, неприятель, противник","bn":"শত্রু","transcription":null,"level":1}
+{"ru":"буква","bn":"অক্ষর","transcription":null,"level":1}
+{"ru":"хим. кремний","bn":"সিলিকন","transcription":null,"level":1}
+{"ru":"зоол. кальмар","bn":"স্কুইড","transcription":null,"level":1}
+{"ru":"ботан. баклажан","bn":"বার্তাকু","transcription":null,"level":1}
+{"ru":"проститутка","bn":"বেশ্যা","transcription":null,"level":1}
+{"ru":"геометр. многоугольник","bn":"বহুভুজ","transcription":null,"level":1}
+{"ru":"этногр. шаман","bn":"ওঝা","transcription":null,"level":1}
+{"ru":"мед. аллергия","bn":"এলার্জি","transcription":null,"level":1}
+{"ru":"мобильный телефон","bn":"মোবাইল","transcription":null,"level":1}
+{"ru":"мобильный телефон","bn":"মুঠোফোন","transcription":null,"level":1}
+{"ru":"поведение","bn":"আচরণ","transcription":null,"level":1}
+{"ru":"усы","bn":"গোঁফ","transcription":null,"level":1}
+{"ru":"мода","bn":"ফ্যাশন","transcription":null,"level":1}
+{"ru":"мир, свет","bn":"দুনিয়া","transcription":null,"level":1}
+{"ru":"человечество","bn":"মানবজাতি","transcription":null,"level":1}
+{"ru":"обильный","bn":"বহুল","transcription":null,"level":1}
+{"ru":"охотник","bn":"শিকারী","transcription":null,"level":1}
+{"ru":"фундаментализм","bn":"মৌলবাদ","transcription":null,"level":1}
+{"ru":"шаровары","bn":"সালোয়ার","transcription":null,"level":1}
+{"ru":"зоол. омар; лобстер","bn":"গলদা","transcription":null,"level":1}
+{"ru":"физ. спин","bn":"স্পিন","transcription":null,"level":1}
+{"ru":"хим. калифорний","bn":"ক্যালিফোর্নিয়াম","transcription":null,"level":1}
+{"ru":"хим. олово","bn":"টিন","transcription":null,"level":1}
+{"ru":"журналист","bn":"জার্নালিস্ট","transcription":null,"level":1}
+{"ru":"торговля","bn":"বাণিজ্য","transcription":null,"level":1}
+{"ru":"бюрократия","bn":"আমলাতন্ত্র","transcription":null,"level":1}
+{"ru":"история","bn":"ইতিবৃত্ত","transcription":null,"level":1}
+{"ru":"история","bn":"ইতিহাসে","transcription":null,"level":1}
+{"ru":"психиатр. шизофрения","bn":"স্কিটসোফ্রিনিয়া","transcription":null,"level":1}
+{"ru":"мед. трахома","bn":"ট্রাকোমা","transcription":null,"level":1}
+{"ru":"сладкий","bn":"মিষ্টি","transcription":null,"level":1}
+{"ru":"мёртвый","bn":"মৃত","transcription":null,"level":1}
+{"ru":"предшественник","bn":"অগ্রদূত","transcription":null,"level":1}
+{"ru":"ихтиол. угорь (anguilla)","bn":"বানমাছ","transcription":null,"level":1}
+{"ru":"нож","bn":"চাকু","transcription":null,"level":1}
+{"ru":"нож","bn":"ছুরি","transcription":null,"level":1}
+{"ru":"ободрение","bn":"উদ্দীপনা","transcription":null,"level":1}
+{"ru":"поощрение","bn":"উদ্দীপনা","transcription":null,"level":1}
+{"ru":"комп. электронная почта","bn":"ইমেইল","transcription":null,"level":1}
+{"ru":"четвёртый","bn":"চতুর্থ","transcription":null,"level":1}
+{"ru":"микроскоп","bn":"অণুবীক্ষণযন্ত্র","transcription":null,"level":1}
+{"ru":"никотин","bn":"নিকোটিন","transcription":null,"level":1}
+{"ru":"победа","bn":"বিজয়","transcription":null,"level":1}
+{"ru":"сигарета","bn":"সিগারেট","transcription":null,"level":1}
+{"ru":"хим. церий","bn":"সিরিয়াম","transcription":null,"level":1}
+{"ru":"наковальня","bn":"নিহাই","transcription":null,"level":1}
+{"ru":"пластик, пластмасса","bn":"প্লাস্টিক","transcription":null,"level":1}
+{"ru":"гвоздь","bn":"পেরেক","transcription":null,"level":1}
+{"ru":"лапша","bn":"নুডল","transcription":null,"level":1}
+{"ru":"пятидесятый","bn":"পঁচাশত্তম","transcription":null,"level":1}
+{"ru":"физ. плазма","bn":"প্লাজমা","transcription":null,"level":1}
+{"ru":"архитектор","bn":"স্থপতি","transcription":null,"level":1}
+{"ru":"ботан. бамбук","bn":"বাঁশ","transcription":null,"level":1}
+{"ru":"пшеница","bn":"গম","transcription":null,"level":1}
+{"ru":"стихотворение","bn":"কবিতা","transcription":null,"level":1}
+{"ru":"стихотворение","bn":"পদ্য","transcription":null,"level":1}
+{"ru":"программное обеспечение","bn":"সফটওয়্যার","transcription":null,"level":1}
+{"ru":"бритва","bn":"খুর","transcription":null,"level":1}
+{"ru":"цвет","bn":"রং","transcription":null,"level":1}
+{"ru":"хим. берклий","bn":"বার্কিলিয়াম","transcription":null,"level":1}
+{"ru":"кетчуп","bn":"কেচাপ","transcription":null,"level":1}
+{"ru":"майонез","bn":"মেয়নেজ","transcription":null,"level":1}
+{"ru":"пижама","bn":"পায়জামা","transcription":null,"level":1}
+{"ru":"шприц","bn":"সিরিঞ্জ","transcription":null,"level":1}
+{"ru":"чемодан, кейс","bn":"সুটকেস","transcription":null,"level":1}
+{"ru":"матем. факториал","bn":"ফ্যাক্টরিয়াল","transcription":null,"level":1}
+{"ru":"ботан. лист","bn":"পাতা","transcription":null,"level":1}
+{"ru":"автомобиль","bn":"গাড়ি","transcription":null,"level":1}
+{"ru":"автомобиль","bn":"বাহন","transcription":null,"level":1}
+{"ru":"автомобиль","bn":"স্বতশ্চলশকট্‌","transcription":null,"level":1}
+{"ru":"автомобиль","bn":"মোটরগাড়ি","transcription":null,"level":1}
+{"ru":"трактор","bn":"ট্র্যাক্টর","transcription":null,"level":1}
+{"ru":"геометр. тетраэдр; четырёхгранник","bn":"চতুস্তলক","transcription":null,"level":1}
+{"ru":"себялюбие","bn":"স্বার্থপরতা","transcription":null,"level":1}
+{"ru":"себялюбивый, эгоистичный","bn":"স্বার্থপর","transcription":null,"level":1}
+{"ru":"интернет","bn":"আন্তর্জাল","transcription":null,"level":1}
+{"ru":"необычный, экстраординарный","bn":"অলৌকিক","transcription":null,"level":1}
+{"ru":"преступный, криминальный","bn":"অপরাধমূলক","transcription":null,"level":1}
+{"ru":"геометр. десятиугольник","bn":"দশভুজ","transcription":null,"level":1}
+{"ru":"компас","bn":"কম্পাস","transcription":null,"level":1}
+{"ru":"пират","bn":"জলদস্যু","transcription":null,"level":1}
+{"ru":"мед. гематолиз, гемолиз, эритроцитолиз","bn":"লালিকানাশ","transcription":null,"level":1}
+{"ru":"генет. геном","bn":"জিনোম","transcription":null,"level":1}
+{"ru":"бухгалтер, счетовод","bn":"হিসাবরক্ষক","transcription":null,"level":1}
+{"ru":"полит. коммунизм","bn":"কমিউনিজম","transcription":null,"level":1}
+{"ru":"полит. коммунизм","bn":"সাম্যবাদ","transcription":null,"level":1}
+{"ru":"конституция","bn":"সংবিধান","transcription":null,"level":1}
+{"ru":"кирпич","bn":"ইট","transcription":null,"level":1}
+{"ru":"хим. коррозия","bn":"জারণ","transcription":null,"level":1}
+{"ru":"Дания","bn":"ডেনমার্ক","transcription":null,"level":1}
+{"ru":"ботан. кориандр (Coriandrum)","bn":"ধনে","transcription":null,"level":1}
+{"ru":"роса","bn":"শিশির","transcription":null,"level":1}
+{"ru":"градус","bn":"ডিগ্রী","transcription":null,"level":1}
+{"ru":"самоубийство, суицид","bn":"আত্মহত্যা","transcription":null,"level":1}
+{"ru":"анат. подмышка","bn":"বগল","transcription":null,"level":1}
+{"ru":"вкусный, лакомый","bn":"সুস্বাদু","transcription":null,"level":1}
+{"ru":"парламент","bn":"সংসদ","transcription":null,"level":1}
+{"ru":"администрация","bn":"প্রশাসন","transcription":null,"level":1}
+{"ru":"ботан. хлопок","bn":"কার্পাস","transcription":null,"level":1}
+{"ru":"рубаха, рубашка","bn":"জামা","transcription":null,"level":1}
+{"ru":"вечный","bn":"অনন্ত","transcription":null,"level":1}
+{"ru":"вечный","bn":"অমর","transcription":null,"level":1}
+{"ru":"рубаха, рубашка","bn":"শার্ট","transcription":null,"level":1}
+{"ru":"искусственный","bn":"কৃত্রিম","transcription":null,"level":1}
+{"ru":"энтропия","bn":"এনট্রপি","transcription":null,"level":1}
+{"ru":"климат","bn":"জলবায়ু","transcription":null,"level":1}
+{"ru":"результат, исход","bn":"ফলাফল","transcription":null,"level":1}
+{"ru":"раб, невольник","bn":"দাস","transcription":null,"level":1}
+{"ru":"рабство, неволя","bn":"দাসত্ব","transcription":null,"level":1}
+{"ru":"смартфон","bn":"স্মার্টফোন","transcription":null,"level":1}
+{"ru":"колдовство","bn":"ডাকিনীবিদ্যা","transcription":null,"level":1}
+{"ru":"Индия","bn":"ভারত","transcription":null,"level":1}
+{"ru":"Сербия","bn":"সার্বিয়া","transcription":null,"level":1}
+{"ru":"безымянный","bn":"নামহীন","transcription":null,"level":1}
+{"ru":"глупость, тупость","bn":"মূর্খতা","transcription":null,"level":1}
+{"ru":"прямоугольник","bn":"আয়তক্ষেত্র","transcription":null,"level":1}
+{"ru":"важный, значимый","bn":"গুরুত্বপূর্ণ","transcription":null,"level":1}
+{"ru":"астрон. азимут","bn":"দিগংশ","transcription":null,"level":1}
+{"ru":"патриот","bn":"দেশভক্ত","transcription":null,"level":1}
+{"ru":"патриотизм","bn":"স্বদেশপ্রেম","transcription":null,"level":1}
+{"ru":"патриотизм","bn":"দেশপ্রেম","transcription":null,"level":1}
+{"ru":"спрашивать","bn":"পুছা","transcription":null,"level":1}
+{"ru":"религ. анимизм","bn":"সর্বপ্রাণবাদ","transcription":null,"level":1}
+{"ru":"богатый, состоятельный","bn":"ধনী","transcription":null,"level":1}
+{"ru":"муз. оркестр","bn":"অর্কেস্ট্রা","transcription":null,"level":1}
+{"ru":"муз. оркестр","bn":"বাদকদল","transcription":null,"level":1}
+{"ru":"работник, рабочий, трудящийся","bn":"কর্মী","transcription":null,"level":1}
+{"ru":"геометр. шестиугольный","bn":"ষড়ভুজাকৃতি","transcription":null,"level":1}
+{"ru":"сэндвич, бутерброд","bn":"স্যান্ডউইচ","transcription":null,"level":1}
+{"ru":"зоол. обезьяна","bn":"বাঁদর","transcription":null,"level":1}
+{"ru":"Сирия","bn":"সিরিয়া","transcription":null,"level":1}
+{"ru":"оружие","bn":"অস্ত্র","transcription":null,"level":1}
+{"ru":"оружие","bn":"হাতিয়ার","transcription":null,"level":1}
+{"ru":"пончик, пышка, пампушка","bn":"ডোনাট","transcription":null,"level":1}
+{"ru":"Индокитай","bn":"ইন্দোচীন","transcription":null,"level":1}
+{"ru":"Израиль","bn":"ইসরায়েল","transcription":null,"level":1}
+{"ru":"Белоруссия","bn":"বেলারুশ","transcription":null,"level":1}
+{"ru":"Пакистан","bn":"পাকিস্তান","transcription":null,"level":1}
+{"ru":"Ямайка","bn":"জামাইকা","transcription":null,"level":1}
+{"ru":"Гваделупа","bn":"গুয়াদলুপ","transcription":null,"level":1}
+{"ru":"основатель","bn":"প্রতিষ্ঠাতা","transcription":null,"level":1}
+{"ru":"социология","bn":"সমাজবিজ্ঞান","transcription":null,"level":1}
+{"ru":"понимать","bn":"বোঝা","transcription":null,"level":1}
+{"ru":"аятолла","bn":"আয়াতুল্লাহ","transcription":null,"level":1}
+{"ru":"Константинополь","bn":"কনস্টান্টিনোপল","transcription":null,"level":1}
+{"ru":"губная помада","bn":"লিপস্টিক","transcription":null,"level":1}
+{"ru":"лесбийский","bn":"লেসবিয়ান","transcription":null,"level":1}
+{"ru":"Австралазия","bn":"অস্ট্রেলেশিয়া","transcription":null,"level":1}
+{"ru":"телеграмма","bn":"টেলিগ্রাম","transcription":null,"level":1}
+{"ru":"Викисловарь","bn":"উইকিঅভিধান","transcription":null,"level":1}
+{"ru":"орнитология","bn":"পক্ষীবিজ্ঞান","transcription":null,"level":1}
+{"ru":"Килиманджаро","bn":"কিলিমাঞ্জারো","transcription":null,"level":1}
+{"ru":"проблема","bn":"প্রব্লেম","transcription":null,"level":1}
+{"ru":"филос. материализм","bn":"বস্তুবাদ","transcription":null,"level":1}
+{"ru":"помощь, содействие","bn":"সাহায্য","transcription":null,"level":1}
+{"ru":"философия","bn":"দর্শন","transcription":null,"level":1}
+{"ru":"Тегеран","bn":"তেহরান","transcription":null,"level":1}
+{"ru":"узнавание, распознавание","bn":"স্বীকৃতি","transcription":null,"level":1}
+{"ru":"наказание","bn":"সাজা","transcription":null,"level":1}
+{"ru":"наказание","bn":"দণ্ড","transcription":null,"level":1}
+{"ru":"день рождения","bn":"জন্মদিন","transcription":null,"level":1}
+{"ru":"безопасность","bn":"নিরাপত্তা","transcription":null,"level":1}
+{"ru":"опасность","bn":"বিপদ","transcription":null,"level":1}
+{"ru":"Вифлеем","bn":"বেথেলহাম","transcription":null,"level":1}
+{"ru":"монотеизм","bn":"একেশ্বরবাদ","transcription":null,"level":1}
+{"ru":"зоол. млекопитающее","bn":"স্তন্যপায়ী","transcription":null,"level":1}
+{"ru":"хим. мышьяк","bn":"আর্সেনিক","transcription":null,"level":1}
+{"ru":"население","bn":"জনসংখ্যা","transcription":null,"level":1}
+{"ru":"хим. молибден","bn":"মলিবডিনাম","transcription":null,"level":1}
+{"ru":"хим. ксенон","bn":"জেনন","transcription":null,"level":1}
+{"ru":"зоол. бегемот, гиппопотам (Hippopotamus amphibius)","bn":"জলহস্তী","transcription":null,"level":1}
+{"ru":"хим. тантал","bn":"ট্যানটালাম","transcription":null,"level":1}
+{"ru":"атмосфера","bn":"বায়ুমণ্ডল","transcription":null,"level":1}
+{"ru":"поцелуй","bn":"চুম্বন","transcription":null,"level":1}
+{"ru":"летать","bn":"ওড়া","transcription":null,"level":1}
+{"ru":"очки","bn":"চশমা","transcription":null,"level":1}
+{"ru":"ботан. эвкалипт","bn":"ইউক্যালিপটাস","transcription":null,"level":1}
+{"ru":"мед. дифтерия","bn":"ডিপথেরিয়া","transcription":null,"level":1}
+{"ru":"Прометей","bn":"প্রমিথিউস","transcription":null,"level":1}
+{"ru":"Тесей","bn":"থেসেউস","transcription":null,"level":1}
+{"ru":"теория","bn":"তত্ত্ব","transcription":null,"level":1}
+{"ru":"биохим. окситоцин","bn":"অক্সিটোসিন","transcription":null,"level":1}
+{"ru":"улыбка","bn":"হাসি","transcription":null,"level":1}
+{"ru":"вертолёт","bn":"হেলিকপ্টার","transcription":null,"level":1}
+{"ru":"муз. кларнет","bn":"ক্ল্যারিওনেট","transcription":null,"level":1}
+{"ru":"ненависть","bn":"ঘৃণা","transcription":null,"level":1}
+{"ru":"геометр. трапеция","bn":"ট্রাপিজিয়াম","transcription":null,"level":1}
+{"ru":"танец","bn":"নৃত্য","transcription":null,"level":1}
+{"ru":"хим. рений","bn":"রিনিয়াম","transcription":null,"level":1}
+{"ru":"глобализация","bn":"বিশ্বায়ন","transcription":null,"level":1}
+{"ru":"кухня","bn":"রান্নাঘর","transcription":null,"level":1}
+{"ru":"государство","bn":"রাষ্ট্র","transcription":null,"level":1}
+{"ru":"парашют","bn":"প্যারাশুট","transcription":null,"level":1}
+{"ru":"гражданство, подданство","bn":"নাগরিকতা","transcription":null,"level":1}
+{"ru":"архит. купол","bn":"গম্বুজ","transcription":null,"level":1}
+{"ru":"Пальмира","bn":"পালমিরা","transcription":null,"level":1}
+{"ru":"половник, поварёшка","bn":"হাতা","transcription":null,"level":1}
+{"ru":"галстук","bn":"নেকটাই","transcription":null,"level":1}
+{"ru":"Таиланд","bn":"থাইল্যান্ড","transcription":null,"level":1}
+{"ru":"молот, молоток","bn":"হাতুড়ি","transcription":null,"level":1}
+{"ru":"успешный","bn":"সফল","transcription":null,"level":1}
+{"ru":"геогр. Таджикистан","bn":"তাজিকিস্তান","transcription":null,"level":1}
+{"ru":"дрожжи","bn":"খামির","transcription":null,"level":1}
+{"ru":"юго-восток","bn":"দক্ষিণপূর্ব","transcription":null,"level":1}
+{"ru":"юг","bn":"দক্ষিণ","transcription":null,"level":1}
+{"ru":"юг","bn":"অবাচীন","transcription":null,"level":1}
+{"ru":"восток","bn":"পূর্ব","transcription":null,"level":1}
+{"ru":"комната","bn":"কক্ষ","transcription":null,"level":1}
+{"ru":"мед. кардиология","bn":"হৃদবিজ্ঞান","transcription":null,"level":1}
+{"ru":"аутизм","bn":"অটিজম","transcription":null,"level":1}
+{"ru":"кислый","bn":"খাট্টা","transcription":null,"level":1}
+{"ru":"физ. мираж","bn":"মরীচিকা","transcription":null,"level":1}
+{"ru":"хим. висмут","bn":"বিজমাথ","transcription":null,"level":1}
+{"ru":"судья","bn":"বিচারক","transcription":null,"level":1}
+{"ru":"Варшава","bn":"ওয়ারশ","transcription":null,"level":1}
+{"ru":"кибернетика","bn":"সাইবারনেটিক্‌স","transcription":null,"level":1}
+{"ru":"ракета","bn":"ক্ষেপণাস্ত্র","transcription":null,"level":1}
+{"ru":"ракета","bn":"মিসাইল","transcription":null,"level":1}
+{"ru":"искусств. дадаизм, дада","bn":"ডাডাবাদ","transcription":null,"level":1}
+{"ru":"искусств. дадаизм, дада","bn":"ডাডা","transcription":null,"level":1}
+{"ru":"носовой платок","bn":"রুমাল","transcription":null,"level":1}
+{"ru":"полотенце","bn":"রুমাল","transcription":null,"level":1}
+{"ru":"колье, ожерелье","bn":"হার","transcription":null,"level":1}
+{"ru":"такси","bn":"ট্যাক্সি","transcription":null,"level":1}
+{"ru":"священник","bn":"যাজক","transcription":null,"level":1}
+{"ru":"матем. функция","bn":"অপেক্ষক","transcription":null,"level":1}
+{"ru":"брак; замужество; женитьба","bn":"বিবাহ","transcription":null,"level":1}
+{"ru":"свадьба (церемония)","bn":"বিবাহ","transcription":null,"level":1}
+{"ru":"Мумбаи","bn":"মুম্বাই","transcription":null,"level":1}
+{"ru":"Украина","bn":"ইউক্রেন","transcription":null,"level":1}
+{"ru":"пенис, половой член","bn":"শিশ্ন","transcription":null,"level":1}
+{"ru":"пенис, половой член","bn":"পুরুষাঙ্গ","transcription":null,"level":1}
+{"ru":"велосипед","bn":"বাইসাইকেল","transcription":null,"level":1}
+{"ru":"велосипед","bn":"সাইকেল","transcription":null,"level":1}
+{"ru":"филос. атеизм","bn":"নাস্তিক্যবাদ","transcription":null,"level":1}
+{"ru":"сон, сновидение","bn":"স্বপ্ন","transcription":null,"level":1}
+{"ru":"Вильнюс","bn":"ভিলনিউস","transcription":null,"level":1}
+{"ru":"Ереван","bn":"ইয়েরেভান","transcription":null,"level":1}
+{"ru":"фарм. алкалоид","bn":"উপক্ষার","transcription":null,"level":1}
+{"ru":"гражданская война","bn":"গৃহযুদ্ধ","transcription":null,"level":1}
+{"ru":"хим. фермий","bn":"ফার্মিয়াম","transcription":null,"level":1}
+{"ru":"поле","bn":"ক্ষেত্র","transcription":null,"level":1}
+{"ru":"чувство, эмоция","bn":"অনুভূতি","transcription":null,"level":1}
+{"ru":"подсластитель","bn":"উৎকোচ","transcription":null,"level":1}
+{"ru":"Ирландия","bn":"আয়ারল্যান্ড","transcription":null,"level":1}
+{"ru":"республика","bn":"প্রজাতন্ত্র","transcription":null,"level":1}
+{"ru":"хим. актиний","bn":"অ্যাক্টিনিয়াম","transcription":null,"level":1}
+{"ru":"Мюнхен","bn":"মিউনিখ","transcription":null,"level":1}
+{"ru":"хим. радон","bn":"রেডন","transcription":null,"level":1}
+{"ru":"эл.-техн. трансформатор","bn":"ট্রান্সফরমার","transcription":null,"level":1}
+{"ru":"хим. астат","bn":"এস্টাটিন","transcription":null,"level":1}
+{"ru":"астробиология","bn":"জ্যোতির্জীববিজ্ঞান","transcription":null,"level":1}
+{"ru":"пятнадцать","bn":"পনেরো","transcription":null,"level":1}
+{"ru":"девятнадцатый","bn":"ঊনবিংশ","transcription":null,"level":1}
+{"ru":"спорт. футбол","bn":"ফুটবল","transcription":null,"level":1}
+{"ru":"геометр. восьмиугольник","bn":"অষ্টভুজ","transcription":null,"level":1}
+{"ru":"хим. ацетилен, этин","bn":"ইথাইন","transcription":null,"level":1}
+{"ru":"геометр. семиугольник, гептагон","bn":"সপ্তভুজ","transcription":null,"level":1}
+{"ru":"физ. пикометр","bn":"পিকোমিটার","transcription":null,"level":1}
+{"ru":"анат. кожа","bn":"ত্বক","transcription":null,"level":1}
+{"ru":"кожа (материал)","bn":"চামড়া","transcription":null,"level":1}
+{"ru":"геометр. куб","bn":"ঘনক","transcription":null,"level":1}
+{"ru":"археология","bn":"পুরাতত্ত্ব","transcription":null,"level":1}
+{"ru":"полуостров","bn":"উপদ্বীপ","transcription":null,"level":1}
+{"ru":"мед. астма","bn":"হাঁপানি","transcription":null,"level":1}
+{"ru":"статистика","bn":"পরিসংখ্যান","transcription":null,"level":1}
+{"ru":"Монголия","bn":"মঙ্গোলিয়া","transcription":null,"level":1}
+{"ru":"образовательный","bn":"শিক্ষামূলক","transcription":null,"level":1}
+{"ru":"мороженое","bn":"আইসক্রীম","transcription":null,"level":1}
+{"ru":"Барселона","bn":"বার্সেলোনা","transcription":null,"level":1}
+{"ru":"узел","bn":"গিঁট","transcription":null,"level":1}
+{"ru":"глагол","bn":"ক্রিয়াপদ","transcription":null,"level":1}
+{"ru":"глагол","bn":"ক্রিয়া","transcription":null,"level":1}
+{"ru":"геометр. эллипс","bn":"উপবৃত্ত","transcription":null,"level":1}
+{"ru":"саентология","bn":"সাইন্টোলজি","transcription":null,"level":1}
+{"ru":"фармакология","bn":"ফার্মাকোলজি","transcription":null,"level":1}
+{"ru":"аптека","bn":"ফার্মেসি","transcription":null,"level":1}
+{"ru":"эволюция","bn":"বিবর্তন","transcription":null,"level":1}
+{"ru":"подарок","bn":"উপহার","transcription":null,"level":1}
+{"ru":"биол. микориза","bn":"মাইকোরাইজা","transcription":null,"level":1}
+{"ru":"зоол. гиена (hyaena)","bn":"হায়েনা","transcription":null,"level":1}
+{"ru":"Казахстан","bn":"কাজাখস্তান","transcription":null,"level":1}
+{"ru":"сантиметр","bn":"সেন্টিমিটার","transcription":null,"level":1}
+{"ru":"Намибия","bn":"নামিবিয়া","transcription":null,"level":1}
+{"ru":"тигрица","bn":"বাঘিনি","transcription":null,"level":1}
+{"ru":"еврей","bn":"ইহুদি","transcription":null,"level":1}
+{"ru":"семнадцать","bn":"সতেরো","transcription":null,"level":1}
+{"ru":"Нидерланды","bn":"নেদারল্যান্ডস","transcription":null,"level":1}
+{"ru":"маяк","bn":"বাতিঘর","transcription":null,"level":1}
+{"ru":"Массачусетс","bn":"ম্যাসাচুসেট্‌স","transcription":null,"level":1}
+{"ru":"анат. локоть","bn":"বাঁক","transcription":null,"level":1}
+{"ru":"анат. локоть","bn":"মোড়","transcription":null,"level":1}
+{"ru":"опт. линза","bn":"লেন্স","transcription":null,"level":1}
+{"ru":"физиол. желчь, жёлчь","bn":"পিত্ত","transcription":null,"level":1}
+{"ru":"цивилизация","bn":"সভ্যতা","transcription":null,"level":1}
+{"ru":"терять","bn":"হারা","transcription":null,"level":1}
+{"ru":"журналистика","bn":"জার্নালিজম","transcription":null,"level":1}
+{"ru":"хим. рубидий","bn":"রুবিডিয়াম","transcription":null,"level":1}
+{"ru":"кот","bn":"বেড়াল","transcription":null,"level":1}
+{"ru":"капитализм","bn":"পুঁজিবাদ","transcription":null,"level":1}
+{"ru":"орнитол. утка","bn":"পাতিহাঁস","transcription":null,"level":1}
+{"ru":"орнитол. утка","bn":"হাঁস","transcription":null,"level":1}
+{"ru":"Саксония","bn":"জাখসেন","transcription":null,"level":1}
+{"ru":"клавиатура","bn":"কীবোর্ড","transcription":null,"level":1}
+{"ru":"вечер","bn":"সন্ধ্যা","transcription":null,"level":1}
+{"ru":"напёрсток","bn":"অঙ্গুষ্ঠানা","transcription":null,"level":1}
+{"ru":"геометр. четырёхугольник","bn":"চতুর্ভুজ","transcription":null,"level":1}
+{"ru":"слово; речь","bn":"কথা","transcription":null,"level":1}
+{"ru":"разговор","bn":"কথা","transcription":null,"level":1}
+{"ru":"сикхизм","bn":"শিখধর্ম","transcription":null,"level":1}
+{"ru":"левый","bn":"বাঁ","transcription":null,"level":1}
+{"ru":"мед. клиника","bn":"ক্লিনিক","transcription":null,"level":1}
+{"ru":"Никарагуа","bn":"নিকারাগুয়া","transcription":null,"level":1}
+{"ru":"гость","bn":"অতিথি","transcription":null,"level":1}
+{"ru":"хим. лантан","bn":"ল্যান্থানাম","transcription":null,"level":1}
+{"ru":"информация","bn":"তথ্য","transcription":null,"level":1}
+{"ru":"зоол. свинья","bn":"শুওর","transcription":null,"level":1}
+{"ru":"зоол. черепаха","bn":"কাছিম","transcription":null,"level":1}
+{"ru":"брат","bn":"ভাই","transcription":null,"level":1}
+{"ru":"брат","bn":"ভ্রাতা","transcription":null,"level":1}
+{"ru":"физ. осмос","bn":"অভিস্রবণ","transcription":null,"level":1}
+{"ru":"нитка, нить","bn":"সূত্র","transcription":null,"level":1}
+{"ru":"муз. аккорд","bn":"ত্রয়ী","transcription":null,"level":1}
+{"ru":"аквариум","bn":"অ্যাকোয়ারিয়াম","transcription":null,"level":1}
+{"ru":"минер. ангидрит","bn":"অ্যানহাইড্রাইট","transcription":null,"level":1}
+{"ru":"химик","bn":"রসায়নবিদ","transcription":null,"level":1}
+{"ru":"хим. молекула","bn":"অণু","transcription":null,"level":1}
+{"ru":"гравитация; тяготение","bn":"অভিকর্ষ","transcription":null,"level":1}
+{"ru":"гравитация; тяготение","bn":"মহাকর্ষ","transcription":null,"level":1}
+{"ru":"гравитация; тяготение","bn":"মাধ্যাকর্ষণ","transcription":null,"level":1}
+{"ru":"биохим. инсулин","bn":"ইনসুলিন","transcription":null,"level":1}
+{"ru":"флагшток","bn":"পতাকাদণ্ড","transcription":null,"level":1}
+{"ru":"биохим. лактоза","bn":"ল্যাকটোজ","transcription":null,"level":1}
+{"ru":"веер","bn":"বিচনী","transcription":null,"level":1}
+{"ru":"хим. палладий","bn":"প্যালাডিয়াম","transcription":null,"level":1}
+{"ru":"астрон. метеорит","bn":"উল্কাপিণ্ড","transcription":null,"level":1}
+{"ru":"Коран","bn":"কুরআন","transcription":null,"level":1}
+{"ru":"цирк","bn":"সার্কাস","transcription":null,"level":1}
+{"ru":"цитол. рибосома","bn":"রাইবোজোম","transcription":null,"level":1}
+{"ru":"мед. чума","bn":"প্লেগ","transcription":null,"level":1}
+{"ru":"лингв. диалектология","bn":"উপভাষাতত্ত্ব","transcription":null,"level":1}
+{"ru":"текст","bn":"পাঠ","transcription":null,"level":1}
+{"ru":"спец. хроматография","bn":"ক্রোমাটোগ্রাফি","transcription":null,"level":1}
+{"ru":"муз. гитара","bn":"গিটার","transcription":null,"level":1}
+{"ru":"профессия","bn":"পেশা","transcription":null,"level":1}
+{"ru":"технология","bn":"প্রযুক্তি","transcription":null,"level":1}
+{"ru":"Эдинбург","bn":"এডিনবরা","transcription":null,"level":1}
+{"ru":"палиндром","bn":"প্যালিনড্রোম","transcription":null,"level":1}
+{"ru":"тонна","bn":"টন","transcription":null,"level":1}
+{"ru":"слепота","bn":"অন্ধত্ব","transcription":null,"level":1}
+{"ru":"забывать","bn":"পাহৰা","transcription":null,"level":1}
+{"ru":"Кришна","bn":"কৃষ্ণ","transcription":null,"level":1}
+{"ru":"Вишну","bn":"বিষ্ণু","transcription":null,"level":1}
+{"ru":"ботан. конопля (Cannabis)","bn":"গাঁজা","transcription":null,"level":1}
+{"ru":"презерватив, кондом","bn":"কন্ডম","transcription":null,"level":1}
+{"ru":"страус","bn":"পাখি","transcription":null,"level":1}
+{"ru":"птица","bn":"পাখি","transcription":null,"level":1}
+{"ru":"перо","bn":"পালক","transcription":null,"level":1}
+{"ru":"биохим. эстроген","bn":"ইস্ট্রোজেন","transcription":null,"level":1}
+{"ru":"хим. рутений","bn":"রুথিনিয়াম","transcription":null,"level":1}
+{"ru":"хим. кристалл","bn":"স্ফটিক","transcription":null,"level":1}
+{"ru":"воск","bn":"মোম","transcription":null,"level":1}
+{"ru":"хим. индий","bn":"ইন্ডিয়াম","transcription":null,"level":1}
+{"ru":"движение","bn":"গতি","transcription":null,"level":1}
+{"ru":"этнография","bn":"নৃকুলবিদ্যা","transcription":null,"level":1}
+{"ru":"лингв. диалект","bn":"উপভাষা","transcription":null,"level":1}
+{"ru":"игрушка","bn":"খেলনা","transcription":null,"level":1}
+{"ru":"счастье","bn":"সুখ","transcription":null,"level":1}
+{"ru":"анатомия","bn":"শারীরস্থান","transcription":null,"level":1}
+{"ru":"мед. остеопороз","bn":"অস্টিওপোরোসিস","transcription":null,"level":1}
+{"ru":"Югославия","bn":"যুগোস্লাভিয়া","transcription":null,"level":1}
+{"ru":"Черногория","bn":"মন্টিনিগ্রো","transcription":null,"level":1}
+{"ru":"лингв. существительное, имя существительное","bn":"বিশেষ্য","transcription":null,"level":1}
+{"ru":"любить","bn":"ভালবাসা","transcription":null,"level":1}
+{"ru":"Бангладеш","bn":"বাংলাদেশ","transcription":null,"level":1}
+{"ru":"рикша","bn":"রিকশা","transcription":null,"level":1}
+{"ru":"столяр","bn":"সূত্রধর","transcription":null,"level":1}
+{"ru":"жизнь","bn":"জীব","transcription":null,"level":1}
+{"ru":"живое существо, создание","bn":"জীব","transcription":null,"level":1}
+{"ru":"душа","bn":"জীব","transcription":null,"level":1}
+{"ru":"биол. организм","bn":"জীব","transcription":null,"level":1}
+{"ru":"галактика","bn":"ছায়াপথ","transcription":null,"level":1}
+{"ru":"лемур","bn":"লেমুর","transcription":null,"level":1}
+{"ru":"анат. железа","bn":"গ্রন্থি","transcription":null,"level":1}
+{"ru":"Мавритания","bn":"মৌরিতানিয়া","transcription":null,"level":1}
+{"ru":"композитор","bn":"সুরকার","transcription":null,"level":1}
+{"ru":"Судан","bn":"সুদান","transcription":null,"level":1}
+{"ru":"Сицилия","bn":"সিসিলি","transcription":null,"level":1}
+{"ru":"потеть","bn":"ঘামা","transcription":null,"level":1}
+{"ru":"пот","bn":"ঘাম","transcription":null,"level":1}
+{"ru":"матем. теорема","bn":"উপপাদ্য","transcription":null,"level":1}
+{"ru":"ветвь","bn":"শাখা","transcription":null,"level":1}
+{"ru":"паспорт","bn":"পাসপোর্ট","transcription":null,"level":1}
+{"ru":"Швеция","bn":"সুইডেন","transcription":null,"level":1}
+{"ru":"Норвегия","bn":"নরওয়ে","transcription":null,"level":1}
+{"ru":"Женева","bn":"জেনেভা","transcription":null,"level":1}
+{"ru":"Каталония","bn":"কাতালোনিয়া","transcription":null,"level":1}
+{"ru":"Шотландия","bn":"স্কটল্যান্ড","transcription":null,"level":1}
+{"ru":"Гренландия","bn":"গ্রিনল্যান্ড","transcription":null,"level":1}
+{"ru":"Польша","bn":"পোল্যান্ড","transcription":null,"level":1}
+{"ru":"Венгрия","bn":"হাঙ্গেরি","transcription":null,"level":1}
+{"ru":"Румыния","bn":"রোমানিয়া","transcription":null,"level":1}
+{"ru":"восстание","bn":"বিদ্রোহ","transcription":null,"level":1}
+{"ru":"восстание","bn":"উত্থান","transcription":null,"level":1}
+{"ru":"нудизм","bn":"নগ্নতাবাদ","transcription":null,"level":1}
+{"ru":"астрон. астероид","bn":"গ্রহাণু","transcription":null,"level":1}
+{"ru":"царь, правитель","bn":"রাজা","transcription":null,"level":1}
+{"ru":"Эфиопия","bn":"ইথিওপিয়া","transcription":null,"level":1}
+{"ru":"Курдистан","bn":"কুর্দিস্তান","transcription":null,"level":1}
+{"ru":"Португалия","bn":"পর্তুগাল","transcription":null,"level":1}
+{"ru":"матем. топология","bn":"টপোগণিত","transcription":null,"level":1}
+{"ru":"Колумбия","bn":"কলম্বিয়া","transcription":null,"level":1}
+{"ru":"Гватемала","bn":"গুয়াতেমালা","transcription":null,"level":1}
+{"ru":"Швейцария","bn":"সুইজারল্যান্ড","transcription":null,"level":1}
+{"ru":"геогр. Антарктида","bn":"অ্যান্টার্কটিকা","transcription":null,"level":1}
+{"ru":"террорист","bn":"সন্ত্রাসবাদী","transcription":null,"level":1}
+{"ru":"гомосексуальность, гомосексуализм","bn":"সমকামিতা","transcription":null,"level":1}
+{"ru":"бисексуальность","bn":"উভকামিতা","transcription":null,"level":1}
+{"ru":"Австрия","bn":"অস্ট্রিয়া","transcription":null,"level":1}
+{"ru":"Азербайджан","bn":"আজারবাইজান","transcription":null,"level":1}
+{"ru":"физ. энергия","bn":"শক্তি","transcription":null,"level":1}
+{"ru":"Египет","bn":"মিশর","transcription":null,"level":1}
+{"ru":"физика","bn":"পদার্থবিজ্ঞান","transcription":null,"level":1}
+{"ru":"мед. цирроз","bn":"সিরোসিস","transcription":null,"level":1}
+{"ru":"смеяться","bn":"হাসা","transcription":null,"level":1}
+{"ru":"филос. метафизика","bn":"অধিবিদ্যা","transcription":null,"level":1}
+{"ru":"истор. Галлия","bn":"গল","transcription":null,"level":1}
+{"ru":"кузнечик","bn":"পতঙ্গ","transcription":null,"level":1}
+{"ru":"общество","bn":"সমাজ","transcription":null,"level":1}
+{"ru":"астрология","bn":"জ্যোতিষশাস্ত্র","transcription":null,"level":1}
+{"ru":"здоровье","bn":"স্বাস্থ্য","transcription":null,"level":1}
+{"ru":"здоровье","bn":"আরোগ্য","transcription":null,"level":1}
+{"ru":"Люксембург","bn":"লুক্সেমবুর্গ","transcription":null,"level":1}
+{"ru":"биохим. гистамин","bn":"হিস্টামিন","transcription":null,"level":1}
+{"ru":"металл","bn":"ধাতু","transcription":null,"level":1}
+{"ru":"истор. император","bn":"সম্রাট","transcription":null,"level":1}
+{"ru":"анат. шея","bn":"ঘর্","transcription":null,"level":1}
+{"ru":"биохим. гемоглобин","bn":"হিমোগ্লোবিন","transcription":null,"level":1}
+{"ru":"хим. таллий","bn":"থ্যালিয়াম","transcription":null,"level":1}
+{"ru":"воображение","bn":"কল্পনা","transcription":null,"level":1}
+{"ru":"гусеница","bn":"শুঁয়াপোকা","transcription":null,"level":1}
+{"ru":"хим. титан","bn":"টাইটানিয়াম","transcription":null,"level":1}
+{"ru":"диплодок","bn":"ডিপলোডোকাস","transcription":null,"level":1}
+{"ru":"Пенсильвания","bn":"পেন্সিল্‌ভেনিয়া","transcription":null,"level":1}
+{"ru":"Фракия","bn":"থ্রেস","transcription":null,"level":1}
+{"ru":"рупия","bn":"রুপিয়া","transcription":null,"level":1}
+{"ru":"город-государство","bn":"নগররাষ্ট্র","transcription":null,"level":1}
+{"ru":"Чехословакия","bn":"চেকোস্লোভাকিয়া","transcription":null,"level":1}
+{"ru":"хим. этан","bn":"ইথেন","transcription":null,"level":1}
+{"ru":"шербет","bn":"শরবত","transcription":null,"level":1}
+{"ru":"электрокардиография","bn":"ইলেকট্রোকার্ডিওগ্রাফি","transcription":null,"level":1}
+{"ru":"Средиземное море","bn":"ভূমধ্যসাগর","transcription":null,"level":1}
+{"ru":"Тайвань","bn":"তাইওয়ান","transcription":null,"level":1}
+{"ru":"бетон","bn":"কংক্রিট","transcription":null,"level":1}
+{"ru":"пистолет","bn":"পিস্তল","transcription":null,"level":1}
+{"ru":"орнитол. сова","bn":"পেঁচা","transcription":null,"level":1}
+{"ru":"социолингвистика","bn":"সমাজভাষাবিজ্ঞান","transcription":null,"level":1}
+{"ru":"английский","bn":"ইংরেজি","transcription":null,"level":1}
+{"ru":"английский","bn":"ইংৰাজী","transcription":null,"level":1}
+{"ru":"Гондурас","bn":"হন্ডুরাস","transcription":null,"level":1}
+{"ru":"идеология","bn":"ভাবাদর্শ","transcription":null,"level":1}
+{"ru":"репа","bn":"শালগম","transcription":null,"level":1}
+{"ru":"куркума","bn":"হলুদ","transcription":null,"level":1}
+{"ru":"горчица","bn":"সরিষা","transcription":null,"level":1}
+{"ru":"пряность, специя, приправа","bn":"মসলা","transcription":null,"level":1}
+{"ru":"соус","bn":"আচার","transcription":null,"level":1}
+{"ru":"соус","bn":"টক","transcription":null,"level":1}
+{"ru":"имбирь","bn":"আদা","transcription":null,"level":1}
+{"ru":"Лихтенштейн","bn":"লিশটেনস্টাইন","transcription":null,"level":1}
+{"ru":"эмбриология","bn":"ভ্রূণবিদ্যা","transcription":null,"level":1}
+{"ru":"ботан. лотос","bn":"পদ্ম","transcription":null,"level":1}
+{"ru":"Маньчжурия","bn":"মাঞ্চুরিয়া","transcription":null,"level":1}
+{"ru":"зоол. утконос (лат. Ornithorhynchus anatinus)","bn":"প্লাটিপাস","transcription":null,"level":1}
+{"ru":"Иордания","bn":"জর্দান","transcription":null,"level":1}
+{"ru":"Пруссия","bn":"প্রুশিয়া","transcription":null,"level":1}
+{"ru":"Литва","bn":"লিথুয়ানিয়া","transcription":null,"level":1}
+{"ru":"архипелаг","bn":"দ্বীপপুঞ্জ","transcription":null,"level":1}
+{"ru":"алкоголизм","bn":"মদ্যাসক্তি","transcription":null,"level":1}
+{"ru":"павлин","bn":"ময়ুর","transcription":null,"level":1}
+{"ru":"без друзей","bn":"বন্ধুহীন","transcription":null,"level":1}
+{"ru":"подушка","bn":"বালিশ","transcription":null,"level":1}
+{"ru":"пердеть, бздеть","bn":"পাদা","transcription":null,"level":1}
+{"ru":"вульг. минет, отсос","bn":"ব্লোজব","transcription":null,"level":1}
+{"ru":"Организация Объединённых Наций (ООН), Объединённые Нации","bn":"জাতিসংঘ","transcription":null,"level":1}
+{"ru":"кинофильм, фильм, кино","bn":"মুভি","transcription":null,"level":1}
+{"ru":"кинофильм, фильм, кино","bn":"ফিল্ম","transcription":null,"level":1}
+{"ru":"истор. фараон","bn":"ফারাও","transcription":null,"level":1}
+{"ru":"истор. фараон","bn":"ফেরাউন","transcription":null,"level":1}
+{"ru":"кулин. сашими, сасими","bn":"সাশিমি","transcription":null,"level":1}
+{"ru":"физиол. эякуляция, семяизвержение","bn":"বীর্যস্খলন","transcription":null,"level":1}
+{"ru":"палач","bn":"জল্লাদ","transcription":null,"level":1}
+{"ru":"кашлять","bn":"কহা","transcription":null,"level":1}
+{"ru":"кашлять","bn":"কাশা","transcription":null,"level":1}
+{"ru":"колесо","bn":"চাকা","transcription":null,"level":1}
+{"ru":"дружба","bn":"বন্ধুত্ব","transcription":null,"level":1}
+{"ru":"тайфун","bn":"টাইফুন","transcription":null,"level":1}
+{"ru":"серьга, серёжка","bn":"মাকড়ি","transcription":null,"level":1}
+{"ru":"паук","bn":"মাকড়সা","transcription":null,"level":1}
+{"ru":"морж","bn":"সিন্ধুঘোটক","transcription":null,"level":1}
+{"ru":"учитель","bn":"মুয়াল্লিম","transcription":null,"level":1}
+{"ru":"учитель","bn":"ওস্তাদ","transcription":null,"level":1}
+{"ru":"мастер","bn":"ওস্তাদ","transcription":null,"level":1}
+{"ru":"наставник; тренер","bn":"ওস্তাদ","transcription":null,"level":1}
+{"ru":"знаток, эксперт","bn":"ওস্তাদ","transcription":null,"level":1}
+{"ru":"инструктор; тренер","bn":"প্রশিক্ষক","transcription":null,"level":1}
+{"ru":"учить, обучать","bn":"শেখান","transcription":null,"level":1}
+{"ru":"больница, госпиталь","bn":"হাসপাতাল","transcription":null,"level":1}
+{"ru":"отель, гостиница","bn":"হোটেল","transcription":null,"level":1}
+{"ru":"мед. эпилепсия","bn":"মৃগীরোগ","transcription":null,"level":1}
+{"ru":"Ватикан","bn":"ভ্যাটিকান","transcription":null,"level":1}
+{"ru":"горный хребет, горная цепь","bn":"পর্বতমালা","transcription":null,"level":1}
+{"ru":"гора","bn":"পর্বত","transcription":null,"level":1}
+{"ru":"материал; материя","bn":"পদার্থ","transcription":null,"level":1}
+{"ru":"Хельсинки","bn":"হেলসিঙ্কি","transcription":null,"level":1}
+{"ru":"чревовещание","bn":"মায়াস্বর","transcription":null,"level":1}
+{"ru":"горизонтальный","bn":"অনুভূমিক","transcription":null,"level":1}
+{"ru":"хим. спирт; алкоголь","bn":"এলকোহল","transcription":null,"level":1}
+{"ru":"хим. водород","bn":"হাইড্রোজেন","transcription":null,"level":1}
+{"ru":"иероглиф","bn":"হায়ারোগ্লিফ","transcription":null,"level":1}
+{"ru":"тирамису","bn":"তিরামিসু","transcription":null,"level":1}
+{"ru":"крот","bn":"ছুঁচো","transcription":null,"level":1}
+{"ru":"тень","bn":"ছায়া","transcription":null,"level":1}
+{"ru":"сатрап","bn":"সত্রপ","transcription":null,"level":1}
+{"ru":"визирь","bn":"উজির","transcription":null,"level":1}
+{"ru":"халиф","bn":"খলিফা","transcription":null,"level":1}
+{"ru":"эмир","bn":"আমির","transcription":null,"level":1}
+{"ru":"хим. ртуть","bn":"পারদ","transcription":null,"level":1}
+{"ru":"морская звезда","bn":"তারামাছ","transcription":null,"level":1}
+{"ru":"полит. эмират","bn":"আমিরাত","transcription":null,"level":1}
+{"ru":"солнечное затмение","bn":"সূর্যগ্রহণ","transcription":null,"level":1}
+{"ru":"лунное затмение","bn":"চন্দ্রগ্রহণ","transcription":null,"level":1}
+{"ru":"космический корабль","bn":"মহাকাশযান","transcription":null,"level":1}
+{"ru":"ад, преисподняя","bn":"জাহান্নাম","transcription":null,"level":1}
+{"ru":"ад, преисподняя","bn":"নরক","transcription":null,"level":1}
+{"ru":"анат. толстая кишка","bn":"বৃহদান্ত্র","transcription":null,"level":1}
+{"ru":"анат. тонкая кишка","bn":"ক্ষুদ্রান্ত্র","transcription":null,"level":1}
+{"ru":"анат. желудок","bn":"পাকস্থলী","transcription":null,"level":1}
+{"ru":"анат. поджелудочная железа","bn":"অগ্ন্যাশয়","transcription":null,"level":1}
+{"ru":"физ. калориметрия","bn":"ক্যালরিমিতি","transcription":null,"level":1}
+{"ru":"спец. денситометр","bn":"ডেনসিটোমিটার","transcription":null,"level":1}
+{"ru":"геометр. пятиугольник","bn":"পঞ্চভুজ","transcription":null,"level":1}
+{"ru":"спорт. регби","bn":"রাগবি","transcription":null,"level":1}
+{"ru":"физ. магнетизм","bn":"চুম্বকত্ব","transcription":null,"level":1}
+{"ru":"Австралия","bn":"অস্ট্রেলিয়া","transcription":null,"level":1}
+{"ru":"товарный знак","bn":"ট্রেডমার্ক","transcription":null,"level":1}
+{"ru":"бронза","bn":"ব্রোঞ্জ","transcription":null,"level":1}
+{"ru":"латунь","bn":"পিতল","transcription":null,"level":1}
+{"ru":"мед. сибирская язва","bn":"অ্যানথ্রাক্স","transcription":null,"level":1}
+{"ru":"физ. протон","bn":"প্রোটন","transcription":null,"level":1}
+{"ru":"европеец","bn":"ফিরিঙ্গি","transcription":null,"level":1}
+{"ru":"Исландия","bn":"আইসল্যান্ড","transcription":null,"level":1}
+{"ru":"Квебек","bn":"কুইবেক","transcription":null,"level":1}
+{"ru":"минер. кварцит","bn":"কোয়ার্টজাইট","transcription":null,"level":1}
+{"ru":"механизм","bn":"যন্ত্রকৌশল","transcription":null,"level":1}
+{"ru":"гриб","bn":"ছত্রাক","transcription":null,"level":1}
+{"ru":"физ. невесомость","bn":"ওজনহীনতা","transcription":null,"level":1}
+{"ru":"астрон. чёрная дыра","bn":"কৃষ্ণগহ্বর","transcription":null,"level":1}
+{"ru":"биол. партеногенез","bn":"অপুংজনি","transcription":null,"level":1}
+{"ru":"Корсика","bn":"কর্স","transcription":null,"level":1}
+{"ru":"экология","bn":"বাস্তুবিদ্যা","transcription":null,"level":1}
+{"ru":"полярное сияние, северное сияние","bn":"মেরুজ্যোতি","transcription":null,"level":1}
+{"ru":"хим. этанол, этиловый спирт","bn":"ইথানল","transcription":null,"level":1}
+{"ru":"цепь","bn":"শৃঙ্খল","transcription":null,"level":1}
+{"ru":"ихтиол. акула","bn":"হাঙ্গর","transcription":null,"level":1}
+{"ru":"ихтиол. акула","bn":"হাঙর","transcription":null,"level":1}
+{"ru":"хим. углерод","bn":"কার্বন","transcription":null,"level":1}
+{"ru":"хим. углерод","bn":"অঙ্গার","transcription":null,"level":1}
+{"ru":"минер. реальгар","bn":"মনঃশিলা","transcription":null,"level":1}
+{"ru":"минер. реальгар","bn":"মনছাল","transcription":null,"level":1}
+{"ru":"капля","bn":"বিন্দু","transcription":null,"level":1}
+{"ru":"геол. Пангея","bn":"প্যানজিয়া","transcription":null,"level":1}
+{"ru":"истор. иконоборчество, иконоборство, иконоклазм","bn":"চিত্তির","transcription":null,"level":1}
+{"ru":"истор. иконоборчество, иконоборство, иконоклазм","bn":"কালাপাহাড়ি","transcription":null,"level":1}
+{"ru":"столовая","bn":"ভোজনশালা","transcription":null,"level":1}
+{"ru":"зоопарк, зоологический сад, зоосад, зверинец","bn":"চিড়িয়াখানা","transcription":null,"level":1}
+{"ru":"культура","bn":"সংস্কৃতি","transcription":null,"level":1}
+{"ru":"ротовая полость","bn":"মুখবিবর","transcription":null,"level":1}
+{"ru":"зоол. медуза","bn":"জেলিফিশ","transcription":null,"level":1}
+{"ru":"анат. спинной мозг","bn":"সুষুম্নাকাণ্ড","transcription":null,"level":1}
+{"ru":"загробная жизнь, загробный мир, потусторонний мир, жизнь после смерти","bn":"আখিরাত","transcription":null,"level":1}
+{"ru":"астрон. гелиосфера","bn":"হেলিওস্ফিয়ার","transcription":null,"level":1}
+{"ru":"бордель, публичный дом","bn":"বেশ্যালয়","transcription":null,"level":1}
+{"ru":"хим. лютеций","bn":"লুটিশিয়াম","transcription":null,"level":1}
+{"ru":"думать","bn":"ভাবা","transcription":null,"level":1}
+{"ru":"логика","bn":"মন্তেক","transcription":null,"level":1}
+{"ru":"лингвистический","bn":"ভাষাবৈজ্ঞানিক","transcription":null,"level":1}
+{"ru":"язык","bn":"জবান","transcription":null,"level":1}
+{"ru":"сын","bn":"পো","transcription":null,"level":1}
+{"ru":"ложиться","bn":"শোয়া","transcription":null,"level":1}
+{"ru":"анат. желчный пузырь","bn":"পিত্তাশয়","transcription":null,"level":1}
+{"ru":"техн. конденсатор","bn":"ধারক","transcription":null,"level":1}
+{"ru":"динозавр","bn":"ডাইনোসর","transcription":null,"level":1}
+{"ru":"зоол. носорог","bn":"গন্ডার","transcription":null,"level":1}
+{"ru":"мед. сахарный диабет","bn":"বহুমূত্ররোগ","transcription":null,"level":1}
+{"ru":"мед. рак","bn":"ক্যান্সার","transcription":null,"level":1}
+{"ru":"истор. янычар","bn":"জেনিসারি","transcription":null,"level":1}
+{"ru":"сейсмология","bn":"ভূকম্পবিজ্ঞান","transcription":null,"level":1}
+{"ru":"проза","bn":"গদ্য","transcription":null,"level":1}
+{"ru":"полотенце","bn":"তোয়ালে","transcription":null,"level":1}
+{"ru":"скатерть","bn":"দস্তরখান","transcription":null,"level":1}
+{"ru":"ненависть","bn":"ঘেন্না","transcription":null,"level":1}
+{"ru":"враждебность, вражда, неприязнь","bn":"শত্রুতা","transcription":null,"level":1}
+{"ru":"ритм","bn":"তাল","transcription":null,"level":1}
+{"ru":"подкова","bn":"নাল","transcription":null,"level":1}
+{"ru":"мед. столбняк","bn":"ধনুষ্টঙ্কার","transcription":null,"level":1}
+{"ru":"залив","bn":"উপসাগর","transcription":null,"level":1}
+{"ru":"кровавый","bn":"রক্তাক্ত","transcription":null,"level":1}
+{"ru":"истор. шахиня, шахбану","bn":"শাহবানু","transcription":null,"level":1}
+{"ru":"лошадь","bn":"ঘোড়া","transcription":null,"level":1}
+{"ru":"шахм. конь","bn":"ঘোড়া","transcription":null,"level":1}
+{"ru":"Неаполь","bn":"নেপলস","transcription":null,"level":1}
+{"ru":"Флоренция","bn":"ফ্লোরেন্স","transcription":null,"level":1}
+{"ru":"слон","bn":"হাতি","transcription":null,"level":1}
+{"ru":"шахм. слон","bn":"হাতি","transcription":null,"level":1}
+{"ru":"лодка","bn":"নৌকা","transcription":null,"level":1}
+{"ru":"шахм. ладья","bn":"নৌকা","transcription":null,"level":1}
+{"ru":"метеорол. туман","bn":"কুয়াশা","transcription":null,"level":1}
+{"ru":"премьер-министр","bn":"প্রধানমন্ত্রী","transcription":null,"level":1}
+{"ru":"шах; царь","bn":"শাহ","transcription":null,"level":1}
+{"ru":"шахм. король","bn":"শাহ","transcription":null,"level":1}
+{"ru":"падишах","bn":"বাদশাহ","transcription":null,"level":1}
+{"ru":"султан","bn":"সুলতান","transcription":null,"level":1}
+{"ru":"шейх","bn":"শেখ","transcription":null,"level":1}
+{"ru":"жених","bn":"দামাদ","transcription":null,"level":1}
+{"ru":"зять","bn":"দামাদ","transcription":null,"level":1}
+{"ru":"внук","bn":"নাতি","transcription":null,"level":1}
+{"ru":"площадь","bn":"ময়দান","transcription":null,"level":1}
+{"ru":"поле","bn":"ময়দান","transcription":null,"level":1}
+{"ru":"самурай","bn":"সামুরাই","transcription":null,"level":1}
+{"ru":"гепард","bn":"চিতা","transcription":null,"level":1}
+{"ru":"микробиол. коронавирус","bn":"করোনাভাইরাস","transcription":null,"level":1}
+{"ru":"истор. каган","bn":"খাকান","transcription":null,"level":1}
+{"ru":"Генуя","bn":"জেনোভা","transcription":null,"level":1}
+{"ru":"тотемизм","bn":"টোটেমবাদ","transcription":null,"level":1}
+{"ru":"героин","bn":"হেরোইন","transcription":null,"level":1}
+{"ru":"хим. аргон","bn":"আর্গন","transcription":null,"level":1}
+{"ru":"хим. гелий","bn":"হিলিয়াম","transcription":null,"level":1}
+{"ru":"завтрак","bn":"নাস্তা","transcription":null,"level":1}
+{"ru":"хим. криптон","bn":"ক্রিপ্টন","transcription":null,"level":1}
+{"ru":"украинский","bn":"ইউক্রেনীয়","transcription":null,"level":1}
+{"ru":"спорт. волейбол","bn":"ভলিবল","transcription":null,"level":1}
+{"ru":"Нубия","bn":"নুবিয়া","transcription":null,"level":1}
+{"ru":"анат. гипоталамус","bn":"হাইপোথ্যালামাস","transcription":null,"level":1}
+{"ru":"физиол. рвота","bn":"বমি","transcription":null,"level":1}
+{"ru":"мечеть","bn":"মসজিদ","transcription":null,"level":1}
+{"ru":"картон","bn":"পিচবোর্ড","transcription":null,"level":1}
+{"ru":"благодарность","bn":"শোকর","transcription":null,"level":1}
+{"ru":"ткацкий станок","bn":"তাঁত","transcription":null,"level":1}
+{"ru":"демография","bn":"জনসংখ্যাতত্ত্ব","transcription":null,"level":1}
+{"ru":"пищеварение","bn":"পরিপাক","transcription":null,"level":1}
+{"ru":"повар","bn":"রাঁধুনি","transcription":null,"level":1}
+{"ru":"геоморфология","bn":"ভূমিরূপবিদ্যা","transcription":null,"level":1}
+{"ru":"мед. дизентерия","bn":"আমাশয়","transcription":null,"level":1}
+{"ru":"гнездо","bn":"নীড়","transcription":null,"level":1}
+{"ru":"королевская кобра","bn":"শঙ্খচূড়","transcription":null,"level":1}
+{"ru":"пингвин","bn":"পেঙ্গুইন","transcription":null,"level":1}
+{"ru":"хим. фенол","bn":"ফেনল","transcription":null,"level":1}
+{"ru":"подводная лодка, субмарина","bn":"সাবমেরিন","transcription":null,"level":1}
+{"ru":"труд, работа","bn":"কাজ","transcription":null,"level":1}
+{"ru":"работа","bn":"চাকরী","transcription":null,"level":1}
+{"ru":"работа","bn":"কাম","transcription":null,"level":1}
+{"ru":"слуга","bn":"চাকর","transcription":null,"level":1}
+{"ru":"дело","bn":"কর্ম","transcription":null,"level":1}
+{"ru":"труд, работа","bn":"কর্ম","transcription":null,"level":1}
+{"ru":"делать","bn":"করা","transcription":null,"level":1}
+{"ru":"двигаться","bn":"চলা","transcription":null,"level":1}
+{"ru":"продолжаться","bn":"চলা","transcription":null,"level":1}
+{"ru":"труд, работа","bn":"শ্রম","transcription":null,"level":1}
+{"ru":"Парагвай","bn":"প্যারাগুয়ে","transcription":null,"level":1}
+{"ru":"токсикология","bn":"বিষবিজ্ঞান","transcription":null,"level":1}
+{"ru":"орнитол. попугай","bn":"টিয়া","transcription":null,"level":1}
+{"ru":"физ. пар (газ в равновесии с жидкостью)","bn":"বাষ্প","transcription":null,"level":1}
+{"ru":"физ. пар (газ в равновесии с жидкостью)","bn":"ভাপ","transcription":null,"level":1}
+{"ru":"геогр. Хорватия","bn":"ক্রোয়েশিয়া","transcription":null,"level":1}
+{"ru":"человечность, гуманность","bn":"ইনসানিয়াত","transcription":null,"level":1}
+{"ru":"религ. политеист","bn":"মুশরিক","transcription":null,"level":1}
+{"ru":"глава государства","bn":"রাষ্ট্রপ্রধান","transcription":null,"level":1}
+{"ru":"дендрохронология","bn":"ডেনড্রোক্রোনোলজি","transcription":null,"level":1}
+{"ru":"бензин","bn":"পেট্রল","transcription":null,"level":1}
+{"ru":"Россия","bn":"রাশিয়া","transcription":null,"level":1}
+{"ru":"летучая мышь","bn":"বাদুড়","transcription":null,"level":1}
+{"ru":"медицина","bn":"হকিমী","transcription":null,"level":1}
+{"ru":"лекарство","bn":"ঔষধ","transcription":null,"level":1}
+{"ru":"факел","bn":"মশাল","transcription":null,"level":1}
+{"ru":"царство животных","bn":"প্রাণীজগৎ","transcription":null,"level":1}
+{"ru":"пицца","bn":"পিৎজা","transcription":null,"level":1}
+{"ru":"фонарик, фонарь","bn":"টর্চলাইট","transcription":null,"level":1}
+{"ru":"билет","bn":"টিকিট","transcription":null,"level":1}
+{"ru":"почтовая марка","bn":"ডাকটিকিট","transcription":null,"level":1}
+{"ru":"автомобиль","bn":"গাড়ী","transcription":null,"level":1}
+{"ru":"огнестрельное оружие","bn":"আগ্নেয়াস্ত্র","transcription":null,"level":1}
+{"ru":"засуха","bn":"খরা","transcription":null,"level":1}
+{"ru":"Финляндия","bn":"ফিনল্যান্ড","transcription":null,"level":1}
+{"ru":"справедливость","bn":"ইনসাফ","transcription":null,"level":1}
+{"ru":"суд","bn":"আদালত","transcription":null,"level":1}
+{"ru":"Тасмания","bn":"তাসমানিয়া","transcription":null,"level":1}
+{"ru":"анат. костный мозг","bn":"অস্থিমজ্জা","transcription":null,"level":1}
+{"ru":"приказ; команда","bn":"আদেশ","transcription":null,"level":1}
+{"ru":"приказ","bn":"আজ্ঞা","transcription":null,"level":1}
+{"ru":"хим. родий","bn":"রোডিয়াম","transcription":null,"level":1}
+{"ru":"жалованье, оклад, заработная плата","bn":"বেতন","transcription":null,"level":1}
+{"ru":"вознаграждение, плата","bn":"উজরত","transcription":null,"level":1}
+{"ru":"жалованье, заработная плата","bn":"উজরত","transcription":null,"level":1}
+{"ru":"сад","bn":"বাগিচা","transcription":null,"level":1}
+{"ru":"детский сад","bn":"কিণ্ডারগার্টেন","transcription":null,"level":1}
+{"ru":"садовник, садовод","bn":"মালী","transcription":null,"level":1}
+{"ru":"садовник, садовод","bn":"উদ্যানপাল","transcription":null,"level":1}
+{"ru":"Сомали","bn":"সোমালিয়া","transcription":null,"level":1}
+{"ru":"хим. кислород","bn":"অক্সিজেন","transcription":null,"level":1}
+{"ru":"геогр. экватор","bn":"নিরক্ষরেখা","transcription":null,"level":1}
+{"ru":"люстра","bn":"ঝাড়বাতি","transcription":null,"level":1}
+{"ru":"медсестра","bn":"নার্স","transcription":null,"level":1}
+{"ru":"дракон, змей","bn":"আজদাহা","transcription":null,"level":1}
+{"ru":"рынок","bn":"বাজার","transcription":null,"level":1}
+{"ru":"ботан. хромопласт","bn":"ক্রোমোপ্লাস্ট","transcription":null,"level":1}
+{"ru":"Новый год","bn":"নববর্ষ","transcription":null,"level":1}
+{"ru":"гранат (Punica granatum)","bn":"ডালিম","transcription":null,"level":1}
+{"ru":"шампунь","bn":"শ্যাম্পু","transcription":null,"level":1}
+{"ru":"перхоть","bn":"মরামাস","transcription":null,"level":1}
+{"ru":"перхоть","bn":"খুশকি","transcription":null,"level":1}
+{"ru":"граната","bn":"গ্রেনেড","transcription":null,"level":1}
+{"ru":"транслитерация","bn":"প্রতিবর্ণীকরণ","transcription":null,"level":1}
+{"ru":"экзамен, испытание","bn":"পরীক্ষা","transcription":null,"level":1}
+{"ru":"экзамен, испытание","bn":"ইমতেহান","transcription":null,"level":1}
+{"ru":"инжир, смоква, фига","bn":"ডুমুর","transcription":null,"level":1}
+{"ru":"хим. лоуренсий","bn":"লরেনসিয়াম","transcription":null,"level":1}
+{"ru":"хим. резерфордий","bn":"রাদারফোর্ডিয়াম","transcription":null,"level":1}
+{"ru":"филос. утилитаризм","bn":"উপযোগবাদ","transcription":null,"level":1}
+{"ru":"память (способность сохранять информацию)","bn":"স্মৃতি","transcription":null,"level":1}
+{"ru":"флаг","bn":"পতাকা","transcription":null,"level":1}
+{"ru":"Бразилия","bn":"ব্রাজিল","transcription":null,"level":1}
+{"ru":"гидрография","bn":"জললেখবিজ্ঞান","transcription":null,"level":1}
+{"ru":"диктатор","bn":"একনায়ক","transcription":null,"level":1}
+{"ru":"автократия","bn":"স্বৈরতন্ত্র","transcription":null,"level":1}
+{"ru":"домашний арест","bn":"গৃহবন্দি","transcription":null,"level":1}
+{"ru":"светлячок","bn":"জোনাকি","transcription":null,"level":1}
+{"ru":"мастерская","bn":"কর্মশালা","transcription":null,"level":1}
+{"ru":"промышленность, индустрия","bn":"ইন্ডস্ট্রী","transcription":null,"level":1}
+{"ru":"анат. клюв","bn":"চঁচু","transcription":null,"level":1}
+{"ru":"смерть","bn":"ওফাত","transcription":null,"level":1}
+{"ru":"смерть; кончина","bn":"ইন্তেকাল","transcription":null,"level":1}
+{"ru":"смерть","bn":"মরণ","transcription":null,"level":1}
+{"ru":"невеста","bn":"বধূ","transcription":null,"level":1}
+{"ru":"падишах","bn":"পাতশাহ্","transcription":null,"level":1}
+{"ru":"юность, молодость","bn":"যৌবন","transcription":null,"level":1}
+{"ru":"птица","bn":"পক্ষী","transcription":null,"level":1}
+{"ru":"страус","bn":"পঙ্খী","transcription":null,"level":1}
+{"ru":"страус","bn":"উটপাখী","transcription":null,"level":1}
+{"ru":"кустарник, куст","bn":"গুল্ম","transcription":null,"level":1}
+{"ru":"мед. терапия","bn":"চিকিৎসা","transcription":null,"level":1}
+{"ru":"воен. полковник","bn":"কর্নেল","transcription":null,"level":1}
+{"ru":"Полинезия","bn":"পলিনেশিয়া","transcription":null,"level":1}
+{"ru":"детский труд","bn":"শিশুশ্রম","transcription":null,"level":1}
+{"ru":"сыр","bn":"পনীর","transcription":null,"level":1}
+{"ru":"Оман","bn":"ওমান","transcription":null,"level":1}
+{"ru":"зоол. моллюск","bn":"খোলকী","transcription":null,"level":1}
+{"ru":"анат. мозжечок","bn":"লঘুমস্তিষ্ক","transcription":null,"level":1}
+{"ru":"лингв. ударение","bn":"শ্বাসাঘাত","transcription":null,"level":1}
+{"ru":"истор. Троя","bn":"ট্রয়","transcription":null,"level":1}
+{"ru":"физиол. лимфа","bn":"লসিকা","transcription":null,"level":1}
+{"ru":"кшатрий, кшатрия","bn":"ক্ষত্রিয়","transcription":null,"level":1}
+{"ru":"торпеда","bn":"টর্পেডো","transcription":null,"level":1}
+{"ru":"секунда","bn":"সেকেন্ড","transcription":null,"level":1}
+{"ru":"свободный","bn":"মুক্ত","transcription":null,"level":1}
+{"ru":"свободный, независимый","bn":"আজাদ","transcription":null,"level":1}
+{"ru":"матем. уравнение","bn":"সমীকরণ","transcription":null,"level":1}
+{"ru":"физ. электрон","bn":"ইলেকট্রন","transcription":null,"level":1}
+{"ru":"Куба","bn":"কিউবা","transcription":null,"level":1}
+{"ru":"Ливия","bn":"লিবিয়া","transcription":null,"level":1}
+{"ru":"пепельница","bn":"এশট্রে","transcription":null,"level":1}
+{"ru":"металл. манганин","bn":"ম্যাঙ্গানিন","transcription":null,"level":1}
+{"ru":"секс-работник, секс-работница","bn":"যৌনকর্মী","transcription":null,"level":1}
+{"ru":"физ. ампер","bn":"অ্যাম্পিয়ার","transcription":null,"level":1}
+{"ru":"искусств. постимпрессионизм","bn":"উত্তর-অন্তর্মুদ্রাবাদ","transcription":null,"level":1}
+{"ru":"хим. иттрий","bn":"ইট্রিয়াম","transcription":null,"level":1}
+{"ru":"хим. гафний","bn":"হ্যাফনিয়াম","transcription":null,"level":1}
+{"ru":"хим. технеций","bn":"টেকনেশিয়াম","transcription":null,"level":1}
+{"ru":"центр","bn":"কেন্দ্র","transcription":null,"level":1}
+{"ru":"Лион","bn":"লিওন","transcription":null,"level":1}
+{"ru":"Сейшелы","bn":"সেশেল","transcription":null,"level":1}
+{"ru":"сейшельский","bn":"সেশেলীয়","transcription":null,"level":1}
+{"ru":"мальчик, ребёнок, дитя","bn":"বালক","transcription":null,"level":1}
+{"ru":"юность, детство","bn":"বাল্য","transcription":null,"level":1}
+{"ru":"религ. суфий, суфист","bn":"সুফী","transcription":null,"level":1}
+{"ru":"зоол. олень","bn":"হরিণ","transcription":null,"level":1}
+{"ru":"турбина","bn":"টারবাইন","transcription":null,"level":1}
+{"ru":"тюрбан, чалма","bn":"দস্তার","transcription":null,"level":1}
+{"ru":"головная повязка","bn":"সরবন্দ","transcription":null,"level":1}
+{"ru":"тюрбан, чалма","bn":"সরবন্দ","transcription":null,"level":1}
+{"ru":"тюрбан, чалма","bn":"আমামা","transcription":null,"level":1}
+{"ru":"музыка","bn":"সংগীত","transcription":null,"level":1}
+{"ru":"певец","bn":"গায়ক","transcription":null,"level":1}
+{"ru":"подкаст","bn":"পডকাস্ট","transcription":null,"level":1}
+{"ru":"господь","bn":"সাঁই","transcription":null,"level":1}
+{"ru":"господин","bn":"সাঁই","transcription":null,"level":1}
+{"ru":"господин","bn":"গোসাঁই","transcription":null,"level":1}
+{"ru":"господь","bn":"গোসাঁই","transcription":null,"level":1}
+{"ru":"муж","bn":"স্বামী","transcription":null,"level":1}
+{"ru":"господин","bn":"স্বামী","transcription":null,"level":1}
+{"ru":"свами","bn":"স্বামী","transcription":null,"level":1}
+{"ru":"муж, супруг","bn":"বর","transcription":null,"level":1}
+{"ru":"муж","bn":"শওহর","transcription":null,"level":1}
+{"ru":"муж","bn":"জওজ","transcription":null,"level":1}
+{"ru":"зять","bn":"জামাই","transcription":null,"level":1}
+{"ru":"самолёт","bn":"খপোত","transcription":null,"level":1}
+{"ru":"самолёт","bn":"উড়োজাহাজ","transcription":null,"level":1}
+{"ru":"судно, корабль","bn":"জাহাজ","transcription":null,"level":1}
+{"ru":"самолёт","bn":"জাহাজ","transcription":null,"level":1}
+{"ru":"летательный","bn":"উড়ো","transcription":null,"level":1}
+{"ru":"самолёт","bn":"বিমান","transcription":null,"level":1}
+{"ru":"самолёт","bn":"আকাশযান","transcription":null,"level":1}
+{"ru":"матем. тензор","bn":"টেন্সর","transcription":null,"level":1}
+{"ru":"аналитик","bn":"বিশ্লেষক","transcription":null,"level":1}
+{"ru":"лингв. фонология","bn":"ধ্বনিতত্ত্ব","transcription":null,"level":1}
+{"ru":"рекомендация","bn":"সুপারিশ","transcription":null,"level":1}
+{"ru":"бедуин","bn":"বেদুঈন","transcription":null,"level":1}
+{"ru":"Будапешт","bn":"বুদাপেস্ট","transcription":null,"level":1}
+{"ru":"орнитол. цапля","bn":"সারস","transcription":null,"level":1}
+{"ru":"абиссинский","bn":"হাবশী","transcription":null,"level":1}
+{"ru":"геогр. Новая Зеландия","bn":"নিউজিল্যান্ড","transcription":null,"level":1}
+{"ru":"мед. гемофилия","bn":"হিমোফিলিয়া","transcription":null,"level":1}
+{"ru":"мальчик","bn":"ছোকরা","transcription":null,"level":1}
+{"ru":"здравый смысл, здравомыслие","bn":"আকল","transcription":null,"level":1}
+{"ru":"палестинец","bn":"ফিলিস্তিনি","transcription":null,"level":1}
+{"ru":"генетика","bn":"বংশাণুবিজ্ঞান","transcription":null,"level":1}
+{"ru":"Дублин","bn":"ডাবলিন","transcription":null,"level":1}
+{"ru":"психиатр. деменция; слабоумие","bn":"চিত্তভ্রংশ","transcription":null,"level":1}
+{"ru":"Корнуолл; Корнуэлл (нерекомендуемый вариант)","bn":"কর্নওয়াল","transcription":null,"level":1}
+{"ru":"лампа","bn":"সিরাজ","transcription":null,"level":1}
+{"ru":"концерт","bn":"সঙ্গীতানুষ্ঠান","transcription":null,"level":1}
+{"ru":"умирать","bn":"মরা","transcription":null,"level":1}
+{"ru":"геогр. Палестина","bn":"ফিলিস্তিন","transcription":null,"level":1}
+{"ru":"комфорт, уют, удобство","bn":"আরাম","transcription":null,"level":1}
+{"ru":"отдых","bn":"আরাম","transcription":null,"level":1}
+{"ru":"хобби, увлечение","bn":"শখ","transcription":null,"level":1}
+{"ru":"хоббит","bn":"হবিট","transcription":null,"level":1}
+{"ru":"зоол. коала (Phascolarctos cinereus)","bn":"কোয়ালা","transcription":null,"level":1}
+{"ru":"заблуждение; обман; мошенничество","bn":"প্রবঞ্চনা","transcription":null,"level":1}
+{"ru":"обманчивый, обманный","bn":"প্রবঞ্চনামূলক","transcription":null,"level":1}
+{"ru":"папирус","bn":"প্যাপিরাস","transcription":null,"level":1}
+{"ru":"кровяное давление","bn":"রক্তচাপ","transcription":null,"level":1}
+{"ru":"хим. углеводород","bn":"হাইড্রোকার্বন","transcription":null,"level":1}
+{"ru":"физ. пространство-время","bn":"স্থান-কাল","transcription":null,"level":1}
+{"ru":"диаграмма","bn":"রেখাচিত্র","transcription":null,"level":1}
+{"ru":"махараджа","bn":"মহারাজা","transcription":null,"level":1}
+{"ru":"хим. германий","bn":"জার্মেনিয়াম","transcription":null,"level":1}
+{"ru":"мед. стетоскоп","bn":"স্টেথোস্কোপ","transcription":null,"level":1}
+{"ru":"невидимый; незримый","bn":"অদৃশ্য","transcription":null,"level":1}
+{"ru":"научн. микология","bn":"ছত্রাকবিজ্ঞান","transcription":null,"level":1}
+{"ru":"проповедь","bn":"ওয়াজ","transcription":null,"level":1}
+{"ru":"религ. хутба (мусульманская проповедь)","bn":"খুতবা","transcription":null,"level":1}
+{"ru":"мед. сифилис","bn":"সিফিলিস","transcription":null,"level":1}
+{"ru":"изнасилование","bn":"ধর্ষণ","transcription":null,"level":1}
+{"ru":"физ. фермион","bn":"ফার্মিয়ন","transcription":null,"level":1}
+{"ru":"Ганновер","bn":"হানোফার","transcription":null,"level":1}
+{"ru":"мед. изжога","bn":"বুকজ্বালা","transcription":null,"level":1}
+{"ru":"рычаг","bn":"লিভার","transcription":null,"level":1}
+{"ru":"георгин","bn":"ডালিয়া","transcription":null,"level":1}
+{"ru":"психология","bn":"মনোবিজ্ঞান","transcription":null,"level":1}
+{"ru":"безмозглый","bn":"মস্তিষ্কহীন","transcription":null,"level":1}
+{"ru":"Стамбул","bn":"ইস্তাম্বুল","transcription":null,"level":1}
+{"ru":"операция","bn":"অস্ত্রোপচার","transcription":null,"level":1}
+{"ru":"хим. гадолиний","bn":"গ্যাডোলিনিয়াম","transcription":null,"level":1}
+{"ru":"хим. глицерин, глицерол","bn":"গ্লিসারল","transcription":null,"level":1}
+{"ru":"всадник, наездник","bn":"ঘোড়সওয়ার","transcription":null,"level":1}
+{"ru":"всадник, наездник","bn":"অশ্বারোহী","transcription":null,"level":1}
+{"ru":"метеорол. гром","bn":"বজ্রধ্বনি","transcription":null,"level":1}
+{"ru":"койот","bn":"নেকড়েবিশেষ","transcription":null,"level":1}
+{"ru":"служанка","bn":"চাকরানী","transcription":null,"level":1}
+{"ru":"рыбак, рыболов","bn":"জালিয়া","transcription":null,"level":1}
+{"ru":"рыбак, рыболов","bn":"জালজীবী","transcription":null,"level":1}
+{"ru":"капуста","bn":"বাঁধাকপি","transcription":null,"level":1}
+{"ru":"археология","bn":"প্রত্নতত্ত্ব","transcription":null,"level":1}
+{"ru":"кардамон","bn":"এলাচি","transcription":null,"level":1}
+{"ru":"археолог","bn":"পুরাতত্ত্বজ্ঞ","transcription":null,"level":1}
+{"ru":"археолог","bn":"প্রত্নতত্ত্ববিৎ","transcription":null,"level":1}
+{"ru":"негр","bn":"নিগ্রো","transcription":null,"level":1}
+{"ru":"мяч","bn":"বল","transcription":null,"level":1}
+{"ru":"анат. трахея","bn":"হলকুম","transcription":null,"level":1}
+{"ru":"анат. инокомма, инокомма","bn":"সারকোমিয়ার","transcription":null,"level":1}
+{"ru":"лингв. фонема","bn":"স্বনিম","transcription":null,"level":1}
+{"ru":"математика","bn":"গণিত","transcription":null,"level":1}
+{"ru":"Эсватини; Свазиленд","bn":"ইসোয়াতিনি","transcription":null,"level":1}
+{"ru":"череп","bn":"করোটি","transcription":null,"level":1}
+{"ru":"Бенин","bn":"বেনিন","transcription":null,"level":1}
+{"ru":"мавзолей","bn":"মাজার","transcription":null,"level":1}
+{"ru":"мавзолей","bn":"সমাধি","transcription":null,"level":1}
+{"ru":"музей","bn":"জাদুঘর","transcription":null,"level":1}
+{"ru":"музей","bn":"মিউজিয়াম","transcription":null,"level":1}
+{"ru":"металл. ледебурит","bn":"লেডিবুরাইট","transcription":null,"level":1}
+{"ru":"Ганг","bn":"গঙ্গা","transcription":null,"level":1}
+{"ru":"гангский","bn":"গাঙ্গেয়","transcription":null,"level":1}
+{"ru":"дьявол","bn":"শয়তান","transcription":null,"level":1}
+{"ru":"демон","bn":"রাক্ষস","transcription":null,"level":1}
+{"ru":"молочник","bn":"দুধওয়ালা","transcription":null,"level":1}
+{"ru":"нерв","bn":"স্নায়ু","transcription":null,"level":1}
+{"ru":"бесконечность","bn":"অসীম","transcription":null,"level":1}
+{"ru":"кулин. кебаб","bn":"কাবাব","transcription":null,"level":1}
+{"ru":"грудное вскармливание, кормление грудью","bn":"স্তন্যপান","transcription":null,"level":1}
+{"ru":"сводный брат","bn":"সৎভাই","transcription":null,"level":1}
+{"ru":"маниок","bn":"কাসাভা","transcription":null,"level":1}
+{"ru":"хим. прометий","bn":"প্রমিথিয়াম","transcription":null,"level":1}
+{"ru":"хим. плутоний","bn":"প্লুটোনিয়াম","transcription":null,"level":1}
+{"ru":"водонагреватель","bn":"গিজার","transcription":null,"level":1}
+{"ru":"Иран","bn":"ইরান","transcription":null,"level":1}
+{"ru":"иранский","bn":"ইরানী","transcription":null,"level":1}
+{"ru":"лосось","bn":"স্যামন","transcription":null,"level":1}
+{"ru":"лестница","bn":"সিঁড়ি","transcription":null,"level":1}
+{"ru":"Киев","bn":"কিয়েভ","transcription":null,"level":1}
+{"ru":"револьвер","bn":"রিভলভার","transcription":null,"level":1}
+{"ru":"биол. спирилла","bn":"স্পিরিলাম","transcription":null,"level":1}
+{"ru":"суп","bn":"শিড়া","transcription":null,"level":1}
+{"ru":"ботан. ячмень (Hordeum)","bn":"যব","transcription":null,"level":1}
+{"ru":"зоол. улитка","bn":"শামুক","transcription":null,"level":1}
+{"ru":"книжн. индианистика, индология","bn":"ভারতবিদ্যা","transcription":null,"level":1}
+{"ru":"анат. плацента","bn":"অমরা","transcription":null,"level":1}
+{"ru":"Эстония","bn":"এস্তোনিয়া","transcription":null,"level":1}
+{"ru":"государственная религия","bn":"রাষ্ট্রধর্ম","transcription":null,"level":1}
+{"ru":"хим. метан","bn":"মিথেন","transcription":null,"level":1}
+{"ru":"гинекология","bn":"স্ত্রীরোগবিদ্যা","transcription":null,"level":1}
+{"ru":"лава","bn":"লাভা","transcription":null,"level":1}
+{"ru":"зыбучий песок","bn":"চোরাবালি","transcription":null,"level":1}
+{"ru":"хим. октан","bn":"অক্টেন","transcription":null,"level":1}
+{"ru":"полит. панарабизм","bn":"সর্ব-আরববাদ","transcription":null,"level":1}
+{"ru":"Панама","bn":"পানামা","transcription":null,"level":1}
+{"ru":"анат. большой палец (руки)","bn":"অঙ্গুষ্ঠ","transcription":null,"level":1}
+{"ru":"мифол. Баал, Ваал","bn":"বাআল","transcription":null,"level":1}
+{"ru":"Хиросима","bn":"হিরোশিমা","transcription":null,"level":1}
+{"ru":"мед. липома, жировик","bn":"লাইপোমা","transcription":null,"level":1}
+{"ru":"физ. паскаль","bn":"প্যাসকেল","transcription":null,"level":1}
+{"ru":"паломник, пилигрим","bn":"তীর্থযাত্রী","transcription":null,"level":1}
+{"ru":"эхо","bn":"প্রতিধ্বনি","transcription":null,"level":1}
+{"ru":"зоол. питон","bn":"অজগর","transcription":null,"level":1}
+{"ru":"муз. джаз","bn":"জ্যাজ","transcription":null,"level":1}
+{"ru":"седьмой","bn":"সপ্তম","transcription":null,"level":1}
+{"ru":"сотрудник","bn":"সহকর্মী","transcription":null,"level":1}
+{"ru":"геол. вулканический пепел","bn":"আগ্নেয়ভস্ম","transcription":null,"level":1}
+{"ru":"мед. выкидыш","bn":"গর্ভস্রাব","transcription":null,"level":1}
+{"ru":"Африка","bn":"আফ্রিকা","transcription":null,"level":1}
+{"ru":"загрязнение воздуха","bn":"বায়ুদূষণ","transcription":null,"level":1}
+{"ru":"африканец","bn":"আফ্রিকান","transcription":null,"level":1}
+{"ru":"геогр. Эльбрус","bn":"আলবর্জ","transcription":null,"level":1}
+{"ru":"всегда","bn":"হামেশা","transcription":null,"level":1}
+{"ru":"всегда","bn":"সর্বদা","transcription":null,"level":1}
+{"ru":"Маврикий","bn":"মরিশাস","transcription":null,"level":1}
+{"ru":"заразный, инфекционный","bn":"সংক্রামক","transcription":null,"level":1}
+{"ru":"геогр. Италия","bn":"ইতালি","transcription":null,"level":1}
+{"ru":"муз. камертон","bn":"সুরশলাকা","transcription":null,"level":1}
+{"ru":"ботан. дыня (Cucumis melo)","bn":"ফুটি","transcription":null,"level":1}
+{"ru":"зоол. выдра (Lutra)","bn":"ভোঁদড়","transcription":null,"level":1}
+{"ru":"шутка","bn":"প্রহসন","transcription":null,"level":1}
+{"ru":"шутка","bn":"রসিকতা","transcription":null,"level":1}
+{"ru":"витамин","bn":"ভিটামিন","transcription":null,"level":1}
+{"ru":"кошмар, страшный сон","bn":"দুঃস্বপ্ন","transcription":null,"level":1}
+{"ru":"жевать","bn":"চিবানো","transcription":null,"level":1}
+{"ru":"табак","bn":"তামাক","transcription":null,"level":1}
+{"ru":"ботан. рожь (Secale cereale)","bn":"রাই","transcription":null,"level":1}
+{"ru":"джекфрут","bn":"কাঁঠাল","transcription":null,"level":1}
+{"ru":"продавец, торговец, лавочник","bn":"দোকানদার","transcription":null,"level":1}
+{"ru":"продавец, торговец, лавочник","bn":"দোকানী","transcription":null,"level":1}
+{"ru":"волосы на теле","bn":"লোম","transcription":null,"level":1}
+{"ru":"оползень","bn":"ভূমিধস","transcription":null,"level":1}
+{"ru":"анат. яйцеклетка","bn":"ডিম্বাণু","transcription":null,"level":1}
+{"ru":"Евразия","bn":"ইউরেশিয়া","transcription":null,"level":1}
+{"ru":"физ. атом","bn":"পরমাণু","transcription":null,"level":1}
+{"ru":"роды, рождение","bn":"প্রসব","transcription":null,"level":1}
+{"ru":"ты","bn":"তুই","transcription":null,"level":1}
+{"ru":"изюм","bn":"কিশমিশ","transcription":null,"level":1}
+{"ru":"тысяча","bn":"হাজার","transcription":null,"level":1}
+{"ru":"тысяча","bn":"সহস্র","transcription":null,"level":1}
+{"ru":"где","bn":"কোথায়","transcription":null,"level":1}
+{"ru":"как","bn":"কেমন","transcription":null,"level":1}
+{"ru":"кто","bn":"কে","transcription":null,"level":1}
+{"ru":"мать","bn":"মাতা","transcription":null,"level":1}
+{"ru":"беженец","bn":"শরণার্থী","transcription":null,"level":1}
+{"ru":"ресница","bn":"রশ্মি","transcription":null,"level":1}
+{"ru":"ресница","bn":"অক্ষিলোম","transcription":null,"level":1}
+{"ru":"ресница","bn":"অক্ষিপক্ষ্ম","transcription":null,"level":1}
+{"ru":"жена","bn":"স্ত্রী","transcription":null,"level":1}
+{"ru":"соль","bn":"লবণ","transcription":null,"level":1}
+{"ru":"ветер","bn":"বাতাস","transcription":null,"level":1}
+{"ru":"солнце","bn":"সূর্য","transcription":null,"level":1}
+{"ru":"солнце","bn":"সূর্য্য","transcription":null,"level":1}
+{"ru":"плод","bn":"ফল","transcription":null,"level":1}
+{"ru":"сто","bn":"শ","transcription":null,"level":1}
+{"ru":"плоть","bn":"মাংস","transcription":null,"level":1}
+{"ru":"дезинфицирующий","bn":"বীজঘ্ন","transcription":null,"level":1}
+{"ru":"конструкция","bn":"গঠন","transcription":null,"level":1}
+{"ru":"формирование","bn":"গঠন","transcription":null,"level":1}
+{"ru":"структура","bn":"গঠন","transcription":null,"level":1}
+{"ru":"сформированный","bn":"গঠিত","transcription":null,"level":1}
+{"ru":"слоган","bn":"স্লোগান","transcription":null,"level":1}
+{"ru":"биохим. прогестерон","bn":"প্রোজেস্টেরন","transcription":null,"level":1}
+{"ru":"тыква","bn":"কুমড়া","transcription":null,"level":1}
+{"ru":"духи","bn":"সুগন্ধি","transcription":null,"level":1}
+{"ru":"акр","bn":"একর","transcription":null,"level":1}
+{"ru":"физиол. слюна","bn":"লালা","transcription":null,"level":1}
+{"ru":"слюна, плевок","bn":"থুতু","transcription":null,"level":1}
+{"ru":"красивый","bn":"সুন্দর","transcription":null,"level":1}
+{"ru":"красивый","bn":"খুবসুরত","transcription":null,"level":1}
+{"ru":"красивый","bn":"হাসিন","transcription":null,"level":1}
+{"ru":"хим. нонан","bn":"ননেন","transcription":null,"level":1}
+{"ru":"слушать","bn":"শোনা","transcription":null,"level":1}
+{"ru":"хотеть","bn":"চাওয়া","transcription":null,"level":1}
+{"ru":"финик (плод)","bn":"খেজুর","transcription":null,"level":1}
+{"ru":"финиковая пальма","bn":"খেজুর","transcription":null,"level":1}
+{"ru":"финик (плод)","bn":"খোরমা","transcription":null,"level":1}
+{"ru":"финиковая пальма","bn":"খোরমা","transcription":null,"level":1}
+{"ru":"анат. челюсть","bn":"চোয়াল","transcription":null,"level":1}
+{"ru":"отвращение, неприятие, неприязнь","bn":"নফরৎ","transcription":null,"level":1}
+{"ru":"хирагана (слоговая японская азбука)","bn":"হিরাগানা","transcription":null,"level":1}
+{"ru":"катакана (слоговая японская азбука)","bn":"কাতাকানা","transcription":null,"level":1}
+{"ru":"кандзи","bn":"কাঞ্জি","transcription":null,"level":1}
+{"ru":"нижняя юбка","bn":"শায়া","transcription":null,"level":1}
+{"ru":"кафе, кофейня","bn":"ক্যাফে","transcription":null,"level":1}
+{"ru":"приданое","bn":"যৌতুক","transcription":null,"level":1}
+{"ru":"зоол. дельфин","bn":"ডলফিন","transcription":null,"level":1}
+{"ru":"физ. сверхпроводимость","bn":"অতিপরিবাহিতা","transcription":null,"level":1}
+{"ru":"игла, иголка","bn":"ছুঁচ","transcription":null,"level":1}
+{"ru":"список","bn":"সূচী","transcription":null,"level":1}
+{"ru":"зоол. зебра","bn":"জেব্রা","transcription":null,"level":1}
+{"ru":"психиатр. дислексия","bn":"পঠনবিকার","transcription":null,"level":1}
+{"ru":"пенсия","bn":"পেনশন","transcription":null,"level":1}
+{"ru":"мед. гной","bn":"পূঁয","transcription":null,"level":1}
+{"ru":"ихтиол. сом","bn":"মাগুর","transcription":null,"level":1}
+{"ru":"мед. диарея","bn":"উদরাময়","transcription":null,"level":1}
+{"ru":"электрический","bn":"বৈদ্যুতিক","transcription":null,"level":1}
+{"ru":"аборт","bn":"গর্ভপাত","transcription":null,"level":1}
+{"ru":"Львов (город)","bn":"লিভিভ","transcription":null,"level":1}
+{"ru":"цена","bn":"মূল্য","transcription":null,"level":1}
+{"ru":"цена","bn":"কিম্মত","transcription":null,"level":1}
+{"ru":"анат. клитор","bn":"ভগাঙ্কুর","transcription":null,"level":1}
+{"ru":"хим. бериллий","bn":"বেরিলিয়াম","transcription":null,"level":1}
+{"ru":"мирра","bn":"গন্ধরস","transcription":null,"level":1}
+{"ru":"старшая сестра","bn":"বুবু","transcription":null,"level":1}
+{"ru":"старшая сестра","bn":"আপা","transcription":null,"level":1}
+{"ru":"уголь","bn":"কয়লা","transcription":null,"level":1}
+{"ru":"сахарный тростник","bn":"আখ","transcription":null,"level":1}
+{"ru":"хим. гексен","bn":"হেক্সিন","transcription":null,"level":1}
+{"ru":"Манила","bn":"ম্যানিলা","transcription":null,"level":1}
+{"ru":"ботан. опыление","bn":"পরাগমিলন","transcription":null,"level":1}
+{"ru":"долина","bn":"উপত্যকা","transcription":null,"level":1}
+{"ru":"пища, еда","bn":"খাদ্য","transcription":null,"level":1}
+{"ru":"холодный","bn":"ঠান্ডা","transcription":null,"level":1}
+{"ru":"холодный","bn":"শৈত্য","transcription":null,"level":1}
+{"ru":"холодный","bn":"হৈম","transcription":null,"level":1}
+{"ru":"сексизм","bn":"লিঙ্গবাদ","transcription":null,"level":1}
+{"ru":"микробиол. прион","bn":"প্রিয়ন","transcription":null,"level":1}
+{"ru":"физиол. метаболизм, обмен веществ","bn":"বিপাক","transcription":null,"level":1}
+{"ru":"ботан. тамаринд (Tamarindus indica)","bn":"তেঁতুল","transcription":null,"level":1}
+{"ru":"мед. оспа","bn":"গুটিবসন্ত","transcription":null,"level":1}
+{"ru":"бейсбол","bn":"বেসবল","transcription":null,"level":1}
+{"ru":"хим. московий","bn":"মস্কোভিয়াম","transcription":null,"level":1}
+{"ru":"неол. биткойн","bn":"বিটকয়েন","transcription":null,"level":1}
+{"ru":"выгода, преимущество","bn":"লাভ","transcription":null,"level":1}
+{"ru":"выгода, преимущество","bn":"ফায়দা","transcription":null,"level":1}
+{"ru":"вред, ущерб, потеря, убыток","bn":"ক্ষতি","transcription":null,"level":1}
+{"ru":"ущерб, потеря, вред","bn":"লোকসান","transcription":null,"level":1}
+{"ru":"ложь, обман","bn":"মিথ্যা","transcription":null,"level":1}
+{"ru":"скульптура (вид искусства)","bn":"ভাস্কর্য","transcription":null,"level":1}
+{"ru":"скульптура (произведение)","bn":"মূর্তি","transcription":null,"level":1}
+{"ru":"караван","bn":"কাফেলা","transcription":null,"level":1}
+{"ru":"караван","bn":"কারওয়ান","transcription":null,"level":1}
+{"ru":"физ. гистерезис","bn":"হিস্টেরেসিস","transcription":null,"level":1}
+{"ru":"полит. конфедерация","bn":"মিত্রসংঘ","transcription":null,"level":1}
+{"ru":"порог","bn":"গোবরাট","transcription":null,"level":1}
+{"ru":"хим. ацетон, диметилкетон","bn":"অ্যাসিটোন","transcription":null,"level":1}
+{"ru":"половая зрелость, половое созревание","bn":"বয়ঃসন্ধি","transcription":null,"level":1}
+{"ru":"мед. химиотерапия","bn":"কেমোথেরাপি","transcription":null,"level":1}
+{"ru":"дрель","bn":"তুরপুন","transcription":null,"level":1}
+{"ru":"физ. нейтрино","bn":"নিউট্রিনো","transcription":null,"level":1}
+{"ru":"комп. вредоносная программа, зловредная программа","bn":"মালওয়্যার","transcription":null,"level":1}
+{"ru":"червь","bn":"কৃমি","transcription":null,"level":1}
+{"ru":"мед. аппендицит","bn":"অ্যাপেন্ডিসাইটিস","transcription":null,"level":1}
+{"ru":"палинология","bn":"প্যালিনোলজি","transcription":null,"level":1}
+{"ru":"физ. температура кипения","bn":"স্ফুটনাঙ্ক","transcription":null,"level":1}
+{"ru":"полит. национальное государство","bn":"জাতিরাষ্ট্র","transcription":null,"level":1}
+{"ru":"физиология","bn":"শারীরতত্ত্ব","transcription":null,"level":1}
+{"ru":"геогр. Приднестровская Молдавская Республика, Приднестровье","bn":"ট্রান্সনিস্ট্রিয়া","transcription":null,"level":1}
+{"ru":"информ. гигабайт","bn":"গিগাবাইট","transcription":null,"level":1}
+{"ru":"ботан. артишок","bn":"হাতিচোক","transcription":null,"level":1}
+{"ru":"хим. кофеин","bn":"ক্যাফেইন","transcription":null,"level":1}
+{"ru":"геометр. сорокаугольник","bn":"চল্লিশৎভুজ","transcription":null,"level":1}
+{"ru":"геогр. Могадишо","bn":"মোগাদিশু","transcription":null,"level":1}
+{"ru":"вето","bn":"ভেটো","transcription":null,"level":1}
+{"ru":"керосин","bn":"কেরোসিন","transcription":null,"level":1}
+{"ru":"океанология, океанография","bn":"সমুদ্রবিজ্ঞান","transcription":null,"level":1}
+{"ru":"искусство","bn":"শিল্প","transcription":null,"level":1}
+{"ru":"угольная шахта","bn":"কয়লাখনি","transcription":null,"level":1}
+{"ru":"геогр. Юкон","bn":"ইউকন","transcription":null,"level":1}
+{"ru":"биохим. хлорофилл","bn":"ক্লোরোফিল","transcription":null,"level":1}
+{"ru":"офтальмология","bn":"চক্ষুচিকিৎসাবিজ্ঞান","transcription":null,"level":1}
+{"ru":"физ. античастица","bn":"প্রতিকণা","transcription":null,"level":1}
+{"ru":"физ. антивещество, антиматерия","bn":"প্রতিপদার্থ","transcription":null,"level":1}
+{"ru":"горе, печаль","bn":"দুঃখ","transcription":null,"level":1}
+{"ru":"боль","bn":"দুঃখ","transcription":null,"level":1}
+{"ru":"печаль, скорбь","bn":"দেরেগ","transcription":null,"level":1}
+{"ru":"минер. ильменит, титанистый железняк","bn":"ইলমেনাইট","transcription":null,"level":1}
+{"ru":"грешник","bn":"পাপী","transcription":null,"level":1}
+{"ru":"гуава","bn":"পেয়ারা","transcription":null,"level":1}
+{"ru":"биогеография","bn":"জীবভূগোল","transcription":null,"level":1}
+{"ru":"черта бедности","bn":"দারিদ্র্যসীমা","transcription":null,"level":1}
+{"ru":"внучка","bn":"নাতনি","transcription":null,"level":1}
+{"ru":"ситуация","bn":"পরিস্থিতি","transcription":null,"level":1}
+{"ru":"энергия ветра","bn":"বায়ুশক্তি","transcription":null,"level":1}
+{"ru":"Чехия","bn":"চেকিয়া","transcription":null,"level":1}
+{"ru":"европейский","bn":"ইউরোপীয়","transcription":null,"level":1}
+{"ru":"европейский","bn":"ইউরোপিয়ান","transcription":null,"level":1}
+{"ru":"радар","bn":"রাডার","transcription":null,"level":1}
+{"ru":"минер. берилл","bn":"বেরিলো","transcription":null,"level":1}
+{"ru":"январь","bn":"জানুয়ারি","transcription":null,"level":1}
+{"ru":"сепаратизм","bn":"বিচ্ছিন্নতাবাদ","transcription":null,"level":1}
+{"ru":"мед. антидепрессант","bn":"অ্যান্টিডিপ্রেসেন্ট","transcription":null,"level":1}
+{"ru":"пастеризация","bn":"পাস্তুরীকরণ","transcription":null,"level":1}
+{"ru":"иностранец","bn":"বিদেশী","transcription":null,"level":1}
+{"ru":"упрямство, упёртость","bn":"জেদ","transcription":null,"level":1}
+{"ru":"фритюрница","bn":"ফ্রায়ার","transcription":null,"level":1}
+{"ru":"обезглавливание","bn":"শিরশ্ছেদ","transcription":null,"level":1}
+{"ru":"милитаризация","bn":"সামরিকীকরণ","transcription":null,"level":1}
+{"ru":"грузовой автомобиль, грузовик","bn":"লরি","transcription":null,"level":1}
+{"ru":"толерантность, терпимость","bn":"সহিষ্ণুতা","transcription":null,"level":1}
+{"ru":"толерантность, терпимость","bn":"টলারেন্স","transcription":null,"level":1}
+{"ru":"подчинение, подчинённость","bn":"অধীনতা","transcription":null,"level":1}
+{"ru":"личность","bn":"ব্যক্তিত্ব","transcription":null,"level":1}
+{"ru":"рабство","bn":"দাসপ্রথা","transcription":null,"level":1}
+{"ru":"наркомания","bn":"মাদকাসক্তি","transcription":null,"level":1}
+{"ru":"Харьков","bn":"খারকিভ","transcription":null,"level":1}
+{"ru":"новость","bn":"খবর","transcription":null,"level":1}
+{"ru":"новость","bn":"সমাচার","transcription":null,"level":1}
+{"ru":"древность","bn":"প্রাচীনতা","transcription":null,"level":1}
+{"ru":"ненадёжность","bn":"অবিশ্বস্ততা","transcription":null,"level":1}
+{"ru":"неверность, изменчивость","bn":"অবিশ্বস্ততা","transcription":null,"level":1}
+{"ru":"нелояльность","bn":"অবিশ্বস্ততা","transcription":null,"level":1}
+{"ru":"камень, валун","bn":"শিলা","transcription":null,"level":1}
+{"ru":"скала, утёс","bn":"শিলা","transcription":null,"level":1}
+{"ru":"геол. горная порода","bn":"শিলা","transcription":null,"level":1}
+{"ru":"булыжник","bn":"শিলা","transcription":null,"level":1}
+{"ru":"каменная глыба","bn":"শিলা","transcription":null,"level":1}
+{"ru":"возбуждение, волнение","bn":"উত্তেজনা","transcription":null,"level":1}
+{"ru":"напряжение, напряжённость","bn":"উত্তেজনা","transcription":null,"level":1}
+{"ru":"раздражение","bn":"উত্তেজনা","transcription":null,"level":1}
+{"ru":"физ. возбуждение","bn":"উত্তেজনা","transcription":null,"level":1}
+{"ru":"эл.-техн. напряжение","bn":"উত্তেজনা","transcription":null,"level":1}
+{"ru":"интенсивность, сила","bn":"প্রাবল্য","transcription":null,"level":1}
+{"ru":"обилие, изобилие","bn":"প্রাবল্য","transcription":null,"level":1}
+{"ru":"преобладание","bn":"প্রাবল্য","transcription":null,"level":1}
+{"ru":"мощь, могущество","bn":"প্রাবল্য","transcription":null,"level":1}
+{"ru":"разочарование","bn":"হতাশা","transcription":null,"level":1}
+{"ru":"абстрактность, отвлечённость","bn":"বিমূর্ততা","transcription":null,"level":1}
+{"ru":"неосязаемость","bn":"বিমূর্ততা","transcription":null,"level":1}
+{"ru":"абстракция (как свойство)","bn":"বিমূর্ততা","transcription":null,"level":1}
+{"ru":"соперничество, конкуренция","bn":"প্রতিদ্বন্দ্বিতা","transcription":null,"level":1}
+{"ru":"противоборство, состязание","bn":"প্রতিদ্বন্দ্বিতা","transcription":null,"level":1}
+{"ru":"хим. цирконий","bn":"জিরকোনিয়াম","transcription":null,"level":1}
+{"ru":"усталость, утомление; истощение","bn":"ক্লান্তি","transcription":null,"level":1}
+{"ru":"усталость, утомление","bn":"অবসাদ","transcription":null,"level":1}
+{"ru":"депрессия, подавленность","bn":"অবসাদ","transcription":null,"level":1}
+{"ru":"апатия, вялость","bn":"অবসাদ","transcription":null,"level":1}
+{"ru":"горение, сжигание","bn":"দহন","transcription":null,"level":1}
+{"ru":"воспламенение","bn":"দহন","transcription":null,"level":1}
+{"ru":"превращение, трансформация","bn":"রূপান্তর","transcription":null,"level":1}
+{"ru":"переход (из одного состояния в другое)","bn":"রূপান্তর","transcription":null,"level":1}
+{"ru":"преобразование","bn":"রূপান্তর","transcription":null,"level":1}
+{"ru":"результат, исход, последствие","bn":"পরিণতি","transcription":null,"level":1}
+{"ru":"завершение, конец, развязка","bn":"পরিণতি","transcription":null,"level":1}
+{"ru":"судьба, участь, жребий","bn":"পরিণতি","transcription":null,"level":1}
+{"ru":"трудоустройство, занятость","bn":"কর্মসংস্থান","transcription":null,"level":1}
+{"ru":"рабочее место, должность","bn":"কর্মসংস্থান","transcription":null,"level":1}
+{"ru":"упражнение, тренировка","bn":"অনুশীলন","transcription":null,"level":1}
+{"ru":"практика, применение","bn":"অনুশীলন","transcription":null,"level":1}
+{"ru":"обычай, привычка","bn":"অনুশীলন","transcription":null,"level":1}
+{"ru":"стандартный, нормативный","bn":"প্রমিত","transcription":null,"level":1}
+{"ru":"установленный, утверждённый","bn":"প্রমিত","transcription":null,"level":1}
+{"ru":"формальный, официальный","bn":"প্রমিত","transcription":null,"level":1}
+{"ru":"стандартный, нормативный","bn":"মানদণ্ডী","transcription":null,"level":1}
+{"ru":"соответствующий стандарту, отвечающий критериям","bn":"মানদণ্ডী","transcription":null,"level":1}
+{"ru":"эталонный","bn":"মানদণ্ডী","transcription":null,"level":1}
+{"ru":"литературный","bn":"সাহিত্যিক","transcription":null,"level":1}
+{"ru":"писательский, литературный (о творчестве)","bn":"সাহিত্যিক","transcription":null,"level":1}
+{"ru":"уважение, почтение","bn":"সম্মান","transcription":null,"level":1}
+{"ru":"честь, почёт","bn":"সম্মান","transcription":null,"level":1}
+{"ru":"достоинство","bn":"সম্মান","transcription":null,"level":1}
+{"ru":"слава","bn":"সম্মান","transcription":null,"level":1}
+{"ru":"уважение, почтение","bn":"শ্রদ্ধা","transcription":null,"level":1}
+{"ru":"почтительность, благоговение","bn":"শ্রদ্ধা","transcription":null,"level":1}
+{"ru":"преданность (религиозная)","bn":"শ্রদ্ধা","transcription":null,"level":1}
+{"ru":"сбор","bn":"সংগ্রহ","transcription":null,"level":1}
+{"ru":"собирание","bn":"সংগ্রহ","transcription":null,"level":1}
+{"ru":"коллекция","bn":"সংগ্রহ","transcription":null,"level":1}
+{"ru":"собрание","bn":"সংগ্রহ","transcription":null,"level":1}
+{"ru":"коллекционер","bn":"সংগ্রাহক","transcription":null,"level":1}
+{"ru":"собиратель","bn":"সংগ্রাহক","transcription":null,"level":1}
+{"ru":"биохим., генет. нуклеотид","bn":"নিউক্লিওটাইড","transcription":null,"level":1}
+{"ru":"физиол. дыхание","bn":"শ্বাসপ্রশ্বাস","transcription":null,"level":1}
+{"ru":"деятельность, активность","bn":"কার্যক্রম","transcription":null,"level":1}
+{"ru":"мероприятие","bn":"কার্যক্রম","transcription":null,"level":1}
+{"ru":"телевидение","bn":"টেলিভিশন","transcription":null,"level":1}
+{"ru":"телевизор","bn":"টেলিভিশন","transcription":null,"level":1}
+{"ru":"море","bn":"সাগর","transcription":null,"level":1}
+{"ru":"океан","bn":"সাগর","transcription":null,"level":1}
+{"ru":"мифол. океан (один из семи в индуистской космографии)","bn":"সাগর","transcription":null,"level":1}
+{"ru":"перен. большое количество, изобилие, море (чего-либо)","bn":"সাগর","transcription":null,"level":1}
+{"ru":"море","bn":"সমুদ্র","transcription":null,"level":1}
+{"ru":"океан","bn":"সমুদ্র","transcription":null,"level":1}
+{"ru":"мифол. океан (один из семи в индуистской космографии)","bn":"সমুদ্র","transcription":null,"level":1}
+{"ru":"перен. огромное количество, море, изобилие","bn":"সমুদ্র","transcription":null,"level":1}
+{"ru":"желание","bn":"ইচ্ছা","transcription":null,"level":1}
+{"ru":"воля, хотение","bn":"ইচ্ছা","transcription":null,"level":1}
+{"ru":"стремление","bn":"ইচ্ছা","transcription":null,"level":1}
+{"ru":"цель","bn":"উদ্দেশ্য","transcription":null,"level":1}
+{"ru":"намерение","bn":"উদ্দেশ্য","transcription":null,"level":1}
+{"ru":"замысел, умысел","bn":"উদ্দেশ্য","transcription":null,"level":1}
+{"ru":"лингв. фразеологизм, идиома","bn":"বাগধারা","transcription":null,"level":1}
+{"ru":"речение, выражение","bn":"বাগধারা","transcription":null,"level":1}
+{"ru":"биол. лимфобласт","bn":"লিম্ফোব্লাস্ট","transcription":null,"level":1}
+{"ru":"предложение (грамматическое)","bn":"বাক্য","transcription":null,"level":1}
+{"ru":"фраза, выражение, высказывание","bn":"বাক্য","transcription":null,"level":1}
+{"ru":"изречение, афоризм","bn":"বাক্য","transcription":null,"level":1}
+{"ru":"решение, приговор (суда)","bn":"বাক্য","transcription":null,"level":1}
+{"ru":"революция","bn":"বিপ্লব","transcription":null,"level":1}
+{"ru":"оскорбление, унижение, бесчестие","bn":"অপমান","transcription":null,"level":1}
+{"ru":"животное, зверь","bn":"প্রাণী","transcription":null,"level":1}
+{"ru":"живое существо (в широком смысле, включая человека)","bn":"প্রাণী","transcription":null,"level":1}
+{"ru":"филос. одушевлённое существо, обладающее жизненной силой","bn":"প্রাণী","transcription":null,"level":1}
+{"ru":"основное содержание, сущность, резюме","bn":"সারাংশ","transcription":null,"level":1}
+{"ru":"экстракт, выжимка","bn":"সারাংশ","transcription":null,"level":1}
+{"ru":"суть, основная мысль, сущность","bn":"সারমর্ম","transcription":null,"level":1}
+{"ru":"резюме, конспект","bn":"সারমর্ম","transcription":null,"level":1}
+{"ru":"супружество; брак","bn":"দাম্পত্য","transcription":null,"level":1}
+{"ru":"истор. геогр. Сиам","bn":"সায়াম্","transcription":null,"level":1}
+{"ru":"реальность, действительность","bn":"বাস্তবতা","transcription":null,"level":1}
+{"ru":"реальный, действительный, истинный, подлинный","bn":"বাস্তব","transcription":null,"level":1}
+{"ru":"осязаемый, материальный","bn":"বাস্তব","transcription":null,"level":1}
+{"ru":"правдивость, истинность, достоверность","bn":"সত্যতা","transcription":null,"level":1}
+{"ru":"искренность, честность","bn":"সত্যতা","transcription":null,"level":1}
+{"ru":"верность, преданность","bn":"সত্যতা","transcription":null,"level":1}
+{"ru":"алгоритм","bn":"অ্যালগরিদম","transcription":null,"level":1}
+{"ru":"находить","bn":"পাওয়া","transcription":null,"level":1}
+{"ru":"искать","bn":"খোঁজা","transcription":null,"level":1}
+{"ru":"актёр","bn":"অভিনেতা","transcription":null,"level":1}
+{"ru":"геогр. Хэйлунцзян","bn":"হেইলুংচিয়াং","transcription":null,"level":1}
+{"ru":"бедность, нищета","bn":"দারিদ্র্য","transcription":null,"level":1}
+{"ru":"недостаток, нехватка, отсутствие","bn":"অভাব","transcription":null,"level":1}
+{"ru":"бедность, нужда","bn":"অভাব","transcription":null,"level":1}
+{"ru":"богатство, состояние, имущество","bn":"সম্পদ","transcription":null,"level":1}
+{"ru":"ресурсы, средства","bn":"সম্পদ","transcription":null,"level":1}
+{"ru":"достояние, ценность","bn":"সম্পদ","transcription":null,"level":1}
+{"ru":"процветание, развитие, благоденствие","bn":"সমৃদ্ধি","transcription":null,"level":1}
+{"ru":"изобилие","bn":"সমৃদ্ধি","transcription":null,"level":1}
+{"ru":"изобилие, обилие","bn":"প্রাচুর্য","transcription":null,"level":1}
+{"ru":"обилие, множество, распространённость","bn":"বহুলতা","transcription":null,"level":1}
+{"ru":"подпись","bn":"স্বাক্ষর","transcription":null,"level":1}
+{"ru":"геогр. Хубэй","bn":"হুপেই","transcription":null,"level":1}
+{"ru":"письменность, алфавит","bn":"লিপি","transcription":null,"level":1}
+{"ru":"письменный знак, символ","bn":"লিপি","transcription":null,"level":1}
+{"ru":"запись, надпись","bn":"লিপি","transcription":null,"level":1}
+{"ru":"письмо (письменное сообщение)","bn":"লিপি","transcription":null,"level":1}
+{"ru":"каменная надпись, эпиграфический памятник","bn":"শিলালিপি","transcription":null,"level":1}
+{"ru":"сосед","bn":"প্রতিবেশী","transcription":null,"level":1}
+{"ru":"геогр. Хайнань","bn":"হাইনান","transcription":null,"level":1}
+{"ru":"кусать, укусить","bn":"কামড়ানো","transcription":null,"level":1}
+{"ru":"жалить","bn":"কামড়ানো","transcription":null,"level":1}
+{"ru":"благодарность, признательность","bn":"কৃতজ্ঞতা","transcription":null,"level":1}
+{"ru":"похвальный лист, похвальная грамота","bn":"প্রশংসাপত্র","transcription":null,"level":1}
+{"ru":"аттестат","bn":"প্রশংসাপত্র","transcription":null,"level":1}
+{"ru":"геометр. призма","bn":"প্রিজম","transcription":null,"level":1}
+{"ru":"геогр. Гуандун","bn":"কুয়াংতুং","transcription":null,"level":1}
+{"ru":"уродство, безобразие","bn":"কদর্যতা","transcription":null,"level":1}
+{"ru":"отвратительность","bn":"কদর্যতা","transcription":null,"level":1}
+{"ru":"геогр. Ляонин","bn":"লিয়াওনিং","transcription":null,"level":1}
+{"ru":"искажение; искривление; деформация","bn":"বিকৃতি","transcription":null,"level":1}
+{"ru":"извращение; перекос","bn":"বিকৃতি","transcription":null,"level":1}
+{"ru":"физ. деформация","bn":"বিকৃতি","transcription":null,"level":1}
+{"ru":"лингв. дислалия, нарушение артикуляции","bn":"বিকৃতি","transcription":null,"level":1}
+{"ru":"мед. органическое расстройство; патология органов; дисфункция органа","bn":"অঙ্গবৈকল্য","transcription":null,"level":1}
+{"ru":"физиол. органическое повреждение; патологическое изменение органа","bn":"অঙ্গবৈকল্য","transcription":null,"level":1}
+{"ru":"красота","bn":"সৌন্দর্য","transcription":null,"level":1}
+{"ru":"сигнал, условный знак","bn":"সংকেত","transcription":null,"level":1}
+{"ru":"знак, символ","bn":"সংকেত","transcription":null,"level":1}
+{"ru":"намёк, указание","bn":"সংকেত","transcription":null,"level":1}
+{"ru":"хим. радий","bn":"রেডিয়াম","transcription":null,"level":1}
+{"ru":"подготовка, приготовление","bn":"প্রস্তুতি","transcription":null,"level":1}
+{"ru":"готовность","bn":"প্রস্তুতি","transcription":null,"level":1}
+{"ru":"сочувствие, сопереживание","bn":"সহানুভূতি","transcription":null,"level":1}
+{"ru":"невидимость","bn":"অদৃশ্যতা","transcription":null,"level":1}
+{"ru":"солидарность, единство","bn":"সংহতি","transcription":null,"level":1}
+{"ru":"гибкость","bn":"নমনীয়তা","transcription":null,"level":1}
+{"ru":"податливость","bn":"নমনীয়তা","transcription":null,"level":1}
+{"ru":"одиночество","bn":"একাকীত্ব","transcription":null,"level":1}
+{"ru":"уединение","bn":"একাকীত্ব","transcription":null,"level":1}
+{"ru":"важность, значимость, значение","bn":"গুরুত্ব","transcription":null,"level":1}
+{"ru":"вес, влияние, авторитет","bn":"গুরুত্ব","transcription":null,"level":1}
+{"ru":"серьёзность (положения, вопроса)","bn":"গুরুত্ব","transcription":null,"level":1}
+{"ru":"серьёзность, важность (положения, вопроса, характера)","bn":"গাম্ভীর্য","transcription":null,"level":1}
+{"ru":"степенность, сдержанность, важность (в манерах, поведении)","bn":"গাম্ভীর্য","transcription":null,"level":1}
+{"ru":"успех, удача","bn":"সাফল্য","transcription":null,"level":1}
+{"ru":"успешность, удачливость","bn":"সফলতা","transcription":null,"level":1}
+{"ru":"дружеский, дружественный","bn":"বন্ধুত্বপূর্ণ","transcription":null,"level":1}
+{"ru":"дружелюбный","bn":"বন্ধুত্বপূর্ণ","transcription":null,"level":1}
+{"ru":"продажа","bn":"বিক্রয়","transcription":null,"level":1}
+{"ru":"покупка, приобретение","bn":"ক্রয়","transcription":null,"level":1}
+{"ru":"ванна","bn":"বাথটব","transcription":null,"level":1}
+{"ru":"джакузи","bn":"জাকুজি","transcription":null,"level":1}
+{"ru":"метод, способ","bn":"পদ্ধতি","transcription":null,"level":1}
+{"ru":"процедура","bn":"পদ্ধতি","transcription":null,"level":1}
+{"ru":"система","bn":"পদ্ধতি","transcription":null,"level":1}
+{"ru":"процесс","bn":"প্রক্রিয়া","transcription":null,"level":1}
+{"ru":"процедура","bn":"প্রক্রিয়া","transcription":null,"level":1}
+{"ru":"механизм (действия)","bn":"প্রক্রিয়া","transcription":null,"level":1}
+{"ru":"операция","bn":"প্রক্রিয়া","transcription":null,"level":1}
+{"ru":"муз. мандолина","bn":"ম্যান্ডোলিন","transcription":null,"level":1}
+{"ru":"трусость, малодушие","bn":"কাপুরুষতা","transcription":null,"level":1}
+{"ru":"бесстрашие","bn":"নির্ভয়তা","transcription":null,"level":1}
+{"ru":"бесстрашие, неустрашимость","bn":"অকুতোভয়তা","transcription":null,"level":1}
+{"ru":"зрение","bn":"দৃষ্টি","transcription":null,"level":1}
+{"ru":"взгляд","bn":"দৃষ্টি","transcription":null,"level":1}
+{"ru":"внимание","bn":"দৃষ্টি","transcription":null,"level":1}
+{"ru":"видение, точка зрения","bn":"দৃষ্টি","transcription":null,"level":1}
+{"ru":"зрение; сила зрения; зрительная способность","bn":"দৃষ্টিশক্তি","transcription":null,"level":1}
+{"ru":"острота зрения","bn":"দৃষ্টিশক্তি","transcription":null,"level":1}
+{"ru":"пир, банкет, торжественный обед","bn":"ভোজ","transcription":null,"level":1}
+{"ru":"диктатура","bn":"একনায়কতন্ত্র","transcription":null,"level":1}
+{"ru":"социологический","bn":"সমাজতাত্ত্বিক","transcription":null,"level":1}
+{"ru":"филос. эстетика (наука о прекрасном, философия искусства)","bn":"নন্দনতত্ত্ব","transcription":null,"level":1}
+{"ru":"эстетика","bn":"সৌন্দর্যতত্ত্ব","transcription":null,"level":1}
+{"ru":"секретариат","bn":"সচিবালয়","transcription":null,"level":1}
+{"ru":"шутка","bn":"ঠাট্টা","transcription":null,"level":1}
+{"ru":"победитель","bn":"বিজয়ী","transcription":null,"level":1}
+{"ru":"победитель","bn":"গালিব","transcription":null,"level":1}
+{"ru":"спектроскопия","bn":"বর্ণালীবীক্ষণ","transcription":null,"level":1}
+{"ru":"фин. финансирование","bn":"অর্থায়ন","transcription":null,"level":1}
+{"ru":"мифол. Афродита","bn":"আফ্রোদিতি","transcription":null,"level":1}
+{"ru":"императрица","bn":"সম্রাজ্ঞী","transcription":null,"level":1}
+{"ru":"мифол. дракон","bn":"ড্রাগন","transcription":null,"level":1}
+{"ru":"экон. профицит","bn":"উদ্বৃত্ত","transcription":null,"level":1}
+{"ru":"противодействие","bn":"প্রতিহিংসা","transcription":null,"level":1}
+{"ru":"противодействие","bn":"বিরোধিতা","transcription":null,"level":1}
+{"ru":"консенсус, согласие","bn":"ঐকমত্য","transcription":null,"level":1}
+{"ru":"консенсус, согласие","bn":"কনসেনসাস","transcription":null,"level":1}
+{"ru":"ганский","bn":"ঘানায়ীয়","transcription":null,"level":1}
+{"ru":"психиатр. мегаломания","bn":"মেগালোম্যানিয়া","transcription":null,"level":1}
+{"ru":"чиновник, должностное лицо, служащий","bn":"কর্মকর্তা","transcription":null,"level":1}
+{"ru":"начальник, руководитель, инспектор","bn":"কর্মকর্তা","transcription":null,"level":1}
+{"ru":"чиновник, государственный служащий (обычно с оттенком бюрократизма)","bn":"আমলা","transcription":null,"level":1}
+{"ru":"глупость, дурость, тупость","bn":"বোকামি","transcription":null,"level":1}
+{"ru":"браслет","bn":"বালা","transcription":null,"level":1}
+{"ru":"браслет, браслет-кольцо (обычно жёсткий, круглый, часто стеклянный или металлический)","bn":"চুড়ি","transcription":null,"level":1}
+{"ru":"техн. магнетрон","bn":"ম্যাগনিট্রন","transcription":null,"level":1}
+{"ru":"неожиданность, непредвиденность, непредсказуемость","bn":"অপ্রত্যাশিততা","transcription":null,"level":1}
+{"ru":"случайность","bn":"অপ্রত্যাশিততা","transcription":null,"level":1}
+{"ru":"внезапность, неожиданность","bn":"আকস্মিকতা","transcription":null,"level":1}
+{"ru":"случайность","bn":"আকস্মিকতা","transcription":null,"level":1}
+{"ru":"разг. ягодицы, задница, попа, зад","bn":"পাছা","transcription":null,"level":1}
+{"ru":"книжн. ягодицы, зад, седалище","bn":"নিতম্ব","transcription":null,"level":1}
+{"ru":"педиатрия","bn":"শিশুচিকিৎসা","transcription":null,"level":1}
+{"ru":"композиция, сочинение, произведение","bn":"রচনা","transcription":null,"level":1}
+{"ru":"эссе, очерк","bn":"রচনা","transcription":null,"level":1}
+{"ru":"метла","bn":"ঝাড়ু","transcription":null,"level":1}
+{"ru":"сердце","bn":"হৃৎপিণ্ড","transcription":null,"level":1}
+{"ru":"общепринятый, традиционный, установленный обычаем; в ходу","bn":"রেওয়াজী","transcription":null,"level":1}
+{"ru":"культурный; цивилизационный","bn":"তামাদ্দুনিক","transcription":null,"level":1}
+{"ru":"обычай, традиция, установленный порядок, принятый порядок","bn":"রেওয়াজ","transcription":null,"level":1}
+{"ru":"символ, знак, эмблема; обозначение","bn":"প্রতীক","transcription":null,"level":1}
+{"ru":"сигнал, знак; символ, обозначение","bn":"সঙ্কেত","transcription":null,"level":1}
+{"ru":"условный знак; шифр, код","bn":"সঙ্কেত","transcription":null,"level":1}
+{"ru":"жест, знак; намёк","bn":"সঙ্কেত","transcription":null,"level":1}
+{"ru":"знак, символ, метка, обозначение","bn":"চিহ্ন","transcription":null,"level":1}
+{"ru":"отметина, пятно, след","bn":"চিহ্ন","transcription":null,"level":1}
+{"ru":"каталог","bn":"ক্যাটালগ","transcription":null,"level":1}
+{"ru":"Башкортостан, Башкирия","bn":"বাশকোরতোস্তান","transcription":null,"level":1}
+{"ru":"мозг; головной мозг","bn":"মগজ","transcription":null,"level":1}
+{"ru":"перен. ум, интеллект, рассудок","bn":"মগজ","transcription":null,"level":1}
+{"ru":"геометр. радиус","bn":"ব্যাসার্ধ","transcription":null,"level":1}
+{"ru":"протест, возражение, несогласие, оспаривание","bn":"এতেরাজ","transcription":null,"level":1}
+{"ru":"учёность, эрудиция, знание, просвещение, образование","bn":"এলেম","transcription":null,"level":1}
+{"ru":"экон. экспорт","bn":"রপ্তানি","transcription":null,"level":1}
+{"ru":"культурный, относящийся к культуре","bn":"সাংস্কৃতিক","transcription":null,"level":1}
+{"ru":"относящийся к обычаям; культурный","bn":"রসমী","transcription":null,"level":1}
+{"ru":"торговля, коммерция, бизнес, дело; предпринимательство","bn":"তেজারত","transcription":null,"level":1}
+{"ru":"сельское хозяйство","bn":"কৃষিকাজ","transcription":null,"level":1}
+{"ru":"сельское хозяйство, земледелие","bn":"কৃষিকার্য","transcription":null,"level":1}
+{"ru":"земледелие, фермерство, возделывание земли, сельское хозяйство, агрокультура","bn":"খেতি","transcription":null,"level":1}
+{"ru":"земледелие, фермерство, возделывание земли, сельское хозяйство","bn":"জেরাত","transcription":null,"level":1}
+{"ru":"каппа","bn":"কাপ্পা","transcription":null,"level":1}
+{"ru":"геогр. саванна","bn":"সাভানা","transcription":null,"level":1}
+{"ru":"радиология","bn":"রঞ্জনবিদ্যা","transcription":null,"level":1}
+{"ru":"импорт, ввоз","bn":"আমদানি","transcription":null,"level":1}
+{"ru":"Лейден","bn":"লাইডেন","transcription":null,"level":1}
+{"ru":"смертность (количество случаев смерти)","bn":"মৃত্যুহার","transcription":null,"level":1}
+{"ru":"лингв. фонетика","bn":"ধ্বনিবিজ্ঞান","transcription":null,"level":1}
+{"ru":"искусств. живопись","bn":"চিত্রাঙ্কন","transcription":null,"level":1}
+{"ru":"геол. месторождение, место рождения, родина","bn":"জন্মস্থান","transcription":null,"level":1}
+{"ru":"ринит, насморк","bn":"নাসাপ্রদাহ","transcription":null,"level":1}
+{"ru":"Сенегал","bn":"সেনেগাল","transcription":null,"level":1}
+{"ru":"хим. декан (углеводород)","bn":"ডেকেন","transcription":null,"level":1}
+{"ru":"хим. бутан, C₄H₁₀","bn":"বিউটেন","transcription":null,"level":1}
+{"ru":"честь, достоинство, почёт","bn":"ইজ্জত","transcription":null,"level":1}
+{"ru":"уважение, репутация, доброе имя","bn":"ইজ্জত","transcription":null,"level":1}
+{"ru":"гамбургер","bn":"হ্যামবার্গার","transcription":null,"level":1}
+{"ru":"повешение","bn":"ফাঁসি","transcription":null,"level":1}
+{"ru":"фарм. фармакокинетика","bn":"ঔষধসঞ্চরণবিজ্ঞান","transcription":null,"level":1}
+{"ru":"головная боль","bn":"মাথাব্যথা","transcription":null,"level":1}
+{"ru":"пагода","bn":"প্যাগোডা","transcription":null,"level":1}
+{"ru":"хим. пентан","bn":"পেন্টেন","transcription":null,"level":1}
+{"ru":"хим. гексан","bn":"হেক্সেন","transcription":null,"level":1}
+{"ru":"эмиграция","bn":"হিজরত","transcription":null,"level":1}
+{"ru":"изумруд","bn":"পান্না","transcription":null,"level":1}
+{"ru":"гимнастика","bn":"জিমন্যাস্টিকস","transcription":null,"level":1}
+{"ru":"анат. щитовидная железа","bn":"থাইরয়েড","transcription":null,"level":1}
+{"ru":"анат. предстательная железа, простата","bn":"প্রোস্টেট","transcription":null,"level":1}
+{"ru":"полит. империализм","bn":"সাম্রাজ্যবাদ","transcription":null,"level":1}
+{"ru":"астрон. протозвезда","bn":"আদ্যনক্ষত্র","transcription":null,"level":1}
+{"ru":"физ. абсолютно чёрное тело","bn":"কৃষ্ণবস্তু","transcription":null,"level":1}
+{"ru":"физ. поверхностное натяжение","bn":"পৃষ্ঠটান","transcription":null,"level":1}
+{"ru":"физ. намагниченность","bn":"চুম্বকায়ন","transcription":null,"level":1}
+{"ru":"матем. производная (функции)","bn":"অন্তরজ","transcription":null,"level":1}
+{"ru":"индийский","bn":"ভারতীয়","transcription":null,"level":1}
+{"ru":"геометр. периметр","bn":"পরিসীমা","transcription":null,"level":1}
+{"ru":"сексол. оральный секс","bn":"মুখমৈথুন","transcription":null,"level":1}
+{"ru":"сексол. половой акт","bn":"যৌনসঙ্গম","transcription":null,"level":1}
+{"ru":"сексол. анальный секс","bn":"পায়ুসঙ্গম","transcription":null,"level":1}
+{"ru":"порошок","bn":"চূর্ণ","transcription":null,"level":1}
+{"ru":"геогр. Корея","bn":"কোরিয়া","transcription":null,"level":1}
+{"ru":"азартная игра","bn":"জুয়া","transcription":null,"level":1}
+{"ru":"покер (карточная игра)","bn":"পোকার","transcription":null,"level":1}
+{"ru":"неумение, неловкость, отсутствие навыка","bn":"অকৌশল","transcription":null,"level":1}
+{"ru":"ссора, вражда, неприязнь, разлад","bn":"অকৌশল","transcription":null,"level":1}
+{"ru":"здравоохранение","bn":"স্বাস্থ্যসেবা","transcription":null,"level":1}
+{"ru":"Баден-Вюртемберг","bn":"বাডেন-ভুর্টেমবের্গ","transcription":null,"level":1}
+{"ru":"Бавария","bn":"বাভারিয়া","transcription":null,"level":1}
+{"ru":"физиол. тестостерон","bn":"টেস্টোস্টেরন","transcription":null,"level":1}
+{"ru":"сходство","bn":"সাদৃশ্য","transcription":null,"level":1}
+{"ru":"диван, софа","bn":"সোফা","transcription":null,"level":1}
+{"ru":"мед. гипергидроз","bn":"অতিঘর্মণ","transcription":null,"level":1}
+{"ru":"Кения","bn":"কেনিয়া","transcription":null,"level":1}
+{"ru":"хим. дейтерий","bn":"ডিউটেরিয়াম","transcription":null,"level":1}
+{"ru":"Аравия","bn":"আরব","transcription":null,"level":1}
+{"ru":"физ., хим. фазовая диаграмма","bn":"দশাচিত্র","transcription":null,"level":1}
+{"ru":"хим. коперниций","bn":"কোপার্নিসিয়াম","transcription":null,"level":1}
+{"ru":"хим. унунбий, коперниций","bn":"ইউনুনবিয়াম","transcription":null,"level":1}
+{"ru":"информ. метапрограммирование","bn":"মেটাপ্রোগ্রামিং","transcription":null,"level":1}
+{"ru":"Кипр","bn":"সাইপ্রাস","transcription":null,"level":1}
+{"ru":"хим. оганесон","bn":"ওগানেসন","transcription":null,"level":1}
+{"ru":"хим. стереохимия","bn":"স্টেরিওরসায়ন","transcription":null,"level":1}
+{"ru":"биол. оплодотворение","bn":"নিষিক্তকরণ","transcription":null,"level":1}
+{"ru":"мед. тромбоцитопения","bn":"থ্রম্বোসাইটোপেনিয়া","transcription":null,"level":1}
+{"ru":"анат. иммунная система","bn":"অনাক্রম্যতন্ত্র","transcription":null,"level":1}
+{"ru":"анат. нервная система","bn":"স্নায়ুতন্ত্র","transcription":null,"level":1}
+{"ru":"гистол. микроглия","bn":"মাইক্রোগ্লিয়া","transcription":null,"level":1}
+{"ru":"робототехника","bn":"রোবটিক্স","transcription":null,"level":1}
+{"ru":"штрихкод","bn":"বারকোড","transcription":null,"level":1}
+{"ru":"физ. джоуль","bn":"জুল","transcription":null,"level":1}
+{"ru":"геол. вулканизм","bn":"অগ্ন্যুৎপাত","transcription":null,"level":1}
+{"ru":"физ. вольт","bn":"ভোল্ট","transcription":null,"level":1}
+{"ru":"театральный режиссёр","bn":"নির্দেশক","transcription":null,"level":1}
+{"ru":"кристаллография","bn":"কেলাসবিজ্ঞান","transcription":null,"level":1}
+{"ru":"геология","bn":"ভূতত্ত্ব","transcription":null,"level":1}
+{"ru":"хим. иттербий","bn":"ইটারবিয়াম","transcription":null,"level":1}
+{"ru":"микробиол. пиноцитоз","bn":"পিনোসাইটোসিস","transcription":null,"level":1}
+{"ru":"цитол. фагоцитоз","bn":"ফ্যাগোসাইটোসিস","transcription":null,"level":1}
+{"ru":"архитектура","bn":"স্থাপত্য","transcription":null,"level":1}
+{"ru":"шельф, континентальный шельф, материковая отмель","bn":"মহীসোপান","transcription":null,"level":1}
+{"ru":"астрон. комета","bn":"ধূমকেতু","transcription":null,"level":1}
+{"ru":"геол. суперконтинент","bn":"অতিমহাদেশ","transcription":null,"level":1}
+{"ru":"инженерия","bn":"প্রকৌশল","transcription":null,"level":1}
+{"ru":"геогр. Зимбабве","bn":"জিম্বাবুয়ে","transcription":null,"level":1}
+{"ru":"геогр. Ботсвана","bn":"বতসোয়ানা","transcription":null,"level":1}
+{"ru":"полит., религ. джихадизм","bn":"জিহাদবাদ","transcription":null,"level":1}
+{"ru":"береговая охрана","bn":"উপকূলরক্ষী","transcription":null,"level":1}
+{"ru":"хим. аммиак","bn":"অ্যামোনিয়া","transcription":null,"level":1}
+{"ru":"султанат, королевство, царство","bn":"সালতানাত","transcription":null,"level":1}
+{"ru":"Америка","bn":"মার্কিন","transcription":null,"level":1}
+{"ru":"пригород, предместье","bn":"শহরতলি","transcription":null,"level":1}
+{"ru":"расизм","bn":"বর্ণবাদ","transcription":null,"level":1}
+{"ru":"геогр. Канберра","bn":"ক্যানবেরা","transcription":null,"level":1}
+{"ru":"минер. кальцит","bn":"ক্যালসাইট","transcription":null,"level":1}

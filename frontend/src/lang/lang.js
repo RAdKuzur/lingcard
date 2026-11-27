@@ -27,6 +27,9 @@ import {da} from "./packages/da.js";
 import {ga} from "./packages/ga.js";
 import {fi} from "./packages/fi.js";
 import {pl} from "./packages/pl.js";
+import {bn} from "./packages/bn.js";
+import {th} from "./packages/th.js";
+import {vi} from "./packages/vi.js";
 
 export function getText(label) {
     return label ?? "";
@@ -65,6 +68,9 @@ export function init() {
         case 'da': return da;
         case 'ga': return ga;
         case 'pl': return pl;
+        case 'bn': return bn;
+        case 'th': return th;
+        case 'vi': return vi;
         default: return en;
     }
 }
@@ -101,6 +107,9 @@ export const languageOptions = [
     { name: 'Norsk', flag: '/flags/no.svg', value: 'no' },
     { name: 'Dansk', flag: '/flags/da.svg', value: 'da' },
     { name: 'Suomi', flag: '/flags/fi.svg', value: 'fi' },
+    { name: 'বাংলা', flag: '/flags/bn.svg', value: 'bn' },
+    { name: 'ไทย', flag: '/flags/th.svg', value: 'th' },
+    { name: 'Tiếng Việt', flag: '/flags/vi.svg', value: 'vi' }
 ];
 
 export function getLabel(label) {
