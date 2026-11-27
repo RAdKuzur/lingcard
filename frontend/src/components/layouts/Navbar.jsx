@@ -202,25 +202,32 @@ export default function Navbar() {
                                 </button>
 
                                 {isLanguageDropdownOpen && (
-                                    <div className="absolute right-0 mt-1 min-w-[160px] bg-white
-                                                  border border-slate-200 rounded-lg shadow-lg
-                                                  py-1 z-50 animate-fadeIn">
+                                    <div className="absolute right-0 mt-1 bg-white
+                                           border border-slate-200 rounded-lg shadow-lg
+                                           py-1 z-50 animate-fadeIn
+                                           max-h-[70vh] overflow-y-auto
+                                           grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4
+                                           gap-x-1 min-w-[280px] md:min-w-[420px] lg:min-w-[560px]"
+                                    >
                                         {languageOptions.map((lang) => (
                                             <button
                                                 key={lang.value}
                                                 onClick={() => handleLanguageChange(lang.value)}
-                                                className="w-full flex items-center gap-3 px-4 py-2
-                                                         text-sm text-slate-700 hover:bg-indigo-50
-                                                         transition-colors duration-150"
-                                            >
+                                                className="flex items-center gap-2 px-3 py-2
+                                                   text-sm text-slate-700 hover:bg-indigo-50
+                                                   transition-colors duration-150
+                                                   text-left min-w-0 cursor-pointer"
+                                                >
                                                 <img
                                                     src={lang.flag}
                                                     alt={lang.name}
-                                                    className="w-5 h-5 rounded-sm object-cover"
+                                                    className="w-5 h-5 rounded-sm object-cover flex-shrink-0"
                                                 />
-                                                <span>{lang.name}</span>
+                                                <span className="truncate">{lang.name}</span>
                                                 {lang.value === currentLang && (
-                                                    <Choose/>
+                                                    <span className="ml-auto flex-shrink-0">
+                                                        <Choose />
+                                                    </span>
                                                 )}
                                             </button>
                                         ))}
