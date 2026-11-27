@@ -20,6 +20,13 @@ import {mn} from "./packages/mn.js";
 import {hi} from "./packages/hi.js";
 import {ur} from "./packages/ur.js";
 import {he} from "./packages/he.js";
+import {it} from "./packages/it.js";
+import {no} from "./packages/no.js";
+import {sv} from "./packages/sv.js";
+import {da} from "./packages/da.js";
+import {ga} from "./packages/ga.js";
+import {fi} from "./packages/fi.js";
+import {pl} from "./packages/pl.js";
 
 export function getText(label) {
     return label ?? "";
@@ -51,6 +58,13 @@ export function init() {
         case 'hi': return hi;
         case 'ur': return ur;
         case 'he': return he;
+        case 'it': return it;
+        case 'fi': return fi;
+        case 'no': return no;
+        case 'sv': return sv;
+        case 'da': return da;
+        case 'ga': return ga;
+        case 'pl': return pl;
         default: return en;
     }
 }
@@ -80,6 +94,13 @@ export const languageOptions = [
     { name: 'हिन्दी', flag: '/flags/hi.svg', value: 'hi' },
     { name: 'اردو', flag: '/flags/ur.svg', value: 'ur' },
     { name: 'עברית', flag: '/flags/he.svg', value: 'he' },
+    { name: 'Italiano', flag: '/flags/it.svg', value: 'it' },
+    { name: 'Gaeilge', flag: '/flags/ga.svg', value: 'ga' },
+    { name: 'Polski', flag: '/flags/pl.svg', value: 'pl' },
+    { name: 'Svenska', flag: '/flags/sv.svg', value: 'sv' },
+    { name: 'Norsk', flag: '/flags/no.svg', value: 'no' },
+    { name: 'Dansk', flag: '/flags/da.svg', value: 'da' },
+    { name: 'Suomi', flag: '/flags/fi.svg', value: 'fi' },
 ];
 
 export function getLabel(label) {

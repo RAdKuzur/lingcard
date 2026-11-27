@@ -46,7 +46,8 @@ class TransformWikiDataCommand extends Command
                     foreach ($word->senses as $sense) {
                         if (isset($sense->glosses)) {
                             foreach ($sense->glosses as $gloss) {
-                                if ($word->pos === 'noun' || $word->pos === 'verb' || $word->pos === 'adj' || $word->pos === 'adv' || $word->pos === 'num' || $word->pos === 'pron') {
+                                if (($word->pos === 'noun' || $word->pos === 'verb' || $word->pos === 'adj' || $word->pos === 'adv' || $word->pos === 'num' || $word->pos === 'pron') &&
+                                mb_strlen($word->word) < 200 && mb_strlen($gloss) < 200) {
                                     $json = json_encode([
                                         $languages[0] => $word->word,
                                     ], JSON_UNESCAPED_UNICODE);
