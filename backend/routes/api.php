@@ -18,10 +18,10 @@ use App\Http\Middleware\StatMiddleware;
 use App\Http\Middleware\VisitMiddleware;
 use Illuminate\Support\Facades\Route;
 
-Route::middleware([])->group(function () {
+Route::middleware(['throttle:api'])->group(function () {
     Route::get('/metrics', [TelemetryController::class, 'metrics'])->name('metrics');
     Route::post('/auth/broadcasting', [AuthController::class, 'broadcast'])->name('auth.broadcasting');
-    Route::group([], function () {
+    Route::group(['middleware' => VisitMiddleware::class], function () {
         Route::get('/languages', [LanguageController::class, 'all'])->name('languages');
         Route::get('/active-languages', [LanguageController::class, 'allActive'])->name('active-languages');
         Route::get('/except-languages/{id}', [LanguageController::class, 'exceptLanguage'])->name('except-language');
@@ -36,7 +36,7 @@ Route::middleware([])->group(function () {
         Route::get('/posts/{code?}', [PostController::class, 'all'])->name('posts');
         Route::get('/packages/{code}', [WordController::class, 'package'])->name('packages');
         Route::group(['middleware' => AuthMiddleware::class], function () {
-            Route::group([], function () {
+            Route::group(['middleware' => StatMiddleware::class], function () {
                 Route::get('/articles/{id}', [PostController::class, 'one'])->name('article');
                 Route::post('/posts/{postId}/comments', [PostController::class, 'createComment'])->name('create-comment');
                 Route::post('/posts', [PostController::class, 'create'])->name('create');

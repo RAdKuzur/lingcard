@@ -19,6 +19,7 @@ import {uz} from "./packages/uz.js";
 import {mn} from "./packages/mn.js";
 import {hi} from "./packages/in.js";
 import {pk} from "./packages/pk.js";
+import {il} from "./packages/il.js";
 
 export function getText(label) {
     return label ?? ""
@@ -69,6 +70,8 @@ export function init() {
             return hi;
         case 'pk':
             return pk;
+        case 'il':
+            return il;
         default:
             return en;
     }
@@ -98,6 +101,7 @@ export const languageOptions = [
     { name: 'Lietuvių', flag: '/flags/lt.svg', value: 'lt' },
     { name: 'हिन्दी', flag: '/flags/in.svg', value: 'in' },
     { name: 'اردو', flag: '/flags/pk.svg', value: 'pk' },
+    { name: 'עברית', flag: '/flags/il.svg', value: 'il' },
 ];
 
 export function getLabel(label) {
