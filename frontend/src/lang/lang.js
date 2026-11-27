@@ -30,7 +30,16 @@ import {pl} from "./packages/pl.js";
 import {bn} from "./packages/bn.js";
 import {th} from "./packages/th.js";
 import {vi} from "./packages/vi.js";
-
+import {az} from "./packages/az.js";
+import {ba} from "./packages/ba.js";
+import {ky} from "./packages/ky.js";
+import {tt} from "./packages/tt.js";
+import {tyv} from "./packages/tyv.js";
+import {tr} from "./packages/tr.js";
+import {tk} from "./packages/tk.js";
+import {ug} from "./packages/ug.js";
+import {cv} from "./packages/cv.js";
+import {sah} from "./packages/sah.js";
 export function getText(label) {
     return label ?? "";
 }
@@ -71,6 +80,16 @@ export function init() {
         case 'bn': return bn;
         case 'th': return th;
         case 'vi': return vi;
+        case 'az': return az;
+        case 'ba': return ba;
+        case 'ky': return ky;
+        case 'tt': return tt;
+        case 'tyv': return tyv;
+        case 'tr': return tr;
+        case 'tk': return tk;
+        case 'ug': return ug;
+        case 'cv': return cv;
+        case 'sah': return sah;
         default: return en;
     }
 }
@@ -109,7 +128,17 @@ export const languageOptions = [
     { name: 'Suomi', flag: '/flags/fi.svg', value: 'fi' },
     { name: 'বাংলা', flag: '/flags/bn.svg', value: 'bn' },
     { name: 'ไทย', flag: '/flags/th.svg', value: 'th' },
-    { name: 'Tiếng Việt', flag: '/flags/vi.svg', value: 'vi' }
+    { name: 'Tiếng Việt', flag: '/flags/vi.svg', value: 'vi' },
+    { name: 'Azərbaycanca', flag: '/flags/az.svg', value: 'az' },
+    { name: 'Башҡортса', flag: '/flags/ba.svg', value: 'ba' },
+    { name: 'Кыргызча', flag: '/flags/ky.svg', value: 'ky' },
+    { name: 'Татарча', flag: '/flags/tt.svg', value: 'tt' },
+    { name: 'Тыва дыл', flag: '/flags/tyv.svg', value: 'tyv' },
+    { name: 'Türkçe', flag: '/flags/tr.svg', value: 'tr' },
+    { name: 'Türkmençe', flag: '/flags/tk.svg', value: 'tk' },
+    { name: 'ئۇيغۇرچە', flag: '/flags/ug.svg', value: 'ug' },
+    { name: 'Чӑвашла', flag: '/flags/cv.svg', value: 'cv' },
+    { name: 'Саха тыла', flag: '/flags/sah.svg', value: 'sah' }
 ];
 
 export function getLabel(label) {
