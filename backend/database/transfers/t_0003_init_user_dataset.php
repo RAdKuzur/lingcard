@@ -13,7 +13,7 @@ return new class {
             'password' => Hash::make('password'),
             'name' => 'LingCard',
             'base_language_id' => DB::table('languages')->where('code', 'ru')->first()->id,
-            'target_language_id' => DB::table('languages')->where('code', 'kz')->first()->id,
+            'target_language_id' => DB::table('languages')->where('code', 'kk')->first()->id,
             'role' => RoleDictionary::ADMIN,
             'is_banned' => false
         ]);

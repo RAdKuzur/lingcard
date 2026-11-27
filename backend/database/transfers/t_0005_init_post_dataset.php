@@ -8,17 +8,18 @@ return new class {
     public const string NAME = 't_0005_init_post_dataset';
     public function up() {
         $userId = DB::table('users')->where(['name' => 'LingCard'])->first()->id;
+
         $ruLangId = DB::table('languages')->where(['code' => 'ru'])->first()->id;
         $enLangId = DB::table('languages')->where(['code' => 'en'])->first()->id;
-        $kzLangId = DB::table('languages')->where(['code' => 'kz'])->first()->id;
+        $kzLangId = DB::table('languages')->where(['code' => 'kk'])->first()->id;
         $esLangId = DB::table('languages')->where(['code' => 'es'])->first()->id;
         $frLangId = DB::table('languages')->where(['code' => 'fr'])->first()->id;
         $deLangId = DB::table('languages')->where(['code' => 'de'])->first()->id;
         $ptLangId = DB::table('languages')->where(['code' => 'pt'])->first()->id;
-        $zhLangId = DB::table('languages')->where(['code' => 'cn'])->first()->id;
-        $jaLangId = DB::table('languages')->where(['code' => 'jp'])->first()->id;
-        $koLangId = DB::table('languages')->where(['code' => 'kr'])->first()->id;
-        $arLangId = DB::table('languages')->where(['code' => 'sa'])->first()->id;
+        $zhLangId = DB::table('languages')->where(['code' => 'zh'])->first()->id;
+        $jaLangId = DB::table('languages')->where(['code' => 'ja'])->first()->id;
+        $koLangId = DB::table('languages')->where(['code' => 'ko'])->first()->id;
+        $arLangId = DB::table('languages')->where(['code' => 'ar'])->first()->id;
 
         $posts = [
             [

@@ -7,17 +7,17 @@ return new class {
     public const string NAME = 't_0002_init_word_dataset';
     public function up() {
         $codes = [
-            'ru' => ['kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
-            'kz' => ['ru', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
-            'en' => ['ru', 'kz', 'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
-            'fr' => ['ru', 'kz', 'en' ,'cn', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
-            'cn' => ['ru', 'kz', 'en' ,'fr', 'de', 'es', 'jp', 'kr', 'pt', 'sa'],
-            'de' => ['ru', 'kz', 'en' ,'fr', 'cn', 'es', 'jp', 'kr', 'pt', 'sa'],
-            'es' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'jp', 'kr', 'pt', 'sa'],
-            'jp' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'es', 'kr', 'pt', 'sa'],
-            'kr' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'pt', 'sa'],
-            'pt' => ['ru', 'kz', 'en' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'sa'],
-            'sa' => ['ru', 'kz' ,'fr', 'cn', 'de', 'es', 'jp', 'kr', 'pt']
+            'ru' => ['kk', 'en', 'fr', 'zh', 'de', 'es', 'ja', 'ko', 'pt', 'ar'],
+            'kk' => ['ru', 'en', 'fr', 'zh', 'de', 'es', 'ja', 'ko', 'pt', 'ar'],
+            'en' => ['ru', 'kk', 'fr', 'zh', 'de', 'es', 'ja', 'ko', 'pt', 'ar'],
+            'fr' => ['ru', 'kk', 'en', 'zh', 'de', 'es', 'ja', 'ko', 'pt', 'ar'],
+            'zh' => ['ru', 'kk', 'en', 'fr', 'de', 'es', 'ja', 'ko', 'pt', 'ar'],
+            'de' => ['ru', 'kk', 'en', 'fr', 'zh', 'es', 'ja', 'ko', 'pt', 'ar'],
+            'es' => ['ru', 'kk', 'en', 'fr', 'zh', 'de', 'ja', 'ko', 'pt', 'ar'],
+            'ja' => ['ru', 'kk', 'en', 'fr', 'zh', 'de', 'es', 'ko', 'pt', 'ar'],
+            'ko' => ['ru', 'kk', 'en', 'fr', 'zh', 'de', 'es', 'ja', 'pt', 'ar'],
+            'pt' => ['ru', 'kk', 'en', 'fr', 'zh', 'de', 'es', 'ja', 'ko', 'ar'],
+            'ar' => ['ru', 'kk', 'fr', 'zh', 'de', 'es', 'ja', 'ko', 'pt'],
         ];
         foreach ($codes as $code => $languages) {
             foreach ($languages as $language) {
