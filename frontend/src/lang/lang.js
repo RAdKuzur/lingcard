@@ -40,6 +40,12 @@ import {tk} from "./packages/tk.js";
 import {ug} from "./packages/ug.js";
 import {cv} from "./packages/cv.js";
 import {sah} from "./packages/sah.js";
+import {el} from "./packages/el.js";
+import {tg} from "./packages/tg.js";
+import {sr} from "./packages/sr.js";
+import {hu} from "./packages/hu.js";
+import {is} from "./packages/is.js";
+import {fa} from "./packages/fa.js";
 export function getText(label) {
     return label ?? "";
 }
@@ -90,6 +96,12 @@ export function init() {
         case 'ug': return ug;
         case 'cv': return cv;
         case 'sah': return sah;
+        case 'el': return el;
+        case 'tg': return tg;
+        case 'sr': return sr;
+        case 'hu': return hu;
+        case 'is': return is;
+        case 'fa': return fa;
         default: return en;
     }
 }
@@ -138,7 +150,13 @@ export const languageOptions = [
     { name: 'Türkmençe', flag: '/flags/tk.svg', value: 'tk' },
     { name: 'ئۇيغۇرچە', flag: '/flags/ug.svg', value: 'ug' },
     { name: 'Чӑвашла', flag: '/flags/cv.svg', value: 'cv' },
-    { name: 'Саха тыла', flag: '/flags/sah.svg', value: 'sah' }
+    { name: 'Саха тыла', flag: '/flags/sah.svg', value: 'sah' },
+    { name: 'Ελληνικά', flag: '/flags/el.svg', value: 'el' },
+    { name: 'Тоҷикӣ', flag: '/flags/tg.svg', value: 'tg' },
+    { name: 'Српски', flag: '/flags/sr.svg', value: 'sr' },
+    { name: 'Magyar', flag: '/flags/hu.svg', value: 'hu' },
+    { name: 'íslenska', flag: '/flags/is.svg', value: 'is' },
+    { name: 'فارسی', flag: '/flags/fa.svg', value: 'fa' },
 ];
 
 export function getLabel(label) {
